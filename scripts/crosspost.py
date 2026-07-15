@@ -142,6 +142,23 @@ def pp_wait_ingest(pid, tries=20):
         time.sleep(15)
     return True  # segue mesmo assim; PostProxy costuma ter a cópia
 
+def pp_link(pid, net, tries=5):
+    """Pega o link publicado; converte FB reel->watch (que funciona p/ vídeo longo)."""
+    for _ in range(tries):
+        try:
+            req = urllib.request.Request(f"https://api.postproxy.dev/api/posts/{pid}",
+                    headers={"Authorization": f"Bearer {PP_KEY}"})
+            p = (json.load(urllib.request.urlopen(req)).get("platforms") or [{}])[0]
+            link = p.get("permalink")
+            if link:
+                if net == "facebook":
+                    m = re.search(r'/(\d{6,})', link)
+                    if m: return f"https://facebook.com/watch/?v={m.group(1)}"
+                return link
+        except Exception: pass
+        time.sleep(10)
+    return None
+
 def telegram(msg):
     if not (TG_TOKEN and TG_CHAT): return
     try:
@@ -176,10 +193,11 @@ def main():
             pid = r.get("id")
             pp_wait_ingest(pid)
             cleanup(vid)
-            v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid}
+            link = pp_link(pid, net) or ""
+            v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
             json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
-            telegram(f"✅ Postei no {net}: {v['title'][:60]} (id {pid})")
-            log(f"OK {net} <- {vid} (post {pid})")
+            telegram(f"✅ Postei no {net}: {v['title'][:60]}\n{link}".strip())
+            log(f"OK {net} <- {vid} (post {pid}) {link}")
             done += 1
         except Exception as e:
             log(f"ERRO {net} {vid}: {e}"); telegram(f"⚠️ Falha ao postar {v['title'][:40]} no {net}: {e}")
