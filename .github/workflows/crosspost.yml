@@ -1,0 +1,43 @@
+name: crosspost
+on:
+  schedule:
+    - cron: '17 0 * * 2,4,6'   # Ter/Qui/Sab 00:17 UTC = Seg/Qua/Sex ~21h BRT
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'modo seco (1 = nao posta, so lista)'
+        default: '1'
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: instalar ferramentas
+        run: |
+          python -m pip install -U yt-dlp >/dev/null
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: rodar robo
+        env:
+          DRY_RUN: ${{ inputs.dry_run || '0' }}
+          POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TMP_DIR: /tmp/xp
+          START_DATE: '2026-07-15'
+          MAX_PER_RUN: '1'
+          MONTH_CAP: '9'
+        run: python scripts/crosspost.py
+      - name: salvar ledger atualizado
+        run: |
+          git config user.name "crosspost-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add ledger.json
+          git commit -m "ledger: atualizado pelo robo [skip ci]" || echo "sem mudanca"
+          git push || echo "push skip"
