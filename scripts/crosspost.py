@@ -24,6 +24,8 @@ REPO       = os.environ.get("MEDIA_REPO", "murilolacerdamoraess-crypto/mano-preg
 START_DATE = os.environ.get("START_DATE", "2026-07-15")   # TikTok/IG só postam >= isto
 MAX_RUN    = int(os.environ.get("MAX_PER_RUN", "1"))
 MONTH_CAP  = int(os.environ.get("MONTH_CAP", "9"))   # teto p/ não estourar os 10/mês do PostProxy grátis
+MODE       = os.environ.get("MODE", "post")          # "post" (nuvem) ou "prehost" (Mac: baixa+hospeda)
+PREHOST_N  = int(os.environ.get("PREHOST_N", "5"))
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
 HERE       = os.path.dirname(os.path.abspath(__file__))
@@ -110,6 +112,17 @@ def host(vid, title):
                    stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     return f"https://github.com/{REPO}/releases/download/{vid}/{vid}.mp4"
 
+def hosted_url(vid):
+    """Retorna a URL pública se o vídeo JÁ está hospedado no GitHub Releases, senão None."""
+    url = f"https://github.com/{REPO}/releases/download/{vid}/{vid}.mp4"
+    try:
+        urllib.request.urlopen(urllib.request.Request(url, method="HEAD", headers=UA), timeout=25)
+        return url
+    except urllib.error.HTTPError as e:
+        return url if e.code in (200, 302, 403) else None   # 403 = asset existe mas exige range; ok
+    except Exception:
+        return None
+
 def cleanup(vid):
     subprocess.run(["gh", "release", "delete", vid, "--repo", REPO, "--yes", "--cleanup-tag"],
                    check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -170,6 +183,23 @@ def telegram(msg):
 def main():
     led, new = update_ledger()
     todo = build_todo(led)
+
+    if MODE == "prehost":   # roda no Mac (IP residencial): baixa+hospeda o próximo lote
+        log(f"[PREHOST] novos: {new} | fila: {len(todo)} | hospedar até {PREHOST_N} não-hospedados")
+        seen, hosted = set(), 0
+        for prio, negv, vid, net in todo:
+            if hosted >= PREHOST_N: break
+            if vid in seen: continue
+            seen.add(vid)
+            if hosted_url(vid): log(f"   já hospedado: {vid}"); continue
+            try:
+                host(vid, led["videos"][vid]["title"])
+                log(f"   ✔ hospedado: {vid} | {led['videos'][vid]['title'][:45]}"); hosted += 1
+            except Exception as e:
+                log(f"   ✗ erro host {vid}: {e}")
+        log(f"prehost feito: {hosted} vídeo(s) na prateleira.")
+        return
+
     month = datetime.date.today().strftime("%Y-%m")
     posted_month = sum(1 for v in led["videos"].values() for n in PROFILES
                        if v["posted"][n]["done"] and (v["posted"][n]["date"] or "").startswith(month))
@@ -187,8 +217,10 @@ def main():
     for prio, negv, vid, net in todo:
         if done >= limit: break
         v = led["videos"][vid]
+        url = hosted_url(vid)
+        if not url:
+            log(f"pular {vid}: ainda não hospedado (rodar prehost no Mac)"); continue
         try:
-            url = host(vid, v["title"])
             r = pp_post(net, url, caption(v))
             pid = r.get("id")
             pp_wait_ingest(pid)
