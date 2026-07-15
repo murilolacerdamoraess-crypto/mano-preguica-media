@@ -5,7 +5,7 @@
    "seconds": 97,
    "type": "vertical",
    "published": "2026-07-14",
-   "views": 3485,
+   "views": 3458,
    "posted": {
     "tiktok": {
      "done": false,
@@ -4017,9 +4017,9 @@
      "post_id": "7591158157787876664"
     },
     "facebook": {
-     "done": false,
-     "date": null,
-     "post_id": null
+     "done": true,
+     "date": "2026-07-15",
+     "post_id": "metricool-19h"
     },
     "instagram": {
      "done": true,
