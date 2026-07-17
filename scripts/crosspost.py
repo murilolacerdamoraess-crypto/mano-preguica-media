@@ -28,6 +28,7 @@ MODE       = os.environ.get("MODE", "post")          # "post" (nuvem) ou "prehos
 PREHOST_N  = int(os.environ.get("PREHOST_N", "5"))
 ONLY_VIDEO = os.environ.get("ONLY_VIDEO", "").strip() # override manual: posta SÓ este vídeo
 ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede (ex.: teste de longo no tiktok)
+SCHEDULE_AT= os.environ.get("SCHEDULE_AT", "").strip() # ...opcional: agenda p/ ISO8601 UTC (ex.: 2026-07-18T00:00:00Z)
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
 HERE       = os.path.dirname(os.path.abspath(__file__))
@@ -80,7 +81,7 @@ def update_ledger():
 
 # ---------- decidir o que postar ----------
 def fits(net, v):
-    if net == "tiktok":    return v["type"] == "vertical" or (v["type"] == "long" and v["seconds"] <= 3600)  # longo PROVADO no TikTok (Archon 13:18 postou ok 2026-07-17); teto 60min = limite da plataforma
+    if net == "tiktok":    return v["type"] == "vertical"   # SÓ curto no auto. Longo no TikTok ainda em validação (Archon publicou mas não sabemos se performa) -> longo vai só pro Facebook por ora; testar longo é manual
     if net == "instagram": return v["type"] == "vertical"           # IG = vertical (Reel)
     if net == "facebook":  return True
     return False
@@ -139,8 +140,10 @@ def platforms_block(net):
     if net == "tiktok":    return {"tiktok": {"privacy_status": "PUBLIC_TO_EVERYONE"}}
     if net == "instagram": return {"instagram": {"format": "reel"}}
 
-def pp_post(net, url, text):
-    body = json.dumps({"post": {"body": text}, "profiles": [PROFILES[net]],
+def pp_post(net, url, text, scheduled_at=""):
+    post = {"body": text}
+    if scheduled_at: post["scheduled_at"] = scheduled_at   # ISO8601 UTC -> PostProxy publica no horário, off-PC
+    body = json.dumps({"post": post, "profiles": [PROFILES[net]],
                        "media": [url], "platforms": platforms_block(net)}).encode()
     req = urllib.request.Request("https://api.postproxy.dev/api/posts", data=body,
             headers={"Authorization": f"Bearer {PP_KEY}", "Content-Type": "application/json"})
@@ -182,28 +185,45 @@ def telegram(msg):
     except Exception as e: log("telegram err", e)
 
 # ---------- main ----------
-def post_one(led, vid, net):
-    """Posta UM vídeo específico numa rede (override manual). Marca o ledger. Sem cap."""
+def record_schedule(vid, net, title, scheduled_at):
+    """Anota um post agendado no schedule.json (fonte da 'programação' do RotinaOS)."""
+    path = os.path.join(os.path.dirname(LEDGER), "schedule.json")
+    try: sched = json.load(open(path))
+    except Exception: sched = []
+    sched = [s for s in sched if not (s.get("vid") == vid and s.get("net") == net)]
+    sched.append({"vid": vid, "net": net, "title": title, "scheduled_at": scheduled_at})
+    json.dump(sched, open(path, "w"), ensure_ascii=False, indent=1)
+
+def post_one(led, vid, net, scheduled_at=""):
+    """Posta/agenda UM vídeo específico numa rede (override manual). Marca o ledger. Sem cap."""
     v = led["videos"][vid]
     url = hosted_url(vid)
     if not url:
         log(f"MANUAL {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return
     if DRY:
-        log(f"[DRY] manual {net} <- {vid} | {v['title'][:50]}"); return
-    r = pp_post(net, url, caption(v)); pid = r.get("id")
+        log(f"[DRY] manual {net} <- {vid} | {v['title'][:50]} | quando={scheduled_at or 'agora'}"); return
+    r = pp_post(net, url, caption(v), scheduled_at); pid = r.get("id")
     pp_wait_ingest(pid); cleanup(vid)
-    link = pp_link(pid, net) or ""
-    v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
+    when = scheduled_at or datetime.date.today().isoformat()
+    v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": ""}
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
-    telegram(f"✅ (manual) Postei no {net}: {v['title'][:60]}\n{link}".strip())
-    log(f"OK MANUAL {net} <- {vid} (post {pid}) {link}")
+    if scheduled_at:
+        record_schedule(vid, net, v["title"], scheduled_at)
+        telegram(f"🗓️ Agendado no {net} p/ {scheduled_at} (UTC): {v['title'][:60]}")
+        log(f"OK MANUAL AGENDADO {net} <- {vid} (post {pid}) @ {scheduled_at}")
+    else:
+        link = pp_link(pid, net) or ""
+        v["posted"][net]["link"] = link
+        json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
+        telegram(f"✅ (manual) Postei no {net}: {v['title'][:60]}\n{link}".strip())
+        log(f"OK MANUAL {net} <- {vid} (post {pid}) {link}")
 
 def main():
     led, new = update_ledger()
 
-    if ONLY_VIDEO and ONLY_NET:          # botão manual: 1 vídeo -> 1 rede (ex.: testar longo no tiktok)
-        log(f"[MANUAL] {ONLY_NET} <- {ONLY_VIDEO}")
-        post_one(led, ONLY_VIDEO, ONLY_NET); return
+    if ONLY_VIDEO and ONLY_NET:          # botão manual: 1 vídeo -> 1 rede (ex.: testar curto/longo, agendar)
+        log(f"[MANUAL] {ONLY_NET} <- {ONLY_VIDEO} | quando={SCHEDULE_AT or 'agora'}")
+        post_one(led, ONLY_VIDEO, ONLY_NET, SCHEDULE_AT); return
 
     todo = build_todo(led)
 

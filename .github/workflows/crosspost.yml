@@ -13,6 +13,9 @@ on:
       only_net:
         description: 'override manual: nesta rede (tiktok|instagram|facebook)'
         default: ''
+      schedule_at:
+        description: 'agendar p/ ISO8601 UTC (ex.: 2026-07-18T00:00:00Z). vazio = agora'
+        default: ''
 permissions:
   contents: write
 jobs:
@@ -32,6 +35,7 @@ jobs:
           DRY_RUN: ${{ inputs.dry_run || '0' }}
           ONLY_VIDEO: ${{ inputs.only_video || '' }}
           ONLY_NET: ${{ inputs.only_net || '' }}
+          SCHEDULE_AT: ${{ inputs.schedule_at || '' }}
           POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -46,6 +50,6 @@ jobs:
         run: |
           git config user.name "crosspost-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add ledger.json
+          git add ledger.json schedule.json
           git commit -m "ledger: atualizado pelo robo [skip ci]" || echo "sem mudanca"
           git push || echo "push skip"
