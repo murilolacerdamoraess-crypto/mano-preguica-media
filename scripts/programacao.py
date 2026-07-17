@@ -23,8 +23,16 @@ DIA_PT = ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"]
 
 # build_todo + resolvedor do ledger moram no crosspost.py. Importa sem rodar main.
 sys.path.insert(0, HERE)
-from crosspost import build_todo, LEDGER   # noqa: E402
+from crosspost import build_todo, LEDGER, PROFILES   # noqa: E402
 SCHED = os.path.join(os.path.dirname(LEDGER), "schedule.json")
+PP_LIMIT  = 10   # PostProxy grátis: 10 posts/mês
+MET_LIMIT = 20   # Metricool grátis: 20 agendados/mês (reserva, ainda não usamos p/ postar)
+
+def cota_postproxy(led):
+    """Quantos posts já foram pela PostProxy este mês (1 post = 1 vídeo x 1 rede)."""
+    mes = datetime.datetime.now(BRT).strftime("%Y-%m")
+    return sum(1 for v in led["videos"].values() for n in PROFILES
+               if v["posted"][n]["done"] and (v["posted"][n]["date"] or "").startswith(mes))
 
 def carrega(path, default):
     try: return json.load(open(path))
@@ -77,16 +85,23 @@ def main():
     itens.sort(key=lambda x: x[0])
     itens = itens[:N_AHEAD]
 
+    # cota do mês
+    pp_usado = cota_postproxy(led)
+    pp_rest = max(0, PP_LIMIT - pp_usado)
+    bloco_cota = ("📊 *Cota do mês*\n"
+                  f"   PostProxy: *{pp_rest}* restantes ({pp_usado}/{PP_LIMIT})\n"
+                  f"   Metricool: *{MET_LIMIT}* livres (reserva)")
+
     if not itens:
-        msg = "🗓️ Programação Mano Preguiça\n\nNada na fila agora. Sobe vídeo novo no YouTube que eu reabasteço. 👊"
+        corpo = "Nada na fila agora. Sobe vídeo novo no YouTube que eu reabasteço. 👊"
     else:
-        linhas = ["🗓️ *Programação Mano Preguiça*", ""]
+        blocos = []
         for dt, vid, net, title, tipo in itens:
-            tag = " (agendado)" if tipo == "agendado" else ""
-            linhas.append(f"*{rotulo_dia(dt, hoje)} {dt:%H}h* — {title[:52]}\n   → {NET_PT.get(net, net)}{tag}")
-        linhas.append("")
-        linhas.append("_Some/edita algo? é só falar._")
-        msg = "\n".join(linhas)
+            tag = "  ·  agendado" if tipo == "agendado" else ""
+            blocos.append(f"*{rotulo_dia(dt, hoje)} {dt.hour}h* → {NET_PT.get(net, net)}{tag}\n{title[:70]}")
+        corpo = "\n\n".join(blocos)
+
+    msg = f"🗓️ *Programação Mano Preguiça*\n\n{corpo}\n\n{bloco_cota}\n\n_Trocar ou tirar algo? é só falar._"
 
     if TG_TOKEN and TG_CHAT:
         data = urllib.parse.urlencode({"chat_id": TG_CHAT, "text": msg, "parse_mode": "Markdown"}).encode()

@@ -43,6 +43,19 @@ UA         = {"User-Agent": "crosspost-bot"}
 
 def log(*a): print(*a, flush=True)
 
+BRT    = datetime.timezone(datetime.timedelta(hours=-3))   # Brasil sem horário de verão
+DIA_PT = ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"]
+NET_PT = {"tiktok": "TikTok", "facebook": "Facebook", "instagram": "Instagram"}
+def fmt_when(iso):
+    """'2026-07-18T00:00:00Z' -> 'hoje 21h' / 'amanhã 21h' / 'Sex 21h' (BRT)."""
+    try:
+        dt = datetime.datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(BRT)
+    except Exception:
+        return iso
+    d = (dt.date() - datetime.datetime.now(BRT).date()).days
+    dia = "hoje" if d == 0 else "amanhã" if d == 1 else DIA_PT[dt.weekday()]
+    return f"{dia} {dt.hour}h"
+
 # ---------- YouTube: atualizar ledger com vídeos novos ----------
 def yt_get(u):
     return json.load(urllib.request.urlopen(urllib.request.Request(u, headers=UA)))
@@ -209,7 +222,7 @@ def post_one(led, vid, net, scheduled_at=""):
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     if scheduled_at:
         record_schedule(vid, net, v["title"], scheduled_at)
-        telegram(f"🗓️ Agendado no {net} p/ {scheduled_at} (UTC): {v['title'][:60]}")
+        telegram(f"🗓️ Agendado: {v['title'][:70]}\n→ {NET_PT.get(net, net)}, {fmt_when(scheduled_at)}")
         log(f"OK MANUAL AGENDADO {net} <- {vid} (post {pid}) @ {scheduled_at}")
     else:
         link = pp_link(pid, net) or ""
