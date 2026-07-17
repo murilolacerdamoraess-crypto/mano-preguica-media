@@ -28,11 +28,17 @@ SCHED = os.path.join(os.path.dirname(LEDGER), "schedule.json")
 PP_LIMIT  = 10   # PostProxy grátis: 10 posts/mês
 MET_LIMIT = 20   # Metricool grátis: 20 agendados/mês (reserva, ainda não usamos p/ postar)
 
-def cota_postproxy(led):
-    """Quantos posts já foram pela PostProxy este mês (1 post = 1 vídeo x 1 rede)."""
+def cota(led):
+    """Posts deste mês, separados por provedor (post_id 'metricool-*' = Metricool; resto = PostProxy)."""
     mes = datetime.datetime.now(BRT).strftime("%Y-%m")
-    return sum(1 for v in led["videos"].values() for n in PROFILES
-               if v["posted"][n]["done"] and (v["posted"][n]["date"] or "").startswith(mes))
+    pp = met = 0
+    for v in led["videos"].values():
+        for n in PROFILES:
+            p = v["posted"][n]
+            if p["done"] and (p.get("date") or "").startswith(mes):
+                if str(p.get("post_id", "")).startswith("metricool"): met += 1
+                else: pp += 1
+    return pp, met
 
 def carrega(path, default):
     try: return json.load(open(path))
@@ -85,12 +91,13 @@ def main():
     itens.sort(key=lambda x: x[0])
     itens = itens[:N_AHEAD]
 
-    # cota do mês
-    pp_usado = cota_postproxy(led)
-    pp_rest = max(0, PP_LIMIT - pp_usado)
+    # cota do mês (por provedor)
+    pp_usado, met_usado = cota(led)
+    pp_rest  = max(0, PP_LIMIT - pp_usado)
+    met_rest = max(0, MET_LIMIT - met_usado)
     bloco_cota = ("📊 *Cota do mês*\n"
                   f"   PostProxy: *{pp_rest}* restantes ({pp_usado}/{PP_LIMIT})\n"
-                  f"   Metricool: *{MET_LIMIT}* livres (reserva)")
+                  f"   Metricool: *{met_rest}* restantes ({met_usado}/{MET_LIMIT})")
 
     if not itens:
         corpo = "Nada na fila agora. Sobe vídeo novo no YouTube que eu reabasteço. 👊"
