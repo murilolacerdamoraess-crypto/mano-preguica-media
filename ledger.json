@@ -3287,9 +3287,10 @@
    "views": 29934,
    "posted": {
     "tiktok": {
-     "done": false,
-     "date": null,
-     "post_id": null
+     "done": true,
+     "date": "2026-07-18",
+     "post_id": "metricool-350646233",
+     "link": ""
     },
     "facebook": {
      "done": false,
