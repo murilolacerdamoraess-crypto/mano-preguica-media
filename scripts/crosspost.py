@@ -184,20 +184,22 @@ def main():
     led, new = update_ledger()
     todo = build_todo(led)
 
-    if MODE == "prehost":   # roda no Mac (IP residencial): baixa+hospeda o próximo lote
-        log(f"[PREHOST] novos: {new} | fila: {len(todo)} | hospedar até {PREHOST_N} não-hospedados")
-        seen, hosted = set(), 0
+    if MODE == "prehost":   # roda no Mac (IP residencial): mantém a prateleira com PREHOST_N vídeos
+        log(f"[PREHOST] novos: {new} | fila: {len(todo)} | manter prateleira em {PREHOST_N}")
+        seen, on_shelf, added = set(), 0, 0
         for prio, negv, vid, net in todo:
-            if hosted >= PREHOST_N: break
+            if on_shelf >= PREHOST_N: break
             if vid in seen: continue
             seen.add(vid)
-            if hosted_url(vid): log(f"   já hospedado: {vid}"); continue
+            if hosted_url(vid):                      # já na prateleira, conta
+                on_shelf += 1; continue
             try:
                 host(vid, led["videos"][vid]["title"])
-                log(f"   ✔ hospedado: {vid} | {led['videos'][vid]['title'][:45]}"); hosted += 1
+                log(f"   ✔ hospedado: {vid} | {led['videos'][vid]['title'][:45]}")
+                on_shelf += 1; added += 1
             except Exception as e:
                 log(f"   ✗ erro host {vid}: {e}")
-        log(f"prehost feito: {hosted} vídeo(s) na prateleira.")
+        log(f"prehost feito: prateleira em {on_shelf}/{PREHOST_N} (novos hospedados: {added}).")
         return
 
     month = datetime.date.today().strftime("%Y-%m")
