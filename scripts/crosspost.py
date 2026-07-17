@@ -108,11 +108,13 @@ def build_todo(led):
         for net in ("tiktok", "instagram", "facebook"):
             if fits(net, v) and not v["posted"][net]["done"]:
                 todo.append((0, -v["views"], vid, net))   # prio 0 = novo
-    # 2) backlog do FACEBOOK (dup-safe) por views
+    # 2) backlog (dup-safe) por views -> AGORA nas 3 redes, não só Facebook.
+    #    TikTok/IG só puxam VERTICAL do backlog (fits cuida); longo de backlog só vai pro FB.
     for vid, v in sorted(vids.items(), key=lambda kv: -kv[1]["views"]):
         if not v["postable"] or v["published"] >= START_DATE: continue
-        if fits("facebook", v) and not v["posted"]["facebook"]["done"]:
-            todo.append((1, -v["views"], vid, "facebook"))  # prio 1 = backlog FB
+        for net in ("tiktok", "instagram", "facebook"):
+            if fits(net, v) and not v["posted"][net]["done"]:
+                todo.append((1, -v["views"], vid, net))   # prio 1 = backlog
     todo.sort()
     return todo
 
