@@ -80,7 +80,7 @@ def update_ledger():
 
 # ---------- decidir o que postar ----------
 def fits(net, v):
-    if net == "tiktok":    return v["type"] == "vertical" or (v["type"] == "long" and v["seconds"] <= 600)
+    if net == "tiktok":    return v["type"] == "vertical" or (v["type"] == "long" and v["seconds"] <= 3600)  # longo PROVADO no TikTok (Archon 13:18 postou ok 2026-07-17); teto 60min = limite da plataforma
     if net == "instagram": return v["type"] == "vertical"           # IG = vertical (Reel)
     if net == "facebook":  return True
     return False
