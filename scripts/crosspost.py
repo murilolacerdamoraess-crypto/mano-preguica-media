@@ -26,6 +26,8 @@ MAX_RUN    = int(os.environ.get("MAX_PER_RUN", "1"))
 MONTH_CAP  = int(os.environ.get("MONTH_CAP", "9"))   # teto p/ não estourar os 10/mês do PostProxy grátis
 MODE       = os.environ.get("MODE", "post")          # "post" (nuvem) ou "prehost" (Mac: baixa+hospeda)
 PREHOST_N  = int(os.environ.get("PREHOST_N", "5"))
+ONLY_VIDEO = os.environ.get("ONLY_VIDEO", "").strip() # override manual: posta SÓ este vídeo
+ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede (ex.: teste de longo no tiktok)
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
 HERE       = os.path.dirname(os.path.abspath(__file__))
@@ -180,8 +182,29 @@ def telegram(msg):
     except Exception as e: log("telegram err", e)
 
 # ---------- main ----------
+def post_one(led, vid, net):
+    """Posta UM vídeo específico numa rede (override manual). Marca o ledger. Sem cap."""
+    v = led["videos"][vid]
+    url = hosted_url(vid)
+    if not url:
+        log(f"MANUAL {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return
+    if DRY:
+        log(f"[DRY] manual {net} <- {vid} | {v['title'][:50]}"); return
+    r = pp_post(net, url, caption(v)); pid = r.get("id")
+    pp_wait_ingest(pid); cleanup(vid)
+    link = pp_link(pid, net) or ""
+    v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
+    json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
+    telegram(f"✅ (manual) Postei no {net}: {v['title'][:60]}\n{link}".strip())
+    log(f"OK MANUAL {net} <- {vid} (post {pid}) {link}")
+
 def main():
     led, new = update_ledger()
+
+    if ONLY_VIDEO and ONLY_NET:          # botão manual: 1 vídeo -> 1 rede (ex.: testar longo no tiktok)
+        log(f"[MANUAL] {ONLY_NET} <- {ONLY_VIDEO}")
+        post_one(led, ONLY_VIDEO, ONLY_NET); return
+
     todo = build_todo(led)
 
     if MODE == "prehost":   # roda no Mac (IP residencial): mantém a prateleira com PREHOST_N vídeos

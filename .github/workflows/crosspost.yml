@@ -7,6 +7,12 @@ on:
       dry_run:
         description: 'modo seco (1 = nao posta, so lista)'
         default: '1'
+      only_video:
+        description: 'override manual: postar SO este video id (ex.: tRjp62LVJ3M)'
+        default: ''
+      only_net:
+        description: 'override manual: nesta rede (tiktok|instagram|facebook)'
+        default: ''
 permissions:
   contents: write
 jobs:
@@ -24,6 +30,8 @@ jobs:
       - name: rodar robo
         env:
           DRY_RUN: ${{ inputs.dry_run || '0' }}
+          ONLY_VIDEO: ${{ inputs.only_video || '' }}
+          ONLY_NET: ${{ inputs.only_net || '' }}
           POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
