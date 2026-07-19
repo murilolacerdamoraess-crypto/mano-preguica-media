@@ -94,7 +94,7 @@ def update_ledger():
 
 # ---------- decidir o que postar ----------
 def fits(net, v):
-    if net == "tiktok":    return v["type"] == "vertical"   # SÓ curto no auto. Longo no TikTok ainda em validação (Archon publicou mas não sabemos se performa) -> longo vai só pro Facebook por ora; testar longo é manual
+    if net == "tiktok":    return v["type"] == "vertical" and v["seconds"] >= 60   # SÓ vertical de 1min+ (o que PAGA no Creator Rewards; <1min não ganha nada). Longo ainda em validação -> só FB; testar longo é manual
     if net == "instagram": return v["type"] == "vertical"           # IG = vertical (Reel)
     if net == "facebook":  return True
     return False
