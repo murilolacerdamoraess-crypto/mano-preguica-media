@@ -29,6 +29,7 @@ PREHOST_N  = int(os.environ.get("PREHOST_N", "5"))
 ONLY_VIDEO = os.environ.get("ONLY_VIDEO", "").strip() # override manual: posta SÓ este vídeo
 ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede (ex.: teste de longo no tiktok)
 SCHEDULE_AT= os.environ.get("SCHEDULE_AT", "").strip() # ...opcional: agenda p/ ISO8601 UTC (ex.: 2026-07-18T00:00:00Z)
+POST_HOUR  = int(os.environ.get("POST_HOUR", "21"))   # HORÁRIO PADRÃO BRT dos posts automáticos (o robô agenda p/ esta hora)
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
 HERE       = os.path.dirname(os.path.abspath(__file__))
@@ -55,6 +56,13 @@ def fmt_when(iso):
     d = (dt.date() - datetime.datetime.now(BRT).date()).days
     dia = "hoje" if d == 0 else "amanhã" if d == 1 else DIA_PT[dt.weekday()]
     return f"{dia} {dt.hour}h"
+
+def slot_hoje_utc():
+    """Hoje às POST_HOUR BRT em ISO UTC. Se já passou dessa hora, '' (posta imediato: fallback raro)."""
+    agora = datetime.datetime.now(BRT)
+    alvo = agora.replace(hour=POST_HOUR, minute=0, second=0, microsecond=0)
+    if agora >= alvo: return ""
+    return alvo.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 # ---------- YouTube: atualizar ledger com vídeos novos ----------
 def yt_get(u):
@@ -209,29 +217,29 @@ def record_schedule(vid, net, title, scheduled_at):
     sched.append({"vid": vid, "net": net, "title": title, "scheduled_at": scheduled_at})
     json.dump(sched, open(path, "w"), ensure_ascii=False, indent=1)
 
-def post_one(led, vid, net, scheduled_at=""):
-    """Posta/agenda UM vídeo específico numa rede (override manual). Marca o ledger. Sem cap."""
+def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
+    """Posta/agenda UM vídeo numa rede. Marca ledger + schedule.json. Retorna True se foi."""
     v = led["videos"][vid]
     url = hosted_url(vid)
     if not url:
-        log(f"MANUAL {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return
+        log(f"{tag} {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return False
     if DRY:
-        log(f"[DRY] manual {net} <- {vid} | {v['title'][:50]} | quando={scheduled_at or 'agora'}"); return
+        log(f"[DRY] {tag} {net} <- {vid} | {v['title'][:50]} | quando={scheduled_at or 'agora'}"); return False
     r = pp_post(net, url, caption(v), scheduled_at); pid = r.get("id")
     pp_wait_ingest(pid); cleanup(vid)
-    when = scheduled_at or datetime.date.today().isoformat()
     v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": ""}
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     if scheduled_at:
         record_schedule(vid, net, v["title"], scheduled_at)
         telegram(f"🗓️ Agendado: {v['title'][:70]}\n→ {NET_PT.get(net, net)}, {fmt_when(scheduled_at)}")
-        log(f"OK MANUAL AGENDADO {net} <- {vid} (post {pid}) @ {scheduled_at}")
+        log(f"OK {tag} AGENDADO {net} <- {vid} (post {pid}) @ {scheduled_at}")
     else:
         link = pp_link(pid, net) or ""
         v["posted"][net]["link"] = link
         json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
-        telegram(f"✅ (manual) Postei no {net}: {v['title'][:60]}\n{link}".strip())
-        log(f"OK MANUAL {net} <- {vid} (post {pid}) {link}")
+        telegram(f"✅ Postei no {net}: {v['title'][:60]}\n{link}".strip())
+        log(f"OK {tag} {net} <- {vid} (post {pid}) {link}")
+    return True
 
 def main():
     led, new = update_ledger()
@@ -273,26 +281,17 @@ def main():
         log("modo seco: nada foi postado."); return
     if limit <= 0:
         log("teto mensal atingido; nada a postar."); return
+    slot = slot_hoje_utc()   # agenda p/ hoje POST_HOUR BRT (horário PADRÃO); '' só se já passou
+    log(f"horário padrão: {POST_HOUR}h BRT -> {'agendar p/ ' + slot if slot else 'IMEDIATO (já passou das ' + str(POST_HOUR) + 'h)'}")
     done = 0
     for prio, negv, vid, net in todo:
         if done >= limit: break
-        v = led["videos"][vid]
-        url = hosted_url(vid)
-        if not url:
-            log(f"pular {vid}: ainda não hospedado (rodar prehost no Mac)"); continue
         try:
-            r = pp_post(net, url, caption(v))
-            pid = r.get("id")
-            pp_wait_ingest(pid)
-            cleanup(vid)
-            link = pp_link(pid, net) or ""
-            v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
-            json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
-            telegram(f"✅ Postei no {net}: {v['title'][:60]}\n{link}".strip())
-            log(f"OK {net} <- {vid} (post {pid}) {link}")
-            done += 1
+            if post_one(led, vid, net, slot, tag="AUTO"):
+                done += 1
         except Exception as e:
-            log(f"ERRO {net} {vid}: {e}"); telegram(f"⚠️ Falha ao postar {v['title'][:40]} no {net}: {e}")
+            log(f"ERRO {net} {vid}: {e}")
+            telegram(f"⚠️ Falha ao postar {led['videos'][vid]['title'][:40]} no {net}: {e}")
     log(f"feito: {done} post(s) nesta execução.")
 
 if __name__ == "__main__":
