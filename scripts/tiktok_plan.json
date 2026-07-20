@@ -6,7 +6,7 @@
   "views": 1441228,
   "slot_brt": "2026-07-21T21:00:00-03:00",
   "slot_utc": "2026-07-22T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "1jSoDM0vzZU",
@@ -15,7 +15,7 @@
   "views": 337429,
   "slot_brt": "2026-07-23T21:00:00-03:00",
   "slot_utc": "2026-07-24T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "ojkRPwmn4Rw",
@@ -24,7 +24,7 @@
   "views": 258706,
   "slot_brt": "2026-07-25T21:00:00-03:00",
   "slot_utc": "2026-07-26T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "haJEcqfl2MM",
@@ -33,7 +33,7 @@
   "views": 182580,
   "slot_brt": "2026-07-28T21:00:00-03:00",
   "slot_utc": "2026-07-29T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "cqvij1QWsUA",
@@ -42,7 +42,7 @@
   "views": 55396,
   "slot_brt": "2026-07-30T21:00:00-03:00",
   "slot_utc": "2026-07-31T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "PL_PovMdxaM",
@@ -51,7 +51,7 @@
   "views": 27956,
   "slot_brt": "2026-08-01T21:00:00-03:00",
   "slot_utc": "2026-08-02T00:00:00Z",
-  "scheduled": false
+  "scheduled": true
  },
  {
   "vid": "IVHLQpU5bWQ",
