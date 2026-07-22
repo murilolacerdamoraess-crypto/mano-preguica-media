@@ -1,82 +1,12 @@
 [
  {
-  "vid": "FxvNBxOKVTw",
-  "title": "simulador de hamburgueria para jogar com amigos -  Fast Food Simulator",
-  "seconds": 60,
-  "views": 7805,
-  "publicado": "2025-01-25",
-  "slot_brt": "2026-07-23T21:00:00-03:00",
-  "slot_utc": "2026-07-24T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "cA6Z-Q3tOKU",
-  "title": "Esse jogo vai te viciar!! 🤯🤯",
-  "seconds": 90,
-  "views": 680,
-  "publicado": "2025-02-05",
-  "slot_brt": "2026-07-25T21:00:00-03:00",
-  "slot_utc": "2026-07-26T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "36wza-LEcks",
-  "title": "Conheça o novo Lethal Company 🛸🎮",
-  "seconds": 73,
-  "views": 1140,
-  "publicado": "2025-03-06",
-  "slot_brt": "2026-07-28T21:00:00-03:00",
-  "slot_utc": "2026-07-29T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "iAm_o_meLSU",
-  "title": "Criaram um FNAF no FUNDO DO MAR... não é um tubarão",
-  "seconds": 103,
-  "views": 2361,
-  "publicado": "2025-03-22",
-  "slot_brt": "2026-07-30T21:00:00-03:00",
-  "slot_utc": "2026-07-31T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "oak9mTlvFPc",
-  "title": "não contaram a verdade sobre as pirâmides do Egito 💀🔥",
-  "seconds": 72,
-  "views": 2273,
-  "publicado": "2025-04-01",
-  "slot_brt": "2026-08-01T21:00:00-03:00",
-  "slot_utc": "2026-08-02T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "ZUNWISkTBRI",
-  "title": "esse jogo pode MUDAR para sempre a HISTÓRIA da humanidade 🔥🔥",
-  "seconds": 79,
-  "views": 2178,
-  "publicado": "2025-04-03",
-  "slot_brt": "2026-08-04T21:00:00-03:00",
-  "slot_utc": "2026-08-05T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "f2acA8SZPt8",
-  "title": "Isso é o que eles NÃO te falaram sobre o TITANIC...",
-  "seconds": 88,
-  "views": 2541,
-  "publicado": "2025-04-05",
-  "slot_brt": "2026-08-06T21:00:00-03:00",
-  "slot_utc": "2026-08-07T00:00:00Z",
-  "scheduled": false
- },
- {
   "vid": "zpl07Fyp1cI",
   "title": "No lugar mais escuro do subnautica habita uma criatura mítica",
   "seconds": 73,
   "views": 3817,
   "publicado": "2025-04-26",
-  "slot_brt": "2026-08-08T21:00:00-03:00",
-  "slot_utc": "2026-08-09T00:00:00Z",
+  "slot_brt": "2026-07-23T21:00:00-03:00",
+  "slot_utc": "2026-07-24T00:00:00Z",
   "scheduled": false
  },
  {
@@ -85,8 +15,8 @@
   "seconds": 75,
   "views": 6110,
   "publicado": "2025-04-28",
-  "slot_brt": "2026-08-11T21:00:00-03:00",
-  "slot_utc": "2026-08-12T00:00:00Z",
+  "slot_brt": "2026-07-25T21:00:00-03:00",
+  "slot_utc": "2026-07-26T00:00:00Z",
   "scheduled": false
  },
  {
@@ -95,8 +25,8 @@
   "seconds": 80,
   "views": 2692,
   "publicado": "2025-05-04",
-  "slot_brt": "2026-08-13T21:00:00-03:00",
-  "slot_utc": "2026-08-14T00:00:00Z",
+  "slot_brt": "2026-07-28T21:00:00-03:00",
+  "slot_utc": "2026-07-29T00:00:00Z",
   "scheduled": false
  },
  {
@@ -105,8 +35,8 @@
   "seconds": 121,
   "views": 4654,
   "publicado": "2025-05-13",
-  "slot_brt": "2026-08-15T21:00:00-03:00",
-  "slot_utc": "2026-08-16T00:00:00Z",
+  "slot_brt": "2026-07-30T21:00:00-03:00",
+  "slot_utc": "2026-07-31T00:00:00Z",
   "scheduled": false
  },
  {
@@ -115,8 +45,8 @@
   "seconds": 180,
   "views": 10046,
   "publicado": "2025-05-27",
-  "slot_brt": "2026-08-18T21:00:00-03:00",
-  "slot_utc": "2026-08-19T00:00:00Z",
+  "slot_brt": "2026-08-01T21:00:00-03:00",
+  "slot_utc": "2026-08-02T00:00:00Z",
   "scheduled": false
  },
  {
@@ -125,8 +55,8 @@
   "seconds": 120,
   "views": 2691,
   "publicado": "2025-08-20",
-  "slot_brt": "2026-08-20T21:00:00-03:00",
-  "slot_utc": "2026-08-21T00:00:00Z",
+  "slot_brt": "2026-08-04T21:00:00-03:00",
+  "slot_utc": "2026-08-05T00:00:00Z",
   "scheduled": false
  },
  {
@@ -135,8 +65,8 @@
   "seconds": 82,
   "views": 3927,
   "publicado": "2025-08-23",
-  "slot_brt": "2026-08-22T21:00:00-03:00",
-  "slot_utc": "2026-08-23T00:00:00Z",
+  "slot_brt": "2026-08-06T21:00:00-03:00",
+  "slot_utc": "2026-08-07T00:00:00Z",
   "scheduled": false
  },
  {
@@ -145,8 +75,8 @@
   "seconds": 96,
   "views": 12635,
   "publicado": "2025-09-04",
-  "slot_brt": "2026-08-25T21:00:00-03:00",
-  "slot_utc": "2026-08-26T00:00:00Z",
+  "slot_brt": "2026-08-08T21:00:00-03:00",
+  "slot_utc": "2026-08-09T00:00:00Z",
   "scheduled": false
  },
  {
@@ -155,8 +85,18 @@
   "seconds": 80,
   "views": 5573,
   "publicado": "2025-09-08",
-  "slot_brt": "2026-08-27T21:00:00-03:00",
-  "slot_utc": "2026-08-28T00:00:00Z",
+  "slot_brt": "2026-08-11T21:00:00-03:00",
+  "slot_utc": "2026-08-12T00:00:00Z",
+  "scheduled": false
+ },
+ {
+  "vid": "PL_PovMdxaM",
+  "title": "BASES NOS BIOMAS MAIS PERIGOSOS DO SUBNAUTICA",
+  "seconds": 61,
+  "views": 27974,
+  "publicado": "2025-09-17",
+  "slot_brt": "2026-08-13T21:00:00-03:00",
+  "slot_utc": "2026-08-14T00:00:00Z",
   "scheduled": false
  },
  {
@@ -165,8 +105,8 @@
   "seconds": 105,
   "views": 8898,
   "publicado": "2025-09-19",
-  "slot_brt": "2026-08-29T21:00:00-03:00",
-  "slot_utc": "2026-08-30T00:00:00Z",
+  "slot_brt": "2026-08-15T21:00:00-03:00",
+  "slot_utc": "2026-08-16T00:00:00Z",
   "scheduled": false
  },
  {
@@ -175,8 +115,8 @@
   "seconds": 67,
   "views": 2046,
   "publicado": "2025-09-27",
-  "slot_brt": "2026-09-01T21:00:00-03:00",
-  "slot_utc": "2026-09-02T00:00:00Z",
+  "slot_brt": "2026-08-18T21:00:00-03:00",
+  "slot_utc": "2026-08-19T00:00:00Z",
   "scheduled": false
  },
  {
@@ -185,8 +125,8 @@
   "seconds": 62,
   "views": 13313,
   "publicado": "2025-10-08",
-  "slot_brt": "2026-09-03T21:00:00-03:00",
-  "slot_utc": "2026-09-04T00:00:00Z",
+  "slot_brt": "2026-08-20T21:00:00-03:00",
+  "slot_utc": "2026-08-21T00:00:00Z",
   "scheduled": false
  },
  {
@@ -195,8 +135,8 @@
   "seconds": 64,
   "views": 2048,
   "publicado": "2025-11-01",
-  "slot_brt": "2026-09-05T21:00:00-03:00",
-  "slot_utc": "2026-09-06T00:00:00Z",
+  "slot_brt": "2026-08-22T21:00:00-03:00",
+  "slot_utc": "2026-08-23T00:00:00Z",
   "scheduled": false
  },
  {
@@ -205,8 +145,8 @@
   "seconds": 92,
   "views": 1350,
   "publicado": "2025-11-02",
-  "slot_brt": "2026-09-08T21:00:00-03:00",
-  "slot_utc": "2026-09-09T00:00:00Z",
+  "slot_brt": "2026-08-25T21:00:00-03:00",
+  "slot_utc": "2026-08-26T00:00:00Z",
   "scheduled": false
  },
  {
@@ -215,8 +155,8 @@
   "seconds": 105,
   "views": 1655,
   "publicado": "2025-11-06",
-  "slot_brt": "2026-09-10T21:00:00-03:00",
-  "slot_utc": "2026-09-11T00:00:00Z",
+  "slot_brt": "2026-08-27T21:00:00-03:00",
+  "slot_utc": "2026-08-28T00:00:00Z",
   "scheduled": false
  },
  {
@@ -225,18 +165,8 @@
   "seconds": 67,
   "views": 2100,
   "publicado": "2025-11-08",
-  "slot_brt": "2026-09-12T21:00:00-03:00",
-  "slot_utc": "2026-09-13T00:00:00Z",
-  "scheduled": false
- },
- {
-  "vid": "EUHc6ap28iU",
-  "title": "ESSE É O MAIOR ARCADE DE ORLANDO E O VR MAIS IMERSIVO DO MUNDO",
-  "seconds": 98,
-  "views": 949,
-  "publicado": "2025-12-17",
-  "slot_brt": "2026-09-15T21:00:00-03:00",
-  "slot_utc": "2026-09-16T00:00:00Z",
+  "slot_brt": "2026-08-29T21:00:00-03:00",
+  "slot_utc": "2026-08-30T00:00:00Z",
   "scheduled": false
  },
  {
@@ -245,8 +175,8 @@
   "seconds": 64,
   "views": 4709,
   "publicado": "2026-01-03",
-  "slot_brt": "2026-09-17T21:00:00-03:00",
-  "slot_utc": "2026-09-18T00:00:00Z",
+  "slot_brt": "2026-09-01T21:00:00-03:00",
+  "slot_utc": "2026-09-02T00:00:00Z",
   "scheduled": false
  },
  {
@@ -255,8 +185,8 @@
   "seconds": 60,
   "views": 3681,
   "publicado": "2026-01-17",
-  "slot_brt": "2026-09-19T21:00:00-03:00",
-  "slot_utc": "2026-09-20T00:00:00Z",
+  "slot_brt": "2026-09-03T21:00:00-03:00",
+  "slot_utc": "2026-09-04T00:00:00Z",
   "scheduled": false
  },
  {
@@ -265,8 +195,8 @@
   "seconds": 61,
   "views": 4694,
   "publicado": "2026-01-27",
-  "slot_brt": "2026-09-22T21:00:00-03:00",
-  "slot_utc": "2026-09-23T00:00:00Z",
+  "slot_brt": "2026-09-05T21:00:00-03:00",
+  "slot_utc": "2026-09-06T00:00:00Z",
   "scheduled": false
  },
  {
@@ -275,8 +205,8 @@
   "seconds": 67,
   "views": 3417,
   "publicado": "2026-02-13",
-  "slot_brt": "2026-09-24T21:00:00-03:00",
-  "slot_utc": "2026-09-25T00:00:00Z",
+  "slot_brt": "2026-09-08T21:00:00-03:00",
+  "slot_utc": "2026-09-09T00:00:00Z",
   "scheduled": false
  },
  {
@@ -285,8 +215,8 @@
   "seconds": 62,
   "views": 2952,
   "publicado": "2026-02-14",
-  "slot_brt": "2026-09-26T21:00:00-03:00",
-  "slot_utc": "2026-09-27T00:00:00Z",
+  "slot_brt": "2026-09-10T21:00:00-03:00",
+  "slot_utc": "2026-09-11T00:00:00Z",
   "scheduled": false
  },
  {
@@ -295,8 +225,8 @@
   "seconds": 65,
   "views": 2086,
   "publicado": "2026-02-18",
-  "slot_brt": "2026-09-29T21:00:00-03:00",
-  "slot_utc": "2026-09-30T00:00:00Z",
+  "slot_brt": "2026-09-12T21:00:00-03:00",
+  "slot_utc": "2026-09-13T00:00:00Z",
   "scheduled": false
  },
  {
@@ -305,8 +235,8 @@
   "seconds": 72,
   "views": 3787,
   "publicado": "2026-02-21",
-  "slot_brt": "2026-10-01T21:00:00-03:00",
-  "slot_utc": "2026-10-02T00:00:00Z",
+  "slot_brt": "2026-09-15T21:00:00-03:00",
+  "slot_utc": "2026-09-16T00:00:00Z",
   "scheduled": false
  },
  {
@@ -315,8 +245,8 @@
   "seconds": 63,
   "views": 8078,
   "publicado": "2026-02-24",
-  "slot_brt": "2026-10-03T21:00:00-03:00",
-  "slot_utc": "2026-10-04T00:00:00Z",
+  "slot_brt": "2026-09-17T21:00:00-03:00",
+  "slot_utc": "2026-09-18T00:00:00Z",
   "scheduled": false
  },
  {
@@ -325,8 +255,8 @@
   "seconds": 88,
   "views": 304830,
   "publicado": "2026-03-31",
-  "slot_brt": "2026-10-06T21:00:00-03:00",
-  "slot_utc": "2026-10-07T00:00:00Z",
+  "slot_brt": "2026-09-19T21:00:00-03:00",
+  "slot_utc": "2026-09-20T00:00:00Z",
   "scheduled": false
  },
  {
@@ -335,8 +265,48 @@
   "seconds": 80,
   "views": 25978,
   "publicado": "2026-04-07",
-  "slot_brt": "2026-10-08T21:00:00-03:00",
-  "slot_utc": "2026-10-09T00:00:00Z",
+  "slot_brt": "2026-09-22T21:00:00-03:00",
+  "slot_utc": "2026-09-23T00:00:00Z",
+  "scheduled": false
+ },
+ {
+  "vid": "ojkRPwmn4Rw",
+  "title": "ESSE É O MONSTRO DA VOID DE SUBNAUTICA 2 💀",
+  "seconds": 84,
+  "views": 258809,
+  "publicado": "2026-04-14",
+  "slot_brt": "2026-09-24T21:00:00-03:00",
+  "slot_utc": "2026-09-25T00:00:00Z",
+  "scheduled": false
+ },
+ {
+  "vid": "haJEcqfl2MM",
+  "title": "VOCÊ CONHECE O NOME DE CADA REAPER NO SUBNAUTICA? 🤓",
+  "seconds": 93,
+  "views": 182670,
+  "publicado": "2026-04-21",
+  "slot_brt": "2026-09-26T21:00:00-03:00",
+  "slot_utc": "2026-09-27T00:00:00Z",
+  "scheduled": false
+ },
+ {
+  "vid": "cqvij1QWsUA",
+  "title": "NINGUÉM PERCEBEU ISSO EM SUBNAUTICA 2?! 😨",
+  "seconds": 121,
+  "views": 55415,
+  "publicado": "2026-05-05",
+  "slot_brt": "2026-09-29T21:00:00-03:00",
+  "slot_utc": "2026-09-30T00:00:00Z",
+  "scheduled": false
+ },
+ {
+  "vid": "1jSoDM0vzZU",
+  "title": "SUBNAUTICA 2 REVELOU UM SEGREDO DE 12 ANOS",
+  "seconds": 100,
+  "views": 337592,
+  "publicado": "2026-05-12",
+  "slot_brt": "2026-10-01T21:00:00-03:00",
+  "slot_utc": "2026-10-02T00:00:00Z",
   "scheduled": false
  },
  {
@@ -345,8 +315,8 @@
   "seconds": 93,
   "views": 19995,
   "publicado": "2026-05-15",
-  "slot_brt": "2026-10-10T21:00:00-03:00",
-  "slot_utc": "2026-10-11T00:00:00Z",
+  "slot_brt": "2026-10-03T21:00:00-03:00",
+  "slot_utc": "2026-10-04T00:00:00Z",
   "scheduled": false
  },
  {
@@ -355,8 +325,8 @@
   "seconds": 89,
   "views": 6653,
   "publicado": "2026-06-04",
-  "slot_brt": "2026-10-13T21:00:00-03:00",
-  "slot_utc": "2026-10-14T00:00:00Z",
+  "slot_brt": "2026-10-06T21:00:00-03:00",
+  "slot_utc": "2026-10-07T00:00:00Z",
   "scheduled": false
  },
  {
@@ -365,8 +335,8 @@
   "seconds": 94,
   "views": 16016,
   "publicado": "2026-06-16",
-  "slot_brt": "2026-10-15T21:00:00-03:00",
-  "slot_utc": "2026-10-16T00:00:00Z",
+  "slot_brt": "2026-10-08T21:00:00-03:00",
+  "slot_utc": "2026-10-09T00:00:00Z",
   "scheduled": false
  },
  {
@@ -375,8 +345,8 @@
   "seconds": 97,
   "views": 10258,
   "publicado": "2026-07-14",
-  "slot_brt": "2026-10-17T21:00:00-03:00",
-  "slot_utc": "2026-10-18T00:00:00Z",
+  "slot_brt": "2026-10-10T21:00:00-03:00",
+  "slot_utc": "2026-10-11T00:00:00Z",
   "scheduled": false
  }
 ]

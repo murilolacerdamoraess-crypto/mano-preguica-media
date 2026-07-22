@@ -19,7 +19,10 @@ POST_DAYS = {1, 3, 5}   # Ter/Qui/Sáb (weekday: Seg=0)
 POST_HOUR = 21
 BLACK = ["arcane","league","jinx","zaun","riot"," tft","anime","série","serie","series","novela",
          "vikings","valhalla","marvel","netflix","filmes","lobisomem","werewolf","uefa","champions",
-         "futebol","gta","the last of us","fortnite","valorant"]
+         "futebol","gta","the last of us","fortnite","valorant",
+         # fora do nicho survival/terror/mistério (decisão Murilo 21/07)
+         "hamburgueria","arcade","orlando"]
+MIN_VIEWS = 1000   # corta os muito fracos (não vale queimar slot)
 
 def off_nicho(t):
     tl = t.lower(); return any(k in tl for k in BLACK)
@@ -39,6 +42,7 @@ def eligiveis(led):
     out = []
     for vid, d in led["videos"].items():
         if d["type"] != "vertical" or not d.get("postable") or d["seconds"] < 60: continue
+        if d["views"] < MIN_VIEWS: continue
         if off_nicho(d["title"]): continue
         p = d["posted"]["tiktok"]
         if p["done"]:

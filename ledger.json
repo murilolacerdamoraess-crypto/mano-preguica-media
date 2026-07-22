@@ -568,9 +568,9 @@
    "views": 337592,
    "posted": {
     "tiktok": {
-     "done": true,
-     "date": "2026-07-23",
-     "post_id": "metricool-351524759",
+     "done": false,
+     "date": null,
+     "post_id": null,
      "link": ""
     },
     "facebook": {
@@ -625,9 +625,9 @@
    "views": 55415,
    "posted": {
     "tiktok": {
-     "done": true,
-     "date": "2026-07-30",
-     "post_id": "metricool-351524828",
+     "done": false,
+     "date": null,
+     "post_id": null,
      "link": ""
     },
     "facebook": {
@@ -710,9 +710,9 @@
    "views": 182670,
    "posted": {
     "tiktok": {
-     "done": true,
-     "date": "2026-07-28",
-     "post_id": "metricool-351524818",
+     "done": false,
+     "date": null,
+     "post_id": null,
      "link": ""
     },
     "facebook": {
@@ -767,9 +767,9 @@
    "views": 258809,
    "posted": {
     "tiktok": {
-     "done": true,
-     "date": "2026-07-25",
-     "post_id": "metricool-351524780",
+     "done": false,
+     "date": null,
+     "post_id": null,
      "link": ""
     },
     "facebook": {
@@ -3992,9 +3992,9 @@
    "views": 27974,
    "posted": {
     "tiktok": {
-     "done": true,
-     "date": "2026-08-01",
-     "post_id": "metricool-351524843",
+     "done": false,
+     "date": null,
+     "post_id": null,
      "link": ""
     },
     "facebook": {
@@ -4079,8 +4079,8 @@
     "tiktok": {
      "done": true,
      "date": "2026-07-21",
-     "post_id": "metricool-351524743",
-     "link": ""
+     "post_id": "7665135487924899089",
+     "link": "https://www.tiktok.com/@manopreguica/video/7665135487924899089"
     },
     "facebook": {
      "done": true,
@@ -7608,8 +7608,9 @@
    "posted": {
     "tiktok": {
      "done": true,
-     "date": null,
-     "post_id": "7491792499925617926"
+     "date": "2026-08-01",
+     "post_id": "metricool-352315920",
+     "link": ""
     },
     "facebook": {
      "done": false,
@@ -7720,8 +7721,9 @@
    "posted": {
     "tiktok": {
      "done": true,
-     "date": null,
-     "post_id": "7490686844846312710"
+     "date": "2026-07-30",
+     "post_id": "metricool-352315917",
+     "link": ""
     },
     "facebook": {
      "done": false,
@@ -7748,8 +7750,9 @@
    "posted": {
     "tiktok": {
      "done": true,
-     "date": null,
-     "post_id": "7489833754484067639"
+     "date": "2026-07-28",
+     "post_id": "metricool-352315912",
+     "link": ""
     },
     "facebook": {
      "done": false,
@@ -7888,8 +7891,9 @@
    "posted": {
     "tiktok": {
      "done": true,
-     "date": null,
-     "post_id": "7485484283059096838"
+     "date": "2026-07-25",
+     "post_id": "metricool-352315902",
+     "link": ""
     },
     "facebook": {
      "done": false,
@@ -8672,8 +8676,9 @@
    "posted": {
     "tiktok": {
      "done": true,
-     "date": null,
-     "post_id": "7478696277438434565"
+     "date": "2026-07-23",
+     "post_id": "metricool-352315894",
+     "link": ""
     },
     "facebook": {
      "done": false,
