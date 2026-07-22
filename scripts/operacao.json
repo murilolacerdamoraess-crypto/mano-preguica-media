@@ -1,0 +1,31 @@
+{
+ "_doc": "Estado das frentes que NÃO dá pra ler por arquivo local (YouTube Studio). Atualizado quando o Claude escaneia o Studio via Playwright. O scanner.py lê daqui + dos arquivos vivos (schedule.json, tiktok_plan.json, ledger.json).",
+ "youtube_videos": {
+  "atualizado_em": "2026-07-21",
+  "fonte": "YouTube Studio > Conteudo > Videos (Programado)",
+  "cadencia": "semanal (quinta)",
+  "agendados": [
+   {"data": "2026-07-23", "titulo": "TENTEI MATAR O LEVIATHAN COLECIONADOR DE SUBNAUTICA"},
+   {"data": "2026-07-30", "titulo": "SERA QUE DA PRA MATAR O SHIVER LEVIATHAN DE SUBNAUTICA"},
+   {"data": "2026-08-06", "titulo": "SERA QUE EU CONSIGO MATAR O SHIVER LEVIATHAN"},
+   {"data": "2026-08-13", "titulo": "SERA QUE DA PRA MATAR O ELUSIVE LEVIATHAN"},
+   {"data": "2026-08-20", "titulo": "EXISTE UM MONSTRO ESCONDIDO NO SPAWN DE SUBNAUTICA"}
+  ]
+ },
+ "enquetes": {
+  "atualizado_em": "2026-07-21",
+  "fonte": "YouTube Studio > Conteudo > Posts (Programado)",
+  "cadencia": "3x/semana",
+  "agendados": [
+   {"data": "2026-07-24", "titulo": "Qual leviata voce faria SUMIR do jogo pra sempre?"},
+   {"data": "2026-07-27", "titulo": "So desse pra comer 1 pra sempre. Qual seria?"},
+   {"data": "2026-07-30", "titulo": "Onde voce constroi sua base?"},
+   {"data": "2026-08-02", "titulo": "Quando voce chegou, o canal tinha quantos inscritos?"},
+   {"data": "2026-08-05", "titulo": "5 segundos ate o leviata te alcancar. O que voce faz?"},
+   {"data": "2026-08-08", "titulo": "Ganhou R$1.000 pra gastar so com voce. No que vai?"},
+   {"data": "2026-08-11", "titulo": "Voce acha outro sobrevivente ferido no fundo. E ai?"},
+   {"data": "2026-08-14", "titulo": "Qual foi o primeiro videogame da sua vida?"},
+   {"data": "2026-08-17", "titulo": "Gift card de qual loja? (PATROCINADA Hype Games)"}
+  ]
+ }
+}
