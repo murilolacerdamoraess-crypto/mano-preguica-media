@@ -20,6 +20,7 @@ from crosspost import LEDGER   # noqa: E402
 RAIZ  = os.path.dirname(LEDGER)
 SCHED = os.path.join(RAIZ, "schedule.json")
 PLAN  = os.path.join(HERE, "tiktok_plan.json")
+PLAN_IG = os.path.join(HERE, "ig_plan.json")
 OPER  = os.path.join(HERE, "operacao.json")
 TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
@@ -80,7 +81,15 @@ def main():
     fb_back = sum(1 for v in led["videos"].values()
                   if v.get("postable") and not v["posted"]["facebook"]["done"])
     frentes.append(f"✅ *Facebook*\n   automático seg/qua/sex · 📦 {fb_back} no backlog")
-    frentes.append("🔕 *Instagram* — desligado (não paga)")
+
+    # --- Instagram (agendado de verdade) + fila ---
+    ig = sorted(d.date() for d in (brt(s["scheduled_at"]) for s in sched
+                if s.get("net") == "instagram") if d and d > agora)
+    ate_ig = ig[-1] if ig else None
+    fila_ig = len([p for p in load(PLAN_IG, []) if not p.get("scheduled")])
+    frentes.append(bloco("Instagram", ate_ig, hoje, f"{len(ig)} agendados",
+                         f"📦 +{fila_ig} na fila"))
+    if ate_ig: riscos.append((ate_ig, "Instagram"))
 
     # --- o que seca primeiro ---
     riscos.sort()
