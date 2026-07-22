@@ -25,7 +25,12 @@ def off_nicho(t):
     tl = t.lower(); return any(k in tl for k in BLACK)
 
 def tiktok_date(pid):
+    """ID de vídeo do TikTok codifica o timestamp: unix = id >> 32."""
     try: return datetime.datetime.utcfromtimestamp(int(pid) >> 32).date()
+    except Exception: return None
+
+def parse_date(s):
+    try: return datetime.date.fromisoformat(str(s)[:10])
     except Exception: return None
 
 def eligiveis(led):
@@ -37,10 +42,13 @@ def eligiveis(led):
         if off_nicho(d["title"]): continue
         p = d["posted"]["tiktok"]
         if p["done"]:
-            dt = tiktok_date(p.get("post_id", ""))
-            if dt and dt >= cutoff: continue
-        out.append((d["views"], vid, d["title"], d["seconds"]))
-    out.sort(reverse=True)
+            # data do último post no TikTok: decodifica o id do TikTok OU usa o campo date
+            # (posts nossos ficam como "metricool-<id>"/PostProxy, que não decodificam).
+            dt = tiktok_date(p.get("post_id", "")) or parse_date(p.get("date"))
+            if dt is None: continue          # marcado como postado mas sem data -> NÃO arrisca duplicar
+            if dt >= cutoff: continue        # postado (ou agendado) nos últimos 2 meses -> ainda não reposta
+        out.append((d["published"][:10], d["views"], vid, d["title"], d["seconds"]))
+    out.sort()   # por DATA DE PUBLICAÇÃO ascendente (mais antigos primeiro) — varredura única, envelhece os novos
     return out
 
 def slots(n, comeca):
@@ -57,8 +65,8 @@ def build_plan():
     amanha = datetime.datetime.now(BRT).date() + datetime.timedelta(days=1)
     sl = slots(len(elig), amanha)
     plan = []
-    for (views, vid, title, secs), s in zip(elig, sl):
-        plan.append({"vid": vid, "title": title, "seconds": secs, "views": views,
+    for (pub, views, vid, title, secs), s in zip(elig, sl):
+        plan.append({"vid": vid, "title": title, "seconds": secs, "views": views, "publicado": pub,
                      "slot_brt": s.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
                      "slot_utc": s.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                      "scheduled": False})
