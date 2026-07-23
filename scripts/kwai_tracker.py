@@ -23,7 +23,7 @@ TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
 BOT = os.environ.get("BOT_ORIGEM", "")
 API = f"https://api.telegram.org/bot{TG_TOKEN}"
-LEMBRETES_H = [4, 24, 48]   # horas após o envio pro 1º/2º/3º lembrete
+LEMBRETES_H = [24, 48, 72]   # no máx 1 lembrete por dia (era 4h/24h/48h, agressivo demais)
 
 
 def load(path, default):
