@@ -125,10 +125,17 @@ def build_todo(led):
     todo.sort()
     return todo
 
+# Força H.264/avc1 no download (o antigo [ext=mp4] deixava passar AV1, que quebra em
+# player/ingestão — foi o bug do Kwai). Vale p/ TODAS as redes: PostProxy/Metricool
+# ingerem esse arquivo; H.264 é universalmente decodável. Sem cap de resolução = melhor
+# avc1 (1080p) tanto p/ vertical quanto p/ horizontal (long do Facebook).
+YTDLP_H264 = "bv*[vcodec^=avc1]+ba[ext=m4a]/b[ext=mp4][vcodec^=avc1]/b[ext=mp4]/b"
+
+
 # ---------- hospedar / postar / limpar ----------
 def host(vid, title):
     f = os.path.join(TMP, vid + ".mp4")
-    subprocess.run(["yt-dlp", "-f", "bv*[height<=1080][ext=mp4]+ba[ext=m4a]/b[ext=mp4]/b",
+    subprocess.run(["yt-dlp", "-f", YTDLP_H264,
                     "-o", f, f"https://www.youtube.com/watch?v={vid}"], check=True,
                    stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     subprocess.run(["gh", "release", "create", vid, "--repo", REPO, "--title", title[:90],
