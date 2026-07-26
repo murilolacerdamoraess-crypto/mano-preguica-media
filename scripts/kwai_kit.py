@@ -38,6 +38,10 @@ TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
 YTDLP_FMT = "bv*[vcodec^=avc1][height<=1280]+ba[ext=m4a]/b[ext=mp4][vcodec^=avc1]/b[ext=mp4]/b"
 HASHTAGS = "#subnautica #games #gameplay #kwai #fyp"
 MAX_PENDING = 2   # teto de pendentes: o automático segura o próximo até o Murilo limpar (não empilha)
+# Botões ✅Postei/⏭️Pular EXIGEM getUpdates, que NÃO funciona no @ManoPreguicaBot (webhook do
+# auto-responder de comentários engole o clique). Enquanto o crosspost não tiver bot DEDICADO,
+# BOTOES=False = modo só-envio (vídeo+legenda, sem botão morto e sem lembrete). Virar True ao migrar.
+BOTOES = False
 
 
 def load(path, default):
@@ -158,15 +162,18 @@ def enviar(vid, title, views, status, enviados):
     arq = baixar(vid)
     cap = f"🎬 Kwai de hoje — salve na galeria e poste ({views:,} views no YT)".replace(",", ".")
     anchor = tg_video(arq, cap)
-    tg_msg(legenda(title), reply_markup=botao_postei(vid))   # legenda + botões Postei/Pular
+    if BOTOES:
+        tg_msg(legenda(title), reply_markup=botao_postei(vid))   # legenda + botões Postei/Pular
+        status["pending"][vid] = {"title": title, "sent_at": agora_utc(),
+                                  "anchor": anchor, "reminders": 0}   # anchor = msg do vídeo
+    else:
+        tg_msg(legenda(title))   # modo só-envio: legenda limpa, sem botão morto
     try:
         os.remove(arq)
     except OSError:
         pass
     if vid not in enviados:
         enviados.append(vid)
-    status["pending"][vid] = {"title": title, "sent_at": agora_utc(),
-                              "anchor": anchor, "reminders": 0}   # anchor = msg do vídeo
 
 
 def salvar(status, enviados):
