@@ -1,0 +1,22 @@
+{
+ "mp2": {
+  "label": "MP2 (vídeos de IA)",
+  "cadencia": "dia sim, dia não",
+  "tipo": "cada_n_dias",
+  "n_dias": 2,
+  "hora": 20,
+  "ancora": "2026-07-29",
+  "agendados": [
+   {"data": "2026-07-29", "titulo": "E se o RAGNARÖK fosse real?"},
+   {"data": "2026-07-31", "titulo": "Filmaram ISSO no Rio Amazonas"}
+  ]
+ },
+ "mp1_shorts": {
+  "label": "MP1 Shorts (roteiro auto)",
+  "cadencia": "2x/semana",
+  "tipo": "dias_semana",
+  "dias": [0, 3],
+  "hora": 20,
+  "agendados": []
+ }
+}

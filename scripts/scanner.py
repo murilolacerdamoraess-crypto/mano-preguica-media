@@ -22,6 +22,7 @@ SCHED = os.path.join(RAIZ, "schedule.json")
 PLAN  = os.path.join(HERE, "tiktok_plan.json")
 PLAN_IG = os.path.join(HERE, "ig_plan.json")
 OPER  = os.path.join(HERE, "operacao.json")
+PROD  = os.path.join(HERE, "producao.json")
 TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
 BRT = datetime.timezone(datetime.timedelta(hours=-3))
@@ -49,9 +50,48 @@ def bloco(nome, ate, hoje, detalhe, extra=""):
     if extra: txt += f"\n   {extra}"
     return txt
 
+def slots_ideais(cfg, hoje, horizonte=10):
+    """Gera as datas dos próximos slots da cadência, dentro do horizonte (dias)."""
+    fim = hoje + datetime.timedelta(days=horizonte)
+    out = []
+    if cfg["tipo"] == "cada_n_dias":
+        anc = datetime.date.fromisoformat(cfg["ancora"]); n = cfg["n_dias"]
+        # alinha a âncora ao primeiro slot >= hoje
+        if anc < hoje:
+            k = (hoje - anc).days
+            anc = anc + datetime.timedelta(days=((k + n - 1)//n)*n)
+        d = anc
+        while d <= fim:
+            out.append(d); d += datetime.timedelta(days=n)
+    elif cfg["tipo"] == "dias_semana":
+        d = hoje
+        while d <= fim:
+            if d.weekday() in cfg["dias"]: out.append(d)
+            d += datetime.timedelta(days=1)
+    return out
+
+def bloco_producao(cfg, hoje):
+    ags = {a["data"] for a in cfg.get("agendados", [])}
+    fut_ag = sorted(a for a in ags if a >= str(hoje))
+    ate = datetime.date.fromisoformat(fut_ag[-1]) if fut_ag else None
+    slots = slots_ideais(cfg, hoje)
+    vazios = [s for s in slots if s.strftime("%Y-%m-%d") not in ags]
+    prox_vazio = vazios[0] if vazios else None
+    d = dias(ate, hoje) if ate else -1
+    ic = "✅" if d >= ALERTA_DIAS else ("⚠️" if d >= 3 else "🔴")
+    txt = f"{ic} *{cfg['label']}*\n   {cfg['cadencia']} · "
+    txt += (f"agendado até *{ate.strftime('%d/%m')}* ({len(fut_ag)})" if ate else "nada agendado")
+    if prox_vazio:
+        falta = len(vazios)
+        txt += f"\n   👉 produzir *{falta}* (próximo slot vazio {prox_vazio.strftime('%d/%m')})"
+    else:
+        txt += "\n   👍 slots dos próximos dias cobertos"
+    return txt, (ate or hoje, cfg["label"])
+
 def main():
     hoje = datetime.datetime.now(BRT).date()
     oper = load(OPER, {})
+    prod = load(PROD, {})
     sched = load(SCHED, [])
     plan = load(PLAN, [])
     led = load(LEDGER, {"videos": {}})
@@ -91,6 +131,14 @@ def main():
                          f"📦 +{fila_ig} na fila"))
     if ate_ig: riscos.append((ate_ig, "Instagram"))
 
+    # --- PRODUÇÃO (o Murilo cria — cobra o que falta) ---
+    producao = []
+    for key in ("mp2", "mp1_shorts"):
+        if key in prod:
+            bl, risco = bloco_producao(prod[key], hoje)
+            producao.append(bl)
+            riscos.append(risco)
+
     # --- o que seca primeiro ---
     riscos.sort()
     if riscos:
@@ -122,7 +170,9 @@ def main():
         bloco_prox = ""
 
     msg = (f"📡 *Scanner da Operação* — {hoje.strftime('%d/%m')}\n\n"
-           + "\n\n".join(frentes) + "\n\n" + (bloco_prox + "\n\n" if bloco_prox else "") + alerta)
+           + "📤 *Distribuição (automático)*\n" + "\n\n".join(frentes)
+           + (("\n\n🎬 *Produção (você cria)*\n" + "\n\n".join(producao)) if producao else "")
+           + "\n\n" + (bloco_prox + "\n\n" if bloco_prox else "") + alerta)
 
     if TG_TOKEN and TG_CHAT:
         data = urllib.parse.urlencode({"chat_id": TG_CHAT, "text": msg, "parse_mode": "Markdown"}).encode()
