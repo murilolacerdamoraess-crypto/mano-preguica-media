@@ -41,6 +41,11 @@ MIN_VIEWS  = int(os.environ.get("MIN_VIEWS", "1000"))  # não queima slot de Tik
 DAILY = {"facebook":   int(os.environ.get("DAILY_FB", "2")),
          "tiktok":     int(os.environ.get("DAILY_TT", "1")),
          "instagram":  int(os.environ.get("DAILY_IG", "1"))}
+# Data de ATIVAÇÃO por rede (o robô só posta a rede a partir daqui). Deixa o Metricool
+# escoar os pendentes antes: TikTok até 01/08, IG até 16/08 -> PostProxy assume no dia seguinte.
+# Vazio = já ativo (Facebook começa logo, Metricool não posta FB).
+ACTIVATE = {"tiktok":    os.environ.get("TT_START", ""),
+            "instagram": os.environ.get("IG_START", "")}
 # Horários (hora, minuto) BRT por rede — espalhados p/ não sair tudo junto
 HOURS = {"facebook":  [(20, 0), (22, 0)],
          "tiktok":    [(21, 0)],
@@ -48,9 +53,13 @@ HOURS = {"facebook":  [(20, 0), (22, 0)],
 
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
-# Fontes YouTube (uploads playlist = UU + resto do channel id). Principal + MP2 usam os MESMOS perfis.
-SOURCES    = {"mp":  "UURKX-GV-beUtYs2IQD-f6jg",   # Mano Preguiça (principal)
-              "mp2": "UUo9m5c9tfbQ7NTWefLN24-Q"}   # Mano Preguiça 2 (faceless de IA)
+# Fonte principal = uploads playlist inteira do Mano Preguiça (UU + resto do channel id).
+SOURCES    = {"mp": "UURKX-GV-beUtYs2IQD-f6jg"}
+# MP2: NÃO a playlist toda (o MP2 tem games variados que não devem ir pros perfis do principal).
+# Só os faceless de IA que a gente PRODUZ aqui, por ALLOWLIST explícita de video IDs.
+# Adicionar o ID de cada novo vídeo de IA conforme for feito. Usam os perfis do Mano Preguiça.
+MP2_ALLOW  = ["Stm2pYvz-yE",   # E se o RAGNARÖK fosse real?
+              "6CCN3fHFPGc"]   # Filmaram ISSO no Rio Amazonas (Jacaré)
 HERE       = os.path.dirname(os.path.abspath(__file__))
 def _find_ledger():
     for p in (os.environ.get("LEDGER_PATH"), os.path.join(HERE, "ledger.json"),
@@ -350,8 +359,12 @@ def main():
     for net in ("facebook", "tiktok", "instagram"):
         log(f"  fila {net}: {len(queues[net])} candidatos")
 
+    today = datetime.date.today().isoformat()
     done_total, done_vids = 0, set()   # não postar o MESMO vídeo em 2 redes no mesmo run
     for net in ("facebook", "tiktok", "instagram"):
+        start = ACTIVATE.get(net, "")
+        if start and today < start:
+            log(f"  {net}: aguardando ativação ({start}) — Metricool ainda escoando"); continue
         slots = HOURS[net][:DAILY[net]]
         taken = 0
         for vid in queues[net]:

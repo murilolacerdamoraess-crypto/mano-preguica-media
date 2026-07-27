@@ -51,6 +51,9 @@ jobs:
           DAILY_FB: '1'      # cadência definida pelo Murilo (27/07): 1/dia p/ deixar cota pros outros canais
           DAILY_TT: '1'
           DAILY_IG: '1'
+          # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.
+          TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
+          IG_START: '2026-08-17'   # último IG do Metricool = 16/08
         run: python scripts/crosspost.py
       - name: salvar ledger atualizado
         run: |
