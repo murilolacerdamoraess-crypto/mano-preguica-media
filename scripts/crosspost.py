@@ -1,16 +1,23 @@
 #!/usr/bin/env python3
 """
 Robô de crosspost — roda no GitHub Actions (ou local).
-Fluxo por execução:
-  1. atualiza o ledger (detecta vídeo novo no YouTube, preserva status)
-  2. monta a lista do que falta postar (por rede, sem duplicar)
-  3. posta os N do topo via PostProxy (hospeda no GitHub Releases antes)
+Fluxo por execução (MODE=post, cron DIÁRIO):
+  1. atualiza o ledger (detecta vídeo novo no YouTube — canal principal + MP2 — preserva status)
+  2. monta UMA FILA POR REDE (Facebook / TikTok / Instagram), com dedup e curadoria
+  3. agenda a COTA DIÁRIA de cada rede (padrão FB 2, TikTok 1, IG 1) via PostProxy,
+     em horários espalhados à noite (BRT), respeitando o teto mensal do plano
   4. marca no ledger + limpa o asset + avisa no Telegram
 
-Segurança (medo de duplicar):
-  - TikTok/Instagram: só postam vídeo NOVO (published >= START_DATE). Backlog velho NÃO,
-    porque essas redes já têm quase tudo (236/215 mapeados).
-  - Facebook: pode postar o backlog provado (você postou pouco lá), do maior view p/ o menor.
+Migração 2026-07-27: PostProxy pago (Build, 120 posts/mês). TUDO passa a sair pelo
+PostProxy REST (TikTok e IG saíram do Metricool). Cadência definida pelo Murilo:
+FB 2/dia, TikTok 1/dia, IG 1/dia.
+
+Dedup / segurança (medo de duplicar):
+  - Facebook: backlog provado por views (você postou pouco lá -> dup-safe).
+  - TikTok/Instagram: FILA CURADA — vertical (TikTok exige 1min+), no nicho (blacklist),
+    >= MIN_VIEWS, e NÃO postado NAQUELA rede nos últimos 2 meses (data decodificada do
+    post_id). Reposta campeão antigo, nunca o recente. Vídeo NOVO (>= START_DATE) entra
+    nas 3 redes que couberem.
 Config por variável de ambiente (secrets no Actions).
 """
 import os, sys, json, re, subprocess, urllib.request, urllib.error, urllib.parse, datetime, time
@@ -21,17 +28,29 @@ YT_KEY     = os.environ.get("YOUTUBE_API_KEY", "")
 TG_TOKEN   = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT    = os.environ.get("TELEGRAM_CHAT_ID", "")
 REPO       = os.environ.get("MEDIA_REPO", "murilolacerdamoraess-crypto/mano-preguica-media")
-START_DATE = os.environ.get("START_DATE", "2026-07-15")   # TikTok/IG só postam >= isto
-MAX_RUN    = int(os.environ.get("MAX_PER_RUN", "1"))
-MONTH_CAP  = int(os.environ.get("MONTH_CAP", "9"))   # teto p/ não estourar os 10/mês do PostProxy grátis
+START_DATE = os.environ.get("START_DATE", "2026-07-15")   # vídeo >= isto = "novo" (entra nas 3 redes)
+MONTH_CAP  = int(os.environ.get("MONTH_CAP", "118"))  # teto/mês do plano PostProxy Build (120) c/ folga
 MODE       = os.environ.get("MODE", "post")          # "post" (nuvem) ou "prehost" (Mac: baixa+hospeda)
-PREHOST_N  = int(os.environ.get("PREHOST_N", "5"))
+BUFFER_DAYS= int(os.environ.get("BUFFER_DAYS", "3")) # prehost mantém DAILY[net]*BUFFER_DAYS por rede
 ONLY_VIDEO = os.environ.get("ONLY_VIDEO", "").strip() # override manual: posta SÓ este vídeo
-ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede (ex.: teste de longo no tiktok)
-SCHEDULE_AT= os.environ.get("SCHEDULE_AT", "").strip() # ...opcional: agenda p/ ISO8601 UTC (ex.: 2026-07-18T00:00:00Z)
-POST_HOUR  = int(os.environ.get("POST_HOUR", "21"))   # HORÁRIO PADRÃO BRT dos posts automáticos (o robô agenda p/ esta hora)
+ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede
+SCHEDULE_AT= os.environ.get("SCHEDULE_AT", "").strip() # ...opcional: agenda p/ ISO8601 UTC
+MIN_VIEWS  = int(os.environ.get("MIN_VIEWS", "1000"))  # não queima slot de TikTok/IG com vídeo fraco
+
+# Cota DIÁRIA por rede (o cron roda 1x/dia e agenda a cota do dia)
+DAILY = {"facebook":   int(os.environ.get("DAILY_FB", "2")),
+         "tiktok":     int(os.environ.get("DAILY_TT", "1")),
+         "instagram":  int(os.environ.get("DAILY_IG", "1"))}
+# Horários (hora, minuto) BRT por rede — espalhados p/ não sair tudo junto
+HOURS = {"facebook":  [(20, 0), (22, 0)],
+         "tiktok":    [(21, 0)],
+         "instagram": [(21, 30)]}
+
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
+# Fontes YouTube (uploads playlist = UU + resto do channel id). Principal + MP2 usam os MESMOS perfis.
+SOURCES    = {"mp":  "UURKX-GV-beUtYs2IQD-f6jg",   # Mano Preguiça (principal)
+              "mp2": "UUo9m5c9tfbQ7NTWefLN24-Q"}   # Mano Preguiça 2 (faceless de IA)
 HERE       = os.path.dirname(os.path.abspath(__file__))
 def _find_ledger():
     for p in (os.environ.get("LEDGER_PATH"), os.path.join(HERE, "ledger.json"),
@@ -55,16 +74,41 @@ def fmt_when(iso):
         return iso
     d = (dt.date() - datetime.datetime.now(BRT).date()).days
     dia = "hoje" if d == 0 else "amanhã" if d == 1 else DIA_PT[dt.weekday()]
-    return f"{dia} {dt.hour}h"
+    hhmm = f"{dt.hour}h" if dt.minute == 0 else f"{dt.hour}h{dt.minute:02d}"
+    return f"{dia} {hhmm}"
 
-def slot_hoje_utc():
-    """Hoje às POST_HOUR BRT em ISO UTC. Se já passou dessa hora, '' (posta imediato: fallback raro)."""
+def slot_utc(hour, minute):
+    """Hoje às hour:minute BRT em ISO UTC. Se já passou, '' (posta imediato: fallback raro)."""
     agora = datetime.datetime.now(BRT)
-    alvo = agora.replace(hour=POST_HOUR, minute=0, second=0, microsecond=0)
+    alvo = agora.replace(hour=hour, minute=minute, second=0, microsecond=0)
     if agora >= alvo: return ""
     return alvo.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-# ---------- YouTube: atualizar ledger com vídeos novos ----------
+# ---------- curadoria de repost (TikTok/IG) — regras do Murilo ----------
+BLACK = ["arcane","league","jinx","zaun","riot"," tft","anime","série","serie","series","novela",
+         "vikings","valhalla","marvel","netflix","filmes","lobisomem","werewolf","uefa","champions",
+         "futebol","gta","the last of us","fortnite","valorant","hamburgueria","arcade","orlando"]
+IG_AL = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
+def off_nicho(t):
+    tl = t.lower(); return any(k in tl for k in BLACK)
+def tiktok_date(pid):
+    try: return datetime.datetime.utcfromtimestamp(int(pid) >> 32).date()
+    except Exception: return None
+def instagram_date(sc):
+    try:
+        mid = 0
+        for c in sc: mid = mid * 64 + IG_AL.index(c)
+        return datetime.datetime.utcfromtimestamp(((mid >> 23) + 1314220021721) / 1000).date()
+    except Exception: return None
+def parse_date(s):
+    try: return datetime.date.fromisoformat(str(s)[:10])
+    except Exception: return None
+def ultima_vez(net, p):
+    pid = p.get("post_id", "") or ""
+    dec = instagram_date(pid) if net == "instagram" else tiktok_date(pid) if net == "tiktok" else None
+    return dec or parse_date(p.get("date"))
+
+# ---------- YouTube: atualizar ledger ----------
 def yt_get(u):
     return json.load(urllib.request.urlopen(urllib.request.Request(u, headers=UA)))
 def dur2s(du):
@@ -72,65 +116,81 @@ def dur2s(du):
     if not m: return 0
     dd, h, mi, s = (int(x or 0) for x in m.groups()); return dd*86400 + h*3600 + mi*60 + s
 
-def update_ledger():
-    led = json.load(open(LEDGER))
-    PL = "UURKX-GV-beUtYs2IQD-f6jg"
+def _playlist_ids(pl):
     ids, token = [], ""
     while True:
-        u = f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId={PL}&key={YT_KEY}" + (f"&pageToken={token}" if token else "")
+        u = (f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50"
+             f"&playlistId={pl}&key={YT_KEY}") + (f"&pageToken={token}" if token else "")
         d = yt_get(u); ids += [it["contentDetails"]["videoId"] for it in d["items"]]; token = d.get("nextPageToken")
         if not token: break
+    return ids
+
+def update_ledger():
+    led = json.load(open(LEDGER))
     new = 0
-    for i in range(0, len(ids), 50):
-        d = yt_get(f"https://www.googleapis.com/youtube/v3/videos?part=contentDetails,snippet,statistics&id={','.join(ids[i:i+50])}&key={YT_KEY}")
-        for it in d["items"]:
-            vid = it["id"]; t = dur2s(it["contentDetails"]["duration"])
-            meta = {"title": it["snippet"]["title"], "seconds": t,
-                    "type": "vertical" if 0 < t <= 185 else ("long" if t > 185 else "unknown"),
-                    "published": it["snippet"]["publishedAt"][:10],
-                    "views": int(it["statistics"].get("viewCount", 0))}
-            if vid not in led["videos"]:
-                new += 1
-                led["videos"][vid] = {**meta, "posted": {n: {"done": False, "date": None, "post_id": None} for n in PROFILES}}
-            else:
-                led["videos"][vid].update(meta)
-            v = led["videos"][vid]
-            v["eligible"] = v["type"] in ("vertical", "long") and v["published"] >= "2025-01-01"
-            v["postable"] = bool(v["eligible"] and v["views"] >= 500)
+    for source, pl in SOURCES.items():
+        try:
+            ids = _playlist_ids(pl)
+        except Exception as e:
+            log(f"aviso: fonte {source} ({pl}) falhou: {e}"); continue
+        for i in range(0, len(ids), 50):
+            d = yt_get(f"https://www.googleapis.com/youtube/v3/videos?part=contentDetails,snippet,statistics&id={','.join(ids[i:i+50])}&key={YT_KEY}")
+            for it in d["items"]:
+                vid = it["id"]; t = dur2s(it["contentDetails"]["duration"])
+                meta = {"title": it["snippet"]["title"], "seconds": t,
+                        "type": "vertical" if 0 < t <= 185 else ("long" if t > 185 else "unknown"),
+                        "published": it["snippet"]["publishedAt"][:10],
+                        "views": int(it["statistics"].get("viewCount", 0)), "source": source}
+                if vid not in led["videos"]:
+                    new += 1
+                    led["videos"][vid] = {**meta, "posted": {n: {"done": False, "date": None, "post_id": None} for n in PROFILES}}
+                else:
+                    led["videos"][vid].update(meta)
+                v = led["videos"][vid]
+                v["eligible"] = v["type"] in ("vertical", "long") and v["published"] >= "2025-01-01"
+                v["postable"] = bool(v["eligible"] and v["views"] >= 500)
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     return led, new
 
-# ---------- decidir o que postar ----------
+# ---------- decidir o que postar (fila por rede) ----------
 def fits(net, v):
-    if net == "tiktok":    return v["type"] == "vertical" and v["seconds"] >= 60   # SÓ vertical de 1min+ (o que PAGA no Creator Rewards; <1min não ganha nada). Longo ainda em validação -> só FB; testar longo é manual
-    if net == "instagram": return v["type"] == "vertical"           # IG = vertical (Reel)
+    if net == "tiktok":    return v["type"] == "vertical" and v["seconds"] >= 60   # só 1min+ monetiza
+    if net == "instagram": return v["type"] == "vertical"
     if net == "facebook":  return True
     return False
 
-def build_todo(led):
-    todo = []
-    vids = led["videos"]
-    # 1) vídeos NOVOS -> todas as redes que couberem
-    for vid, v in vids.items():
-        if not v["postable"] or v["published"] < START_DATE: continue
-        for net in ("tiktok", "instagram", "facebook"):
-            if fits(net, v) and not v["posted"][net]["done"]:
-                todo.append((0, -v["views"], vid, net))   # prio 0 = novo
-    # 2) backlog do FACEBOOK (dup-safe) por views. TikTok é alimentado à parte, via Metricool
-    #    (fila curada de 1min+ no nicho) — separação limpa: PostProxy=FB autônomo, Metricool=TikTok.
+def queue_facebook(vids):
+    """Novos + backlog, por views desc, dup-safe (você postou pouco no FB)."""
+    out = []
     for vid, v in sorted(vids.items(), key=lambda kv: -kv[1]["views"]):
-        if not v["postable"] or v["published"] >= START_DATE: continue
-        if fits("facebook", v) and not v["posted"]["facebook"]["done"]:
-            todo.append((1, -v["views"], vid, "facebook"))  # prio 1 = backlog FB
-    todo.sort()
-    return todo
+        if not v["postable"] or v["posted"]["facebook"]["done"]: continue
+        out.append(vid)
+    return out
 
-# Força H.264/avc1 no download (o antigo [ext=mp4] deixava passar AV1, que quebra em
-# player/ingestão — foi o bug do Kwai). Vale p/ TODAS as redes: PostProxy/Metricool
-# ingerem esse arquivo; H.264 é universalmente decodável. Sem cap de resolução = melhor
-# avc1 (1080p) tanto p/ vertical quanto p/ horizontal (long do Facebook).
+def queue_curada(net, vids):
+    """TikTok/IG: vertical (TT 1min+), no nicho, >=MIN_VIEWS, não postado nessa rede há 2 meses.
+    Novos primeiro (>= START_DATE, por views), depois backlog ANTIGO->NOVO (varredura única)."""
+    hoje = datetime.datetime.now(BRT).date(); cutoff = hoje - datetime.timedelta(days=60)
+    min_secs = 60 if net == "tiktok" else 0
+    novos, backlog = [], []
+    for vid, v in vids.items():
+        if not v["postable"] or v["type"] != "vertical": continue
+        if v["seconds"] < min_secs: continue
+        if v["views"] < MIN_VIEWS: continue
+        if off_nicho(v["title"]): continue
+        p = v["posted"][net]
+        if p["done"]:
+            dt = ultima_vez(net, p)
+            if dt is None or dt >= cutoff: continue   # sem data = não arrisca; recente = espera
+        if v["published"] >= START_DATE:
+            novos.append((-v["views"], vid))
+        else:
+            backlog.append((v["published"][:10], vid))
+    novos.sort(); backlog.sort()   # novos: mais views; backlog: mais antigo
+    return [vid for _, vid in novos] + [vid for _, vid in backlog]
+
+# Força H.264/avc1 no download (o [ext=mp4] antigo deixava passar AV1, que quebra em player/ingestão).
 YTDLP_H264 = "bv*[vcodec^=avc1]+ba[ext=m4a]/b[ext=mp4][vcodec^=avc1]/b[ext=mp4]/b"
-
 
 # ---------- hospedar / postar / limpar ----------
 def host(vid, title):
@@ -145,13 +205,12 @@ def host(vid, title):
     return f"https://github.com/{REPO}/releases/download/{vid}/{vid}.mp4"
 
 def hosted_url(vid):
-    """Retorna a URL pública se o vídeo JÁ está hospedado no GitHub Releases, senão None."""
     url = f"https://github.com/{REPO}/releases/download/{vid}/{vid}.mp4"
     try:
         urllib.request.urlopen(urllib.request.Request(url, method="HEAD", headers=UA), timeout=25)
         return url
     except urllib.error.HTTPError as e:
-        return url if e.code in (200, 302, 403) else None   # 403 = asset existe mas exige range; ok
+        return url if e.code in (200, 302, 403) else None
     except Exception:
         return None
 
@@ -162,6 +221,9 @@ def cleanup(vid):
     except OSError: pass
 
 def caption(v):
+    # MP2 = faceless variado (não é Subnautica) -> hashtags genéricas de alcance
+    if v.get("source") == "mp2":
+        return f"{v['title']}\n\n#shorts #fyp #viral"
     return f"{v['title']}\n\n#Subnautica #games #gameplay #jogos"
 
 def platforms_block(net):
@@ -171,7 +233,7 @@ def platforms_block(net):
 
 def pp_post(net, url, text, scheduled_at=""):
     post = {"body": text}
-    if scheduled_at: post["scheduled_at"] = scheduled_at   # ISO8601 UTC -> PostProxy publica no horário, off-PC
+    if scheduled_at: post["scheduled_at"] = scheduled_at
     body = json.dumps({"post": post, "profiles": [PROFILES[net]],
                        "media": [url], "platforms": platforms_block(net)}).encode()
     req = urllib.request.Request("https://api.postproxy.dev/api/posts", data=body,
@@ -187,10 +249,9 @@ def pp_wait_ingest(pid, tries=20):
         if m in ("processed", "ready"): return True
         if m == "failed": return False
         time.sleep(15)
-    return True  # segue mesmo assim; PostProxy costuma ter a cópia
+    return True
 
 def pp_link(pid, net, tries=5):
-    """Pega o link publicado; converte FB reel->watch (que funciona p/ vídeo longo)."""
     for _ in range(tries):
         try:
             req = urllib.request.Request(f"https://api.postproxy.dev/api/posts/{pid}",
@@ -215,7 +276,6 @@ def telegram(msg):
 
 # ---------- main ----------
 def record_schedule(vid, net, title, scheduled_at):
-    """Anota um post agendado no schedule.json (fonte da 'programação' do RotinaOS)."""
     path = os.path.join(os.path.dirname(LEDGER), "schedule.json")
     try: sched = json.load(open(path))
     except Exception: sched = []
@@ -224,13 +284,12 @@ def record_schedule(vid, net, title, scheduled_at):
     json.dump(sched, open(path, "w"), ensure_ascii=False, indent=1)
 
 def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
-    """Posta/agenda UM vídeo numa rede. Marca ledger + schedule.json. Retorna True se foi."""
     v = led["videos"][vid]
     url = hosted_url(vid)
     if not url:
         log(f"{tag} {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return False
     if DRY:
-        log(f"[DRY] {tag} {net} <- {vid} | {v['title'][:50]} | quando={scheduled_at or 'agora'}"); return False
+        log(f"[DRY] {tag} {net:9} <- {vid} | {v['title'][:46]} | quando={scheduled_at or 'agora'}"); return True
     r = pp_post(net, url, caption(v), scheduled_at); pid = r.get("id")
     pp_wait_ingest(pid); cleanup(vid)
     v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": ""}
@@ -247,58 +306,67 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
         log(f"OK {tag} {net} <- {vid} (post {pid}) {link}")
     return True
 
+def month_posted(led):
+    month = datetime.date.today().strftime("%Y-%m")
+    return sum(1 for v in led["videos"].values() for n in PROFILES
+               if v["posted"][n]["done"] and (v["posted"][n]["date"] or "").startswith(month))
+
+def build_queues(led):
+    vids = led["videos"]
+    return {"facebook":  queue_facebook(vids),
+            "tiktok":    queue_curada("tiktok", vids),
+            "instagram": queue_curada("instagram", vids)}
+
 def main():
     led, new = update_ledger()
 
-    if ONLY_VIDEO and ONLY_NET:          # botão manual: 1 vídeo -> 1 rede (ex.: testar curto/longo, agendar)
+    if ONLY_VIDEO and ONLY_NET:          # botão manual: 1 vídeo -> 1 rede
         log(f"[MANUAL] {ONLY_NET} <- {ONLY_VIDEO} | quando={SCHEDULE_AT or 'agora'}")
         post_one(led, ONLY_VIDEO, ONLY_NET, SCHEDULE_AT); return
 
-    todo = build_todo(led)
+    queues = build_queues(led)
 
-    if MODE == "prehost":   # roda no Mac (IP residencial): mantém a prateleira com PREHOST_N vídeos
-        log(f"[PREHOST] novos: {new} | fila: {len(todo)} | manter prateleira em {PREHOST_N}")
+    if MODE == "prehost":   # roda no Mac (IP residencial): mantém a prateleira
+        want = []
+        for net in ("facebook", "tiktok", "instagram"):
+            want += queues[net][: DAILY[net] * BUFFER_DAYS]   # buffer proporcional à cota
+        log(f"[PREHOST] novos: {new} | filas FB {len(queues['facebook'])} / TT {len(queues['tiktok'])} / IG {len(queues['instagram'])} | buffer {BUFFER_DAYS}d")
         seen, on_shelf, added = set(), 0, 0
-        for prio, negv, vid, net in todo:
-            if on_shelf >= PREHOST_N: break
+        for vid in want:
             if vid in seen: continue
             seen.add(vid)
-            if hosted_url(vid):                      # já na prateleira, conta
-                on_shelf += 1; continue
+            if hosted_url(vid): on_shelf += 1; continue
             try:
-                host(vid, led["videos"][vid]["title"])
+                host(vid, led["videos"][vid]["title"]); on_shelf += 1; added += 1
                 log(f"   ✔ hospedado: {vid} | {led['videos'][vid]['title'][:45]}")
-                on_shelf += 1; added += 1
             except Exception as e:
                 log(f"   ✗ erro host {vid}: {e}")
-        log(f"prehost feito: prateleira em {on_shelf}/{PREHOST_N} (novos hospedados: {added}).")
+        log(f"prehost feito: {on_shelf} hospedados (novos: {added}).")
         return
 
-    month = datetime.date.today().strftime("%Y-%m")
-    posted_month = sum(1 for v in led["videos"].values() for n in PROFILES
-                       if v["posted"][n]["done"] and (v["posted"][n]["date"] or "").startswith(month))
-    room = max(0, MONTH_CAP - posted_month)
-    limit = min(MAX_RUN, room)
-    log(f"[{'DRY-RUN' if DRY else 'LIVE'}] novos: {new} | fila: {len(todo)} | postados este mês: {posted_month}/{MONTH_CAP} | vou postar até {limit}")
-    for prio, negv, vid, net in todo[:12]:
-        tag = "NOVO" if prio == 0 else "backlog-FB"
-        log(f"   [{tag}] {net:9} | {-negv:>7} views | {led['videos'][vid]['title'][:48]}")
-    if DRY:
-        log("modo seco: nada foi postado."); return
-    if limit <= 0:
-        log("teto mensal atingido; nada a postar."); return
-    slot = slot_hoje_utc()   # agenda p/ hoje POST_HOUR BRT (horário PADRÃO); '' só se já passou
-    log(f"horário padrão: {POST_HOUR}h BRT -> {'agendar p/ ' + slot if slot else 'IMEDIATO (já passou das ' + str(POST_HOUR) + 'h)'}")
-    done = 0
-    for prio, negv, vid, net in todo:
-        if done >= limit: break
-        try:
-            if post_one(led, vid, net, slot, tag="AUTO"):
-                done += 1
-        except Exception as e:
-            log(f"ERRO {net} {vid}: {e}")
-            telegram(f"⚠️ Falha ao postar {led['videos'][vid]['title'][:40]} no {net}: {e}")
-    log(f"feito: {done} post(s) nesta execução.")
+    posted = month_posted(led); room = max(0, MONTH_CAP - posted)
+    log(f"[{'DRY-RUN' if DRY else 'LIVE'}] novos: {new} | mês: {posted}/{MONTH_CAP} (folga {room}) | "
+        f"cotas/dia FB {DAILY['facebook']} TT {DAILY['tiktok']} IG {DAILY['instagram']}")
+    for net in ("facebook", "tiktok", "instagram"):
+        log(f"  fila {net}: {len(queues[net])} candidatos")
+
+    done_total, done_vids = 0, set()   # não postar o MESMO vídeo em 2 redes no mesmo run
+    for net in ("facebook", "tiktok", "instagram"):
+        slots = HOURS[net][:DAILY[net]]
+        taken = 0
+        for vid in queues[net]:
+            if taken >= DAILY[net] or done_total >= room: break
+            if vid in done_vids: continue
+            h, m = slots[taken]
+            at = slot_utc(h, m)
+            try:
+                if post_one(led, vid, net, at, tag="AUTO"):
+                    taken += 1; done_total += 1; done_vids.add(vid)
+            except Exception as e:
+                log(f"ERRO {net} {vid}: {e}")
+                telegram(f"⚠️ Falha ao postar {led['videos'][vid]['title'][:40]} no {net}: {e}")
+        log(f"  {net}: {taken}/{DAILY[net]} agendado(s)")
+    log(f"feito: {done_total} post(s) nesta execução (mês agora {posted + (0 if DRY else done_total)}/{MONTH_CAP}).")
 
 if __name__ == "__main__":
     main()

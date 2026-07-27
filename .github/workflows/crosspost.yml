@@ -1,9 +1,9 @@
 name: crosspost
 on:
   schedule:
-    # Roda de DIA (12h UTC = 9h BRT) e AGENDA o post p/ 21h BRT via scheduled_at.
-    # Assim o horário do post é cravado (21h), mesmo o cron do GitHub atrasando horas.
-    - cron: '0 12 * * 1,3,5'   # Seg/Qua/Sex 12h UTC = 9h BRT (só dispara; publica 21h)
+    # Roda de DIA (12h UTC = 9h BRT) e AGENDA os posts do dia p/ a noite BRT via scheduled_at.
+    # Assim o horário é cravado (FB 20h/22h, TikTok 21h, IG 21h30), mesmo o cron do GitHub atrasando.
+    - cron: '0 12 * * *'   # DIÁRIO 12h UTC = 9h BRT (só dispara; publica à noite)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -45,9 +45,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TMP_DIR: /tmp/xp
           START_DATE: '2026-07-15'
-          MAX_PER_RUN: '1'
-          MONTH_CAP: '9'
-          POST_HOUR: '21'   # horário PADRÃO BRT dos posts (o robô agenda p/ esta hora)
+          # Build = 120 posts/mês TOTAL (compartilhado c/ Surtei, TCG, etc.).
+          # Mano Preguiça usa 3/dia (FB1+TT1+IG1) = ~90/mês; teto 93 reserva ~27/mês pros outros projetos.
+          MONTH_CAP: '93'
+          DAILY_FB: '1'      # cadência definida pelo Murilo (27/07): 1/dia p/ deixar cota pros outros canais
+          DAILY_TT: '1'
+          DAILY_IG: '1'
         run: python scripts/crosspost.py
       - name: salvar ledger atualizado
         run: |
