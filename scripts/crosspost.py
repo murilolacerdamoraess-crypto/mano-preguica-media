@@ -35,7 +35,9 @@ BUFFER_DAYS= int(os.environ.get("BUFFER_DAYS", "3")) # prehost mantém DAILY[net
 ONLY_VIDEO = os.environ.get("ONLY_VIDEO", "").strip() # override manual: posta SÓ este vídeo
 ONLY_NET   = os.environ.get("ONLY_NET", "").strip()   # ...nesta rede
 SCHEDULE_AT= os.environ.get("SCHEDULE_AT", "").strip() # ...opcional: agenda p/ ISO8601 UTC
-MIN_VIEWS  = int(os.environ.get("MIN_VIEWS", "1000"))  # não queima slot de TikTok/IG com vídeo fraco
+MIN_VIEWS  = int(os.environ.get("MIN_VIEWS", "10000"))  # piso subido 1000->10000 (análise 02/08):
+# TODO flop no TikTok tinha YouTube fraco (Lethal 1140->152 TT, pirâmides 2273->143, história 2182->119).
+# Os que renderam no TikTok tinham YT >=15k (Reaper 15.5k->15k TT, Void 25.7k->11k). Piso corta o lixo.
 
 # Cota DIÁRIA por rede (o cron roda 1x/dia e agenda a cota do dia)
 DAILY = {"facebook":   int(os.environ.get("DAILY_FB", "2")),
