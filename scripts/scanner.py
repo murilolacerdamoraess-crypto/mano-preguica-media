@@ -16,7 +16,7 @@ import os, sys, json, datetime, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from crosspost import LEDGER   # noqa: E402
+from crosspost import LEDGER, queue_curada   # noqa: E402
 RAIZ  = os.path.dirname(LEDGER)
 SCHED = os.path.join(RAIZ, "schedule.json")
 PLAN  = os.path.join(HERE, "tiktok_plan.json")
@@ -107,29 +107,22 @@ def main():
         frentes.append(bloco(nome, ate, hoje, f"{len(fut)} agendados", extra))
         if ate: riscos.append((ate, nome))
 
-    # --- TikTok (agendado de verdade) + fila pronta ---
+    # --- TikTok / Facebook / Instagram: TODOS automáticos via PostProxy (migração 27/07) ---
+    # Não é mais "agendado em lote" (era Metricool). O PostProxy posta dia a dia sozinho.
+    # O que importa agora é o BACKLOG curado por rede e quando ele seca. Fonte = queue_curada
+    # (mesma regra que a nuvem usa pra postar: nicho, MIN_VIEWS, não repetido há 2 meses).
     agora = datetime.datetime.now(BRT)
-    tt = sorted(d.date() for d in (brt(s["scheduled_at"]) for s in sched
-                if s.get("net") == "tiktok") if d and d > agora)   # só o que ainda NÃO foi ao ar
-    ate_tt = tt[-1] if tt else None
-    fila = len([p for p in plan if not p.get("scheduled")])
-    frentes.append(bloco("TikTok", ate_tt, hoje, f"{len(tt)} agendados",
-                         f"📦 +{fila} na fila curada (pronta pra agendar)"))
-    if ate_tt: riscos.append((ate_tt, "TikTok"))
+    tt_back = len(queue_curada("tiktok", led["videos"]))
+    frentes.append(f"✅ *TikTok*\n   automático (PostProxy, ~1/dia) · 📦 {tt_back} no backlog curado (~{tt_back}d)")
+    riscos.append((hoje + datetime.timedelta(days=tt_back), "TikTok (backlog)"))
 
-    # --- Facebook (automático + backlog) ---
     fb_back = sum(1 for v in led["videos"].values()
                   if v.get("postable") and not v["posted"]["facebook"]["done"])
-    frentes.append(f"✅ *Facebook*\n   automático seg/qua/sex · 📦 {fb_back} no backlog")
+    frentes.append(f"✅ *Facebook*\n   automático (PostProxy, ~2/dia) · 📦 {fb_back} no backlog")
 
-    # --- Instagram (agendado de verdade) + fila ---
-    ig = sorted(d.date() for d in (brt(s["scheduled_at"]) for s in sched
-                if s.get("net") == "instagram") if d and d > agora)
-    ate_ig = ig[-1] if ig else None
-    fila_ig = len([p for p in load(PLAN_IG, []) if not p.get("scheduled")])
-    frentes.append(bloco("Instagram", ate_ig, hoje, f"{len(ig)} agendados",
-                         f"📦 +{fila_ig} na fila"))
-    if ate_ig: riscos.append((ate_ig, "Instagram"))
+    ig_back = len(queue_curada("instagram", led["videos"]))
+    frentes.append(f"✅ *Instagram*\n   automático (PostProxy, ~1/dia) · 📦 {ig_back} no backlog curado (~{ig_back}d)")
+    riscos.append((hoje + datetime.timedelta(days=ig_back), "Instagram (backlog)"))
 
     # --- PRODUÇÃO (o Murilo cria — cobra o que falta) ---
     producao = []
