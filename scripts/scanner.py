@@ -7,9 +7,10 @@ Para CADA frente calcula a AUTONOMIA (até que dia tem coisa agendada) e destaca
 a que vai secar primeiro. Não é previsão: lê o que está de fato agendado.
 
 Fontes:
-  - schedule.json    (TikTok/FB agendados de verdade — PostProxy/Metricool)  [vivo]
+  - schedule.json    (posts agendados de verdade — PostProxy)                [vivo]
   - tiktok_plan.json (fila curada pronta pra agendar)                        [vivo]
   - ledger.json      (backlog do Facebook)                                   [vivo]
+  - metrics.json     (desempenho REAL por post — PostProxy /stats)           [vivo]
   - operacao.json    (YouTube vídeos + enquetes — snapshot do Studio)        [atualizado quando escaneio]
 """
 import os, sys, json, datetime, urllib.parse, urllib.request
@@ -23,6 +24,7 @@ PLAN  = os.path.join(HERE, "tiktok_plan.json")
 PLAN_IG = os.path.join(HERE, "ig_plan.json")
 OPER  = os.path.join(HERE, "operacao.json")
 PROD  = os.path.join(HERE, "producao.json")
+MET   = os.path.join(RAIZ, "metrics.json")
 TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
 BRT = datetime.timezone(datetime.timedelta(hours=-3))
@@ -162,9 +164,25 @@ def main():
     else:
         bloco_prox = ""
 
+    # --- campeões reais (metrics.json do PostProxy — substitui o Metricool) ---
+    met = load(MET, {})
+    bloco_camp = ""
+    if met:
+        def imp(row, net):
+            st = row.get(net) or {}
+            for k in ("impressions", "reach", "video_views", "views"):
+                if isinstance(st.get(k), (int, float)): return int(st[k])
+            return 0
+        rank = sorted(((imp(r, "tiktok"), r.get("title", "")) for r in met.values()), reverse=True)
+        rank = [x for x in rank if x[0] > 0][:3]
+        if rank:
+            linhas = [f"   {v:,} — {t[:40]}".replace(",", ".") for v, t in rank]
+            bloco_camp = "🏆 *Campeões no TikTok (impressões reais)*\n" + "\n".join(linhas)
+
     msg = (f"📡 *Scanner da Operação* — {hoje.strftime('%d/%m')}\n\n"
            + "📤 *Distribuição (automático)*\n" + "\n\n".join(frentes)
            + (("\n\n🎬 *Produção (você cria)*\n" + "\n\n".join(producao)) if producao else "")
+           + (("\n\n" + bloco_camp) if bloco_camp else "")
            + "\n\n" + (bloco_prox + "\n\n" if bloco_prox else "") + alerta)
 
     if TG_TOKEN and TG_CHAT:

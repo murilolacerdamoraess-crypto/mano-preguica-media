@@ -55,10 +55,16 @@ jobs:
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
           IG_START: '2026-08-17'   # último IG do Metricool = 16/08
         run: python scripts/crosspost.py
+      - name: coletar metricas reais (PostProxy)
+        env:
+          POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/metrics.py || echo "metrics skip"
       - name: salvar ledger atualizado
         run: |
           git config user.name "crosspost-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add ledger.json schedule.json
-          git commit -m "ledger: atualizado pelo robo [skip ci]" || echo "sem mudanca"
+          git add ledger.json schedule.json metrics.json || true
+          git commit -m "ledger+metrics: atualizado pelo robo [skip ci]" || echo "sem mudanca"
           git push || echo "push skip"

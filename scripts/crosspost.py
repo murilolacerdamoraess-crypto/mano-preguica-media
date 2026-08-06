@@ -102,6 +102,25 @@ BLACK = ["arcane","league","jinx","zaun","riot"," tft","anime","série","serie",
 IG_AL = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
 def off_nicho(t):
     tl = t.lower(); return any(k in tl for k in BLACK)
+
+# --- peso de TEMA p/ feed frio (TikTok/IG) — descoberto na análise 05/08 ---
+# O nº de views no YouTube é o PISO (MIN_VIEWS já corta o lixo), mas NÃO é o teto no TikTok:
+# hits gigantes de YT sobre CONSTRUÇÃO/VEÍCULO morreram no feed frio (Archon 170k YT -> 876 TT,
+# bases 484k -> 555), enquanto CRIATURA + medo/escala explodiu (Reaper -> 42k TT, FNAF -> 3.3k).
+# Então, entre os elegíveis, priorizamos monstro/medo e afundamos construção/veículo/notícia.
+BOOST_KW = ["leviat","reaper","gargantuan","shiver","elusive","ghost","dragon","dragão","warper",
+            "crabsquid","serpente","kraken","monstro","criatura","bicho","tubarão","medo","terror",
+            "assombr","barulho"," som ","escondid","esconde","void","abismo","fundo do mar","profund",
+            "perigos","mortal","matar","mata ","ataca","ataque","sobreviv","fnaf","segredo","nunca",
+            "jamais","gigante","maior","tamanho","o que é","que faz","por que","porque não"]
+DRAG_KW  = ["base","construir","construç","submarino","veículo","veiculo","cyclops","seamoth","prawn",
+            "archon","luxo","tour","mansão","decor","upgrade","módulo","modulo","anunci","lançad",
+            "lançament","trailer","mobile","celular","atualizaç","update","patch"]
+def tema_score(title):
+    """+1 por gatilho de criatura/medo/escala, -1 por construção/veículo/notícia. Reordena a fila."""
+    tl = title.lower()
+    return sum(1 for k in BOOST_KW if k in tl) - sum(1 for k in DRAG_KW if k in tl)
+THEME_CUT = int(os.environ.get("THEME_CUT", "-2"))  # backlog TT/IG com score <= isto: corta (construção pura)
 def tiktok_date(pid):
     try: return datetime.datetime.utcfromtimestamp(int(pid) >> 32).date()
     except Exception: return None
@@ -189,16 +208,21 @@ def queue_curada(net, vids):
         if v["seconds"] < min_secs: continue
         if v["views"] < MIN_VIEWS: continue
         if off_nicho(v["title"]): continue
+        novo = v["published"] >= START_DATE
+        sc = tema_score(v["title"])
         p = v["posted"][net]
         if p["done"]:
             dt = ultima_vez(net, p)
             if dt is None or dt >= cutoff: continue   # sem data = não arrisca; recente = espera
-        if v["published"] >= START_DATE:
-            novos.append((-v["views"], vid))
+        # teto-baixo no feed frio (construção/veículo/notícia pura): corta do BACKLOG.
+        # Vídeo NOVO sempre entra (queremos conteúdo fresco nas 3 redes, independente do tema).
+        if not novo and sc <= THEME_CUT: continue
+        if novo:
+            novos.append((-sc, -v["views"], vid))       # novos: melhor tema, depois mais views
         else:
-            backlog.append((v["published"][:10], vid))
-    novos.sort(); backlog.sort()   # novos: mais views; backlog: mais antigo
-    return [vid for _, vid in novos] + [vid for _, vid in backlog]
+            backlog.append((-sc, v["published"][:10], vid))  # backlog: melhor tema, depois mais antigo
+    novos.sort(); backlog.sort()
+    return [vid for *_, vid in novos] + [vid for *_, vid in backlog]
 
 # Força H.264/avc1 no download (o [ext=mp4] antigo deixava passar AV1, que quebra em player/ingestão).
 YTDLP_H264 = "bv*[vcodec^=avc1]+ba[ext=m4a]/b[ext=mp4][vcodec^=avc1]/b[ext=mp4]/b"
