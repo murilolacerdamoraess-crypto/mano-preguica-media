@@ -121,6 +121,23 @@ def tema_score(title):
     tl = title.lower()
     return sum(1 for k in BOOST_KW if k in tl) - sum(1 for k in DRAG_KW if k in tl)
 THEME_CUT = int(os.environ.get("THEME_CUT", "-2"))  # backlog TT/IG com score <= isto: corta (construção pura)
+
+# --- trava de NOTÍCIA VELHA (05/08: "NOVO MONSTRO SUBNAUTICA 2" ia sair com 302 dias) ---
+# Título com moldura de novidade ("novo", "anunciado", "vazou", "chegando"...) num vídeo já
+# envelhecido = notícia datada. Num jogo em desenvolvimento, "novo" de 10 meses atrás mente.
+# NÃO uso "revelou/segredo" (ex.: "segredo de 12 anos" é atemporal, não datado).
+NOVELTY_KW = ["novo ", "nova ", "anunci", "lançad", "lançament", "chegando", "vazou", "vazad",
+              "acaba de", "breaking", "confirmad", "trailer", "data de lançament", "saiu o"]
+FRESH_DAYS = int(os.environ.get("FRESH_DAYS", "120"))  # acima disso, moldura de novidade = velha
+def noticia_velha(v):
+    tl = v.get("title", "").lower()
+    if not any(k in tl for k in NOVELTY_KW):
+        return False
+    try:
+        idade = (datetime.date.today() - datetime.date.fromisoformat(v["published"][:10])).days
+    except Exception:
+        return False
+    return idade > FRESH_DAYS
 def tiktok_date(pid):
     try: return datetime.datetime.utcfromtimestamp(int(pid) >> 32).date()
     except Exception: return None
@@ -194,6 +211,7 @@ def queue_facebook(vids):
     out = []
     for vid, v in sorted(vids.items(), key=lambda kv: -kv[1]["views"]):
         if not v["postable"] or v["posted"]["facebook"]["done"]: continue
+        if noticia_velha(v): continue   # não repostar notícia datada nem no FB
         out.append(vid)
     return out
 
@@ -208,6 +226,7 @@ def queue_curada(net, vids):
         if v["seconds"] < min_secs: continue
         if v["views"] < MIN_VIEWS: continue
         if off_nicho(v["title"]): continue
+        if noticia_velha(v): continue   # moldura de novidade + vídeo velho = notícia datada
         novo = v["published"] >= START_DATE
         sc = tema_score(v["title"])
         p = v["posted"][net]
