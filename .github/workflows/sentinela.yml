@@ -1,0 +1,35 @@
+name: sentinela
+on:
+  schedule:
+    # Rede de segurança: revarre a fila e cancela post ruim ANTES de publicar.
+    # 21h UTC = 18h BRT — 2h antes do 1º post da noite (FB 20h), com folga p/ o cron do GitHub atrasar.
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'modo seco (1 = so lista o que cancelaria)'
+        default: '0'
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: rodar sentinela
+        env:
+          DRY_RUN: ${{ inputs.dry_run || '0' }}
+          POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/sentinela.py
+      - name: salvar ledger (se cancelou algo)
+        run: |
+          git config user.name "sentinela-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add ledger.json || true
+          git commit -m "sentinela: cancelou post ruim antes de publicar [skip ci]" || echo "nada cancelado"
+          git push || echo "push skip"
