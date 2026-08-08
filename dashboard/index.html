@@ -1,0 +1,53 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canal Agente · Central</title>
+<style>
+:root{--bg:#faf9f7;--card:#fff;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e6e3de;--accent:#0f6e5a;
+--ok:#0f6e5a;--warn:#b26b00;--bad:#b3261e;--shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.05)}
+@media(prefers-color-scheme:dark){:root{--bg:#131313;--card:#1c1c1c;--ink:#ececec;--muted:#9a9a9a;
+--line:#2b2b2b;--accent:#3fbfa3;--ok:#3fbfa3;--warn:#e0a24a;--bad:#f0806f;--shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.3)}}
+*{box-sizing:border-box}body{background:var(--bg);color:var(--ink);margin:0;padding:28px 16px 80px;
+font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:980px;margin:0 auto}
+header{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+h1{font-size:22px;margin:0}.date{color:var(--muted);font-size:13px}
+.secar{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:14px 0 22px;box-shadow:var(--shadow)}
+h2{font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:26px 0 12px;font-weight:700}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+.fr{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--muted);border-radius:10px;padding:12px 14px;box-shadow:var(--shadow)}
+.fr.ok{border-left-color:var(--ok)}.fr.warn{border-left-color:var(--warn)}.fr.bad{border-left-color:var(--bad)}.fr.muted{border-left-color:var(--line)}
+.fr-h{font-weight:600;margin-bottom:3px}.fr-d{font-size:13px;color:var(--muted)}
+.cmds{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.cmd{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow)}
+.cmd-t{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}.cmd-t .when{margin-left:auto;font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 9px}
+.cmd-say{font-size:13px;color:var(--muted);margin:8px 0 6px}
+.cmd-say code{color:var(--accent);font:13px ui-monospace,Menlo,monospace;background:transparent}
+.cmd-d{font-size:13px;color:var(--muted)}
+.perf{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+.perf-net{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+.perf-net h3{font-size:14px;margin:0 0 8px}table{width:100%;border-collapse:collapse;font-size:13px}
+td,th{text-align:left;padding:5px 6px;border-bottom:1px solid var(--line)}th{font-size:10px;text-transform:uppercase;color:var(--muted)}
+.imp{font-weight:700;white-space:nowrap}.eng{color:var(--muted);white-space:nowrap}
+.auto{font-size:13px;color:var(--muted);padding-left:18px;margin:6px 0}.muted{color:var(--muted)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow);font-size:14px}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:30px}a{color:var(--accent)}
+</style></head><body><div class="wrap">
+<header><h1>🎬 Canal Agente</h1><div class="date">Atualizado 08/08/2026 · Mano Preguiça</div></header>
+<div class="secar">🎯 <b>TikTok</b> seca em 11d. Tá tranquilo.</div>
+
+<h2>Operação: o que está coberto</h2>
+<div class="grid"><div class="fr ok"><div class="fr-h">🟢 YouTube (vídeos)</div><div class="fr-d">3 agendados · até 27/08</div></div><div class="fr ok"><div class="fr-h">🟢 Enquetes</div><div class="fr-d">5 agendados · até 20/08</div></div><div class="fr ok"><div class="fr-h">🟢 TikTok</div><div class="fr-d">automático · 11 no backlog curado</div></div><div class="fr ok"><div class="fr-h">🟢 Instagram</div><div class="fr-d">automático · 108 no backlog</div></div><div class="fr muted"><div class="fr-h">🐢 Facebook</div><div class="fr-d">baixa prioridade · 1x/semana (qua)</div></div><div class="fr bad"><div class="fr-h">🔴 MP1 Shorts</div><div class="fr-d">3x/semana · você produz · nada agendado</div></div><div class="fr bad"><div class="fr-h">🔴 MP2 (vídeos IA)</div><div class="fr-d">2x/semana · você produz · nada agendado</div></div></div>
+
+<h2>Central de comandos: o que pedir pro Claude</h2>
+<div class="cmds"><div class="cmd"><div class="cmd-t">🔥 <b>Radar de hype</b><span class="when">Toda segunda</span></div><div class="cmd-say">Peça ao Claude: <code>roda o radar de hype</code></div><div class="cmd-d">Varre Steam/filmes/trends e traz os jogos quentes com janela. Candidato fura a fila.</div></div><div class="cmd"><div class="cmd-t">🎬 <b>Gerar roteiro</b><span class="when">Quando quiser um vídeo</span></div><div class="cmd-say">Peça ao Claude: <code>me dá um roteiro (acha o tema você)</code></div><div class="cmd-d">A máquina acha o achado na fonte real do jogo e entrega o dossiê pronto pra gravar.</div></div><div class="cmd"><div class="cmd-t">✂️ <b>Short do longo</b><span class="when">A cada vídeo longo novo</span></div><div class="cmd-say">Peça ao Claude: <code>faz o short-isca desse longo</code></div><div class="cmd-d">Gera o short que puxa view pro longo (cliffhanger + longo anexado).</div></div><div class="cmd"><div class="cmd-t">💬 <b>Responder comentários</b><span class="when">Quando acumular</span></div><div class="cmd-say">Peça ao Claude: <code>gera as respostas dos comentários</code></div><div class="cmd-d">Escreve na sua voz; você aprova no Telegram (skill mano-comentarios).</div></div><div class="cmd"><div class="cmd-t">📊 <b>Enquetes</b><span class="when">Quando a fila baixar</span></div><div class="cmd-say">Peça ao Claude: <code>me dá N enquetes</code></div><div class="cmd-d">Lote pronto com capas, monta e agenda no Studio.</div></div><div class="cmd"><div class="cmd-t">🔭 <b>Re-scan do Studio</b><span class="when">Quando o painel avisar dado velho</span></div><div class="cmd-say">Peça ao Claude: <code>re-scan do Studio</code></div><div class="cmd-d">Atualiza vídeos/enquetes agendados (o painel some com o aviso de dado velho).</div></div></div>
+<h2>No automático (você não pede nada)</h2>
+<ul class="auto"><li>Crosspost TikTok/IG roda sozinho todo dia (você não pede nada).</li><li>Facebook sai 1x/semana na quarta (baixa prioridade).</li><li>A sentinela cancela post ruim antes de publicar, sozinha.</li><li>As métricas do PostProxy entram sozinhas no painel.</li></ul>
+
+<h2>Performance real (PostProxy)</h2>
+<div class="perf"><div class="perf-net"><h3>TikTok</h3><table><tr><th>impr.</th><th>eng.</th><th>post</th></tr><tr><td class="imp">3.179</td><td class="eng">85</td><td>Será que essa arma é capaz de mudar o tamanho da aur</td></tr><tr><td class="imp">978</td><td class="eng">16</td><td>Esse monstro escuta qualquer som 😱</td></tr><tr><td class="imp">644</td><td class="eng">39</td><td>BASES NOS BIOMAS MAIS PERIGOSOS DO SUBNAUTICA</td></tr><tr><td class="imp">306</td><td class="eng">9</td><td>ESSE É O MONSTRO DA VOID DE SUBNAUTICA 2 💀</td></tr></table></div><div class="perf-net"><h3>Facebook</h3><table><tr><th>impr.</th><th>eng.</th><th>post</th></tr><tr><td class="imp">405</td><td class="eng">0</td><td>Esse streamer quase foi de base jogando subnautica 🪦</td></tr><tr><td class="imp">370</td><td class="eng">3</td><td>Será que essa arma é capaz de mudar o tamanho da aur</td></tr><tr><td class="imp">369</td><td class="eng">2</td><td>SUBNAUTICA COM IA 🌊🤖</td></tr><tr><td class="imp">281</td><td class="eng">0</td><td>Gargantuan Leviathan: O Monstro MAIS PERIGOSO de Sub</td></tr><tr><td class="imp">269</td><td class="eng">0</td><td>O QUE ACONTECE se você levar o FILHOTE do GARGANTUAN</td></tr></table></div></div>
+
+<h2>Roteiros</h2>
+<div class="box">Meu Drive → Mano Preguica → ROTEIROS - DOSSIÊS (cada vídeo vira um dossiê HTML com roteiro + fonte + prova anti-alucinação).</div>
+
+<footer>Painel do Canal Agente · lê os dados vivos da esteira · sem API paga · a execução é com o Claude</footer>
+</div></body></html>

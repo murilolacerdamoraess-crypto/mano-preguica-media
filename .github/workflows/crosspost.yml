@@ -62,10 +62,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scripts/metrics.py || echo "metrics skip"
+      - name: gerar painel (Canal Agente)
+        run: python scripts/dashboard.py || echo "dashboard skip"
       - name: salvar ledger atualizado
         run: |
           git config user.name "crosspost-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add ledger.json schedule.json metrics.json || true
-          git commit -m "ledger+metrics: atualizado pelo robo [skip ci]" || echo "sem mudanca"
+          git add ledger.json schedule.json metrics.json dashboard/index.html || true
+          git commit -m "ledger+metrics+painel: atualizado pelo robo [skip ci]" || echo "sem mudanca"
           git push || echo "push skip"
