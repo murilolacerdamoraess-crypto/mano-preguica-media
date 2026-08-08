@@ -280,16 +280,21 @@ def caption(v):
         return f"{v['title']}\n\n#shorts #fyp #viral"
     return f"{v['title']}\n\n#Subnautica #games #gameplay #jogos"
 
-def platforms_block(net):
-    if net == "facebook":  return {"facebook": {"format": "post", "page_id": FB_PAGE}}
+# FB Reel exige VERTICAL (9:16) e tem limite de duração; horizontal/longo fica como "post" comum.
+# Vertical vira Reel pra ganhar o alcance orgânico que o "post" não tem (análise 08/08: FB ~280 imp/post).
+FB_REEL_MAXSEC = int(os.environ.get("FB_REEL_MAXSEC", "90"))
+def platforms_block(net, v=None):
+    if net == "facebook":
+        vertical = bool(v) and v.get("type") == "vertical" and v.get("seconds", 0) <= FB_REEL_MAXSEC
+        return {"facebook": {"format": "reel" if vertical else "post", "page_id": FB_PAGE}}
     if net == "tiktok":    return {"tiktok": {"privacy_status": "PUBLIC_TO_EVERYONE"}}
     if net == "instagram": return {"instagram": {"format": "reel"}}
 
-def pp_post(net, url, text, scheduled_at=""):
+def pp_post(net, url, text, scheduled_at="", v=None):
     post = {"body": text}
     if scheduled_at: post["scheduled_at"] = scheduled_at
     body = json.dumps({"post": post, "profiles": [PROFILES[net]],
-                       "media": [url], "platforms": platforms_block(net)}).encode()
+                       "media": [url], "platforms": platforms_block(net, v)}).encode()
     req = urllib.request.Request("https://api.postproxy.dev/api/posts", data=body,
             headers={"Authorization": f"Bearer {PP_KEY}", "Content-Type": "application/json"})
     return json.load(urllib.request.urlopen(req))
@@ -344,7 +349,7 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
         log(f"{tag} {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return False
     if DRY:
         log(f"[DRY] {tag} {net:9} <- {vid} | {v['title'][:46]} | quando={scheduled_at or 'agora'}"); return True
-    r = pp_post(net, url, caption(v), scheduled_at); pid = r.get("id")
+    r = pp_post(net, url, caption(v), scheduled_at, v=v); pid = r.get("id")
     pp_wait_ingest(pid); cleanup(vid)
     v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": ""}
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
