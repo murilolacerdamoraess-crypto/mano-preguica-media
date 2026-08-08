@@ -118,8 +118,10 @@ def main():
     frentes.append(f"✅ *TikTok*\n   automático (PostProxy, ~1/dia) · 📦 {tt_back} no backlog curado (~{tt_back}d)")
     riscos.append((hoje + datetime.timedelta(days=tt_back), "TikTok (backlog)"))
 
-    # Facebook PAUSADO (08/08): não constrói renda, cota guardada pros outros projetos.
-    frentes.append("⏸️ *Facebook*\n   pausado (não prioritário) · cota realocada")
+    # Facebook em cadência BAIXA (08/08): monetizado mas rende pouco -> 1x/semana (qua), poupa cota.
+    fb_back = sum(1 for v in led["videos"].values()
+                  if v.get("postable") and not v["posted"]["facebook"]["done"])
+    frentes.append(f"🐢 *Facebook*\n   baixa prioridade · ~1x/semana (qua) · 📦 {fb_back} no backlog")
 
     ig_back = len(queue_curada("instagram", led["videos"]))
     frentes.append(f"✅ *Instagram*\n   automático (PostProxy, ~1/dia) · 📦 {ig_back} no backlog curado (~{ig_back}d)")

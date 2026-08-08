@@ -48,9 +48,8 @@ jobs:
           # Build = 120 posts/mês TOTAL (compartilhado c/ Surtei, TCG, etc.).
           # Mano Preguiça usa 3/dia (FB1+TT1+IG1) = ~90/mês; teto 93 reserva ~27/mês pros outros projetos.
           MONTH_CAP: '93'
-          DAILY_FB: '0'      # CORTADO (08/08): FB não constrói renda e tinha ~280 impressões/post.
-          # A cota (~30/mês) fica guardada pros outros projetos (Surtei/TCG) no plano Build compartilhado.
-          # O código do FB (queue_facebook + Reel condicional) segue pronto — é só voltar pra 1 pra religar.
+          DAILY_FB: '1'      # FB é MONETIZADO, só rende pouco (poucas views). Mantido vivo em
+          FB_WEEKDAY: '2'    # cadência BAIXA: 1x/semana (quarta). Antes era 1/dia. Poupa cota do Build.
           DAILY_TT: '1'
           DAILY_IG: '1'
           # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.

@@ -48,6 +48,11 @@ DAILY = {"facebook":   int(os.environ.get("DAILY_FB", "2")),
 # Vazio = já ativo (Facebook começa logo, Metricool não posta FB).
 ACTIVATE = {"tiktok":    os.environ.get("TT_START", ""),
             "instagram": os.environ.get("IG_START", "")}
+# Cadência SEMANAL opcional por rede (weekday Seg=0..Dom=6): a rede só posta NESSE dia.
+# Usado pra manter o Facebook vivo (é monetizado) numa frequência baixa, ~1x/semana, sem gastar cota.
+WEEKLY = {}
+if os.environ.get("FB_WEEKDAY", "") != "":
+    WEEKLY["facebook"] = int(os.environ["FB_WEEKDAY"])
 # Horários (hora, minuto) BRT por rede — espalhados p/ não sair tudo junto
 HOURS = {"facebook":  [(20, 0), (22, 0)],
          "tiktok":    [(21, 0)],
@@ -415,6 +420,9 @@ def main():
         start = ACTIVATE.get(net, "")
         if start and today < start:
             log(f"  {net}: aguardando ativação ({start}) — Metricool ainda escoando"); continue
+        wd = WEEKLY.get(net)
+        if wd is not None and datetime.date.today().weekday() != wd:
+            log(f"  {net}: cadência semanal ({DIA_PT[wd]}), hoje não é dia — pula"); continue
         slots = HOURS[net][:DAILY[net]]
         taken = 0
         for vid in queues[net]:
