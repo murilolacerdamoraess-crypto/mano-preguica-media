@@ -23,6 +23,7 @@ ANALI = os.path.join(RAIZ, "dashboard-analises.json")
 PERF  = os.path.join(RAIZ, "dashboard-performance.json")
 ROTE  = os.path.join(RAIZ, "dashboard-roteiros.json")
 APREN = os.path.join(RAIZ, "dashboard-aprendizados.json")
+PRONTOS = os.path.join(RAIZ, "dashboard-prontos.json")
 DOSSIE_URL = "dossies/"   # dossiês copiados DENTRO da pasta do painel (self-contained; link nunca quebra)
 OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
@@ -388,8 +389,23 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, 
     return shell(f"{nome} · Canal Agente", net, "".join(B))
 
 
-def page_roteiros(hoje, roteiros):
-    B = [f'<div class="head"><h1>Roteiros prontos</h1><span class="date">{hoje.strftime("%d/%m/%Y")}</span></div>']
+def page_roteiros(hoje, roteiros, prontos):
+    B = [f'<div class="head"><h1>Roteiros & prontos</h1><span class="date">{hoje.strftime("%d/%m/%Y")}</span></div>']
+
+    # Prontos pra postar (o editor entregou) — vem primeiro, é o mais acionável
+    vids = prontos.get("videos", [])
+    url = prontos.get("pasta_url", "#")
+    B.append(f'<h2>{icon("film")} Prontos pra postar ({len(vids)}) · <a href="{esc(url)}" style="color:var(--accent);font-weight:600;text-transform:none;letter-spacing:0">abrir pasta do editor ↗</a></h2>')
+    B.append('<div class="card">')
+    if not vids:
+        B.append('<div class="empty">Nada entregue pelo editor ainda.</div>')
+    for v in vids:
+        B.append(f'<div class="item"><span class="ph">{icon("film")}</span>'
+                 f'<div class="bd"><div class="tt">{esc(v.get("nome",""))}</div>'
+                 f'<div class="ds">{esc(v.get("tema",""))}</div></div></div>')
+    B.append('</div>')
+
+    B.append(f'<h2>{icon("doc")} Roteiros prontos</h2>')
     B.append('<div class="acts">' + copybtn("me dá um roteiro") + copybtn("roda o radar de hype") + '</div>')
     if not roteiros:
         B.append(f'<div class="card"><div class="bignada">{icon("doc","bi")}'
@@ -432,9 +448,10 @@ def main():
     perf_real = load(PERF, {})
     roteiros = load(ROTE, {}).get("roteiros", [])
     aprend = load(APREN, {}).get("aprendizados", [])
+    prontos = load(PRONTOS, {})
     os.makedirs(OUTDIR, exist_ok=True)
     open(os.path.join(OUTDIR, "index.html"), "w", encoding="utf-8").write(home(hoje, oper, led, prod, met))
-    open(os.path.join(OUTDIR, "roteiros.html"), "w", encoding="utf-8").write(page_roteiros(hoje, roteiros))
+    open(os.path.join(OUTDIR, "roteiros.html"), "w", encoding="utf-8").write(page_roteiros(hoje, roteiros, prontos))
     open(os.path.join(OUTDIR, "aprendizados.html"), "w", encoding="utf-8").write(page_aprendizados(hoje, aprend))
     for net, nome in NETS:
         open(os.path.join(OUTDIR, f"{net}.html"), "w", encoding="utf-8").write(

@@ -1,0 +1,10 @@
+{
+  "_doc": "Vídeos que o editor já entregou, prontos pra postar. Pasta compartilhada 'Editado Mano Preguiça/Shorts'. O Claude atualiza quando checa a pasta (o painel não lê Drive compartilhado sozinho). Link abre a pasta.",
+  "atualizado": "2026-08-08",
+  "pasta_url": "https://drive.google.com/drive/folders/15P4S6oRoGGjjbJZtoKH43Kdz4YhSaVAw",
+  "videos": [
+    {"nome": "Shorts - Arma Sniper", "tema": "a arma que mata qualquer monstro"},
+    {"nome": "Shorts - Leviathan Colecionador", "tema": "matar o Colecionador em co-op"},
+    {"nome": "Shorts - Shiver Co-op", "tema": "matar o Shiver em dupla"}
+  ]
+}
