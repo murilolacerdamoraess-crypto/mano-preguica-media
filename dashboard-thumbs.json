@@ -1,6 +1,48 @@
 {
   "_doc": "Sistema de thumbnail do painel. O Claude mantém. Consolida o padrão de CTR, o kit de prompt e o acervo de referência pra geração determinística. A preencher nos próximos passos: CTR real por vídeo (puxado do Studio) e o mural do Anthomnia.",
   "atualizado": "2026-08-09",
+  "oficina": {
+    "nota": "Oficina por vídeo: cada vídeo com thumb fraca (ou vídeo novo no rascunho) ganha diagnóstico, conceito da nova, elementos, monstro de referência e prompt pronto. Peça 'analisa a thumb do vídeo X' pra eu montar um brief novo, ou 'pensa numa thumb pro vídeo novo' quando estiver no rascunho. A lista completa de piores enche quando o CTR real entrar (Studio); por ora, os candidatos vêm por recência e baixa performance.",
+    "videos": [
+      {
+        "vid": "idKZY705ucQ",
+        "titulo": "SERÁ QUE EU CONSIGO MATAR O SHIVER LEVIATHAN SOZINHO?",
+        "status": "ruim",
+        "ctr": 2.2,
+        "diagnostico": "A thumb atual é um close do olho do Shiver. Bonita, mas é a perdedora documentada de 2,2% de CTR. A 120px o olho vira um borrão roxo abstrato: não dá pra saber que é um monstro, não tem boca nem dentes, não tem figura descolando do fundo (tudo na mesma cor roxo, azul e marrom) e a arma quase some. O dedo não para porque o olho não grita 'monstro gigante'.",
+        "conceito": "Trocar o close por um Shiver de FRENTE, boca escancarada com dentes à mostra, descendo sobre o mergulhador sozinho. O 'sozinho' do título vira o gancho visual: o player minúsculo lá embaixo dá escala e medo, o Shiver enorme toma o frame. É a fórmula da vencedora Shiver frontal (5,5%) somada ao medo do título.",
+        "elementos": [
+          "Shiver de frente, boca aberta com dentes visíveis dos dois lados",
+          "Olhos brilhando (puxar pra um brilho gelo/ciano)",
+          "Criatura ocupando 75% do frame, ângulo baixo, encarando a câmera",
+          "Mergulhador sozinho e pequeno no canto inferior, pra dar escala e vender o 'sozinho'",
+          "Fundo mais claro e contrastante (água azul-petróleo clara) pra a silhueta do monstro descolar",
+          "Zero texto na imagem"
+        ],
+        "referencia": {
+          "monstro": "Shiver Leviathan, vista frontal",
+          "fonte": "Biblioteca-Visual-Subnautica / leviatas / shiver / CANON.jpg",
+          "posicao": "centralizado, de frente, boca aberta, ligeiramente de cima pra baixo sobre o player"
+        },
+        "prompts": [
+          {"titulo": "Prompt principal (anexe a ref do Shiver de frente)", "texto": "Reproduza a criatura desta imagem [@ref do Shiver do jogo] EXATAMENTE como ela é, sem inventar a anatomia. Thumbnail de YouTube 16:9, cena clara e legível, iluminação de cinema, ultrarealista 4k, efeitos VFX. O Shiver Leviathan de FRENTE, boca escancarada com dentes à mostra dos dois lados, olhos brilhando em ciano gelado, ocupando 75% do frame, ângulo baixo encarando a câmera, descendo sobre um mergulhador solitário minúsculo no canto inferior (pra dar escala). Água azul-petróleo mais clara ao fundo pra a silhueta do monstro descolar, partículas e bolhas, alto contraste de cor. Composição limpa, sem HUD, sem interface, sem texto. PROIBIDO: mudar a anatomia do Shiver, estilo cartoon, dentes de dragão de Hollywood."},
+          {"titulo": "Passe de acabamento (em cima do resultado)", "texto": "gere exatamente essa imagem só que com iluminação de cinema, efeitos VFX, ultra realismo e 4k, mantendo a mesma composição e a mesma criatura, deixando as cores mais vivas e o monstro mais nítido"}
+        ]
+      },
+      {
+        "vid": "oWsDsD7DtEM",
+        "titulo": "TENTEI MATAR O LEVIATHAN COLECIONADOR DE SUBNAUTICA 2",
+        "status": "fila",
+        "motivo": "1.426 views, enquadramento de stunt. Candidato a novo título de descoberta + thumb de criatura de frente. Peça 'analisa a thumb do Colecionador'."
+      },
+      {
+        "vid": "XZQKq0mzLns",
+        "titulo": "A ARMA QUE MATA QUALQUER MONSTRO DE SUBNAUTICA 2",
+        "status": "fila",
+        "motivo": "1.696 views. A premissa é forte (a arma que o jogo proíbe), a thumb pode vender isso melhor. Peça 'analisa a thumb da Arma'."
+      }
+    ]
+  },
   "receita": {
     "titulo": "Receita validada por CTR real (medido no Studio, 08/08)",
     "nota": "Comparação real de 4 capas do canal. As imagens entram quando eu puxar o CTR por vídeo do Studio e casar com a thumb. Por enquanto, o número e a lição que ele impõe.",

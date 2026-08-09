@@ -462,6 +462,55 @@ def page_thumbs(hoje, td, led):
              + copybtn("monta o mural de thumbs do Anthomnia", "puxar Anthomnia")
              + '</div>')
 
+    # 0) Oficina por vídeo: diagnóstico + conceito + prompt pronto (o mais acionável)
+    of = td.get("oficina", {})
+    if of:
+        B.append(f'<h2>{icon("wand")} Consertar thumbnail (por vídeo)</h2>')
+        if of.get("nota"):
+            B.append(f'<p style="color:var(--sub);font-size:12.5px;margin:-4px 0 12px">{esc(of.get("nota",""))}</p>')
+        for v in of.get("videos", []):
+            vid = v.get("vid", ""); st = v.get("status", "fila")
+            stpill = {"ruim": '<span class="vpill ruim">thumb ruim</span>',
+                      "nova": '<span class="vpill medio">vídeo novo</span>',
+                      "fila": '<span class="pill">na fila</span>'}.get(st, "")
+            ctr = f' &nbsp;{v["ctr"]:.1f}% CTR' if v.get("ctr") else ""
+            B.append('<div class="card" style="margin-bottom:12px">')
+            B.append('<div class="item" style="align-items:flex-start">'
+                     f'<img class="thumb" style="width:120px;height:68px" loading="lazy" src="{thumb(vid)}" alt="">'
+                     f'<div class="bd"><div class="tt">{esc(v.get("titulo",""))}</div>'
+                     f'<div class="ds">{stpill}{ctr}</div></div></div>')
+            if v.get("diagnostico"):
+                B.append('<div style="padding:0 14px 6px">')
+                B.append(f'<p style="font-weight:600;font-size:13px;margin:8px 0 3px;color:var(--bad)">Por que está fraca</p>'
+                         f'<p style="font-size:13.5px;color:var(--sub);margin:0 0 8px">{esc(v["diagnostico"])}</p>')
+                if v.get("conceito"):
+                    B.append(f'<p style="font-weight:600;font-size:13px;margin:8px 0 3px;color:var(--accent)">A nova ideia</p>'
+                             f'<p style="font-size:13.5px;color:var(--sub);margin:0 0 8px">{esc(v["conceito"])}</p>')
+                if v.get("elementos"):
+                    B.append('<p style="font-weight:600;font-size:13px;margin:8px 0 4px">Elementos que fazem ela vencer</p>'
+                             '<ul class="chk" style="border:1px solid var(--line);border-radius:10px">')
+                    for it in v["elementos"]:
+                        B.append(f'<li>{icon("check")}<span>{esc(it)}</span></li>')
+                    B.append('</ul>')
+                ref = v.get("referencia", {})
+                if ref:
+                    B.append(f'<p style="font-weight:600;font-size:13px;margin:10px 0 3px">Referência (fidelidade)</p>'
+                             f'<p style="font-size:13px;color:var(--sub);margin:0 0 8px"><b>{esc(ref.get("monstro",""))}</b> · {esc(ref.get("fonte",""))}<br>Posição: {esc(ref.get("posicao",""))}</p>')
+                if v.get("prompts"):
+                    B.append('<p style="font-weight:600;font-size:13px;margin:10px 0 4px">Prompts (clica pra copiar)</p>')
+                    for p in v["prompts"]:
+                        B.append(f'<div style="font-size:12.5px;color:var(--sub);margin-bottom:3px">{esc(p.get("titulo",""))}</div>')
+                        B.append(f'<div class="pbox">{esc(p.get("texto",""))}</div>')
+                        B.append('<div class="acts" style="margin-bottom:8px">' + copybtn(p.get("texto", ""), "copiar prompt", mini=True) + '</div>')
+                B.append('</div>')
+            else:
+                B.append(f'<div style="padding:0 14px 12px"><p style="font-size:13px;color:var(--sub);margin:6px 0 8px">{esc(v.get("motivo",""))}</p>'
+                         + '<div class="acts">' + copybtn(f'analisa a thumb do vídeo "{v.get("titulo","")}"', "montar o brief dessa thumb", mini=True) + '</div></div>')
+            B.append('</div>')
+        B.append('<div class="acts" style="margin-top:2px">'
+                 + copybtn("pensa numa thumb pro meu vídeo novo que está no rascunho", "thumb pro vídeo novo")
+                 + '</div>')
+
     # 1) Receita validada por CTR real (mural bom vs ruim)
     rec = td.get("receita", {})
     if rec:
