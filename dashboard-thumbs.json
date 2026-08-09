@@ -1,6 +1,23 @@
 {
   "_doc": "Sistema de thumbnail do painel. O Claude mantém. Consolida o padrão de CTR, o kit de prompt e o acervo de referência pra geração determinística. A preencher nos próximos passos: CTR real por vídeo (puxado do Studio) e o mural do Anthomnia.",
   "atualizado": "2026-08-09",
+  "ctr_real": {
+    "titulo": "CTR real do canal (Studio, últimos 28 dias)",
+    "media": "6,1%",
+    "nota": "Puxado 09/08 direto do Modo avançado. Só entram vídeos com impressões relevantes (CTR de vídeo com poucas impressões é ruído). A média do canal é 6,1%; abaixo disso a capa está custando clique.",
+    "piores": [
+      {"titulo": "Shiver Leviathan sozinho", "vid": "idKZY705ucQ", "ctr": 1.9, "impr": 43626},
+      {"titulo": "Construindo bases nos biomas mais perigosos", "vid": "YGMhoeDpp4w", "ctr": 4.6, "impr": 94889},
+      {"titulo": "A arma que mata qualquer monstro", "vid": "XZQKq0mzLns", "ctr": 4.6, "impr": 28872},
+      {"titulo": "Tentei matar o Colecionador", "vid": "oWsDsD7DtEM", "ctr": 5.5, "impr": 18415}
+    ],
+    "melhores": [
+      {"titulo": "O Leviatã que foi cortado do Subnautica", "vid": "WgaQhHOobro", "ctr": 10.9, "impr": 34207},
+      {"titulo": "O Reaper é muito maior do que você pensa", "vid": "RyumAp5oBRw", "ctr": 9.7, "impr": 28841},
+      {"titulo": "Os melhores veículos do subnautica com mod", "vid": "mBbt2aWgEJY", "ctr": 9.7, "impr": 17284},
+      {"titulo": "Que criatura faz esse barulho na Void", "vid": "99Z5RJ0l2bA", "ctr": 8.9, "impr": 18263}
+    ]
+  },
   "oficina": {
     "nota": "Oficina por vídeo: cada vídeo com thumb fraca (ou vídeo novo no rascunho) ganha diagnóstico, conceito da nova, elementos, monstro de referência e prompt pronto. Peça 'analisa a thumb do vídeo X' pra eu montar um brief novo, ou 'pensa numa thumb pro vídeo novo' quando estiver no rascunho. A lista completa de piores enche quando o CTR real entrar (Studio); por ora, os candidatos vêm por recência e baixa performance.",
     "videos": [
@@ -8,8 +25,8 @@
         "vid": "idKZY705ucQ",
         "titulo": "SERÁ QUE EU CONSIGO MATAR O SHIVER LEVIATHAN SOZINHO?",
         "status": "ruim",
-        "ctr": 2.2,
-        "diagnostico": "A thumb atual é um close do olho do Shiver. Bonita, mas é a perdedora documentada de 2,2% de CTR. A 120px o olho vira um borrão roxo abstrato: não dá pra saber que é um monstro, não tem boca nem dentes, não tem figura descolando do fundo (tudo na mesma cor roxo, azul e marrom) e a arma quase some. O dedo não para porque o olho não grita 'monstro gigante'.",
+        "ctr": 1.9,
+        "diagnostico": "A thumb atual é um close do olho do Shiver. Bonita, mas é a pior do canal: 1,9% de CTR com 43 mil impressões nos últimos 28 dias (o YouTube empurrou muito e a capa não converteu). A 120px o olho vira um borrão roxo abstrato: não dá pra saber que é um monstro, não tem boca nem dentes, não tem figura descolando do fundo (tudo na mesma cor roxo, azul e marrom) e a arma quase some. O dedo não para porque o olho não grita 'monstro gigante'.",
         "conceito": "Trocar o close por um Shiver de FRENTE, boca escancarada com dentes à mostra, descendo sobre o mergulhador sozinho. O 'sozinho' do título vira o gancho visual: o player minúsculo lá embaixo dá escala e medo, o Shiver enorme toma o frame. É a fórmula da vencedora Shiver frontal (5,5%) somada ao medo do título.",
         "elementos": [
           "Shiver de frente, boca aberta com dentes visíveis dos dois lados",
@@ -33,7 +50,8 @@
         "vid": "oWsDsD7DtEM",
         "titulo": "TENTEI MATAR O LEVIATHAN COLECIONADOR DE SUBNAUTICA 2",
         "status": "media",
-        "diagnostico": "A capa já acerta bastante: criatura grande, olho laranja brilhando e o mergulhador minúsculo dando escala. O problema é que ela é escura e a criatura tem quase a mesma cor da água (azul no azul), então no tamanho pequeno ela não descola do fundo e vira uma mancha escura com um ponto laranja. Perde força no feed.",
+        "ctr": 5.5,
+        "diagnostico": "CTR real 5,5% (a média do canal é 6,1%), então está um pouco abaixo. A capa já acerta bastante: criatura grande, olho laranja brilhando e o mergulhador minúsculo dando escala. O problema é que ela é escura e a criatura tem quase a mesma cor da água (azul no azul), então no tamanho pequeno ela não descola do fundo e vira uma mancha escura com um ponto laranja. Perde força no feed.",
         "conceito": "Manter a composição boa (monstro enorme de cima, mergulhador pequeno embaixo), mas puxar o Colecionador pra frente com os tentáculos vindo na direção da câmera (o 'te agarra e não solta' do vídeo), clarear a cena e aumentar o contraste de cor pra a criatura saltar do azul. O olho laranja fica, funciona.",
         "elementos": [
           "Colecionador maior e mais pra frente, tentáculos avançando na direção da câmera",
@@ -57,7 +75,8 @@
         "vid": "XZQKq0mzLns",
         "titulo": "A ARMA QUE MATA QUALQUER MONSTRO DE SUBNAUTICA 2",
         "status": "media",
-        "diagnostico": "Essa capa já é boa: o monstro está de boca aberta com dentes, tem contraste laranja no azul e a arma em POV combina com o tema. O ponto fraco é a composição: a arma em primeiro plano é grande e chamativa demais e disputa a atenção com o monstro. A 120px o olho fica dividido entre os dois. E, sendo honesto, o que mais segurou esse vídeo foi o alcance do tema e do título, não a capa.",
+        "ctr": 4.6,
+        "diagnostico": "Correção: puxei o CTR real e ele é 4,6% (a média do canal é 6,1%), então a capa ESTÁ custando cliques, me enganei quando disse antes que estava boa (confundi com outro vídeo de arma). O que atrapalha: o monstro tem boca aberta e dentes (isso é bom), mas a arma em primeiro plano é grande demais e disputa a atenção com o monstro. A 120px o olho fica dividido entre os dois e nenhum domina.",
         "conceito": "Deixar o monstro ser claramente o herói: maior, avançando de boca aberta, ocupando uns 70% do frame. A arma continua (é o tema), mas menor e mais pra baixo, como elemento de POV, não como co-protagonista. Reforçar o contraste de cor pra o bicho saltar.",
         "elementos": [
           "Monstro dominando o frame (uns 70%), de boca aberta com dentes, avançando",
@@ -75,6 +94,12 @@
         "prompts": [
           {"titulo": "Prompt principal (anexe a ref da criatura da cena)", "texto": "Reproduza a criatura desta imagem [@ref do leviatã do jogo] EXATAMENTE como ela é, sem inventar a anatomia. Thumbnail de YouTube 16:9, cena clara e legível, iluminação de cinema, ultrarealista 4k, efeitos VFX. O leviatã avançando de FRENTE, boca escancarada com dentes à mostra, olhos brilhando, ocupando uns 70% do frame, ângulo baixo encarando a câmera. Uma arma futurista em POV pequena no canto inferior (só como referência de que é o jogador), sem competir com o monstro. Alto contraste de cor, laranja e vermelho contra água azul-petróleo. Composição limpa, sem HUD, sem interface, sem texto. PROIBIDO: mudar a anatomia da criatura, arma dominando a cena, estilo cartoon."}
         ]
+      },
+      {
+        "vid": "YGMhoeDpp4w",
+        "titulo": "CONSTRUINDO BASES NOS BIOMAS MAIS PERIGOSOS DO SUBNAUTICA",
+        "status": "fila",
+        "motivo": "É o maior desperdício por volume: 94.889 impressões (o mais empurrado do canal) a só 4,6% de CTR. Vídeo de construção, o mais difícil pro clique. Vale um brief pra botar um monstro/ameaça grande na cena junto da base, dando drama e contraste. Peça 'analisa a thumb do bases nos biomas' (eu vou querer ver a capa atual primeiro)."
       }
     ]
   },

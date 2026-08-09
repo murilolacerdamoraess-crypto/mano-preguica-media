@@ -512,6 +512,28 @@ def page_thumbs(hoje, td, led):
                  + copybtn("pensa numa thumb pro meu vídeo novo que está no rascunho", "thumb pro vídeo novo")
                  + '</div>')
 
+    # 0.5) CTR real do canal (piores e melhores, dado vivo do Studio)
+    cr = td.get("ctr_real", {})
+    if cr:
+        B.append(f'<h2>{icon("poll")} {esc(cr.get("titulo",""))} <span style="color:var(--sub);font-weight:600;text-transform:none;letter-spacing:0">(média {esc(cr.get("media",""))})</span></h2>')
+        if cr.get("nota"):
+            B.append(f'<p style="color:var(--sub);font-size:12.5px;margin:-4px 0 10px">{esc(cr.get("nota",""))}</p>')
+
+        def ctr_grid(items, low):
+            out = ['<div class="grid4">']
+            for it in items:
+                col = "--bad" if low else "--ok"
+                out.append(f'<div class="gcard"><img loading="lazy" src="{thumb(it.get("vid",""))}" alt="">'
+                           f'<div class="gm" style="color:var({col});font-weight:700">{it.get("ctr",0):.1f}% CTR</div>'
+                           f'<div class="gm" style="padding-top:0">{it.get("impr",0):,} impr · {esc(it.get("titulo",""))}</div></div>'.replace(",", "."))
+            out.append('</div>')
+            return "".join(out)
+
+        B.append('<p style="font-weight:600;font-size:13px;margin:8px 0 6px;color:var(--bad)">Piores (arrumar a capa)</p>')
+        B.append(ctr_grid(cr.get("piores", []), True))
+        B.append('<p style="font-weight:600;font-size:13px;margin:14px 0 6px;color:var(--ok)">Melhores (o padrão que funciona)</p>')
+        B.append(ctr_grid(cr.get("melhores", []), False))
+
     # 1) Receita validada por CTR real (mural bom vs ruim)
     rec = td.get("receita", {})
     if rec:
