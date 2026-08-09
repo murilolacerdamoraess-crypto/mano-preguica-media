@@ -1,10 +1,10 @@
 name: crosspost
 on:
-  # DESLIGADO 09/08/2026: PostProxy cancelado (postava TikTok NAO-publico -> perdia monetizacao,
-  # e desativava comentario). TikTok/IG/FB voltaram pro Metricool (agendados via MCP em sessao).
-  # Isso tambem para a geracao automatica de repost. Reativar = descomentar o schedule abaixo.
-  # schedule:
-  #   - cron: '0 12 * * *'   # DIARIO 12h UTC = 9h BRT (so dispara; publica a noite)
+  # 09/08/2026: PostProxy rebaixado pro plano GRATIS. TikTok SAIU daqui (postava NAO-publico ->
+  # perdia monetizacao + desativava comentario) e voltou pro Metricool (agendado via MCP em sessao).
+  # Aqui ficam so IG + FB (gratis, presenca). DAILY_TT=0 corta o TikTok. Repost automatico tambem off.
+  schedule:
+    - cron: '0 12 * * *'   # DIARIO 12h UTC = 9h BRT (so dispara; publica a noite)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -51,7 +51,7 @@ jobs:
           MONTH_CAP: '93'
           DAILY_FB: '1'      # FB é MONETIZADO, só rende pouco (poucas views). Mantido vivo em
           FB_WEEKDAY: '2'    # cadência BAIXA: 1x/semana (quarta). Antes era 1/dia. Poupa cota do Build.
-          DAILY_TT: '1'
+          DAILY_TT: '0'      # TikTok saiu do PostProxy (postava nao-publico). TikTok = Metricool.
           DAILY_IG: '1'
           # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
