@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
 """
-PAINEL DO CANAL AGENTE — central de comando visual (o "VidaOS do conteúdo").
+PAINEL DO CANAL AGENTE — central visual (o "VidaOS do conteúdo").
 
-Gera um HTML autossuficiente (ícones SVG + gráficos, zero dependência externa) que o Murilo
-abre TODO DIA. Sem API paga: só lê os dados que a esteira já gera.
-  1. Alerta do dia + Operação (o que cobre / o que seca) com ícones de status.
-  2. Próximos posts (o que está agendado, em ordem).
-  3. Performance por rede (gráfico de barras: TikTok / Instagram / Facebook).
-  4. Precisa de você (INTELIGÊNCIA): quais longos pedem short, buracos de produção.
-  5. Central de comandos: o que pedir pro Claude e quando.
+Site estático multi-página (ícones SVG, gráficos, zero dependência externa). Sem API paga.
+  - index.html  : HOME limpa. O que precisa de você hoje + 4 cards de rede. Bateu o olho, entendeu.
+  - <rede>.html : panorama individual de cada rede (agendados, performance, e a ANÁLISE escrita
+                  pelo Claude em dashboard-analises.json — o Murilo pede "analisa as redes").
+Lê só os dados que a esteira já gera (ledger/metrics/schedule/operacao/producao/analises).
 """
 import os, sys, json, datetime, html
 
@@ -20,8 +18,9 @@ SCHED = os.path.join(RAIZ, "schedule.json")
 MET   = os.path.join(RAIZ, "metrics.json")
 OPER  = os.path.join(HERE, "operacao.json")
 PROD  = os.path.join(HERE, "producao.json")
-SHORTS= os.path.join(RAIZ, "shorts_feitos.json")   # vids de longo que já viraram short (marca manual/futura)
-OUT   = os.path.join(RAIZ, "dashboard", "index.html")
+SHORTS= os.path.join(RAIZ, "shorts_feitos.json")
+ANALI = os.path.join(RAIZ, "dashboard-analises.json")
+OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
 
 
@@ -31,7 +30,6 @@ def load(p, d):
 
 def esc(s): return html.escape(str(s))
 
-# --- ícones lucide (stroke currentColor), inline pra ficar self-contained ---
 _I = {
  "target":'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/>',
  "check":'<circle cx="12" cy="12" r="9"/><path d="m8.5 12.5 2.5 2.5 4.5-5"/>',
@@ -43,10 +41,10 @@ _I = {
  "poll":'<path d="M3 3v18h18"/><rect x="7" y="10" width="3" height="7"/><rect x="12" y="6" width="3" height="11"/><rect x="17" y="13" width="3" height="4"/>',
  "scissors":'<circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M20 4 8.1 15.9M14.5 12.5 20 20M8.1 8.1 12 12"/>',
  "chat":'<path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 9 9 0 0 1-4-.9L3 21l1.9-4.5A8.4 8.4 0 0 1 12 3a8.4 8.4 0 0 1 9 8.5Z"/>',
- "radar":'<path d="M19.07 4.93A10 10 0 1 0 21 12"/><path d="M12 12 8 8M12 2v4M12 12l6-3"/>',
+ "radar":'<path d="M19.07 4.93A10 10 0 1 0 21 12"/><path d="M12 12 8 8M12 2v4"/>',
  "search":'<circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/>',
- "bolt":'<path d="M13 2 3 14h7l-1 8 10-12h-7l1-8Z"/>',
- "clock":'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+ "arrow":'<path d="M5 12h14M13 6l6 6-6 6"/>',
+ "back":'<path d="M19 12H5M11 18l-6-6 6-6"/>',
  "spark":'<path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M18 6l-2.5 2.5M8.5 15.5 6 18"/>',
  "youtube":'<rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/>',
  "tiktok":'<path d="M9 5v9a3 3 0 1 1-3-3"/><path d="M14 5a5 5 0 0 0 5 5V7a3 3 0 0 1-2-3Z"/>',
@@ -56,279 +54,256 @@ _I = {
 def icon(n, cls="ic"):
     return f'<svg class="{cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{_I.get(n,"")}</svg>'
 
-NET_ICON = {"tiktok": "tiktok", "instagram": "instagram", "facebook": "facebook",
-            "youtube": "youtube", "enquete": "poll"}
 STATUS_ICON = {"ok": "check", "warn": "alert", "bad": "x", "muted": "pause"}
-
-
-def frentes(hoje, oper, led, prod):
-    out = []
-    def st(dias):
-        if dias is None: return ("bad",)
-        if dias >= 7: return ("ok",)
-        if dias >= 3: return ("warn",)
-        return ("bad",)
-    for chave, nome, ic in (("youtube_videos", "YouTube", "youtube"), ("enquetes", "Enquetes", "poll")):
-        bl = oper.get(chave, {})
-        fut = sorted(d["data"] for d in bl.get("agendados", []) if d["data"] >= str(hoje))
-        ate = datetime.date.fromisoformat(fut[-1]) if fut else None
-        dias = (ate - hoje).days if ate else None
-        det = (f"{len(fut)} agendados · cobre até {ate.strftime('%d/%m')}" if ate else "nada agendado")
-        out.append((st(dias)[0], ic, nome, det, dias))
-    tt = len(queue_curada("tiktok", led["videos"]))
-    out.append(("ok" if tt >= 7 else "warn", "tiktok", "TikTok", f"automático · {tt} no backlog", tt))
-    ig = len(queue_curada("instagram", led["videos"]))
-    out.append(("ok" if ig >= 7 else "warn", "instagram", "Instagram", f"automático · {ig} no backlog", ig))
-    out.append(("muted", "facebook", "Facebook", "baixa prioridade · 1x/semana", 99))
-    for key, nome, cad in (("mp1_shorts", "MP1 Shorts", "3x/sem"), ("mp2", "MP2 (IA)", "2x/sem")):
-        bl = prod.get(key, {})
-        ags = sorted(a["data"] for a in bl.get("agendados", []) if a["data"] >= str(hoje))
-        ate = datetime.date.fromisoformat(ags[-1]) if ags else None
-        dias = (ate - hoje).days if ate else None
-        det = (f"{cad} · cobre até {ate.strftime('%d/%m')}" if ate else f"{cad} · nada agendado · você produz")
-        out.append((st(dias)[0], "film", nome, det, dias))
-    return out
-
-
-def proximos(hoje, oper, sched):
-    itens = []
-    for chave, tag in (("youtube_videos", "youtube"), ("enquetes", "enquete")):
-        for it in oper.get(chave, {}).get("agendados", []):
-            if it["data"] >= str(hoje):
-                itens.append((it["data"], tag, it["titulo"]))
-    agora = datetime.datetime.now(BRT)
-    for s in sched:
-        try:
-            dt = datetime.datetime.fromisoformat(s["scheduled_at"].replace("Z", "+00:00")).astimezone(BRT)
-        except Exception:
-            continue
-        if dt > agora:
-            itens.append((dt.date().isoformat(), s.get("net", "?"), s.get("title", "")))
-    itens.sort()
-    return itens[:9]
-
-
-def perf_por_rede(met):
-    saida = []
-    for net in ("tiktok", "instagram", "facebook"):
-        rank = []
-        for r in met.values():
-            stt = r.get(net)
-            if not stt: continue
-            imp = 0
-            for k in ("impressions", "reach", "video_views", "views"):
-                if isinstance(stt.get(k), (int, float)): imp = int(stt[k]); break
-            if imp > 0: rank.append((imp, r.get("title", "")))
-        rank.sort(reverse=True)
-        if rank: saida.append((net, rank[:5]))
-    return saida
-
-
-def shorts_pendentes(hoje, led):
-    """INTELIGÊNCIA: longos recentes que ainda pedem um short (o Murilo não precisa lembrar)."""
-    feitos = set(load(SHORTS, []))
-    cand = []
-    for vid, v in led["videos"].items():
-        if v.get("type") != "long": continue
-        if vid in feitos: continue
-        try:
-            idade = (hoje - datetime.date.fromisoformat(v["published"][:10])).days
-        except Exception:
-            continue
-        if 0 <= idade <= 60 and v.get("views", 0) >= 5000:   # longo recente e que rendeu
-            cand.append((idade, v.get("views", 0), v.get("title", ""), vid))
-    cand.sort()   # mais recente primeiro
-    return cand[:4]
-
+NETS = [("youtube", "YouTube"), ("tiktok", "TikTok"), ("instagram", "Instagram"), ("facebook", "Facebook")]
 
 CSS = """
 :root{--bg:#f6f6f4;--card:#fff;--ink:#161616;--sub:#6b6b6b;--line:#e7e4df;--accent:#0f6e5a;
---ok:#1a8f6b;--warn:#c07d17;--bad:#c0392b;--tt:#111;--ig:#c8398f;--fb:#2a6fd6;
+--ok:#1a8f6b;--warn:#c07d17;--bad:#c0392b;--yt:#e0402b;--tt:#111;--ig:#c8398f;--fb:#2a6fd6;
 --shadow:0 1px 2px rgba(0,0,0,.04),0 6px 20px rgba(0,0,0,.05)}
-@media(prefers-color-scheme:dark){:root{--bg:#111;--card:#1a1a1a;--ink:#eee;--sub:#9a9a9a;--line:#2a2a2a;
---accent:#3fbfa3;--ok:#43c99a;--warn:#e0a24a;--bad:#ef7361;--tt:#e6e6e6;--ig:#e968b0;--fb:#5b93ea;
+@media(prefers-color-scheme:dark){:root{--bg:#101010;--card:#1a1a1a;--ink:#eee;--sub:#9a9a9a;--line:#2a2a2a;
+--accent:#3fbfa3;--ok:#43c99a;--warn:#e0a24a;--bad:#ef7361;--yt:#f0684f;--tt:#e6e6e6;--ig:#e968b0;--fb:#5b93ea;
 --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35)}}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);margin:0;padding:26px 16px 80px;
-font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif}
-.wrap{max-width:1040px;margin:0 auto}
-.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
-.brand{display:flex;align-items:center;gap:10px;font-size:20px;font-weight:700}
-.brand .logo{width:34px;height:34px;border-radius:9px;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center}
-.brand .logo svg{width:20px;height:20px}
+font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif}
+.wrap{max-width:900px;margin:0 auto}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px}
+.brand{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:700;text-decoration:none;color:var(--ink)}
+.brand .logo{width:32px;height:32px;border-radius:9px;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center}
+.brand .logo svg{width:19px;height:19px}
 .date{color:var(--sub);font-size:13px}
 .ic{width:18px;height:18px;flex:none}
-.alert{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);
-border-left:3px solid var(--accent);border-radius:12px;padding:13px 16px;margin-bottom:22px;box-shadow:var(--shadow)}
-.alert.warn{border-left-color:var(--warn)} .alert.bad{border-left-color:var(--bad)}
-.alert .ic{color:var(--accent)} .alert.warn .ic{color:var(--warn)} .alert.bad .ic{color:var(--bad)}
+.hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin-bottom:22px;box-shadow:var(--shadow)}
+.hero .lbl{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--sub);font-weight:700;margin-bottom:6px}
+.hero .big{font-size:20px;font-weight:700;line-height:1.3}
+.hero .big.calm{color:var(--ok)}
 h2{display:flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;
-color:var(--sub);font-weight:700;margin:28px 0 12px}
+color:var(--sub);font-weight:700;margin:26px 0 12px}
 h2 .ic{width:15px;height:15px}
-.cols{display:grid;grid-template-columns:1.1fr .9fr;gap:16px}
-@media(max-width:760px){.cols{grid-template-columns:1fr}}
-.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px 4px;box-shadow:var(--shadow)}
-.row{display:flex;align-items:center;gap:11px;padding:11px 14px;border-bottom:1px solid var(--line)}
-.row:last-child{border-bottom:none}
-.row .st{width:30px;height:30px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex:none}
-.row .st .ic{width:17px;height:17px}
-.st.ok{background:rgba(26,143,107,.12);color:var(--ok)} .st.warn{background:rgba(192,125,23,.14);color:var(--warn)}
-.st.bad{background:rgba(192,57,43,.13);color:var(--bad)} .st.muted{background:var(--line);color:var(--sub)}
-.row .tx{flex:1;min-width:0}
-.row .tt{font-weight:600;font-size:14px}
-.row .ds{font-size:12.5px;color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.row .badge{font-size:11px;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:2px 9px;flex:none}
-.px{display:flex;align-items:center;gap:11px;padding:10px 14px;border-bottom:1px solid var(--line)}
-.px:last-child{border-bottom:none}
-.px .d{font-size:12px;font-weight:700;color:var(--ink);width:52px;flex:none;text-align:center;
-background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:5px 0;line-height:1.15}
-.px .d small{display:block;font-size:9px;color:var(--sub);font-weight:600;text-transform:uppercase}
-.px .netic{width:26px;height:26px;color:var(--sub);display:flex;align-items:center;justify-content:center;flex:none}
-.px .netic .ic{width:17px;height:17px}
-.px .t{font-size:13.5px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.perf{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
-.pcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:15px 16px;box-shadow:var(--shadow)}
-.phead{display:flex;align-items:center;gap:8px;font-weight:700;font-size:14px;margin-bottom:12px}
-.phead .netic{width:26px;height:26px;border-radius:7px;display:flex;align-items:center;justify-content:center;color:#fff}
-.phead .netic .ic{width:16px;height:16px}
-.tt-bg{background:var(--tt)} .ig-bg{background:var(--ig)} .fb-bg{background:var(--fb)}
-.bar{margin:9px 0}
-.bar .lbl{display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;gap:8px}
-.bar .lbl .n{color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.bar .lbl .v{font-weight:700;flex:none}
-.bar .track{height:7px;background:var(--line);border-radius:99px;overflow:hidden}
-.bar .fill{height:100%;border-radius:99px}
-.tt-f{background:var(--tt)} .ig-f{background:var(--ig)} .fb-f{background:var(--fb)}
-.todo .row .st{background:rgba(15,110,90,.12);color:var(--accent)}
-.todo .row .ds{white-space:normal}
-.cmds{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
-.cmd{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:14px 16px;box-shadow:var(--shadow)}
-.cmd .h{display:flex;align-items:center;gap:9px;margin-bottom:8px}
-.cmd .h .ci{width:30px;height:30px;border-radius:8px;background:rgba(15,110,90,.1);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}
-.cmd .h b{font-size:14px} .cmd .h .when{margin-left:auto;font-size:10.5px;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:2px 8px}
-.cmd code{display:inline-block;color:var(--accent);font:12.5px ui-monospace,Menlo,monospace;background:rgba(15,110,90,.08);border-radius:6px;padding:3px 8px;margin-bottom:6px}
-.cmd .ds{font-size:12.5px;color:var(--sub)}
-.empty{padding:16px;color:var(--sub);font-size:13px}
+.todo{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
+.trow{display:flex;align-items:flex-start;gap:12px;padding:13px 16px;border-bottom:1px solid var(--line)}
+.trow:last-child{border-bottom:none}
+.trow .ci{width:30px;height:30px;border-radius:8px;background:rgba(15,110,90,.1);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}
+.trow .ci .ic{width:16px;height:16px}
+.trow .tt{font-weight:600;font-size:14px}.trow .ds{font-size:12.5px;color:var(--sub);margin-top:1px}
+.empty{padding:16px;color:var(--sub);font-size:13.5px}
+.nets{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:620px){.nets{grid-template-columns:1fr}}
+.ncard{display:flex;align-items:center;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;
+padding:16px 18px;box-shadow:var(--shadow);text-decoration:none;color:var(--ink);transition:transform .08s}
+.ncard:hover{transform:translateY(-2px)}
+.ncard .nic{width:42px;height:42px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none}
+.ncard .nic .ic{width:23px;height:23px}
+.yt-bg{background:var(--yt)}.tt-bg{background:var(--tt)}.ig-bg{background:var(--ig)}.fb-bg{background:var(--fb)}
+.ncard .nm{flex:1;min-width:0}
+.ncard .nm b{font-size:16px}.ncard .nm .st{font-size:12.5px;color:var(--sub);margin-top:2px;display:flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;flex:none}.dot.ok{background:var(--ok)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--bad)}.dot.muted{background:var(--sub)}
+.ncard .go{color:var(--sub);flex:none}.ncard .go .ic{width:18px;height:18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:7px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 13px;font-size:13px;box-shadow:var(--shadow)}
+.chip .ic{width:14px;height:14px;color:var(--accent)}.chip code{color:var(--accent);font:12px ui-monospace,Menlo,monospace}
+/* subpágina */
+.subhead{display:flex;align-items:center;gap:12px;margin-bottom:6px}
+.subhead .nic{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none}
+.subhead .nic .ic{width:22px;height:22px}
+.subhead h1{font-size:22px;margin:0}
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--sub);text-decoration:none;font-size:13px;margin-bottom:14px}
+.back .ic{width:15px;height:15px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 2px;box-shadow:var(--shadow)}
+.prow{display:flex;align-items:center;gap:11px;padding:11px 15px;border-bottom:1px solid var(--line)}.prow:last-child{border-bottom:none}
+.prow .d{font-size:12px;font-weight:700;width:50px;flex:none;text-align:center;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:5px 0;line-height:1.1}
+.prow .d small{display:block;font-size:9px;color:var(--sub);text-transform:uppercase}
+.prow .t{font-size:13.5px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar{margin:11px 16px}
+.bar .lbl{display:flex;justify-content:space-between;font-size:12.5px;margin-bottom:5px;gap:8px}
+.bar .lbl .n{color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar .lbl .v{font-weight:700;flex:none}
+.bar .track{height:8px;background:var(--line);border-radius:99px;overflow:hidden}.bar .fill{height:100%;border-radius:99px}
+.analise{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow);line-height:1.6}
+.analise .r{font-weight:600;margin-bottom:8px}.analise p{margin:0;color:var(--sub)}
+.analise .up{font-size:11px;color:var(--sub);margin-top:12px}
 footer{text-align:center;color:var(--sub);font-size:12px;margin-top:34px}
+a.brand:hover{opacity:.85}
 """
 
-
-def render(hoje, fr, prox, perf, todos, secar):
-    P = []
-    P.append('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">')
-    P.append('<meta name="viewport" content="width=device-width, initial-scale=1">')
-    P.append('<title>Canal Agente</title><style>' + CSS + '</style></head><body><div class="wrap">')
-    P.append(f'<div class="top"><div class="brand"><span class="logo">{icon("film")}</span>Canal Agente</div>'
-             f'<div class="date">{hoje.strftime("%d/%m/%Y")} · Mano Preguiça</div></div>')
-
-    # alerta
-    if not secar:
-        P.append(f'<div class="alert">{icon("target")}<div>Tudo coberto por uma boa margem.</div></div>')
-    else:
-        d1, n1 = secar
-        cls = "" if d1 >= 7 else ("warn" if d1 >= 3 else "bad")
-        msg = "está tranquilo" if d1 >= 7 else "bora reabastecer"
-        P.append(f'<div class="alert {cls}">{icon("target")}<div><b>{esc(n1)}</b> é o próximo a secar, '
-                 f'em {d1} dia(s). {msg}.</div></div>')
-
-    P.append('<div class="cols"><div>')
-    # operação
-    P.append(f'<h2>{icon("bolt")} Operação</h2><div class="card">')
-    for cor, ic, nome, det, dias in fr:
-        P.append(f'<div class="row"><div class="st {cor}">{icon(STATUS_ICON[cor])}</div>'
-                 f'<div class="tx"><div class="tt">{esc(nome)}</div><div class="ds">{esc(det)}</div></div>'
-                 f'<span class="badge">{icon(ic)}</span></div>')
-    P.append('</div>')
-    # precisa de você
-    P.append(f'<h2>{icon("spark")} Precisa de você</h2><div class="card todo">')
-    if not todos:
-        P.append('<div class="empty">Nada pendente. Bom trabalho.</div>')
-    for tt, ds in todos:
-        P.append(f'<div class="row"><div class="st">{icon("scissors")}</div>'
-                 f'<div class="tx"><div class="tt">{esc(tt)}</div><div class="ds">{esc(ds)}</div></div></div>')
-    P.append('</div></div><div>')
-    # próximos
-    P.append(f'<h2>{icon("calendar")} Próximos posts</h2><div class="card">')
-    if not prox:
-        P.append('<div class="empty">Nada agendado à frente.</div>')
-    for data, tag, titulo in prox:
-        dt = datetime.date.fromisoformat(data)
-        dia = "hoje" if dt == hoje else ("amanhã" if (dt - hoje).days == 1 else dt.strftime("%d/%m"))
-        mes = dt.strftime("%b").lower()
-        di = NET_ICON.get(tag, "film")
-        P.append(f'<div class="px"><div class="d">{dt.strftime("%d")}<small>{mes}</small></div>'
-                 f'<div class="netic">{icon(di)}</div><div class="t">{esc(titulo)}</div></div>')
-    P.append('</div></div></div>')
-
-    # performance
-    P.append(f'<h2>{icon("poll")} Performance real (PostProxy)</h2>')
-    if not perf:
-        P.append('<div class="card"><div class="empty">Ainda juntando dados do PostProxy. Enche em alguns dias.</div></div>')
-    else:
-        P.append('<div class="perf">')
-        for net, rank in perf:
-            mx = max(v for v, _ in rank) or 1
-            P.append(f'<div class="pcard"><div class="phead"><span class="netic {net[:2]}-bg">{icon(NET_ICON[net])}</span>{net.title()}</div>')
-            for v, t in rank:
-                pct = max(4, round(v / mx * 100))
-                P.append(f'<div class="bar"><div class="lbl"><span class="n">{esc(t[:46])}</span>'
-                         f'<span class="v">{v:,}</span></div>'.replace(",", ".")
-                         + f'<div class="track"><div class="fill {net[:2]}-f" style="width:{pct}%"></div></div></div>')
-            P.append('</div>')
-        P.append('</div>')
-
-    # comandos
-    P.append(f'<h2>{icon("chat")} O que pedir pro Claude</h2><div class="cmds">')
-    for ic, t, w, say, d in COMANDOS:
-        P.append(f'<div class="cmd"><div class="h"><span class="ci">{icon(ic)}</span><b>{esc(t)}</b>'
-                 f'<span class="when">{esc(w)}</span></div><code>{esc(say)}</code><div class="ds">{esc(d)}</div></div>')
-    P.append('</div>')
-
-    P.append('<footer>Painel do Canal Agente · lê os dados vivos da esteira · sem API paga</footer>')
-    P.append('</div></body></html>')
-    return "".join(P)
-
-
 COMANDOS = [
-    ("radar", "Radar de hype", "Toda segunda", "roda o radar de hype",
-     "Varre Steam, filmes e trends e traz os jogos quentes com a janela de cada um."),
-    ("film", "Gerar roteiro", "Quando quiser", "me dá um roteiro (acha o tema você)",
-     "A máquina acha o achado na fonte real do jogo e entrega o dossiê pronto pra gravar."),
-    ("scissors", "Short do longo", "Ver 'precisa de você'", "faz o short desse longo",
-     "O painel já te diz qual longo está pedindo short. É só apontar."),
-    ("chat", "Responder comentários", "Quando acumular", "gera as respostas dos comentários",
-     "Escreve na sua voz; você aprova no Telegram."),
-    ("poll", "Enquetes", "Quando a fila baixar", "me dá N enquetes",
-     "Lote pronto com capas, monta e agenda no Studio."),
-    ("search", "Re-scan do Studio", "Se o painel avisar", "re-scan do Studio",
-     "Atualiza os vídeos e enquetes agendados."),
+    ("radar", "Radar de hype", "Toda segunda", "roda o radar de hype"),
+    ("film", "Gerar roteiro", "Quando quiser", "me dá um roteiro"),
+    ("scissors", "Short do longo", "Ver acima", "faz o short desse longo"),
+    ("chat", "Comentários", "Quando acumular", "responde os comentários"),
+    ("poll", "Enquetes", "Fila baixa", "me dá N enquetes"),
+    ("search", "Analisar redes", "Quando quiser", "analisa as redes"),
 ]
+
+
+def shell(title, body):
+    return ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width, initial-scale=1">'
+            f'<title>{esc(title)}</title><style>{CSS}</style></head><body><div class="wrap">'
+            + body + '<footer>Painel do Canal Agente · dados vivos da esteira · sem API paga</footer>'
+            '</div></body></html>')
+
+
+# ---------- dados ----------
+def net_status(hoje, net, oper, led, prod):
+    """(cor_status, stat_curto) por rede pra os cards da home."""
+    if net == "youtube":
+        fut = sorted(d["data"] for d in oper.get("youtube_videos", {}).get("agendados", []) if d["data"] >= str(hoje))
+        if not fut: return ("bad", "nada agendado")
+        ate = datetime.date.fromisoformat(fut[-1]); dias = (ate - hoje).days
+        return ("ok" if dias >= 7 else "warn", f"{len(fut)} agendados · até {ate.strftime('%d/%m')}")
+    if net in ("tiktok", "instagram"):
+        n = len(queue_curada(net, led["videos"]))
+        return ("ok" if n >= 7 else "warn", f"{n} no backlog curado")
+    if net == "facebook":
+        return ("muted", "baixa prioridade · 1x/semana")
+    return ("muted", "")
+
+def proximos_net(hoje, net, oper, sched):
+    itens = []
+    if net == "youtube":
+        for it in oper.get("youtube_videos", {}).get("agendados", []):
+            if it["data"] >= str(hoje): itens.append((it["data"], it["titulo"]))
+        for it in oper.get("enquetes", {}).get("agendados", []):
+            if it["data"] >= str(hoje): itens.append((it["data"], "Enquete: " + it["titulo"]))
+    else:
+        agora = datetime.datetime.now(BRT)
+        for s in sched:
+            if s.get("net") != net: continue
+            try: dt = datetime.datetime.fromisoformat(s["scheduled_at"].replace("Z", "+00:00")).astimezone(BRT)
+            except Exception: continue
+            if dt > agora: itens.append((dt.date().isoformat(), s.get("title", "")))
+    itens.sort()
+    return itens[:8]
+
+def perf_net(met, net):
+    rank = []
+    for r in met.values():
+        stt = r.get(net)
+        if not stt: continue
+        imp = 0
+        for k in ("impressions", "reach", "video_views", "views"):
+            if isinstance(stt.get(k), (int, float)): imp = int(stt[k]); break
+        if imp > 0: rank.append((imp, r.get("title", "")))
+    rank.sort(reverse=True)
+    return rank[:6]
+
+def shorts_pendentes(hoje, led):
+    feitos = set(load(SHORTS, []))
+    cand = []
+    for vid, v in led["videos"].items():
+        if v.get("type") != "long" or vid in feitos: continue
+        try: idade = (hoje - datetime.date.fromisoformat(v["published"][:10])).days
+        except Exception: continue
+        if 0 <= idade <= 60 and v.get("views", 0) >= 5000:
+            cand.append((idade, v.get("views", 0), v.get("title", "")))
+    cand.sort()
+    return cand[:4]
+
+
+# ---------- páginas ----------
+def home(hoje, oper, led, prod, met):
+    pend = shorts_pendentes(hoje, led)
+    gaps = []
+    for key, nome, cad in (("mp1_shorts", "MP1 Shorts", "3x/sem"), ("mp2", "MP2 (IA)", "2x/sem")):
+        ags = [a for a in prod.get(key, {}).get("agendados", []) if a["data"] >= str(hoje)]
+        if not ags: gaps.append((nome, f"{cad} · nada agendado"))
+    n_acao = len(pend) + len(gaps)
+
+    B = []
+    B.append(f'<div class="top"><span class="brand"><span class="logo">{icon("film")}</span>Canal Agente</span>'
+             f'<span class="date">{hoje.strftime("%d/%m/%Y")}</span></div>')
+    if n_acao == 0:
+        B.append(f'<div class="hero"><div class="lbl">Hoje</div><div class="big calm">Tudo em dia. Nada te esperando.</div></div>')
+    else:
+        partes = []
+        if pend: partes.append(f'{len(pend)} short(s) pra fazer')
+        if gaps: partes.append(f'{len(gaps)} frente(s) pra produzir')
+        B.append(f'<div class="hero"><div class="lbl">Hoje precisa de você</div>'
+                 f'<div class="big">{esc(" · ".join(partes))}</div></div>')
+
+    if pend or gaps:
+        B.append(f'<h2>{icon("spark")} Precisa de você</h2><div class="todo">')
+        for idade, views, titulo in pend:
+            quando = "hoje" if idade == 0 else f"há {idade}d"
+            B.append(f'<div class="trow"><div class="ci">{icon("scissors")}</div><div>'
+                     f'<div class="tt">Fazer short: {esc(titulo[:52])}</div>'
+                     f'<div class="ds">Longo {quando} · {views:,} views · peça "faz o short desse longo"</div></div></div>'.replace(",", "."))
+        for nome, det in gaps:
+            B.append(f'<div class="trow"><div class="ci">{icon("film")}</div><div>'
+                     f'<div class="tt">Produzir {esc(nome)}</div><div class="ds">{esc(det)}</div></div></div>')
+        B.append('</div>')
+
+    B.append(f'<h2>{icon("target")} Suas redes</h2><div class="nets">')
+    for net, nome in NETS:
+        cor, stat = net_status(hoje, net, oper, led, prod)
+        B.append(f'<a class="ncard" href="{net}.html"><span class="nic {net[:2]}-bg">{icon(net)}</span>'
+                 f'<span class="nm"><b>{nome}</b><span class="st"><span class="dot {cor}"></span>{esc(stat)}</span></span>'
+                 f'<span class="go">{icon("arrow")}</span></a>')
+    B.append('</div>')
+
+    B.append(f'<h2>{icon("chat")} Atalhos (peça pro Claude)</h2><div class="chips">')
+    for ic, t, w, say in COMANDOS:
+        B.append(f'<span class="chip">{icon(ic)}<code>{esc(say)}</code></span>')
+    B.append('</div>')
+    return shell("Canal Agente", "".join(B))
+
+
+def page_net(hoje, net, nome, oper, led, prod, met, sched, analises):
+    prox = proximos_net(hoje, net, oper, sched)
+    perf = perf_net(met, net)
+    an = analises.get(net, {})
+    cor, stat = net_status(hoje, net, oper, led, prod)
+
+    B = []
+    B.append(f'<a class="brand" href="index.html" style="margin-bottom:14px"><span class="logo">{icon("film")}</span>Canal Agente</a>')
+    B.append(f'<a class="back" href="index.html">{icon("back")} voltar</a>')
+    B.append(f'<div class="subhead"><span class="nic {net[:2]}-bg">{icon(net)}</span><h1>{nome}</h1></div>')
+    B.append(f'<p style="color:var(--sub);margin:0 0 4px"><span class="dot {cor}"></span> {esc(stat)}</p>')
+
+    if an:
+        B.append(f'<h2>{icon("spark")} Minha análise</h2><div class="analise"><div class="r">{esc(an.get("resumo",""))}</div>'
+                 f'<p>{esc(an.get("texto",""))}</p><div class="up">Escrita pelo Claude · peça "analisa as redes" pra atualizar</div></div>')
+    else:
+        B.append(f'<h2>{icon("spark")} Minha análise</h2><div class="analise"><p>Ainda não analisei essa rede. '
+                 f'Peça ao Claude: <code>analisa o {esc(nome)}</code>.</p></div>')
+
+    if net in ("tiktok", "instagram", "facebook"):
+        B.append(f'<h2>{icon("poll")} Performance (PostProxy)</h2>')
+        if perf:
+            mx = max(v for v, _ in perf) or 1
+            B.append('<div class="panel" style="padding:6px 0 12px">')
+            for v, t in perf:
+                pct = max(4, round(v / mx * 100))
+                B.append(f'<div class="bar"><div class="lbl"><span class="n">{esc(t[:48])}</span><span class="v">{v:,}</span></div>'.replace(",", ".")
+                         + f'<div class="track"><div class="fill" style="width:{pct}%;background:var(--{net[:2]})"></div></div></div>')
+            B.append('</div>')
+        else:
+            B.append('<div class="panel"><div class="empty">Sem dados do PostProxy ainda nessa rede.</div></div>')
+
+    B.append(f'<h2>{icon("calendar")} Próximos {"posts" if net!="youtube" else "vídeos e enquetes"}</h2><div class="panel">')
+    if not prox:
+        B.append('<div class="empty">Nada agendado à frente.</div>')
+    for data, titulo in prox:
+        dt = datetime.date.fromisoformat(data)
+        B.append(f'<div class="prow"><div class="d">{dt.strftime("%d")}<small>{dt.strftime("%b").lower()}</small></div>'
+                 f'<div class="t">{esc(titulo)}</div></div>')
+    B.append('</div>')
+    return shell(f"{nome} · Canal Agente", "".join(B))
 
 
 def main():
     hoje = datetime.datetime.now(BRT).date()
     led  = load(LEDGER, {"videos": {}})
     oper = load(OPER, {}); prod = load(PROD, {}); met = load(MET, {}); sched = load(SCHED, [])
+    analises = load(ANALI, {})
+    os.makedirs(OUTDIR, exist_ok=True)
 
-    fr = frentes(hoje, oper, led, prod)
-    riscos = sorted((dias, nome) for cor, ic, nome, det, dias in fr if dias is not None and cor != "muted")
-    secar = (riscos[0][0], riscos[0][1]) if riscos else None
-
-    prox = proximos(hoje, oper, sched)
-    perf = perf_por_rede(met)
-
-    todos = []
-    for idade, views, titulo, vid in shorts_pendentes(hoje, led):
-        quando = "postado hoje" if idade == 0 else f"há {idade} dias"
-        todos.append((f"Fazer short: {titulo[:50]}", f"Longo {quando} · {views:,} views. Peça: 'faz o short desse longo'".replace(",", ".")))
-    for cor, ic, nome, det, dias in fr:
-        if ic == "film" and dias is None:   # produção seca (MP1/MP2)
-            todos.append((f"Produzir {nome}", det))
-
-    out_html = render(hoje, fr, prox, perf, todos, secar)
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    open(OUT, "w", encoding="utf-8").write(out_html)
-    print(f"dashboard gerado: {OUT} ({len(out_html)} bytes)")
+    open(os.path.join(OUTDIR, "index.html"), "w", encoding="utf-8").write(home(hoje, oper, led, prod, met))
+    for net, nome in NETS:
+        open(os.path.join(OUTDIR, f"{net}.html"), "w", encoding="utf-8").write(
+            page_net(hoje, net, nome, oper, led, prod, met, sched, analises))
+    print(f"painel gerado: {OUTDIR}/index.html + {len(NETS)} páginas de rede")
 
 
 if __name__ == "__main__":

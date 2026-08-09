@@ -1,0 +1,20 @@
+{
+  "_doc": "Análise ponderada por rede, escrita pelo Claude quando o Murilo pede 'analisa as redes'. O dashboard.py exibe na página de cada rede. Sem API paga: é o Claude que escreve aqui.",
+  "atualizado": "2026-08-08",
+  "youtube": {
+    "resumo": "O motor de tudo. Alta retenção e é daqui que as outras redes se alimentam.",
+    "texto": "O YouTube é o núcleo: cadência semanal (quinta), 3 vídeos agendados cobrindo até 27/08, e as enquetes firmes até 20/08. É a rede com maior retenção e a que converte inscrito. Quase tudo que vai pro TikTok, IG e Facebook nasce de um vídeo daqui. Ponto de atenção: os Shorts do canal retêm bem, mas o gargalo é o hook e o alcance, não a retenção. Recomendação: manter a máquina de roteiro alimentando o pipeline e transformar todo longo que rende em short-isca (o painel já te diz quais)."
+  },
+  "tiktok": {
+    "resumo": "Feed frio com discovery real. Criatura e medo ganham; construção morre.",
+    "texto": "É a rede de descoberta mais promissora depois do YouTube. O padrão está claro nos números: o topo é criatura + escala/medo (a arma da aurora liderou com 3.179 impressões, monstro que escuta som logo atrás), enquanto conteúdo de construção afunda (bases nos biomas, 644, apesar de ser hit no YouTube). O filtro de tema já prioriza monstro na fila automática. Backlog saudável (~11 dias). Recomendação: continuar mandando corte de criatura com hook de escala/medo nos 2 primeiros segundos; não gastar slot com base/veículo aqui."
+  },
+  "instagram": {
+    "resumo": "Ainda migrando do Metricool. Dados reais entram a partir de 17/08.",
+    "texto": "O Instagram só assume 100% pelo PostProxy a partir de 17/08 (está escoando os últimos agendados do Metricool). Por isso ainda não há métrica real dele no painel. Estruturalmente ele tem discovery por Reels parecido com o TikTok, então a aposta é que o mesmo padrão (criatura + medo) funcione. Backlog curado grande (108). Recomendação: esperar os dados reais entrarem e reavaliar em ~2 semanas; até lá, tratar como o TikTok."
+  },
+  "facebook": {
+    "resumo": "Monetizado, mas rende pouco. Baixa prioridade, cota preservada.",
+    "texto": "O Facebook é monetizado, mas não paga porque tem poucas views: média de ~280 impressões por post e engajamento perto de zero, mesmo com vídeos que fazem centenas de milhares no YouTube. Página fria não tem alcance orgânico. Por isso foi rebaixado pra 1x/semana (quarta), postando como Reel quando o vídeo é vertical, pra tentar destravar alcance. Recomendação: deixar rodando no baixo custo e observar se o Reel levanta o número; se não levantar em algumas semanas, não vale investir mais atenção."
+  }
+}

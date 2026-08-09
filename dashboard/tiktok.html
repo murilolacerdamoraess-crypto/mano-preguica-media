@@ -1,0 +1,68 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>TikTok · Canal Agente</title><style>
+:root{--bg:#f6f6f4;--card:#fff;--ink:#161616;--sub:#6b6b6b;--line:#e7e4df;--accent:#0f6e5a;
+--ok:#1a8f6b;--warn:#c07d17;--bad:#c0392b;--yt:#e0402b;--tt:#111;--ig:#c8398f;--fb:#2a6fd6;
+--shadow:0 1px 2px rgba(0,0,0,.04),0 6px 20px rgba(0,0,0,.05)}
+@media(prefers-color-scheme:dark){:root{--bg:#101010;--card:#1a1a1a;--ink:#eee;--sub:#9a9a9a;--line:#2a2a2a;
+--accent:#3fbfa3;--ok:#43c99a;--warn:#e0a24a;--bad:#ef7361;--yt:#f0684f;--tt:#e6e6e6;--ig:#e968b0;--fb:#5b93ea;
+--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35)}}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);margin:0;padding:26px 16px 80px;
+font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif}
+.wrap{max-width:900px;margin:0 auto}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px}
+.brand{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:700;text-decoration:none;color:var(--ink)}
+.brand .logo{width:32px;height:32px;border-radius:9px;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center}
+.brand .logo svg{width:19px;height:19px}
+.date{color:var(--sub);font-size:13px}
+.ic{width:18px;height:18px;flex:none}
+.hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin-bottom:22px;box-shadow:var(--shadow)}
+.hero .lbl{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--sub);font-weight:700;margin-bottom:6px}
+.hero .big{font-size:20px;font-weight:700;line-height:1.3}
+.hero .big.calm{color:var(--ok)}
+h2{display:flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;
+color:var(--sub);font-weight:700;margin:26px 0 12px}
+h2 .ic{width:15px;height:15px}
+.todo{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
+.trow{display:flex;align-items:flex-start;gap:12px;padding:13px 16px;border-bottom:1px solid var(--line)}
+.trow:last-child{border-bottom:none}
+.trow .ci{width:30px;height:30px;border-radius:8px;background:rgba(15,110,90,.1);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}
+.trow .ci .ic{width:16px;height:16px}
+.trow .tt{font-weight:600;font-size:14px}.trow .ds{font-size:12.5px;color:var(--sub);margin-top:1px}
+.empty{padding:16px;color:var(--sub);font-size:13.5px}
+.nets{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:620px){.nets{grid-template-columns:1fr}}
+.ncard{display:flex;align-items:center;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;
+padding:16px 18px;box-shadow:var(--shadow);text-decoration:none;color:var(--ink);transition:transform .08s}
+.ncard:hover{transform:translateY(-2px)}
+.ncard .nic{width:42px;height:42px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none}
+.ncard .nic .ic{width:23px;height:23px}
+.yt-bg{background:var(--yt)}.tt-bg{background:var(--tt)}.ig-bg{background:var(--ig)}.fb-bg{background:var(--fb)}
+.ncard .nm{flex:1;min-width:0}
+.ncard .nm b{font-size:16px}.ncard .nm .st{font-size:12.5px;color:var(--sub);margin-top:2px;display:flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;flex:none}.dot.ok{background:var(--ok)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--bad)}.dot.muted{background:var(--sub)}
+.ncard .go{color:var(--sub);flex:none}.ncard .go .ic{width:18px;height:18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:7px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 13px;font-size:13px;box-shadow:var(--shadow)}
+.chip .ic{width:14px;height:14px;color:var(--accent)}.chip code{color:var(--accent);font:12px ui-monospace,Menlo,monospace}
+/* subpágina */
+.subhead{display:flex;align-items:center;gap:12px;margin-bottom:6px}
+.subhead .nic{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none}
+.subhead .nic .ic{width:22px;height:22px}
+.subhead h1{font-size:22px;margin:0}
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--sub);text-decoration:none;font-size:13px;margin-bottom:14px}
+.back .ic{width:15px;height:15px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 2px;box-shadow:var(--shadow)}
+.prow{display:flex;align-items:center;gap:11px;padding:11px 15px;border-bottom:1px solid var(--line)}.prow:last-child{border-bottom:none}
+.prow .d{font-size:12px;font-weight:700;width:50px;flex:none;text-align:center;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:5px 0;line-height:1.1}
+.prow .d small{display:block;font-size:9px;color:var(--sub);text-transform:uppercase}
+.prow .t{font-size:13.5px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar{margin:11px 16px}
+.bar .lbl{display:flex;justify-content:space-between;font-size:12.5px;margin-bottom:5px;gap:8px}
+.bar .lbl .n{color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar .lbl .v{font-weight:700;flex:none}
+.bar .track{height:8px;background:var(--line);border-radius:99px;overflow:hidden}.bar .fill{height:100%;border-radius:99px}
+.analise{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow);line-height:1.6}
+.analise .r{font-weight:600;margin-bottom:8px}.analise p{margin:0;color:var(--sub)}
+.analise .up{font-size:11px;color:var(--sub);margin-top:12px}
+footer{text-align:center;color:var(--sub);font-size:12px;margin-top:34px}
+a.brand:hover{opacity:.85}
+</style></head><body><div class="wrap"><a class="brand" href="index.html" style="margin-bottom:14px"><span class="logo"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 3v18M17 3v18M3 8h4M3 16h4M17 8h4M17 16h4"/></svg></span>Canal Agente</a><a class="back" href="index.html"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 18l-6-6 6-6"/></svg> voltar</a><div class="subhead"><span class="nic ti-bg"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5v9a3 3 0 1 1-3-3"/><path d="M14 5a5 5 0 0 0 5 5V7a3 3 0 0 1-2-3Z"/></svg></span><h1>TikTok</h1></div><p style="color:var(--sub);margin:0 0 4px"><span class="dot ok"></span> 11 no backlog curado</p><h2><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M18 6l-2.5 2.5M8.5 15.5 6 18"/></svg> Minha análise</h2><div class="analise"><div class="r">Feed frio com discovery real. Criatura e medo ganham; construção morre.</div><p>É a rede de descoberta mais promissora depois do YouTube. O padrão está claro nos números: o topo é criatura + escala/medo (a arma da aurora liderou com 3.179 impressões, monstro que escuta som logo atrás), enquanto conteúdo de construção afunda (bases nos biomas, 644, apesar de ser hit no YouTube). O filtro de tema já prioriza monstro na fila automática. Backlog saudável (~11 dias). Recomendação: continuar mandando corte de criatura com hook de escala/medo nos 2 primeiros segundos; não gastar slot com base/veículo aqui.</p><div class="up">Escrita pelo Claude · peça "analisa as redes" pra atualizar</div></div><h2><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><rect x="7" y="10" width="3" height="7"/><rect x="12" y="6" width="3" height="11"/><rect x="17" y="13" width="3" height="4"/></svg> Performance (PostProxy)</h2><div class="panel" style="padding:6px 0 12px"><div class="bar"><div class="lbl"><span class="n">Será que essa arma é capaz de mudar o tamanho da</span><span class="v">3.179</span></div><div class="track"><div class="fill" style="width:100%;background:var(--ti)"></div></div></div><div class="bar"><div class="lbl"><span class="n">Esse monstro escuta qualquer som 😱</span><span class="v">978</span></div><div class="track"><div class="fill" style="width:31%;background:var(--ti)"></div></div></div><div class="bar"><div class="lbl"><span class="n">BASES NOS BIOMAS MAIS PERIGOSOS DO SUBNAUTICA</span><span class="v">644</span></div><div class="track"><div class="fill" style="width:20%;background:var(--ti)"></div></div></div><div class="bar"><div class="lbl"><span class="n">ESSE É O MONSTRO DA VOID DE SUBNAUTICA 2 💀</span><span class="v">306</span></div><div class="track"><div class="fill" style="width:10%;background:var(--ti)"></div></div></div></div><h2><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M8 2v4M16 2v4M3 10h18"/></svg> Próximos posts</h2><div class="panel"><div class="empty">Nada agendado à frente.</div></div><footer>Painel do Canal Agente · dados vivos da esteira · sem API paga</footer></div></body></html>
