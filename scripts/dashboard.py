@@ -21,6 +21,9 @@ PROD  = os.path.join(HERE, "producao.json")
 SHORTS= os.path.join(RAIZ, "shorts_feitos.json")
 ANALI = os.path.join(RAIZ, "dashboard-analises.json")
 PERF  = os.path.join(RAIZ, "dashboard-performance.json")
+ROTE  = os.path.join(RAIZ, "dashboard-roteiros.json")
+APREN = os.path.join(RAIZ, "dashboard-aprendizados.json")
+DOSSIE_URL = "../ROTEIROS - DOSSIÊS/"   # relativo à pasta do painel no Drive
 OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
 
@@ -51,11 +54,16 @@ _I = {
  "arrow":'<path d="M5 12h14M13 6l6 6-6 6"/>',
  "spark":'<path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M18 6l-2.5 2.5M8.5 15.5 6 18"/>',
  "youtube":'<rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/>',
- "tiktok":'<path d="M9 18V6l10-2v11"/><circle cx="6" cy="18" r="3"/><circle cx="16" cy="15" r="3"/>',
+ "tiktok":'<path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/>',
+ "doc":'<path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/><path d="M8 13h8M8 17h6"/>',
+ "bulb":'<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.5.5 1 1.2 1 2.5h6c0-1.3.5-2 1-2.5A6 6 0 0 0 12 3Z"/>',
  "instagram":'<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17" cy="7" r="1"/>',
  "facebook":'<path d="M15 3h-2a4 4 0 0 0-4 4v3H7v4h2v7h4v-7h3l1-4h-4V7a1 1 0 0 1 1-1h2Z"/>',
 }
+_FILLED = {"tiktok"}   # ícones de marca (path fechado, fill em vez de stroke)
 def icon(n, cls="ic"):
+    if n in _FILLED:
+        return f'<svg class="{cls}" viewBox="0 0 24 24" fill="currentColor" stroke="none">{_I.get(n,"")}</svg>'
     return f'<svg class="{cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{_I.get(n,"")}</svg>'
 
 NETS = [("youtube", "YouTube"), ("tiktok", "TikTok"), ("instagram", "Instagram"), ("facebook", "Facebook")]
@@ -128,6 +136,14 @@ h2 .ic{width:15px;height:15px}
 .prow .d{font-size:12px;font-weight:700;width:48px;flex:none;text-align:center;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:5px 0;line-height:1.1}
 .prow .d small{display:block;font-size:9px;color:var(--sub);text-transform:uppercase}
 .prow .t{font-size:13.5px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.learn{display:flex;gap:12px;padding:13px 15px;border-bottom:1px solid var(--line)}.learn:last-child{border-bottom:none}
+.learn .li{width:30px;height:30px;border-radius:8px;background:var(--acc-bg);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}.learn .li .ic{width:16px;height:16px}
+.learn .lt{font-weight:600;font-size:14px}.learn .lx{font-size:13px;color:var(--sub);margin-top:3px;line-height:1.5}.learn .lf{font-size:11px;color:var(--sub);margin-top:5px;opacity:.8}
+.rt{display:flex;align-items:center;gap:13px;padding:13px 15px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink)}.rt:last-child{border-bottom:none}.rt:hover{background:var(--acc-bg)}
+.rt .ri{width:46px;height:46px;border-radius:10px;background:var(--acc-bg);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}.rt .ri .ic{width:22px;height:22px}
+.rt .rb{flex:1;min-width:0}.rt .rname{display:block;font-weight:600;font-size:14.5px}.rt .rmeta{display:block;font-size:12.5px;color:var(--sub);margin-top:3px}
+.rt .rs{font-size:11px;font-weight:700;color:var(--ok);border:1px solid var(--ok);border-radius:999px;padding:2px 9px;flex:none}
+.bignada{text-align:center;padding:40px 20px;color:var(--sub)}.bignada .bi{width:46px;height:46px;color:var(--line);margin-bottom:10px}.bignada b{color:var(--ink);display:block;margin-bottom:4px}.bignada code{color:var(--accent);font:12.5px ui-monospace,Menlo,monospace}
 footer{color:var(--sub);font-size:12px;margin-top:32px}
 """
 
@@ -140,6 +156,8 @@ COMANDOS = [
 def sidebar(ativa):
     S = [f'<a class="brand" href="index.html"><span class="logo">{icon("film")}</span>Canal Agente</a><nav class="nav">']
     S.append(f'<a href="index.html" class="{"on" if ativa=="home" else ""}">{icon("home")} Visão geral</a>')
+    S.append(f'<a href="roteiros.html" class="{"on" if ativa=="roteiros" else ""}">{icon("doc")} Roteiros</a>')
+    S.append(f'<a href="aprendizados.html" class="{"on" if ativa=="aprendizados" else ""}">{icon("bulb")} Aprendizados</a>')
     S.append('<div class="sep">Redes</div>')
     for net, nome in NETS:
         S.append(f'<a href="{net}.html" class="{"on" if ativa==net else ""}">{icon(net)} {nome}</a>')
@@ -262,10 +280,11 @@ def home(hoje, oper, led, prod, met):
     return shell("Canal Agente", "home", "".join(B))
 
 
-def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real):
+def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, aprendizados):
     prox = proximos_net(hoje, net, oper, sched)
     perf, unidade, fonte = perf_net(met, net, perf_real)
     an = analises.get(net, {})
+    learns = [a for a in aprendizados if net in a.get("redes", [])]
     cor, stat = net_status(hoje, net, oper, led, prod)
     B = []
     B.append(f'<div class="subhead"><span class="nic {net[:2]}-bg">{icon(net)}</span><h1>{nome}</h1></div>')
@@ -277,6 +296,13 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real):
                  f'<p>{esc(an.get("texto",""))}</p><div class="up">Escrita pelo Claude · peça "analisa as redes" pra atualizar</div></div>')
     else:
         B.append(f'<div class="analise"><p>Ainda não analisei essa rede. Peça: <code>analisa o {esc(nome)}</code>.</p></div>')
+
+    if learns:
+        B.append(f'<h2>{icon("bulb")} O que já aprendi aqui</h2><div class="card">')
+        for a in learns:
+            B.append(f'<div class="learn"><span class="li">{icon("bulb")}</span><div>'
+                     f'<div class="lt">{esc(a.get("titulo",""))}</div><div class="lx">{esc(a.get("texto",""))}</div></div></div>')
+        B.append('</div>')
 
     if net in ("tiktok", "instagram", "facebook"):
         B.append(f'<h2>{icon("poll")} Performance · {esc(unidade)} <span style="color:var(--sub);font-weight:600;text-transform:none;letter-spacing:0">(fonte: {esc(fonte)})</span></h2><div class="card">')
@@ -303,18 +329,57 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real):
     return shell(f"{nome} · Canal Agente", net, "".join(B))
 
 
+def page_roteiros(hoje, roteiros):
+    B = [f'<div class="head"><h1>Roteiros prontos</h1><span class="date">{hoje.strftime("%d/%m/%Y")}</span></div>']
+    if not roteiros:
+        B.append(f'<div class="card"><div class="bignada">{icon("doc","bi")}'
+                 f'<b>Nenhum roteiro pronto agora.</b>Peça ao Claude: <code>me dá um roteiro</code> '
+                 f'(ele acha o tema e entrega o dossiê pronto pra gravar).</div></div>')
+    else:
+        B.append('<div class="card">')
+        for r in roteiros:
+            meta = f'{esc(r.get("jogo",""))} · motor {esc(r.get("motor",""))} · {esc(r.get("data",""))}'
+            arq = esc(DOSSIE_URL + r.get("arquivo", "")) if r.get("arquivo") else "#"
+            B.append(f'<a class="rt" href="{arq}"><span class="ri">{icon("doc")}</span>'
+                     f'<span class="rb"><span class="rname">{esc(r.get("titulo",""))}</span>'
+                     f'<span class="rmeta">{meta}</span></span>'
+                     f'<span class="rs">{esc(r.get("status","pronto")).upper()}</span></a>')
+        B.append('</div>')
+        B.append(f'<p style="color:var(--sub);font-size:13px;margin-top:14px">Os dossiês ficam em '
+                 f'<b>Mano Preguica / ROTEIROS - DOSSIÊS</b>. Pra um novo, peça <code>me dá um roteiro</code>.</p>')
+    return shell("Roteiros · Canal Agente", "roteiros", "".join(B))
+
+
+def page_aprendizados(hoje, aprendizados):
+    B = [f'<div class="head"><h1>Aprendizados</h1><span class="date">o que o Claude estudou do canal e dos concorrentes</span></div>']
+    B.append('<div class="card">')
+    for a in aprendizados:
+        redes = " · ".join(dict(NETS).get(n, n) for n in a.get("redes", []))
+        B.append(f'<div class="learn"><span class="li">{icon("bulb")}</span><div>'
+                 f'<div class="lt">{esc(a.get("titulo",""))}</div><div class="lx">{esc(a.get("texto",""))}</div>'
+                 f'<div class="lf">{esc(redes)}  ·  fonte: {esc(a.get("fonte",""))}</div></div></div>')
+    B.append('</div>')
+    B.append(f'<p style="color:var(--sub);font-size:13px;margin-top:14px">Isto cresce conforme eu estudo o que é postado. '
+             f'Pra eu revisar e adicionar, peça <code>atualiza os aprendizados</code>.</p>')
+    return shell("Aprendizados · Canal Agente", "aprendizados", "".join(B))
+
+
 def main():
     hoje = datetime.datetime.now(BRT).date()
     led  = load(LEDGER, {"videos": {}})
     oper = load(OPER, {}); prod = load(PROD, {}); met = load(MET, {}); sched = load(SCHED, [])
     analises = load(ANALI, {})
     perf_real = load(PERF, {})
+    roteiros = load(ROTE, {}).get("roteiros", [])
+    aprend = load(APREN, {}).get("aprendizados", [])
     os.makedirs(OUTDIR, exist_ok=True)
     open(os.path.join(OUTDIR, "index.html"), "w", encoding="utf-8").write(home(hoje, oper, led, prod, met))
+    open(os.path.join(OUTDIR, "roteiros.html"), "w", encoding="utf-8").write(page_roteiros(hoje, roteiros))
+    open(os.path.join(OUTDIR, "aprendizados.html"), "w", encoding="utf-8").write(page_aprendizados(hoje, aprend))
     for net, nome in NETS:
         open(os.path.join(OUTDIR, f"{net}.html"), "w", encoding="utf-8").write(
-            page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real))
-    print(f"painel gerado: index + {len(NETS)} redes (sidebar + thumbnails)")
+            page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, aprend))
+    print(f"painel gerado: index + roteiros + aprendizados + {len(NETS)} redes")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,60 @@
+{
+  "_doc": "O que o Claude já aprendeu estudando o que foi postado (canal + concorrentes Saif/Sev7n). Fica VISÍVEL pro Murilo saber que o estudo existe e está vivo. O Claude atualiza quando aprende algo novo. redes = onde aquele aprendizado vale (aparece na página de cada rede + na página Aprendizados).",
+  "atualizado": "2026-08-08",
+  "aprendizados": [
+    {
+      "titulo": "Criatura + medo/escala é o que estoura no feed frio",
+      "texto": "No TikTok/Instagram, corte de criatura nomeada com hook de escala ou medo é o que viraliza (Monstro da Void 147k, Reaper 72k). Construção, veículo e base morrem no feed frio, mesmo sendo hit no YouTube.",
+      "redes": ["tiktok", "instagram"],
+      "fonte": "views reais Metricool + análise 05/08"
+    },
+    {
+      "titulo": "YouTube é o piso: o que floppa lá, floppa no feed frio",
+      "texto": "Se o vídeo nasceu fraco no YouTube, não adianta cruzpostar (Lethal 1.1k, pirâmides 2.3k morreram nos dois). Por isso o robô só cruzposta o que passou de 10 mil no YouTube.",
+      "redes": ["tiktok", "instagram", "youtube"],
+      "fonte": "MIN_VIEWS + padrão YT×TikTok"
+    },
+    {
+      "titulo": "Título com 'novo/anunciado' + vídeo velho = notícia velha",
+      "texto": "Vídeo com moldura de novidade e mais de 120 dias engana e rende mal. O robô corta sozinho (foi assim que barramos o 'NOVO MONSTRO' de 10 meses).",
+      "redes": ["tiktok", "instagram"],
+      "fonte": "trava noticia_velha 06/08"
+    },
+    {
+      "titulo": "Facebook orgânico de página quase não tem alcance",
+      "texto": "Média de ~280 impressões por post e engajamento perto de zero, mesmo com vídeos que fazem centenas de milhares no YouTube. Monetizado, mas não paga por falta de views. Por isso virou baixa prioridade.",
+      "redes": ["facebook"],
+      "fonte": "metrics.json PostProxy"
+    },
+    {
+      "titulo": "O hook nos 2 primeiros segundos decide",
+      "texto": "A retenção do canal já é alta (70-88%); a alavanca não é reter, é o hook que faz o vídeo ser aberto. Gancho factual ou pergunta com o choque específico já dito, nunca vago.",
+      "redes": ["youtube", "tiktok", "instagram"],
+      "fonte": "voz calibrada 335k + Saif/Sev7n"
+    },
+    {
+      "titulo": "Enquadramento vale mais que o conteúdo",
+      "texto": "O mesmo gasópode que o Mano postou como 'olha o que eu fiz' (28k) o Saif postou como 'a fraqueza secreta do Reaper' e fez 2.8 milhões. Enquadrar como descoberta/segredo do jogo, nunca como stunt.",
+      "redes": ["youtube", "tiktok"],
+      "fonte": "lição do gasópode"
+    },
+    {
+      "titulo": "Título vencedor: criatura nomeada + pergunta ou descoberta",
+      "texto": "'Por que não tem ninguém vivo', 'Segredo de 12 anos', 'O que acontece se'. Uma criatura por vídeo, um achado por vídeo, twist obrigatório no meio.",
+      "redes": ["youtube", "tiktok"],
+      "fonte": "top do canal + moldes do Saif"
+    },
+    {
+      "titulo": "Série sequencial (DIA X / #N) é o maior ralo",
+      "texto": "Gameplay em série numerada faz 1-4k sempre. Vídeo encapsulado (missão única) rende muito mais. Evitar formato de série no título.",
+      "redes": ["youtube"],
+      "fonte": "performance real Studio"
+    },
+    {
+      "titulo": "Zero invenção: fonte primária sempre",
+      "texto": "Todo fato de lore vem do texto real do jogo (databank/scan), separando canon de teoria de fã. Já queimamos regravando 6 vídeos por factoide inventado; não repetir.",
+      "redes": ["youtube", "tiktok", "instagram", "facebook"],
+      "fonte": "cicatriz 01/08 + regra de ouro"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_doc": "Roteiros prontos pra gravar (dossiês). O Claude adiciona aqui quando gera um roteiro; o painel lista. Se vazio, o Murilo entende que não tem nada e precisa gerar. arquivo = nome do HTML do dossiê (em Mano Preguica/ROTEIROS - DOSSIÊS).",
+  "atualizado": "2026-08-08",
+  "roteiros": [
+    {
+      "titulo": "O Gorgon que Escuta",
+      "jogo": "Subnautica 2",
+      "motor": "A (lore)",
+      "status": "pronto",
+      "data": "2026-08-08",
+      "arquivo": "dossie-gorgon-que-escuta.html",
+      "resumo": "Um coral que parece inofensivo é o ouvido mais poderoso do oceano, e o jogo insinua que ele escuta um monstro que ninguém achou."
+    }
+  ]
+}
