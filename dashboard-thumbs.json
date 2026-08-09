@@ -32,14 +32,49 @@
       {
         "vid": "oWsDsD7DtEM",
         "titulo": "TENTEI MATAR O LEVIATHAN COLECIONADOR DE SUBNAUTICA 2",
-        "status": "fila",
-        "motivo": "1.426 views, enquadramento de stunt. Candidato a novo título de descoberta + thumb de criatura de frente. Peça 'analisa a thumb do Colecionador'."
+        "status": "media",
+        "diagnostico": "A capa já acerta bastante: criatura grande, olho laranja brilhando e o mergulhador minúsculo dando escala. O problema é que ela é escura e a criatura tem quase a mesma cor da água (azul no azul), então no tamanho pequeno ela não descola do fundo e vira uma mancha escura com um ponto laranja. Perde força no feed.",
+        "conceito": "Manter a composição boa (monstro enorme de cima, mergulhador pequeno embaixo), mas puxar o Colecionador pra frente com os tentáculos vindo na direção da câmera (o 'te agarra e não solta' do vídeo), clarear a cena e aumentar o contraste de cor pra a criatura saltar do azul. O olho laranja fica, funciona.",
+        "elementos": [
+          "Colecionador maior e mais pra frente, tentáculos avançando na direção da câmera",
+          "Clarear a cena e aumentar o contraste: criatura mais quente contra água azul mais clara",
+          "Manter o olho laranja brilhando (é a âncora que já funciona)",
+          "Mergulhador pequeno embaixo pra escala (manter)",
+          "Ângulo de baixo pra cima, criatura ocupando uns 70% do frame",
+          "Zero texto"
+        ],
+        "referencia": {
+          "monstro": "Leviatã Colecionador, de frente e de baixo",
+          "fonte": "Biblioteca-Visual-Subnautica / leviatas / coletor / CANON.jpg",
+          "posicao": "grande, vindo de cima com os tentáculos pra frente, mergulhador minúsculo embaixo"
+        },
+        "prompts": [
+          {"titulo": "Prompt principal (anexe a ref do Colecionador)", "texto": "Reproduza a criatura desta imagem [@ref do Colecionador do jogo] EXATAMENTE como ela é, sem inventar a anatomia. Thumbnail de YouTube 16:9, cena mais clara e legível, iluminação de cinema, ultrarealista 4k, efeitos VFX. O Leviatã Colecionador enorme vindo de cima, tentáculos avançando na direção da câmera, o olho grande brilhando em laranja, ocupando uns 70% do frame, ângulo de baixo pra cima. Um mergulhador solitário minúsculo embaixo pra dar escala. Água azul mais clara ao fundo e alto contraste de cor pra a silhueta da criatura descolar. Composição limpa, sem HUD, sem interface, sem texto. PROIBIDO: mudar a anatomia da criatura, estilo cartoon."},
+          {"titulo": "Passe de acabamento (em cima do resultado)", "texto": "gere exatamente essa imagem só que com iluminação de cinema, efeitos VFX, ultra realismo e 4k, mantendo a mesma composição e a mesma criatura, deixando as cores mais vivas e o monstro mais nítido"}
+        ]
       },
       {
         "vid": "XZQKq0mzLns",
         "titulo": "A ARMA QUE MATA QUALQUER MONSTRO DE SUBNAUTICA 2",
-        "status": "fila",
-        "motivo": "1.696 views. A premissa é forte (a arma que o jogo proíbe), a thumb pode vender isso melhor. Peça 'analisa a thumb da Arma'."
+        "status": "media",
+        "diagnostico": "Essa capa já é boa: o monstro está de boca aberta com dentes, tem contraste laranja no azul e a arma em POV combina com o tema. O ponto fraco é a composição: a arma em primeiro plano é grande e chamativa demais e disputa a atenção com o monstro. A 120px o olho fica dividido entre os dois. E, sendo honesto, o que mais segurou esse vídeo foi o alcance do tema e do título, não a capa.",
+        "conceito": "Deixar o monstro ser claramente o herói: maior, avançando de boca aberta, ocupando uns 70% do frame. A arma continua (é o tema), mas menor e mais pra baixo, como elemento de POV, não como co-protagonista. Reforçar o contraste de cor pra o bicho saltar.",
+        "elementos": [
+          "Monstro dominando o frame (uns 70%), de boca aberta com dentes, avançando",
+          "Arma em POV menor, no canto inferior, sem competir com o monstro",
+          "Manter o contraste laranja e vermelho contra o azul-petróleo",
+          "Olhos do monstro brilhando",
+          "Ângulo baixo, monstro encarando a câmera",
+          "Zero texto"
+        ],
+        "referencia": {
+          "monstro": "o leviatã que aparece na cena do vídeo, de frente e de boca aberta",
+          "fonte": "Biblioteca-Visual-Subnautica / leviatas / (a criatura da cena) / CANON.jpg",
+          "posicao": "grande, de frente, boca aberta; arma pequena no canto de baixo"
+        },
+        "prompts": [
+          {"titulo": "Prompt principal (anexe a ref da criatura da cena)", "texto": "Reproduza a criatura desta imagem [@ref do leviatã do jogo] EXATAMENTE como ela é, sem inventar a anatomia. Thumbnail de YouTube 16:9, cena clara e legível, iluminação de cinema, ultrarealista 4k, efeitos VFX. O leviatã avançando de FRENTE, boca escancarada com dentes à mostra, olhos brilhando, ocupando uns 70% do frame, ângulo baixo encarando a câmera. Uma arma futurista em POV pequena no canto inferior (só como referência de que é o jogador), sem competir com o monstro. Alto contraste de cor, laranja e vermelho contra água azul-petróleo. Composição limpa, sem HUD, sem interface, sem texto. PROIBIDO: mudar a anatomia da criatura, arma dominando a cena, estilo cartoon."}
+        ]
       }
     ]
   },
@@ -93,7 +128,31 @@
   "concorrentes": {
     "titulo": "Inspiração externa (nunca copiar, só ler o padrão)",
     "canais": [
-      {"nome": "Anthomnia", "status": "a puxar", "nota": "Canal grande de Subnautica e criaturas, thumbs muito fortes. Vou baixar as que mais performam pra ler o padrão e comparar com as nossas."}
+      {
+        "nome": "Anthomnia",
+        "status": "lido 09/08",
+        "nota": "Canal de criaturas (ARK, The Isle) que agora faz MUITO Subnautica 2, com thumbs de 500k a 2,2M. Referência direta do seu nicho.",
+        "padrao": [
+          "Boca escancarada com MUITOS dentes, bem exagerada (mais que o jogo real)",
+          "Vários olhos brilhando em laranja (3 olhos), fica mais assustador",
+          "Criatura ocupa uns 55 a 65%, sempre com um segundo foco (o objetivo, o submarino, a esfera vermelha) pra dar história e escala",
+          "Contraste de cor altíssimo: elemento quente (laranja, vermelho) contra fundo escuro ou claro; o bicho sempre descola do fundo",
+          "Cena dramática com ameaça clara (mordendo o objetivo, atacando o submarino)"
+        ],
+        "diferencas": "Eles USAM texto grande 'SUBNAUTICA' com brilho metálico (a nossa regra é zero-texto, o título carrega). E exageram os dentes além do jogo (a nossa é fidelidade ao jogo). O caminho: adotar a ESTRUTURA (boca mais dentes mais olhos mais contraste mais segundo foco), manter a nossa fidelidade, e testar se vale um selo de texto no longform.",
+        "videos": [
+          {"vid": "Iizpk9fXbW4", "views": 2206211, "titulo": "We Just Lost The Planet to the Red Plague"},
+          {"vid": "qzq1mVGF8Ss", "views": 1423273, "titulo": "New Leviathans & New World; Subnautica 2 Reveal"},
+          {"vid": "_o1wtfE4qqI", "views": 1201733, "titulo": "Every Leviathan & SECRET Leviathan in Subnautica 2"},
+          {"vid": "otu26DZ75Nk", "views": 941221, "titulo": "The Red Plague is Infecting YOUR Subnautica World"},
+          {"vid": "ueHbu2MT2dQ", "views": 763025, "titulo": "The Plague Gargantuan Leviathan is Born"},
+          {"vid": "iqCzPCOdw7c", "views": 756266, "titulo": "World First Exclusive: Subnautica 2 Gameplay"},
+          {"vid": "p0fMEN7LtI8", "views": 576719, "titulo": "This isn't how we Remember the Gargantuan Leviathan"},
+          {"vid": "9FeEBSoNu0M", "views": 574448, "titulo": "Only the Return of an Ancient Leviathan Will Save This World"},
+          {"vid": "FiTVfrrEKVU", "views": 543810, "titulo": "The Elusive Leviathan & Trident Submarine"},
+          {"vid": "ir8filerB9w", "views": 480460, "titulo": "The Red Plague Ambush with a Plagued Baby Leviathan"}
+        ]
+      }
     ]
   }
 }

@@ -471,6 +471,7 @@ def page_thumbs(hoje, td, led):
         for v in of.get("videos", []):
             vid = v.get("vid", ""); st = v.get("status", "fila")
             stpill = {"ruim": '<span class="vpill ruim">thumb ruim</span>',
+                      "media": '<span class="vpill medio">dá pra melhorar</span>',
                       "nova": '<span class="vpill medio">vídeo novo</span>',
                       "fila": '<span class="pill">na fila</span>'}.get(st, "")
             ctr = f' &nbsp;{v["ctr"]:.1f}% CTR' if v.get("ctr") else ""
@@ -593,15 +594,30 @@ def page_thumbs(hoje, td, led):
     # 7) Inspiração externa (concorrentes)
     co = td.get("concorrentes", {})
     if co:
-        B.append(f'<h2>{icon("search")} {esc(co.get("titulo",""))}</h2><div class="card">')
+        B.append(f'<h2>{icon("search")} {esc(co.get("titulo",""))}</h2>')
         for c in co.get("canais", []):
-            st = c.get("status", "")
-            cor = "warn" if st == "a puxar" else "ok"
+            B.append('<div class="card" style="margin-bottom:12px">')
             B.append(f'<div class="item"><span class="ph">{icon("youtube")}</span>'
-                     f'<div class="bd"><div class="tt">{esc(c.get("nome",""))} '
-                     f'<span class="dot {cor}"></span> <span style="font-size:12px;color:var(--sub);font-weight:500">{esc(st)}</span></div>'
+                     f'<div class="bd"><div class="tt">{esc(c.get("nome",""))} <span class="pill">{esc(c.get("status",""))}</span></div>'
                      f'<div class="ds">{esc(c.get("nota",""))}</div></div></div>')
-        B.append('</div>')
+            if c.get("padrao"):
+                B.append('<div style="padding:2px 14px 4px"><p style="font-weight:600;font-size:13px;margin:8px 0 4px">O que eles fazem</p>'
+                         '<ul class="chk" style="border:1px solid var(--line);border-radius:10px">')
+                for it in c["padrao"]:
+                    B.append(f'<li>{icon("check")}<span>{esc(it)}</span></li>')
+                B.append('</ul>')
+                if c.get("diferencas"):
+                    B.append(f'<p style="font-size:12.5px;color:var(--sub);margin:8px 0 2px"><b>Diferença pra nós:</b> {esc(c["diferencas"])}</p>')
+                B.append('</div>')
+            vids = c.get("videos", [])
+            if vids:
+                B.append('<div style="padding:8px 14px 14px"><div class="grid4">')
+                for vv in vids:
+                    B.append(f'<a class="gcard" style="text-decoration:none" href="https://youtu.be/{esc(vv.get("vid",""))}" target="_blank" rel="noopener">'
+                             f'<img loading="lazy" src="{thumb(vv.get("vid",""))}" alt="">'
+                             f'<div class="gm">{vv.get("views",0):,} views</div></a>'.replace(",", "."))
+                B.append('</div></div>')
+            B.append('</div>')
 
     return shell("Thumbnails · Canal Agente", "thumbnails", "".join(B))
 
