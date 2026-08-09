@@ -6,8 +6,8 @@
     "texto": "O YouTube é o núcleo: cadência semanal (quinta), 3 vídeos agendados cobrindo até 27/08, e as enquetes firmes até 20/08. É a rede com maior retenção e a que converte inscrito. Quase tudo que vai pro TikTok, IG e Facebook nasce de um vídeo daqui. Ponto de atenção: os Shorts do canal retêm bem, mas o gargalo é o hook e o alcance, não a retenção. Recomendação: manter a máquina de roteiro alimentando o pipeline e transformar todo longo que rende em short-isca (o painel já te diz quais)."
   },
   "tiktok": {
-    "resumo": "Feed frio com discovery real. Criatura e medo ganham; construção morre.",
-    "texto": "É a rede de descoberta mais promissora depois do YouTube. O padrão está claro nos números: o topo é criatura + escala/medo (a arma da aurora liderou com 3.179 impressões, monstro que escuta som logo atrás), enquanto conteúdo de construção afunda (bases nos biomas, 644, apesar de ser hit no YouTube). O filtro de tema já prioriza monstro na fila automática. Backlog saudável (~11 dias). Recomendação: continuar mandando corte de criatura com hook de escala/medo nos 2 primeiros segundos; não gastar slot com base/veículo aqui."
+    "resumo": "A rede que mais estoura depois do YouTube. Criatura e mistério ganham grande.",
+    "texto": "Os números reais (Metricool) são fortes: o topo passa de 140 mil views (Monstro da Void 147k, Segredo de 12 anos 142k), o Reaper 'muito maior' fez 72k, e vários outros de Reaper/mistério entre 20k e 48k. O padrão é claríssimo: criatura nomeada + medo/escala/mistério é o que viraliza no feed frio; conteúdo genérico (Titanic, pirâmides, história da humanidade) morre abaixo de 300. O filtro de tema já prioriza monstro na fila automática. Recomendação: seguir firme em corte de criatura com hook de escala/medo nos 2 primeiros segundos, e transformar todo Reaper/leviatã que rende no YouTube em corte pra cá. Obs: as views vêm do Metricool porque o PostProxy não coleta view de TikTok direito (mostra 0)."
   },
   "instagram": {
     "resumo": "Ainda migrando do Metricool. Dados reais entram a partir de 17/08.",

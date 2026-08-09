@@ -20,6 +20,7 @@ OPER  = os.path.join(HERE, "operacao.json")
 PROD  = os.path.join(HERE, "producao.json")
 SHORTS= os.path.join(RAIZ, "shorts_feitos.json")
 ANALI = os.path.join(RAIZ, "dashboard-analises.json")
+PERF  = os.path.join(RAIZ, "dashboard-performance.json")
 OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
 
@@ -50,7 +51,7 @@ _I = {
  "arrow":'<path d="M5 12h14M13 6l6 6-6 6"/>',
  "spark":'<path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M18 6l-2.5 2.5M8.5 15.5 6 18"/>',
  "youtube":'<rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/>',
- "tiktok":'<path d="M9 5v9a3 3 0 1 1-3-3"/><path d="M14 5a5 5 0 0 0 5 5V7a3 3 0 0 1-2-3Z"/>',
+ "tiktok":'<path d="M9 18V6l10-2v11"/><circle cx="6" cy="18" r="3"/><circle cx="16" cy="15" r="3"/>',
  "instagram":'<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17" cy="7" r="1"/>',
  "facebook":'<path d="M15 3h-2a4 4 0 0 0-4 4v3H7v4h2v7h4v-7h3l1-4h-4V7a1 1 0 0 1 1-1h2Z"/>',
 }
@@ -184,7 +185,14 @@ def proximos_net(hoje, net, oper, sched):
     itens.sort()
     return itens[:8]
 
-def perf_net(met, net):
+def perf_net(met, net, perf_real):
+    """Prioriza a performance REAL (Metricool, em dashboard-performance.json). Cai pro PostProxy
+    (metrics.json) nas redes que ainda não têm fonte melhor. Devolve (itens, unidade, fonte)."""
+    reais = perf_real.get(net)
+    if reais:
+        itens = [(int(x["views"]), x.get("vid"), x.get("titulo", "")) for x in reais if x.get("views")]
+        itens.sort(reverse=True)
+        return itens[:8], "views", "Metricool"
     rank = []
     for vid, r in met.items():
         stt = r.get(net)
@@ -194,7 +202,7 @@ def perf_net(met, net):
             if isinstance(stt.get(k), (int, float)): imp = int(stt[k]); break
         if imp > 0: rank.append((imp, vid, r.get("title", "")))
     rank.sort(reverse=True)
-    return rank[:6]
+    return rank[:6], "impressões", "PostProxy"
 
 def shorts_pendentes(hoje, led):
     feitos = set(load(SHORTS, []))
@@ -254,9 +262,9 @@ def home(hoje, oper, led, prod, met):
     return shell("Canal Agente", "home", "".join(B))
 
 
-def page_net(hoje, net, nome, oper, led, prod, met, sched, analises):
+def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real):
     prox = proximos_net(hoje, net, oper, sched)
-    perf = perf_net(met, net)
+    perf, unidade, fonte = perf_net(met, net, perf_real)
     an = analises.get(net, {})
     cor, stat = net_status(hoje, net, oper, led, prod)
     B = []
@@ -271,16 +279,17 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises):
         B.append(f'<div class="analise"><p>Ainda não analisei essa rede. Peça: <code>analisa o {esc(nome)}</code>.</p></div>')
 
     if net in ("tiktok", "instagram", "facebook"):
-        B.append(f'<h2>{icon("poll")} Performance (PostProxy)</h2><div class="card">')
+        B.append(f'<h2>{icon("poll")} Performance · {esc(unidade)} <span style="color:var(--sub);font-weight:600;text-transform:none;letter-spacing:0">(fonte: {esc(fonte)})</span></h2><div class="card">')
         if perf:
             mx = max(v for v, _, _ in perf) or 1
             for v, vid, t in perf:
                 pct = max(4, round(v / mx * 100))
-                B.append(f'<div class="pf"><img class="thumb sm" loading="lazy" src="{thumb(vid)}" alt="">'
+                th = f'<img class="thumb sm" loading="lazy" src="{thumb(vid)}" alt="">' if vid else '<span class="ph" style="width:64px;height:36px"></span>'
+                B.append(f'<div class="pf">{th}'
                          f'<div class="bd"><div class="l1"><span class="n">{esc(t)}</span><span class="v">{v:,}</span></div>'.replace(",", ".")
                          + f'<div class="track"><div class="fill" style="width:{pct}%;background:var(--{net[:2]})"></div></div></div></div>')
         else:
-            B.append('<div class="empty">Sem dados do PostProxy ainda nessa rede.</div>')
+            B.append('<div class="empty">Sem dados dessa rede ainda.</div>')
         B.append('</div>')
 
     B.append(f'<h2>{icon("calendar")} Próximos {"vídeos e enquetes" if net=="youtube" else "posts"}</h2><div class="card">')
@@ -299,11 +308,12 @@ def main():
     led  = load(LEDGER, {"videos": {}})
     oper = load(OPER, {}); prod = load(PROD, {}); met = load(MET, {}); sched = load(SCHED, [])
     analises = load(ANALI, {})
+    perf_real = load(PERF, {})
     os.makedirs(OUTDIR, exist_ok=True)
     open(os.path.join(OUTDIR, "index.html"), "w", encoding="utf-8").write(home(hoje, oper, led, prod, met))
     for net, nome in NETS:
         open(os.path.join(OUTDIR, f"{net}.html"), "w", encoding="utf-8").write(
-            page_net(hoje, net, nome, oper, led, prod, met, sched, analises))
+            page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real))
     print(f"painel gerado: index + {len(NETS)} redes (sidebar + thumbnails)")
 
 

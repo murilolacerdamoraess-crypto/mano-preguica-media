@@ -1,0 +1,46 @@
+{
+ "_doc": "Performance REAL por rede (TikTok via Metricool, puxada pelo Claude quando o Murilo pede 'atualiza a performance'). O PostProxy não coleta views de TikTok direito. IG/FB caem pro metrics.json até terem fonte melhor.",
+ "atualizado": "2026-08-08",
+ "tiktok": [
+  {
+   "titulo": "ESSE É O MONSTRO DA VOID DE SUBNAUTICA 2",
+   "views": 147325,
+   "vid": "ojkRPwmn4Rw"
+  },
+  {
+   "titulo": "SUBNAUTICA 2 REVELOU UM SEGREDO DE 12 ANOS",
+   "views": 142801,
+   "vid": "1jSoDM0vzZU"
+  },
+  {
+   "titulo": "O REAPER É MUITO MAIOR DO QUE VOCÊ PENSA",
+   "views": 72541,
+   "vid": "RyumAp5oBRw"
+  },
+  {
+   "titulo": "VOCÊ CONHECE O NOME DE CADA REAPER NO SUBNAUTICA",
+   "views": 47677,
+   "vid": "haJEcqfl2MM"
+  },
+  {
+   "titulo": "PORQUE NÃO TEM NINGUÉM VIVO EM SUBNAUTICA",
+   "views": 38251,
+   "vid": "qVQUrzYWdlI"
+  },
+  {
+   "titulo": "COLOCARAM O REAPER LEVIATHAN NO SUBNAUTICA 2",
+   "views": 23978,
+   "vid": "G-eNgLfjPeI"
+  },
+  {
+   "titulo": "NINGUÉM PERCEBEU ISSO EM SUBNAUTICA 2",
+   "views": 22761,
+   "vid": "cqvij1QWsUA"
+  },
+  {
+   "titulo": "O REAPER VIROU PARTE DE UM PLANO MALIGNO DA ALTERRA",
+   "views": 15310,
+   "vid": "e6dJBImTYeY"
+  }
+ ]
+}
