@@ -1,9 +1,10 @@
 name: crosspost
 on:
-  schedule:
-    # Roda de DIA (12h UTC = 9h BRT) e AGENDA os posts do dia p/ a noite BRT via scheduled_at.
-    # Assim o horário é cravado (FB 20h/22h, TikTok 21h, IG 21h30), mesmo o cron do GitHub atrasando.
-    - cron: '0 12 * * *'   # DIÁRIO 12h UTC = 9h BRT (só dispara; publica à noite)
+  # DESLIGADO 09/08/2026: PostProxy cancelado (postava TikTok NAO-publico -> perdia monetizacao,
+  # e desativava comentario). TikTok/IG/FB voltaram pro Metricool (agendados via MCP em sessao).
+  # Isso tambem para a geracao automatica de repost. Reativar = descomentar o schedule abaixo.
+  # schedule:
+  #   - cron: '0 12 * * *'   # DIARIO 12h UTC = 9h BRT (so dispara; publica a noite)
   workflow_dispatch:
     inputs:
       dry_run:
