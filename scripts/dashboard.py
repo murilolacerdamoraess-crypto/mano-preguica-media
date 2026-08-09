@@ -222,17 +222,21 @@ def perf_net(met, net, perf_real):
     rank.sort(reverse=True)
     return rank[:6], "impressões", "PostProxy"
 
+JANELA_SHORT = int(os.environ.get("JANELA_SHORT", "75"))  # longo até X dias ainda vale um short-isca
 def shorts_pendentes(hoje, led):
+    """TODO longo recente (até JANELA_SHORT dias) que ainda não virou short. SEM piso de views
+    (o short é isca pra puxar view; longo de poucas views é justamente quem mais precisa).
+    Marcados em shorts_feitos.json (o Murilo fala 'já fiz o short do X') não aparecem."""
     feitos = set(load(SHORTS, []))
     cand = []
     for vid, v in led["videos"].items():
         if v.get("type") != "long" or vid in feitos: continue
         try: idade = (hoje - datetime.date.fromisoformat(v["published"][:10])).days
         except Exception: continue
-        if 0 <= idade <= 60 and v.get("views", 0) >= 5000:
+        if 0 <= idade <= JANELA_SHORT:
             cand.append((idade, v.get("views", 0), v.get("title", ""), vid))
     cand.sort()
-    return cand[:4]
+    return cand
 
 
 def home(hoje, oper, led, prod, met):
