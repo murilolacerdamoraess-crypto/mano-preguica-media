@@ -1,7 +1,13 @@
 {
   "_doc": "O que o Claude já aprendeu estudando o que foi postado (canal + concorrentes Saif/Sev7n). Fica VISÍVEL pro Murilo saber que o estudo existe e está vivo. O Claude atualiza quando aprende algo novo. redes = onde aquele aprendizado vale (aparece na página de cada rede + na página Aprendizados).",
-  "atualizado": "2026-08-08",
+  "atualizado": "2026-08-09",
   "aprendizados": [
+    {
+      "titulo": "Consertar a moldura ANTES de pagar a edição (gate pré-editor)",
+      "texto": "Transcrevi 3 shorts de gameplay já editados e os 3 estavam narrados como stunt ('eu tentei matar'), com um fato real de descoberta escondido dentro (a arma que o jogo proíbe, a parede vermelha do medo). Depois de editado, a narração trava e não dá pra mudar o hook. Trava nova: toda narração de gameplay passa por 2 perguntas antes de ir pro editor: é stunt ou descoberta? qual o fato real embaixo? Vale pra qualquer jogo.",
+      "redes": ["youtube", "tiktok", "instagram"],
+      "fonte": "transcrição dos 3 shorts 09/08 + lição do gasópode"
+    },
     {
       "titulo": "Criatura + medo/escala é o que estoura no feed frio",
       "texto": "No TikTok/Instagram, corte de criatura nomeada com hook de escala ou medo é o que viraliza (Monstro da Void 147k, Reaper 72k). Construção, veículo e base morrem no feed frio, mesmo sendo hit no YouTube.",
