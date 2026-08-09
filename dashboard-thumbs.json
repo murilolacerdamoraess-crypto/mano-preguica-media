@@ -1,0 +1,57 @@
+{
+  "_doc": "Sistema de thumbnail do painel. O Claude mantém. Consolida o padrão de CTR, o kit de prompt e o acervo de referência pra geração determinística. A preencher nos próximos passos: CTR real por vídeo (puxado do Studio) e o mural do Anthomnia.",
+  "atualizado": "2026-08-09",
+  "receita": {
+    "titulo": "Receita validada por CTR real (medido no Studio, 08/08)",
+    "nota": "Comparação real de 4 capas do canal. As imagens entram quando eu puxar o CTR por vídeo do Studio e casar com a thumb. Por enquanto, o número e a lição que ele impõe.",
+    "capas": [
+      {"nome": "Ice Dragon frontal", "ctr": 5.6, "veredito": "bom", "porque": "boca e dentes visíveis dos dois lados, cor saturada, fundo contrastante"},
+      {"nome": "Shiver frontal simétrico", "ctr": 5.5, "veredito": "bom", "porque": "rosto de frente, parte-assinatura centralizada, descola do fundo"},
+      {"nome": "Árvore / POV", "ctr": 4.5, "veredito": "medio", "porque": "o POV dá escala, mas sem rosto ou boca de criatura o dedo para menos"},
+      {"nome": "Shiver close do olho", "ctr": 2.2, "veredito": "ruim", "porque": "close de textura vira borrão a 120px, sem figura mais fundo, azul no azul lê fraco"}
+    ],
+    "licao": "Duas regras que o dado impõe: (1) mostrar BOCA ou ROSTO, porque close de textura some no tamanho pequeno; (2) FIGURA mais FUNDO, a criatura precisa descolar de algo (céu claro, pôr do sol, fundo escuro). E contraste de COR, não só de luz: bicho azul em água azul lê fraco."
+  },
+  "alavancas": {
+    "titulo": "As 7 alavancas de CTR (o DNA das que estouraram: 466k, 310k, 296k, 167k)",
+    "itens": [
+      "Boca escancarada com dentes à mostra",
+      "Olhos brilhando (laranja, vermelho ou verde-limão)",
+      "Bioluminescência: pontinhos de luz na criatura",
+      "Criatura ocupando 70 a 90% do frame, ângulo baixo, encarando a câmera",
+      "Elemento POV pra dar escala: mão do player ou moldura do cockpit (Seamoth, Cyclops)",
+      "Fundo azul-petróleo escuro pra a silhueta destacar",
+      "Zero texto na imagem (o título carrega a info); no máximo seta amarela mais círculo pro alvo secundário"
+    ]
+  },
+  "regras": {
+    "titulo": "Regras de ouro (inegociáveis, pagas caro)",
+    "itens": [
+      "Legível a 120 a 168px (teste do squint): 1 subject principal ocupando 50 a 70%, no máximo 1 secundário",
+      "NUNCA mexer na imagem por código (PIL, cv2, inpaint bugam a imagem). Toda operação é no chat (ChatGPT, Nano Banana, Magnific), em linguagem natural",
+      "NUNCA descrever a criatura em texto. Sempre anexar a imagem real do jogo como referência e pedir 'reproduza exatamente esta criatura'. O texto cuida só de luz, cor, enquadramento e proibições",
+      "Clonar a APARÊNCIA da criatura numa cena NOVA, nunca usar a thumb pronta como base (vira cópia literal)",
+      "Cena CLARA e legível, não pôster de cinema escuro. Padrão YouTube gaming: colorido, saturado, rosto grande",
+      "Shorts (9:16) e longform (16:9) são padrões DIFERENTES. Checar o formato antes de gerar",
+      "Não fingir ataque que o vídeo não entrega (mata retenção). Vender escala, talassofobia ou pergunta honesta"
+    ]
+  },
+  "kit_prompt": {
+    "termos": "ultrarealista, ultra realismo, 4k, iluminação de cinema, efeitos VFX, low angle (ângulo baixo), olhos brilhando, boca aberta e ameaçadora, pontos bioluminescentes, grade azul-petróleo escura, god rays, subsurface scattering, alto contraste, cores vívidas e saturadas, POV, moldura de cockpit",
+    "template_fidelidade": "Reproduza a criatura desta imagem [@ref do jogo] EXATAMENTE como ela é, sem inventar. Cena clara e legível, iluminação de cinema, ultrarealista 4k, efeitos VFX. Criatura ocupando 70 a 90% do frame, ângulo baixo encarando a câmera, boca aberta com dentes, olhos brilhando, fundo azul-petróleo escuro pra a silhueta destacar. Composição limpa, sem HUD, sem interface, sem facecam, sem texto. PROIBIDO: mudar a anatomia da criatura, estilo cartoon, dentes de dragão de Hollywood, caverna de lava.",
+    "template_fotorrealismo": "gere exatamente essa imagem só que com iluminação de cinema, efeitos VFX, ultra realismo e 4k, mantendo a mesma composição e a mesma criatura",
+    "template_limpeza": "remova todo o HUD, interface, facecam e mira, mantendo a cena idêntica"
+  },
+  "acervo": {
+    "titulo": "Acervo de referência (fidelidade ao jogo)",
+    "texto": "A Biblioteca-Visual-Subnautica tem a imagem CANON de cada criatura, bioma e jogo. É o @ref que a gente anexa no prompt. Regra: sem ref canon de qualidade (1024px ou mais no lado maior), não se gera a entidade. Se já existe thumb do canal pra criatura, ela ganha de qualquer outra fonte.",
+    "local": "Google Drive: Mano Preguica / Biblioteca-Visual-Subnautica",
+    "categorias": ["leviatas (reaper, shiver, ice-dragon, coletor, ghost, sea-dragon)", "biomas (blood-kelp, lost-river, shallows, void)", "jogos (mad-max, metro-exodus, raft)", "logos"]
+  },
+  "concorrentes": {
+    "titulo": "Inspiração externa (nunca copiar, só ler o padrão)",
+    "canais": [
+      {"nome": "Anthomnia", "status": "a puxar", "nota": "Canal grande de Subnautica e criaturas, thumbs muito fortes. Vou baixar as que mais performam pra ler o padrão e comparar com as nossas."}
+    ]
+  }
+}

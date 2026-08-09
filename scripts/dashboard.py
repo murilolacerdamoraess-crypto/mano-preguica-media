@@ -24,6 +24,7 @@ PERF  = os.path.join(RAIZ, "dashboard-performance.json")
 ROTE  = os.path.join(RAIZ, "dashboard-roteiros.json")
 APREN = os.path.join(RAIZ, "dashboard-aprendizados.json")
 PRONTOS = os.path.join(RAIZ, "dashboard-prontos.json")
+THUMBS  = os.path.join(RAIZ, "dashboard-thumbs.json")
 DOSSIE_URL = "dossies/"   # dossiês copiados DENTRO da pasta do painel (self-contained; link nunca quebra)
 OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
@@ -62,6 +63,7 @@ _I = {
  "facebook":'<path d="M15 3h-2a4 4 0 0 0-4 4v3H7v4h2v7h4v-7h3l1-4h-4V7a1 1 0 0 1 1-1h2Z"/>',
  "copy":'<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>',
  "wand":'<path d="M15 4V2M15 10V8M11 6H9M21 6h-2"/><path d="M18 9 5 22M17 4l1 1"/>',
+ "image":'<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.6"/><path d="m21 15-5-5L5 21"/>',
 }
 _FILLED = {"tiktok"}   # ícones de marca (path fechado, fill); insere num box menor pra pesar igual aos de traço
 def icon(n, cls="ic"):
@@ -154,6 +156,17 @@ h2 .ic{width:15px;height:15px}
 .rt .rs{font-size:11px;font-weight:700;color:var(--ok);border:1px solid var(--ok);border-radius:999px;padding:2px 9px;flex:none}
 .bignada{text-align:center;padding:40px 20px;color:var(--sub)}.bignada .bi{width:46px;height:46px;color:var(--line);margin-bottom:10px}.bignada b{color:var(--ink);display:block;margin-bottom:4px}.bignada code{color:var(--accent);font:12.5px ui-monospace,Menlo,monospace}
 footer{color:var(--sub);font-size:12px;margin-top:32px}
+.pbox{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:13px;line-height:1.5;color:var(--ink);margin:2px 0 8px;white-space:pre-wrap}
+.chk{list-style:none;margin:0;padding:0}
+.chk li{display:flex;gap:10px;padding:10px 14px;border-bottom:1px solid var(--line);font-size:14px;line-height:1.45}.chk li:last-child{border-bottom:none}
+.chk li .ic{color:var(--accent);margin-top:1px}
+.vpill{font-size:11px;font-weight:700;border-radius:999px;padding:2px 9px;flex:none}
+.vpill.bom{color:#fff;background:var(--ok)}.vpill.medio{color:#fff;background:var(--warn)}.vpill.ruim{color:#fff;background:var(--bad)}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@media(max-width:720px){.grid4{grid-template-columns:repeat(2,1fr)}}
+.gcard{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
+.gcard img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--line)}
+.gcard .gm{font-size:11.5px;color:var(--sub);padding:6px 8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 """
 
 COMANDOS = [
@@ -167,6 +180,7 @@ def sidebar(ativa):
     S.append(f'<a href="index.html" class="{"on" if ativa=="home" else ""}">{icon("home")} Visão geral</a>')
     S.append(f'<a href="roteiros.html" class="{"on" if ativa=="roteiros" else ""}">{icon("doc")} Roteiros</a>')
     S.append(f'<a href="aprendizados.html" class="{"on" if ativa=="aprendizados" else ""}">{icon("bulb")} Aprendizados</a>')
+    S.append(f'<a href="thumbnails.html" class="{"on" if ativa=="thumbnails" else ""}">{icon("image")} Thumbnails</a>')
     S.append('<div class="sep">Redes</div>')
     for net, nome in NETS:
         S.append(f'<a href="{net}.html" class="{"on" if ativa==net else ""}">{icon(net)} {nome}</a>')
@@ -440,6 +454,109 @@ def page_aprendizados(hoje, aprendizados):
     return shell("Aprendizados · Canal Agente", "aprendizados", "".join(B))
 
 
+def page_thumbs(hoje, td, led):
+    B = [f'<div class="head"><h1>Thumbnails</h1><span class="date">receita, kit de prompt e acervo pra gerar rápido e com fidelidade</span></div>']
+    B.append('<div class="acts">'
+             + copybtn('gera uma thumbnail do vídeo "TÍTULO"', "pedir uma thumbnail")
+             + copybtn("puxa o CTR real do Studio", "puxar CTR do Studio")
+             + copybtn("monta o mural de thumbs do Anthomnia", "puxar Anthomnia")
+             + '</div>')
+
+    # 1) Receita validada por CTR real (mural bom vs ruim)
+    rec = td.get("receita", {})
+    if rec:
+        B.append(f'<h2>{icon("poll")} {esc(rec.get("titulo",""))}</h2><div class="card">')
+        capas = rec.get("capas", [])
+        mx = max((c.get("ctr", 0) for c in capas), default=1) or 1
+        for c in capas:
+            v = c.get("veredito", "medio"); ctr = c.get("ctr", 0)
+            pct = max(6, round(ctr / mx * 100))
+            barcor = {"bom": "--ok", "medio": "--warn", "ruim": "--bad"}.get(v, "--sub")
+            B.append(f'<div class="pf"><div class="bd">'
+                     f'<div class="l1"><span class="n">{esc(c.get("nome",""))}</span>'
+                     f'<span class="v"><span class="vpill {esc(v)}">{esc(v)}</span> &nbsp;{ctr:.1f}% CTR</span></div>'
+                     f'<div class="track"><div class="fill" style="width:{pct}%;background:var({barcor})"></div></div>'
+                     f'<div class="ds" style="margin-top:6px">{esc(c.get("porque",""))}</div>'
+                     f'</div></div>')
+        B.append('</div>')
+        if rec.get("licao"):
+            B.append(f'<div class="analise" style="margin-top:11px"><div class="r">A lição que o dado impõe</div>'
+                     f'<p>{esc(rec.get("licao",""))}</p></div>')
+        if rec.get("nota"):
+            B.append(f'<p style="color:var(--sub);font-size:12.5px;margin-top:8px">{esc(rec.get("nota",""))}</p>')
+
+    # 2) As 7 alavancas de CTR (checklist)
+    al = td.get("alavancas", {})
+    if al:
+        B.append(f'<h2>{icon("check")} {esc(al.get("titulo",""))}</h2><div class="card"><ul class="chk">')
+        for it in al.get("itens", []):
+            B.append(f'<li>{icon("check")}<span>{esc(it)}</span></li>')
+        B.append('</ul></div>')
+
+    # 3) Kit de prompt (copiável)
+    kp = td.get("kit_prompt", {})
+    if kp:
+        B.append(f'<h2>{icon("wand")} Kit de prompt (clica pra copiar)</h2>')
+        blocos = [
+            ("Termos cinematográficos", kp.get("termos", ""), "copiar termos"),
+            ("Template de fidelidade (anexe a imagem do jogo)", kp.get("template_fidelidade", ""), "copiar template de fidelidade"),
+            ("Passe de fotorrealismo (em cima de um frame)", kp.get("template_fotorrealismo", ""), "copiar passe de fotorrealismo"),
+            ("Limpar HUD/interface do frame", kp.get("template_limpeza", ""), "copiar limpeza"),
+        ]
+        for titulo, txt, lab in blocos:
+            if not txt: continue
+            B.append(f'<p style="font-weight:600;font-size:13.5px;margin:12px 0 4px">{esc(titulo)}</p>')
+            B.append(f'<div class="pbox">{esc(txt)}</div>')
+            B.append('<div class="acts">' + copybtn(txt, lab, mini=True) + '</div>')
+
+    # 4) Regras de ouro
+    rg = td.get("regras", {})
+    if rg:
+        B.append(f'<h2>{icon("alert")} {esc(rg.get("titulo",""))}</h2><div class="card"><ul class="chk">')
+        for it in rg.get("itens", []):
+            B.append(f'<li>{icon("alert")}<span>{esc(it)}</span></li>')
+        B.append('</ul></div>')
+
+    # 5) Acervo de referência (fidelidade)
+    ac = td.get("acervo", {})
+    if ac:
+        B.append(f'<h2>{icon("image")} {esc(ac.get("titulo",""))}</h2>')
+        B.append(f'<div class="analise"><p>{esc(ac.get("texto",""))}</p>')
+        if ac.get("categorias"):
+            B.append('<p style="margin-top:8px">' + " &nbsp;·&nbsp; ".join(f'<span class="pill">{esc(x)}</span>' for x in ac["categorias"]) + '</p>')
+        if ac.get("local"):
+            B.append(f'<div class="up">{esc(ac.get("local",""))}</div>')
+        B.append('</div>')
+
+    # 6) Gabaritos: as maiores thumbs do canal (por views; CTR real entra em breve)
+    tops = sorted(((v.get("views", 0), vid, v.get("title", ""))
+                   for vid, v in led.get("videos", {}).items() if v.get("type") == "long"),
+                  reverse=True)[:8]
+    if tops:
+        B.append(f'<h2>{icon("target")} Gabaritos: suas maiores (por views)</h2>')
+        B.append('<p style="color:var(--sub);font-size:12.5px;margin:-4px 0 10px">O que já funcionou de verdade. Ranqueado por views; quando eu puxar o CTR do Studio, reordeno por CTR e marco as vencedoras.</p>')
+        B.append('<div class="grid4">')
+        for views, vid, t in tops:
+            B.append(f'<div class="gcard"><img loading="lazy" src="{thumb(vid)}" alt="">'
+                     f'<div class="gm">{views:,} views</div></div>'.replace(",", "."))
+        B.append('</div>')
+
+    # 7) Inspiração externa (concorrentes)
+    co = td.get("concorrentes", {})
+    if co:
+        B.append(f'<h2>{icon("search")} {esc(co.get("titulo",""))}</h2><div class="card">')
+        for c in co.get("canais", []):
+            st = c.get("status", "")
+            cor = "warn" if st == "a puxar" else "ok"
+            B.append(f'<div class="item"><span class="ph">{icon("youtube")}</span>'
+                     f'<div class="bd"><div class="tt">{esc(c.get("nome",""))} '
+                     f'<span class="dot {cor}"></span> <span style="font-size:12px;color:var(--sub);font-weight:500">{esc(st)}</span></div>'
+                     f'<div class="ds">{esc(c.get("nota",""))}</div></div></div>')
+        B.append('</div>')
+
+    return shell("Thumbnails · Canal Agente", "thumbnails", "".join(B))
+
+
 def main():
     hoje = datetime.datetime.now(BRT).date()
     led  = load(LEDGER, {"videos": {}})
@@ -449,14 +566,16 @@ def main():
     roteiros = load(ROTE, {}).get("roteiros", [])
     aprend = load(APREN, {}).get("aprendizados", [])
     prontos = load(PRONTOS, {})
+    thumbsd = load(THUMBS, {})
     os.makedirs(OUTDIR, exist_ok=True)
     open(os.path.join(OUTDIR, "index.html"), "w", encoding="utf-8").write(home(hoje, oper, led, prod, met))
     open(os.path.join(OUTDIR, "roteiros.html"), "w", encoding="utf-8").write(page_roteiros(hoje, roteiros, prontos))
     open(os.path.join(OUTDIR, "aprendizados.html"), "w", encoding="utf-8").write(page_aprendizados(hoje, aprend))
+    open(os.path.join(OUTDIR, "thumbnails.html"), "w", encoding="utf-8").write(page_thumbs(hoje, thumbsd, led))
     for net, nome in NETS:
         open(os.path.join(OUTDIR, f"{net}.html"), "w", encoding="utf-8").write(
             page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, aprend))
-    print(f"painel gerado: index + roteiros + aprendizados + {len(NETS)} redes")
+    print(f"painel gerado: index + roteiros + aprendizados + thumbnails + {len(NETS)} redes")
 
 
 if __name__ == "__main__":
