@@ -1,0 +1,134 @@
+<title>Dossiê · O Gorgon que Escuta (Subnautica 2)</title>
+<style>
+  :root{
+    --bg:#faf9f7; --card:#ffffff; --ink:#1a1a1a; --muted:#6b6b6b;
+    --line:#e6e3de; --accent:#0f6e5a; --warn:#b26b00; --fact:#0f6e5a; --hyp:#8a5a00;
+    --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--bg:#141414;--card:#1c1c1c;--ink:#ececec;--muted:#9a9a9a;--line:#2c2c2c;
+      --accent:#3fbfa3;--warn:#e0a24a;--fact:#3fbfa3;--hyp:#e0a24a;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.3);}
+  }
+  :root[data-theme="dark"]{--bg:#141414;--card:#1c1c1c;--ink:#ececec;--muted:#9a9a9a;--line:#2c2c2c;--accent:#3fbfa3;--warn:#e0a24a;--fact:#3fbfa3;--hyp:#e0a24a;}
+  :root[data-theme="light"]{--bg:#faf9f7;--card:#fff;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e6e3de;--accent:#0f6e5a;--warn:#b26b00;--fact:#0f6e5a;--hyp:#8a5a00;}
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;margin:0;padding:32px 18px 80px}
+  .wrap{max-width:760px;margin:0 auto}
+  header{margin-bottom:28px}
+  .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+  h1{font-size:26px;line-height:1.25;margin:0 0 12px}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .tag{font-size:12px;padding:4px 10px;border:1px solid var(--line);border-radius:999px;color:var(--muted);background:var(--card)}
+  .tag.ok{color:var(--fact);border-color:var(--fact)}
+  section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 22px;margin:16px 0;box-shadow:var(--shadow)}
+  h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 16px;font-weight:600}
+  .lead{font-size:17px;margin:0 0 4px}
+  .beat{border-left:2px solid var(--line);padding:2px 0 2px 16px;margin:0 0 20px}
+  .beat:last-child{margin-bottom:0}
+  .beat .t{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:4px}
+  .beat .fala{font-size:16px}
+  .beat .show{font-size:13px;color:var(--muted);margin-top:6px;font-style:italic}
+  .src{background:transparent;border:1px dashed var(--line);border-radius:10px;padding:14px 16px;margin:12px 0;font:13.5px/1.55 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--ink);overflow-x:auto}
+  .src .path{color:var(--muted);font-size:12px;margin-bottom:8px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  td,th{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  .badge{font-size:11px;font-weight:700;padding:2px 8px;border-radius:6px;white-space:nowrap}
+  .badge.fact{color:var(--fact);border:1px solid var(--fact)}
+  .badge.hyp{color:var(--hyp);border:1px solid var(--hyp)}
+  .imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+  .slot{border:1px dashed var(--line);border-radius:10px;aspect-ratio:9/16;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:12px;color:var(--muted);font-size:12px;gap:6px}
+  .slot .ic{font-size:26px;opacity:.6}
+  .note{font-size:13px;color:var(--muted);margin-top:10px}
+  .copy{font:15px/1.5 ui-monospace,Menlo,monospace;background:transparent;border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+  footer{text-align:center;color:var(--muted);font-size:12px;margin-top:28px}
+  a{color:var(--accent)}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="kicker">Dossiê de roteiro · Máquina de conteúdo Mano Preguiça</div>
+    <h1>O Gorgon que Escuta 👂</h1>
+    <div class="lead" style="color:var(--muted)">Um coral que parece um matinho inofensivo é o ouvido mais poderoso do oceano, e o próprio jogo insinua que ele está escutando um monstro gigante que ninguém achou ainda.</div>
+    <div class="meta">
+      <span class="tag">Subnautica 2</span>
+      <span class="tag">Motor A · lore do mundo</span>
+      <span class="tag">Criatura + medo + mistério</span>
+      <span class="tag ok">✓ Fonte: texto literal do jogo</span>
+      <span class="tag ok">✓ Tema virgem (dedup ok)</span>
+      <span class="tag">~80s</span>
+    </div>
+  </header>
+
+  <section>
+    <h2>Por que esse achado performa</h2>
+    <p class="lead">Passa nos 5 testes de insight: é <b>Achado</b> (não databank óbvio), tem <b>âncora de magnitude</b> (escuta a quilômetros), é <b>verdadeiro</b> (canon literal) e <b>nunca foi feito</b> no canal.</p>
+    <p class="note">Otimizado pros dois destinos: <b>criatura + medo/escala</b> é exatamente o que atravessa do YouTube pro feed frio do TikTok (o padrão que fez o Reaper-escala bater 42k). E tem o <b>cliffhanger</b> embutido (um monstro escondido) que segura retenção e gera comentário.</p>
+  </section>
+
+  <section>
+    <h2>Roteiro pra gravar</h2>
+    <p style="margin-top:-6px;margin-bottom:18px"><b>Título:</b> ESSE CORAL DE SUBNAUTICA 2 TÁ TE ESCUTANDO 👂 (E ESPERANDO ALGO PIOR)</p>
+
+    <div class="beat"><div class="t">Hook · 0-6s</div><div class="fala">"Tem um coral em Subnautica 2 que consegue te escutar nadando a quilômetros de distância. E eu não tô inventando não, tá escrito no próprio jogo, no scan dele."</div><div class="show">Mostrar: o Gorgon balançando na água, zoom. Nome na tela.</div></div>
+
+    <div class="beat"><div class="t">Setup · crença comum · 6-20s</div><div class="fala">"Você passa do lado dele e nem liga, né? Parece só um matinho meio murcho balançando na água, tipo uma alga qualquer. A maioria dos jogadores nada por cima e segue o jogo. Só que aí você escaneia... e o jogo te conta o que esse negócio realmente é."</div><div class="show">Mostrar: player nadando reto, passando do lado.</div></div>
+
+    <div class="beat"><div class="t">Beat 1 · reveal · 20-40s</div><div class="fala">"Escondido dentro dele tem um monte de pelinho que sente qualquer tremidinha na água. E é tão sensível que dá pra pegar o rabo de um bicho batendo lá longe, a quilômetros dali. Ele é basicamente um ouvido gigante fingindo de planta."</div><div class="show">Mostrar: o texto do scan na tela.</div></div>
+
+    <div class="beat"><div class="t">Beat 2 · escalada · 40-55s</div><div class="fala">"E tem uma parte mais esquisita. Ele se vira, bem devagarinho, na direção de uns sons bem graves, bem fundos. Mesmo quando não tem comida nenhuma pra aquele lado. Ele não tá procurando comida. Ele tá escutando outra coisa."</div><div class="show">Mostrar: o coral virando devagar no escuro.</div></div>
+
+    <div class="beat"><div class="t">Clímax · o cliffhanger do próprio jogo · 55-75s</div><div class="fala">"E é aqui que arrepia. O próprio jogo, na avaliação do scan, levanta uma hipótese: esse coral evoluiu pra rastrear um bicho gigante e bem lento, que ou já tá extinto... ou ainda tá lá embaixo, nas partes mais fundas, e ninguém achou. E a última frase que o jogo escreve é a pior: não dá pra saber se ele escuta esse gigante porque era um amigo... ou porque era uma ameaça."</div><div class="show">Mostrar: descer pro escuro, silhueta ao fundo.</div></div>
+
+    <div class="beat"><div class="t">Fecho · reação + engajamento · 75-82s</div><div class="fala">"Cara, quando eu li isso eu fiquei pensando que tem alguma coisa enorme nesse oceano que o jogo já tá deixando no ar e a gente nem viu ainda. Comenta aí se você já tinha escaneado esse coral. E comenta também qual bicho você acha que ele tá esperando lá no fundo. Me segue que tem mais segredo desses."</div></div>
+  </section>
+
+  <section>
+    <h2>Fonte · a prova de que não é alucinação</h2>
+    <p class="note" style="margin-top:0">Todo fato do roteiro sai <b>literalmente</b> do texto extraído do executável do Subnautica 2 (databank in-game). Este é o mesmo texto que aparece no jogo quando você escaneia o bicho, a autoridade máxima, acima de qualquer wiki.</p>
+    <div class="src">
+      <div class="path">arquivo do jogo → locres · ST_CoralGardens_Databanks · Sessile_TypeRaion_description</div>
+      "<b>Gorgon Kryphakous</b> or Listening Gorgon. A soft coral... A predatory filter feeder that sways with the current like kelp. <b>...remains under observation.</b><br><br>
+      1. Sound sensitive: ...vibration-sensitive cilia... <b>enough to pick up the swish of a tail through miles of water.</b><br><br>
+      2. Reactive orientation: ...orient itself... to specific low-frequency vibrations. <b>It will do this even if food is less abundant in that direction.</b><br><br>
+      3. Silent: ...emits no detectable signals... essentially silent.<br><br>
+      ASSESSMENT: ...tracked the low-frequency vibrations of <b>a massive, slow-moving marine species, now possibly extinct, or still undetected in the deeper zones</b>... whether this trait evolved in response to an ecological partner... <b>or a threat.</b>"
+    </div>
+    <table>
+      <tr><th>Afirmação no roteiro</th><th>Status</th><th>De onde vem</th></tr>
+      <tr><td>Escuta o rabo de um bicho a quilômetros de distância</td><td><span class="badge fact">CANON</span></td><td>"swish of a tail through miles of water"</td></tr>
+      <tr><td>Se vira pra sons graves mesmo sem comida ali</td><td><span class="badge fact">CANON</span></td><td>"even if food is less abundant in that direction"</td></tr>
+      <tr><td>É totalmente silencioso</td><td><span class="badge fact">CANON</span></td><td>"essentially silent"</td></tr>
+      <tr><td>Escuta um gigante extinto ou ainda não descoberto no fundo</td><td><span class="badge hyp">HIPÓTESE DO JOGO</span></td><td>"ASSESSMENT: one leading hypothesis..." (o roteiro fala "o jogo levanta a hipótese")</td></tr>
+      <tr><td>Amigo... ou ameaça</td><td><span class="badge fact">CANON</span></td><td>frase final literal do databank</td></tr>
+    </table>
+    <p class="note"><b>Separação canon x teoria (regra de ouro):</b> o poder do bicho é fato do jogo. A criatura escondida é a <b>hipótese do próprio jogo</b> (não teoria de fã), e o roteiro diz exatamente assim. Nada foi inflado nem inventado.</p>
+  </section>
+
+  <section>
+    <h2>Material visual (pro editor)</h2>
+    <div class="imgs">
+      <div class="slot"><span class="ic">🪸</span>Listening Gorgon<br>render/ficha do jogo</div>
+      <div class="slot"><span class="ic">📄</span>Print do scan/databank<br>na tela do jogo</div>
+      <div class="slot"><span class="ic">🌑</span>Zona funda/escura<br>pro clímax</div>
+      <div class="slot"><span class="ic">🐋</span>Silhueta de leviatã<br>ao fundo (o "gigante")</div>
+    </div>
+    <p class="note">Fonte das imagens: <b>subnautica2-wiki.com/en/creatures/listening-gorgon</b> + frame do próprio gameplay. Os slots viram imagens reais quando você mandar rodar a <b>dossie-editor</b> (ela acha a URL no CDN e baixa, com timestamp por trecho pro editor).</p>
+  </section>
+
+  <section>
+    <h2>Pra postar</h2>
+    <p><b>Título:</b></p>
+    <div class="copy">ESSE CORAL DE SUBNAUTICA 2 TÁ TE ESCUTANDO 👂 (E ESPERANDO ALGO PIOR)</div>
+    <p style="margin-top:14px"><b>Legenda / hashtags:</b></p>
+    <div class="copy">Um coral que escuta você de longe... e espera algo que ninguém achou ainda. Tá tudo escrito no jogo. #subnautica #subnautica2 #games #curiosidades #lore</div>
+  </section>
+
+  <footer>Gerado pela máquina de roteiro · fonte primária verificada · sem invenção</footer>
+</div>
+
+<script>
+  // respeita o toggle de tema do visualizador
+  (function(){try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>

@@ -23,7 +23,7 @@ ANALI = os.path.join(RAIZ, "dashboard-analises.json")
 PERF  = os.path.join(RAIZ, "dashboard-performance.json")
 ROTE  = os.path.join(RAIZ, "dashboard-roteiros.json")
 APREN = os.path.join(RAIZ, "dashboard-aprendizados.json")
-DOSSIE_URL = "../ROTEIROS - DOSSIÊS/"   # relativo à pasta do painel no Drive
+DOSSIE_URL = "dossies/"   # dossiês copiados DENTRO da pasta do painel (self-contained; link nunca quebra)
 OUTDIR= os.path.join(RAIZ, "dashboard")
 BRT   = datetime.timezone(datetime.timedelta(hours=-3))
 
@@ -59,11 +59,14 @@ _I = {
  "bulb":'<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.5.5 1 1.2 1 2.5h6c0-1.3.5-2 1-2.5A6 6 0 0 0 12 3Z"/>',
  "instagram":'<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17" cy="7" r="1"/>',
  "facebook":'<path d="M15 3h-2a4 4 0 0 0-4 4v3H7v4h2v7h4v-7h3l1-4h-4V7a1 1 0 0 1 1-1h2Z"/>',
+ "copy":'<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>',
+ "wand":'<path d="M15 4V2M15 10V8M11 6H9M21 6h-2"/><path d="M18 9 5 22M17 4l1 1"/>',
 }
-_FILLED = {"tiktok"}   # ícones de marca (path fechado, fill em vez de stroke)
+_FILLED = {"tiktok"}   # ícones de marca (path fechado, fill); insere num box menor pra pesar igual aos de traço
 def icon(n, cls="ic"):
     if n in _FILLED:
-        return f'<svg class="{cls}" viewBox="0 0 24 24" fill="currentColor" stroke="none">{_I.get(n,"")}</svg>'
+        return (f'<svg class="{cls}" viewBox="0 0 24 24" fill="currentColor" stroke="none">'
+                f'<g transform="translate(2.7 2.7) scale(0.775)">{_I.get(n,"")}</g></svg>')
     return f'<svg class="{cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{_I.get(n,"")}</svg>'
 
 NETS = [("youtube", "YouTube"), ("tiktok", "TikTok"), ("instagram", "Instagram"), ("facebook", "Facebook")]
@@ -119,9 +122,14 @@ h2 .ic{width:15px;height:15px}
 .ncard .nm{flex:1;min-width:0}.ncard .nm b{font-size:15px}.ncard .nm .st{font-size:12.5px;color:var(--sub);margin-top:2px;display:flex;align-items:center;gap:6px}
 .dot{width:8px;height:8px;border-radius:50%;flex:none}.dot.ok{background:var(--ok)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--bad)}.dot.muted{background:var(--sub)}
 .ncard .go{color:var(--sub);flex:none}.ncard .go .ic{width:18px;height:18px}
-.chips{display:flex;flex-wrap:wrap;gap:8px}
-.chip{display:inline-flex;align-items:center;gap:7px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 13px;font-size:12.5px;box-shadow:var(--shadow)}
-.chip .ic{width:14px;height:14px;color:var(--accent)}.chip code{color:var(--accent);font:12px ui-monospace,Menlo,monospace}
+.acts{display:flex;flex-wrap:wrap;gap:9px;margin:2px 0 4px}
+.cbtn{display:inline-flex;align-items:center;gap:8px;background:var(--acc-bg);color:var(--accent);border:1px solid transparent;border-radius:10px;padding:9px 14px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;transition:background .1s}
+.cbtn:hover{background:var(--accent);color:#fff}
+.cbtn .ic{width:15px;height:15px}
+.cbtn.ok{background:var(--ok);color:#fff}
+.cbtn.mini{padding:6px 10px;font-size:12px;background:transparent;border-color:var(--line);color:var(--sub)}
+.cbtn.mini:hover{background:var(--acc-bg);color:var(--accent);border-color:transparent}
+.copyicon{width:14px;height:14px}
 .subhead{display:flex;align-items:center;gap:12px;margin-bottom:6px}
 .subhead .nic{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;color:#fff;flex:none}
 .subhead .nic .ic{width:22px;height:22px}.subhead h1{font-size:21px;margin:0}
@@ -164,13 +172,24 @@ def sidebar(ativa):
     S.append('</nav>')
     return '<aside class="side">' + "".join(S) + '</aside>'
 
+JS = ("function cp(b){var t=b.getAttribute('data-copy');"
+      "navigator.clipboard.writeText(t).then(function(){var s=b.querySelector('.lab');var o=s.textContent;"
+      "s.textContent='copiado! cole no Claude';b.classList.add('ok');"
+      "setTimeout(function(){s.textContent=o;b.classList.remove('ok')},1600);});}")
+
+def copybtn(texto, label=None, mini=False):
+    lab = label or texto
+    cls = "cbtn mini" if mini else "cbtn"
+    return (f'<button class="{cls}" data-copy="{esc(texto)}" onclick="cp(this)">'
+            f'{icon("copy","copyicon")}<span class="lab">{esc(lab)}</span></button>')
+
 def shell(title, ativa, body):
     return ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width, initial-scale=1">'
             f'<title>{esc(title)}</title><style>{CSS}</style></head><body><div class="app">'
             + sidebar(ativa) + '<main class="main">' + body
             + '<footer>Painel do Canal Agente · dados vivos da esteira · sem API paga</footer>'
-            '</main></div></body></html>')
+            f'</main></div><script>{JS}</script></body></html>')
 
 
 def net_status(hoje, net, oper, led, prod):
@@ -223,6 +242,17 @@ def perf_net(met, net, perf_real):
     return rank[:6], "impressões", "PostProxy"
 
 JANELA_SHORT = int(os.environ.get("JANELA_SHORT", "75"))  # longo até X dias ainda vale um short-isca
+def backlog_net(net, led, n=12):
+    """Os vídeos que ESTÃO na fila curada daquela rede (o robô vai postando daqui). Responde
+    'quais são esses N do backlog'. Só TikTok/Instagram têm fila curada."""
+    if net not in ("tiktok", "instagram"):
+        return []
+    out = []
+    for vid in queue_curada(net, led["videos"])[:n]:
+        v = led["videos"].get(vid, {})
+        out.append((vid, v.get("title", ""), v.get("views", 0)))
+    return out
+
 def shorts_pendentes(hoje, led):
     """TODO longo recente (até JANELA_SHORT dias) que ainda não virou short. SEM piso de views
     (o short é isca pra puxar view; longo de poucas views é justamente quem mais precisa).
@@ -263,6 +293,7 @@ def home(hoje, oper, led, prod, met):
                      f'<div class="bd"><div class="tt">{esc(titulo)}</div>'
                      f'<div class="ds"><span class="pill">{icon("youtube")} Vídeo longo do YouTube</span>'
                      f'vira um Short · {quando} · {views:,} views</div></div>'.replace(",", ".")
+                     + copybtn(f'faz o short do vídeo "{titulo}"', "copiar pedido", mini=True)
                      + '</div>')
         for nome, cad in gaps:
             B.append(f'<div class="item"><span class="ph">{icon("film")}</span>'
@@ -277,10 +308,11 @@ def home(hoje, oper, led, prod, met):
                  f'<span class="nm"><b>{nome}</b><span class="st"><span class="dot {cor}"></span>{esc(stat)}</span></span>'
                  f'<span class="go">{icon("arrow")}</span></a>')
     B.append('</div>')
-    B.append(f'<h2>{icon("chat")} Atalhos (peça pro Claude)</h2><div class="chips">')
-    for ic, say in COMANDOS:
-        B.append(f'<span class="chip">{icon(ic)}<code>{esc(say)}</code></span>')
-    B.append('</div>')
+    B.append(f'<h2>{icon("wand")} Ações rápidas</h2><div class="acts">')
+    B.append(copybtn("me dá um roteiro"))
+    B.append(copybtn("roda o radar de hype"))
+    B.append(copybtn("responde os comentários"))
+    B.append('</div><p style="color:var(--sub);font-size:12.5px;margin-top:8px">Clica pra copiar e cola aqui no Claude. Ações de rede (analisar, atualizar performance) ficam na página de cada rede.</p>')
     return shell("Canal Agente", "home", "".join(B))
 
 
@@ -292,7 +324,11 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, 
     cor, stat = net_status(hoje, net, oper, led, prod)
     B = []
     B.append(f'<div class="subhead"><span class="nic {net[:2]}-bg">{icon(net)}</span><h1>{nome}</h1></div>')
-    B.append(f'<p style="color:var(--sub);margin:0 0 4px"><span class="dot {cor}"></span> {esc(stat)}</p>')
+    B.append(f'<p style="color:var(--sub);margin:0 0 10px"><span class="dot {cor}"></span> {esc(stat)}</p>')
+    acts = [copybtn(f"analisa o {nome}")]
+    if net in ("tiktok", "instagram", "facebook"):
+        acts.append(copybtn(f"atualiza a performance do {nome}"))
+    B.append('<div class="acts">' + "".join(acts) + '</div>')
 
     B.append(f'<h2>{icon("spark")} Minha análise</h2>')
     if an:
@@ -319,12 +355,31 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, 
                          f'<div class="bd"><div class="l1"><span class="n">{esc(t)}</span><span class="v">{v:,}</span></div>'.replace(",", ".")
                          + f'<div class="track"><div class="fill" style="width:{pct}%;background:var(--{net[:2]})"></div></div></div></div>')
         else:
-            B.append('<div class="empty">Sem dados dessa rede ainda.</div>')
+            if net == "instagram":
+                B.append('<div class="empty">Instagram só assume 100% pelo PostProxy a partir de 17/08 (ainda escoando o Metricool). Sem número real até lá.</div>')
+            else:
+                B.append('<div class="empty">Sem dados dessa rede ainda.</div>')
         B.append('</div>')
 
-    B.append(f'<h2>{icon("calendar")} Próximos {"vídeos e enquetes" if net=="youtube" else "posts"}</h2><div class="card">')
+    # backlog curado (responde "quais são esses N do backlog")
+    back = backlog_net(net, led)
+    if back:
+        total = len(queue_curada(net, led["videos"]))
+        B.append(f'<h2>{icon("film")} Na fila (backlog curado) · {total} vídeos</h2>'
+                 f'<p style="color:var(--sub);font-size:12.5px;margin:-4px 0 10px">Os próximos que o robô vai postando daqui, 1 por dia, na ordem. Isto é a RESERVA; o que já tem data marcada aparece em "próximos".</p><div class="card">')
+        for vid, titulo, views in back:
+            B.append(f'<div class="item"><img class="thumb sm" loading="lazy" src="{thumb(vid)}" alt="">'
+                     f'<div class="bd"><div class="tt" style="font-size:13.5px">{esc(titulo)}</div>'
+                     f'<div class="ds">{views:,} views no YouTube</div></div></div>'.replace(",", "."))
+        if total > len(back):
+            B.append(f'<div class="empty">e mais {total - len(back)} na fila</div>')
+        B.append('</div>')
+
+    tit_prox = "Próximos vídeos e enquetes" if net == "youtube" else "Próximos posts (agendados)"
+    B.append(f'<h2>{icon("calendar")} {tit_prox}</h2><div class="card">')
     if not prox:
-        B.append('<div class="empty">Nada agendado à frente.</div>')
+        mais = ' O robô agenda o próximo no dia (o backlog acima é a fila).' if net in ("tiktok", "instagram") else ''
+        B.append(f'<div class="empty">Nada com data marcada à frente.{mais}</div>')
     for data, titulo in prox:
         dt = datetime.date.fromisoformat(data)
         B.append(f'<div class="prow"><div class="d">{dt.strftime("%d")}<small>{dt.strftime("%b").lower()}</small></div>'
@@ -335,6 +390,7 @@ def page_net(hoje, net, nome, oper, led, prod, met, sched, analises, perf_real, 
 
 def page_roteiros(hoje, roteiros):
     B = [f'<div class="head"><h1>Roteiros prontos</h1><span class="date">{hoje.strftime("%d/%m/%Y")}</span></div>']
+    B.append('<div class="acts">' + copybtn("me dá um roteiro") + copybtn("roda o radar de hype") + '</div>')
     if not roteiros:
         B.append(f'<div class="card"><div class="bignada">{icon("doc","bi")}'
                  f'<b>Nenhum roteiro pronto agora.</b>Peça ao Claude: <code>me dá um roteiro</code> '
