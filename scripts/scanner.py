@@ -109,14 +109,13 @@ def main():
         frentes.append(bloco(nome, ate, hoje, f"{len(fut)} agendados", extra))
         if ate: riscos.append((ate, nome))
 
-    # --- TikTok / Facebook / Instagram: TODOS automáticos via PostProxy (migração 27/07) ---
-    # Não é mais "agendado em lote" (era Metricool). O PostProxy posta dia a dia sozinho.
-    # O que importa agora é o BACKLOG curado por rede e quando ele seca. Fonte = queue_curada
-    # (mesma regra que a nuvem usa pra postar: nicho, MIN_VIEWS, não repetido há 2 meses).
+    # --- TikTok: MANUAL via Metricool (09/08). PostProxy postava NAO-publico -> perdia monetizacao
+    # e desativava comentario. Agora o Murilo PEDE e o Claude agenda o lote no Metricool (publico +
+    # comentario on). IG/FB seguem automaticos no PostProxy gratis. TikTok nao seca sozinho: e um
+    # lembrete permanente pra pedir os proximos shorts. Antes de agendar, conferir o perfil real.
     agora = datetime.datetime.now(BRT)
     tt_back = len(queue_curada("tiktok", led["videos"]))
-    frentes.append(f"✅ *TikTok*\n   automático (PostProxy, ~1/dia) · 📦 {tt_back} no backlog curado (~{tt_back}d)")
-    riscos.append((hoje + datetime.timedelta(days=tt_back), "TikTok (backlog)"))
+    frentes.append(f"⚠️ *TikTok* — MANUAL (a rede que dá dinheiro)\n   peça os próximos shorts pro Claude → ele agenda no Metricool (público + comentário) · 📦 ~{tt_back} candidatos na fila")
 
     # Facebook em cadência BAIXA (08/08): monetizado mas rende pouco -> 1x/semana (qua), poupa cota.
     fb_back = sum(1 for v in led["videos"].values()
@@ -181,7 +180,7 @@ def main():
             bloco_camp = "🏆 *Campeões no TikTok (impressões reais)*\n" + "\n".join(linhas)
 
     msg = (f"📡 *Scanner da Operação* — {hoje.strftime('%d/%m')}\n\n"
-           + "📤 *Distribuição (automático)*\n" + "\n\n".join(frentes)
+           + "📤 *Distribuição* (TikTok manual · IG/FB auto)\n" + "\n\n".join(frentes)
            + (("\n\n🎬 *Produção (você cria)*\n" + "\n\n".join(producao)) if producao else "")
            + (("\n\n" + bloco_camp) if bloco_camp else "")
            + "\n\n" + (bloco_prox + "\n\n" if bloco_prox else "") + alerta)
