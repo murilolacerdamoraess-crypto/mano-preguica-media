@@ -223,7 +223,6 @@ def queue_facebook(vids):
 def queue_curada(net, vids):
     """TikTok/IG: vertical (TT 1min+), no nicho, >=MIN_VIEWS, não postado nessa rede há 2 meses.
     Novos primeiro (>= START_DATE, por views), depois backlog ANTIGO->NOVO (varredura única)."""
-    hoje = datetime.datetime.now(BRT).date(); cutoff = hoje - datetime.timedelta(days=60)
     min_secs = 60 if net == "tiktok" else 0
     novos, backlog = [], []
     for vid, v in vids.items():
@@ -235,9 +234,10 @@ def queue_curada(net, vids):
         novo = v["published"] >= START_DATE
         sc = tema_score(v["title"])
         p = v["posted"][net]
-        if p["done"]:
-            dt = ultima_vez(net, p)
-            if dt is None or dt >= cutoff: continue   # sem data = não arrisca; recente = espera
+        # NUNCA reposta o que já foi postado nessa rede. Antes reciclava "campeão" após 60 dias —
+        # foi isso que repostou o hit "PORQUE NÃO TEM NINGUÉM VIVO" no TikTok (10/08). Regra do
+        # Murilo: sem repost automático de campeão em rede nenhuma. Uma vez postado, acabou.
+        if p["done"]: continue
         # teto-baixo no feed frio (construção/veículo/notícia pura): corta do BACKLOG.
         # Vídeo NOVO sempre entra (queremos conteúdo fresco nas 3 redes, independente do tema).
         if not novo and sc <= THEME_CUT: continue

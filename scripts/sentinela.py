@@ -69,8 +69,13 @@ def pp_delete(pid):
         return False
 
 
-def motivo(v):
+def motivo(v, net=None):
     """Por que este vídeo NÃO deveria ir ao ar (None = está ok)."""
+    # TikTok migrou 100% pro Metricool (09/08): NADA de TikTok deve mais sair do PostProxy.
+    # Qualquer TikTok ainda enfileirado aqui é resto/repost (foi como o hit "NINGUÉM VIVO" saiu
+    # repostado 10/08). Mata todos, sem falso-positivo (não existe TikTok legítimo no PostProxy).
+    if net == "tiktok":
+        return "tiktok saiu do postproxy (agora é 100% metricool)"
     if noticia_velha(v):
         return "notícia velha (novidade + vídeo antigo)"
     if off_nicho(v.get("title", "")):
@@ -98,7 +103,7 @@ def main():
             continue
         vid, net = p.get("vid"), p.get("net")
         v = led["videos"].get(vid, {})
-        m = motivo(v)
+        m = motivo(v, net)
         if not m:
             continue
         pid = v.get("posted", {}).get(net, {}).get("post_id")
