@@ -3,19 +3,41 @@
   "label": "MP1 Shorts (roteiro auto)",
   "cadencia": "3x/semana (seg/qua/sex) — foco de crescimento",
   "tipo": "dias_semana",
-  "dias": [0, 2, 4],
+  "dias": [
+   0,
+   2,
+   4
+  ],
   "hora": 20,
-  "agendados": []
+  "agendados": [
+   {
+    "data": "2026-08-21",
+    "titulo": "Half-Life 2: zumbis pedindo socorro (regravado)"
+   },
+   {
+    "data": "2026-08-25",
+    "titulo": "Nintendo Switch: jogo secreto do Iwata (regravado)"
+   }
+  ]
  },
  "mp2": {
   "label": "MP2 (vídeos de IA)",
   "cadencia": "2x/semana (ter/sáb)",
   "tipo": "dias_semana",
-  "dias": [1, 5],
+  "dias": [
+   1,
+   5
+  ],
   "hora": 20,
   "agendados": [
-   {"data": "2026-07-29", "titulo": "E se o RAGNARÖK fosse real?"},
-   {"data": "2026-07-31", "titulo": "Filmaram ISSO no Rio Amazonas"}
+   {
+    "data": "2026-07-29",
+    "titulo": "E se o RAGNARÖK fosse real?"
+   },
+   {
+    "data": "2026-07-31",
+    "titulo": "Filmaram ISSO no Rio Amazonas"
+   }
   ]
  }
 }
