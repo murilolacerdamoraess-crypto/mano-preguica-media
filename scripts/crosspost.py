@@ -212,41 +212,35 @@ def fits(net, v):
     return False
 
 def queue_facebook(vids):
-    """Novos + backlog, por views desc, dup-safe (você postou pouco no FB)."""
+    """SÓ conteúdo NOVO (>= START_DATE) ainda não postado no FB, por views desc, dup-safe.
+    Decisão Murilo 24/08: matar o repost — nada de ressuscitar hit antigo, só o que a gente
+    produziu e ainda não foi pro perfil."""
     out = []
     for vid, v in sorted(vids.items(), key=lambda kv: -kv[1]["views"]):
         if not v["postable"] or v["posted"]["facebook"]["done"]: continue
-        if noticia_velha(v): continue   # não repostar notícia datada nem no FB
+        if v["published"] < START_DATE: continue   # corta o backlog: só conteúdo novo
+        if noticia_velha(v): continue              # não repostar notícia datada nem no FB
         out.append(vid)
     return out
 
 def queue_curada(net, vids):
-    """TikTok/IG: vertical (TT 1min+), no nicho, >=MIN_VIEWS, não postado nessa rede há 2 meses.
-    Novos primeiro (>= START_DATE, por views), depois backlog ANTIGO->NOVO (varredura única)."""
+    """TikTok/IG: SÓ conteúdo NOVO (>= START_DATE), vertical (TT 1min+), no nicho, não postado
+    nessa rede. SEM backlog (nada de ressuscitar hit antigo) e SEM piso de views pro novo — a
+    ideia é distribuir a produção fresca, mesmo que ainda tenha poucas views no YouTube.
+    Decisão Murilo 24/08: matar o repost, postar só o que é novo e ainda não foi pro perfil.
+    (MIN_VIEWS/THEME_CUT eram filtros do BACKLOG, que saiu; ficam definidos mas sem uso.)"""
     min_secs = 60 if net == "tiktok" else 0
-    novos, backlog = [], []
+    novos = []
     for vid, v in vids.items():
         if not v["postable"] or v["type"] != "vertical": continue
         if v["seconds"] < min_secs: continue
-        if v["views"] < MIN_VIEWS: continue
+        if v["published"] < START_DATE: continue      # corta o backlog: só conteúdo novo
         if off_nicho(v["title"]): continue
-        if noticia_velha(v): continue   # moldura de novidade + vídeo velho = notícia datada
-        novo = v["published"] >= START_DATE
-        sc = tema_score(v["title"])
-        p = v["posted"][net]
-        # NUNCA reposta o que já foi postado nessa rede. Antes reciclava "campeão" após 60 dias —
-        # foi isso que repostou o hit "PORQUE NÃO TEM NINGUÉM VIVO" no TikTok (10/08). Regra do
-        # Murilo: sem repost automático de campeão em rede nenhuma. Uma vez postado, acabou.
-        if p["done"]: continue
-        # teto-baixo no feed frio (construção/veículo/notícia pura): corta do BACKLOG.
-        # Vídeo NOVO sempre entra (queremos conteúdo fresco nas 3 redes, independente do tema).
-        if not novo and sc <= THEME_CUT: continue
-        if novo:
-            novos.append((-sc, -v["views"], vid))       # novos: melhor tema, depois mais views
-        else:
-            backlog.append((-sc, v["published"][:10], vid))  # backlog: melhor tema, depois mais antigo
-    novos.sort(); backlog.sort()
-    return [vid for *_, vid in novos] + [vid for *_, vid in backlog]
+        if noticia_velha(v): continue                 # moldura de novidade + vídeo velho = notícia datada
+        if v["posted"][net]["done"]: continue         # já postado nessa rede = acabou
+        novos.append((-tema_score(v["title"]), -v["views"], vid))  # melhor tema, depois mais views
+    novos.sort()
+    return [vid for *_, vid in novos]
 
 # Força H.264/avc1 no download (o [ext=mp4] antigo deixava passar AV1, que quebra em player/ingestão).
 YTDLP_H264 = "bv*[vcodec^=avc1]+ba[ext=m4a]/b[ext=mp4][vcodec^=avc1]/b[ext=mp4]/b"
