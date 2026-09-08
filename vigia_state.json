@@ -17,17 +17,22 @@
     [
      "2026-09-08T19:22:15.889237+00:00",
      298
+    ],
+    [
+     "2026-09-08T21:58:18.493173+00:00",
+     390
     ]
    ],
    "dias_reportados": [],
-   "vph": 8.0
+   "vph": 19.8
   },
   "PfMR4CvUThA": {
    "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
    "avisos": [
     "radar",
     "marco_500",
-    "marco_1000"
+    "marco_1000",
+    "marco_2000"
    ],
    "hist": [
     [
@@ -41,12 +46,16 @@
     [
      "2026-09-08T19:22:15.889237+00:00",
      1967
+    ],
+    [
+     "2026-09-08T21:58:18.493173+00:00",
+     2032
     ]
    ],
    "dias_reportados": [
     "2026-09-06"
    ],
-   "vph": 9.8
+   "vph": 16.3
   }
  }
 }
