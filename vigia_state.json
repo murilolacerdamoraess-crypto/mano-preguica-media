@@ -13,9 +13,14 @@
     [
      "2026-09-08T15:54:36.717501+00:00",
      270
+    ],
+    [
+     "2026-09-08T19:22:15.889237+00:00",
+     298
     ]
    ],
-   "dias_reportados": []
+   "dias_reportados": [],
+   "vph": 8.0
   },
   "PfMR4CvUThA": {
    "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
@@ -32,9 +37,16 @@
     [
      "2026-09-08T15:54:36.717501+00:00",
      1933
+    ],
+    [
+     "2026-09-08T19:22:15.889237+00:00",
+     1967
     ]
    ],
-   "dias_reportados": []
+   "dias_reportados": [
+    "2026-09-06"
+   ],
+   "vph": 9.8
   }
  }
 }
