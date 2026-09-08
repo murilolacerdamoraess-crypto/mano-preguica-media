@@ -1,0 +1,32 @@
+{
+ "videos": {
+  "s7Q0iv9AwfA": {
+   "titulo": "O jogo que destrói a lógica dos Aliens | Fireteam Elite",
+   "avisos": [
+    "radar"
+   ],
+   "hist": [
+    [
+     "2026-09-08T15:53:32.801391+00:00",
+     270
+    ]
+   ],
+   "dias_reportados": []
+  },
+  "PfMR4CvUThA": {
+   "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
+   "avisos": [
+    "radar",
+    "marco_500",
+    "marco_1000"
+   ],
+   "hist": [
+    [
+     "2026-09-08T15:53:32.801391+00:00",
+     1933
+    ]
+   ],
+   "dias_reportados": []
+  }
+ }
+}
