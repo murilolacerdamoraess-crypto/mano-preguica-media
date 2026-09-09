@@ -42,10 +42,16 @@
     [
      "2026-09-09T17:44:52.855532+00:00",
      842
+    ],
+    [
+     "2026-09-09T20:48:55.074947+00:00",
+     842
     ]
    ],
-   "dias_reportados": [],
-   "vph": 3.1
+   "dias_reportados": [
+    "2026-09-07"
+   ],
+   "vph": 3.6
   },
   "PfMR4CvUThA": {
    "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
@@ -91,12 +97,17 @@
     [
      "2026-09-09T17:44:52.855532+00:00",
      2468
+    ],
+    [
+     "2026-09-09T20:48:55.074947+00:00",
+     2517
     ]
    ],
    "dias_reportados": [
-    "2026-09-06"
+    "2026-09-06",
+    "2026-09-07"
    ],
-   "vph": 10.9
+   "vph": 12.7
   },
   "EcQSPXWiEE8": {
    "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTI",
@@ -127,10 +138,14 @@
     [
      "2026-09-09T17:44:52.855532+00:00",
      3269
+    ],
+    [
+     "2026-09-09T20:48:55.074947+00:00",
+     3944
     ]
    ],
    "dias_reportados": [],
-   "vph": 92.7
+   "vph": 150.7
   }
  }
 }
