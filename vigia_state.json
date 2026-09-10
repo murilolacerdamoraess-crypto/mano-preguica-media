@@ -4,7 +4,8 @@
    "titulo": "O jogo que destrói a lógica dos Aliens | Fireteam Elite",
    "avisos": [
     "radar",
-    "marco_500"
+    "marco_500",
+    "marco_1000"
    ],
    "hist": [
     [
@@ -70,13 +71,17 @@
     [
      "2026-09-10T19:13:14.332194+00:00",
      998
+    ],
+    [
+     "2026-09-10T21:47:47.352240+00:00",
+     1011
     ]
    ],
    "dias_reportados": [
     "2026-09-07",
     "2026-09-08"
    ],
-   "vph": 4.1
+   "vph": 2.7
   },
   "PfMR4CvUThA": {
    "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
@@ -150,6 +155,10 @@
     [
      "2026-09-10T19:13:14.332194+00:00",
      2806
+    ],
+    [
+     "2026-09-10T21:47:47.352240+00:00",
+     2879
     ]
    ],
    "dias_reportados": [
@@ -157,7 +166,7 @@
     "2026-09-07",
     "2026-09-08"
    ],
-   "vph": 14.0
+   "vph": 21.0
   },
   "EcQSPXWiEE8": {
    "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTI",
@@ -217,12 +226,16 @@
     [
      "2026-09-10T19:13:14.332194+00:00",
      6690
+    ],
+    [
+     "2026-09-10T21:47:47.352240+00:00",
+     6893
     ]
    ],
    "dias_reportados": [
     "2026-09-08"
    ],
-   "vph": 60.6
+   "vph": 81.3
   }
  }
 }
