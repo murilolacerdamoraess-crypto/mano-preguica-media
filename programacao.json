@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-10T23:29:46.588171-03:00",
+ "gerado_em": "2026-09-11T12:20:30.826010-03:00",
  "mes": {
-  "postados": 6,
+  "postados": 7,
   "teto": 93,
-  "folga": 87
+  "folga": 86
  },
  "redes": {
   "tiktok": {
@@ -11,7 +11,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 11,
    "ultimo_post": "2026-08-09",
-   "dias_parado": 32,
+   "dias_parado": 33,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -33,35 +33,37 @@
   "instagram": {
    "ativo": true,
    "cadencia": "todo dia 21h30",
-   "na_fila": 6,
-   "ultimo_post": "2026-09-10",
+   "na_fila": 5,
+   "ultimo_post": "2026-09-11",
    "dias_parado": 0,
    "parado": false,
-   "agendados": [],
+   "agendados": [
+    {
+     "video_id": "BP51Jqo1NFc",
+     "titulo": "Colocaram dinossauros no Project Zomboid e o jogo quebrou completamente!",
+     "quando": "2026-09-11T21:30:00-03:00",
+     "fonte": "postproxy"
+    }
+   ],
    "previstos": [
     {
      "video_id": "EcQSPXWiEE8",
      "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE",
-     "quando": "2026-09-11T21:30:00-03:00"
+     "quando": "2026-09-12T21:30:00-03:00"
     },
     {
      "video_id": "ylu-YZPEGm8",
      "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele",
-     "quando": "2026-09-12T21:30:00-03:00"
-    },
-    {
-     "video_id": "BP51Jqo1NFc",
-     "titulo": "Colocaram dinossauros no Project Zomboid e o jogo quebrou completamente!",
      "quando": "2026-09-13T21:30:00-03:00"
-    },
-    {
-     "video_id": "vCPLd9EIELs",
-     "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
-     "quando": "2026-09-14T21:30:00-03:00"
     },
     {
      "video_id": "PfMR4CvUThA",
      "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
+     "quando": "2026-09-14T21:30:00-03:00"
+    },
+    {
+     "video_id": "vCPLd9EIELs",
+     "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
      "quando": "2026-09-15T21:30:00-03:00"
     },
     {
@@ -80,8 +82,8 @@
      "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele"
     },
     {
-     "video_id": "BP51Jqo1NFc",
-     "titulo": "Colocaram dinossauros no Project Zomboid e o jogo quebrou completamente!"
+     "video_id": "PfMR4CvUThA",
+     "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid"
     }
    ]
   },
@@ -90,7 +92,7 @@
    "cadencia": "toda quarta 20h",
    "na_fila": 16,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
