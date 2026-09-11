@@ -1,0 +1,124 @@
+{
+ "gerado_em": "2026-09-10T23:29:46.588171-03:00",
+ "mes": {
+  "postados": 6,
+  "teto": 93,
+  "folga": 87
+ },
+ "redes": {
+  "tiktok": {
+   "ativo": false,
+   "cadencia": "manual (Metricool)",
+   "na_fila": 11,
+   "ultimo_post": "2026-08-09",
+   "dias_parado": 32,
+   "parado": true,
+   "agendados": [],
+   "previstos": [],
+   "proximos_da_fila": [
+    {
+     "video_id": "IwhWVi7SHSc",
+     "titulo": "Anoiteceu na luta contra o Shiver Leviathan e o Subnautica 2 virou terror!"
+    },
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
+    },
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
+    }
+   ]
+  },
+  "instagram": {
+   "ativo": true,
+   "cadencia": "todo dia 21h30",
+   "na_fila": 6,
+   "ultimo_post": "2026-09-10",
+   "dias_parado": 0,
+   "parado": false,
+   "agendados": [],
+   "previstos": [
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE",
+     "quando": "2026-09-11T21:30:00-03:00"
+    },
+    {
+     "video_id": "ylu-YZPEGm8",
+     "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele",
+     "quando": "2026-09-12T21:30:00-03:00"
+    },
+    {
+     "video_id": "BP51Jqo1NFc",
+     "titulo": "Colocaram dinossauros no Project Zomboid e o jogo quebrou completamente!",
+     "quando": "2026-09-13T21:30:00-03:00"
+    },
+    {
+     "video_id": "vCPLd9EIELs",
+     "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
+     "quando": "2026-09-14T21:30:00-03:00"
+    },
+    {
+     "video_id": "PfMR4CvUThA",
+     "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
+     "quando": "2026-09-15T21:30:00-03:00"
+    },
+    {
+     "video_id": "vLoHwfGSffI",
+     "titulo": "Esse personagem de Alien Isolation morreu no Twitter e o corpo dele tá no jogo",
+     "quando": "2026-09-16T21:30:00-03:00"
+    }
+   ],
+   "proximos_da_fila": [
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
+    },
+    {
+     "video_id": "ylu-YZPEGm8",
+     "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele"
+    },
+    {
+     "video_id": "BP51Jqo1NFc",
+     "titulo": "Colocaram dinossauros no Project Zomboid e o jogo quebrou completamente!"
+    }
+   ]
+  },
+  "facebook": {
+   "ativo": true,
+   "cadencia": "toda quarta 20h",
+   "na_fila": 16,
+   "ultimo_post": "2026-09-09",
+   "dias_parado": 1,
+   "parado": false,
+   "agendados": [],
+   "previstos": [
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO",
+     "quando": "2026-09-16T20:00:00-03:00"
+    },
+    {
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
+     "quando": "2026-09-23T20:00:00-03:00"
+    }
+   ],
+   "proximos_da_fila": [
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
+    },
+    {
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
+    },
+    {
+     "video_id": "tFaOAV9rO-o",
+     "titulo": "ESSE LEVIATÃ DE SUBNAUTICA 2 VOLTOU À VIDA DEPOIS DE MORTO"
+    }
+   ]
+  }
+ }
+}

@@ -57,6 +57,18 @@ jobs:
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
           IG_START: '2026-08-17'   # último IG do Metricool = 16/08
         run: python scripts/crosspost.py
+      - name: publicar programacao (o que vai sair, por rede)
+        env:
+          START_DATE: '2026-07-15'
+          MONTH_CAP: '93'
+          DAILY_FB: '1'
+          FB_WEEKDAY: '2'
+          DAILY_TT: '0'
+          DAILY_IG: '1'
+          TT_START: '2026-08-02'
+          IG_START: '2026-08-17'
+          TMP_DIR: /tmp/xp
+        run: python scripts/programacao_json.py || echo "programacao skip"
       - name: coletar metricas reais (PostProxy)
         env:
           POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
@@ -69,6 +81,6 @@ jobs:
         run: |
           git config user.name "crosspost-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add ledger.json schedule.json metrics.json dashboard/ || true
+          git add ledger.json schedule.json metrics.json programacao.json dashboard/ || true
           git commit -m "ledger+metrics+painel: atualizado pelo robo [skip ci]" || echo "sem mudanca"
           git push || echo "push skip"
