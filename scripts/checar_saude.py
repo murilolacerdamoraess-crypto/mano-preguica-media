@@ -58,10 +58,19 @@ def checar_postproxy(avisos):
     if status == 200:
         print("postproxy ok")
         return
+    # Quando cai, vale saber SE a conta ainda existe e em que plano está: o
+    # PostProxy tem plano Free com 10 posts/mês, e a dúvida prática é se dá pra
+    # voltar pra ele sem reassinar o pago.
+    extra = []
+    for caminho in ("/api/me", "/api/account", "/api/subscription", "/api/usage", "/api/profiles"):
+        st2, corpo2 = http("https://api.postproxy.dev" + caminho,
+                           headers={"Authorization": f"Bearer {key}"})
+        extra.append(f"   {caminho} → {st2}: {corpo2[:90]}")
     avisos.append(
         f"🔴 PostProxy respondendo {status}.\n"
         f"Instagram e Facebook não vão publicar enquanto isso durar.\n"
         f"Resposta: {corpo[:160]}\n"
+        + "\n".join(extra) + "\n"
         f"Conferir a assinatura e a chave em postproxy.dev; se a chave mudou, "
         f"atualizar o secret POSTPROXY_KEY."
     )
