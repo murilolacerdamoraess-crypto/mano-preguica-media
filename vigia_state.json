@@ -110,7 +110,8 @@
     "2026-09-08",
     "2026-09-09"
    ],
-   "vph": 3.6
+   "vph": 3.6,
+   "fora_da_janela": true
   },
   "PfMR4CvUThA": {
    "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
@@ -288,13 +289,30 @@
     [
      "2026-09-11T21:52:46.940435+00:00",
      8442
+    ],
+    [
+     "2026-09-12T00:02:55.312610+00:00",
+     8612
     ]
    ],
    "dias_reportados": [
     "2026-09-08",
     "2026-09-09"
    ],
-   "vph": 82.7
+   "vph": 79.4
+  },
+  "sbaSX77OnfA": {
+   "titulo": "O sangue desse monstro derruba a nave inteira #shorts",
+   "avisos": [
+    "radar"
+   ],
+   "hist": [
+    [
+     "2026-09-12T00:02:55.312610+00:00",
+     486
+    ]
+   ],
+   "dias_reportados": []
   }
  }
 }
