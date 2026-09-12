@@ -297,19 +297,24 @@
     [
      "2026-09-12T04:21:58.229743+00:00",
      8916
+    ],
+    [
+     "2026-09-12T08:46:35.932845+00:00",
+     9134
     ]
    ],
    "dias_reportados": [
     "2026-09-08",
     "2026-09-09"
    ],
-   "vph": 73.1
+   "vph": 59.8
   },
   "sbaSX77OnfA": {
    "titulo": "O sangue desse monstro derruba a nave inteira #shorts",
    "avisos": [
     "radar",
-    "marco_500"
+    "marco_500",
+    "marco_1000"
    ],
    "hist": [
     [
@@ -319,9 +324,14 @@
     [
      "2026-09-12T04:21:58.229743+00:00",
      865
+    ],
+    [
+     "2026-09-12T08:46:35.932845+00:00",
+     1312
     ]
    ],
-   "dias_reportados": []
+   "dias_reportados": [],
+   "vph": 94.6
   }
  }
 }
