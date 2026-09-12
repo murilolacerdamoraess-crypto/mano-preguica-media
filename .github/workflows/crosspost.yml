@@ -49,10 +49,15 @@ jobs:
           # Build = 120 posts/mês TOTAL (compartilhado c/ Surtei, TCG, etc.).
           # Mano Preguiça usa 3/dia (FB1+TT1+IG1) = ~90/mês; teto 93 reserva ~27/mês pros outros projetos.
           MONTH_CAP: '93'
-          DAILY_FB: '1'      # FB é MONETIZADO, só rende pouco (poucas views). Mantido vivo em
-          FB_WEEKDAY: '2'    # cadência BAIXA: 1x/semana (quarta). Antes era 1/dia. Poupa cota do Build.
-          DAILY_TT: '0'      # TikTok saiu do PostProxy (postava nao-publico). TikTok = Metricool.
-          DAILY_IG: '1'
+          # 12/09/2026: assinatura do PostProxy CANCELADA (decisão do Murilo, nao paga mais
+          # assinatura). A API inteira responde 403, entao IG e FB via PostProxy morreram: as
+          # cotas vao a ZERO pra o robo parar de tentar e de disparar alerta falso no Telegram.
+          # IG/FB voltam pela Graph API oficial (gratis, OAuth ja conectado no painel).
+          # TikTok segue no Metricool gratis (20 posts/mes), como desde 09/08.
+          DAILY_FB: '0'
+          FB_WEEKDAY: '2'
+          DAILY_TT: '0'
+          DAILY_IG: '0'
           # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
           IG_START: '2026-08-17'   # último IG do Metricool = 16/08
@@ -70,10 +75,10 @@ jobs:
         env:
           START_DATE: '2026-07-15'
           MONTH_CAP: '93'
-          DAILY_FB: '1'
+          DAILY_FB: '0'
           FB_WEEKDAY: '2'
           DAILY_TT: '0'
-          DAILY_IG: '1'
+          DAILY_IG: '0'
           TT_START: '2026-08-02'
           IG_START: '2026-08-17'
           TMP_DIR: /tmp/xp
