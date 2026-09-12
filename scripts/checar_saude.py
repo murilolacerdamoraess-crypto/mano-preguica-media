@@ -49,7 +49,15 @@ def estado():
 
 
 def checar_postproxy(avisos):
-    """403 aqui = Instagram e Facebook param de sair. Aconteceu em 12/09."""
+    """403 aqui = Instagram e Facebook param de sair. Aconteceu em 12/09.
+
+    POSTPROXY_ATIVO=0 desliga a checagem: em 12/09 o Murilo decidiu não pagar
+    mais assinatura nenhuma, então o 403 virou estado esperado. Alerta diário
+    de coisa que ninguém vai consertar é ruído, e ruído faz ignorar o painel.
+    """
+    if os.environ.get("POSTPROXY_ATIVO", "1") == "0":
+        print("postproxy desativado por decisão (não paga assinatura), pulando")
+        return
     key = os.environ.get("POSTPROXY_KEY", "")
     if not key:
         return
