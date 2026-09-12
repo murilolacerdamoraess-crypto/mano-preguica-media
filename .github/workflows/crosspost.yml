@@ -59,6 +59,7 @@ jobs:
         run: python scripts/crosspost.py
       - name: checar saude da distribuicao (PostProxy + Metricool)
         env:
+          DRY_RUN: ${{ inputs.dry_run || '0' }}
           POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
           METRICOOL_TOKEN: ${{ secrets.METRICOOL_TOKEN }}
           METRICOOL_BLOG_ID: '6553996'
