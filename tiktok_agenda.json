@@ -1,0 +1,11 @@
+{
+ "_leia": "Agenda do TikTok no Metricool. O TikTok não passa pelo robô (DAILY_TT=0) e o Metricool não dá token permanente no plano grátis, então QUEM AGENDA grava aqui no mesmo passo. programacao_json.py lê isto e o painel mostra. Status real de publicação: checar_saude.py (quando houver METRICOOL_TOKEN).",
+ "posts": [
+  {"video_id": null, "quando": "2026-09-02T18:00:00-03:00", "titulo": "sobrevivi 24h", "metricool_id": null, "status": "publicado"},
+  {"video_id": "PfMR4CvUThA", "quando": "2026-09-14T18:00:00-03:00", "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid", "metricool_id": 374706775, "status": "agendado"},
+  {"video_id": "ltppiL7lOaU", "quando": "2026-09-16T18:00:00-03:00", "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo", "metricool_id": null, "status": "agendado"},
+  {"video_id": "vLoHwfGSffI", "quando": "2026-09-18T18:00:00-03:00", "titulo": "esse personagem de alien isolation morreu de verdade no twitter", "metricool_id": null, "status": "agendado"},
+  {"video_id": "BP51Jqo1NFc", "quando": "2026-09-21T18:00:00-03:00", "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou", "metricool_id": null, "status": "agendado"},
+  {"video_id": "EcQSPXWiEE8", "quando": "2026-09-23T18:00:00-03:00", "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2", "metricool_id": null, "status": "agendado"}
+ ]
+}

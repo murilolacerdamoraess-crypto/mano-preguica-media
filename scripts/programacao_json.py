@@ -24,7 +24,11 @@ BRT = datetime.timezone(datetime.timedelta(hours=-3))
 DIAS_ADIANTE = 14
 SAIDA = os.path.join(os.path.dirname(LEDGER), "programacao.json")
 SCHED = os.path.join(os.path.dirname(LEDGER), "schedule.json")
+# Agenda manual do Metricool (TikTok): quem agenda grava aqui, porque o robô não vê o Metricool.
+AGENDA_MANUAL = os.path.join(os.path.dirname(LEDGER), "tiktok_agenda.json")
 TOLERANCIA = {"tiktok": 3, "instagram": 3, "facebook": 8}
+# Redes agendadas à mão no Metricool. IG/FB com cota 0 estão DESLIGADOS, não manuais.
+MANUAIS = {"tiktok"}
 DIA_PT = ["segunda", "terça", "quarta", "quinta", "sexta", "sábado", "domingo"]
 
 
@@ -37,7 +41,7 @@ def carrega(p, default):
 
 def cadencia(net):
     if DAILY.get(net, 0) <= 0:
-        return "manual (Metricool)"
+        return "manual (Metricool)" if net in MANUAIS else "desligado (sem PostProxy)"
     h, m = HOURS[net][0]
     hora = f"{h}h{m:02d}" if m else f"{h}h"
     if net in WEEKLY:
@@ -69,6 +73,23 @@ def main():
             "video_id": s["vid"], "titulo": s.get("title") or vids.get(s["vid"], {}).get("title", s["vid"]),
             "quando": dt.isoformat(), "fonte": "metricool" if str(s.get("post_id", "")).startswith("metricool") else "postproxy",
         })
+        dias_reais.add((n, dt.date()))
+
+    # agenda manual (Metricool): sem isto o painel dizia "TikTok 0" com 5 agendados (12/09)
+    publicados_manual = {n: [] for n in DAILY}
+    for p in carrega(AGENDA_MANUAL, {}).get("posts", []):
+        n = p.get("net", "tiktok")
+        try:
+            dt = datetime.datetime.fromisoformat(p["quando"]).astimezone(BRT)
+        except Exception:
+            continue
+        if n not in agendados:
+            continue
+        if dt < agora - datetime.timedelta(minutes=30):
+            publicados_manual[n].append(dt.date().isoformat())
+            continue
+        agendados[n].append({"video_id": p["video_id"], "titulo": p.get("titulo") or vids.get(p["video_id"], {}).get("title", p["video_id"]),
+                             "quando": dt.isoformat(), "fonte": "metricool"})
         dias_reais.add((n, dt.date()))
 
     # previsão: mesma regra do main() do crosspost, dia a dia
@@ -109,11 +130,13 @@ def main():
     for net in ("tiktok", "instagram", "facebook"):
         feitos = [v["posted"][net].get("date") for v in vids.values()
                   if v.get("posted", {}).get(net, {}).get("done") and v["posted"][net].get("date")]
+        feitos += publicados_manual[net]
         ultimo = max(feitos) if feitos else None
         dias = (agora.date() - datetime.date.fromisoformat(ultimo)).days if ultimo else None
         ativo = DAILY.get(net, 0) > 0
         redes[net] = {
             "ativo": ativo,
+            "manual": net in MANUAIS,
             "cadencia": cadencia(net),
             "na_fila": len(queues[net]),
             "ultimo_post": ultimo,
