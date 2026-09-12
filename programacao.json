@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-12T11:27:54.987430-03:00",
+ "gerado_em": "2026-09-12T19:46:31.910381-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -8,12 +8,44 @@
  "redes": {
   "tiktok": {
    "ativo": false,
+   "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 12,
-   "ultimo_post": "2026-08-09",
-   "dias_parado": 34,
+   "ultimo_post": "2026-09-02",
+   "dias_parado": 10,
    "parado": true,
-   "agendados": [],
+   "agendados": [
+    {
+     "video_id": "PfMR4CvUThA",
+     "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid",
+     "quando": "2026-09-14T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo",
+     "quando": "2026-09-16T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "vLoHwfGSffI",
+     "titulo": "esse personagem de alien isolation morreu de verdade no twitter",
+     "quando": "2026-09-18T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "BP51Jqo1NFc",
+     "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou",
+     "quando": "2026-09-21T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2",
+     "quando": "2026-09-23T18:00:00-03:00",
+     "fonte": "metricool"
+    }
+   ],
    "previstos": [],
    "proximos_da_fila": [
     {
@@ -31,45 +63,15 @@
    ]
   },
   "instagram": {
-   "ativo": true,
-   "cadencia": "todo dia 21h30",
+   "ativo": false,
+   "manual": false,
+   "cadencia": "desligado (sem PostProxy)",
    "na_fila": 6,
    "ultimo_post": "2026-09-11",
    "dias_parado": 1,
    "parado": false,
    "agendados": [],
-   "previstos": [
-    {
-     "video_id": "EcQSPXWiEE8",
-     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE",
-     "quando": "2026-09-12T21:30:00-03:00"
-    },
-    {
-     "video_id": "sbaSX77OnfA",
-     "titulo": "O sangue desse monstro derruba a nave inteira #shorts",
-     "quando": "2026-09-13T21:30:00-03:00"
-    },
-    {
-     "video_id": "ylu-YZPEGm8",
-     "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele",
-     "quando": "2026-09-14T21:30:00-03:00"
-    },
-    {
-     "video_id": "PfMR4CvUThA",
-     "titulo": "O Brasil está quase ganhando a copa do mundo de Zomboid",
-     "quando": "2026-09-15T21:30:00-03:00"
-    },
-    {
-     "video_id": "vCPLd9EIELs",
-     "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
-     "quando": "2026-09-16T21:30:00-03:00"
-    },
-    {
-     "video_id": "vLoHwfGSffI",
-     "titulo": "Esse personagem de Alien Isolation morreu no Twitter e o corpo dele tá no jogo",
-     "quando": "2026-09-17T21:30:00-03:00"
-    }
-   ],
+   "previstos": [],
    "proximos_da_fila": [
     {
      "video_id": "EcQSPXWiEE8",
@@ -86,25 +88,15 @@
    ]
   },
   "facebook": {
-   "ativo": true,
-   "cadencia": "toda quarta 20h",
+   "ativo": false,
+   "manual": false,
+   "cadencia": "desligado (sem PostProxy)",
    "na_fila": 17,
    "ultimo_post": "2026-09-09",
    "dias_parado": 3,
    "parado": false,
    "agendados": [],
-   "previstos": [
-    {
-     "video_id": "ltppiL7lOaU",
-     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO",
-     "quando": "2026-09-16T20:00:00-03:00"
-    },
-    {
-     "video_id": "X__XMvu7l6I",
-     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
-     "quando": "2026-09-23T20:00:00-03:00"
-    }
-   ],
+   "previstos": [],
    "proximos_da_fila": [
     {
      "video_id": "ltppiL7lOaU",
