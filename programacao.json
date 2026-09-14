@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-13T12:08:50.049504-03:00",
+ "gerado_em": "2026-09-14T14:06:15.955787-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 12,
    "ultimo_post": "2026-09-02",
-   "dias_parado": 11,
+   "dias_parado": 12,
    "parado": true,
    "agendados": [
     {
@@ -68,7 +68,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 6,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -93,7 +93,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 17,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 4,
+   "dias_parado": 5,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -107,8 +107,8 @@
      "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
     },
     {
-     "video_id": "tFaOAV9rO-o",
-     "titulo": "ESSE LEVIATÃ DE SUBNAUTICA 2 VOLTOU À VIDA DEPOIS DE MORTO"
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     }
    ]
   }
