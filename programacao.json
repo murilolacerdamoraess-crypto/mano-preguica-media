@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-14T14:06:15.955787-03:00",
+ "gerado_em": "2026-09-15T12:46:30.047425-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 12,
-   "ultimo_post": "2026-09-02",
-   "dias_parado": 12,
-   "parado": true,
+   "ultimo_post": "2026-09-14",
+   "dias_parado": 1,
+   "parado": false,
    "agendados": [
-    {
-     "video_id": "PfMR4CvUThA",
-     "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid",
-     "quando": "2026-09-14T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "ltppiL7lOaU",
      "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo",
@@ -68,8 +62,8 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 6,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 3,
-   "parado": false,
+   "dias_parado": 4,
+   "parado": true,
    "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
@@ -93,7 +87,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 17,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 5,
+   "dias_parado": 6,
    "parado": false,
    "agendados": [],
    "previstos": [],
