@@ -445,7 +445,22 @@
     "2026-09-12",
     "2026-09-13"
    ],
-   "vph": 1.5
+   "vph": 1.5,
+   "fora_da_janela": true
+  },
+  "uxL1gwa0wfA": {
+   "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado o",
+   "avisos": [
+    "radar",
+    "marco_500"
+   ],
+   "hist": [
+    [
+     "2026-09-16T01:14:46.735841+00:00",
+     769
+    ]
+   ],
+   "dias_reportados": []
   }
  }
 }
