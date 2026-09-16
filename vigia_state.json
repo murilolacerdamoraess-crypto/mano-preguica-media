@@ -452,12 +452,17 @@
    "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado o",
    "avisos": [
     "radar",
-    "marco_500"
+    "marco_500",
+    "marco_1000"
    ],
    "hist": [
     [
      "2026-09-16T01:14:46.735841+00:00",
      769
+    ],
+    [
+     "2026-09-16T06:35:02.895291+00:00",
+     1400
     ]
    ],
    "dias_reportados": []
