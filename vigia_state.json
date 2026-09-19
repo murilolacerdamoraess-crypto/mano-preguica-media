@@ -563,7 +563,8 @@
     "2026-09-16",
     "2026-09-17"
    ],
-   "vph": -18.7
+   "vph": -18.7,
+   "fora_da_janela": true
   },
   "NzY7XmWAcso": {
    "titulo": "O Alien muda de forma dependendo de quem ele usou #shor",
@@ -600,10 +601,14 @@
     [
      "2026-09-19T21:22:58.716986+00:00",
      1761
+    ],
+    [
+     "2026-09-19T23:25:42.929538+00:00",
+     1828
     ]
    ],
    "dias_reportados": [],
-   "vph": 38.1
+   "vph": 33.9
   }
  }
 }
