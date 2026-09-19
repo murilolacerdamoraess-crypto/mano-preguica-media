@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-18T12:17:11.161193-03:00",
+ "gerado_em": "2026-09-19T11:54:03.916783-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -10,17 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 13,
-   "ultimo_post": "2026-09-16",
-   "dias_parado": 2,
+   "na_fila": 14,
+   "ultimo_post": "2026-09-18",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "vLoHwfGSffI",
-     "titulo": "esse personagem de alien isolation morreu de verdade no twitter",
-     "quando": "2026-09-18T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "BP51Jqo1NFc",
      "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou",
@@ -54,9 +48,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 7,
+   "na_fila": 8,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 7,
+   "dias_parado": 8,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -79,9 +73,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 18,
+   "na_fila": 19,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 9,
+   "dias_parado": 10,
    "parado": true,
    "agendados": [],
    "previstos": [],
