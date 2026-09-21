@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-20T11:57:46.062275-03:00",
+ "gerado_em": "2026-09-21T14:15:30.789038-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 14,
    "ultimo_post": "2026-09-18",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [
     {
@@ -25,6 +25,60 @@
      "video_id": "EcQSPXWiEE8",
      "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2",
      "quando": "2026-09-23T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "uxL1gwa0wfA",
+     "titulo": "vazou o dlss 5 da nvidia por engano e pode ter matado os remakes",
+     "quando": "2026-09-25T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "J6XFb909Tg4",
+     "titulo": "esse jogo mandou fita cassete pelo correio e ninguém entendia por quê",
+     "quando": "2026-09-28T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "sbaSX77OnfA",
+     "titulo": "o sangue desse monstro derruba a nave inteira",
+     "quando": "2026-09-30T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "Ty5b7NugQNQ",
+     "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias falsas",
+     "quando": "2026-10-02T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "NzY7XmWAcso",
+     "titulo": "o alien muda de forma dependendo de quem ele usou",
+     "quando": "2026-10-05T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "bSA49omtoY4",
+     "titulo": "esse npc do world of warcraft tem a voz de um menino que já morreu",
+     "quando": "2026-10-07T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "DG5kj_Tyf2g",
+     "titulo": "o jogo que o alien deveria ter copiado",
+     "quando": "2026-10-09T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "subnautica tinha um buraco que ia até a lava e apagaram ele do jogo",
+     "quando": "2026-10-12T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "KYi45DujK_A",
+     "titulo": "essa fruta de subnautica 2 é um bicho que faz filhotes dentro da sua barriga",
+     "quando": "2026-10-14T18:00:00-03:00",
      "fonte": "metricool"
     }
    ],
@@ -50,7 +104,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 8,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 9,
+   "dias_parado": 10,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -75,7 +129,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 19,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 11,
+   "dias_parado": 12,
    "parado": true,
    "agendados": [],
    "previstos": [],
