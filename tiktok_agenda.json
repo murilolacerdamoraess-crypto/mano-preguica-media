@@ -1,11 +1,110 @@
 {
- "_leia": "Agenda do TikTok no Metricool. O TikTok não passa pelo robô (DAILY_TT=0) e o Metricool não dá token permanente no plano grátis, então QUEM AGENDA grava aqui no mesmo passo. programacao_json.py lê isto e o painel mostra. Status real de publicação: checar_saude.py (quando houver METRICOOL_TOKEN).",
- "posts": [
-  {"video_id": null, "quando": "2026-09-02T18:00:00-03:00", "titulo": "sobrevivi 24h", "metricool_id": null, "status": "publicado"},
-  {"video_id": "PfMR4CvUThA", "quando": "2026-09-14T18:00:00-03:00", "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid", "metricool_id": 374706775, "status": "agendado"},
-  {"video_id": "ltppiL7lOaU", "quando": "2026-09-16T18:00:00-03:00", "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo", "metricool_id": null, "status": "agendado"},
-  {"video_id": "vLoHwfGSffI", "quando": "2026-09-18T18:00:00-03:00", "titulo": "esse personagem de alien isolation morreu de verdade no twitter", "metricool_id": null, "status": "agendado"},
-  {"video_id": "BP51Jqo1NFc", "quando": "2026-09-21T18:00:00-03:00", "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou", "metricool_id": null, "status": "agendado"},
-  {"video_id": "EcQSPXWiEE8", "quando": "2026-09-23T18:00:00-03:00", "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2", "metricool_id": null, "status": "agendado"}
- ]
+  "_leia": "Agenda do TikTok no Metricool. O TikTok não passa pelo robô (DAILY_TT=0) e o Metricool não dá token permanente no plano grátis, então QUEM AGENDA grava aqui no mesmo passo. programacao_json.py lê isto e o painel mostra. Status real de publicação: checar_saude.py (quando houver METRICOOL_TOKEN).",
+  "posts": [
+    {
+      "video_id": null,
+      "quando": "2026-09-02T18:00:00-03:00",
+      "titulo": "sobrevivi 24h",
+      "metricool_id": null,
+      "status": "publicado"
+    },
+    {
+      "video_id": "PfMR4CvUThA",
+      "quando": "2026-09-14T18:00:00-03:00",
+      "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid",
+      "metricool_id": 374706775,
+      "status": "publicado"
+    },
+    {
+      "video_id": "ltppiL7lOaU",
+      "quando": "2026-09-16T18:00:00-03:00",
+      "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo",
+      "metricool_id": 374707194,
+      "status": "publicado"
+    },
+    {
+      "video_id": "vLoHwfGSffI",
+      "quando": "2026-09-18T18:00:00-03:00",
+      "titulo": "esse personagem de alien isolation morreu de verdade no twitter",
+      "metricool_id": 374707207,
+      "status": "publicado"
+    },
+    {
+      "video_id": "BP51Jqo1NFc",
+      "quando": "2026-09-21T18:00:00-03:00",
+      "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou",
+      "metricool_id": 374707217,
+      "status": "agendado"
+    },
+    {
+      "video_id": "EcQSPXWiEE8",
+      "quando": "2026-09-23T18:00:00-03:00",
+      "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2",
+      "metricool_id": 374707222,
+      "status": "agendado"
+    },
+    {
+      "video_id": "uxL1gwa0wfA",
+      "quando": "2026-09-25T18:00:00-03:00",
+      "titulo": "vazou o dlss 5 da nvidia por engano e pode ter matado os remakes",
+      "metricool_id": 379126140,
+      "status": "agendado"
+    },
+    {
+      "video_id": "J6XFb909Tg4",
+      "quando": "2026-09-28T18:00:00-03:00",
+      "titulo": "esse jogo mandou fita cassete pelo correio e ninguém entendia por quê",
+      "metricool_id": 379126184,
+      "status": "agendado"
+    },
+    {
+      "video_id": "sbaSX77OnfA",
+      "quando": "2026-09-30T18:00:00-03:00",
+      "titulo": "o sangue desse monstro derruba a nave inteira",
+      "metricool_id": 379126196,
+      "status": "agendado"
+    },
+    {
+      "video_id": "Ty5b7NugQNQ",
+      "quando": "2026-10-02T18:00:00-03:00",
+      "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias falsas",
+      "metricool_id": 379126221,
+      "status": "agendado"
+    },
+    {
+      "video_id": "NzY7XmWAcso",
+      "quando": "2026-10-05T18:00:00-03:00",
+      "titulo": "o alien muda de forma dependendo de quem ele usou",
+      "metricool_id": 379126249,
+      "status": "agendado"
+    },
+    {
+      "video_id": "bSA49omtoY4",
+      "quando": "2026-10-07T18:00:00-03:00",
+      "titulo": "esse npc do world of warcraft tem a voz de um menino que já morreu",
+      "metricool_id": 379126289,
+      "status": "agendado"
+    },
+    {
+      "video_id": "DG5kj_Tyf2g",
+      "quando": "2026-10-09T18:00:00-03:00",
+      "titulo": "o jogo que o alien deveria ter copiado",
+      "metricool_id": 379126323,
+      "status": "agendado"
+    },
+    {
+      "video_id": "WkcpDGnBaUc",
+      "quando": "2026-10-12T18:00:00-03:00",
+      "titulo": "subnautica tinha um buraco que ia até a lava e apagaram ele do jogo",
+      "metricool_id": 379126364,
+      "status": "agendado"
+    },
+    {
+      "video_id": "KYi45DujK_A",
+      "quando": "2026-10-14T18:00:00-03:00",
+      "titulo": "essa fruta de subnautica 2 é um bicho que faz filhotes dentro da sua barriga",
+      "metricool_id": 379126399,
+      "status": "agendado"
+    }
+  ]
 }
