@@ -681,7 +681,21 @@
     "2026-09-19",
     "2026-09-20"
    ],
-   "vph": 7.7
+   "vph": 7.7,
+   "fora_da_janela": true
+  },
+  "DG5kj_Tyf2g": {
+   "titulo": "O jogo que o Alien deveria ter copiado #shorts",
+   "avisos": [
+    "radar"
+   ],
+   "hist": [
+    [
+     "2026-09-22T23:12:16.440084+00:00",
+     21
+    ]
+   ],
+   "dias_reportados": []
   }
  }
 }
