@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-21T14:15:30.789038-03:00",
+ "gerado_em": "2026-09-22T12:48:55.727174-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 14,
-   "ultimo_post": "2026-09-18",
-   "dias_parado": 3,
+   "ultimo_post": "2026-09-21",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "BP51Jqo1NFc",
-     "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou",
-     "quando": "2026-09-21T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "EcQSPXWiEE8",
      "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2",
@@ -104,7 +98,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 8,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 10,
+   "dias_parado": 11,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -129,7 +123,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 19,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 12,
+   "dias_parado": 13,
    "parado": true,
    "agendados": [],
    "previstos": [],
