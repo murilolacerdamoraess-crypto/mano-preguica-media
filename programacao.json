@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25T13:00:13.454427-03:00",
+ "gerado_em": "2026-09-26T12:11:14.917319-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -10,17 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 14,
-   "ultimo_post": "2026-09-23",
-   "dias_parado": 2,
+   "na_fila": 15,
+   "ultimo_post": "2026-09-25",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "uxL1gwa0wfA",
-     "titulo": "vazou o dlss 5 da nvidia por engano e pode ter matado os remakes",
-     "quando": "2026-09-25T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "J6XFb909Tg4",
      "titulo": "esse jogo mandou fita cassete pelo correio e ninguém entendia por quê",
@@ -90,9 +84,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 8,
+   "na_fila": 9,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 14,
+   "dias_parado": 15,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -115,9 +109,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 19,
+   "na_fila": 20,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 16,
+   "dias_parado": 17,
    "parado": true,
    "agendados": [],
    "previstos": [],
