@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-11T20:57:52.743608Z",
+ "gerado_em": "2026-09-28T15:02:13.055723Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -35,6 +35,30 @@
    "video_id": "vCPLd9EIELs",
    "publicado_em": "2026-08-21",
    "formato": "short",
+   "motor": null
+  },
+  {
+   "arquivo": "longo-mew-300-bytes.md",
+   "name": "LONGO 1 - O Mew foi contrabandeado pra dentro de Pokémon",
+   "titulo_roteiro": "LONGO 1: o contrabando do Mew",
+   "description": "Vídeo longo (13 a 15 min) sobre o Mew ter sido enfiado em Pokémon Red/Green nos 300 bytes que sobraram depois de tirar o debug, como brincadeira interna, contra ordem expressa de não mexer em mais nada, e como isso virou",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null
+  },
+  {
+   "arquivo": "longo-silicon-knights-destruir.md",
+   "name": "LONGO 2 - A Justiça mandou o estúdio destruir os próprios jogos",
+   "titulo_roteiro": "LONGO 2: o estúdio que a Justiça mandou destruir os próprios jogos",
+   "description": "Vídeo longo (13 a 15 min) sobre a Silicon Knights, o estúdio de Eternal Darkness (o jogo que fingia apagar o seu save): a Nintendo patenteou o sistema de sanidade, o estúdio processou a Epic, perdeu, e um juiz federal ma",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
    "motor": null
   },
   {
@@ -107,6 +131,30 @@
    "video_id": "uxL1gwa0wfA",
    "publicado_em": "2026-09-18",
    "formato": "short",
+   "motor": null
+  },
+  {
+   "arquivo": "short-ellie-invisivel-tlou.md",
+   "name": "SHORT 2 - A Ellie é invisível pros inimigos e a Naughty Dog chamou isso de trapaça",
+   "titulo_roteiro": "SHORT 2: a Ellie invisível",
+   "description": "Short de 65 a 75s sobre The Last of Us: quando o jogador está em furtividade, os companheiros ficam invisíveis para os NPCs inimigos. O engenheiro da Naughty Dog publicou isso num capítulo cuja seção se chama \"Cheating\",",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null
+  },
+  {
+   "arquivo": "short-menderbug-hollow-knight.md",
+   "name": "SHORT 1 - O bicho mais feliz de Hollow Knight é feliz porque você quebra a placa dele",
+   "titulo_roteiro": "SHORT 1: o Menderbug",
+   "description": "Short de 70 a 80s sobre o Menderbug: 2% de chance de aparecer, conserta a placa que o jogador quebra, o diário dele em Dirtmouth mostra que ele era o ser mais feliz de Hallownest por causa disso, e matar ele deixa a plac",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
    "motor": null
   },
   {
