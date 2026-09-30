@@ -1,6 +1,7 @@
 {
  "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
  "fonte": [
+  "copia-cerebro",
   "maestri"
  ],
  "equipe": [
@@ -15,10 +16,6 @@
   {
    "nome": "Arpão",
    "funcao": "Shorts"
-  },
-  {
-   "nome": "Anzol",
-   "funcao": "Embalagem"
   }
  ],
  "backlog": [
@@ -160,5 +157,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-09-30T13:12-03:00"
+ "gerado_em": "2026-09-30T13:16-03:00"
 }
