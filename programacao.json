@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29T14:05:58.910486-03:00",
+ "gerado_em": "2026-09-30T14:04:06.969908-03:00",
  "mes": {
   "postados": 7,
   "teto": 93,
@@ -10,9 +10,9 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 15,
+   "na_fila": 16,
    "ultimo_post": "2026-09-28",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [
     {
@@ -78,9 +78,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 9,
+   "na_fila": 10,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 18,
+   "dias_parado": 19,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -90,12 +90,12 @@
      "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     },
     {
-     "video_id": "sbaSX77OnfA",
-     "titulo": "O sangue desse monstro derruba a nave inteira #shorts"
+     "video_id": "Ty5b7NugQNQ",
+     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
     },
     {
-     "video_id": "ylu-YZPEGm8",
-     "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele"
+     "video_id": "sbaSX77OnfA",
+     "titulo": "O sangue desse monstro derruba a nave inteira #shorts"
     }
    ]
   },
@@ -103,9 +103,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 20,
+   "na_fila": 21,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 20,
+   "dias_parado": 21,
    "parado": true,
    "agendados": [],
    "previstos": [],
