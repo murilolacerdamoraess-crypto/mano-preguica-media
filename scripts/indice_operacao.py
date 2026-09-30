@@ -128,10 +128,12 @@ def itens_linhas(texto):
     return itens
 
 
-def equipe():
+def equipe(anterior):
+    """Só o terminal Maestro enxerga a equipe inteira; nos agentes, mantém a última lista
+    (senão cada terminal publica uma equipe diferente e vira commit a cada turno)."""
     bruto = maestri("list")
-    if not bruto:
-        return []
+    if not bruto or "maestro: true" not in bruto:
+        return anterior
     ag = []
     for l in bruto.splitlines():
         m = re.search(r'name: "([^"]+)", role: "([^"]+)"', l)
@@ -147,13 +149,14 @@ def main():
         texto, f = ler_nota(nome)
         fonte.add(f)
         notas[chave] = itens_backlog(texto) if chave == "backlog" else itens_linhas(texto)
+    saida = os.path.join(REPO, "painel_operacao.json")
+    anterior = json.load(open(saida, encoding="utf-8")).get("equipe", []) if os.path.exists(saida) else []
     op = {
         "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
-        "fonte": sorted(fonte),
-        "equipe": equipe(),
+        "equipe": equipe(anterior),
         **notas,
     }
-    escreve(os.path.join(REPO, "painel_operacao.json"), op, agora)
+    escreve(saida, op, agora)
 
     if os.path.exists(BIB_JSON):
         b = json.load(open(BIB_JSON, encoding="utf-8"))
