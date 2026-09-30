@@ -1,27 +1,9 @@
 {
  "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
  "fonte": [
-  "copia-cerebro",
-  "maestri"
+  "copia-cerebro"
  ],
- "equipe": [
-  {
-   "nome": "Farol",
-   "funcao": "Vídeos longos"
-  },
-  {
-   "nome": "Sonar",
-   "funcao": "Descoberta de pautas"
-  },
-  {
-   "nome": "Arpão",
-   "funcao": "Shorts"
-  },
-  {
-   "nome": "Anzol",
-   "funcao": "Embalagem"
-  }
- ],
+ "equipe": [],
  "backlog": [
   {
    "id": "P1",
