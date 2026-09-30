@@ -6,6 +6,10 @@
  ],
  "equipe": [
   {
+   "nome": "Arpão",
+   "funcao": "Shorts"
+  },
+  {
    "nome": "Sonar",
    "funcao": "Descoberta de pautas"
   },
@@ -14,8 +18,8 @@
    "funcao": "Vídeos longos"
   },
   {
-   "nome": "Arpão",
-   "funcao": "Shorts"
+   "nome": "Anzol",
+   "funcao": "Embalagem"
   }
  ],
  "backlog": [
