@@ -6,16 +6,16 @@
  ],
  "equipe": [
   {
-   "nome": "Arpão",
-   "funcao": "Shorts"
+   "nome": "Farol",
+   "funcao": "Vídeos longos"
   },
   {
    "nome": "Sonar",
    "funcao": "Descoberta de pautas"
   },
   {
-   "nome": "Farol",
-   "funcao": "Vídeos longos"
+   "nome": "Arpão",
+   "funcao": "Shorts"
   },
   {
    "nome": "Anzol",
@@ -161,5 +161,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-09-30T13:16-03:00"
+ "gerado_em": "2026-09-30T13:17-03:00"
 }
