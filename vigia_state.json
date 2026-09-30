@@ -890,7 +890,23 @@
     "2026-09-26",
     "2026-09-27"
    ],
-   "vph": 5.6
+   "vph": 5.6,
+   "fora_da_janela": true
+  },
+  "Ty5b7NugQNQ": {
+   "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no mei",
+   "avisos": [
+    "radar",
+    "marco_500",
+    "marco_1000"
+   ],
+   "hist": [
+    [
+     "2026-09-30T00:16:09.124261+00:00",
+     1057
+    ]
+   ],
+   "dias_reportados": []
   }
  }
 }
