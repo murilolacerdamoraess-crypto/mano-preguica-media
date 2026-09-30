@@ -27,9 +27,9 @@
    "por_que_agora": "descoberta publicada 29/07/2026, leilão na Goldin de 12/08 a 09/09/2026.",
    "formato": "Short 90-180s narrado",
    "concorrencia": "LIVRE",
-   "status": "livre",
+   "status": "pego por Arpão",
    "frente": "2 (outros games)",
-   "pendente": "preço final do leilão (fechou 09/09, não achei o número; checar goldin.co) e conflito de fonte (luxurylaunches fala em \"cinco PSA 10\")."
+   "pendente": ""
   },
   {
    "id": "P2",
@@ -154,8 +154,15 @@
    "etapa": "roteiro aprovado em 01/09",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Cartuchos de Mario que iam ser derretidos viraram o primeiro nota 10",
+   "etapa": "roteiro pronto, fontes fechadas",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar o roteiro"
   }
  ],
  "navegador": [],
- "gerado_em": "2026-09-30T13:17-03:00"
+ "gerado_em": "2026-09-30T15:41-03:00"
 }
