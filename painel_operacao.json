@@ -1,0 +1,164 @@
+{
+ "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
+ "fonte": [
+  "maestri"
+ ],
+ "equipe": [
+  {
+   "nome": "Sonar",
+   "funcao": "Descoberta de pautas"
+  },
+  {
+   "nome": "Farol",
+   "funcao": "Vídeos longos"
+  },
+  {
+   "nome": "Arpão",
+   "funcao": "Shorts"
+  },
+  {
+   "nome": "Anzol",
+   "funcao": "Embalagem"
+  }
+ ],
+ "backlog": [
+  {
+   "id": "P1",
+   "titulo": "Cartuchos de Mario que iam ser derretidos viraram o primeiro nota 10 da história",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Esses cartuchos de Mario iam virar sucata e viraram o primeiro nota 10 da história",
+   "por_que_agora": "descoberta publicada 29/07/2026, leilão na Goldin de 12/08 a 09/09/2026.",
+   "formato": "Short 90-180s narrado",
+   "concorrencia": "LIVRE",
+   "status": "livre",
+   "frente": "2 (outros games)",
+   "pendente": "preço final do leilão (fechou 09/09, não achei o número; checar goldin.co) e conflito de fonte (luxurylaunches fala em \"cinco PSA 10\")."
+  },
+  {
+   "id": "P2",
+   "titulo": "A corrida perfeita de Super Mario está a 4 frames",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Um brasileiro e um americano estão a 4 frames de zerar o Mario perfeito",
+   "por_que_agora": "recorde de 14/08/2026, disputa ativa, brasileiro no meio.",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE/RASO (nada PT-BR sobre o 4:54.332; só react antigo de 2023)",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P3",
+   "titulo": "Personagens de WoW que continuam lutando quando o dono cai da internet",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Os personagens desse jogo começaram a jogar sozinhos quando os donos caíam da internet",
+   "por_que_agora": "relatos de ago/2026, Blizzard ainda sem comentário (conferido 29/09).",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P4",
+   "titulo": "58 videogames ligados ao mesmo tempo pra caçar um Pokémon",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Esse cara ligou 58 videogames ao mesmo tempo pra caçar um Pokémon de 1 em 9 milhões",
+   "por_que_agora": "Safari Week de 17 a 26/07/2026; conversa com a pauta dos 14 Wiis que o Murilo achou em 06/09 (bloco Pokémon).",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE em PT-BR (3 Shorts em espanhol)",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P5",
+   "titulo": "40 anos de coleção de Nintendo roubados numa viagem",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Esse cara passou 40 anos montando uma coleção de Nintendo e perdeu tudo numa viagem",
+   "por_que_agora": "noticiado por volta de 25/08/2026.",
+   "formato": "Short 90-180s",
+   "concorrencia": "RASO (1 vídeo, 136 views)",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P6",
+   "titulo": "Ela matou o chefe mais difícil de Elden Ring num tapete de dança",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
+   "por_que_agora": "atemporal (história narrada recicla, regra do estudo Sev7n).",
+   "formato": "Short 90-180s",
+   "concorrencia": "RASO (maior PT-BR 4,9 mil)",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P7",
+   "titulo": "Ele achou um lugar perdido há 40 anos no deserto com fotos velhas",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Uma família só tinha fotos velhas do deserto e esse cara achou o túmulo do avô",
+   "por_que_agora": "atemporal (1 ano do caso em 13/08). Ponte: GeoGuessr é jogo.",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE",
+   "status": "livre",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P8",
+   "titulo": "O que aconteceu com os outros sobreviventes de Subnautica 2 (pauta S4 do oceano azul)",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "O que aconteceu com os outros sobreviventes de Subnautica 2?",
+   "por_que_agora": "SN2 em early access, update 1.2 em 19/08; S4 era a única do banco oceano azul ainda não minerada (S1, S2, S3, S5 já roteirizadas).",
+   "formato": "Short 90-180s (e potencial longo \"o destino dos colonos\", com P9 e P10 como Shorts-satélite)",
+   "concorrencia": "RASO (só 2 longos genéricos de \"história de SN2\"; nenhum Short sobre os colonos)",
+   "status": "livre",
+   "frente": "1 (SN lore)",
+   "pendente": ""
+  },
+  {
+   "id": "P9",
+   "titulo": "Quando você morre em Subnautica 2, quem volta é uma cópia",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Quando você morre em Subnautica 2, quem volta não é você",
+   "por_que_agora": "o update 1.2 \"Buddy System\" (19/08/2026) trouxe reviver o parceiro no co-op, e a lore diz que ninguém revive, reimprime.",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE",
+   "status": "livre",
+   "frente": "1",
+   "pendente": ""
+  },
+  {
+   "id": "P10",
+   "titulo": "Em Subnautica 2 não existe resgate",
+   "rodada": "Rodada 29/09/2026 (Sonar): 10 Shorts, 7 outros games + 3 Subnautica lore",
+   "gancho": "Em Subnautica 2 o resgate vai demorar 20 mil anos pra chegar",
+   "por_que_agora": "SN2 em early access; o gancho é o contraste com o final do SN1 que o público conhece.",
+   "formato": "Short 90-180s",
+   "concorrencia": "LIVRE",
+   "status": "livre",
+   "frente": "1",
+   "pendente": ""
+  }
+ ],
+ "producao": [
+  {
+   "tipo": "Longo",
+   "titulo": "Stonewards pro MP1: o arqueiro que quebrou o jogo (7 episódios viram 1 filme de 30min)",
+   "etapa": "pauta escrita, cold open e 16 beats mapeados",
+   "responsavel": "Farol",
+   "falta_murilo": "aprovar a pauta"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Pokémon impresso em 3D (pokébolas + Onix de 8,8m)",
+   "etapa": "roteiro aprovado em 01/09",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz"
+  }
+ ],
+ "navegador": [],
+ "gerado_em": "2026-09-30T13:12-03:00"
+}
