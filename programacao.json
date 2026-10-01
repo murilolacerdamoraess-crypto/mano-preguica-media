@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T14:04:06.969908-03:00",
+ "gerado_em": "2026-10-01T14:49:59.218358-03:00",
  "mes": {
-  "postados": 7,
+  "postados": 0,
   "teto": 93,
-  "folga": 86
+  "folga": 93
  },
  "redes": {
   "tiktok": {
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 16,
-   "ultimo_post": "2026-09-28",
-   "dias_parado": 2,
+   "ultimo_post": "2026-09-30",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "sbaSX77OnfA",
-     "titulo": "o sangue desse monstro derruba a nave inteira",
-     "quando": "2026-09-30T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "Ty5b7NugQNQ",
      "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias falsas",
@@ -69,8 +63,8 @@
      "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
     },
     {
-     "video_id": "EcQSPXWiEE8",
-     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
+     "video_id": "Ty5b7NugQNQ",
+     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
     }
    ]
   },
@@ -80,18 +74,18 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 10,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 19,
+   "dias_parado": 20,
    "parado": true,
    "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "EcQSPXWiEE8",
-     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
-    },
-    {
      "video_id": "Ty5b7NugQNQ",
      "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
+    },
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     },
     {
      "video_id": "sbaSX77OnfA",
@@ -105,7 +99,7 @@
    "cadencia": "desligado (sem PostProxy)",
    "na_fila": 21,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 21,
+   "dias_parado": 22,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -115,12 +109,12 @@
      "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
     },
     {
-     "video_id": "X__XMvu7l6I",
-     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
+     "video_id": "Ty5b7NugQNQ",
+     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
     },
     {
-     "video_id": "EcQSPXWiEE8",
-     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
     }
    ]
   }
