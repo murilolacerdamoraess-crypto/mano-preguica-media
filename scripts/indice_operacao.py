@@ -124,6 +124,7 @@ def itens_linhas(texto):
             "etapa": c.get("etapa", ""),
             "responsavel": c.get("responsável", c.get("responsavel", "")),
             "falta_murilo": "" if falta.lower() in ("nada", "-", "nenhum", "não") else falta,
+            "prazo": c.get("prazo", ""),
         })
     return itens
 

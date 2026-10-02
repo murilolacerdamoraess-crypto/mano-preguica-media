@@ -146,23 +146,34 @@
    "titulo": "Stonewards pro MP1: o arqueiro que quebrou o jogo (7 episódios viram 1 filme de 30min)",
    "etapa": "pauta escrita, cold open e 16 beats mapeados",
    "responsavel": "Farol",
-   "falta_murilo": "aprovar a pauta"
+   "falta_murilo": "aprovar a pauta",
+   "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Pokémon impresso em 3D (pokébolas + Onix de 8,8m)",
    "etapa": "roteiro aprovado em 01/09",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz"
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Cartuchos de Mario que iam ser derretidos viraram o primeiro nota 10",
+   "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro (P1)",
    "etapa": "roteiro aprovado",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz"
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "Rematch 24h: a jornada pra zerar o passe do Blue Lock e encarar a ranqueada (minissérie)",
+   "etapa": "roteiro (Farol montando o arco a partir da sessão 1, gravada em 28/09)",
+   "responsavel": "Farol",
+   "falta_murilo": "decidir se grava mais sessões até fechar as 24h",
+   "prazo": "09/10"
   }
  ],
  "navegador": [],
- "gerado_em": "2026-09-30T17:09-03:00"
+ "gerado_em": "2026-10-02T14:50-03:00"
 }
