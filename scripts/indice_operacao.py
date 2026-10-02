@@ -173,6 +173,34 @@ def main():
                  "atualizado": b["atualizado"], "metodo": b["metodo"], "outliers": outl}, agora)
 
 
+def copiar_decisoes():
+    """Copia o registro único de decisões (painel + Telegram) pro cérebro, onde os agentes leem.
+    Fonte: GET /api/decidir/lista do painel. Só reescreve se mudou."""
+    import urllib.request
+    try:
+        bruto = urllib.request.urlopen("https://canal-agente-geer.vercel.app/api/decidir/lista", timeout=20).read()
+        dec = json.loads(bruto).get("decisoes") or []
+    except Exception:
+        return
+    if not dec:
+        return
+    nomes = {"ideia": "pauta", "roteiro": "roteiro", "peca": "peça", "regra": "regra", "titulo": "título"}
+    linhas = ["# Decisões do Murilo (registro único: painel + Telegram)", "",
+              "Gerado pelo hook do cérebro a partir de /api/decidir/lista. NÃO editar. Mais recente primeiro.",
+              "Agentes: antes de pegar trabalho, confiram aqui o que foi aprovado e o MOTIVO do que foi reprovado.", ""]
+    for d in dec:
+        marca = "APROVADO" if d["decisao"] == "aprovado" else "REPROVADO"
+        linha = f"- {d['criado_em'][:16].replace('T', ' ')} · {marca} · {nomes.get(d['tipo'], d['tipo'])} · {d.get('titulo') or d['chave']} · via {d.get('origem', '')}"
+        if d.get("motivo"):
+            linha += f" · motivo: {d['motivo']}"
+        linha += f" · `{d['chave']}`"
+        linhas.append(linha)
+    texto = "\n".join(linhas) + "\n"
+    arq = os.path.join(CEREBRO, "operacao-maestri", "decisoes.md")
+    if not os.path.exists(arq) or open(arq, encoding="utf-8").read() != texto:
+        open(arq, "w", encoding="utf-8").write(texto)
+
+
 def escreve(caminho, dado, agora):
     """Só reescreve se o conteúdo (sem o carimbo) mudou, pra não gerar commit vazio."""
     novo = json.dumps(dado, ensure_ascii=False, sort_keys=True)
@@ -187,3 +215,4 @@ def escreve(caminho, dado, agora):
 
 if __name__ == "__main__":
     main()
+    copiar_decisoes()
