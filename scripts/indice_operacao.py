@@ -201,6 +201,66 @@ def copiar_decisoes():
         open(arq, "w", encoding="utf-8").write(texto)
 
 
+PAINEL = "https://canal-agente-geer.vercel.app"
+TOKEN_DECIDIR = os.environ.get("PAUTAS_TOKEN", "mp-pauta-2026-9f3a71")
+AVISADOS = os.path.join(HOME, ".canal-agente", "telegram-avisados.json")
+
+
+def avisar_telegram(seco=False):
+    """Espelho do Decidir no Telegram (tese do painel, premissa 4). Manda UMA mensagem com o que
+    ficou pendente desde o último aviso, com botões de aprovar/reprovar por item. Os botões abrem
+    /api/decidir, que grava no mesmo registro do painel. Bot: @RotinaOS_bot (só sendMessage, não
+    briga com o webhook do RotinaOS). Credenciais em ~/.rotina-os/rotina-os.env (cópia no cérebro:
+    projetos/rotina-os/acessos/credenciais.md)."""
+    import urllib.request, urllib.parse
+    env = {}
+    try:
+        for l in open(os.path.join(HOME, ".rotina-os", "rotina-os.env"), encoding="utf-8"):
+            if "=" in l and not l.lstrip().startswith("#"):
+                k, v = l.strip().split("=", 1)
+                env[k] = v.strip().strip('"').strip("'")
+    except Exception:
+        return
+    bot, chat = env.get("TELEGRAM_BOT_TOKEN"), env.get("CHAT_ID")
+    if not bot or not chat:
+        return
+    try:
+        d = json.loads(urllib.request.urlopen(f"{PAINEL}/api/decidir/pendentes", timeout=25).read())
+    except Exception:
+        return
+    if d.get("tabela_ausente") and not seco:
+        return  # sem a tabela os botões não gravariam
+    ja = set(json.load(open(AVISADOS))) if os.path.exists(AVISADOS) else set()
+    novos = [p for p in d.get("pendentes", []) if p["chave"] not in ja][:12]
+    if not novos:
+        return
+    linhas = [f"🧭 {len(novos)} decisão(ões) nova(s) esperando você", ""]
+    teclado = []
+    for i, p in enumerate(novos, 1):
+        linhas.append(f"{i}. [{p['portao']}] {p['titulo']}")
+        base = {"chave": p["chave"], "tipo": p["tipo"], "titulo": p["titulo"][:120], "t": TOKEN_DECIDIR}
+        ok = f"{PAINEL}/api/decidir?" + urllib.parse.urlencode({**base, "r": "aprovado"})
+        no = f"{PAINEL}/api/decidir?" + urllib.parse.urlencode({**base, "r": "reprovado"})
+        linha = [{"text": f"✅ {i}", "url": ok}, {"text": f"❌ {i}", "url": no}]
+        if p.get("link"):
+            linha.append({"text": f"📄 ler {i}", "url": p["link"]})
+        teclado.append(linha)
+    teclado.append([{"text": "Abrir o Decidir no painel", "url": f"{PAINEL}/decidir"}])
+    corpo = {"chat_id": chat, "text": "\n".join(linhas), "disable_web_page_preview": True,
+             "reply_markup": {"inline_keyboard": teclado}}
+    if seco:
+        print(corpo["text"]); print(f"[{len(teclado)} linhas de botão] ex.: {teclado[0][0]['url'][:150]}")
+        return
+    req = urllib.request.Request(f"https://api.telegram.org/bot{bot}/sendMessage",
+                                 data=json.dumps(corpo).encode(), headers={"content-type": "application/json"})
+    try:
+        if json.loads(urllib.request.urlopen(req, timeout=20).read()).get("ok"):
+            os.makedirs(os.path.dirname(AVISADOS), exist_ok=True)
+            json.dump(sorted(ja | {p["chave"] for p in novos}), open(AVISADOS, "w"))
+    except Exception:
+        pass
+
+
 def escreve(caminho, dado, agora):
     """Só reescreve se o conteúdo (sem o carimbo) mudou, pra não gerar commit vazio."""
     novo = json.dumps(dado, ensure_ascii=False, sort_keys=True)
@@ -214,5 +274,7 @@ def escreve(caminho, dado, agora):
 
 
 if __name__ == "__main__":
+    import sys
     main()
     copiar_decisoes()
+    avisar_telegram(seco="--seco" in sys.argv)
