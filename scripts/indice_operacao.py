@@ -244,7 +244,8 @@ def avisar_telegram(seco=False):
         no = f"{PAINEL}/api/decidir?" + urllib.parse.urlencode({**base, "r": "reprovado"})
         linha = [{"text": f"✅ {i}", "url": ok}, {"text": f"❌ {i}", "url": no}]
         if p.get("link"):
-            linha.append({"text": f"📄 ler {i}", "url": p["link"]})
+            link = p["link"] if p["link"].startswith("http") else PAINEL + p["link"]
+            linha.append({"text": f"📄 ler {i}", "url": link})
         teclado.append(linha)
     teclado.append([{"text": "Abrir o Decidir no painel", "url": f"{PAINEL}/decidir"}])
     corpo = {"chat_id": chat, "text": "\n".join(linhas), "disable_web_page_preview": True,
@@ -260,6 +261,54 @@ def avisar_telegram(seco=False):
             json.dump(sorted(ja | {p["chave"] for p in novos}), open(AVISADOS, "w"))
     except Exception:
         pass
+
+
+DOC_HASH = os.path.join(HOME, ".canal-agente", "documentos-hash.json")
+
+
+def enviar_documentos():
+    """Manda pro painel o TEXTO do cérebro que o Murilo lê lá (roteiros, quadros, jornadas, regras),
+    pra o leitor /ler desenhar, em vez de abrir o .md cru no GitHub (pedido de 03/10/2026).
+    Só envia o que mudou (hash local). Token = o mesmo do Decidir."""
+    import hashlib, urllib.request
+    alvos = []
+    for arq in sorted(glob_md(os.path.join(CEREBRO, "roteiros"))):
+        alvos.append(("roteiro:" + os.path.basename(arq), "roteiro", arq))
+    for arq in sorted(glob_md(QUADRO_DIR)):
+        alvos.append(("quadro:" + os.path.basename(arq)[:-3], "quadro", arq))
+    for nome, tipo in (("conhecimentos/rematch-24h.md", "jornada"), ("tese-do-painel.md", "regra"),
+                       ("conhecimentos/cartilha-anzol.md", "regra")):
+        arq = os.path.join(CEREBRO, nome)
+        if os.path.exists(arq):
+            alvos.append((tipo + ":" + os.path.basename(arq)[:-3], tipo, arq))
+    velho = json.load(open(DOC_HASH)) if os.path.exists(DOC_HASH) else {}
+    novo, docs = dict(velho), []
+    for chave, tipo, arq in alvos:
+        md = open(arq, encoding="utf-8").read()
+        h = hashlib.sha1(md.encode()).hexdigest()
+        if velho.get(chave) == h:
+            continue
+        titulo = next((l[2:].strip() for l in md.splitlines() if l.startswith("# ")), os.path.basename(arq))
+        docs.append({"chave": chave, "tipo": tipo, "titulo": titulo, "markdown": md})
+        novo[chave] = h
+    if not docs:
+        return
+    for i in range(0, len(docs), 20):
+        corpo = json.dumps({"t": TOKEN_DECIDIR, "docs": docs[i:i + 20]}).encode()
+        req = urllib.request.Request(f"{PAINEL}/api/documentos", data=corpo, headers={"content-type": "application/json"})
+        try:
+            r = json.loads(urllib.request.urlopen(req, timeout=40).read())
+            if not r.get("ok"):
+                return
+        except Exception:
+            return
+    os.makedirs(os.path.dirname(DOC_HASH), exist_ok=True)
+    json.dump(novo, open(DOC_HASH, "w"))
+
+
+def glob_md(pasta):
+    import glob
+    return [a for a in glob.glob(os.path.join(pasta, "*.md")) if not os.path.basename(a).startswith("_")]
 
 
 def escreve(caminho, dado, agora):
@@ -278,4 +327,5 @@ if __name__ == "__main__":
     import sys
     main()
     copiar_decisoes()
+    enviar_documentos()
     avisar_telegram(seco="--seco" in sys.argv)
