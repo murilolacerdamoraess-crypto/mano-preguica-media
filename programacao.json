@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02T13:53:23.357163-03:00",
+ "gerado_em": "2026-10-03T12:17:41.411168-03:00",
  "mes": {
   "postados": 0,
   "teto": 93,
@@ -10,17 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 16,
-   "ultimo_post": "2026-09-30",
-   "dias_parado": 2,
+   "na_fila": 17,
+   "ultimo_post": "2026-10-02",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "Ty5b7NugQNQ",
-     "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias falsas",
-     "quando": "2026-10-02T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "NzY7XmWAcso",
      "titulo": "o alien muda de forma dependendo de quem ele usou",
@@ -59,12 +53,12 @@
      "titulo": "Anoiteceu na luta contra o Shiver Leviathan e o Subnautica 2 virou terror!"
     },
     {
-     "video_id": "ltppiL7lOaU",
-     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
-    },
-    {
      "video_id": "Ty5b7NugQNQ",
      "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
+    },
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
     }
    ]
   },
@@ -72,9 +66,9 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 10,
+   "na_fila": 11,
    "ultimo_post": "2026-09-11",
-   "dias_parado": 21,
+   "dias_parado": 22,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -97,20 +91,20 @@
    "ativo": false,
    "manual": false,
    "cadencia": "desligado (sem PostProxy)",
-   "na_fila": 21,
+   "na_fila": 22,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 23,
+   "dias_parado": 24,
    "parado": true,
    "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "ltppiL7lOaU",
-     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
-    },
-    {
      "video_id": "Ty5b7NugQNQ",
      "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
+    },
+    {
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
     },
     {
      "video_id": "X__XMvu7l6I",
