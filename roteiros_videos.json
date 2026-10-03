@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03T21:52:38.976631Z",
+ "gerado_em": "2026-10-03T21:57:11.075801Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -173,7 +173,7 @@
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
    "name": "SHORT - Essa luva do Homem-Aranha não gruda em nada e segura um homem pendurado num prédio",
    "titulo_roteiro": "SHORT: a luva do Homem-Aranha que não gruda em nada",
-   "description": "Short de 90 a 100s (P11 do Backlog, rodada Sonar 03/10). O Jake (JLaservideo) copiou o pé da lagartixa numa placa que não gruda em nada, só segura puxando pra baixo; penou até uma versão que nem está à venda, uma mão pas",
+   "description": "Short de 120 a 130s (P11 do Backlog, rodada Sonar 03/10). O Jake (JLaservideo) copiou o pé da lagartixa numa placa que não gruda em nada, só segura puxando pra baixo; penou até uma versão que nem está à venda, uma mão pa",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
    "video_id": null,
@@ -197,7 +197,7 @@
    "arquivo": "short-moto-mario-kart-world-madeira.md",
    "name": "SHORT - Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela",
    "titulo_roteiro": "SHORT: a moto do Mario Kart World de madeira que roda Switch 2",
-   "description": "Short de 85 a 95s (P14 do Backlog, rodada Sonar 03/10). A engenheira Sophia Tung refez a moto-rádio do Mario Kart World com a regra de que tudo tinha que funcionar; tentou tirar o 3D de print do jogo, ouviu US$ 10 mil da",
+   "description": "Short de 110 a 120s (P14 do Backlog, rodada Sonar 03/10). A engenheira Sophia Tung refez a moto-rádio do Mario Kart World com a regra de que tudo tinha que funcionar; tentou tirar o 3D de print do jogo, ouviu US$ 10 mil ",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
    "video_id": null,
@@ -209,7 +209,7 @@
    "arquivo": "short-subnautica-10-mil-metros.md",
    "name": "SHORT - Ele afundou o mapa inteiro de Subnautica 10 mil metros",
    "titulo_roteiro": "SHORT: o mapa inteiro de Subnautica afundado 10 mil metros",
-   "description": "Short de 85 a 95s (P13 do Backlog, rodada Sonar 03/10). O The Last Bacon pôs 10 mil metros de água em cima do mapa com mod; a cápsula boiava, depois afundava dentro da pedra, a base alagava na hora, ele desligou a cápsul",
+   "description": "Short de 110 a 120s (P13 do Backlog, rodada Sonar 03/10). O The Last Bacon pôs 10 mil metros de água em cima do mapa com mod; a cápsula boiava, depois afundava dentro da pedra, a base alagava na hora, ele desligou a cáps",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
    "video_id": null,
@@ -221,7 +221,7 @@
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
    "name": "SHORT - Ele zerou Subnautica sem comer nada e o segredo estava numa cadeira",
    "titulo_roteiro": "SHORT: zerou Subnautica sem comer, e o segredo era uma cadeira",
-   "description": "Short de 85 a 95s (P12 do Backlog, rodada Sonar 03/10). O KnightWraith86 zerou Subnautica no hardcore sem comer uma vez, vivendo de kit médico; morreu por falta de um kit, morreu de novo afogado, e no desespero descobriu",
+   "description": "Short de 110 a 120s (P12 do Backlog, rodada Sonar 03/10). O KnightWraith86 zerou Subnautica no hardcore sem comer uma vez, vivendo de kit médico; morreu por falta de um kit, morreu de novo afogado, e no desespero descobr",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
    "video_id": null,
