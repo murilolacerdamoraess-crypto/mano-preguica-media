@@ -69,6 +69,18 @@
  ],
  "backlog": [
   {
+   "id": "P17",
+   "titulo": "Colocaram Pokébola no Subnautica e dá pra capturar até leviatã",
+   "rodada": "Referências do Murilo 04/10/2026 (Sonar): 2 vídeos analisados, 1 virou pauta",
+   "gancho": "Colocaram Pokébola no Subnautica e dá pra capturar até leviatã\" (alternativa: \"Esse cara colocou Pokémon no Subnautica e agora dá pra ter um leviatã de estimação\"). Abre pela franquia e pelo feito; como funciona vai na premissa. Título final com o Anzol.",
+   "por_que_agora": "atemporal (vídeo de 30/08, história narrada recicla). Não é outlier do canal dele (576 mil, 0,5x a mediana); a prova de demanda vem de fora: na gringa, \"What if SUBNAUTICA had POKÉMON!?\" (Pokédex Fillers) fez 1,1 mi e 1,76 mi, e \"Pokémon that evolves INTO EVERY LEVIATHAN in Subnautica 2\" fez 1 mi, mas lá são Pokémon INVENTADOS; aqui é mod de verdade, jogável. Junta a audiência construtora (64% Minecraft/Valheim) com Pokémon.",
+   "formato": "Short 60-90s",
+   "concorrencia": "LIVRE (4 buscas em 04/10: \"pokemon no subnautica\", \"subnautica pokebola\", \"subnautica mod pokemon\", \"capturar leviatã subnautica\"; zero PT-BR sobre o mod; os resultados são os Pokémon inventados do Pokédex Fillers e 2 Shorts em inglês de 3 mil).",
+   "status": "livre",
+   "frente": "1 (Subnautica) com Pokémon",
+   "pendente": ""
+  },
+  {
    "id": "P16",
    "titulo": "Colocaram o Mario 64 rodando num Super Nintendo de verdade",
    "rodada": "Rodada 04/10/2026 (Sonar): fontes de origem do viral (Reddit, Bilibili, engenharia geek)",
@@ -328,5 +340,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T18:39-03:00"
+ "gerado_em": "2026-10-04T18:44-03:00"
 }
