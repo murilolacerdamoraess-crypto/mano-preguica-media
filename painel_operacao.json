@@ -16,6 +16,10 @@
   {
    "nome": "Anzol",
    "funcao": "Embalagem"
+  },
+  {
+   "nome": "Âncora",
+   "funcao": "Vitrine"
   }
  ],
  "backlog": [
@@ -255,5 +259,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T03:30-03:00"
+ "gerado_em": "2026-10-04T03:44-03:00"
 }
