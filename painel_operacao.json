@@ -215,34 +215,34 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Essa luva do Homem-Aranha não gruda em nada e segura um homem pendurado num prédio (P11)",
-   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "titulo": "Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland (P11)",
+   "etapa": "roteiro (aguardando aprovação; v2 do gancho em 04/10 depois da reprovação; portão de fontes APROVADO; 3 títulos do Anzol no roteiro)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "falta_murilo": "aprovar pauta e roteiro, escolher o título, depois gravar",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele zerou Subnautica sem comer nada e o segredo estava numa cadeira (P12)",
-   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO; 3 títulos do Anzol no roteiro)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "falta_murilo": "aprovar pauta e roteiro, escolher o título, depois gravar",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele afundou o mapa inteiro de Subnautica 10 mil metros (P13, a mais fraca; reserva Zelda pronta)",
-   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO; 3 títulos do Anzol no roteiro)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar ou vetar pauta e roteiro",
+   "falta_murilo": "aprovar ou vetar pauta e roteiro, escolher o título",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela (P14)",
-   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO; 3 títulos do Anzol no roteiro)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "falta_murilo": "aprovar pauta e roteiro, escolher o título, depois gravar",
    "prazo": ""
   },
   {
@@ -255,5 +255,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T01:52-03:00"
+ "gerado_em": "2026-10-04T03:28-03:00"
 }
