@@ -69,6 +69,18 @@
  ],
  "backlog": [
   {
+   "id": "P16",
+   "titulo": "Colocaram o Mario 64 rodando num Super Nintendo de verdade",
+   "rodada": "Rodada 04/10/2026 (Sonar): fontes de origem do viral (Reddit, Bilibili, engenharia geek)",
+   "gancho": "Colocaram o Mario 64 rodando num Super Nintendo de verdade\" (alternativa: \"Esse cara fez o Mario 64 rodar no Super Nintendo e o chip que ele usou tem MARIO escrito\"). Abre pela franquia e pelo feito; o chip vai na premissa. Título final com o Anzol.",
+   "por_que_agora": "vídeo de 25/09/2026, 348 mil views em 9 dias, uns 13x a mediana do canal (27 mil). Imprensa gringa em 28/09 (Dexerto, Hackaday, Time Extension), continuação curta em 01/10 (20,9 mil) e o espanhol já fez (La Mezcladora Gamer, 28,9 mil, 28/09). Janela de dias: é o tipo de pauta que a Locomotiva pega (fez 1,2 mi com \"Refizeram Super Mario World em 3D!\" e ocupou o Minecraft no Elden Ring em 2 dias).",
+   "formato": "Short 60-90s",
+   "concorrencia": "LIVRE em vídeo (6 buscas em 04/10: \"mario 64 super nintendo\", \"mario 64 snes\", \"super mario fx\", \"mario 64 rodando no snes\", \"fizeram mario 64 no super nintendo\", \"mario 64 chip super fx\"; zero PT-BR sobre o projeto). O vídeo BR \"A cena de ports nativos enlouqueceu\" (Allves Games, 35,8 mil, 02/10) cobre Halo no 3DS e outros, não este. Em texto, o Critical Hits deu matéria. Demanda do molde no BR: \"Um cara zerou Super Mario 64 sem pular\" (Locomotiva) 7,4 mi.",
+   "status": "livre",
+   "frente": "2 (outros jogos)",
+   "pendente": ""
+  },
+  {
    "id": "P15",
    "titulo": "Colocaram o Minecraft de verdade dentro do Skyrim (e não é montagem)",
    "rodada": "Pauta avulsa 04/10/2026 (Sonar): trazida pelo Murilo, FAST-TRACK",
@@ -316,5 +328,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T14:45-03:00"
+ "gerado_em": "2026-10-04T15:05-03:00"
 }
