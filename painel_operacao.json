@@ -20,6 +20,10 @@
   {
    "nome": "Âncora",
    "funcao": "Vitrine"
+  },
+  {
+   "nome": "Leme",
+   "funcao": "Publicação MP2"
   }
  ],
  "backlog": [
@@ -271,5 +275,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T13:37-03:00"
+ "gerado_em": "2026-10-04T13:56-03:00"
 }
