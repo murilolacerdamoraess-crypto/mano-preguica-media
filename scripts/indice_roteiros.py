@@ -40,6 +40,7 @@ for arq in sorted(glob.glob(os.path.join(CEREBRO, "*.md"))):
         "publicado_em": fm.get("publicado_em") or None,
         "formato": fm.get("formato") or None,
         "motor": fm.get("motor") or None,
+        "versao": fm.get("versao") or None,   # sobe a cada reescrita depois de um "pedir mudança" (04/10)
     })
 
 json.dump({"gerado_em": datetime.datetime.utcnow().isoformat() + "Z", "roteiros": itens},

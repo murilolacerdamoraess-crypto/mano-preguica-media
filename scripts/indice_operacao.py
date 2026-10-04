@@ -165,7 +165,8 @@ def main():
                 if mm:
                     c[mm.group(1).strip().lower()] = mm.group(2).strip()
             regras.append({"id": m.group(1), "titulo": m.group(2).strip(), "onde": c.get("onde entra", ""),
-                           "confianca": c.get("confiança", c.get("confianca", "")), "status": c.get("status", "aguardando")})
+                           "confianca": c.get("confiança", c.get("confianca", "")), "status": c.get("status", "aguardando"),
+                           "simples": c.get("em palavras simples", "")})
     op = {
         "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
         "regras": regras,
