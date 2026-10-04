@@ -1,5 +1,6 @@
 {
  "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
+ "regras": [],
  "equipe": [
   {
    "nome": "Sonar",
@@ -24,6 +25,10 @@
   {
    "nome": "Leme",
    "funcao": "Publicação MP2"
+  },
+  {
+   "nome": "Sextante",
+   "funcao": "Análise"
   }
  ],
  "backlog": [
@@ -275,5 +280,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T13:56-03:00"
+ "gerado_em": "2026-10-04T14:27-03:00"
 }
