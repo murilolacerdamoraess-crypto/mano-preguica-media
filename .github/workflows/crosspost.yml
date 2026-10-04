@@ -58,10 +58,12 @@ jobs:
           # cotas vao a ZERO pra o robo parar de tentar e de disparar alerta falso no Telegram.
           # IG/FB voltam pela Graph API oficial (gratis, OAuth ja conectado no painel).
           # TikTok segue no Metricool gratis (20 posts/mes), como desde 09/08.
-          DAILY_FB: '0'
-          FB_WEEKDAY: '2'
+          # 04/10/2026: ligado pela API da Meta. So o disparo das 21h30 BRT posta (o das 9h tem cota 0).
+          # IG 1/dia; FB 1/semana na quarta a noite (o runner esta em UTC: 00h30 de quinta = 3).
+          DAILY_FB: "${{ github.event.schedule == '30 0 * * *' && '1' || '0' }}"
+          FB_WEEKDAY: '3'
           DAILY_TT: '0'
-          DAILY_IG: '0'
+          DAILY_IG: "${{ github.event.schedule == '30 0 * * *' && '1' || '0' }}"
           # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
           IG_START: '2026-08-17'   # último IG do Metricool = 16/08
@@ -80,10 +82,10 @@ jobs:
         env:
           START_DATE: '2026-07-15'
           MONTH_CAP: '93'
-          DAILY_FB: '0'
-          FB_WEEKDAY: '2'
+          DAILY_FB: '1'
+          FB_WEEKDAY: '3'
           DAILY_TT: '0'
-          DAILY_IG: '0'
+          DAILY_IG: '1'
           TT_START: '2026-08-02'
           IG_START: '2026-08-17'
           TMP_DIR: /tmp/xp
