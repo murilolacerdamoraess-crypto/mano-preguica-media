@@ -4,42 +4,42 @@
   {
    "id": "R1",
    "titulo": "Short nunca é publicado como corte do longo: o trecho do longo vira roteiro de Short escrito (gancho, virada, fim no payoff) e é regravado.",
-   "onde": "role Shorts (Arpão) + nota cortes-shorts-do-longo + role Edição",
+   "onde": "instruções do agente de Shorts, do agente de Edição e o método de tirar Shorts de um longo",
    "confianca": "forte",
-   "status": "aguardando",
-   "simples": ""
+   "status": "aplicada 2026-10-04 (instruções dos agentes de Shorts e Edição e método de cortes)",
+   "simples": "Quando um Short sair de um vídeo longo, a gente não recorta o pedaço e posta; escreve um roteiro novo de Short contando aquela parte e você grava de novo. Os 15 recortes que postamos este ano ficaram todos bem abaixo do normal, como os 3 do Alien."
   },
   {
    "id": "R2",
    "titulo": "No longo, o herói é o achado (o que tem lá, o que está escondido, dá pra chegar), nunca o jogador contra o bicho (matar, atirar, enfrentar); trocar o exemplo da cartilha 1.9.",
-   "onde": "cartilha-anzol regra 1.9 + role Longos (Farol)",
-   "confianca": "forte",
-   "status": "aguardando",
-   "simples": ""
+   "onde": "cartilha de título e instruções do agente de vídeos longos",
+   "confianca": "forte só pra Subnautica",
+   "status": "reprovada 2026-10-04",
+   "simples": "Nos longos de Subnautica, os vídeos sobre achar um lugar ou uma coisa escondida renderam 3 vezes mais do que os de tentar matar um bicho."
   },
   {
    "id": "R3",
    "titulo": "Enquanto a saída de Subnautica é testada, no máximo 1 Short em cada 3 é de outro jogo, e só de jogo ou console que o público tem ou conhece em massa (molde Nintendo); os outros são criatura ou lore de Subnautica.",
-   "onde": "role Shorts (Arpão) + role Descoberta (Sonar) + skill shorts-roteirista (seção Escopo)",
+   "onde": "instruções dos agentes de Shorts e de pautas",
    "confianca": "forte",
-   "status": "aguardando",
-   "simples": ""
+   "status": "reprovada 2026-10-04",
+   "simples": "Limitar os Shorts de outros jogos a 1 em cada 3, porque em agosto e setembro eles renderam 5 vezes menos que os de Subnautica."
   },
   {
    "id": "R4",
    "titulo": "O fim do Short é o payoff: sai o \"comenta aqui embaixo / me segue / salva na wishlist\", e o item 6 da Fórmula única de voz é apagado da skill.",
-   "onde": "skill shorts-roteirista (Fórmula única de voz, item 6, de 11/08)",
-   "confianca": "forte no efeito na curva; fraca em views (Segredo de 12 anos e Nintendo estouraram com pedido)",
-   "status": "aguardando",
-   "simples": ""
+   "onde": "instruções de escrita de roteiro de Short (a skill de roteiro)",
+   "confianca": "forte no efeito na retenção; fraca em views (Segredo de 12 anos e Nintendo estouraram com pedido)",
+   "status": "aplicada 2026-10-04 (skill shorts-roteirista: fecho-padrão e engajamento duplo revogados, item 6 da Fórmula única reescrito; feito pelo Maestro, a edição do Sextante foi bloqueada por permissão)",
+   "simples": "O Short termina na revelação ou na sua reação, sem \"comenta aqui embaixo e me segue\". Quando tem esse pedido no fim, metade de quem ainda estava assistindo sai antes do vídeo acabar."
   },
   {
    "id": "R5",
-   "titulo": "Reaper e Gargantuan não estão queimados: o ângulo repetido é que queima; ícone de Subnautica 1 com dimensão física nova (tamanho, susto, som) é prioridade, e vai pro TikTok primeiro.",
-   "onde": "role Shorts (regra \"Void e Reaper ultra-queimados\") + ledger-conteudos (dedup) + role Publicação (ordem do TikTok)",
+   "titulo": "Pode voltar a fazer Short do Reaper e do Gargantuan, desde que cada um mostre algo que ainda não mostramos sobre eles; esses vão primeiro pro TikTok.",
+   "onde": "instruções do agente de Shorts (hoje diz \"Void e Reaper ultra-queimados\"), lista de vídeos já feitos e ordem de postagem no TikTok",
    "confianca": "forte",
    "status": "aguardando",
-   "simples": ""
+   "simples": "Hoje a regra proíbe Short do Reaper por \"já ter sido usado demais\", mas os 3 vídeos que mais explodiram no TikTok em agosto e setembro foram do Reaper e do Gargantuan mostrando algo novo (o tamanho real dele, o pior susto, o som que ele faz no escuro). Com a regra nova, pode fazer Short deles sempre que mostrar algo que ainda não mostramos, e só fica proibido repetir o mesmo assunto, como fazer de novo \"o nome de cada Reaper\"."
   }
  ],
  "equipe": [
@@ -345,5 +345,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T20:26-03:00"
+ "gerado_em": "2026-10-04T20:34-03:00"
 }
