@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03T21:57:11.075801Z",
+ "gerado_em": "2026-10-04T06:22:33.227988Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -171,9 +171,9 @@
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
-   "name": "SHORT - Essa luva do Homem-Aranha não gruda em nada e segura um homem pendurado num prédio",
+   "name": "SHORT - Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
    "titulo_roteiro": "SHORT: a luva do Homem-Aranha que não gruda em nada",
-   "description": "Short de 120 a 130s (P11 do Backlog, rodada Sonar 03/10). O Jake (JLaservideo) copiou o pé da lagartixa numa placa que não gruda em nada, só segura puxando pra baixo; penou até uma versão que nem está à venda, uma mão pa",
+   "description": "Short de 120 a 130s (P11 do Backlog, rodada Sonar 03/10; v2 do gancho em 04/10). O Jake (JLaservideo) copiou o pé da lagartixa numa placa que não gruda em nada, só segura puxando pra baixo; penou até uma versão que nem e",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
    "video_id": null,
