@@ -1,155 +1,135 @@
 #!/usr/bin/env python3
 """
-MÉTRICAS REAIS via PostProxy (substitui o Metricool).
+MÉTRICAS REAIS do Instagram e do Facebook pela API oficial da Meta (04/10/2026).
 
-A MESMA API que posta, mede: GET /api/posts/stats?post_ids=... devolve, por rede,
-impressions/likes/comments/shares (TikTok), +saved/profile_visits/follows (IG),
-+clicks (FB). Sem sessão viva, sem navegador, sem Metricool.
+Substitui o /stats do PostProxy (assinatura cancelada em 12/09, a API respondia 403 e o
+metrics.json ficava vazio). O painel guarda o token da Meta; esta rotina chama
+POST /api/meta/publicar {acao: "metricas"} e recebe os posts recentes da conta com os números.
 
-O que faz:
-  1. varre o ledger e coleta os post_id que são HASHID do PostProxy
-     (ignora legado 'metricool-*' e ids nativos de plataforma — o /stats não os aceita);
-  2. bate no /stats em lotes de 50, pega o snapshot MAIS RECENTE por plataforma;
-  3. grava metrics.json {vid: {title, yt_views, <net>: {impressions, likes, ...}}};
-  4. (opcional) manda no Telegram o ranking dos campeões por rede.
+Como casa post com vídeo do YouTube:
+  1. pelo post_id gravado no ledger (posts feitos pela API da Meta, desde 04/10);
+  2. pela legenda: o crosspost sempre começa a legenda com o título do vídeo (posts antigos,
+     feitos pelo PostProxy, cujo id nativo não ficou salvo).
+
+Grava metrics.json {vid: {title, yt_views, instagram: {...}, facebook: {...}}}. A chave
+"impressions" guarda as visualizações (plays) de cada rede, que é o que o dashboard e o
+scanner leem; "reach" fica ao lado. Se a Meta falhar, NÃO sobrescreve o metrics.json anterior.
 
 Uso:
-  POSTPROXY_KEY=... python metrics.py           -> atualiza metrics.json
-  POSTPROXY_KEY=... python metrics.py --report   -> + manda ranking no Telegram
+  PAINEL_TOKEN=... python metrics.py           -> atualiza metrics.json
+  PAINEL_TOKEN=... python metrics.py --report   -> + manda ranking no Telegram
 """
-import os, sys, json, re, urllib.parse, urllib.request
+import os, sys, json, re, unicodedata, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from crosspost import LEDGER, PROFILES  # noqa: E402  (raiz do ledger + redes que usamos)
+from crosspost import LEDGER  # noqa: E402
 
-PP_KEY   = os.environ.get("POSTPROXY_KEY", "")
-TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-TG_CHAT  = os.environ.get("TELEGRAM_CHAT_ID", "")
-OUT      = os.path.join(os.path.dirname(LEDGER), "metrics.json")
-API      = "https://api.postproxy.dev/api/posts/stats"
+PAINEL    = os.environ.get("PAINEL_URL", "https://canal-agente-geer.vercel.app").rstrip("/")
+PAINEL_TK = os.environ.get("PAINEL_TOKEN", "")
+TG_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TG_CHAT   = os.environ.get("TELEGRAM_CHAT_ID", "")
+OUT       = os.path.join(os.path.dirname(LEDGER), "metrics.json")
 
 
 def log(*a): print(*a, flush=True)
 
 
-def eh_hashid(pid):
-    """True se parece um hashid do PostProxy (6-9 alfanumérico). Descarta legado e ids nativos."""
-    if not pid or pid.startswith("metricool-"):
-        return False
-    return bool(re.fullmatch(r"[A-Za-z0-9]{6,9}", pid)) and not (pid.isdigit() and len(pid) > 12)
+def norm(t):
+    t = unicodedata.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
+    t = re.sub(r"#\w+", " ", t)
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
 
 
-def coletar_ids(led):
-    """{hashid: (vid, net)} de todos os posts com hashid do PostProxy."""
-    idx = {}
-    for vid, v in led["videos"].items():
-        for net in PROFILES:
-            p = v["posted"].get(net, {})
-            pid = p.get("post_id")
-            if p.get("done") and eh_hashid(pid):
-                idx[pid] = (vid, net)
-    return idx
+def buscar():
+    if not PAINEL_TK:
+        log("metrics: sem PAINEL_TOKEN (rode com o secret)."); return None
+    body = json.dumps({"t": PAINEL_TK, "acao": "metricas", "limite": 100}).encode()
+    req = urllib.request.Request(f"{PAINEL}/api/meta/publicar", data=body,
+            headers={"Content-Type": "application/json", "User-Agent": "crosspost-bot"})
+    try:
+        d = json.load(urllib.request.urlopen(req, timeout=90))
+    except Exception as e:
+        log(f"metrics: painel falhou: {e}"); return None
+    if d.get("erro"):
+        log(f"metrics: painel respondeu erro: {d['erro']}"); return None
+    return d
 
 
-def _stats_do_post(obj):
-    """Extrai o snapshot mais recente por plataforma de um objeto de post do /stats.
-    Tolerante ao shape: obj pode ter 'platforms':[{platform, records:[{stats, recorded_at}]}]."""
-    saida = {}
-    plats = obj.get("platforms") if isinstance(obj, dict) else None
-    for pl in (plats or []):
-        rede = (pl.get("platform") or "").lower()
-        recs = pl.get("records") or []
-        if not recs:
-            continue
-        # snapshot mais recente (records vêm ascendentes por recorded_at)
-        ultimo = sorted(recs, key=lambda r: r.get("recorded_at") or "")[-1]
-        st = dict(ultimo.get("stats") or {})
-        st["recorded_at"] = ultimo.get("recorded_at")
-        saida[rede] = st
-    return saida
+def casar(led, post, net, por_id, titulos, por_data=None):
+    vid = por_id.get((net, str(post["id"])))
+    if vid: return vid
+    leg = norm(post.get("legenda", ""))
+    if not leg:
+        # Reels do FB feitos pelo PostProxy voltam sem legenda: casa pela data, se o robô postou
+        # um só vídeo na rede naquele dia (data UTC da Meta ou a do dia anterior, fuso BRT).
+        dia = (post.get("data") or "")[:10]
+        cands = (por_data or {}).get((net, dia), [])
+        return cands[0] if len(cands) == 1 else None
+    for t, v in titulos:                    # título mais longo primeiro (evita casar um prefixo curto)
+        if t and leg.startswith(t): return v
+    return None
 
 
-def buscar(ids):
-    """Chama o /stats em lotes de 50 e devolve {hashid: {rede_plataforma: stats}}."""
-    if not PP_KEY:
-        log("metrics: sem POSTPROXY_KEY (rode com o secret)."); return {}
-    todos = {}
-    lote = list(ids)
-    for i in range(0, len(lote), 50):
-        q = urllib.parse.urlencode({"post_ids": ",".join(lote[i:i + 50])})
-        req = urllib.request.Request(f"{API}?{q}", headers={"Authorization": f"Bearer {PP_KEY}"})
-        try:
-            d = json.load(urllib.request.urlopen(req, timeout=40))
-        except Exception as e:
-            log(f"metrics: lote {i//50} falhou: {e}"); continue
-        data = d.get("data", d)            # aceita {"data": {...}} ou {...}
-        if isinstance(data, list):         # ou [{"id"/"post_id":..., "platforms":...}]
-            data = {(x.get("id") or x.get("post_id")): x for x in data}
-        for hid, obj in (data or {}).items():
-            s = _stats_do_post(obj)
-            if s:
-                todos[hid] = s
-    return todos
-
-
-# nome da plataforma no /stats -> nossa chave de rede
-PLAT2NET = {"tiktok": "tiktok", "instagram": "instagram", "facebook": "facebook"}
-
-
-def montar(led, idx, stats):
-    """Cruza stats (por hashid) de volta pro vídeo. Grava metrics.json."""
-    out = {}
-    for hid, por_plat in stats.items():
-        vid, net = idx.get(hid, (None, None))
-        if not vid:
-            continue
-        v = led["videos"].get(vid, {})
-        row = out.setdefault(vid, {"title": v.get("title", ""), "yt_views": v.get("views", 0)})
-        for plat, st in por_plat.items():
-            row[PLAT2NET.get(plat, plat)] = st
+def montar(led, d):
+    vids = led["videos"]
+    por_id = {(n, str(v["posted"][n].get("post_id"))): k for k, v in vids.items()
+              for n in ("instagram", "facebook") if v["posted"].get(n, {}).get("post_id")}
+    titulos = sorted(((norm(v.get("title", "")), k) for k, v in vids.items()), key=lambda x: -len(x[0]))
+    import datetime
+    por_data = {}
+    for k, v in vids.items():
+        for n in ("instagram", "facebook"):
+            pd = v["posted"].get(n, {})
+            if pd.get("done") and pd.get("date"):
+                d0 = datetime.date.fromisoformat(pd["date"][:10])
+                for dd in (d0, d0 + datetime.timedelta(days=1)):   # agendado à noite BRT = dia seguinte UTC
+                    por_data.setdefault((n, dd.isoformat()), []).append(k)
+    out, sem = {}, 0
+    for net, chave in (("instagram", "ig"), ("facebook", "fb")):
+        for p in d.get(chave, []):
+            vid = casar(led, p, net, por_id, titulos, por_data)
+            if not vid: sem += 1; continue
+            v = vids[vid]
+            row = out.setdefault(vid, {"title": v.get("title", ""), "yt_views": v.get("views", 0)})
+            st = {"impressions": int(p.get("views") or 0), "link": p.get("link", ""), "data": p.get("data", "")}
+            if net == "instagram":
+                st.update({k: int(p.get(k) or 0) for k in ("reach", "likes", "comments", "shares", "saved")})
+            else:
+                st["reach"] = int(p.get("impressions") or 0)
+            # o mesmo vídeo postado 2x na rede: fica o de mais views
+            if st["impressions"] >= (row.get(net) or {}).get("impressions", -1):
+                row[net] = st
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
+    log(f"metrics: {len(out)} vídeos com métricas; {sem} posts sem vídeo correspondente no ledger.")
     return out
 
 
-def views_da_rede(row, net):
-    """Métrica de alcance por rede (impressions), com fallbacks."""
-    st = row.get(net) or {}
-    for k in ("impressions", "reach", "video_views", "views"):
-        if isinstance(st.get(k), (int, float)):
-            return int(st[k])
-    return 0
-
-
 def relatorio(out):
-    linhas = ["📊 *Desempenho real (PostProxy)*"]
-    for net, rot in (("tiktok", "TikTok"), ("instagram", "Instagram"), ("facebook", "Facebook")):
-        rank = sorted(((views_da_rede(r, net), r) for r in out.values() if net in r), reverse=True)
+    linhas = ["📊 *Desempenho real (Meta)*"]
+    for net, rot in (("instagram", "Instagram"), ("facebook", "Facebook")):
+        rank = sorted(((r[net]["impressions"], r) for r in out.values() if net in r), key=lambda x: -x[0])
         rank = [x for x in rank if x[0] > 0][:5]
-        if not rank:
-            continue
-        linhas.append(f"\n*{rot}* (top {len(rank)} por impressões)")
+        if not rank: continue
+        linhas.append(f"\n*{rot}* (top {len(rank)} por views)")
         for imp, r in rank:
             st = r[net]
-            eng = int(st.get("likes", 0)) + int(st.get("comments", 0)) + int(st.get("shares", 0))
-            linhas.append(f"  {imp:,} imp · {eng} eng — {r['title'][:40]}".replace(",", "."))
+            eng = st.get("likes", 0) + st.get("comments", 0) + st.get("shares", 0)
+            linhas.append(f"  {imp:,} views · {eng} eng · {r['title'][:40]}".replace(",", "."))
     msg = "\n".join(linhas)
     if TG_TOKEN and TG_CHAT:
         data = urllib.parse.urlencode({"chat_id": TG_CHAT, "text": msg, "parse_mode": "Markdown"}).encode()
-        try:
-            urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=data)
-        except Exception as e:
-            log("metrics: telegram falhou:", e)
+        try: urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=data)
+        except Exception as e: log("metrics: telegram falhou:", e)
     return msg
 
 
 def main():
-    led = json.load(open(LEDGER))
-    idx = coletar_ids(led)
-    log(f"metrics: {len(idx)} posts com hashid PostProxy no ledger.")
-    stats = buscar(idx)
-    out = montar(led, idx, stats)
-    log(f"metrics: {len(out)} vídeos com métricas -> {OUT}")
+    d = buscar()
+    if d is None:
+        log("metrics: mantendo o metrics.json anterior."); return
+    log(f"metrics: Meta devolveu {len(d.get('ig', []))} posts do IG e {len(d.get('fb', []))} vídeos do FB.")
+    out = montar(json.load(open(LEDGER)), d)
     if "--report" in sys.argv:
         print(relatorio(out))
 
