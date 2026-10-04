@@ -5,6 +5,7 @@ on:
   # Aqui ficam so IG + FB (gratis, presenca). DAILY_TT=0 corta o TikTok. Repost automatico tambem off.
   schedule:
     - cron: '0 12 * * *'   # DIARIO 12h UTC = 9h BRT (so dispara; publica a noite)
+    - cron: '30 0 * * *'   # 04/10: 21h30 BRT, publicacao IG/FB pela API da Meta (publica na hora)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -40,6 +41,9 @@ jobs:
           ONLY_NET: ${{ inputs.only_net || '' }}
           SCHEDULE_AT: ${{ inputs.schedule_at || '' }}
           POSTPROXY_KEY: ${{ secrets.POSTPROXY_KEY }}
+          # 04/10/2026: IG/FB pela API da Meta via painel. So o disparo das 21h30 (e o manual) publica.
+          META_PUBLICAR: ${{ (github.event.schedule == '30 0 * * *' || github.event_name == 'workflow_dispatch') && '1' || '0' }}
+          PAINEL_TOKEN: ${{ secrets.PAINEL_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

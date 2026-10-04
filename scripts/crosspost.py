@@ -24,6 +24,11 @@ import os, sys, json, re, subprocess, urllib.request, urllib.error, urllib.parse
 
 DRY        = os.environ.get("DRY_RUN", "1") == "1"
 PP_KEY     = os.environ.get("POSTPROXY_KEY", "")
+# 04/10/2026: IG e FB saem pela API oficial da Meta, via rota do painel (/api/meta/publicar),
+# que guarda o token da página. META=1 liga esse caminho no lugar do PostProxy (cancelado 12/09).
+META       = os.environ.get("META_PUBLICAR", "0") == "1"
+PAINEL     = os.environ.get("PAINEL_URL", "https://canal-agente-geer.vercel.app").rstrip("/")
+PAINEL_TK  = os.environ.get("PAINEL_TOKEN", "")
 YT_KEY     = os.environ.get("YOUTUBE_API_KEY", "")
 TG_TOKEN   = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT    = os.environ.get("TELEGRAM_CHAT_ID", "")
@@ -341,6 +346,29 @@ def record_schedule(vid, net, title, scheduled_at):
     sched.append({"vid": vid, "net": net, "title": title, "scheduled_at": scheduled_at})
     json.dump(sched, open(path, "w"), ensure_ascii=False, indent=1)
 
+def meta_call(acao, **kw):
+    body = json.dumps({"t": PAINEL_TK, "acao": acao, **kw}).encode()
+    req = urllib.request.Request(f"{PAINEL}/api/meta/publicar", data=body,
+            headers={"Content-Type": "application/json", **UA})
+    try:
+        return json.load(urllib.request.urlopen(req, timeout=120))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"painel {acao}: {e.code} {e.read().decode()[:300]}")
+
+def meta_post(net, url, text):
+    """Publica AGORA (a API da Meta não agenda Reels): devolve (id, link)."""
+    if net == "facebook":
+        d = meta_call("fb_video", video_url=url, legenda=text)
+        return d["video_id"], f"https://facebook.com/watch/?v={d['video_id']}"
+    c = meta_call("ig_criar", video_url=url, legenda=text)["container_id"]
+    for _ in range(40):                      # o IG processa o vídeo antes de deixar publicar
+        st = meta_call("ig_status", container_id=c).get("status_code")
+        if st == "FINISHED": break
+        if st in ("ERROR", "EXPIRED"): raise RuntimeError(f"IG recusou o vídeo ({st})")
+        time.sleep(15)
+    d = meta_call("ig_publicar", container_id=c)
+    return d["media_id"], d.get("link", "")
+
 def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
     v = led["videos"][vid]
     url = hosted_url(vid)
@@ -348,6 +376,13 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
         log(f"{tag} {vid}: ainda não hospedado (rodar prehost no Mac antes)"); return False
     if DRY:
         log(f"[DRY] {tag} {net:9} <- {vid} | {v['title'][:46]} | quando={scheduled_at or 'agora'}"); return True
+    if META and net in ("instagram", "facebook"):
+        pid, link = meta_post(net, url, caption(v)); cleanup(vid)
+        v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
+        json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
+        telegram(f"✅ Postei no {NET_PT.get(net, net)}: {v['title'][:60]}\n{link}".strip())
+        log(f"OK {tag} {net} <- {vid} (meta {pid}) {link}")
+        return True
     r = pp_post(net, url, caption(v), scheduled_at, v=v); pid = r.get("id")
     pp_wait_ingest(pid); cleanup(vid)
     v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": ""}
