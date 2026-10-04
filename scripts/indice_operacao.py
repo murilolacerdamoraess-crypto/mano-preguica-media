@@ -152,8 +152,23 @@ def main():
         notas[chave] = itens_backlog(texto) if chave == "backlog" else itens_linhas(texto)
     saida = os.path.join(REPO, "painel_operacao.json")
     anterior = json.load(open(saida, encoding="utf-8")).get("equipe", []) if os.path.exists(saida) else []
+    regras = []
+    arq_r = os.path.join(CEREBRO, "conhecimentos", "propostas-de-regra.md")
+    if os.path.exists(arq_r):
+        for b in re.split(r"\n(?=### )", open(arq_r, encoding="utf-8").read()):
+            m = re.match(r"### (R\d+)\.\s*(.+)", b)
+            if not m:
+                continue
+            c = {}
+            for l in b.splitlines()[1:]:
+                mm = re.match(r"^- ([^:]{2,30}):\s*(.+)$", l.strip())
+                if mm:
+                    c[mm.group(1).strip().lower()] = mm.group(2).strip()
+            regras.append({"id": m.group(1), "titulo": m.group(2).strip(), "onde": c.get("onde entra", ""),
+                           "confianca": c.get("confiança", c.get("confianca", "")), "status": c.get("status", "aguardando")})
     op = {
         "_doc": "Gerado por scripts/indice_operacao.py a partir dos quadros do Maestri. Não editar.",
+        "regras": regras,
         "equipe": equipe(anterior),
         **notas,
     }
@@ -276,7 +291,8 @@ def enviar_documentos():
         alvos.append(("roteiro:" + os.path.basename(arq), "roteiro", arq))
     for arq in sorted(glob_md(QUADRO_DIR)):
         alvos.append(("quadro:" + os.path.basename(arq)[:-3], "quadro", arq))
-    for nome, tipo in (("conhecimentos/rematch-24h.md", "jornada"), ("tese-do-painel.md", "regra"),
+    for nome, tipo in (("conhecimentos/propostas-de-regra.md", "regra"), ("conhecimentos/livro-de-licoes.md", "regra"),
+                       ("conhecimentos/rematch-24h.md", "jornada"), ("tese-do-painel.md", "regra"),
                        ("conhecimentos/cartilha-anzol.md", "regra")):
         arq = os.path.join(CEREBRO, nome)
         if os.path.exists(arq):
