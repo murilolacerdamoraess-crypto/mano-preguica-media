@@ -214,6 +214,38 @@
    "prazo": ""
   },
   {
+   "tipo": "Short",
+   "titulo": "Essa luva do Homem-Aranha não gruda em nada e segura um homem pendurado num prédio (P11)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele zerou Subnautica sem comer nada e o segredo estava numa cadeira (P12)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele afundou o mapa inteiro de Subnautica 10 mil metros (P13, a mais fraca; reserva Zelda pronta)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar ou vetar pauta e roteiro",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela (P14)",
+   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO)",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar pauta e roteiro, depois gravar",
+   "prazo": ""
+  },
+  {
    "tipo": "Longo",
    "titulo": "Rematch Egoísto: 24h pra virar o egoísta perfeito do Blue Lock (minissérie em 5 atos)",
    "etapa": "roteiro (aguardando aprovação: 5 atos escritos com as sessões 1 a 4 conferidas na tela e no áudio, portão de fontes APROVADO; P8 a P12 respondidas em 03/10; falta o passe fechar)",
@@ -223,5 +255,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-03T18:57-03:00"
+ "gerado_em": "2026-10-04T01:52-03:00"
 }
