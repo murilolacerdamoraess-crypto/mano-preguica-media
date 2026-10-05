@@ -546,7 +546,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
-   "etapa": "roteiro reescrito no seu jeito de contar (versão 3: narração corrida, a parte do desafio no texto que você mandou; fontes conferidas)",
+   "etapa": "roteiro (versão 4 pra aprovar: a profundidade da mensagem corrigida pelo número que aparece na tela, 10.115 m e não 10.080; o resto igual à versão 3)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -602,5 +602,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-05T20:10-03:00"
+ "gerado_em": "2026-10-05T20:13-03:00"
 }
