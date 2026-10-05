@@ -340,9 +340,82 @@ def escreve(caminho, dado, agora):
     json.dump(dado, open(caminho, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
+# ---------- vídeos prontos pra assistir no painel (pedido do Murilo, 05/10/2026) ----------
+# "seria legal ter uma parte no canal onde eu pudesse assistir os vídeos que vão ficando prontos,
+# porque procurar esses arquivos nas pastas no Drive dá muito trabalho". O Drive do Mac guarda o
+# id de cada arquivo no atributo com.google.drivefs.item-id; com ele o painel toca o vídeo pelo
+# player do próprio Drive (drive.google.com/file/d/<id>/preview, ele está logado na conta).
+DRIVE = os.path.expanduser("~/Library/CloudStorage/GoogleDrive-manopreguicacontato@gmail.com/Meu Drive")
+PASTAS_VIDEO = [   # (pasta, canal, seção, quantos no máximo; 0 = todos)
+    ("VIDEOS/00 - PRONTOS PRA PUBLICAR", "Canal principal", "pra-publicar", 0),
+    ("Mano Preguica/MP2 - PRONTOS PRA SUBIR", "Mano Preguiça 2", "pra-publicar", 0),
+    ("Mano Preguica/MP2 - PRONTOS PRA SUBIR/versao 72s (TikTok, nao subir no YouTube)", "TikTok (versão 72 s)", "outras-versoes", 0),
+    ("VIDEOS/3 - Videos Curtos", "Canal principal", "publicados", 8),
+    ("VIDEOS/2 - Editados", "Canal principal", "publicados", 4),
+    ("Mano Preguica/MP2 - PRONTOS PRA SUBIR/publicados", "Mano Preguiça 2", "publicados", 6),
+]
+
+
+def drive_id(caminho):
+    try:
+        out = subprocess.run(["xattr", "-p", "com.google.drivefs.item-id#S", caminho],
+                             capture_output=True, text=True, timeout=10).stdout.strip()
+        return out or None
+    except Exception:
+        return None
+
+
+def videos_prontos():
+    import hashlib, urllib.request
+    itens = []
+    for rel, canal, secao, maximo in PASTAS_VIDEO:
+        pasta = os.path.join(DRIVE, rel)
+        if not os.path.isdir(pasta):
+            continue
+        arqs = [f for f in os.listdir(pasta) if f.lower().endswith((".mp4", ".mov", ".webm"))]
+        arqs.sort(key=lambda f: os.path.getmtime(os.path.join(pasta, f)), reverse=True)
+        if maximo:
+            arqs = arqs[:maximo]
+        for f in arqs:
+            cam = os.path.join(pasta, f)
+            fid = drive_id(cam)
+            if not fid:
+                continue
+            nome = os.path.splitext(f)[0]
+            aviso = ""
+            m = re.search(r"\(ANTES DE POSTAR,?\s*([^)]*)\)", nome, re.I)
+            if m:
+                aviso = m.group(1).strip(); nome = nome.replace(m.group(0), "").strip()
+            fmt = "Longo" if re.match(r"^LONGO\b", nome, re.I) else "Short"
+            titulo = re.sub(r"^(SHORT|LONGO)\s*-\s*", "", nome, flags=re.I)
+            itens.append({"id": fid, "titulo": titulo, "formato": fmt, "canal": canal, "secao": secao,
+                          "aviso": aviso, "pasta": rel,
+                          "data": dt.datetime.fromtimestamp(os.path.getmtime(cam)).strftime("%Y-%m-%d %H:%M"),
+                          "mb": round(os.path.getsize(cam) / 1e6, 1)})
+    corpo_meta = {"itens": itens}
+    h = hashlib.sha1(json.dumps(corpo_meta, sort_keys=True).encode()).hexdigest()
+    estado = os.path.expanduser("~/.canal-agente/videos-hash.txt")
+    try:
+        if open(estado).read().strip() == h:
+            return
+    except OSError:
+        pass
+    corpo = json.dumps({"t": TOKEN_DECIDIR, "docs": [{"chave": "videos:prontos", "tipo": "videos",
+                        "titulo": "Vídeos prontos", "markdown": "", "meta": corpo_meta}]}).encode()
+    try:
+        urllib.request.urlopen(urllib.request.Request(f"{PAINEL}/api/documentos", data=corpo,
+                               headers={"content-type": "application/json"}), timeout=30)
+        os.makedirs(os.path.dirname(estado), exist_ok=True)
+        open(estado, "w").write(h)
+        print(f"vídeos prontos: {len(itens)} enviados ao painel")
+    except Exception as e:
+        print("vídeos prontos: falhou o envio", e)
+
+
 if __name__ == "__main__":
     import sys
     main()
     copiar_decisoes()
     enviar_documentos()
+    videos_prontos()
     avisar_telegram(seco="--seco" in sys.argv)
