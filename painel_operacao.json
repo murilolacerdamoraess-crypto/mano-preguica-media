@@ -484,6 +484,15 @@
    "prazo": "23/10 (limite, fim do evento Blue Lock)"
   }
  ],
- "navegador": [],
- "gerado_em": "2026-10-05T08:52-03:00"
+ "navegador": [
+  {
+   "tipo": "05/10",
+   "titulo": "Steam Workshop do Mimic Party (appid 5053820, 11.047 pacotes): existe pacote de sons de Subnautica (buscar subnautica, leviathan, reaper)? Pedido do Sonar pra pauta P24. Quem tiver navegador (Leme), só leitura. Responder no Backlog P24.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  }
+ ],
+ "gerado_em": "2026-10-05T08:53-03:00"
 }
