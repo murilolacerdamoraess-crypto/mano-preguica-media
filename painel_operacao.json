@@ -74,6 +74,18 @@
  ],
  "backlog": [
   {
+   "id": "P23",
+   "titulo": "Como ele sobrevive no Subnautica a 10 km de profundidade: plantando coral que solta ar",
+   "rodada": "Pauta do Murilo 05/10/2026 (Sonar): segundo Short do desafio dos 10 mil metros",
+   "gancho": "Esse cara tá tentando zerar o Subnautica a 10 km de profundidade, e pra respirar ele vai plantando coral pelo caminho",
+   "por_que_agora": "mesmo vídeo de 20/09/2026 (487 mil views em 05/10); sair alguns dias depois do Short da mensagem, como continuação.",
+   "formato": "Short 60-90s (canal principal)",
+   "concorrencia": "LIVRE (mesma busca da pauta da mensagem; maior vídeo em português sobre 10 mil metros: 182 views)",
+   "status": "aprovada",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
    "id": "P18",
    "titulo": "O pote do Zelda que quebra no chão igual no jogo, e monta de novo",
    "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
@@ -413,5 +425,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T00:20-03:00"
+ "gerado_em": "2026-10-05T00:23-03:00"
 }
