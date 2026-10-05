@@ -86,6 +86,66 @@
  ],
  "backlog": [
   {
+   "id": "P26",
+   "titulo": "Em Subnautica 2 os aliens sequestraram um sobrevivente e, depois que ele morreu, deram água pra ele",
+   "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
+   "gancho": "Em Subnautica 2 os aliens sequestraram um cara e depois que ele morreu deram água pra ele",
+   "por_que_agora": "Subnautica 2 segue em alta e a próxima grande atualização (região do Collector Leviathan) vem ainda este ano; lore de Subnautica 2 é o oceano azul do canal.",
+   "formato": "Short 60-90s (pode ser satélite do longo dos colonos, a P8)",
+   "concorrencia": "LIVRE (só guias em inglês de onde achar o registro; nada em português sobre a história)",
+   "status": "livre",
+   "frente": "1 (Subnautica 2, lore)",
+   "pendente": ""
+  },
+  {
+   "id": "P27",
+   "titulo": "Pegaram uma inteligência artificial colando no StarCraft: ela roubou o bot de um humano pra ganhar",
+   "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
+   "gancho": "Pegaram uma IA colando no StarCraft: ela roubou o bot de um humano pra conseguir ganhar",
+   "por_que_agora": "02/10 (o post do criador do torneio) e PC Gamer em 04/10. Janela de dias.",
+   "formato": "Short 60-90s",
+   "concorrencia": "LIVRE (nada em português; só 3 vídeos de notícia com 0 a 16 views)",
+   "status": "livre",
+   "frente": "2 (outros jogos)",
+   "pendente": ""
+  },
+  {
+   "id": "P28",
+   "titulo": "Ele comprou um processador usado e tomou ban no Valorant por causa do dono anterior",
+   "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
+   "gancho": "Se você comprar um processador usado, ele pode vir com o ban do Valorant do dono anterior",
+   "por_que_agora": "PCWorld em 02/10, PC Gamer com a resposta da Riot logo depois. Janela de dias.",
+   "formato": "Short 60-90s",
+   "concorrencia": "LIVRE (só 1 vídeo em espanhol com 590 views)",
+   "status": "livre",
+   "frente": "2 (outros jogos)",
+   "pendente": ""
+  },
+  {
+   "id": "P29",
+   "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro: no começo ele era um africano criado por leão",
+   "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
+   "gancho": "O Blanka do Street Fighter nem era pra ser brasileiro: no começo ele era um africano criado por leão",
+   "por_que_agora": "o filme de Street Fighter estreia no Brasil em 15/10, com o Jason Momoa de Blanka. Janela até umas duas semanas depois da estreia.",
+   "formato": "Short 60-90s",
+   "concorrencia": "RASO (vídeos sobre a história do Blanka existem em português, o maior é de 2018 com 209 mil; não achei Short com a origem de antes de ele ser brasileiro)",
+   "status": "livre",
+   "frente": "2 (outros jogos)",
+   "pendente": ""
+  },
+  {
+   "id": "P30",
+   "titulo": "Um jogo publicou receita de drink com uma planta que pode matar e teve que pedir pros fãs não fazerem",
+   "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
+   "gancho": "Um jogo publicou receitas de drink com uma planta venenosa e teve que pedir pros fãs não fazerem",
+   "por_que_agora": "receitas em 28/09, aviso e matéria da IGN em 03/10.",
+   "formato": "Short 45-60s",
+   "concorrencia": "LIVRE (nada em português)",
+   "status": "livre",
+   "frente": "2 (outros jogos)",
+   "pendente": ""
+  },
+  {
    "id": "P23",
    "titulo": "Como ele sobrevive no Subnautica a 10 km de profundidade: plantando coral que solta ar",
    "rodada": "Pauta do Murilo 05/10/2026 (Sonar): segundo Short do desafio dos 10 mil metros",
@@ -494,5 +554,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-05T09:03-03:00"
+ "gerado_em": "2026-10-05T09:13-03:00"
 }
