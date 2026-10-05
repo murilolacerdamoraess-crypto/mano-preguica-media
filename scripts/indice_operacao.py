@@ -195,7 +195,7 @@ def copiar_decisoes():
     Fonte: GET /api/decidir/lista do painel. Só reescreve se mudou."""
     import urllib.request
     try:
-        bruto = urllib.request.urlopen("https://canal-agente-geer.vercel.app/api/decidir/lista", timeout=20).read()
+        bruto = urllib.request.urlopen(f"https://canal-agente-geer.vercel.app/api/decidir/lista?t={TOKEN_DECIDIR}", timeout=20).read()
         dec = json.loads(bruto).get("decisoes") or []
     except Exception:
         return
@@ -219,7 +219,14 @@ def copiar_decisoes():
 
 
 PAINEL = "https://canal-agente-geer.vercel.app"
-TOKEN_DECIDIR = os.environ.get("PAUTAS_TOKEN", "mp-pauta-2026-9f3a71")
+# A chave dos robôs NUNCA fica neste repositório (ele é público): mora em ~/.canal-agente/painel-token
+# no Mac e no secret PAINEL_TOKEN do GitHub. Trocada em 05/10/2026 depois que a antiga ficou exposta aqui.
+def _token():
+    try:
+        return open(os.path.expanduser("~/.canal-agente/painel-token")).read().strip()
+    except OSError:
+        return os.environ.get("PAINEL_TOKEN", "")
+TOKEN_DECIDIR = os.environ.get("PAINEL_TOKEN") or _token()
 AVISADOS = os.path.join(HOME, ".canal-agente", "telegram-avisados.json")
 
 
@@ -242,7 +249,7 @@ def avisar_telegram(seco=False):
     if not bot or not chat:
         return
     try:
-        d = json.loads(urllib.request.urlopen(f"{PAINEL}/api/decidir/pendentes", timeout=25).read())
+        d = json.loads(urllib.request.urlopen(f"{PAINEL}/api/decidir/pendentes?t={TOKEN_DECIDIR}", timeout=25).read())
     except Exception:
         return
     if d.get("tabela_ausente") and not seco:
