@@ -478,9 +478,9 @@
   {
    "tipo": "Longo",
    "titulo": "Rematch Egoísto",
-   "etapa": "roteiro aprovado em 05/10 (versão 3, com o tom de leitura de cada fala entre parênteses)",
+   "etapa": "roteiro aprovado em 05/10 (versão 3, com o tom de leitura de cada fala entre parênteses; títulos do Anzol prontos: 1) \"Tive 24 horas pra virar o egoísta do Blue Lock no Rematch\", o Anzol escolheria este; 2) \"Tentei virar o egoísta do Blue Lock e virei o camisa 10 | Rematch\"; 3) \"Montei um time pra virar o egoísta do Blue Lock no Rematch\")",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "gravar a voz e escolher 1 dos 3 títulos",
    "prazo": "23/10 (limite, fim do evento Blue Lock)"
   }
  ],
@@ -494,5 +494,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-05T08:53-03:00"
+ "gerado_em": "2026-10-05T09:03-03:00"
 }
