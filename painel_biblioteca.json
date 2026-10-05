@@ -1,8 +1,21 @@
 {
  "_doc": "Biblioteca de referência (biblioteca_referencia.py, repo canal-agente). Não editar.",
- "atualizado": "2026-09-30",
+ "atualizado": "2026-10-05",
  "metodo": "outlier = views / mediana do mesmo formato no canal; idade >= 7d; ultimos 60 uploads",
  "outliers": [
+  {
+   "canal": "iasserzin",
+   "handle": "iasserzin",
+   "grupo": "citado",
+   "formato": "short",
+   "id": "xdJBOgk-lKw",
+   "titulo": "Nesse jogo você DISPUTA com seus amigos e vê quem IMITA MELHOR! #curiosidades #games #partygames",
+   "views": 5069689,
+   "outlier": 167.6,
+   "publicado": "2026-09-03",
+   "thumb": "https://i.ytimg.com/vi/xdJBOgk-lKw/maxresdefault.jpg",
+   "mediana_canal": 30249
+  },
   {
    "canal": "LOUD Coringa",
    "handle": "loudcoringa",
@@ -10,11 +23,11 @@
    "formato": "short",
    "id": "eqLjqh6crgY",
    "titulo": "Fizeram uma paródia pro Bistecone! 🤣 #loudcoringa",
-   "views": 1524485,
-   "outlier": 62.85,
+   "views": 1537989,
+   "outlier": 63.49,
    "publicado": "2026-09-01",
    "thumb": "https://i.ytimg.com/vi/eqLjqh6crgY/maxresdefault.jpg",
-   "mediana_canal": 24254
+   "mediana_canal": 24225
   },
   {
    "canal": "LOUD Coringa",
@@ -23,24 +36,24 @@
    "formato": "short",
    "id": "ZroYUBIRQXc",
    "titulo": "VOU FAZER IMPLANTE CAPILAR! #loudcoringa",
-   "views": 979373,
-   "outlier": 40.38,
+   "views": 987091,
+   "outlier": 40.75,
    "publicado": "2026-09-03",
    "thumb": "https://i.ytimg.com/vi/ZroYUBIRQXc/maxresdefault.jpg",
-   "mediana_canal": 24254
+   "mediana_canal": 24225
   },
   {
-   "canal": "iasserzin",
-   "handle": "iasserzin",
-   "grupo": "citado",
+   "canal": "Sev7n Games OFICIAL",
+   "handle": "sev7ngames",
+   "grupo": "estudado",
    "formato": "short",
-   "id": "SzA-1cOk1mI",
-   "titulo": "Alguém lembra do Acampamento Yordle no LOL? #fy #leagueoflegends #wildrift",
-   "views": 857166,
-   "outlier": 27.82,
-   "publicado": "2026-06-16",
-   "thumb": "https://i.ytimg.com/vi/SzA-1cOk1mI/maxresdefault.jpg",
-   "mediana_canal": 30816
+   "id": "Lekzt-1Ukzs",
+   "titulo": "O jogo perfeito para passar vergonha com os amigos - Mimic Party",
+   "views": 20568928,
+   "outlier": 23.4,
+   "publicado": "2026-09-06",
+   "thumb": "https://i.ytimg.com/vi/Lekzt-1Ukzs/maxresdefault.jpg",
+   "mediana_canal": 879028
   },
   {
    "canal": "iasserzin",
@@ -49,11 +62,11 @@
    "formato": "short",
    "id": "-IZoZeOgJyE",
    "titulo": "Essa artista INVENTOU o Meccha Chamaleon da VIDA REAL! #games  #curiosidades  #mecchachameleon",
-   "views": 670081,
-   "outlier": 21.74,
+   "views": 670115,
+   "outlier": 22.15,
    "publicado": "2026-06-29",
    "thumb": "https://i.ytimg.com/vi/-IZoZeOgJyE/maxresdefault.jpg",
-   "mediana_canal": 30816
+   "mediana_canal": 30249
   },
   {
    "canal": "iasserzin",
@@ -62,24 +75,11 @@
    "formato": "short",
    "id": "WpeAuzoYiWg",
    "titulo": "Nesse site você tem que ADVINHAR o tamanho das coisas na vida real!",
-   "views": 634593,
-   "outlier": 20.59,
+   "views": 636249,
+   "outlier": 21.03,
    "publicado": "2026-09-10",
    "thumb": "https://i.ytimg.com/vi/WpeAuzoYiWg/maxresdefault.jpg",
-   "mediana_canal": 30816
-  },
-  {
-   "canal": "iasserzin",
-   "handle": "iasserzin",
-   "grupo": "citado",
-   "formato": "short",
-   "id": "xdJBOgk-lKw",
-   "titulo": "Nesse jogo você DISPUTA com seus amigos e vê quem IMITA MELHOR! #curiosidades #games #partygames",
-   "views": 623061,
-   "outlier": 20.22,
-   "publicado": "2026-09-03",
-   "thumb": "https://i.ytimg.com/vi/xdJBOgk-lKw/maxresdefault.jpg",
-   "mediana_canal": 30816
+   "mediana_canal": 30249
   },
   {
    "canal": "iasserzin",
@@ -88,24 +88,11 @@
    "formato": "short",
    "id": "DgBGYSQYBNo",
    "titulo": "Nesse jogo você consegue REDUBLAR filmes usando a SUA VOZ! #curiosidades #games #thechoicervoicer",
-   "views": 512730,
-   "outlier": 16.64,
+   "views": 520119,
+   "outlier": 17.19,
    "publicado": "2026-08-11",
    "thumb": "https://i.ytimg.com/vi/DgBGYSQYBNo/maxresdefault.jpg",
-   "mediana_canal": 30816
-  },
-  {
-   "canal": "OGabas",
-   "handle": "eogabos",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "S9ambtEzu40",
-   "titulo": "O diamante DESTRUÍDO do PS2 chamado Altered Beast",
-   "views": 784806,
-   "outlier": 14.68,
-   "publicado": "2025-04-05",
-   "thumb": "https://i.ytimg.com/vi/S9ambtEzu40/maxresdefault.jpg",
-   "mediana_canal": 53461
+   "mediana_canal": 30249
   },
   {
    "canal": "JotaViews",
@@ -114,24 +101,24 @@
    "formato": "longo",
    "id": "MOyiWaYuqg0",
    "titulo": "O JOGO QUE TROUXE DANOS IRREPARÁVEIS À DC - INJUSTICE: GODS AMONG US",
-   "views": 112623,
-   "outlier": 14.26,
+   "views": 137700,
+   "outlier": 16.7,
    "publicado": "2026-09-19",
    "thumb": "https://i.ytimg.com/vi/MOyiWaYuqg0/maxresdefault.jpg",
-   "mediana_canal": 7899
+   "mediana_canal": 8243
   },
   {
-   "canal": "LOUD Coringa",
-   "handle": "loudcoringa",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "XKV86spyQlg",
-   "titulo": "ENCONTREI O NEYMAR NOS EUA! 🇺🇸 #loudcoringa",
-   "views": 276963,
-   "outlier": 11.42,
-   "publicado": "2026-07-14",
-   "thumb": "https://i.ytimg.com/vi/XKV86spyQlg/maxresdefault.jpg",
-   "mediana_canal": 24254
+   "canal": "OGabas",
+   "handle": "eogabos",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "S9ambtEzu40",
+   "titulo": "O diamante DESTRUÍDO do PS2 chamado Altered Beast",
+   "views": 791981,
+   "outlier": 13.89,
+   "publicado": "2025-04-05",
+   "thumb": "https://i.ytimg.com/vi/S9ambtEzu40/maxresdefault.jpg",
+   "mediana_canal": 57025
   },
   {
    "canal": "Saif Na Play",
@@ -140,11 +127,24 @@
    "formato": "short",
    "id": "VddahQzYTAU",
    "titulo": "A Solução genial em Ghost Recon Breakpoint!",
-   "views": 1447757,
-   "outlier": 10.92,
+   "views": 1507146,
+   "outlier": 11.47,
    "publicado": "2026-08-12",
    "thumb": "https://i.ytimg.com/vi/VddahQzYTAU/maxresdefault.jpg",
-   "mediana_canal": 132592
+   "mediana_canal": 131388
+  },
+  {
+   "canal": "iasserzin",
+   "handle": "iasserzin",
+   "grupo": "citado",
+   "formato": "short",
+   "id": "z6u7-sg5SPk",
+   "titulo": "Acabou de acontecer A PRIMEIRA LUTA entre ROBÔ e HUMANO da história! Quem você acha que venceu?",
+   "views": 337979,
+   "outlier": 11.17,
+   "publicado": "2026-09-23",
+   "thumb": "https://i.ytimg.com/vi/z6u7-sg5SPk/hqdefault.jpg",
+   "mediana_canal": 30249
   },
   {
    "canal": "iasserzin",
@@ -153,11 +153,11 @@
    "formato": "short",
    "id": "OYS2ds2p2-w",
    "titulo": "Um streamer pegou 16 MIL pokémon em UMA SEMANA pra tentar tirar uma carta rara #games #pokemongo",
-   "views": 325472,
-   "outlier": 10.56,
+   "views": 335341,
+   "outlier": 11.09,
    "publicado": "2026-07-31",
    "thumb": "https://i.ytimg.com/vi/OYS2ds2p2-w/maxresdefault.jpg",
-   "mediana_canal": 30816
+   "mediana_canal": 30249
   },
   {
    "canal": "Saif Na Play",
@@ -166,11 +166,11 @@
    "formato": "short",
    "id": "yoX16Xu3dk4",
    "titulo": "O Problema de criar um inimigo que caça pelo cheiro!",
-   "views": 1389183,
-   "outlier": 10.48,
+   "views": 1419318,
+   "outlier": 10.8,
    "publicado": "2026-09-12",
    "thumb": "https://i.ytimg.com/vi/yoX16Xu3dk4/maxresdefault.jpg",
-   "mediana_canal": 132592
+   "mediana_canal": 131388
   },
   {
    "canal": "Saif Na Play",
@@ -179,11 +179,11 @@
    "formato": "short",
    "id": "BGQnC8r3dMs",
    "titulo": "Jogadores compraram o jogo só pra reclamar da versão pirata!",
-   "views": 1362582,
-   "outlier": 10.28,
+   "views": 1363090,
+   "outlier": 10.37,
    "publicado": "2026-08-16",
    "thumb": "https://i.ytimg.com/vi/BGQnC8r3dMs/maxresdefault.jpg",
-   "mediana_canal": 132592
+   "mediana_canal": 131388
   },
   {
    "canal": "TROUSY",
@@ -192,11 +192,11 @@
    "formato": "longo",
    "id": "zp5fBG7T5tk",
    "titulo": "Passei 100 DIAS no Subnautica com MODS! 🐟",
-   "views": 1991386,
-   "outlier": 9.86,
+   "views": 1992934,
+   "outlier": 9.82,
    "publicado": "2024-07-09",
    "thumb": "https://i.ytimg.com/vi/zp5fBG7T5tk/maxresdefault.jpg",
-   "mediana_canal": 201877
+   "mediana_canal": 202917
   },
   {
    "canal": "Guigahz",
@@ -205,76 +205,11 @@
    "formato": "longo",
    "id": "1DJVJ4va9vU",
    "titulo": "O Pior Jogo da Marvel Era Tão Ruim Assim? Talvez Não! - Marvel´s Avengers",
-   "views": 204945,
-   "outlier": 9.73,
+   "views": 206628,
+   "outlier": 9.49,
    "publicado": "2026-08-26",
    "thumb": "https://i.ytimg.com/vi/1DJVJ4va9vU/maxresdefault.jpg",
-   "mediana_canal": 21056
-  },
-  {
-   "canal": "LOUD Coringa",
-   "handle": "loudcoringa",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "JyOVe6VOiBU",
-   "titulo": "O DONA VAZOU MEU ENDEREÇO?! 😡 #loudcoringa",
-   "views": 208124,
-   "outlier": 8.58,
-   "publicado": "2026-08-10",
-   "thumb": "https://i.ytimg.com/vi/JyOVe6VOiBU/maxresdefault.jpg",
-   "mediana_canal": 24254
-  },
-  {
-   "canal": "Beto",
-   "handle": "betocowboy",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "yr4d2HmDOFI",
-   "titulo": "O jogo do KING KONG é surpreendentemente bom",
-   "views": 396169,
-   "outlier": 8.11,
-   "publicado": "2024-07-29",
-   "thumb": "https://i.ytimg.com/vi/yr4d2HmDOFI/hqdefault.jpg",
-   "mediana_canal": 48874
-  },
-  {
-   "canal": "Liberato",
-   "handle": "liberatooo",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "QI6tWqL5MWQ",
-   "titulo": "RESIDENT EVIL 7 É UMA OBRA DE ARTE",
-   "views": 1130896,
-   "outlier": 8.05,
-   "publicado": "2024-02-29",
-   "thumb": "https://i.ytimg.com/vi/QI6tWqL5MWQ/maxresdefault.jpg",
-   "mediana_canal": 140462
-  },
-  {
-   "canal": "Saif Na Play",
-   "handle": "Saif.NaPlay",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "o0gcCnDTBro",
-   "titulo": "Esse jogo tirou o pulo do 3D de propósito!",
-   "views": 1010033,
-   "outlier": 7.62,
-   "publicado": "2026-08-19",
-   "thumb": "https://i.ytimg.com/vi/o0gcCnDTBro/maxresdefault.jpg",
-   "mediana_canal": 132592
-  },
-  {
-   "canal": "MrBeast",
-   "handle": "MrBeast",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "_JUlWtSCNbs",
-   "titulo": "Who's The Strongest Streamer?",
-   "views": 1005502783,
-   "outlier": 7.39,
-   "publicado": "2026-04-03",
-   "thumb": "https://i.ytimg.com/vi/_JUlWtSCNbs/maxresdefault.jpg",
-   "mediana_canal": 136019917
+   "mediana_canal": 21778
   },
   {
    "canal": "Guigahz",
@@ -283,11 +218,76 @@
    "formato": "short",
    "id": "LhSQsPOYn1k",
    "titulo": "Por que os Assassinos não usam duas Lâminas Ocultas? #games #ubisoft #assassinscreed",
-   "views": 594107,
-   "outlier": 7.36,
+   "views": 603541,
+   "outlier": 9.37,
    "publicado": "2026-08-27",
    "thumb": "https://i.ytimg.com/vi/LhSQsPOYn1k/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "mediana_canal": 64445
+  },
+  {
+   "canal": "LOUD Coringa",
+   "handle": "loudcoringa",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "JyOVe6VOiBU",
+   "titulo": "O DONA VAZOU MEU ENDEREÇO?! 😡 #loudcoringa",
+   "views": 208840,
+   "outlier": 8.62,
+   "publicado": "2026-08-10",
+   "thumb": "https://i.ytimg.com/vi/JyOVe6VOiBU/maxresdefault.jpg",
+   "mediana_canal": 24225
+  },
+  {
+   "canal": "Beto",
+   "handle": "betocowboy",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "yr4d2HmDOFI",
+   "titulo": "O jogo do KING KONG é surpreendentemente bom",
+   "views": 396500,
+   "outlier": 8.02,
+   "publicado": "2024-07-29",
+   "thumb": "https://i.ytimg.com/vi/yr4d2HmDOFI/hqdefault.jpg",
+   "mediana_canal": 49411
+  },
+  {
+   "canal": "Saif Na Play",
+   "handle": "Saif.NaPlay",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "o0gcCnDTBro",
+   "titulo": "Esse jogo tirou o pulo do 3D de propósito!",
+   "views": 1016526,
+   "outlier": 7.74,
+   "publicado": "2026-08-19",
+   "thumb": "https://i.ytimg.com/vi/o0gcCnDTBro/maxresdefault.jpg",
+   "mediana_canal": 131388
+  },
+  {
+   "canal": "MrBeast",
+   "handle": "MrBeast",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "_JUlWtSCNbs",
+   "titulo": "Who's The Strongest Streamer?",
+   "views": 1015694468,
+   "outlier": 7.52,
+   "publicado": "2026-04-03",
+   "thumb": "https://i.ytimg.com/vi/_JUlWtSCNbs/maxresdefault.jpg",
+   "mediana_canal": 135075865
+  },
+  {
+   "canal": "Liberato",
+   "handle": "liberatooo",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "QI6tWqL5MWQ",
+   "titulo": "RESIDENT EVIL 7 É UMA OBRA DE ARTE",
+   "views": 1134801,
+   "outlier": 7.44,
+   "publicado": "2024-02-29",
+   "thumb": "https://i.ytimg.com/vi/QI6tWqL5MWQ/maxresdefault.jpg",
+   "mediana_canal": 152453
   },
   {
    "canal": "TROUSY",
@@ -296,11 +296,11 @@
    "formato": "longo",
    "id": "GLJsQM98lzk",
    "titulo": "Sobrevivendo 100 dias no ARK Survival Evolved - Modo Hardcore!",
-   "views": 1346747,
-   "outlier": 6.67,
+   "views": 1350825,
+   "outlier": 6.66,
    "publicado": "2024-07-24",
    "thumb": "https://i.ytimg.com/vi/GLJsQM98lzk/maxresdefault.jpg",
-   "mediana_canal": 201877
+   "mediana_canal": 202917
   },
   {
    "canal": "MrBeast",
@@ -309,11 +309,11 @@
    "formato": "short",
    "id": "rqsRdfdN4uI",
    "titulo": "Guess The Animal",
-   "views": 879652089,
-   "outlier": 6.47,
+   "views": 888567582,
+   "outlier": 6.58,
    "publicado": "2026-05-05",
    "thumb": "https://i.ytimg.com/vi/rqsRdfdN4uI/maxresdefault.jpg",
-   "mediana_canal": 136019917
+   "mediana_canal": 135075865
   },
   {
    "canal": "Saif Na Play",
@@ -322,11 +322,11 @@
    "formato": "short",
    "id": "Oh0WFeMOn8I",
    "titulo": "A Solução Genial em Meccha Chameleon!",
-   "views": 835270,
-   "outlier": 6.3,
+   "views": 835513,
+   "outlier": 6.36,
    "publicado": "2026-07-31",
    "thumb": "https://i.ytimg.com/vi/Oh0WFeMOn8I/maxresdefault.jpg",
-   "mediana_canal": 132592
+   "mediana_canal": 131388
   },
   {
    "canal": "Saif Na Play",
@@ -335,11 +335,11 @@
    "formato": "short",
    "id": "AobKOiVOHSY",
    "titulo": "Por que as asas de teia quase deram errado Marvel Spider man 2?",
-   "views": 800411,
-   "outlier": 6.04,
+   "views": 804922,
+   "outlier": 6.13,
    "publicado": "2026-08-03",
    "thumb": "https://i.ytimg.com/vi/AobKOiVOHSY/maxresdefault.jpg",
-   "mediana_canal": 132592
+   "mediana_canal": 131388
   },
   {
    "canal": "MrBeast",
@@ -348,24 +348,11 @@
    "formato": "short",
    "id": "897gvApD6V4",
    "titulo": "Will a Zebra Subscribe to me?",
-   "views": 813142561,
-   "outlier": 5.98,
+   "views": 816544604,
+   "outlier": 6.05,
    "publicado": "2026-04-01",
    "thumb": "https://i.ytimg.com/vi/897gvApD6V4/maxresdefault.jpg",
-   "mediana_canal": 136019917
-  },
-  {
-   "canal": "JotaViews",
-   "handle": "jotaviews5",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "KXWUhsh19FA",
-   "titulo": "O JOGO QUE ENCERROU UMA ERA DO HOMEM-ARANHA - SPIDER-MAN 3",
-   "views": 47240,
-   "outlier": 5.98,
-   "publicado": "2026-08-29",
-   "thumb": "https://i.ytimg.com/vi/KXWUhsh19FA/maxresdefault.jpg",
-   "mediana_canal": 7899
+   "mediana_canal": 135075865
   },
   {
    "canal": "Anthomnia",
@@ -374,11 +361,24 @@
    "formato": "short",
    "id": "ly4LOYPMHRQ",
    "titulo": "Subnautica 2 New Leviathan! - The Tar Eel Leak (Adaptive Measures Update)",
-   "views": 924439,
+   "views": 924986,
    "outlier": 5.96,
    "publicado": "2026-07-09",
    "thumb": "https://i.ytimg.com/vi/ly4LOYPMHRQ/maxresdefault.jpg",
-   "mediana_canal": 155113
+   "mediana_canal": 155159
+  },
+  {
+   "canal": "JotaViews",
+   "handle": "jotaviews5",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "KXWUhsh19FA",
+   "titulo": "O JOGO QUE ENCERROU UMA ERA DO HOMEM-ARANHA - SPIDER-MAN 3",
+   "views": 47619,
+   "outlier": 5.78,
+   "publicado": "2026-08-29",
+   "thumb": "https://i.ytimg.com/vi/KXWUhsh19FA/maxresdefault.jpg",
+   "mediana_canal": 8243
   },
   {
    "canal": "Beto",
@@ -387,11 +387,11 @@
    "formato": "longo",
    "id": "6UH2FtJBRFQ",
    "titulo": "Downhill Domination o melhor jogo de \"BIKE\" já feito!",
-   "views": 284383,
-   "outlier": 5.82,
+   "views": 284639,
+   "outlier": 5.76,
    "publicado": "2024-08-26",
    "thumb": "https://i.ytimg.com/vi/6UH2FtJBRFQ/hqdefault.jpg",
-   "mediana_canal": 48874
+   "mediana_canal": 49411
   },
   {
    "canal": "Beto",
@@ -400,37 +400,11 @@
    "formato": "longo",
    "id": "aua7jkZGKhs",
    "titulo": "DARKWATCH o Faroeste com Vampiros é INCRÍVEL",
-   "views": 267351,
-   "outlier": 5.47,
+   "views": 267603,
+   "outlier": 5.42,
    "publicado": "2024-12-02",
    "thumb": "https://i.ytimg.com/vi/aua7jkZGKhs/maxresdefault.jpg",
-   "mediana_canal": 48874
-  },
-  {
-   "canal": "Beto",
-   "handle": "betocowboy",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "nhNoJjAFaaE",
-   "titulo": "Shadow of Rome o jogo BRUTALMENTE esquecido pela Capcom",
-   "views": 256567,
-   "outlier": 5.25,
-   "publicado": "2024-10-31",
-   "thumb": "https://i.ytimg.com/vi/nhNoJjAFaaE/hqdefault.jpg",
-   "mediana_canal": 48874
-  },
-  {
-   "canal": "JotaViews",
-   "handle": "jotaviews5",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "MQuZH2DU9xE",
-   "titulo": "O MELHOR JOGO DO WOLVERINE? - X2: WOLVERINE'S REVENGE",
-   "views": 41232,
-   "outlier": 5.22,
-   "publicado": "2026-09-05",
-   "thumb": "https://i.ytimg.com/vi/MQuZH2DU9xE/maxresdefault.jpg",
-   "mediana_canal": 7899
+   "mediana_canal": 49411
   },
   {
    "canal": "MrBeast",
@@ -439,24 +413,37 @@
    "formato": "short",
    "id": "B9LizOAAoLg",
    "titulo": "I’m Granting Wishes For My Subscribers",
-   "views": 705430945,
-   "outlier": 5.19,
+   "views": 706239898,
+   "outlier": 5.23,
    "publicado": "2026-05-07",
    "thumb": "https://i.ytimg.com/vi/B9LizOAAoLg/maxresdefault.jpg",
-   "mediana_canal": 136019917
+   "mediana_canal": 135075865
   },
   {
-   "canal": "OGabas",
-   "handle": "eogabos",
+   "canal": "Beto",
+   "handle": "betocowboy",
    "grupo": "canal-par",
    "formato": "longo",
-   "id": "R2zl6I2YJhY",
-   "titulo": "Ghost Rider do PS2 NÃO É como você se lembra",
-   "views": 266425,
-   "outlier": 4.98,
-   "publicado": "2026-02-21",
-   "thumb": "https://i.ytimg.com/vi/R2zl6I2YJhY/maxresdefault.jpg",
-   "mediana_canal": 53461
+   "id": "nhNoJjAFaaE",
+   "titulo": "Shadow of Rome o jogo BRUTALMENTE esquecido pela Capcom",
+   "views": 256799,
+   "outlier": 5.2,
+   "publicado": "2024-10-31",
+   "thumb": "https://i.ytimg.com/vi/nhNoJjAFaaE/hqdefault.jpg",
+   "mediana_canal": 49411
+  },
+  {
+   "canal": "JotaViews",
+   "handle": "jotaviews5",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "MQuZH2DU9xE",
+   "titulo": "O MELHOR JOGO DO WOLVERINE? - X2: WOLVERINE'S REVENGE",
+   "views": 41609,
+   "outlier": 5.05,
+   "publicado": "2026-09-05",
+   "thumb": "https://i.ytimg.com/vi/MQuZH2DU9xE/maxresdefault.jpg",
+   "mediana_canal": 8243
   },
   {
    "canal": "LOUD Coringa",
@@ -465,11 +452,11 @@
    "formato": "short",
    "id": "2AIurkQ8-7Y",
    "titulo": "O BISTECONE tá valendo UMA BANANA! 🤣 #loudcoringa",
-   "views": 119075,
-   "outlier": 4.91,
+   "views": 119776,
+   "outlier": 4.94,
    "publicado": "2026-07-29",
    "thumb": "https://i.ytimg.com/vi/2AIurkQ8-7Y/maxresdefault.jpg",
-   "mediana_canal": 24254
+   "mediana_canal": 24225
   },
   {
    "canal": "MrBeast",
@@ -478,11 +465,11 @@
    "formato": "short",
    "id": "QAkEMtJpq3c",
    "titulo": "Hit The Button, Win $1,000",
-   "views": 658057025,
-   "outlier": 4.84,
+   "views": 658465421,
+   "outlier": 4.87,
    "publicado": "2026-05-15",
    "thumb": "https://i.ytimg.com/vi/QAkEMtJpq3c/maxresdefault.jpg",
-   "mediana_canal": 136019917
+   "mediana_canal": 135075865
   },
   {
    "canal": "Beto",
@@ -491,37 +478,24 @@
    "formato": "short",
    "id": "ylrhx0ZNcrA",
    "titulo": "O jogo que você NÃO CONSEGUE JOGAR! #shorts",
-   "views": 7225,
+   "views": 7226,
    "outlier": 4.78,
    "publicado": "2026-05-29",
    "thumb": "https://i.ytimg.com/vi/ylrhx0ZNcrA/maxresdefault.jpg",
    "mediana_canal": 1512
   },
   {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "secMZgOiajY",
-   "titulo": "O jogo sobre uma \"mutação\" imortal",
-   "views": 463717,
-   "outlier": 4.67,
-   "publicado": "2025-08-09",
-   "thumb": "https://i.ytimg.com/vi/secMZgOiajY/maxresdefault.jpg",
-   "mediana_canal": 99292
-  },
-  {
-   "canal": "Beto",
-   "handle": "betocowboy",
+   "canal": "OGabas",
+   "handle": "eogabos",
    "grupo": "canal-par",
    "formato": "longo",
-   "id": "eRthQF5V00I",
-   "titulo": "GUN o melhor faroeste do PS2 que você NÃO jogou",
-   "views": 224776,
-   "outlier": 4.6,
-   "publicado": "2024-03-20",
-   "thumb": "https://i.ytimg.com/vi/eRthQF5V00I/hqdefault.jpg",
-   "mediana_canal": 48874
+   "id": "R2zl6I2YJhY",
+   "titulo": "Ghost Rider do PS2 NÃO É como você se lembra",
+   "views": 271344,
+   "outlier": 4.76,
+   "publicado": "2026-02-21",
+   "thumb": "https://i.ytimg.com/vi/R2zl6I2YJhY/maxresdefault.jpg",
+   "mediana_canal": 57025
   },
   {
    "canal": "Anthomnia",
@@ -530,11 +504,37 @@
    "formato": "short",
    "id": "YfZwfKS-J8A",
    "titulo": "Secret Leviathans & More in Subnautica 2!",
-   "views": 708857,
+   "views": 709527,
    "outlier": 4.57,
    "publicado": "2026-05-14",
    "thumb": "https://i.ytimg.com/vi/YfZwfKS-J8A/maxresdefault.jpg",
-   "mediana_canal": 155113
+   "mediana_canal": 155159
+  },
+  {
+   "canal": "Beto",
+   "handle": "betocowboy",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "eRthQF5V00I",
+   "titulo": "GUN o melhor faroeste do PS2 que você NÃO jogou",
+   "views": 225140,
+   "outlier": 4.56,
+   "publicado": "2024-03-20",
+   "thumb": "https://i.ytimg.com/vi/eRthQF5V00I/hqdefault.jpg",
+   "mediana_canal": 49411
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "secMZgOiajY",
+   "titulo": "O jogo sobre uma \"mutação\" imortal",
+   "views": 465332,
+   "outlier": 4.55,
+   "publicado": "2025-08-09",
+   "thumb": "https://i.ytimg.com/vi/secMZgOiajY/maxresdefault.jpg",
+   "mediana_canal": 102234
   },
   {
    "canal": "TROUSY",
@@ -543,24 +543,11 @@
    "formato": "longo",
    "id": "37fiJjaqaq0",
    "titulo": "Passei 100 DIAS em SKYRIM até me tornar um LICH!",
-   "views": 912791,
-   "outlier": 4.52,
+   "views": 914196,
+   "outlier": 4.51,
    "publicado": "2025-03-27",
    "thumb": "https://i.ytimg.com/vi/37fiJjaqaq0/maxresdefault.jpg",
-   "mediana_canal": 201877
-  },
-  {
-   "canal": "Anthomnia",
-   "handle": "anthomnia",
-   "grupo": "estudado",
-   "formato": "longo",
-   "id": "_o1wtfE4qqI",
-   "titulo": "Every Leviathan & SECRET Leviathan in Subnautica 2 + Surprise Developer Secret! - Subnautica 2 EA",
-   "views": 1246186,
-   "outlier": 4.42,
-   "publicado": "2026-05-14",
-   "thumb": "https://i.ytimg.com/vi/_o1wtfE4qqI/maxresdefault.jpg",
-   "mediana_canal": 281741
+   "mediana_canal": 202917
   },
   {
    "canal": "MrBeast",
@@ -569,50 +556,24 @@
    "formato": "short",
    "id": "hYahU_Cqwp8",
    "titulo": "YouTube CEO Has A Surprise For Me",
-   "views": 588197313,
-   "outlier": 4.32,
+   "views": 594814675,
+   "outlier": 4.4,
    "publicado": "2026-05-22",
    "thumb": "https://i.ytimg.com/vi/hYahU_Cqwp8/maxresdefault.jpg",
-   "mediana_canal": 136019917
-  },
-  {
-   "canal": "OGabas",
-   "handle": "eogabos",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "ieSSDACkyJs",
-   "titulo": "O jogo mais INJUSTIÇADO de Dragon Ball é na verdade INCRÍVEL",
-   "views": 226454,
-   "outlier": 4.24,
-   "publicado": "2025-02-06",
-   "thumb": "https://i.ytimg.com/vi/ieSSDACkyJs/maxresdefault.jpg",
-   "mediana_canal": 53461
-  },
-  {
-   "canal": "Beto",
-   "handle": "betocowboy",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "WTU41YvTkpM",
-   "titulo": "MANHUNT é polemicamente BOM",
-   "views": 207210,
-   "outlier": 4.24,
-   "publicado": "2025-01-10",
-   "thumb": "https://i.ytimg.com/vi/WTU41YvTkpM/maxresdefault.jpg",
-   "mediana_canal": 48874
+   "mediana_canal": 135075865
   },
   {
    "canal": "Anthomnia",
    "handle": "anthomnia",
    "grupo": "estudado",
-   "formato": "short",
-   "id": "TFPBWHi0Ba4",
-   "titulo": "Subnautica 2 Secret Leviathan & Sub Leak!",
-   "views": 654119,
-   "outlier": 4.22,
-   "publicado": "2026-05-15",
-   "thumb": "https://i.ytimg.com/vi/TFPBWHi0Ba4/maxresdefault.jpg",
-   "mediana_canal": 155113
+   "formato": "longo",
+   "id": "_o1wtfE4qqI",
+   "titulo": "Every Leviathan & SECRET Leviathan in Subnautica 2 + Surprise Developer Secret! - Subnautica 2 EA",
+   "views": 1251586,
+   "outlier": 4.39,
+   "publicado": "2026-05-14",
+   "thumb": "https://i.ytimg.com/vi/_o1wtfE4qqI/maxresdefault.jpg",
+   "mediana_canal": 285261
   },
   {
    "canal": "LOUD Coringa",
@@ -621,128 +582,37 @@
    "formato": "short",
    "id": "l5C4sTM_1j4",
    "titulo": "A TAINÁ NÃO QUER SAIR COMIGO POR ISSO! 😅 #loudcoringa",
-   "views": 102191,
-   "outlier": 4.21,
+   "views": 106337,
+   "outlier": 4.39,
    "publicado": "2026-09-18",
    "thumb": "https://i.ytimg.com/vi/l5C4sTM_1j4/maxresdefault.jpg",
-   "mediana_canal": 24254
+   "mediana_canal": 24225
   },
   {
-   "canal": "TROUSY",
-   "handle": "TROUSY",
+   "canal": "Anthomnia",
+   "handle": "anthomnia",
    "grupo": "estudado",
-   "formato": "longo",
-   "id": "PMmhRLZeuMA",
-   "titulo": "Eu sobrevivi 40 DIAS no Days Gone com MODS... e foi incrível!",
-   "views": 816461,
-   "outlier": 4.04,
-   "publicado": "2025-10-05",
-   "thumb": "https://i.ytimg.com/vi/PMmhRLZeuMA/maxresdefault.jpg",
-   "mediana_canal": 201877
-  },
-  {
-   "canal": "Liberato",
-   "handle": "liberatooo",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "3smH3qhRtv0",
-   "titulo": "RESIDENT EVIL VILLAGE É UM DESPERDÍCIO",
-   "views": 540446,
-   "outlier": 3.85,
-   "publicado": "2024-06-10",
-   "thumb": "https://i.ytimg.com/vi/3smH3qhRtv0/maxresdefault.jpg",
-   "mediana_canal": 140462
-  },
-  {
-   "canal": "JotaViews",
-   "handle": "jotaviews5",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "6Hk_o9fO-LI",
-   "titulo": "A SEQUÊNCIA ESQUECIDA DO HULK DE 2003",
-   "views": 30409,
-   "outlier": 3.85,
-   "publicado": "2026-06-28",
-   "thumb": "https://i.ytimg.com/vi/6Hk_o9fO-LI/maxresdefault.jpg",
-   "mediana_canal": 7899
-  },
-  {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "V437JfIMASA",
-   "titulo": "O jogo onde a lua está com fome - Dead Space",
-   "views": 380401,
-   "outlier": 3.83,
-   "publicado": "2026-08-08",
-   "thumb": "https://i.ytimg.com/vi/V437JfIMASA/maxresdefault.jpg",
-   "mediana_canal": 99292
-  },
-  {
-   "canal": "TROUSY",
-   "handle": "TROUSY",
-   "grupo": "estudado",
-   "formato": "longo",
-   "id": "md58k4g_sOA",
-   "titulo": "Sobrevivi 100 DIAS no Stranded DEEP! 🏝️ (MODO HARCORE)",
-   "views": 769558,
-   "outlier": 3.81,
-   "publicado": "2025-08-18",
-   "thumb": "https://i.ytimg.com/vi/md58k4g_sOA/maxresdefault.jpg",
-   "mediana_canal": 201877
-  },
-  {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "XrMz-l4TbU4",
-   "titulo": "O jogo onde a natureza enlouquece",
-   "views": 359384,
-   "outlier": 3.62,
-   "publicado": "2025-07-12",
-   "thumb": "https://i.ytimg.com/vi/XrMz-l4TbU4/maxresdefault.jpg",
-   "mediana_canal": 99292
-  },
-  {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "UhRpHrfhPrg",
-   "titulo": "Deviljho: O monstro que DEVORA ecossistemas",
-   "views": 344769,
-   "outlier": 3.47,
-   "publicado": "2026-03-07",
-   "thumb": "https://i.ytimg.com/vi/UhRpHrfhPrg/maxresdefault.jpg",
-   "mediana_canal": 99292
+   "formato": "short",
+   "id": "TFPBWHi0Ba4",
+   "titulo": "Subnautica 2 Secret Leviathan & Sub Leak!",
+   "views": 654337,
+   "outlier": 4.22,
+   "publicado": "2026-05-15",
+   "thumb": "https://i.ytimg.com/vi/TFPBWHi0Ba4/maxresdefault.jpg",
+   "mediana_canal": 155159
   },
   {
    "canal": "Beto",
    "handle": "betocowboy",
    "grupo": "canal-par",
-   "formato": "short",
-   "id": "aQwv4XB04ZQ",
-   "titulo": "O jeito MAIS CRIATIVO de te COLOCAR no JOGO #shorts",
-   "views": 5205,
-   "outlier": 3.44,
-   "publicado": "2026-05-22",
-   "thumb": "https://i.ytimg.com/vi/aQwv4XB04ZQ/maxresdefault.jpg",
-   "mediana_canal": 1512
-  },
-  {
-   "canal": "TROUSY",
-   "handle": "TROUSY",
-   "grupo": "estudado",
    "formato": "longo",
-   "id": "0YvnE-ZSvWM",
-   "titulo": "Passei 100 DIAS como um NECROMANTE LENDÁRIO em Skyrim!",
-   "views": 689569,
-   "outlier": 3.42,
-   "publicado": "2024-12-18",
-   "thumb": "https://i.ytimg.com/vi/0YvnE-ZSvWM/maxresdefault.jpg",
-   "mediana_canal": 201877
+   "id": "WTU41YvTkpM",
+   "titulo": "MANHUNT é polemicamente BOM",
+   "views": 207758,
+   "outlier": 4.2,
+   "publicado": "2025-01-10",
+   "thumb": "https://i.ytimg.com/vi/WTU41YvTkpM/maxresdefault.jpg",
+   "mediana_canal": 49411
   },
   {
    "canal": "Guigahz",
@@ -751,24 +621,141 @@
    "formato": "short",
    "id": "Gmbeaih8Ytk",
    "titulo": "SPIDERMAN 2 FOI DECEPCIONANTE? #games #homemaranha #playstation",
-   "views": 269273,
-   "outlier": 3.34,
+   "views": 270681,
+   "outlier": 4.2,
    "publicado": "2026-08-13",
    "thumb": "https://i.ytimg.com/vi/Gmbeaih8Ytk/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "mediana_canal": 64445
   },
   {
-   "canal": "Anthomnia",
-   "handle": "anthomnia",
+   "canal": "TROUSY",
+   "handle": "TROUSY",
    "grupo": "estudado",
+   "formato": "longo",
+   "id": "PMmhRLZeuMA",
+   "titulo": "Eu sobrevivi 40 DIAS no Days Gone com MODS... e foi incrível!",
+   "views": 821636,
+   "outlier": 4.05,
+   "publicado": "2025-10-05",
+   "thumb": "https://i.ytimg.com/vi/PMmhRLZeuMA/maxresdefault.jpg",
+   "mediana_canal": 202917
+  },
+  {
+   "canal": "OGabas",
+   "handle": "eogabos",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "ieSSDACkyJs",
+   "titulo": "O jogo mais INJUSTIÇADO de Dragon Ball é na verdade INCRÍVEL",
+   "views": 227798,
+   "outlier": 3.99,
+   "publicado": "2025-02-06",
+   "thumb": "https://i.ytimg.com/vi/ieSSDACkyJs/maxresdefault.jpg",
+   "mediana_canal": 57025
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "V437JfIMASA",
+   "titulo": "O jogo onde a lua está com fome - Dead Space",
+   "views": 404925,
+   "outlier": 3.96,
+   "publicado": "2026-08-08",
+   "thumb": "https://i.ytimg.com/vi/V437JfIMASA/maxresdefault.jpg",
+   "mediana_canal": 102234
+  },
+  {
+   "canal": "TROUSY",
+   "handle": "TROUSY",
+   "grupo": "estudado",
+   "formato": "longo",
+   "id": "md58k4g_sOA",
+   "titulo": "Sobrevivi 100 DIAS no Stranded DEEP! 🏝️ (MODO HARCORE)",
+   "views": 772145,
+   "outlier": 3.81,
+   "publicado": "2025-08-18",
+   "thumb": "https://i.ytimg.com/vi/md58k4g_sOA/maxresdefault.jpg",
+   "mediana_canal": 202917
+  },
+  {
+   "canal": "JotaViews",
+   "handle": "jotaviews5",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "6Hk_o9fO-LI",
+   "titulo": "A SEQUÊNCIA ESQUECIDA DO HULK DE 2003",
+   "views": 30532,
+   "outlier": 3.7,
+   "publicado": "2026-06-28",
+   "thumb": "https://i.ytimg.com/vi/6Hk_o9fO-LI/maxresdefault.jpg",
+   "mediana_canal": 8243
+  },
+  {
+   "canal": "Liberato",
+   "handle": "liberatooo",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "3smH3qhRtv0",
+   "titulo": "RESIDENT EVIL VILLAGE É UM DESPERDÍCIO",
+   "views": 541700,
+   "outlier": 3.55,
+   "publicado": "2024-06-10",
+   "thumb": "https://i.ytimg.com/vi/3smH3qhRtv0/maxresdefault.jpg",
+   "mediana_canal": 152453
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "XrMz-l4TbU4",
+   "titulo": "O jogo onde a natureza enlouquece",
+   "views": 362400,
+   "outlier": 3.54,
+   "publicado": "2025-07-12",
+   "thumb": "https://i.ytimg.com/vi/XrMz-l4TbU4/maxresdefault.jpg",
+   "mediana_canal": 102234
+  },
+  {
+   "canal": "Beto",
+   "handle": "betocowboy",
+   "grupo": "canal-par",
    "formato": "short",
-   "id": "vByqr4MqcxY",
-   "titulo": "Subnautica 2 Update leaked EVERYTHING! New Leviathan? New Sub, New Update!",
-   "views": 502480,
-   "outlier": 3.24,
-   "publicado": "2026-07-08",
-   "thumb": "https://i.ytimg.com/vi/vByqr4MqcxY/maxresdefault.jpg",
-   "mediana_canal": 155113
+   "id": "aQwv4XB04ZQ",
+   "titulo": "O jeito MAIS CRIATIVO de te COLOCAR no JOGO #shorts",
+   "views": 5206,
+   "outlier": 3.44,
+   "publicado": "2026-05-22",
+   "thumb": "https://i.ytimg.com/vi/aQwv4XB04ZQ/maxresdefault.jpg",
+   "mediana_canal": 1512
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "UhRpHrfhPrg",
+   "titulo": "Deviljho: O monstro que DEVORA ecossistemas",
+   "views": 348329,
+   "outlier": 3.41,
+   "publicado": "2026-03-07",
+   "thumb": "https://i.ytimg.com/vi/UhRpHrfhPrg/maxresdefault.jpg",
+   "mediana_canal": 102234
+  },
+  {
+   "canal": "TROUSY",
+   "handle": "TROUSY",
+   "grupo": "estudado",
+   "formato": "longo",
+   "id": "0YvnE-ZSvWM",
+   "titulo": "Passei 100 DIAS como um NECROMANTE LENDÁRIO em Skyrim!",
+   "views": 690599,
+   "outlier": 3.4,
+   "publicado": "2024-12-18",
+   "thumb": "https://i.ytimg.com/vi/0YvnE-ZSvWM/maxresdefault.jpg",
+   "mediana_canal": 202917
   },
   {
    "canal": "Sev7n Games OFICIAL",
@@ -777,24 +764,11 @@
    "formato": "short",
    "id": "bdPXZd8PyjA",
    "titulo": "GTA 6: Por que a física desse pulo parece errada?",
-   "views": 2880249,
-   "outlier": 3.23,
+   "views": 2937761,
+   "outlier": 3.34,
    "publicado": "2026-09-17",
    "thumb": "https://i.ytimg.com/vi/bdPXZd8PyjA/maxresdefault.jpg",
-   "mediana_canal": 891054
-  },
-  {
-   "canal": "Sev7n Games OFICIAL",
-   "handle": "sev7ngames",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "yE7LkybrNNA",
-   "titulo": "Nunca use o DLSS 5 em jogos de anime!",
-   "views": 2817413,
-   "outlier": 3.16,
-   "publicado": "2026-09-04",
-   "thumb": "https://i.ytimg.com/vi/yE7LkybrNNA/maxresdefault.jpg",
-   "mediana_canal": 891054
+   "mediana_canal": 879028
   },
   {
    "canal": "Sev7n Games OFICIAL",
@@ -803,206 +777,37 @@
    "formato": "short",
    "id": "Ob-vo-khqNQ",
    "titulo": "O jogo que te elimina se você imitar a vaca errado!",
-   "views": 2786291,
-   "outlier": 3.13,
+   "views": 2901466,
+   "outlier": 3.3,
    "publicado": "2026-09-14",
    "thumb": "https://i.ytimg.com/vi/Ob-vo-khqNQ/maxresdefault.jpg",
-   "mediana_canal": 891054
-  },
-  {
-   "canal": "JotaViews",
-   "handle": "jotaviews5",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "QHD5I1-7A2s",
-   "titulo": "O MELHOR JOGO DO HULK - THE INCREDIBLE HULK: ULTIMATE DESTRUCTION",
-   "views": 24457,
-   "outlier": 3.1,
-   "publicado": "2026-05-17",
-   "thumb": "https://i.ytimg.com/vi/QHD5I1-7A2s/maxresdefault.jpg",
-   "mediana_canal": 7899
-  },
-  {
-   "canal": "Liberato",
-   "handle": "liberatooo",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "74yhIBPzZ9Q",
-   "titulo": "Nunca mais vai existir outro jogo como Resident Evil 3",
-   "views": 417426,
-   "outlier": 2.97,
-   "publicado": "2025-05-13",
-   "thumb": "https://i.ytimg.com/vi/74yhIBPzZ9Q/maxresdefault.jpg",
-   "mediana_canal": 140462
+   "mediana_canal": 879028
   },
   {
    "canal": "Sev7n Games OFICIAL",
    "handle": "sev7ngames",
    "grupo": "estudado",
    "formato": "short",
-   "id": "KLmwGdK7PeQ",
-   "titulo": "O jogo onde você DESENHA a sua arma!",
-   "views": 2565477,
-   "outlier": 2.88,
-   "publicado": "2026-09-02",
-   "thumb": "https://i.ytimg.com/vi/KLmwGdK7PeQ/maxresdefault.jpg",
-   "mediana_canal": 891054
-  },
-  {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "66q6hAFBXAw",
-   "titulo": "A DLC sobre matar uma profecia",
-   "views": 285066,
-   "outlier": 2.87,
-   "publicado": "2025-07-26",
-   "thumb": "https://i.ytimg.com/vi/66q6hAFBXAw/maxresdefault.jpg",
-   "mediana_canal": 99292
-  },
-  {
-   "canal": "Richarque",
-   "handle": "richarque",
-   "grupo": "citado",
-   "formato": "longo",
-   "id": "F84QbkftqRQ",
-   "titulo": "O jogo onde VOCÊ é o monstro - The Darkness 2",
-   "views": 282128,
-   "outlier": 2.84,
-   "publicado": "2026-09-05",
-   "thumb": "https://i.ytimg.com/vi/F84QbkftqRQ/maxresdefault.jpg",
-   "mediana_canal": 99292
-  },
-  {
-   "canal": "JotaViews",
-   "handle": "jotaviews5",
-   "grupo": "canal-par",
-   "formato": "short",
-   "id": "eENPJX1qyI4",
-   "titulo": "A sequência desconhecida do filme do Hulk #games #curiosidades #jogos #hulk #marvel",
-   "views": 6704,
-   "outlier": 2.82,
-   "publicado": "2026-07-16",
-   "thumb": "https://i.ytimg.com/vi/eENPJX1qyI4/maxresdefault.jpg",
-   "mediana_canal": 2375
-  },
-  {
-   "canal": "Sev7n Games OFICIAL",
-   "handle": "sev7ngames",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "soebntQbMns",
-   "titulo": "O novo jogo do Wolverine virou piada no lançamento?",
-   "views": 2485740,
-   "outlier": 2.79,
-   "publicado": "2026-09-18",
-   "thumb": "https://i.ytimg.com/vi/soebntQbMns/maxresdefault.jpg",
-   "mediana_canal": 891054
+   "id": "yE7LkybrNNA",
+   "titulo": "Nunca use o DLSS 5 em jogos de anime!",
+   "views": 2860239,
+   "outlier": 3.25,
+   "publicado": "2026-09-04",
+   "thumb": "https://i.ytimg.com/vi/yE7LkybrNNA/maxresdefault.jpg",
+   "mediana_canal": 879028
   },
   {
    "canal": "Anthomnia",
    "handle": "anthomnia",
    "grupo": "estudado",
    "formato": "short",
-   "id": "BKADcjZc3pk",
-   "titulo": "\"I Forgot my Name.. It Didn't..\" - Subnautica: Titan's Wall #subnautica",
-   "views": 425817,
-   "outlier": 2.75,
-   "publicado": "2025-05-18",
-   "thumb": "https://i.ytimg.com/vi/BKADcjZc3pk/maxresdefault.jpg",
-   "mediana_canal": 155113
-  },
-  {
-   "canal": "Anthomnia",
-   "handle": "anthomnia",
-   "grupo": "estudado",
-   "formato": "longo",
-   "id": "iqCzPCOdw7c",
-   "titulo": "World First Exclusive: Subnautica 2 Gameplay, New Series Reveal, Dev Interview, New Leviathan & More",
-   "views": 756949,
-   "outlier": 2.69,
-   "publicado": "2025-11-07",
-   "thumb": "https://i.ytimg.com/vi/iqCzPCOdw7c/maxresdefault.jpg",
-   "mediana_canal": 281741
-  },
-  {
-   "canal": "OGabas",
-   "handle": "eogabos",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "AX4IotUqmiI",
-   "titulo": "O Melhor Ben 10 do PS2 NÃO ERA tão bom assim?",
-   "views": 143781,
-   "outlier": 2.69,
-   "publicado": "2025-12-24",
-   "thumb": "https://i.ytimg.com/vi/AX4IotUqmiI/maxresdefault.jpg",
-   "mediana_canal": 53461
-  },
-  {
-   "canal": "Anthomnia",
-   "handle": "anthomnia",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "9i45KZG337U",
-   "titulo": "The Bloop \"Mega Leviathan\" in Subnautica 2 + Scorpius Trenches Next Update Preview!",
-   "views": 416188,
-   "outlier": 2.68,
-   "publicado": "2026-09-12",
-   "thumb": "https://i.ytimg.com/vi/9i45KZG337U/maxresdefault.jpg",
-   "mediana_canal": 155113
-  },
-  {
-   "canal": "Liberato",
-   "handle": "liberatooo",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "LaLPtrpVVgg",
-   "titulo": "BLASPHEMOUS: A História COMPLETA do Milagre",
-   "views": 366757,
-   "outlier": 2.61,
-   "publicado": "2025-11-08",
-   "thumb": "https://i.ytimg.com/vi/LaLPtrpVVgg/maxresdefault.jpg",
-   "mediana_canal": 140462
-  },
-  {
-   "canal": "Sev7n Games OFICIAL",
-   "handle": "sev7ngames",
-   "grupo": "estudado",
-   "formato": "short",
-   "id": "arSnQZcM3a0",
-   "titulo": "O jogo cooperativo onde o objetivo é quebrar um ovo gigante! - CRACK",
-   "views": 2319810,
-   "outlier": 2.6,
-   "publicado": "2026-09-22",
-   "thumb": "https://i.ytimg.com/vi/arSnQZcM3a0/maxresdefault.jpg",
-   "mediana_canal": 891054
-  },
-  {
-   "canal": "Guigahz",
-   "handle": "guigahz",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "EFYfL_vm43s",
-   "titulo": "Analisei o MELHOR Jogo de Darksiders de Todos os Tempos! - Darksiders 2",
-   "views": 52372,
-   "outlier": 2.49,
-   "publicado": "2026-05-20",
-   "thumb": "https://i.ytimg.com/vi/EFYfL_vm43s/maxresdefault.jpg",
-   "mediana_canal": 21056
-  },
-  {
-   "canal": "Guigahz",
-   "handle": "guigahz",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "OH_LhHY66Zc",
-   "titulo": "Experimentei Marvel Spider-Man 1 é Realmente MELHOR do Que o 2?",
-   "views": 51821,
-   "outlier": 2.46,
-   "publicado": "2025-11-26",
-   "thumb": "https://i.ytimg.com/vi/OH_LhHY66Zc/maxresdefault.jpg",
-   "mediana_canal": 21056
+   "id": "vByqr4MqcxY",
+   "titulo": "Subnautica 2 Update leaked EVERYTHING! New Leviathan? New Sub, New Update!",
+   "views": 504201,
+   "outlier": 3.25,
+   "publicado": "2026-07-08",
+   "thumb": "https://i.ytimg.com/vi/vByqr4MqcxY/maxresdefault.jpg",
+   "mediana_canal": 155159
   },
   {
    "canal": "Guigahz",
@@ -1011,11 +816,193 @@
    "formato": "short",
    "id": "F26P2gC4G0U",
    "titulo": "ALEXIOS OU KASSANDRA QUAL É O PRINCIPAL? #assassinscreed #games #ubisoft",
-   "views": 198783,
-   "outlier": 2.46,
+   "views": 205340,
+   "outlier": 3.19,
    "publicado": "2026-07-27",
    "thumb": "https://i.ytimg.com/vi/F26P2gC4G0U/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "mediana_canal": 64445
+  },
+  {
+   "canal": "JotaViews",
+   "handle": "jotaviews5",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "QHD5I1-7A2s",
+   "titulo": "O MELHOR JOGO DO HULK - THE INCREDIBLE HULK: ULTIMATE DESTRUCTION",
+   "views": 24725,
+   "outlier": 3.0,
+   "publicado": "2026-05-17",
+   "thumb": "https://i.ytimg.com/vi/QHD5I1-7A2s/maxresdefault.jpg",
+   "mediana_canal": 8243
+  },
+  {
+   "canal": "Sev7n Games OFICIAL",
+   "handle": "sev7ngames",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "2CEaC4hTbG8",
+   "titulo": "Quem foi o PRIMEIRO do mundo a comprar o novo iPhone?",
+   "views": 2520786,
+   "outlier": 2.87,
+   "publicado": "2026-09-20",
+   "thumb": "https://i.ytimg.com/vi/2CEaC4hTbG8/maxresdefault.jpg",
+   "mediana_canal": 879028
+  },
+  {
+   "canal": "Sev7n Games OFICIAL",
+   "handle": "sev7ngames",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "Q55FP7WaUvc",
+   "titulo": "A lição de vida que o Speed deu no Nitro Camden",
+   "views": 2517087,
+   "outlier": 2.86,
+   "publicado": "2026-09-04",
+   "thumb": "https://i.ytimg.com/vi/Q55FP7WaUvc/maxresdefault.jpg",
+   "mediana_canal": 879028
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "66q6hAFBXAw",
+   "titulo": "A DLC sobre matar uma profecia",
+   "views": 289153,
+   "outlier": 2.83,
+   "publicado": "2025-07-26",
+   "thumb": "https://i.ytimg.com/vi/66q6hAFBXAw/maxresdefault.jpg",
+   "mediana_canal": 102234
+  },
+  {
+   "canal": "JotaViews",
+   "handle": "jotaviews5",
+   "grupo": "canal-par",
+   "formato": "short",
+   "id": "eENPJX1qyI4",
+   "titulo": "A sequência desconhecida do filme do Hulk #games #curiosidades #jogos #hulk #marvel",
+   "views": 6707,
+   "outlier": 2.81,
+   "publicado": "2026-07-16",
+   "thumb": "https://i.ytimg.com/vi/eENPJX1qyI4/maxresdefault.jpg",
+   "mediana_canal": 2390
+  },
+  {
+   "canal": "Richarque",
+   "handle": "richarque",
+   "grupo": "citado",
+   "formato": "longo",
+   "id": "F84QbkftqRQ",
+   "titulo": "O jogo onde VOCÊ é o monstro - The Darkness 2",
+   "views": 287763,
+   "outlier": 2.81,
+   "publicado": "2026-09-05",
+   "thumb": "https://i.ytimg.com/vi/F84QbkftqRQ/maxresdefault.jpg",
+   "mediana_canal": 102234
+  },
+  {
+   "canal": "Anthomnia",
+   "handle": "anthomnia",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "9i45KZG337U",
+   "titulo": "The Bloop \"Mega Leviathan\" in Subnautica 2 + Scorpius Trenches Next Update Preview!",
+   "views": 428732,
+   "outlier": 2.76,
+   "publicado": "2026-09-12",
+   "thumb": "https://i.ytimg.com/vi/9i45KZG337U/maxresdefault.jpg",
+   "mediana_canal": 155159
+  },
+  {
+   "canal": "Liberato",
+   "handle": "liberatooo",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "74yhIBPzZ9Q",
+   "titulo": "Nunca mais vai existir outro jogo como Resident Evil 3",
+   "views": 419151,
+   "outlier": 2.75,
+   "publicado": "2025-05-13",
+   "thumb": "https://i.ytimg.com/vi/74yhIBPzZ9Q/maxresdefault.jpg",
+   "mediana_canal": 152453
+  },
+  {
+   "canal": "Anthomnia",
+   "handle": "anthomnia",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "BKADcjZc3pk",
+   "titulo": "\"I Forgot my Name.. It Didn't..\" - Subnautica: Titan's Wall #subnautica",
+   "views": 425855,
+   "outlier": 2.74,
+   "publicado": "2025-05-18",
+   "thumb": "https://i.ytimg.com/vi/BKADcjZc3pk/maxresdefault.jpg",
+   "mediana_canal": 155159
+  },
+  {
+   "canal": "Anthomnia",
+   "handle": "anthomnia",
+   "grupo": "estudado",
+   "formato": "longo",
+   "id": "iqCzPCOdw7c",
+   "titulo": "World First Exclusive: Subnautica 2 Gameplay, New Series Reveal, Dev Interview, New Leviathan & More",
+   "views": 757018,
+   "outlier": 2.65,
+   "publicado": "2025-11-07",
+   "thumb": "https://i.ytimg.com/vi/iqCzPCOdw7c/maxresdefault.jpg",
+   "mediana_canal": 285261
+  },
+  {
+   "canal": "OGabas",
+   "handle": "eogabos",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "AX4IotUqmiI",
+   "titulo": "O Melhor Ben 10 do PS2 NÃO ERA tão bom assim?",
+   "views": 146920,
+   "outlier": 2.58,
+   "publicado": "2025-12-24",
+   "thumb": "https://i.ytimg.com/vi/AX4IotUqmiI/maxresdefault.jpg",
+   "mediana_canal": 57025
+  },
+  {
+   "canal": "Guigahz",
+   "handle": "guigahz",
+   "grupo": "canal-par",
+   "formato": "short",
+   "id": "a5zmcrfDuCE",
+   "titulo": "OS MAIORES ERROS DOS PROTAGONISTAS DE ASSASSINS CREED #games #ubisoft #assassinscreed",
+   "views": 166001,
+   "outlier": 2.58,
+   "publicado": "2026-08-31",
+   "thumb": "https://i.ytimg.com/vi/a5zmcrfDuCE/maxresdefault.jpg",
+   "mediana_canal": 64445
+  },
+  {
+   "canal": "Liberato",
+   "handle": "liberatooo",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "LaLPtrpVVgg",
+   "titulo": "BLASPHEMOUS: A História COMPLETA do Milagre",
+   "views": 372078,
+   "outlier": 2.44,
+   "publicado": "2025-11-08",
+   "thumb": "https://i.ytimg.com/vi/LaLPtrpVVgg/maxresdefault.jpg",
+   "mediana_canal": 152453
+  },
+  {
+   "canal": "Guigahz",
+   "handle": "guigahz",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "EFYfL_vm43s",
+   "titulo": "Analisei o MELHOR Jogo de Darksiders de Todos os Tempos! - Darksiders 2",
+   "views": 52861,
+   "outlier": 2.43,
+   "publicado": "2026-05-20",
+   "thumb": "https://i.ytimg.com/vi/EFYfL_vm43s/maxresdefault.jpg",
+   "mediana_canal": 21778
   },
   {
    "canal": "JotaViews",
@@ -1024,11 +1011,50 @@
    "formato": "longo",
    "id": "JgntYz2UAcQ",
    "titulo": "O BRUTAL JOGO DO JUSTICEIRO DE PS2 - THE PUNISHER",
-   "views": 19218,
-   "outlier": 2.43,
+   "views": 19366,
+   "outlier": 2.35,
    "publicado": "2026-08-05",
    "thumb": "https://i.ytimg.com/vi/JgntYz2UAcQ/maxresdefault.jpg",
-   "mediana_canal": 7899
+   "mediana_canal": 8243
+  },
+  {
+   "canal": "LOUD Coringa",
+   "handle": "loudcoringa",
+   "grupo": "estudado",
+   "formato": "short",
+   "id": "04NJuIDooeQ",
+   "titulo": "REAGI A TAINÁ JOGANDO FREE FIRE! #loudcoringa",
+   "views": 56210,
+   "outlier": 2.32,
+   "publicado": "2026-08-27",
+   "thumb": "https://i.ytimg.com/vi/04NJuIDooeQ/maxresdefault.jpg",
+   "mediana_canal": 24225
+  },
+  {
+   "canal": "Guigahz",
+   "handle": "guigahz",
+   "grupo": "canal-par",
+   "formato": "short",
+   "id": "0ghqo3ZP9jg",
+   "titulo": "O EIVOR OU A EIVOR EM ASSASSINS CREED VALHALLA? #assassinscreed #games #ubisoft",
+   "views": 140037,
+   "outlier": 2.17,
+   "publicado": "2026-07-31",
+   "thumb": "https://i.ytimg.com/vi/0ghqo3ZP9jg/maxresdefault.jpg",
+   "mediana_canal": 64445
+  },
+  {
+   "canal": "Guigahz",
+   "handle": "guigahz",
+   "grupo": "canal-par",
+   "formato": "short",
+   "id": "8Mqx0Dp7hFY",
+   "titulo": "VOCÊ PRECISA VOLTAR PARA ASSASSINS CREED ODYSSEY #assassinscreed #games #ubisoft",
+   "views": 138893,
+   "outlier": 2.16,
+   "publicado": "2026-08-08",
+   "thumb": "https://i.ytimg.com/vi/8Mqx0Dp7hFY/maxresdefault.jpg",
+   "mediana_canal": 64445
   },
   {
    "canal": "Guigahz",
@@ -1037,11 +1063,24 @@
    "formato": "longo",
    "id": "x2MKojR60WM",
    "titulo": "Analisei o Assassins Creed que Ninguém LEMBRA Mais! - Assassin's Creed Shadows",
-   "views": 45301,
-   "outlier": 2.15,
+   "views": 45741,
+   "outlier": 2.1,
    "publicado": "2026-05-13",
    "thumb": "https://i.ytimg.com/vi/x2MKojR60WM/maxresdefault.jpg",
-   "mediana_canal": 21056
+   "mediana_canal": 21778
+  },
+  {
+   "canal": "Guigahz",
+   "handle": "guigahz",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "pzjHViypc90",
+   "titulo": "Joguei Uncharted 4 DEZ ANOS Depois e Fiquei Muito P*to!",
+   "views": 44195,
+   "outlier": 2.03,
+   "publicado": "2026-09-23",
+   "thumb": "https://i.ytimg.com/vi/pzjHViypc90/maxresdefault.jpg",
+   "mediana_canal": 21778
   },
   {
    "canal": "JotaViews",
@@ -1050,11 +1089,11 @@
    "formato": "short",
    "id": "8_ZMjrBP3sc",
    "titulo": "O jogo do Homem-Aranha 2 foi revolucionário. #spiderman #marvel #games #jogos #curiosidades",
-   "views": 4822,
-   "outlier": 2.03,
+   "views": 4830,
+   "outlier": 2.02,
    "publicado": "2026-08-17",
    "thumb": "https://i.ytimg.com/vi/8_ZMjrBP3sc/maxresdefault.jpg",
-   "mediana_canal": 2375
+   "mediana_canal": 2390
   },
   {
    "canal": "Beto",
@@ -1063,8 +1102,8 @@
    "formato": "short",
    "id": "lVaNXUcqQNM",
    "titulo": "O jogo que DESTRUIU uma FRANQUIA #shorts",
-   "views": 3028,
-   "outlier": 2.0,
+   "views": 3033,
+   "outlier": 2.01,
    "publicado": "2026-06-02",
    "thumb": "https://i.ytimg.com/vi/lVaNXUcqQNM/maxresdefault.jpg",
    "mediana_canal": 1512
@@ -1076,11 +1115,11 @@
    "formato": "longo",
    "id": "ehQF4qMhNhU",
    "titulo": "Subnautica 2 - HUGE Update Preview - New Leviathan leaks, Sub, Leviathans & Scorpius Trenches Update",
-   "views": 561829,
+   "views": 566607,
    "outlier": 1.99,
    "publicado": "2026-08-12",
    "thumb": "https://i.ytimg.com/vi/ehQF4qMhNhU/maxresdefault.jpg",
-   "mediana_canal": 281741
+   "mediana_canal": 285261
   },
   {
    "canal": "Anthomnia",
@@ -1089,11 +1128,11 @@
    "formato": "longo",
    "id": "FiTVfrrEKVU",
    "titulo": "The Elusive Leviathan & Trident Submarine in Subnautica 2! (Leaked Early Access Gameplay)",
-   "views": 557961,
-   "outlier": 1.98,
+   "views": 559099,
+   "outlier": 1.96,
    "publicado": "2026-05-15",
    "thumb": "https://i.ytimg.com/vi/FiTVfrrEKVU/maxresdefault.jpg",
-   "mediana_canal": 281741
+   "mediana_canal": 285261
   },
   {
    "canal": "Guigahz",
@@ -1102,24 +1141,11 @@
    "formato": "longo",
    "id": "GTe7yLyiFY0",
    "titulo": "Analisei o Watch Dogs Que TODO Mundo Odeia - Watch Dogs legion",
-   "views": 41665,
-   "outlier": 1.98,
+   "views": 42093,
+   "outlier": 1.93,
    "publicado": "2026-07-01",
    "thumb": "https://i.ytimg.com/vi/GTe7yLyiFY0/maxresdefault.jpg",
-   "mediana_canal": 21056
-  },
-  {
-   "canal": "Guigahz",
-   "handle": "guigahz",
-   "grupo": "canal-par",
-   "formato": "short",
-   "id": "a5zmcrfDuCE",
-   "titulo": "OS MAIORES ERROS DOS PROTAGONISTAS DE ASSASSINS CREED #games #ubisoft #assassinscreed",
-   "views": 158823,
-   "outlier": 1.97,
-   "publicado": "2026-08-31",
-   "thumb": "https://i.ytimg.com/vi/a5zmcrfDuCE/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "mediana_canal": 21778
   },
   {
    "canal": "LOUD Coringa",
@@ -1128,24 +1154,11 @@
    "formato": "longo",
    "id": "wpEKpks29oQ",
    "titulo": "CORINGA DE VOLTA AO LAR !!!! 50 DIAS DEPOIS... ESTAMOS DE VOLTA  🔴 CORINGA AO VIVO",
-   "views": 234588,
-   "outlier": 1.86,
+   "views": 234705,
+   "outlier": 1.84,
    "publicado": "2026-07-28",
    "thumb": "https://i.ytimg.com/vi/wpEKpks29oQ/maxresdefault.jpg",
-   "mediana_canal": 126008
-  },
-  {
-   "canal": "Liberato",
-   "handle": "liberatooo",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "omb3v6kO0vM",
-   "titulo": "AMNESIA THE BUNKER É BRUTAL",
-   "views": 259103,
-   "outlier": 1.84,
-   "publicado": "2024-04-20",
-   "thumb": "https://i.ytimg.com/vi/omb3v6kO0vM/maxresdefault.jpg",
-   "mediana_canal": 140462
+   "mediana_canal": 127276
   },
   {
    "canal": "JotaViews",
@@ -1154,24 +1167,24 @@
    "formato": "short",
    "id": "ch-XYvVuA0c",
    "titulo": "O jogo do homem de ferro foi uma bagunça #games #jogos #curiosidades #marvel #ironman",
-   "views": 4379,
-   "outlier": 1.84,
+   "views": 4380,
+   "outlier": 1.83,
    "publicado": "2026-07-17",
    "thumb": "https://i.ytimg.com/vi/ch-XYvVuA0c/maxresdefault.jpg",
-   "mediana_canal": 2375
+   "mediana_canal": 2390
   },
   {
-   "canal": "Liberato",
-   "handle": "liberatooo",
+   "canal": "OGabas",
+   "handle": "eogabos",
    "grupo": "canal-par",
    "formato": "longo",
-   "id": "7VXOIPDrwAg",
-   "titulo": "Fear & Hunger é um castigo",
-   "views": 257386,
-   "outlier": 1.83,
-   "publicado": "2025-07-02",
-   "thumb": "https://i.ytimg.com/vi/7VXOIPDrwAg/maxresdefault.jpg",
-   "mediana_canal": 140462
+   "id": "2p7pEYJGGx8",
+   "titulo": "A Oitava Maravilha do PS2 chamada KING KONG",
+   "views": 103553,
+   "outlier": 1.82,
+   "publicado": "2026-09-26",
+   "thumb": "https://i.ytimg.com/vi/2p7pEYJGGx8/maxresdefault.jpg",
+   "mediana_canal": 57025
   },
   {
    "canal": "Guigahz",
@@ -1180,11 +1193,11 @@
    "formato": "longo",
    "id": "Q6XYg2JCths",
    "titulo": "Resident Evil 6 é o PIOR Jogo da Saga Resident Evil! Mas eu Amo ESSE LIXO",
-   "views": 38604,
-   "outlier": 1.83,
+   "views": 38847,
+   "outlier": 1.78,
    "publicado": "2026-01-28",
    "thumb": "https://i.ytimg.com/vi/Q6XYg2JCths/maxresdefault.jpg",
-   "mediana_canal": 21056
+   "mediana_canal": 21778
   },
   {
    "canal": "LOUD Coringa",
@@ -1193,11 +1206,11 @@
    "formato": "longo",
    "id": "W7S1CFoAgsE",
    "titulo": "CORINGA DE VOLTA !!!!! LIVE DE REACT + FIFA + GTA",
-   "views": 218408,
-   "outlier": 1.73,
+   "views": 218464,
+   "outlier": 1.72,
    "publicado": "2026-07-29",
    "thumb": "https://i.ytimg.com/vi/W7S1CFoAgsE/maxresdefault.jpg",
-   "mediana_canal": 126008
+   "mediana_canal": 127276
   },
   {
    "canal": "Beto",
@@ -1206,24 +1219,37 @@
    "formato": "short",
    "id": "p9u0sCADaRk",
    "titulo": "A luta com esse GORDÃO é complicada!!#shorts",
-   "views": 2596,
+   "views": 2597,
    "outlier": 1.72,
    "publicado": "2026-06-19",
    "thumb": "https://i.ytimg.com/vi/p9u0sCADaRk/maxresdefault.jpg",
    "mediana_canal": 1512
   },
   {
-   "canal": "Guigahz",
-   "handle": "guigahz",
+   "canal": "Liberato",
+   "handle": "liberatooo",
    "grupo": "canal-par",
-   "formato": "short",
-   "id": "0ghqo3ZP9jg",
-   "titulo": "O EIVOR OU A EIVOR EM ASSASSINS CREED VALHALLA? #assassinscreed #games #ubisoft",
-   "views": 137721,
-   "outlier": 1.71,
-   "publicado": "2026-07-31",
-   "thumb": "https://i.ytimg.com/vi/0ghqo3ZP9jg/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "formato": "longo",
+   "id": "nmozxD_ClCQ",
+   "titulo": "Fear & Hunger 2 me fez pior",
+   "views": 259147,
+   "outlier": 1.7,
+   "publicado": "2026-06-20",
+   "thumb": "https://i.ytimg.com/vi/nmozxD_ClCQ/maxresdefault.jpg",
+   "mediana_canal": 152453
+  },
+  {
+   "canal": "Liberato",
+   "handle": "liberatooo",
+   "grupo": "canal-par",
+   "formato": "longo",
+   "id": "7VXOIPDrwAg",
+   "titulo": "Fear & Hunger é um castigo",
+   "views": 258921,
+   "outlier": 1.7,
+   "publicado": "2025-07-02",
+   "thumb": "https://i.ytimg.com/vi/7VXOIPDrwAg/maxresdefault.jpg",
+   "mediana_canal": 152453
   },
   {
    "canal": "MrBeast",
@@ -1232,11 +1258,11 @@
    "formato": "longo",
    "id": "zRtGL0-5rg4",
    "titulo": "Last To Leave Grocery Store, Wins $250,000",
-   "views": 200774020,
-   "outlier": 1.7,
+   "views": 203251989,
+   "outlier": 1.67,
    "publicado": "2026-04-18",
    "thumb": "https://i.ytimg.com/vi/zRtGL0-5rg4/maxresdefault.jpg",
-   "mediana_canal": 117822882
+   "mediana_canal": 121539211
   },
   {
    "canal": "Anthomnia",
@@ -1245,24 +1271,11 @@
    "formato": "longo",
    "id": "c-iVsB_wz6c",
    "titulo": "The Dead Zone Mapping Initiative - Subnautica: Prototype Expansion",
-   "views": 473732,
-   "outlier": 1.68,
+   "views": 474105,
+   "outlier": 1.66,
    "publicado": "2025-08-02",
    "thumb": "https://i.ytimg.com/vi/c-iVsB_wz6c/maxresdefault.jpg",
-   "mediana_canal": 281741
-  },
-  {
-   "canal": "Guigahz",
-   "handle": "guigahz",
-   "grupo": "canal-par",
-   "formato": "short",
-   "id": "8Mqx0Dp7hFY",
-   "titulo": "VOCÊ PRECISA VOLTAR PARA ASSASSINS CREED ODYSSEY #assassinscreed #games #ubisoft",
-   "views": 133203,
-   "outlier": 1.65,
-   "publicado": "2026-08-08",
-   "thumb": "https://i.ytimg.com/vi/8Mqx0Dp7hFY/maxresdefault.jpg",
-   "mediana_canal": 80700
+   "mediana_canal": 285261
   },
   {
    "canal": "Anthomnia",
@@ -1271,11 +1284,11 @@
    "formato": "longo",
    "id": "Xo6kVPFD6ao",
    "titulo": "A Fate Worse than meeting the Legendary Colossal Void Leviathan.. - Subnautica The Red Plague",
-   "views": 458072,
-   "outlier": 1.63,
+   "views": 458965,
+   "outlier": 1.61,
    "publicado": "2025-10-29",
    "thumb": "https://i.ytimg.com/vi/Xo6kVPFD6ao/maxresdefault.jpg",
-   "mediana_canal": 281741
+   "mediana_canal": 285261
   },
   {
    "canal": "LOUD Coringa",
@@ -1284,11 +1297,11 @@
    "formato": "longo",
    "id": "_Y2OzWN-cd4",
    "titulo": "CHEGOU O GRANDE DIA !!! ANUNCIO CAMPEONATO 🔴 CORINGA AO VIVO",
-   "views": 193756,
-   "outlier": 1.54,
+   "views": 193930,
+   "outlier": 1.52,
    "publicado": "2026-08-09",
    "thumb": "https://i.ytimg.com/vi/_Y2OzWN-cd4/maxresdefault.jpg",
-   "mediana_canal": 126008
+   "mediana_canal": 127276
   },
   {
    "canal": "MrBeast",
@@ -1297,11 +1310,11 @@
    "formato": "longo",
    "id": "6Zy5VLcEbZc",
    "titulo": "I Stranded 100 People In The Wilderness For $250,000",
-   "views": 179032331,
-   "outlier": 1.52,
+   "views": 182063689,
+   "outlier": 1.5,
    "publicado": "2026-05-02",
    "thumb": "https://i.ytimg.com/vi/6Zy5VLcEbZc/maxresdefault.jpg",
-   "mediana_canal": 117822882
+   "mediana_canal": 121539211
   },
   {
    "canal": "LOUD Coringa",
@@ -1310,11 +1323,11 @@
    "formato": "longo",
    "id": "1plP6ZaMw5M",
    "titulo": "CORINGA AO VIVO // NOITADA COM AMIGOS + UNBOXING + REACT + GTA + FIFA VS JUNINHO MANELA",
-   "views": 190062,
-   "outlier": 1.51,
+   "views": 190135,
+   "outlier": 1.49,
    "publicado": "2026-08-03",
    "thumb": "https://i.ytimg.com/vi/1plP6ZaMw5M/maxresdefault.jpg",
-   "mediana_canal": 126008
+   "mediana_canal": 127276
   },
   {
    "canal": "JotaViews",
@@ -1323,11 +1336,11 @@
    "formato": "short",
    "id": "jtNp7FuF5Tw",
    "titulo": "O jogo da Liga da Justiça #dc #justiceleague #games #jogos #curiosidades",
-   "views": 3451,
+   "views": 3469,
    "outlier": 1.45,
    "publicado": "2026-08-22",
    "thumb": "https://i.ytimg.com/vi/jtNp7FuF5Tw/maxresdefault.jpg",
-   "mediana_canal": 2375
+   "mediana_canal": 2390
   },
   {
    "canal": "MrBeast",
@@ -1336,11 +1349,11 @@
    "formato": "longo",
    "id": "JFtlf8RoPZY",
    "titulo": "Trapped On An Island Until I Build A Boat",
-   "views": 169449884,
-   "outlier": 1.44,
+   "views": 170319854,
+   "outlier": 1.4,
    "publicado": "2026-03-21",
    "thumb": "https://i.ytimg.com/vi/JFtlf8RoPZY/maxresdefault.jpg",
-   "mediana_canal": 117822882
+   "mediana_canal": 121539211
   },
   {
    "canal": "LOUD Coringa",
@@ -1349,11 +1362,11 @@
    "formato": "longo",
    "id": "OZeakDiL8Ts",
    "titulo": "🇧🇷 IRL | FESTA À FANTASIA MAIS INSANA DA FORMA! 🔴 CORINGA AO VIVO",
-   "views": 168507,
-   "outlier": 1.34,
+   "views": 169020,
+   "outlier": 1.33,
    "publicado": "2026-07-25",
    "thumb": "https://i.ytimg.com/vi/OZeakDiL8Ts/maxresdefault.jpg",
-   "mediana_canal": 126008
+   "mediana_canal": 127276
   },
   {
    "canal": "Beto",
@@ -1362,7 +1375,7 @@
    "formato": "short",
    "id": "Lp8o1ye1maQ",
    "titulo": "Essa é a MELHOR HISTÓRIA de FAROESTE? #shorts",
-   "views": 2006,
+   "views": 2007,
    "outlier": 1.33,
    "publicado": "2026-05-19",
    "thumb": "https://i.ytimg.com/vi/Lp8o1ye1maQ/maxresdefault.jpg",
@@ -1375,11 +1388,11 @@
    "formato": "longo",
    "id": "5DHj9xG5mY8",
    "titulo": "NARELOTTI CHEGOU!!! LIVE DE TERROR + REACT + FIFA + GTA 🔴 CORINGA AO VIVO",
-   "views": 166675,
-   "outlier": 1.32,
+   "views": 166736,
+   "outlier": 1.31,
    "publicado": "2026-07-30",
    "thumb": "https://i.ytimg.com/vi/5DHj9xG5mY8/maxresdefault.jpg",
-   "mediana_canal": 126008
+   "mediana_canal": 127276
   },
   {
    "canal": "JotaViews",
@@ -1388,11 +1401,11 @@
    "formato": "short",
    "id": "lYIjVXRDy9o",
    "titulo": "O fracasso do jogo do Esquadrão Suicida #games #jogos #curiosidades #dc #batman",
-   "views": 3116,
+   "views": 3122,
    "outlier": 1.31,
    "publicado": "2026-05-02",
    "thumb": "https://i.ytimg.com/vi/lYIjVXRDy9o/maxresdefault.jpg",
-   "mediana_canal": 2375
+   "mediana_canal": 2390
   },
   {
    "canal": "JotaViews",
@@ -1401,11 +1414,11 @@
    "formato": "short",
    "id": "YgBk45bc7WM",
    "titulo": "A sequência cancelada de Spider-Man: Web of Shadows #curiosidades #games #spiderman #marvel #jogos",
-   "views": 3098,
+   "views": 3101,
    "outlier": 1.3,
    "publicado": "2026-05-30",
    "thumb": "https://i.ytimg.com/vi/YgBk45bc7WM/maxresdefault.jpg",
-   "mediana_canal": 2375
+   "mediana_canal": 2390
   },
   {
    "canal": "OGabas",
@@ -1414,11 +1427,11 @@
    "formato": "longo",
    "id": "IjOZfvbpNL0",
    "titulo": "O segundo jogo de Ben 10 é uma DECEPÇÃO COMPLETA",
-   "views": 67808,
-   "outlier": 1.27,
+   "views": 70501,
+   "outlier": 1.24,
    "publicado": "2026-05-30",
    "thumb": "https://i.ytimg.com/vi/IjOZfvbpNL0/maxresdefault.jpg",
-   "mediana_canal": 53461
+   "mediana_canal": 57025
   },
   {
    "canal": "MrBeast",
@@ -1427,11 +1440,11 @@
    "formato": "longo",
    "id": "AoN1K4c7VKE",
    "titulo": "Survive 30 Days Stranded With Your Ex, Win $250,000",
-   "views": 138643121,
-   "outlier": 1.18,
+   "views": 138991581,
+   "outlier": 1.14,
    "publicado": "2026-03-07",
    "thumb": "https://i.ytimg.com/vi/AoN1K4c7VKE/maxresdefault.jpg",
-   "mediana_canal": 117822882
+   "mediana_canal": 121539211
   },
   {
    "canal": "MrBeast",
@@ -1440,11 +1453,11 @@
    "formato": "longo",
    "id": "GpQSUjNsNm0",
    "titulo": "7 Days Stranded in The Arctic",
-   "views": 134467547,
-   "outlier": 1.14,
+   "views": 136094597,
+   "outlier": 1.12,
    "publicado": "2026-05-30",
    "thumb": "https://i.ytimg.com/vi/GpQSUjNsNm0/maxresdefault.jpg",
-   "mediana_canal": 117822882
+   "mediana_canal": 121539211
   },
   {
    "canal": "Beto",
@@ -1453,7 +1466,7 @@
    "formato": "short",
    "id": "C-KhSOGHFO4",
    "titulo": "A ROCKSTAR é imbatível nos DETALHES #shorts",
-   "views": 1690,
+   "views": 1699,
    "outlier": 1.12,
    "publicado": "2026-07-21",
    "thumb": "https://i.ytimg.com/vi/C-KhSOGHFO4/maxresdefault.jpg",
@@ -1466,25 +1479,12 @@
    "formato": "longo",
    "id": "DXVHmGoCTco",
    "titulo": "50 Streamers Fight for $1,000,000",
-   "views": 126446966,
-   "outlier": 1.07,
+   "views": 127370005,
+   "outlier": 1.05,
    "publicado": "2026-04-04",
    "thumb": "https://i.ytimg.com/vi/DXVHmGoCTco/maxresdefault.jpg",
-   "mediana_canal": 117822882
-  },
-  {
-   "canal": "OGabas",
-   "handle": "eogabos",
-   "grupo": "canal-par",
-   "formato": "longo",
-   "id": "Xj43A2LlGZ4",
-   "titulo": "Shaolin Monks: A OBRA PRIMA esquecida de Mortal Kombat",
-   "views": 55434,
-   "outlier": 1.04,
-   "publicado": "2026-04-25",
-   "thumb": "https://i.ytimg.com/vi/Xj43A2LlGZ4/maxresdefault.jpg",
-   "mediana_canal": 53461
+   "mediana_canal": 121539211
   }
  ],
- "gerado_em": "2026-09-30T13:12-03:00"
+ "gerado_em": "2026-10-05T08:47-03:00"
 }
