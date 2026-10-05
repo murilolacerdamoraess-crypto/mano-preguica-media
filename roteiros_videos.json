@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T00:22:08.466054Z",
+ "gerado_em": "2026-10-05T00:24:06.995893Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -120,16 +120,16 @@
   },
   {
    "arquivo": "roteiro-rematch-egoisto.md",
-   "name": "Roteiro Rematch Egoísto (longo narrado, minissérie em 5 atos)",
+   "name": "Roteiro Rematch Egoísto (longo narrado, minissérie em 5 capítulos)",
    "titulo_roteiro": "Roteiro: REMATCH EGOÍSTO",
-   "description": "Roteiro do longo do Rematch 24h em cima do rascunho do Murilo (verbatim) e do arco de 5 atos fechado com ele em 02/10, com cada beat ligado ao trecho de gravação, a conta do passe do Blue Lock tirada da tela do jogo (ato",
+   "description": "Versão 2 (04/10), em formato de produção pedido pelo Murilo. Tabela por capítulo, cena por cena, com o que ele fala, o que aparece na tela (com o minuto da gravação), o estilo da edição e a duração; mapa do vídeo e padrã",
    "status": "aguardando-aprovacao-murilo",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": null
+   "versao": "2"
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
