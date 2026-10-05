@@ -360,6 +360,9 @@ PASTAS_VIDEO = [   # (pasta, canal, seção, quantos no máximo; 0 = todos)
     ("VIDEOS/3 - Videos Curtos", "Canal principal", "publicados", 8),
     ("VIDEOS/2 - Editados", "Canal principal", "publicados", 4),
     ("Mano Preguica/MP2 - PRONTOS PRA SUBIR/publicados", "Mano Preguiça 2", "publicados", 6),
+    # 05/10: o Windows fez 3 vídeos novos da corrida de dados e eles ficaram aqui, invisíveis pro Murilo
+    ("VIDEOS/PROJETOS CLAUDE (saidas)", "Feito pelo Windows", "previas", 12),
+    ("VIDEOS/6 - Edicao IA (bastidores)/testes", "Teste do Windows", "previas", 6),
 ]
 
 
@@ -372,6 +375,23 @@ def drive_id(caminho):
         return None
 
 
+def telegram_simples(texto):
+    import urllib.request, urllib.parse
+    env = {}
+    try:
+        for l in open(os.path.join(os.path.expanduser("~"), ".rotina-os", "rotina-os.env"), encoding="utf-8"):
+            if "=" in l and not l.lstrip().startswith("#"):
+                k, v = l.split("=", 1); env[k.strip()] = v.strip().strip('"').strip("'")
+    except OSError:
+        return
+    if env.get("TELEGRAM_BOT_TOKEN") and env.get("CHAT_ID"):
+        try:
+            urllib.request.urlopen(f"https://api.telegram.org/bot{env['TELEGRAM_BOT_TOKEN']}/sendMessage",
+                                   data=urllib.parse.urlencode({"chat_id": env["CHAT_ID"], "text": texto[:3500]}).encode(), timeout=20)
+        except Exception:
+            pass
+
+
 def videos_prontos():
     import hashlib, urllib.request
     itens = []
@@ -379,7 +399,11 @@ def videos_prontos():
         pasta = os.path.join(DRIVE, rel)
         if not os.path.isdir(pasta):
             continue
-        arqs = [f for f in os.listdir(pasta) if f.lower().endswith((".mp4", ".mov", ".webm"))]
+        if secao == "previas":   # pastas de trabalho têm subpastas por projeto
+            arqs = [os.path.relpath(os.path.join(r, f), pasta) for r, _, fs in os.walk(pasta) for f in fs
+                    if f.lower().endswith((".mp4", ".mov", ".webm")) and "_partes" not in r]
+        else:
+            arqs = [f for f in os.listdir(pasta) if f.lower().endswith((".mp4", ".mov", ".webm"))]
         arqs.sort(key=lambda f: os.path.getmtime(os.path.join(pasta, f)), reverse=True)
         if maximo:
             arqs = arqs[:maximo]
@@ -388,7 +412,7 @@ def videos_prontos():
             fid = drive_id(cam)
             if not fid:
                 continue
-            nome = os.path.splitext(f)[0]
+            nome = os.path.splitext(os.path.basename(f))[0]
             aviso = ""
             m = re.search(r"\(ANTES DE POSTAR,?\s*([^)]*)\)", nome, re.I)
             if m:
@@ -415,6 +439,17 @@ def videos_prontos():
         os.makedirs(os.path.dirname(estado), exist_ok=True)
         open(estado, "w").write(h)
         print(f"vídeos prontos: {len(itens)} enviados ao painel")
+        # Aviso no Telegram quando aparece vídeo NOVO (o Murilo: "eu nunca sei se o Windows criou vídeos")
+        vistos_arq = os.path.expanduser("~/.canal-agente/videos-vistos.json")
+        try:
+            vistos = set(json.load(open(vistos_arq)))
+        except Exception:
+            vistos = None   # primeira rodada: só registra, não avisa tudo de uma vez
+        novos = [i for i in itens if vistos is not None and i["id"] not in vistos and i["secao"] in ("pra-publicar", "previas")]
+        json.dump([i["id"] for i in itens] + list(vistos or []), open(vistos_arq, "w"))
+        if novos:
+            linhas = [f"• {i['formato']} · {i['titulo'][:70]} ({i['canal']})" for i in novos[:8]]
+            telegram_simples("🎬 Vídeo novo pra assistir no painel:\n" + "\n".join(linhas) + "\nhttps://canal-agente-geer.vercel.app/assistir")
     except Exception as e:
         print("vídeos prontos: falhou o envio", e)
 
