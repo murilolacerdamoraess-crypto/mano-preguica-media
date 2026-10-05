@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T01:20:56.980392Z",
+ "gerado_em": "2026-10-05T01:24:19.516807Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -226,7 +226,7 @@
    "arquivo": "short-subnautica-10-mil-metros.md",
    "name": "SHORT - Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
    "titulo_roteiro": "SHORT: a mensagem de outro jogador a 10 mil metros de profundidade",
-   "description": "Short de uns 2min35 (versão 3, 05/10: narração corrida no jeito do Murilo, com o texto dele na parte do desafio; conteúdo da versão 2). O The Last Bacon tentava zerar Subnautica com 10 mil metros de água a mais (mod) e, ",
+   "description": "Short de uns 2min40 (versão 3, 05/10: narração corrida no jeito do Murilo, com o texto dele na parte do desafio; conteúdo da versão 2). O The Last Bacon tentava zerar Subnautica com 10 mil metros de água a mais (mod) e, ",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py, versão 3); falta o OK do Murilo",
    "video_id": null,
