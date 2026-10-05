@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T01:16:52.597766Z",
+ "gerado_em": "2026-10-05T01:18:52.093175Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -187,14 +187,14 @@
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
    "name": "SHORT - Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
    "titulo_roteiro": "SHORT: a luva do Homem-Aranha que não gruda em nada",
-   "description": "Short de uns 2min40 (versão 2, refeita em 04/10 pelo pedido do Murilo). O Jake (JLaservideo) vive tentando virar o Homem-Aranha; copiou o pé da lagartixa numa placa que não gruda em nada e só segura puxando pra baixo; pe",
+   "description": "Short de uns 2min50 (versão 3, 05/10: narração corrida e a ordem das versões corrigida, pedidos do Murilo; conteúdo da versão 2). O Jake (JLaservideo) vive tentando virar o Homem-Aranha; copiou o pé da lagartixa numa pla",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes APROVADO 2026-10-04 (conferir_fontes.py, versão 2); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py, versão 3); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-menderbug-hollow-knight.md",
