@@ -13,7 +13,7 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
   6. canal principal; do MP2 só o que está na allowlist de faceless de IA (postable)
   7. nunca postado nem agendado no TikTok (ledger + tiktok_agenda.json)
-  8. ordem: tema_score (criatura/medo/escala sobem, construção/veículo descem), depois views
+  8. ordem: views no YouTube (escala log) + bônus de tema (criatura/medo/escala sobem, construção/veículo descem)
   9. sempre PUBLIC_TO_EVERYONE (o não público perde a monetização)
 
 Saída: tiktok_semana.json com os escolhidos, horário (Ter/Qui/Sáb/Dom 18h BRT, até 4 por semana e
@@ -76,7 +76,10 @@ def candidatos(led, ja):
             fora.append((vid, v["title"], motivo))
         else:
             out.append((cp.tema_score(v["title"]), v.get("views", 0), vid, v))
-    out.sort(key=lambda x: (x[0], x[1]), reverse=True)
+    # Views mandam (escala log: 10x mais views = +1 ponto) e o tema dá bônus de meio ponto por gatilho.
+    # Antes era tema primeiro e um Short de 4,5 mil passava na frente de um de 542 mil (05/10).
+    import math
+    out.sort(key=lambda x: math.log10(max(x[1], 1)) + 0.5 * x[0], reverse=True)
     return out, fora
 
 
