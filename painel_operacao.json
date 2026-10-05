@@ -489,10 +489,26 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Pokémon impresso em 3D (pokébolas + Onix de 8,8m)",
-   "etapa": "roteiro aprovado em 01/09",
+   "titulo": "Tem um estúdio fazendo uma Pokébola diferente pra cada Pokémon, com a cara do bicho",
+   "etapa": "roteiro (aguardando aprovação; 1 de 3 do Pokémon impresso em 3D, com produto; fontes conferidas)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
+   "etapa": "roteiro (aguardando aprovação; 2 de 3 do Pokémon impresso em 3D, com produto; fontes conferidas)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse francês imprimiu um Onix em tamanho real com 8,8 metros",
+   "etapa": "roteiro (aguardando aprovação; 3 de 3 do Pokémon impresso em 3D; fontes conferidas)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -586,5 +602,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-05T16:00-03:00"
+ "gerado_em": "2026-10-05T20:10-03:00"
 }
