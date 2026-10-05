@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T00:14:36.873755Z",
+ "gerado_em": "2026-10-05T00:18:32.897384Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -237,16 +237,16 @@
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
-   "name": "SHORT - Ele zerou Subnautica sem comer nada e o segredo estava numa cadeira",
-   "titulo_roteiro": "SHORT: zerou Subnautica sem comer, e o segredo era uma cadeira",
-   "description": "Short de 110 a 120s (P12 do Backlog, rodada Sonar 03/10). O KnightWraith86 zerou Subnautica no hardcore sem comer uma vez, vivendo de kit médico; morreu por falta de um kit, morreu de novo afogado, e no desespero descobr",
+   "name": "SHORT - Ele zerou Subnautica sem comer e descobriu que a cadeira para a sua fome",
+   "titulo_roteiro": "SHORT: zerou Subnautica sem comer, e a cadeira que para a fome",
+   "description": "Short de uns 2min20 (versão 2, refeita em 04/10 pelo pedido do Murilo). O KnightWraith86 tentou zerar Subnautica no hardcore sem comer uma vez, vivendo de kit médico; perdeu a primeira tentativa por falta de um kit; na s",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
+   "gate": "portão de fontes APROVADO 2026-10-04 (conferir_fontes.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": null
+   "versao": "2"
   },
   {
    "arquivo": "sn2-cherimoya-rotsac.md",
