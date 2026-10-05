@@ -74,6 +74,66 @@
  ],
  "backlog": [
   {
+   "id": "P18",
+   "titulo": "O pote do Zelda que quebra no chão igual no jogo, e monta de novo",
+   "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
+   "gancho": "Fizeram o pote do Zelda de verdade: você joga no chão, ele quebra igual no jogo e tem rupia dentro",
+   "por_que_agora": "o remake de Zelda Ocarina of Time sai em 05/11 e quebrar pote é a marca do jogo. Janela até a semana do lançamento.",
+   "formato": "Short curto (30 a 50s)",
+   "concorrencia": "LIVRE (busca de 05/10 \"pote do zelda de verdade quebra\": nenhum vídeo em português sobre o pote)",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P19",
+   "titulo": "No Zelda novo, você toca uma ocarina de verdade e o Link toca junto",
+   "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
+   "gancho": "No Zelda novo você toca uma ocarina de verdade e o Link toca a mesma música no jogo",
+   "por_que_agora": "o jogo sai em 05/11 e no Brasil a pré-venda física esgotou rápido (IGN Brasil: https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/156287/superou-nossas-expectativas-mais-otimistas-gamer-hut-uma-das-principais-lojas-de-jogos-em-midia-fisi). Postar antes do lançamento ou na semana dele.",
+   "formato": "Short curto (30 a 50s)",
+   "concorrencia": "RASO no ângulo da ocarina (1 Short em português com 1 view; os canais brasileiros falam do remake em geral, como Ataque Crítico e Universo Paralelo)",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P20",
+   "titulo": "A Pokébola de LEGO que abre e tem um mundo dentro",
+   "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
+   "gancho": "A LEGO fez uma Pokébola gigante que abre e tem o laboratório do Professor Carvalho dentro",
+   "por_que_agora": "começou a ser vendida em 01/10/2026, por US$ 299,99. FAST-TRACK: a janela é outubro.",
+   "formato": "Short curto (30 a 50s)",
+   "concorrencia": "LIVRE (busca de 05/10 \"lego pokebola 72154\" e \"pokebola lego abre\": reviews só em inglês e alemão)",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P21",
+   "titulo": "A Pokébola que sai reta da impressora e fecha virando bola",
+   "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
+   "gancho": "Essa Pokébola sai da impressora reta como uma folha e fecha virando bola na sua mão",
+   "por_que_agora": "atemporal; o mesmo objeto estourou em 3 canais entre julho e setembro de 2026.",
+   "formato": "Short curto (30 a 50s)",
+   "concorrencia": "LIVRE (busca de 05/10 \"pokebola tecido da nasa\" e \"pokebola impressora 3d nasa\": nada em português)",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P22",
+   "titulo": "Tem gente colocando Pokémon dentro de tecla de teclado",
+   "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
+   "gancho": "Tem artista colocando Pokémon dentro de tecla de teclado, e teve pedido de 700 dólares",
+   "por_que_agora": "atemporal; o vídeo fez quase 10 vezes o tamanho do canal.",
+   "formato": "Short curto (30 a 50s)",
+   "concorrencia": "LIVRE (busca de 05/10 \"tecla de teclado pokemon\": nada em português sobre o tema)",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P17",
    "titulo": "Colocaram Pokébola no Subnautica e dá pra capturar até leviatã",
    "rodada": "Referências do Murilo 04/10/2026 (Sonar): 2 vídeos analisados, 1 virou pauta",
@@ -298,7 +358,7 @@
   {
    "tipo": "Short",
    "titulo": "O avô que dava presente velho (micro-conto do canal 2)",
-   "etapa": "roteiro reescrito com os seus pontos (versão 3: o Lucas joga o relógio no lixo, o avô devolve consertado com um bilhete, e o recado no fim)",
+   "etapa": "roteiro reescrito com os seus pontos (versão 4: frase final mostrando o arrependimento do Lucas, tom de cada cena pra voz de IA)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -314,9 +374,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
-   "etapa": "roteiro reescrito no seu jeito de contar (versão 3: narração corrida, a lagartixa e a ordem das versões corrigidas; fontes conferidas)",
+   "etapa": "roteiro aprovado em 05/10 (fala em blocos com o tom de cada parte)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -353,5 +413,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T00:19-03:00"
+ "gerado_em": "2026-10-05T00:20-03:00"
 }

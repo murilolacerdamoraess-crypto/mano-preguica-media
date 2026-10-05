@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T03:18:59.398012Z",
+ "gerado_em": "2026-10-05T03:20:09.982721Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -70,14 +70,14 @@
    "arquivo": "microconto-piloto-preprod.md",
    "name": "Micro-conto piloto MP2 - pré-produção (personagens, cenários, takes)",
    "titulo_roteiro": "Piloto micro-conto MP2 - pré-produção",
-   "description": "Pré-produção do piloto estilo Levin pro MP2 (versão 3, 05/10, pelo pedido do Murilo de virada com mensagem). \"O avô que dava presente velho\" - o Lucas tem vergonha dos presentes velhos do avô, esconde tudo e, aos 9, joga",
+   "description": "Pré-produção do piloto estilo Levin pro MP2 (versão 4, 05/10: frase final trocada pra deixar claro o arrependimento do Lucas, pedido do Murilo). \"O avô que dava presente velho\" - o Lucas tem vergonha dos presentes velhos",
    "status": "roteiro (aguardando aprovação)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": "3"
+   "versao": "4"
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
