@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T01:29:28.557494Z",
+ "gerado_em": "2026-10-05T01:41:02.881283Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -122,14 +122,14 @@
    "arquivo": "roteiro-rematch-egoisto.md",
    "name": "Roteiro Rematch Egoísto (longo narrado, minissérie em 5 capítulos)",
    "titulo_roteiro": "Roteiro: REMATCH EGOÍSTO",
-   "description": "Versão 2 (04/10), em formato de produção pedido pelo Murilo. Tabela por capítulo, cena por cena, com o que ele fala, o que aparece na tela (com o minuto da gravação), o estilo da edição e a duração; mapa do vídeo e padrã",
+   "description": "Versão 3 (05/10): mesma estrutura de produção da v2, com a fala reescrita como narração corrida, no jeito do Murilo (estudo de vocabulário com ele, Sev7n, TROUSY e MrBeast), sem frase de locutor. Tabela por capítulo, cen",
    "status": "aguardando-aprovacao-murilo",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
