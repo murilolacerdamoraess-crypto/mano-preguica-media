@@ -40,6 +40,14 @@
    "confianca": "forte",
    "status": "aplicada 2026-10-04 (instruções dos agentes de Shorts, Descoberta e Publicação, ledger de conteúdos e crosspost-pipeline)",
    "simples": "Hoje a regra proíbe Short do Reaper por \"já ter sido usado demais\", mas os 3 vídeos que mais explodiram no TikTok em agosto e setembro foram do Reaper e do Gargantuan mostrando algo novo (o tamanho real dele, o pior susto, o som que ele faz no escuro). Com a regra nova, pode fazer Short deles sempre que mostrar algo que ainda não mostramos, e só fica proibido repetir o mesmo assunto, como fazer de novo \"o nome de cada Reaper\"."
+  },
+  {
+   "id": "R6",
+   "titulo": "Toda semana saem pelo menos 3 Shorts de Subnautica (criatura, segredo ou novidade), e os outros jogos completam a semana sem limite.",
+   "onde": "instruções do agente de pautas (toda segunda, pelo menos 3 pautas de Subnautica no quadro de pautas) e do agente de Shorts (esses 3 entram primeiro na fila da semana)",
+   "confianca": "forte",
+   "status": "aguardando",
+   "simples": "Quase todo Short de Subnautica passa de 10 mil views (23 de 24 desde março) e os de outros jogos quase nunca passam (1 de 10). Então cada semana começa garantindo 3 Shorts de Subnautica, e os outros dias continuam livres pra qualquer jogo, sem limite, pra chegar em 1 vídeo por dia."
   }
  ],
  "equipe": [
@@ -449,5 +457,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T00:53-03:00"
+ "gerado_em": "2026-10-05T01:16-03:00"
 }
