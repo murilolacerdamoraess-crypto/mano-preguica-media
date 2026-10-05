@@ -297,6 +297,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "O avô que dava presente velho (micro-conto do canal 2)",
+   "etapa": "roteiro reescrito com os seus pontos (versão 2: história do dia a dia, sem nada impossível; personagens, cenários e cenas prontos)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro (P1)",
    "etapa": "roteiro aprovado",
    "responsavel": "Arpão",
@@ -345,5 +353,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T21:24-03:00"
+ "gerado_em": "2026-10-04T21:27-03:00"
 }
