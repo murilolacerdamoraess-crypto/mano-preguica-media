@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T01:18:52.093175Z",
+ "gerado_em": "2026-10-05T01:20:56.980392Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -213,14 +213,14 @@
    "arquivo": "short-moto-mario-kart-world-madeira.md",
    "name": "SHORT - Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela",
    "titulo_roteiro": "SHORT: a moto do Mario Kart World de madeira que roda Switch 2",
-   "description": "Short de uns 2min30 (versão 2, refeita em 04/10 pelo pedido do Murilo). A engenheira Sophia Tung criou uma regra pra esse projeto (tudo da moto do jogo tinha que funcionar); o print do jogo não serviu, a gráfica pediu US",
+   "description": "Short de uns 2min45 (versão 3, 05/10: narração corrida sem frase de anúncio, pedido do Murilo; conteúdo da versão 2). A engenheira Sophia Tung criou uma regra pra esse projeto (tudo da moto do jogo tinha que funcionar); ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes APROVADO 2026-10-04 (conferir_fontes.py, versão 2); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py, versão 3); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
