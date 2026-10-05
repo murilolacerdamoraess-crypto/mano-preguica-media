@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T03:38:22.184470Z",
+ "gerado_em": "2026-10-05T03:53:44.616972Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -78,6 +78,32 @@
    "formato": null,
    "motor": null,
    "versao": "4"
+  },
+  {
+   "arquivo": "mp2-ocarina-zelda-microfone.md",
+   "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo",
+   "titulo_roteiro": "SHORT MP2: a ocarina de verdade que o Zelda novo escuta",
+   "description": "Short do MP2 (linha de produto, pauta P19 do Sonar, aprovada pelo Murilo em 05/10). No remake de Zelda Ocarina of Time pro Switch 2, o controle tem microfone; na demonstração da Nintendo o produtor cantarola e o Link toc",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "mp2-pokebola-lego-abre.md",
+   "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro",
+   "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
+   "description": "Short do MP2 (linha de produto, pauta P20 do Sonar, aprovada pelo Murilo em 05/10; fast-track, a janela é outubro). A Pokébola de LEGO (set 72154) tem 22 cm e 2.386 peças, é o primeiro set de LEGO Pokémon com bonequinhos",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
