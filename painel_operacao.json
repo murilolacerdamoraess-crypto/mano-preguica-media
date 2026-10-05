@@ -98,6 +98,30 @@
    "pendente": ""
   },
   {
+   "id": "P24",
+   "titulo": "Jogar com os amigos o jogo de imitar sons, só que imitando os monstros do Subnautica",
+   "rodada": "Pautas vindas do Anzol 05/10/2026 (Sonar): o jogo de imitar sons e a luta do robô",
+   "gancho": "Desafiei meus amigos a imitar os monstros do Subnautica e uma inteligência artificial deu a nota",
+   "por_que_agora": "saiu em 27/08; os vídeos que estouraram são de 03 a 06/09; hoje (05/10, 08:51) tinha 915 pessoas jogando e as notas na Steam estão mistas (54% positivas de 767). A onda está esfriando: se for fazer, é neste mês.",
+   "formato": "longo (jornada) no principal; a partida inteira no MP2. Short não sai de corte do longo (regra aprovada): se quiser Short, é pauta própria.",
+   "concorrencia": "OCUPADO jogando com os amigos (Bistecone 1,15 mi, Cocielo 773 mil, Coringa 611 mil e 365 mil, Paulinho o Loko 385 mil, todos em setembro) e OCUPADO no Short que conta o jogo (Sev7n e iasserzin). LIVRE só no ângulo dos monstros do Subnautica: nenhum vídeo achado.",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P25",
+   "titulo": "O robô que lutou com um humano estava sendo controlado por um cara de óculos de realidade virtual",
+   "rodada": "Pautas vindas do Anzol 05/10/2026 (Sonar): o jogo de imitar sons e a luta do robô",
+   "gancho": "A primeira luta entre robô e humano tinha um detalhe: o robô estava sendo jogado por uma pessoa de óculos de realidade virtual",
+   "por_que_agora": "luta em 18/09 em San Francisco, anúncio em 20/09, a briga com a Califórnia em 30/09.",
+   "formato": "Short 60-90s",
+   "concorrencia": "a luta em si OCUPADA (iasserzin 338 mil, sem falar do piloto; Domingo Espetacular 34 mil). O ângulo do piloto em realidade virtual: LIVRE em português.",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P18",
    "titulo": "O pote do Zelda que quebra no chão igual no jogo, e monta de novo",
    "rodada": "Linha de produto do MP2 (Sonar, 05/10/2026): 5 pautas \"olha que legal que estão fazendo\"",
@@ -461,5 +485,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T08:21-03:00"
+ "gerado_em": "2026-10-05T08:52-03:00"
 }
