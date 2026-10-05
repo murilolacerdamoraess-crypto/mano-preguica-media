@@ -7,7 +7,7 @@ o FB saíram do Metricool em 04/10, então os 20 são do TikTok).
 
 Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_plan):
   1. vertical de 61 s a 600 s (TikTok só paga 1 min+; o Metricool trava acima de 10 min)
-  2. 10 mil views ou mais no YouTube (piso: o que não foi bem lá não vai no TikTok)
+  2. 2 mil views ou mais no YouTube (piso baixado de 10 mil em 05/10: corta só o fracasso ridículo; sobe quando o Sextante mostrar que dá)
   3. maturado: 7+ dias no ar (o número do YouTube já diz alguma coisa)
   4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo)
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
@@ -35,7 +35,7 @@ BRT = dt.timezone(dt.timedelta(hours=-3))
 RAIZ = os.path.dirname(cp.LEDGER)
 AGENDA = os.path.join(RAIZ, "tiktok_agenda.json")
 SAIDA = os.path.join(RAIZ, "tiktok_semana.json")
-PISO = int(os.environ.get("TT_PISO", "10000"))
+PISO = int(os.environ.get("TT_PISO", "2000"))   # 05/10: 10 mil travava a fila; o Murilo pediu cortar só os fracassos ridículos
 MATURA = int(os.environ.get("TT_MATURA", "7"))
 POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "4"))
 TETO_MES = int(os.environ.get("TT_TETO_MES", "20"))
