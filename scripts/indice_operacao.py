@@ -301,7 +301,7 @@ def enviar_documentos():
         alvos.append(("quadro:" + os.path.basename(arq)[:-3], "quadro", arq))
     for nome, tipo in (("conhecimentos/propostas-de-regra.md", "regra"), ("conhecimentos/livro-de-licoes.md", "regra"),
                        ("conhecimentos/rematch-24h.md", "jornada"), ("tese-do-painel.md", "regra"),
-                       ("conhecimentos/cartilha-anzol.md", "regra")):
+                       ("conhecimentos/cartilha-anzol.md", "regra"), ("producao/FILA.md", "quadro")):
         arq = os.path.join(CEREBRO, nome)
         if os.path.exists(arq):
             alvos.append((tipo + ":" + os.path.basename(arq)[:-3], tipo, arq))
