@@ -12,7 +12,7 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
   4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo)
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
   6. canal principal; do MP2 só o que está na allowlist de faceless de IA (postable)
-  7. nunca postado nem agendado no TikTok (ledger + tiktok_agenda.json)
+  7. nunca postado nem agendado no TikTok (lê o perfil público com yt-dlp a cada rodada + ledger + tiktok_agenda.json)
   8. ordem: views no YouTube (escala log) + bônus de tema (criatura/medo/escala sobem, construção/veículo descem)
   9. sempre PUBLIC_TO_EVERYONE (o não público perde a monetização)
 
@@ -48,6 +48,53 @@ def agenda():
         return json.load(open(AGENDA, encoding="utf-8"))
     except OSError:
         return {"posts": []}
+
+
+def _norm(t):
+    import re, unicodedata
+    t = unicodedata.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
+    t = re.sub(r"#\w+", " ", t)
+    genericas = {"subnautica", "games", "game", "jogos", "jogo", "gameplay", "curiosidades", "curiosidade", "shorts",
+                 "short", "sobre", "esse", "essa", "isso", "voce", "para", "mais", "muito", "quando", "como"}
+    return set(w for w in re.sub(r"[^a-z0-9 ]+", " ", t).split() if len(w) >= 4 and w not in genericas)
+
+
+def sincronizar_perfil(led):
+    """Lê o perfil público do TikTok (yt-dlp, sem navegador) e marca no ledger o que JÁ saiu lá.
+    05/10: o seletor escolheu 6 vídeos que já tinham sido postados por sessões manuais no Metricool,
+    que nunca anotavam no ledger. Casa por título: 3+ palavras de 4+ letras em comum (sem as genéricas) e, além disso, 5+ ou 60% do menor."""
+    import subprocess
+    r = subprocess.run(["yt-dlp", "--no-update", "--flat-playlist", "--print", "%(id)s|%(timestamp)s|%(view_count)s|%(title)s",
+                        "https://www.tiktok.com/@manopreguica"], capture_output=True, text=True, timeout=240)
+    posts = [l.split("|", 3) for l in r.stdout.splitlines() if l.count("|") >= 3]
+    if not posts:
+        print("  ⚠ não consegui ler o perfil do TikTok; sigo só com o ledger e a agenda")
+        return 0
+    marcados = 0
+    for vid, v in led["videos"].items():
+        if v["posted"]["tiktok"]["done"]:
+            continue
+        a = _norm(v.get("title", ""))
+        for pid, ts, views, titulo in posts:
+            b = _norm(titulo)
+            comum = len(a & b)
+            perto = False   # título reescrito pro TikTok: 2 palavras bastam se saiu até 45 dias depois do YouTube
+            try:
+                d_tt = dt.datetime.fromtimestamp(int(ts), BRT).date()
+                perto = -10 <= (d_tt - dt.date.fromisoformat(v["published"][:10])).days <= 45   # às vezes sai no TikTok antes
+            except Exception:
+                pass
+            if (comum >= 3 and (comum >= 5 or comum >= 0.6 * min(len(a), len(b)))) or (perto and comum >= 2):
+                data = dt.datetime.fromtimestamp(int(ts or 0), BRT).date().isoformat() if ts and ts != "NA" else None
+                v["posted"]["tiktok"] = {"done": True, "date": data, "post_id": pid,
+                                         "link": f"https://www.tiktok.com/@manopreguica/video/{pid}",
+                                         "views_tiktok": int(views) if views and views.isdigit() else None}
+                marcados += 1
+                break
+    if marcados:
+        json.dump(led, open(cp.LEDGER, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"  perfil do TikTok: {len(posts)} posts lidos, {marcados} vídeos marcados como já postados no ledger")
+    return marcados
 
 
 def candidatos(led, ja):
@@ -109,6 +156,7 @@ def legenda(v):
 
 def main(hospedar):
     led = json.load(open(cp.LEDGER, encoding="utf-8"))
+    sincronizar_perfil(led)
     ag = agenda()
     ja = {p.get("video_id") for p in ag["posts"]}
     cand, fora = candidatos(led, ja)
