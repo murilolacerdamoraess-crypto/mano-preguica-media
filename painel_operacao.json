@@ -48,6 +48,38 @@
    "confianca": "forte",
    "status": "aguardando",
    "simples": "Quase todo Short de Subnautica passa de 10 mil views (23 de 24 desde março) e os de outros jogos quase nunca passam (1 de 10). Então cada semana começa garantindo 3 Shorts de Subnautica, e os outros dias continuam livres pra qualquer jogo, sem limite, pra chegar em 1 vídeo por dia."
+  },
+  {
+   "id": "R7",
+   "titulo": "Entre um fato e o próximo, a narração liga com \"só que\" ou \"por isso\", não com \"e aí\" (regra dos criadores de South Park), e o conferidor automático passa a medir isso.",
+   "onde": "conferidor de fluidez (`checar_fluidez.py`, régua nova), escrita de roteiro de Short (skill de roteiro) e instruções do agente de vídeos longos",
+   "confianca": "forte",
+   "status": "aguardando",
+   "simples": "Toda vez que a história anda, a frase diz se foi porque deu problema (\"só que...\") ou por causa do que veio antes (\"por isso...\", \"então...\"), em vez de só \"e aí\". É a regra dos criadores de South Park, e é exatamente o que você fez quando reescreveu os trechos dos 10 mil metros, da luva e da moto. Nos roteiros que você reprovou por texto picado, menos de 1 frase em cada 5 tinha essa ligação; nos que você aprovou, metade ou mais. Se aprovar, o conferidor automático passa a barrar roteiro com menos de 40% das frases assim ou com mais de 6 frases seguidas sem."
+  },
+  {
+   "id": "R8",
+   "titulo": "Todo roteiro começa com a pergunta que o gancho deixa no ar, numa frase, e diz em que ponto do fim ela é respondida; pauta sem essa pergunta não vira roteiro.",
+   "onde": "topo de todo roteiro (Short e longo), escrita de roteiro de Short (skill de roteiro), instruções dos agentes de pautas e de vídeos longos",
+   "confianca": "média (4 casos, todos no mesmo sentido)",
+   "status": "aguardando",
+   "simples": "Antes de escrever, a gente escreve numa frase a pergunta que o começo do vídeo deixa na cabeça de quem assiste (por exemplo, \"como essa mensagem foi parar a 10 mil metros?\") e onde, no fim, ela é respondida. Se não der pra escrever essa pergunta, a pauta é fraca e nem chega pra você. É o que você pediu nos 10 mil metros e na cadeira, e o que faltou no Mario 64 e no WoW."
+  },
+  {
+   "id": "R9",
+   "titulo": "Cada tentativa ou perrengue é contado inteiro (o que tentou, o que esperava e o que aconteceu, com o número de antes e de depois), e frase que não muda nada na história sai.",
+   "onde": "escrita de roteiro de Short (skill de roteiro) e instruções do agente de vídeos longos",
+   "confianca": "média",
+   "status": "aguardando",
+   "simples": "Quando o vídeo conta uma tentativa ou um perrengue, a frase diz o que ele tentou, o que esperava e o que deu de verdade, de preferência com o número de antes e de depois (a placa velha aguentava 2 kg, a nova 9 kg). E detalhe que não muda nada na história sai do texto. Foi assim que você reescreveu a placa da luva e o curto da moto."
+  },
+  {
+   "id": "R10",
+   "titulo": "Em história com personagem (micro-conto e longo de jornada), antes do texto vêm 8 linhas do caminho dele, e a última, o que mudou nele, tem que estar dita no vídeo.",
+   "onde": "instruções do agente de Shorts (micro-conto do MP2) e do agente de vídeos longos",
+   "confianca": "média (o caso mais forte é o micro-conto)",
+   "status": "aguardando",
+   "simples": "Em história com personagem, antes de escrever o texto a gente preenche 8 linhas: como ele está, o que quer, onde se mete, como se vira, o que consegue, quanto custa, como volta e o que mudou nele. A última linha precisa aparecer dita no vídeo, não só subentendida. No micro-conto do avô, foram 2 correções suas até o arrependimento do Lucas ficar claro; com isso ele viria na primeira versão."
   }
  ],
  "equipe": [
@@ -554,5 +586,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-05T09:13-03:00"
+ "gerado_em": "2026-10-05T16:00-03:00"
 }
