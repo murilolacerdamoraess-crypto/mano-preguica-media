@@ -362,7 +362,7 @@ PASTAS_VIDEO = [   # (pasta, canal, seção, quantos no máximo; 0 = todos)
     ("Mano Preguica/MP2 - PRONTOS PRA SUBIR/publicados", "Mano Preguiça 2", "publicados", 6),
     # 05/10: o Windows fez 3 vídeos novos da corrida de dados e eles ficaram aqui, invisíveis pro Murilo
     ("VIDEOS/PROJETOS CLAUDE (saidas)", "Feito pelo Windows", "previas", 12),
-    ("VIDEOS/6 - Edicao IA (bastidores)/testes", "Teste do Windows", "previas", 6),
+    ("VIDEOS/6 - Edicao IA (bastidores)/testes", "Teste do Windows", "testes", 6),
 ]
 
 
@@ -399,7 +399,7 @@ def videos_prontos():
         pasta = os.path.join(DRIVE, rel)
         if not os.path.isdir(pasta):
             continue
-        if secao == "previas":   # pastas de trabalho têm subpastas por projeto
+        if secao in ("previas", "testes"):   # pastas de trabalho têm subpastas por projeto
             arqs = [os.path.relpath(os.path.join(r, f), pasta) for r, _, fs in os.walk(pasta) for f in fs
                     if f.lower().endswith((".mp4", ".mov", ".webm")) and "_partes" not in r]
         else:
