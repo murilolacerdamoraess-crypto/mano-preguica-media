@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T03:53:44.616972Z",
+ "gerado_em": "2026-10-05T23:10:43.616703Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -136,7 +136,7 @@
    "name": "Roteiro - A galera que imprime Pokémon em 3D (pokébolas + Onix 8,8m)",
    "titulo_roteiro": "A galera que imprime Pokémon em 3D",
    "description": "Short pro canal PRINCIPAL (voz do Murilo). Tema-fio - a comunidade que imprime Pokémon em 3D saiu do controle. Beats - pokébolas personalizadas (Breakroom), escalada BR (109 num shopping de SP), clímax Onix em tamanho ca",
-   "status": "",
+   "status": "substituído (o Murilo reprovou o vídeo pronto em 05/10 e pediu pra virar 3 Shorts: short-pokebolas-impressas-cada-pokemon, short-pokemon-mais-impresso-3d-cubone, short-onix-tamanho-real-impresso)",
    "gate": "aprovado 2026-09-01",
    "video_id": null,
    "publicado_em": null,
@@ -247,6 +247,45 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-onix-tamanho-real-impresso.md",
+   "name": "SHORT - Esse francês imprimiu um Onix em tamanho real com 8,8 metros",
+   "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
+   "description": "Short do canal principal, 3 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. O extremo - o criador francês do canal Entroisdimensions (\"o cara que faz Pokémon gigantes\") imprimiu o Onix com",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
+   "name": "SHORT - Tem um estúdio fazendo uma Pokébola diferente pra cada Pokémon, com a cara do bicho",
+   "titulo_roteiro": "SHORT: uma Pokébola diferente pra cada Pokémon",
+   "description": "Short do canal principal, 1 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. Só as pokébolas da Breakroom Collectibles, em tom de curiosidade mostrando vários modelos (Gengar, Cubone, Dodri",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-pokemon-mais-impresso-3d-cubone.md",
+   "name": "SHORT - Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
+   "titulo_roteiro": "SHORT: o Pokémon que a galera mais imprime em 3D não é o Pikachu",
+   "description": "Short do canal principal, 2 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. Impressão 3D de Pokémon em geral, pela curiosidade de um levantamento de 2024 (3DSourced, curtidas no Thingivers",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
