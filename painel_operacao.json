@@ -78,6 +78,10 @@
   {
    "nome": "Sextante",
    "funcao": "Análise"
+  },
+  {
+   "nome": "Lente",
+   "funcao": "Direção de produção"
   }
  ],
  "backlog": [
@@ -457,5 +461,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T01:16-03:00"
+ "gerado_em": "2026-10-05T08:21-03:00"
 }
