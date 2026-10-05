@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-04T06:22:33.227988Z",
+ "gerado_em": "2026-10-05T00:10:00.288537Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -11,7 +11,8 @@
    "video_id": "vLoHwfGSffI",
    "publicado_em": "2026-08-31",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "aliens-fireteam-elite-pior-jogo-franquia.md",
@@ -23,7 +24,8 @@
    "video_id": "s7Q0iv9AwfA",
    "publicado_em": "2026-09-07",
    "formato": "long",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "half-life-2-gritos-invertidos.md",
@@ -35,7 +37,8 @@
    "video_id": "vCPLd9EIELs",
    "publicado_em": "2026-08-21",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "longo-mew-300-bytes.md",
@@ -47,7 +50,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "longo-silicon-knights-destruir.md",
@@ -59,7 +63,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "microconto-piloto-preprod.md",
@@ -71,7 +76,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
@@ -83,7 +89,8 @@
    "video_id": "ylu-YZPEGm8",
    "publicado_em": "2026-08-25",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "no-mans-sky-waking-titan.md",
@@ -95,7 +102,8 @@
    "video_id": "J6XFb909Tg4",
    "publicado_em": "2026-09-25",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "pokemon-impressao-3d.md",
@@ -107,7 +115,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "roteiro-rematch-egoisto.md",
@@ -119,7 +128,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
@@ -131,7 +141,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "longform tier list / veredito de compra, gameplay como B-roll",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-cartuchos-mario-ouro.md",
@@ -143,7 +154,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-dlss5-jogo-de-ps2.md",
@@ -155,7 +167,8 @@
    "video_id": "uxL1gwa0wfA",
    "publicado_em": "2026-09-18",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-ellie-invisivel-tlou.md",
@@ -167,19 +180,21 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
    "name": "SHORT - Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
    "titulo_roteiro": "SHORT: a luva do Homem-Aranha que não gruda em nada",
-   "description": "Short de 120 a 130s (P11 do Backlog, rodada Sonar 03/10; v2 do gancho em 04/10). O Jake (JLaservideo) copiou o pé da lagartixa numa placa que não gruda em nada, só segura puxando pra baixo; penou até uma versão que nem e",
+   "description": "Short de uns 2min40 (versão 2, refeita em 04/10 pelo pedido do Murilo). O Jake (JLaservideo) vive tentando virar o Homem-Aranha; copiou o pé da lagartixa numa placa que não gruda em nada e só segura puxando pra baixo; pe",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes APROVADO 2026-10-03 (conferir_fontes.py); falta o OK do Murilo",
+   "gate": "portão de fontes APROVADO 2026-10-04 (conferir_fontes.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": "2"
   },
   {
    "arquivo": "short-menderbug-hollow-knight.md",
@@ -191,7 +206,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-moto-mario-kart-world-madeira.md",
@@ -203,7 +219,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
@@ -215,7 +232,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
@@ -227,7 +245,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "sn2-cherimoya-rotsac.md",
@@ -239,7 +258,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "sn2-coral-crab.md",
@@ -251,7 +271,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "sn2-deepwing-brooder.md",
@@ -263,7 +284,8 @@
    "video_id": "Ty5b7NugQNQ",
    "publicado_em": "2026-09-29",
    "formato": "short",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "sn2-great-jaw.md",
@@ -275,7 +297,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "stonewards-arqueiro-mp1.md",
@@ -287,7 +310,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "stonewards-primeiro-mapa-em-dois.md",
@@ -299,7 +323,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "subnautica-aurora-rota-sea-dragon.md",
@@ -311,7 +336,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "voyagers-of-nera-primeira-sessao.md",
@@ -323,7 +349,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "gameplay bruta com dinâmica, canal secundário (MP2)",
-   "motor": null
+   "motor": null,
+   "versao": null
   },
   {
    "arquivo": "wow-ezra-chatterton.md",
@@ -335,7 +362,8 @@
    "video_id": null,
    "publicado_em": null,
    "formato": null,
-   "motor": null
+   "motor": null,
+   "versao": null
   }
  ]
 }
