@@ -321,10 +321,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele afundou o mapa inteiro de Subnautica 10 mil metros (P13, a mais fraca; reserva Zelda pronta)",
-   "etapa": "roteiro (aguardando aprovação; portão de fontes APROVADO; 3 títulos do Anzol no roteiro; vitrine pronta no roteiro, produtos salvos pela extensão)",
+   "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
+   "etapa": "roteiro reescrito com os seus pontos (versão 2: o seu gancho, a mensagem no centro, como ela foi parar a 10 km, o que ela dizia; fontes conferidas)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar ou vetar pauta e roteiro, escolher o título",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -345,5 +345,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-04T21:18-03:00"
+ "gerado_em": "2026-10-04T21:22-03:00"
 }
