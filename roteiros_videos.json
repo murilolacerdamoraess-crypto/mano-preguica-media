@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T03:20:09.982721Z",
+ "gerado_em": "2026-10-05T03:38:22.184470Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -234,6 +234,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-subnautica-10km-coral-ar.md",
+   "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade e pra respirar ele planta coral",
+   "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
+   "description": "Short de uns 2min20 (pauta P23 do Sonar, aprovada pelo Murilo em 05/10; segundo Short do desafio dos 10 mil metros do The Last Bacon, outro ângulo). Como ele sobrevive e avança com 10 km de água em cima do mapa - o ar ac",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",

@@ -386,9 +386,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
-   "etapa": "roteiro aprovado em 05/10 (fala em blocos com o tom de cada parte; material do editor montado no Drive, na pasta ROTEIROS - APOIO EDITOR; título final com o Anzol)",
+   "etapa": "roteiro aprovado em 05/10 (fala em blocos com o tom de cada parte; material do editor montado no Drive, na pasta ROTEIROS - APOIO EDITOR; títulos do Anzol prontos: 1) \"Ele subiu 12 metros de vidro com uma luva do Homem-Aranha que não gruda!\", o Anzol escolheria este; 2) \"Esse cara vive tentando virar o Homem-Aranha e subiu 12 metros de vidro!\"; 3) \"Ele fez a luva do Homem-Aranha da vida real e subiu 12 metros de vidro!\")",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "escolher 1 dos 3 títulos e gravar a voz",
    "prazo": ""
   },
   {
@@ -403,6 +403,14 @@
    "tipo": "Short",
    "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
    "etapa": "roteiro reescrito no seu jeito de contar (versão 3: narração corrida, a parte do desafio no texto que você mandou; fontes conferidas)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade e pra respirar ele planta coral",
+   "etapa": "roteiro (aguardando aprovação; segundo vídeo do mesmo desafio, como ele respira e avança a 10 km; fontes conferidas)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -425,5 +433,5 @@
   }
  ],
  "navegador": [],
- "gerado_em": "2026-10-05T00:34-03:00"
+ "gerado_em": "2026-10-05T00:38-03:00"
 }
