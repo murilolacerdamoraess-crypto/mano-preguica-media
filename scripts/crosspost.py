@@ -391,7 +391,8 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
             log(f"{tag} {net} <- {vid}: FORA DA JANELA ({agora} BRT, janela {JANELA_INI} a {JANELA_FIM}); não publica, fica pro próximo disparo")
             return False
         pid, link = meta_post(net, url, caption(v)); cleanup(vid)
-        v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
+        hoje_brt = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date().isoformat()
+        v["posted"][net] = {"done": True, "date": hoje_brt, "post_id": pid, "link": link}
         json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
         telegram(f"✅ Postei no {NET_PT.get(net, net)}: {v['title'][:60]}\n{link}".strip())
         log(f"OK {tag} {net} <- {vid} (meta {pid}) {link}")
@@ -466,7 +467,12 @@ def main():
         if wd is not None and datetime.date.today().weekday() != wd:
             log(f"  {net}: cadência semanal ({DIA_PT[wd]}), hoje não é dia — pula"); continue
         slots = HOURS[net][:DAILY[net]]
-        taken = 0
+        # Cota é POR DIA (horário de Brasília), não por disparo: agora há o disparo do Mac (21h20) e o do
+        # GitHub de reserva; sem isso, os dois postariam no mesmo dia.
+        hoje_brt = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date().isoformat()
+        taken = sum(1 for x in led["videos"].values() if (x["posted"][net].get("date") or "") == hoje_brt)
+        if taken >= DAILY[net]:
+            log(f"  {net}: cota de hoje já cumprida ({taken}/{DAILY[net]}), pula"); continue
         for vid in queues[net]:
             if taken >= DAILY[net] or done_total >= room: break
             if vid in done_vids: continue
