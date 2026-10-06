@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06T19:32:23.358392Z",
+ "gerado_em": "2026-10-06T21:27:41.851411Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -175,13 +175,13 @@
    "name": "SHORT - Iam derreter esses cartuchos do Mario pelo ouro e ninguém sabia o que tinha na caixa",
    "titulo_roteiro": "SHORT: os cartuchos do Mario que iam ser derretidos",
    "description": "Short de 120 a 140s (P1 do Backlog, rodada Sonar 29/09). Caixa de 100 Super Mario Bros./Duck Hunt que ia ser derretida pelo ouro dos contatos ficou 20 anos numa garagem, quase foi vendida a US$ 14,99 cada, era uma tirage",
-   "status": "aprovado",
+   "status": "aprovado (versão 2: troca de uma frase autorizada pelo Murilo em 06/10, via Maestro)",
    "gate": "aprovado pelo Murilo 2026-09-30",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": null
+   "versao": "2"
   },
   {
    "arquivo": "short-dlss5-jogo-de-ps2.md",
