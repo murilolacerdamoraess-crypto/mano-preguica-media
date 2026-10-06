@@ -20,6 +20,9 @@ on:
       schedule_at:
         description: 'agendar p/ ISO8601 UTC (ex.: 2026-07-18T00:00:00Z). vazio = agora'
         default: ''
+      noite:
+        description: 'disparo da noite vindo do Mac (1 = usa as cotas da noite: IG e FB)'
+        default: '0'
 permissions:
   contents: write
 jobs:
@@ -60,10 +63,10 @@ jobs:
           # TikTok segue no Metricool gratis (20 posts/mes), como desde 09/08.
           # 04/10/2026: ligado pela API da Meta. So o disparo das 21h30 BRT posta (o das 9h tem cota 0).
           # IG 1/dia; FB 1/semana na quarta a noite (o runner esta em UTC: 00h30 de quinta = 3).
-          DAILY_FB: "${{ github.event.schedule == '30 0 * * *' && '1' || '0' }}"
+          DAILY_FB: "${{ (github.event.schedule == '30 0 * * *' || inputs.noite == '1') && '1' || '0' }}"
           FB_WEEKDAY: '3'
           DAILY_TT: '0'
-          DAILY_IG: "${{ github.event.schedule == '30 0 * * *' && '1' || '0' }}"
+          DAILY_IG: "${{ (github.event.schedule == '30 0 * * *' || inputs.noite == '1') && '1' || '0' }}"
           # Deixa o Metricool escoar os pendentes; PostProxy assume no dia seguinte ao último de cada rede.
           TT_START: '2026-08-02'   # último TikTok do Metricool = 01/08
           IG_START: '2026-08-17'   # último IG do Metricool = 16/08

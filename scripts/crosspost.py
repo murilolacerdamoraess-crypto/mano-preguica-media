@@ -369,6 +369,15 @@ def meta_post(net, url, text):
     d = meta_call("ig_publicar", container_id=c)
     return d["media_id"], d.get("link", "")
 
+# JANELA DE PUBLICAÇÃO (06/10/2026, regra do Murilo): "isso não pode acontecer nunca, nem no YouTube, nem no
+# TikTok, nem no Facebook e nem no Instagram... não tem ninguém on às 3:45 da manhã". O agendador do GitHub atrasou
+# o disparo das 21h30 em 5 a 6 horas (05 e 06/10) e o robô publicou de madrugada. Agora nada sai na hora fora
+# da janela: o post fica pro próximo disparo dentro dela.
+JANELA_INI, JANELA_FIM = os.environ.get("JANELA_INI", "11:00"), os.environ.get("JANELA_FIM", "22:30")
+def dentro_da_janela():
+    agora = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).strftime("%H:%M")
+    return JANELA_INI <= agora <= JANELA_FIM, agora
+
 def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
     v = led["videos"][vid]
     url = hosted_url(vid)
@@ -377,6 +386,10 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
     if DRY:
         log(f"[DRY] {tag} {net:9} <- {vid} | {v['title'][:46]} | quando={scheduled_at or 'agora'}"); return True
     if META and net in ("instagram", "facebook"):
+        ok, agora = dentro_da_janela()
+        if not ok:
+            log(f"{tag} {net} <- {vid}: FORA DA JANELA ({agora} BRT, janela {JANELA_INI} a {JANELA_FIM}); não publica, fica pro próximo disparo")
+            return False
         pid, link = meta_post(net, url, caption(v)); cleanup(vid)
         v["posted"][net] = {"done": True, "date": datetime.date.today().isoformat(), "post_id": pid, "link": link}
         json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
