@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-10-05T03:00:00.301929-03:00",
+ "gerado_em": "2026-10-06T03:38:25.931872-03:00",
  "mes": {
-  "postados": 2,
+  "postados": 4,
   "teto": 93,
-  "folga": 91
+  "folga": 89
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 18,
-   "ultimo_post": "2026-10-02",
-   "dias_parado": 3,
+   "na_fila": 3,
+   "ultimo_post": "2026-10-05",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "NzY7XmWAcso",
-     "titulo": "o alien muda de forma dependendo de quem ele usou",
-     "quando": "2026-10-05T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "esse npc do world of warcraft tem a voz de um menino que já morreu",
@@ -49,16 +43,16 @@
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "IwhWVi7SHSc",
-     "titulo": "Anoiteceu na luta contra o Shiver Leviathan e o Subnautica 2 virou terror!"
+     "video_id": "NzY7XmWAcso",
+     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
     },
     {
-     "video_id": "Ty5b7NugQNQ",
-     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
+     "video_id": "bSA49omtoY4",
+     "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts"
     },
     {
-     "video_id": "ltppiL7lOaU",
-     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
+     "video_id": "DG5kj_Tyf2g",
+     "titulo": "O jogo que o Alien deveria ter copiado #shorts"
     }
    ]
   },
@@ -66,8 +60,8 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 10,
-   "ultimo_post": "2026-10-05",
+   "na_fila": 9,
+   "ultimo_post": "2026-10-06",
    "dias_parado": 0,
    "parado": false,
    "agendados": [],
@@ -75,11 +69,6 @@
     {
      "video_id": "EcQSPXWiEE8",
      "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE",
-     "quando": "2026-10-05T21:30:00-03:00"
-    },
-    {
-     "video_id": "sbaSX77OnfA",
-     "titulo": "O sangue desse monstro derruba a nave inteira #shorts",
      "quando": "2026-10-06T21:30:00-03:00"
     },
     {
@@ -129,12 +118,12 @@
      "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     },
     {
-     "video_id": "sbaSX77OnfA",
-     "titulo": "O sangue desse monstro derruba a nave inteira #shorts"
-    },
-    {
      "video_id": "ylu-YZPEGm8",
      "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele"
+    },
+    {
+     "video_id": "NzY7XmWAcso",
+     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
     }
    ]
   },
@@ -144,7 +133,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 23,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 26,
+   "dias_parado": 27,
    "parado": true,
    "agendados": [],
    "previstos": [
