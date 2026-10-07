@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07T00:39:02.539806Z",
+ "gerado_em": "2026-10-07T19:02:37.601944Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -148,14 +148,14 @@
    "arquivo": "roteiro-rematch-egoisto.md",
    "name": "Roteiro Rematch Egoísto (longo narrado, minissérie em 5 capítulos)",
    "titulo_roteiro": "Roteiro: REMATCH EGOÍSTO",
-   "description": "Versão 4 (06/10): abertura nova pedida pelo Murilo no ensaio (o gol de primeira na prorrogação, em câmera lenta, com a proposta por cima; menos explicação; sem Game Pass) e o \"só que\" só antes de problema; o resto é o te",
+   "description": "Versão 5 (07/10), a partir da revisão da v1 do vídeo pelo Murilo (ordem de produção, seção 14). A história na ordem que ele contou (as 3 metas cumpridas uma por vez, gols, ranking e passe, e no fim a descoberta de que o ",
    "status": "aguardando-aprovacao-murilo",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "5"
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
