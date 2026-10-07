@@ -489,8 +489,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Tem um estúdio fazendo uma Pokébola diferente pra cada Pokémon, com a cara do bicho",
-   "etapa": "roteiro (aguardando aprovação; 1 de 3 do Pokémon impresso em 3D, com produto; fontes conferidas)",
+   "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
+   "etapa": "roteiro (versão 2 pra aprovar: a missão dele contada por ele, a roleta e os modelos mais criativos; com produto)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -498,15 +498,15 @@
   {
    "tipo": "Short",
    "titulo": "Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
-   "etapa": "roteiro (aguardando aprovação; 2 de 3 do Pokémon impresso em 3D, com produto; fontes conferidas)",
+   "etapa": "roteiro (versão 2 pra aprovar: abre na pergunta, a pessoa chuta os óbvios e o Cubone só aparece no fim; com produto)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Esse francês imprimiu um Onix em tamanho real com 8,8 metros",
-   "etapa": "roteiro (versão 2 pra aprovar: mesma história, com os fatos ligados um no outro; 3 de 3 do Pokémon impresso em 3D; fontes conferidas)",
+   "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
+   "etapa": "roteiro (versão 3 pra aprovar: abre no desafio dos haters sem dizer que é o Onix, as dificuldades e o resultado no fim)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -538,7 +538,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
-   "etapa": "roteiro (versão 4 pra aprovar: o fim agora começa com 'E aí, finalmente', sem o 'só que aí' antes da vitória; o resto igual à versão 3)",
+   "etapa": "roteiro (versão 5 pra aprovar: a primeira frase em ordem, sem explicação no meio, \"8 máquinas fazendo kit médico\", o Sea Dragon e o \"sem comer nenhuma vez\" do seu jeito)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -553,8 +553,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade e pra respirar ele planta coral",
-   "etapa": "roteiro (aguardando aprovação; segundo vídeo do mesmo desafio, como ele respira e avança a 10 km; fontes conferidas)",
+   "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
+   "etapa": "roteiro (versão 2 pra aprovar: abre no oxigênio acabando e vai resolvendo um problema de cada vez, o coral só aparece depois da metade)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -602,5 +602,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-06T21:30-03:00"
+ "gerado_em": "2026-10-06T21:39-03:00"
 }
