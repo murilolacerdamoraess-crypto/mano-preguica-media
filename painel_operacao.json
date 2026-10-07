@@ -46,7 +46,7 @@
    "titulo": "Toda semana saem pelo menos 3 Shorts de Subnautica (criatura, segredo ou novidade), e os outros jogos completam a semana sem limite.",
    "onde": "instruções do agente de pautas (toda segunda, pelo menos 3 pautas de Subnautica no quadro de pautas) e do agente de Shorts (esses 3 entram primeiro na fila da semana)",
    "confianca": "forte",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-07 (instruções dos agentes de pautas e de Shorts; aprovada pelo Murilo em 07/10 00:14)",
    "simples": "Quase todo Short de Subnautica passa de 10 mil views (23 de 24 desde março) e os de outros jogos quase nunca passam (1 de 10). Então cada semana começa garantindo 3 Shorts de Subnautica, e os outros dias continuam livres pra qualquer jogo, sem limite, pra chegar em 1 vídeo por dia."
   },
   {
@@ -54,7 +54,7 @@
    "titulo": "Entre um fato e o próximo, a narração liga com \"só que\" ou \"por isso\", não com \"e aí\" (regra dos criadores de South Park), e o conferidor automático passa a medir isso.",
    "onde": "conferidor de fluidez (`checar_fluidez.py`, régua nova), escrita de roteiro de Short (skill de roteiro) e instruções do agente de vídeos longos",
    "confianca": "forte",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-07 (checar_fluidez.py, commit 5aacca1 no repositório canal-agente; skill shorts-roteirista; instruções dos agentes de Shorts e de vídeos longos; aprovada em 07/10 00:14)",
    "simples": "Toda vez que a história anda, a frase diz se foi porque deu problema (\"só que...\") ou por causa do que veio antes (\"por isso...\", \"então...\"), em vez de só \"e aí\". É a regra dos criadores de South Park, e é exatamente o que você fez quando reescreveu os trechos dos 10 mil metros, da luva e da moto. Nos roteiros que você reprovou por texto picado, menos de 1 frase em cada 5 tinha essa ligação; nos que você aprovou, metade ou mais. Se aprovar, o conferidor automático passa a barrar roteiro com menos de 40% das frases assim ou com mais de 6 frases seguidas sem."
   },
   {
@@ -62,7 +62,7 @@
    "titulo": "Todo roteiro começa com a pergunta que o gancho deixa no ar, numa frase, e diz em que ponto do fim ela é respondida; pauta sem essa pergunta não vira roteiro.",
    "onde": "topo de todo roteiro (Short e longo), escrita de roteiro de Short (skill de roteiro), instruções dos agentes de pautas e de vídeos longos",
    "confianca": "média (4 casos, todos no mesmo sentido)",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-07 (skill shorts-roteirista, teste 11; instruções dos agentes de Shorts, de vídeos longos e de pautas; aprovada em 07/10 00:15)",
    "simples": "Antes de escrever, a gente escreve numa frase a pergunta que o começo do vídeo deixa na cabeça de quem assiste (por exemplo, \"como essa mensagem foi parar a 10 mil metros?\") e onde, no fim, ela é respondida. Se não der pra escrever essa pergunta, a pauta é fraca e nem chega pra você. É o que você pediu nos 10 mil metros e na cadeira, e o que faltou no Mario 64 e no WoW."
   },
   {
@@ -70,7 +70,7 @@
    "titulo": "Cada tentativa ou perrengue é contado inteiro (o que tentou, o que esperava e o que aconteceu, com o número de antes e de depois), e frase que não muda nada na história sai.",
    "onde": "escrita de roteiro de Short (skill de roteiro) e instruções do agente de vídeos longos",
    "confianca": "média",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-07 (skill shorts-roteirista, teste 12; instruções dos agentes de Shorts e de vídeos longos; aprovada em 07/10 00:15)",
    "simples": "Quando o vídeo conta uma tentativa ou um perrengue, a frase diz o que ele tentou, o que esperava e o que deu de verdade, de preferência com o número de antes e de depois (a placa velha aguentava 2 kg, a nova 9 kg). E detalhe que não muda nada na história sai do texto. Foi assim que você reescreveu a placa da luva e o curto da moto."
   },
   {
@@ -602,5 +602,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-06T21:20-03:00"
+ "gerado_em": "2026-10-06T21:30-03:00"
 }
