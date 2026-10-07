@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07T03:13:47.321048-03:00",
+ "gerado_em": "2026-10-07T15:04:31.998352-03:00",
  "mes": {
   "postados": 4,
   "teto": 93,
@@ -43,12 +43,12 @@
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "NzY7XmWAcso",
-     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
-    },
-    {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
+    },
+    {
+     "video_id": "NzY7XmWAcso",
+     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
     },
     {
      "video_id": "bSA49omtoY4",
@@ -77,13 +77,13 @@
      "quando": "2026-10-08T21:30:00-03:00"
     },
     {
-     "video_id": "NzY7XmWAcso",
-     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts",
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
      "quando": "2026-10-09T21:30:00-03:00"
     },
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "video_id": "NzY7XmWAcso",
+     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts",
      "quando": "2026-10-10T21:30:00-03:00"
     },
     {
@@ -127,8 +127,8 @@
      "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele"
     },
     {
-     "video_id": "NzY7XmWAcso",
-     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
     }
    ]
   },
