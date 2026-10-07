@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07T00:37:16.590961Z",
+ "gerado_em": "2026-10-07T00:39:02.539806Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -263,16 +263,16 @@
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
-   "name": "SHORT - Tem um estúdio fazendo uma Pokébola diferente pra cada Pokémon, com a cara do bicho",
+   "name": "SHORT - Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
    "titulo_roteiro": "SHORT: uma Pokébola diferente pra cada Pokémon",
-   "description": "Short do canal principal, 1 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. Só as pokébolas da Breakroom Collectibles, em tom de curiosidade mostrando vários modelos (Gengar, Cubone, Dodri",
+   "description": "Short do canal principal, 1 de 3 do desmembramento do Pokémon impresso em 3D (versão 2, 07/10: a história de uma pessoa com uma missão, pedido do Murilo). O dono da Breakroom Collectibles narra a missão de transformar um",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-pokemon-mais-impresso-3d-cubone.md",
