@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06T22:39:24.625545Z",
+ "gerado_em": "2026-10-07T00:20:43.269813Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -85,12 +85,12 @@
    "titulo_roteiro": "SHORT MP2: a ocarina de verdade que o Zelda novo escuta",
    "description": "Short do MP2 (linha de produto, pauta P19 do Sonar, aprovada pelo Murilo em 05/10). No remake de Zelda Ocarina of Time pro Switch 2, o controle tem microfone; na demonstração da Nintendo o produtor cantarola e o Link toc",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez (com a R7) APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "mp2-pokebola-lego-abre.md",
@@ -254,12 +254,12 @@
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
    "description": "Short do canal principal, 3 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. O extremo - o criador francês do canal Entroisdimensions (\"o cara que faz Pokémon gigantes\") imprimiu o Onix com",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez (com a R7) APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
