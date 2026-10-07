@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07T00:34:01.495817Z",
+ "gerado_em": "2026-10-07T00:37:16.590961Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -250,16 +250,16 @@
   },
   {
    "arquivo": "short-onix-tamanho-real-impresso.md",
-   "name": "SHORT - Esse francês imprimiu um Onix em tamanho real com 8,8 metros",
+   "name": "SHORT - Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
-   "description": "Short do canal principal, 3 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. O extremo - o criador francês do canal Entroisdimensions (\"o cara que faz Pokémon gigantes\") imprimiu o Onix com",
+   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 3, 07/10: abre no desafio, sem entregar o Onix, pedido do Murilo). O criador francês do canal Entroisdimensions imprime Pokémon gigante",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R7) APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 3); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
@@ -278,14 +278,14 @@
    "arquivo": "short-pokemon-mais-impresso-3d-cubone.md",
    "name": "SHORT - Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
    "titulo_roteiro": "SHORT: o Pokémon que a galera mais imprime em 3D não é o Pikachu",
-   "description": "Short do canal principal, 2 de 3 do desmembramento do \"Pokémon impresso em 3D\" pedido pelo Murilo em 05/10. Impressão 3D de Pokémon em geral, pela curiosidade de um levantamento de 2024 (3DSourced, curtidas no Thingivers",
+   "description": "Short do canal principal, 2 de 3 do desmembramento do Pokémon impresso em 3D (versão 2, 07/10: abre na pergunta e segura o nome até o fim, pedido do Murilo). Levantamento de 2024 do 3DSourced (curtidas no Thingiverse): o",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
@@ -302,16 +302,16 @@
   },
   {
    "arquivo": "short-subnautica-10km-coral-ar.md",
-   "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade e pra respirar ele planta coral",
+   "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
-   "description": "Short de uns 2min20 (pauta P23 do Sonar, aprovada pelo Murilo em 05/10; segundo Short do desafio dos 10 mil metros do The Last Bacon, outro ângulo). Como ele sobrevive e avança com 10 km de água em cima do mapa - o ar ac",
+   "description": "Short de uns 2min20 (versão 2, 07/10: abre no problema do oxigênio e vai resolvendo, pedido do Murilo; pauta P23 do Sonar). O The Last Bacon tenta zerar Subnautica com 10 km de água a mais (mod): o ar acaba rápido e ele ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
