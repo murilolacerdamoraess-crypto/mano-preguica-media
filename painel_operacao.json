@@ -586,10 +586,10 @@
   {
    "tipo": "Longo",
    "titulo": "Rematch Egoísto",
-   "etapa": "roteiro (escrevendo a versão 5: o Murilo revisou o vídeo v1 inteiro em 07/10 e pediu a história em ordem, as classificatórias contadas uma a uma e o vídeo feito de planos desenhados com a gameplay em janela; pedidos na ordem de produção, seção 14)",
+   "etapa": "roteiro (aguardando aprovação; versão 5 feita da sua revisão do vídeo v1: a história em ordem com as 3 metas cumpridas uma por vez, a sua voz desde o primeiro segundo, uma história por classificatória, a briga e a virada como foram; fontes e fluidez conferidas)",
    "responsavel": "Farol",
-   "falta_murilo": "nada por enquanto",
-   "prazo": "23/10 (limite, fim do evento Blue Lock)"
+   "falta_murilo": "dizer se a primeira partida com o Rafael foi 1 a 0 ou 6 a 5",
+   "prazo": "09/10 (alvo; limite 23/10, fim do evento Blue Lock)"
   }
  ],
  "navegador": [
@@ -602,5 +602,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-07T15:32-03:00"
+ "gerado_em": "2026-10-07T16:02-03:00"
 }
