@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06T14:28:29.523789-03:00",
+ "gerado_em": "2026-10-07T03:13:47.321048-03:00",
  "mes": {
   "postados": 4,
   "teto": 93,
@@ -10,9 +10,9 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 3,
+   "na_fila": 4,
    "ultimo_post": "2026-10-05",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [
     {
@@ -47,12 +47,12 @@
      "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
     },
     {
-     "video_id": "bSA49omtoY4",
-     "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts"
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
     },
     {
-     "video_id": "DG5kj_Tyf2g",
-     "titulo": "O jogo que o Alien deveria ter copiado #shorts"
+     "video_id": "bSA49omtoY4",
+     "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts"
     }
    ]
   },
@@ -60,56 +60,61 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 9,
+   "na_fila": 10,
    "ultimo_post": "2026-10-06",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "EcQSPXWiEE8",
      "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE",
-     "quando": "2026-10-06T21:30:00-03:00"
+     "quando": "2026-10-07T21:30:00-03:00"
     },
     {
      "video_id": "ylu-YZPEGm8",
      "titulo": "Tinha um jogo secreto no seu Switch e a Nintendo apagou ele",
-     "quando": "2026-10-07T21:30:00-03:00"
+     "quando": "2026-10-08T21:30:00-03:00"
     },
     {
      "video_id": "NzY7XmWAcso",
      "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts",
-     "quando": "2026-10-08T21:30:00-03:00"
+     "quando": "2026-10-09T21:30:00-03:00"
+    },
+    {
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "quando": "2026-10-10T21:30:00-03:00"
     },
     {
      "video_id": "vCPLd9EIELs",
      "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
-     "quando": "2026-10-09T21:30:00-03:00"
+     "quando": "2026-10-11T21:30:00-03:00"
     },
     {
      "video_id": "J6XFb909Tg4",
      "titulo": "Esse jogo mandou fita cassete pelo correio e ninguém entendia por quê #shorts",
-     "quando": "2026-10-10T21:30:00-03:00"
+     "quando": "2026-10-12T21:30:00-03:00"
     },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-11T21:30:00-03:00"
+     "quando": "2026-10-13T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-12T21:30:00-03:00"
+     "quando": "2026-10-14T21:30:00-03:00"
     },
     {
      "video_id": "vLoHwfGSffI",
      "titulo": "Esse personagem de Alien Isolation morreu no Twitter e o corpo dele tá no jogo",
-     "quando": "2026-10-13T21:30:00-03:00"
+     "quando": "2026-10-15T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-14T21:30:00-03:00"
+     "quando": "2026-10-16T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -131,9 +136,9 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 23,
+   "na_fila": 24,
    "ultimo_post": "2026-09-09",
-   "dias_parado": 27,
+   "dias_parado": 28,
    "parado": true,
    "agendados": [],
    "previstos": [
