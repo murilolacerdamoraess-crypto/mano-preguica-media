@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-07T15:04:31.998352-03:00",
+ "gerado_em": "2026-10-07T21:21:34.549495-03:00",
  "mes": {
-  "postados": 4,
+  "postados": 6,
   "teto": 93,
-  "folga": 89
+  "folga": 87
  },
  "redes": {
   "tiktok": {
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 4,
-   "ultimo_post": "2026-10-05",
-   "dias_parado": 2,
+   "ultimo_post": "2026-10-07",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "bSA49omtoY4",
-     "titulo": "esse npc do world of warcraft tem a voz de um menino que já morreu",
-     "quando": "2026-10-07T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "o jogo que o alien deveria ter copiado",
@@ -60,9 +54,9 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 10,
-   "ultimo_post": "2026-10-06",
-   "dias_parado": 1,
+   "na_fila": 9,
+   "ultimo_post": "2026-10-07",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
@@ -87,34 +81,29 @@
      "quando": "2026-10-10T21:30:00-03:00"
     },
     {
-     "video_id": "vCPLd9EIELs",
-     "titulo": "Os zumbis de Half-Life 2 estão pedindo socorro de verdade",
-     "quando": "2026-10-11T21:30:00-03:00"
-    },
-    {
      "video_id": "J6XFb909Tg4",
      "titulo": "Esse jogo mandou fita cassete pelo correio e ninguém entendia por quê #shorts",
-     "quando": "2026-10-12T21:30:00-03:00"
+     "quando": "2026-10-11T21:30:00-03:00"
     },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-13T21:30:00-03:00"
+     "quando": "2026-10-12T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-14T21:30:00-03:00"
+     "quando": "2026-10-13T21:30:00-03:00"
     },
     {
      "video_id": "vLoHwfGSffI",
      "titulo": "Esse personagem de Alien Isolation morreu no Twitter e o corpo dele tá no jogo",
-     "quando": "2026-10-15T21:30:00-03:00"
+     "quando": "2026-10-14T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-16T21:30:00-03:00"
+     "quando": "2026-10-15T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -136,28 +125,24 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 24,
-   "ultimo_post": "2026-09-09",
-   "dias_parado": 28,
-   "parado": true,
+   "na_fila": 23,
+   "ultimo_post": "2026-10-07",
+   "dias_parado": 0,
+   "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "Ty5b7NugQNQ",
-     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts",
+     "video_id": "ltppiL7lOaU",
+     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO",
      "quando": "2026-10-08T20:00:00-03:00"
     },
     {
-     "video_id": "ltppiL7lOaU",
-     "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO",
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
      "quando": "2026-10-15T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "Ty5b7NugQNQ",
-     "titulo": "Esse monstro de Subnautica 2 esconde os filhotes no meio de cópias falsas #shorts"
-    },
     {
      "video_id": "ltppiL7lOaU",
      "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO"
@@ -165,6 +150,10 @@
     {
      "video_id": "X__XMvu7l6I",
      "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
+    },
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     }
    ]
   }
