@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-08T15:02:47.500475-03:00",
+ "gerado_em": "2026-10-08T21:21:40.679091-03:00",
  "mes": {
-  "postados": 6,
+  "postados": 7,
   "teto": 93,
-  "folga": 87
+  "folga": 86
  },
  "redes": {
   "tiktok": {
@@ -54,9 +54,9 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 9,
-   "ultimo_post": "2026-10-07",
-   "dias_parado": 1,
+   "na_fila": 8,
+   "ultimo_post": "2026-10-08",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
@@ -96,14 +96,9 @@
      "quando": "2026-10-14T21:30:00-03:00"
     },
     {
-     "video_id": "vLoHwfGSffI",
-     "titulo": "Esse personagem de Alien Isolation morreu no Twitter e o corpo dele tá no jogo",
-     "quando": "2026-10-15T21:30:00-03:00"
-    },
-    {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-16T21:30:00-03:00"
+     "quando": "2026-10-15T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -134,11 +129,6 @@
     {
      "video_id": "ltppiL7lOaU",
      "titulo": "O MAIOR MONSTRO DE SUBNAUTICA VOLTOU E AGORA ELE TE OUVE NO ESCURO",
-     "quando": "2026-10-08T20:00:00-03:00"
-    },
-    {
-     "video_id": "X__XMvu7l6I",
-     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
      "quando": "2026-10-15T20:00:00-03:00"
     }
    ],
