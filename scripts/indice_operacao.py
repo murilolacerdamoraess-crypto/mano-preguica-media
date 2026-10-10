@@ -255,35 +255,67 @@ def avisar_telegram(seco=False):
     if d.get("tabela_ausente") and not seco:
         return  # sem a tabela os botões não gravariam
     ja = set(json.load(open(AVISADOS))) if os.path.exists(AVISADOS) else set()
+    import sys
+    if "--reenviar" in sys.argv:
+        ja = set()
     novos = [p for p in d.get("pendentes", []) if p["chave"] not in ja][:12]
     if not novos:
         return
-    linhas = [f"🧭 {len(novos)} decisão(ões) nova(s) esperando você", ""]
-    teclado = []
+    # 10/10/2026 (Murilo): "os botões de abrir o Decidir no painel e ler não estão funcionando...
+    # no próprio disparo já trazer qual é a decisão que eu tenho que tomar... ler e decidir pelo
+    # próprio Telegram". Causa: o painel pede senha e o navegador do Telegram não tem a sessão.
+    # Agora: UMA mensagem por decisão, com tudo o que precisa pra decidir no texto, e só os
+    # botões que funcionam sem sessão (aprovar / reprovar, que abrem /api/decidir com a chave).
+    PERG = {"ideia": "Vira vídeo?", "roteiro": "Aprova este roteiro?", "regra": "Vira regra pro time?",
+            "peca": "O que falta de você:", "titulo": "Aprova este título?", "video": "Aprova este vídeo?"}
+    TIPO = {"ideia": "Ideia de vídeo", "roteiro": "Roteiro", "regra": "Regra proposta", "peca": "Vídeo em produção",
+            "titulo": "Título", "video": "Vídeo"}
+
+    def trecho_roteiro(chave):
+        # chave "roteiro:<arquivo>.md@vN" -> texto do roteiro no cérebro (o que mudou + começo)
+        try:
+            arq = chave.split(":", 1)[1].split("@")[0]
+            t = open(os.path.join(HOME, "claude-projects", "cerebro", "projetos", "canal-agente", "roteiros", arq), encoding="utf-8").read()
+            if t.startswith("---"):
+                t = t.split("---", 2)[2]
+            return t.strip()[:2800]
+        except Exception:
+            return ""
+
+    def enviar(texto, teclado=None):
+        corpo = {"chat_id": chat, "text": texto[:4000], "disable_web_page_preview": True}
+        if teclado:
+            corpo["reply_markup"] = {"inline_keyboard": teclado}
+        if seco:
+            print(corpo["text"]); print("[botões]", [b["text"] for l in (teclado or []) for b in l]); print("-" * 40)
+            return True
+        req = urllib.request.Request(f"https://api.telegram.org/bot{bot}/sendMessage",
+                                     data=json.dumps(corpo).encode(), headers={"content-type": "application/json"})
+        try:
+            return bool(json.loads(urllib.request.urlopen(req, timeout=20).read()).get("ok"))
+        except Exception:
+            return False
+
+    enviar(f"🧭 {len(novos)} decisão(ões) esperando você. Uma por mensagem, logo abaixo: leia e toque ✅ ou ❌ (no ❌ ele pede o motivo).")
+    feitos = set()
     for i, p in enumerate(novos, 1):
-        linhas.append(f"{i}. [{p['portao']}] {p['titulo']}")
-        base = {"chave": p["chave"], "tipo": p["tipo"], "titulo": p["titulo"][:120], "t": TOKEN_DECIDIR}
+        tp = p.get("tipo", "")
+        linhas = [f"🧭 {i} de {len(novos)} · {TIPO.get(tp, p.get('portao', ''))}", "", p["titulo"]]
+        if p.get("detalhe") and p["detalhe"] != p["titulo"]:
+            linhas += ["", p["detalhe"].replace(" · ", "\n")]
+        if tp == "roteiro":
+            corpo_r = trecho_roteiro(p["chave"])
+            if corpo_r:
+                linhas += ["", "· roteiro ·", corpo_r]
+        linhas += ["", PERG.get(tp, "Aprova?")]
+        base = {"chave": p["chave"], "tipo": tp, "titulo": p["titulo"][:120], "t": TOKEN_DECIDIR}
         ok = f"{PAINEL}/api/decidir?" + urllib.parse.urlencode({**base, "r": "aprovado"})
         no = f"{PAINEL}/api/decidir?" + urllib.parse.urlencode({**base, "r": "reprovado"})
-        linha = [{"text": f"✅ {i}", "url": ok}, {"text": f"❌ {i}", "url": no}]
-        if p.get("link"):
-            link = p["link"] if p["link"].startswith("http") else PAINEL + p["link"]
-            linha.append({"text": f"📄 ler {i}", "url": link})
-        teclado.append(linha)
-    teclado.append([{"text": "Abrir o Decidir no painel", "url": f"{PAINEL}/decidir"}])
-    corpo = {"chat_id": chat, "text": "\n".join(linhas), "disable_web_page_preview": True,
-             "reply_markup": {"inline_keyboard": teclado}}
-    if seco:
-        print(corpo["text"]); print(f"[{len(teclado)} linhas de botão] ex.: {teclado[0][0]['url'][:150]}")
-        return
-    req = urllib.request.Request(f"https://api.telegram.org/bot{bot}/sendMessage",
-                                 data=json.dumps(corpo).encode(), headers={"content-type": "application/json"})
-    try:
-        if json.loads(urllib.request.urlopen(req, timeout=20).read()).get("ok"):
-            os.makedirs(os.path.dirname(AVISADOS), exist_ok=True)
-            json.dump(sorted(ja | {p["chave"] for p in novos}), open(AVISADOS, "w"))
-    except Exception:
-        pass
+        if enviar("\n".join(linhas), [[{"text": "✅ Aprovar", "url": ok}, {"text": "❌ Reprovar (com motivo)", "url": no}]]):
+            feitos.add(p["chave"])
+    if feitos and not seco:
+        os.makedirs(os.path.dirname(AVISADOS), exist_ok=True)
+        json.dump(sorted(ja | feitos), open(AVISADOS, "w"))
 
 
 DOC_HASH = os.path.join(HOME, ".canal-agente", "documentos-hash.json")
