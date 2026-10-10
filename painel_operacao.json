@@ -546,9 +546,9 @@
   {
    "tipo": "Short",
    "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
-   "etapa": "roteiro aprovado (versão 2: \"E aí, meus amigos, veio o leilão\" no lugar do \"só que aí\", com o seu OK; a Lente regera só essa frase da voz)",
-   "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "etapa": "publicação (v12 entregue pelo Windows em 08/10, na fila `00 - PRONTOS PRA PUBLICAR`)",
+   "responsavel": "Leme",
+   "falta_murilo": "nada (só a capa e o título do Anzol antes de postar)",
    "prazo": ""
   },
   {
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T03:54-03:00"
+ "gerado_em": "2026-10-10T03:55-03:00"
 }
