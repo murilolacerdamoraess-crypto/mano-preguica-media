@@ -110,8 +110,16 @@
    "titulo": "Pauta de jogo que não é Subnautica chega dizendo quem vai se importar: o vídeo ou post que já fez sucesso com o assunto, com o número, ou que é jogo ou console que muita gente tem.",
    "onde": "instruções do Sonar (os campos de cada pauta no Backlog, que o painel mostra).",
    "confianca": "forte no pedido dele (2 reprovações no mesmo dia, mesmo motivo) e no dado do canal (L1, 10 Shorts).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-10 (instruções do Sonar; aprovada em 10/10 21:38)",
    "simples": "Toda pauta de jogo que não é Subnautica chega com uma linha \"Quem vai se importar\", mostrando o vídeo sobre esse assunto que já fez sucesso em algum lugar (e quantas views teve) ou dizendo que é jogo ou console que muita gente tem, como foi o Switch. Foi o que faltou no StarCraft e no Valorant: os 590 views eram de um concorrente em espanhol, não a prova de que o assunto pega."
+  },
+  {
+   "id": "R15",
+   "titulo": "Toda pauta diz o que a pessoa leva no fim do vídeo, a revelação que ela vai querer contar pros amigos, pra o Murilo julgar se paga o que o título promete.",
+   "onde": "instruções do Sonar (os campos de cada pauta no Backlog, ao lado da pergunta do gancho da R8).",
+   "confianca": "forte no pedido dele (a mesma pauta reprovada 2 vezes pelo mesmo motivo); o dado do canal é indireto.",
+   "status": "aguardando",
+   "simples": "Toda pauta chega com uma linha \"O que a pessoa leva no fim\", dizendo a revelação do vídeo e por que ela surpreende, por exemplo \"o jogo diz que alguém pôs água na boca dele depois de morto, e ninguém sabe por quê\". Se a resposta for \"ninguém sabe\", a pauta diz isso com todas as letras, pra você decidir se vale ou se vira sensacionalismo em cima de pouca coisa."
   }
  ],
  "equipe": [
@@ -626,5 +634,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T18:35-03:00"
+ "gerado_em": "2026-10-10T19:27-03:00"
 }
