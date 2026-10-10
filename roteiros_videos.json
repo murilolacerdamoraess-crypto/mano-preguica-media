@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T21:28:54.442299Z",
+ "gerado_em": "2026-10-10T22:36:25.780205Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -156,6 +156,19 @@
    "formato": "longo MP1",
    "motor": null,
    "versao": "6"
+  },
+  {
+   "arquivo": "roteiro-stonewards-em-dupla.md",
+   "name": "Roteiro Stonewards em dupla (longo narrado, minissérie em 5 capítulos)",
+   "titulo_roteiro": "Roteiro: STONEWARDS EM DUPLA",
+   "description": "Longo de Stonewards no formato do Rematch (história narrada pela voz clonada do Murilo, planos, animações e inserções 3D), feito a partir das sessões 1 e 2 (20 e 22/08/2026), com as falas do Murilo e do Gustavo como font",
+   "status": "escrevendo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
