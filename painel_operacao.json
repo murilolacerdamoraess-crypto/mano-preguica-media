@@ -522,8 +522,8 @@
   {
    "tipo": "Longo",
    "titulo": "Stonewards em dupla",
-   "etapa": "roteiro (abertura e capítulo 1 prontos e aprovados nos portões, com a Lente pra virar o demo de uns 4 min que você vai ver; o resto do roteiro sai até 11/10 às 14h)",
-   "responsavel": "Farol → Lente → Windows",
+   "etapa": "edição (o demo com a abertura e o capítulo 1, uns 4 min, está na fila do Windows; é o seu primeiro portão: você aprova vendo, não lendo; o resto do roteiro sai até 11/10)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -634,5 +634,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T19:38-03:00"
+ "gerado_em": "2026-10-10T20:48-03:00"
 }
