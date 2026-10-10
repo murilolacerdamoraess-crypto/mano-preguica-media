@@ -521,8 +521,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
-   "etapa": "roteiro (a primeira frase diz que é o Pokémon que a galera mais imprime, mas o levantamento contou curtidas, não impressões; o Arpão corrige e manda a versão 4 pra você aprovar; enquanto isso o Windows adianta o resto)",
+   "titulo": "Você sabe qual é o Pokémon favorito de quem imprime em 3D?",
+   "etapa": "roteiro (versão 4 pra aprovar: só a primeira frase mudou, agora pergunta qual é o Pokémon favorito de quem imprime em 3D, porque o levantamento contou curtidas e não impressões; o resto é igual ao que você aprovou; enquanto isso o Windows adianta capa e imagens)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T04:02-03:00"
+ "gerado_em": "2026-10-10T04:04-03:00"
 }
