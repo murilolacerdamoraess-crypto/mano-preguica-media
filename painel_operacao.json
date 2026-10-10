@@ -514,7 +514,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
-   "etapa": "roteiro (versão 2 pra aprovar: a missão dele contada por ele, a roleta e os modelos mais criativos; com produto)",
+   "etapa": "roteiro (versão 3 pra aprovar: você aprovou a versão 2 em 10/10, e só o final mudou, agora fecha voltando à missão dele de transformar o quarto inteiro numa Pokédex)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -522,7 +522,7 @@
   {
    "tipo": "Short",
    "titulo": "Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
-   "etapa": "roteiro (versão 2 pra aprovar: abre na pergunta, a pessoa chuta os óbvios e o Cubone só aparece no fim; com produto)",
+   "etapa": "roteiro (versão 3 pra aprovar: você aprovou a versão 2 em 10/10, e só o final mudou, agora fecha ligando o primeiro lugar à história triste que o começo prometeu)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -530,8 +530,8 @@
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "roteiro (versão 3 pra aprovar: abre no desafio dos haters sem dizer que é o Onix, as dificuldades e o resultado no fim)",
-   "responsavel": "Arpão",
+   "etapa": "roteiro aprovado (versão 3, aprovada por você em 10/10; a Lente monta a produção)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -562,24 +562,24 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
-   "etapa": "roteiro (versão 6 pra aprovar: só o final mudou, agora fecha dizendo que ele zerou vivendo de kit médico e quem segurou a fome foi uma cadeira)",
-   "responsavel": "Arpão",
+   "etapa": "roteiro aprovado (versão 6, com o final novo, aprovada por você em 10/10; a Lente monta a produção)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
-   "etapa": "roteiro (versão 5 pra aprovar: só o final mudou, agora fecha dizendo que o recado de quem já tinha zerado chegou justo em quem ainda tava tentando sobreviver)",
-   "responsavel": "Arpão",
+   "etapa": "roteiro aprovado (versão 5, com o final novo, aprovada por você em 10/10; a Lente monta a produção)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
-   "etapa": "roteiro (versão 2 pra aprovar: abre no oxigênio acabando e vai resolvendo um problema de cada vez, o coral só aparece depois da metade)",
-   "responsavel": "Arpão",
+   "etapa": "roteiro aprovado (versão 2, aprovada por você em 10/10; a Lente monta a produção)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -602,8 +602,8 @@
   {
    "tipo": "Short",
    "titulo": "Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela",
-   "etapa": "roteiro (versão 5 pra aprovar: só o final mudou, agora fecha com a moto que funciona de verdade, como ela queria desde o começo)",
-   "responsavel": "Arpão",
+   "etapa": "roteiro aprovado (versão 5, com o final novo, aprovada por você em 10/10; a Lente monta a produção)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T02:46-03:00"
+ "gerado_em": "2026-10-10T03:22-03:00"
 }
