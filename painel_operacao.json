@@ -505,10 +505,10 @@
  "producao": [
   {
    "tipo": "Longo",
-   "titulo": "Stonewards pro MP1: o arqueiro que quebrou o jogo (7 episódios viram 1 filme de 30min)",
-   "etapa": "pauta escrita, cold open e 16 beats mapeados",
-   "responsavel": "Farol",
-   "falta_murilo": "aprovar a pauta",
+   "titulo": "Stonewards pro MP1 (7 episódios viram 1 filme)",
+   "etapa": "REFAZER no formato do Rematch (pedido do Murilo 10/10: história com planos, animações e inserções 3D; sem lição de moral, mas com história)",
+   "responsavel": "Farol (roteiro) → Lente (ordem) → Windows",
+   "falta_murilo": "aprovar a espinha e o roteiro no Decidir",
    "prazo": ""
   },
   {
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T04:04-03:00"
+ "gerado_em": "2026-10-10T17:34-03:00"
 }
