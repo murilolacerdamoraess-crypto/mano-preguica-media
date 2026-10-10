@@ -514,7 +514,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
-   "etapa": "edição (na fila do Windows com o plano pronto, versão 3 aprovada por você em 10/10; o Anzol manda o título e as palavras da capa; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (na fila do Windows com o plano pronto, versão 3 aprovada por você em 10/10; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -522,15 +522,15 @@
   {
    "tipo": "Short",
    "titulo": "Descobriram qual Pokémon a galera mais imprime em 3D, e não é o Pikachu",
-   "etapa": "edição (na fila do Windows com o plano pronto, versão 3 aprovada por você em 10/10; o Anzol manda o título e as palavras da capa; pronto até 17/10 pro estoque do TikTok)",
-   "responsavel": "Lente",
+   "etapa": "roteiro (a primeira frase diz que é o Pokémon que a galera mais imprime, mas o levantamento contou curtidas, não impressões; o Arpão corrige e manda a versão 4 pra você aprovar; enquanto isso o Windows adianta o resto)",
+   "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "edição (na fila do Windows com o plano pronto; o Anzol manda o título e as palavras da capa; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (na fila do Windows com o plano pronto; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -578,7 +578,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
-   "etapa": "edição (na fila do Windows com o plano pronto; o Anzol manda o título e as palavras da capa; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (na fila do Windows com o plano pronto; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T03:56-03:00"
+ "gerado_em": "2026-10-10T04:02-03:00"
 }
