@@ -78,7 +78,7 @@
    "titulo": "Em história com personagem (micro-conto e longo de jornada), antes do texto vêm 8 linhas do caminho dele, e a última, o que mudou nele, tem que estar dita no vídeo.",
    "onde": "instruções do agente de Shorts (micro-conto do MP2) e do agente de vídeos longos",
    "confianca": "média (o caso mais forte é o micro-conto)",
-   "status": "aguardando",
+   "status": "reprovada 2026-10-10 (o Murilo pôs na gaveta o formato de micro-conto do canal secundário; ver C42 em [[criterios-do-murilo]]. A parte do longo de jornada já está na R11, aplicada.)",
    "simples": "Em história com personagem, antes de escrever o texto a gente preenche 8 linhas: como ele está, o que quer, onde se mete, como se vira, o que consegue, quanto custa, como volta e o que mudou nele. A última linha precisa aparecer dita no vídeo, não só subentendida. No micro-conto do avô, foram 2 correções suas até o arrependimento do Lucas ficar claro; com isso ele viria na primeira versão."
   },
   {
@@ -104,6 +104,14 @@
    "confianca": "fraca nos Shorts (visto só no longo; os pedaços já são regra). Medir nos próximos 5 Shorts de história.",
    "status": "aplicada 2026-10-10 (skill shorts-roteirista e instruções do Arpão; aprovada em 10/10 06:16)",
    "simples": "Num Short que conta uma história (como a luva ou a moto), o começo mostra o problema, cada tentativa vem com o antes e o depois, alguma coisa do começo volta no fim, e a última frase fecha o que a primeira abriu, como no \"comecei querendo ser o egoísta perfeito, terminei sendo o camisa 10\". É o Rematch em um minuto."
+  },
+  {
+   "id": "R14",
+   "titulo": "Pauta de jogo que não é Subnautica chega dizendo quem vai se importar: o vídeo ou post que já fez sucesso com o assunto, com o número, ou que é jogo ou console que muita gente tem.",
+   "onde": "instruções do Sonar (os campos de cada pauta no Backlog, que o painel mostra).",
+   "confianca": "forte no pedido dele (2 reprovações no mesmo dia, mesmo motivo) e no dado do canal (L1, 10 Shorts).",
+   "status": "aguardando",
+   "simples": "Toda pauta de jogo que não é Subnautica chega com uma linha \"Quem vai se importar\", mostrando o vídeo sobre esse assunto que já fez sucesso em algum lugar (e quantas views teve) ou dizendo que é jogo ou console que muita gente tem, como foi o Switch. Foi o que faltou no StarCraft e no Valorant: os 590 views eram de um concorrente em espanhol, não a prova de que o assunto pega."
   }
  ],
  "equipe": [
@@ -537,14 +545,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "O avô que dava presente velho (micro-conto do canal 2)",
-   "etapa": "roteiro reescrito com os seus pontos (versão 4: frase final mostrando o arrependimento do Lucas, tom de cada cena pra voz de IA)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
    "etapa": "publicação (v12 entregue pelo Windows em 08/10, na fila `00 - PRONTOS PRA PUBLICAR`)",
    "responsavel": "Leme",
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T17:47-03:00"
+ "gerado_em": "2026-10-10T18:28-03:00"
 }
