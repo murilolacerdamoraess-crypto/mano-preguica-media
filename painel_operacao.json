@@ -505,10 +505,10 @@
  "producao": [
   {
    "tipo": "Longo",
-   "titulo": "Stonewards pro MP1 (7 episódios viram 1 filme)",
-   "etapa": "REFAZER no formato do Rematch (pedido do Murilo 10/10: história com planos, animações e inserções 3D; sem lição de moral, mas com história)",
-   "responsavel": "Farol (roteiro) → Lente (ordem) → Windows",
-   "falta_murilo": "aprovar a espinha e o roteiro no Decidir",
+   "titulo": "Stonewards em dupla",
+   "etapa": "roteiro (escrevendo a história inteira no formato do Rematch, a partir das sessões gravadas, com as falas suas e do Gustavo como fonte; depois a Lente monta um demo de 3 a 5 min, e é ele que você aprova, vendo em vez de lendo)",
+   "responsavel": "Farol → Lente → Windows",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -626,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-10T17:34-03:00"
+ "gerado_em": "2026-10-10T17:47-03:00"
 }
