@@ -80,6 +80,30 @@
    "confianca": "média (o caso mais forte é o micro-conto)",
    "status": "aguardando",
    "simples": "Em história com personagem, antes de escrever o texto a gente preenche 8 linhas: como ele está, o que quer, onde se mete, como se vira, o que consegue, quanto custa, como volta e o que mudou nele. A última linha precisa aparecer dita no vídeo, não só subentendida. No micro-conto do avô, foram 2 correções suas até o arrependimento do Lucas ficar claro; com isso ele viria na primeira versão."
+  },
+  {
+   "id": "R11",
+   "titulo": "Todo longo de jornada segue a receita do Rematch: a história num parágrafo antes de escrever, a voz em cima do lance que volta no fim, 5 capítulos com função, uma pequena história por partida e as metas marcadas uma por vez na tela.",
+   "onde": "instruções do agente de vídeos longos (Farol) e a nota roteiro-narrado-playbook; a receita inteira está em [[receita-historia-longo]].",
+   "confianca": "pedido direto dele (10/10: replicar \"em escala\"); a prova é de 1 vídeo só, então a receita é o ponto de partida, não uma fórmula fechada (critério C9).",
+   "status": "aguardando",
+   "simples": "Antes de escrever um vídeo longo, a gente escreve num parágrafo a história do jeito que você contaria (o que você queria, o que deu errado, como virou e o que aprendeu), e o roteiro segue a forma do Rematch: a sua voz desde o primeiro segundo em cima do melhor lance, cada partida contada como uma pequena história e cada meta marcada na tela quando é cumprida. A ideia é você revisar frase, não estrutura."
+  },
+  {
+   "id": "R12",
+   "titulo": "Frase que você já cortou não volta: as frases reprovadas viram uma lista que o conferidor automático barra, e versão nova de roteiro só muda o que você pediu, com a lista do que mudou.",
+   "onde": "`checar_fluidez.py` (lê a lista de frases reprovadas de um arquivo no cérebro, alimentado por quem trata as suas considerações), instruções do Farol e do Arpão e a skill de roteiro; e uma comparação da versão nova contra a aprovada (como a que a edição já faz).",
+   "confianca": "forte no padrão (a mesma causa nas 4: corrigido no ponto, sem trava); a lista barra a frase e as variações próximas, não a ideia.",
+   "status": "aguardando",
+   "simples": "Toda frase que você reprovar (\"o grosso foi na raça\", \"a galera entrou no clima\", \"o goleiro é do computador\") entra numa lista, e o conferidor automático barra o roteiro que tiver uma delas, em qualquer vídeo. E quando você pede pra mudar uma frase, a versão nova chega dizendo o que mudou, e o resto fica igual ao que você já aprovou."
+  },
+  {
+   "id": "R13",
+   "titulo": "Short de história usa a receita do Rematch em miniatura: o problema no gancho, cada tentativa com o antes e o depois, algo do começo que volta no fim e a última frase fechando o que a primeira abriu.",
+   "onde": "skill shorts-roteirista (gancho e testes de roteiro) e instruções do Arpão.",
+   "confianca": "fraca nos Shorts (visto só no longo; os pedaços já são regra). Medir nos próximos 5 Shorts de história.",
+   "status": "aguardando",
+   "simples": "Num Short que conta uma história (como a luva ou a moto), o começo mostra o problema, cada tentativa vem com o antes e o depois, alguma coisa do começo volta no fim, e a última frase fecha o que a primeira abriu, como no \"comecei querendo ser o egoísta perfeito, terminei sendo o camisa 10\". É o Rematch em um minuto."
   }
  ],
  "equipe": [
@@ -602,5 +626,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-08T01:39-03:00"
+ "gerado_em": "2026-10-10T02:46-03:00"
 }
