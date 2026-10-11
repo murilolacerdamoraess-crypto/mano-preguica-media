@@ -201,7 +201,7 @@
    "por_que_agora": "o filme de Street Fighter estreia no Brasil em 15/10, com o Jason Momoa de Blanka. Janela até umas duas semanas depois da estreia.",
    "formato": "Short 60-90s",
    "concorrencia": "RASO (vídeos sobre a história do Blanka existem em português, o maior é de 2018 com 209 mil; não achei Short com a origem de antes de ele ser brasileiro)",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "2 (outros jogos)",
    "pendente": ""
   },
@@ -249,7 +249,7 @@
    "por_que_agora": "luta em 18/09 em San Francisco, anúncio em 20/09, a briga com a Califórnia em 30/09.",
    "formato": "Short 60-90s",
    "concorrencia": "a luta em si OCUPADA (iasserzin 338 mil, sem falar do piloto; Domingo Espetacular 34 mil). O ângulo do piloto em realidade virtual: LIVRE em português.",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -261,7 +261,7 @@
    "por_que_agora": "o remake de Zelda Ocarina of Time sai em 05/11 e quebrar pote é a marca do jogo. Janela até a semana do lançamento.",
    "formato": "Short curto (30 a 50s)",
    "concorrencia": "LIVRE (busca de 05/10 \"pote do zelda de verdade quebra\": nenhum vídeo em português sobre o pote)",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -586,6 +586,14 @@
    "responsavel": "Farol",
    "falta_murilo": "",
    "prazo": "09/10 (alvo; limite 23/10, fim do evento Blue Lock)"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
+   "etapa": "roteiro (aguardando aprovação: a primeira ideia pra ele era um africano criado por leão, e o vídeo conta versão por versão como ele virou o brasileiro do jogo)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "15/10 (estreia do filme com o Jason Momoa; vale até o fim de outubro)"
   }
  ],
  "navegador": [
@@ -598,5 +606,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T01:50-03:00"
+ "gerado_em": "2026-10-11T01:59-03:00"
 }
