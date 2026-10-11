@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T18:37:30.005748Z",
+ "gerado_em": "2026-10-11T18:42:52.475829Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -291,14 +291,14 @@
    "arquivo": "short-onix-tamanho-real-impresso.md",
    "name": "SHORT - Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
-   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 3, 07/10: abre no desafio, sem entregar o Onix, pedido do Murilo). O criador francês do canal Entroisdimensions imprime Pokémon gigante",
-   "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 3); falta o OK do Murilo",
+   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 4, 11/10: os textos que o Murilo ditou no react de 11/10 e o calor de 40 graus explicado pelo efeito, que é montar o final sozinho). O ",
+   "status": "roteiro aprovado (versão 4 de 11/10, com os textos que o Murilo ditou no react e o calor explicado; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 4)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "4"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
@@ -356,14 +356,14 @@
    "arquivo": "short-subnautica-10km-coral-ar.md",
    "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
-   "description": "Short de uns 2min20 (versão 2, 07/10: abre no problema do oxigênio e vai resolvendo, pedido do Murilo; pauta P23 do Sonar). O The Last Bacon tenta zerar Subnautica com 10 km de água a mais (mod): o ar acaba rápido e ele ",
-   "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
+   "description": "Short de uns 2min20 (versão 3, 11/10: textos do react do Murilo, a base montada perto da cápsula de fuga dita com todas as letras e sem conectivo repetido; pauta P23 do Sonar). O The Last Bacon tenta zerar Subnautica com",
+   "status": "roteiro aprovado (versão 3 de 11/10, com os textos que o Murilo ditou no react e a base no lugar certo; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 3)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
