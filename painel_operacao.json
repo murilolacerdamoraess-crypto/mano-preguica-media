@@ -120,6 +120,14 @@
    "confianca": "forte no pedido dele (a mesma pauta reprovada 2 vezes pelo mesmo motivo); o dado do canal é indireto.",
    "status": "aguardando",
    "simples": "Toda pauta chega com uma linha \"O que a pessoa leva no fim\", dizendo a revelação do vídeo e por que ela surpreende, por exemplo \"o jogo diz que alguém pôs água na boca dele depois de morto, e ninguém sabe por quê\". Se a resposta for \"ninguém sabe\", a pauta diz isso com todas as letras, pra você decidir se vale ou se vira sensacionalismo em cima de pouca coisa."
+  },
+  {
+   "id": "R16",
+   "titulo": "O que você já aprovou sai do Decidir sozinho: quando o vídeo pronto de um longo é aprovado, o roteiro dele fecha no mesmo dia, e quando o vídeo vai ao ar o roteiro ganha o link dele.",
+   "onde": "instruções do Farol (fechar o roteiro do longo quando o vídeo pronto for aprovado, e anotar o link quando ele for ao ar) e o Pulso diário do Sextante (conferir todo dia se algum vídeo que saiu ficou com o roteiro aberto e avisar o dono).",
+   "confianca": "forte no incômodo (2 vezes algo decidido voltou); o caso do longo é 1.",
+   "status": "aguardando",
+   "simples": "Quando você aprova o vídeo pronto de um longo, o roteiro dele sai do Decidir no mesmo dia, sem você precisar reprovar nada. Exemplo: no domingo o roteiro do Rematch ainda pedia sua aprovação com o vídeo já no ar; com a regra, o Farol fecha o roteiro assim que o vídeo é aprovado, e eu confiro todo dia se sobrou algum aberto."
   }
  ],
  "equipe": [
@@ -580,14 +588,6 @@
    "prazo": ""
   },
   {
-   "tipo": "Longo",
-   "titulo": "Rematch Egoísto",
-   "etapa": "roteiro (aguardando aprovação; versão 6: só mudou a frase do passe pro Guutin na prorrogação, que tinha ficado avulsa no demo; a versão 5 você aprovou em 08/10 e a produção em planos já está andando)",
-   "responsavel": "Farol",
-   "falta_murilo": "",
-   "prazo": "09/10 (alvo; limite 23/10, fim do evento Blue Lock)"
-  },
-  {
    "tipo": "Short",
    "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
    "etapa": "roteiro (aguardando aprovação: a primeira ideia pra ele era um africano criado por leão, e o vídeo conta versão por versão como ele virou o brasileiro do jogo)",
@@ -622,5 +622,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T02:05-03:00"
+ "gerado_em": "2026-10-11T12:33-03:00"
 }
