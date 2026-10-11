@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T22:36:25.780205Z",
+ "gerado_em": "2026-10-11T04:59:18.302587Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -184,6 +184,19 @@
    "versao": null
   },
   {
+   "arquivo": "short-blanka-africano-criado-por-leao.md",
+   "name": "SHORT - O Blanka do Street Fighter nem era pra ser brasileiro, no começo ele era um africano criado por leão",
+   "titulo_roteiro": "SHORT: o Blanka nem era pra ser brasileiro",
+   "description": "Short do canal principal (pauta aprovada do Backlog, filme do Street Fighter com o Jason Momoa de Blanka estreando em 15/10/2026). A primeira ideia do Blanka, num rascunho de 1988, era um africano chamado Anabebe criado ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-11 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-cartuchos-mario-ouro.md",
    "name": "SHORT - Iam derreter esses cartuchos do Mario pelo ouro e ninguém sabia o que tinha na caixa",
    "titulo_roteiro": "SHORT: os cartuchos do Mario que iam ser derretidos",
@@ -292,7 +305,7 @@
    "name": "SHORT - Você sabe qual é o Pokémon favorito de quem imprime em 3D?",
    "titulo_roteiro": "SHORT: o Pokémon favorito de quem imprime em 3D não é o Pikachu",
    "description": "Short do canal principal, 2 de 3 do desmembramento do Pokémon impresso em 3D (versão 4, 10/10: a primeira frase pergunta qual é o Pokémon favorito de quem imprime em 3D, porque o levantamento contou curtidas e não impres",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "reprovado 2026-10-11 pelo tema (critério C44: quem imprime em 3D não é o público do canal); não refazer",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-10 (conferir_fontes.py e checar_fluidez.py, versão 4) e comparar_roteiro.py contra a versão 3; o Murilo aprovou a versão 3 em 10/10 às 06:55, falta o OK só da primeira frase corrigida",
    "video_id": null,
    "publicado_em": null,
