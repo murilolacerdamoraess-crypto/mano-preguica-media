@@ -494,47 +494,39 @@
   {
    "tipo": "Longo",
    "titulo": "Stonewards em dupla",
-   "etapa": "edição (o demo com a abertura e o capítulo 1, uns 4 min, está na fila do Windows; é o seu primeiro portão: você aprova vendo, não lendo; o resto do roteiro sai até 11/10; os 3 títulos do Anzol, sem pressa porque só valem pro vídeo inteiro: 1) Zerar Stonewards só em dois, mas se o rei morrer começa tudo de novo; 2) Dá pra zerar Stonewards só em dois, num jogo feito pra até quatro?; 3) Eu achei que segurava a horda sozinho em Stonewards; o Anzol recomenda o 1, no mesmo molde do título do Rematch)",
+   "etapa": "edição (o demo de 3:28 com a abertura e o capítulo 1 está pronto e você gostou; a abertura muda pra \"100 noites\", como você decidiu, e o Farol confere a conta nas telas de fim de partida antes de reescrever; o resto do vídeo espera o seu react em vídeo; os 3 títulos do Anzol, que só valem pro vídeo inteiro: 1) Zerar Stonewards só em dois, mas se o rei morrer começa tudo de novo; 2) Dá pra zerar Stonewards só em dois, num jogo feito pra até quatro?; 3) Eu achei que segurava a horda sozinho em Stonewards; o Anzol recomenda o 1)",
    "responsavel": "Lente",
-   "falta_murilo": "escolher 1 dos 3 títulos",
+   "falta_murilo": "mandar o react em vídeo do demo, dizer se o segundo mapa é a Masmorra e escolher 1 dos 3 títulos",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
-   "etapa": "edição (na fila do Windows com o plano pronto, versão 3 aprovada por você em 10/10; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows entregou em 10/10 e está no Assistir; o Anzol confere a capa e o título; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Você sabe qual é o Pokémon favorito de quem imprime em 3D?",
-   "etapa": "roteiro (versão 4 pra aprovar: só a primeira frase mudou, agora pergunta qual é o Pokémon favorito de quem imprime em 3D, porque o levantamento contou curtidas e não impressões; o resto é igual ao que você aprovou; enquanto isso o Windows adianta capa e imagens)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar o vídeo",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "edição (na fila do Windows com o plano pronto; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows entregou em 10/10 e está no Assistir; o Anzol confere a capa e o título; pronto até 17/10 pro estoque do TikTok)",
+   "responsavel": "Lente",
+   "falta_murilo": "assistir e aprovar o vídeo",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
+   "etapa": "edição (saiu da fila de publicar: o Windows refaz os ajustes que você pediu no react de 10/10, mantendo a capa, o plano desenhado e o trecho de 1:31 que você gostou; pronto até 14/10)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
-   "etapa": "publicação (v12 entregue pelo Windows em 08/10, na fila `00 - PRONTOS PRA PUBLICAR`)",
-   "responsavel": "Leme",
-   "falta_murilo": "nada (só a capa e o título do Anzol antes de postar)",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-   "etapa": "edição (o Windows refaz só o final com a versão 4 que você aprovou em 10/10, e a capa NÃO GRUDA com ele no meio da subida; depois o Anzol confere a capa)",
+   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; a capa nova, sem a contradição do NÃO GRUDA, é do Anzol; pronto até 14/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -542,7 +534,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
-   "etapa": "edição (na fila do Windows: voz nova inteira da versão 6 e a montagem; pronto até 14/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; pronto até 14/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -550,7 +542,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
-   "etapa": "edição (na fila do Windows: refaz só o final da versão 5; pronto até 14/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; pronto até 14/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -558,9 +550,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
-   "etapa": "edição (na fila do Windows com o plano pronto; título e capa fechados pelo Anzol; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows entregou em 10/10 e está no Assistir; o Anzol confere a capa e o título; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar o vídeo",
    "prazo": ""
   },
   {
@@ -582,7 +574,7 @@
   {
    "tipo": "Short",
    "titulo": "Ela construiu a moto do Mario Kart World de madeira e dá pra jogar Switch 2 nela",
-   "etapa": "edição (na fila do Windows: refaz só o final da versão 5; pronto até 14/10 pro estoque do TikTok)",
+   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; pronto até 14/10 pro estoque do TikTok)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -622,5 +614,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T12:33-03:00"
+ "gerado_em": "2026-10-11T12:39-03:00"
 }
