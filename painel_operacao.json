@@ -594,6 +594,22 @@
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "15/10 (estreia do filme com o Jason Momoa; vale até o fim de outubro)"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse cara entrou numa jaula pra lutar contra um robô, só que o robô tinha um piloto",
+   "etapa": "roteiro (aguardando aprovação: a luta que viralizou como humano contra máquina, e o detalhe de que uma pessoa de óculos de realidade virtual controlava o robô, igual num videogame)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
+   "etapa": "roteiro (aguardando aprovação: o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
   }
  ],
  "navegador": [
@@ -606,5 +622,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T01:59-03:00"
+ "gerado_em": "2026-10-11T02:05-03:00"
 }
