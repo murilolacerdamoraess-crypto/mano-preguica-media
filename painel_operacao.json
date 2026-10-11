@@ -135,7 +135,7 @@
    "onde": "checar_fluidez.py (as duas conferências), checklist da receita do longo (seção 13), skill shorts-roteirista, instruções do Farol e do Arpão.",
    "confianca": "forte no termo apresentado antes (4 casos, Short e longo); fraca na última frase no topo (a R13 é de 10/10 e ainda não foi medida; o que pesa é a R8 não ter bastado).",
    "status": "aguardando",
-   "simples": "Todo roteiro chega com a pergunta do começo e a última frase do vídeo lado a lado no topo, pra você ver em 2 linhas se o fim responde o que o começo prometeu. E cada palavra do jogo (anel, build, lifepod) só aparece depois da frase que explica o que ela é, senão o conferidor automático devolve o roteiro, como devia ter acontecido com os anéis do Stonewards."
+   "simples": "Todo roteiro chega com a pergunta do começo e a última frase do vídeo lado a lado no topo, pra você ver em 2 linhas se o fim responde o que o começo prometeu. E cada palavra do jogo (anel, build, lifepod) só aparece depois da frase que explica o que ela é, menos na abertura, que continua curta como você pediu no Stonewards; se aparecer antes, o conferidor automático devolve o roteiro."
   }
  ],
  "equipe": [
@@ -622,5 +622,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T18:29-03:00"
+ "gerado_em": "2026-10-11T18:31-03:00"
 }
