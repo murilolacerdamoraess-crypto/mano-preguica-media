@@ -529,10 +529,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
-   "etapa": "publicação (APROVADO no react de 12/10, \"já pode entrar pra esteira de publicação\"; v13 na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "titulo": "Ninguém sabia o que tinha nessa caixa de cartuchos do Mario",
+   "etapa": "agendado (seg 19/10 às 20h no canal principal, com o título proposto pelo Anzol; link youtube.com/shorts/P_icjTz-RC8)",
    "responsavel": "Publicação",
-   "falta_murilo": "aprovar o agendamento",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -545,18 +545,18 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
-   "etapa": "publicação (APROVADO no react de 12/10, \"só faltou a música\"; v5 com a trilha de volta e a capa HARDCORE / SEM COMER na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "titulo": "Esse cara tá tentando zerar o Subnautica com uma mecânica escondida do jogo",
+   "etapa": "agendado (qua 14/10 às 20h no canal principal; link youtube.com/shorts/uPbMO5a3DLk)",
    "responsavel": "Publicação",
-   "falta_murilo": "aprovar o agendamento",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
-   "etapa": "publicação (APROVADO no react de 12/10; v5 com a capa da cápsula circulada de vermelho e a interrogação na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "titulo": "Ele afundou o Subnautica 10 mil metros e achou a mensagem de outro jogador",
+   "etapa": "agendado (sex 16/10 às 20h no canal principal; link youtube.com/shorts/CZbwiBSKafE)",
    "responsavel": "Publicação",
-   "falta_murilo": "aprovar o agendamento",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -626,8 +626,8 @@
    "prazo": ""
   },
   {
-   "tipo": "12/10",
-   "titulo": "AGENDAR no canal principal (OK do Murilo no chat, 12/10: \"vamos tentar agendar... segunda, quarta e sexta\"; ele pediu pra agendar direto, não deixar em rascunho). Cadência nova: seg/qua/sex às 20h. A fruta de SN2 (KYi45DujK_A, ter 13/10 20h) já estava agendada e fica. Arquivos em `VIDEOS/00 - PRONTOS PRA PUBLICAR/`:",
+   "tipo": "",
+   "titulo": "~~[12/10] AGENDAR no canal principal~~ FEITO (Periscópio, 12/10): sem comer `uPbMO5a3DLk` qua 14/10 20h; 10 mil metros `CZbwiBSKafE` sex 16/10 20h; cartuchos `P_icjTz-RC8` seg 19/10 20h. Conferidos relacionado, produtos, não é para crianças e hora; arquivos em `publicados/`, linhas no ledger. Pedido original: (OK do Murilo no chat, 12/10: \"vamos tentar agendar... segunda, quarta e sexta\"; ele pediu pra agendar direto, não deixar em rascunho). Cadência nova: seg/qua/sex às 20h. A fruta de SN2 (KYi45DujK_A, ter 13/10 20h) já estava agendada e fica. Arquivos em `VIDEOS/00 - PRONTOS PRA PUBLICAR/`:",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -642,5 +642,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-12T20:06-03:00"
+ "gerado_em": "2026-10-12T20:27-03:00"
 }
