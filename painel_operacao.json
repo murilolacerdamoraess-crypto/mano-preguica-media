@@ -538,10 +538,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-   "etapa": "publicação no canal secundário (a v9 foi reprovada no react de 12/10; por decisão dele a v8 vai pro MP2; arquivo na fila do Drive com \"CANAL SECUNDARIO MP2\" no nome)",
+   "etapa": "pronto pra publicar no canal secundário (v8 enviada em 12/10 como rascunho privado, com título, descrição com créditos, capa limpa do traje subindo o vidro, tags e voz IA marcada; direitos autorais sem problema; dia escolhido: terça 20/10 às 20h, o primeiro sem outro vídeo agendado, porque os Rankings ocupam 13 a 19/10)",
    "responsavel": "Publicação MP2 (Leme)",
-   "falta_murilo": "aprovar o agendamento",
-   "prazo": ""
+   "falta_murilo": "programar pra 20/10 às 20h (1 clique)",
+   "prazo": "20/10"
   },
   {
    "tipo": "Short",
@@ -642,5 +642,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-12T20:05-03:00"
+ "gerado_em": "2026-10-12T20:06-03:00"
 }
