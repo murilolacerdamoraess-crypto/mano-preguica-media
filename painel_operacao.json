@@ -502,65 +502,65 @@
   {
    "tipo": "Longo",
    "titulo": "Stonewards em dupla",
-   "etapa": "edição (o roteiro ficou completo, 7 capítulos e 33 minutos, terminando com a Masmorra zerada; o Windows remonta o demo com o que você pediu no react: as 100 noites, a missão de zerar o Bastião e a Masmorra, o Guutin com o nome certo, o machado e o que faltava explicar do jogo, como baús, tendas, minérios raros e o que cada anel dá; os 3 títulos do Anzol, que só valem pro vídeo inteiro: 1) Zerar Stonewards só em dois, mas se o rei morrer começa tudo de novo; 2) Dá pra zerar Stonewards só em dois, num jogo feito pra até quatro?; 3) Eu achei que segurava a horda sozinho em Stonewards; o Anzol recomenda o 1)",
-   "responsavel": "Lente",
-   "falta_murilo": "escolher 1 dos 3 títulos",
+   "etapa": "narração (o demo v2 foi aprovado com os ajustes S1 a S15 no react de 12/10; o Farol reescreve os textos S10, S14 e S15; você grava a narração inteira no painel, em Gravar narração, 121 trechos; com a voz aprovada o Windows monta o vídeo inteiro com os ajustes de edição)",
+   "responsavel": "Farol",
+   "falta_murilo": "gravar a narração no painel",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
-   "etapa": "edição (o Windows refaz a voz e o começo com o texto novo que você ditou no react: as características de cada Pokémon, a roleta que guia a próxima, a barriga do Dragonite e o fim da parede; sai o \"produto oficial\"; pronto até 17/10 pro estoque do TikTok)",
-   "responsavel": "Lente",
+   "etapa": "capa (o vídeo foi aprovado no react de 12/10, \"perfeito\"; a capa TODO DIA foi reprovada, \"todo dia o quê?\"; o Anzol faz a capa nova e revisa a skill de capas; o arquivo está na fila do Drive com \"(ANTES DE POSTAR, capa nova (Anzol))\" no nome; pronto até 17/10 pro estoque do TikTok)",
+   "responsavel": "Anzol",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "edição (o Windows refaz a voz e a reta final com o texto novo que você ditou no react: o projeto desandou, a cara do Onix, os 60 dias, o calor de 40 graus explicado pela montagem sozinho, a base que vira quase um sofá; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "aprovação (v3 entregue em 12/10 com o react: o \"exato\" inteiro, \"um dos Pokémon mais procurados na caverna\", o @ uma vez só e sem os frames fantasmas; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a v3 no Assistir",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Cartuchos do Mario que iam ser derretidos pelo ouro",
-   "etapa": "edição (saiu da fila de publicar: o Windows refaz os ajustes que você pediu no react de 10/10, mantendo a capa, o plano desenhado e o trecho de 1:31 que você gostou; pronto até 14/10)",
-   "responsavel": "Lente",
-   "falta_murilo": "",
+   "etapa": "publicação (APROVADO no react de 12/10, \"já pode entrar pra esteira de publicação\"; v13 na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "responsavel": "Publicação",
+   "falta_murilo": "aprovar o agendamento",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; com a capa nova do Anzol, 12 METROS no vidro; pronto até 14/10 pro estoque do TikTok)",
-   "responsavel": "Lente",
-   "falta_murilo": "",
+   "etapa": "publicação no canal secundário (a v9 foi reprovada no react de 12/10; por decisão dele a v8 vai pro MP2; arquivo na fila do Drive com \"CANAL SECUNDARIO MP2\" no nome)",
+   "responsavel": "Publicação MP2 (Leme)",
+   "falta_murilo": "aprovar o agendamento",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
-   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; pronto até 14/10 pro estoque do TikTok)",
-   "responsavel": "Lente",
-   "falta_murilo": "",
+   "etapa": "publicação (APROVADO no react de 12/10, \"só faltou a música\"; v5 com a trilha de volta e a capa HARDCORE / SEM COMER na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "responsavel": "Publicação",
+   "falta_murilo": "aprovar o agendamento",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
-   "etapa": "edição (o Windows refaz os ajustes de edição e de voz que você pediu no react de 10/10 e que ficaram pra depois; o final novo já entrou; pronto até 14/10 pro estoque do TikTok)",
-   "responsavel": "Lente",
-   "falta_murilo": "",
+   "etapa": "publicação (APROVADO no react de 12/10; v5 com a capa da cápsula circulada de vermelho e a interrogação na fila do Drive; agendar até 14/10 pro estoque do TikTok)",
+   "responsavel": "Publicação",
+   "falta_murilo": "aprovar o agendamento",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
-   "etapa": "edição (o Windows refaz a voz com o texto novo que você ditou no react, com \"lifepod\", e deixa claro no vídeo e no mapa que a base fica do lado da lifepod, não na ilha; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "aprovação (v5 entregue em 12/10 com o react: o começo sem troca rápida, sem os zooms no oxigênio e sem a transição de 0:15; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a v5 no Assistir",
    "prazo": ""
   },
   {
@@ -582,9 +582,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween dela",
-   "etapa": "edição (o Windows refaz o vídeo inteiro com o texto novo que você pediu, contando pela fantasia de Vaca: voz nova, imagens novas e os ajustes de edição do seu react; capa e título novos do Anzol; pronto até 14/10 pro estoque do TikTok)",
+   "etapa": "aprovação (v7 entregue em 11/10 pela ordem v6, a fantasia de Vaca; a frase de 0:22 foi regerada 3 vezes e o verificador ainda acha soprosa; pronto até 14/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "ouvir o 0:22 e dizer se passa ou se regrava",
    "prazo": ""
   },
   {
@@ -622,5 +622,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-11T18:46-03:00"
+ "gerado_em": "2026-10-12T19:44-03:00"
 }
