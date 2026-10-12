@@ -170,6 +170,10 @@
   {
    "nome": "Lente",
    "funcao": "Direção de produção"
+  },
+  {
+   "nome": "Periscópio",
+   "funcao": "Publicação e navegador"
   }
  ],
  "backlog": [
@@ -638,5 +642,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-12T19:54-03:00"
+ "gerado_em": "2026-10-12T19:55-03:00"
 }
