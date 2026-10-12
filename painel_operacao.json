@@ -513,10 +513,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
-   "etapa": "capa (o vídeo foi aprovado no react de 12/10, \"perfeito\"; a capa TODO DIA foi reprovada, \"todo dia o quê?\"; o Anzol faz a capa nova e revisa a skill de capas; o arquivo está na fila do Drive com \"(ANTES DE POSTAR, capa nova (Anzol))\" no nome; pronto até 17/10 pro estoque do TikTok)",
-   "responsavel": "Anzol",
-   "falta_murilo": "",
+   "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
+   "etapa": "edição (só a capa: o vídeo foi aprovado no react de 12/10; o TODO DIA caiu e o Anzol propôs a capa nova, o Gengar do jogo em cima, a Pokébola dele embaixo e VIROU POKÉBOLA; o Windows troca só o primeiro quadro; pronto até 17/10 pro estoque do TikTok)",
+   "responsavel": "Windows",
+   "falta_murilo": "aprovar a capa nova (o Gengar virou Pokébola)",
    "prazo": ""
   },
   {
@@ -594,9 +594,9 @@
   {
    "tipo": "Short",
    "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
-   "etapa": "roteiro (aguardando aprovação: a primeira ideia pra ele era um africano criado por leão, e o vídeo conta versão por versão como ele virou o brasileiro do jogo)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
+   "etapa": "gravação (roteiro aprovado em 12/10; é o primeiro Short com a sua voz de verdade, as 15 frases estão prontas e entram no painel em Gravar narração, projeto short_blanka, assim que forem publicadas; o plano de edição está pronto e o editor começa quando a voz estiver aprovada; o Anzol faz o título e a capa)",
+   "responsavel": "Lente",
+   "falta_murilo": "gravar a voz no painel",
    "prazo": "15/10 (estreia do filme com o Jason Momoa; vale até o fim de outubro)"
   },
   {
@@ -642,5 +642,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-12T19:55-03:00"
+ "gerado_em": "2026-10-12T20:04-03:00"
 }
