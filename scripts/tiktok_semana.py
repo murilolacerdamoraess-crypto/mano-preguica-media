@@ -64,9 +64,15 @@ def sincronizar_perfil(led):
     05/10: o seletor escolheu 6 vídeos que já tinham sido postados por sessões manuais no Metricool,
     que nunca anotavam no ledger. Casa por título: 3+ palavras de 4+ letras em comum (sem as genéricas) e, além disso, 5+ ou 60% do menor."""
     import subprocess
-    r = subprocess.run(["yt-dlp", "--no-update", "--flat-playlist", "--print", "%(id)s|%(timestamp)s|%(view_count)s|%(title)s",
-                        "https://www.tiktok.com/@manopreguica"], capture_output=True, text=True, timeout=240)
-    posts = [l.split("|", 3) for l in r.stdout.splitlines() if l.count("|") >= 3]
+    # 12/10: o yt-dlp passou a dar erro com a URL do @; pelo id do perfil (secUid) funciona. Tenta os dois.
+    posts = []
+    for url in ("https://www.tiktok.com/@manopreguica",
+                "tiktokuser:MS4wLjABAAAALaAIS7xTvWi4UpXfnEMxpaiGNw4gJYI5qK4Hf8KK8a2U5TUInmcUUrh3dz79X22q"):
+        r = subprocess.run(["yt-dlp", "--no-update", "--flat-playlist", "--print", "%(id)s|%(timestamp)s|%(view_count)s|%(title)s",
+                            url], capture_output=True, text=True, timeout=240)
+        posts = [l.split("|", 3) for l in r.stdout.splitlines() if l.count("|") >= 3]
+        if posts:
+            break
     if not posts:
         print("  ⚠ não consegui ler o perfil do TikTok; sigo só com o ledger e a agenda")
         return 0
