@@ -119,8 +119,8 @@ def candidatos(led, ja):
             continue
         elif v.get("views", 0) < PISO:
             motivo = f"abaixo do piso ({v.get('views', 0):,} views)".replace(",", ".")
-        elif idade < MATURA:
-            motivo = f"ainda maturando ({idade} dias no ar)"
+        elif idade + 7 < MATURA:   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
+            motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
         elif cp.off_nicho(v["title"]):
             motivo = "fora do nicho"
         elif cp.noticia_velha(v):
@@ -167,8 +167,18 @@ def main(hospedar):
     ja = {p.get("video_id") for p in ag["posts"]}
     cand, fora = candidatos(led, ja)
     slots = horarios(ag, len(cand))
+    # 12/10/2026 (Murilo, saída "a" do buraco de 15 a 27/10): os 7 dias contam até o DIA DO POST, não até a
+    # segunda da rotina. Cada horário, em ordem, leva o melhor candidato que já vai ter MATURA dias naquela data.
+    pares, livres = [], list(cand)
+    for quando in slots:
+        dia = dt.date.fromisoformat(quando[:10])
+        escolhido = next((c for c in livres if (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA), None)
+        if escolhido:
+            livres.remove(escolhido)
+            pares.append((escolhido, quando))
+    cand = [c for c, _ in pares] + livres
     plano = []
-    for (score, views, vid, v), quando in zip(cand, slots):
+    for (score, views, vid, v), quando in pares:
         url = cp.hosted_url(vid)
         if not url and hospedar:
             try:
