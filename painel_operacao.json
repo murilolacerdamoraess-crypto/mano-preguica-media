@@ -614,6 +614,38 @@
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Eu tinha 24 horas pra zerar o passe do Blue Lock no Rematch",
+   "etapa": "roteiro (aguardando aprovação: o primeiro Short tirado do longo do Rematch, a conta do passe de batalha e o atalho que foi justamente defender e tocar a bola; com a sua voz; precisa estar no ar antes de 23/10, quando o evento do Blue Lock acaba)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "23/10"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O egoísta do Blue Lock teve o gol de ouro no pé e passou a bola",
+   "etapa": "roteiro (aguardando aprovação: o passe pro Guutin na prorrogação, tirado do longo do Rematch; com a sua voz)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Meu amigo mentia pro time que a partida não era ranqueada",
+   "etapa": "roteiro (aguardando aprovação: a ranqueada escondida do Guutin, 4 vitórias em 4 sem saber e 2 em 11 sabendo, tirado do longo do Rematch; com a sua voz)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "24 horas pra ser o egoísta do Blue Lock no Rematch, mas ninguém passa a bola",
+   "etapa": "publicado (no ar desde 11/10, com 0 comentários; falta fixar um comentário com pergunta, o texto é \"fala a vdd: no Rematch vc passa a bola ou é igual eu no começo do vídeo? 🤣\"; com o seu OK o Periscópio fixa, e a linha sai do quadro)",
+   "responsavel": "Arpão",
+   "falta_murilo": "aprovar o texto do comentário fixado",
+   "prazo": ""
   }
  ],
  "navegador": [
@@ -640,7 +672,15 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "12/10",
+   "titulo": "⛔ TRAVADO ATÉ O OK DO MURILO: FIXAR COMENTÁRIO no longo do Rematch (`hhkCo1pFMR8`). Texto: `fala a vdd: no Rematch vc passa a bola ou é igual eu no começo do vídeo? 🤣`. Só faz depois de achar a aprovação em `operacao-maestri/decisoes.md` (item do Em produção \"aprovar o texto do comentário fixado\"); se ele mudar o texto no motivo, usa o texto dele. Comentar como o canal, fixar, e tirar a linha do longo do Em produção. Quem faz: Periscópio. Pedido do Maestro (12/10), texto do Arpão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
- "gerado_em": "2026-10-12T21:13-03:00"
+ "gerado_em": "2026-10-12T21:19-03:00"
 }
