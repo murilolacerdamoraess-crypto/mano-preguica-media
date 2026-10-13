@@ -1,24 +1,24 @@
 {
- "gerado_em": "2026-10-12T17:28:42.033166-03:00",
+ "gerado_em": "2026-10-13T03:55:41.836685-03:00",
  "mes": {
-  "postados": 9,
+  "postados": 13,
   "teto": 93,
-  "folga": 84
+  "folga": 80
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 4,
-   "ultimo_post": "2026-10-09",
-   "dias_parado": 3,
+   "na_fila": 0,
+   "ultimo_post": "2026-10-12",
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "subnautica tinha um buraco que ia até a lava e apagaram ele do jogo",
-     "quando": "2026-10-12T18:00:00-03:00",
+     "video_id": "5F8Zkv79qZ8",
+     "titulo": "os jogos de terror mais jogados da steam de 2015 até hoje, mês a mês",
+     "quando": "2026-10-13T18:00:00-03:00",
      "fonte": "metricool"
     },
     {
@@ -29,20 +29,7 @@
     }
    ],
    "previstos": [],
-   "proximos_da_fila": [
-    {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
-    },
-    {
-     "video_id": "NzY7XmWAcso",
-     "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts"
-    },
-    {
-     "video_id": "bSA49omtoY4",
-     "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts"
-    }
-   ]
+   "proximos_da_fila": []
   },
   "instagram": {
    "ativo": true,
@@ -50,39 +37,39 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 6,
    "ultimo_post": "2026-10-11",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
-     "quando": "2026-10-12T21:30:00-03:00"
+     "quando": "2026-10-13T21:30:00-03:00"
     },
     {
      "video_id": "NzY7XmWAcso",
      "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts",
-     "quando": "2026-10-13T21:30:00-03:00"
+     "quando": "2026-10-14T21:30:00-03:00"
     },
     {
      "video_id": "J6XFb909Tg4",
      "titulo": "Esse jogo mandou fita cassete pelo correio e ninguém entendia por quê #shorts",
-     "quando": "2026-10-14T21:30:00-03:00"
+     "quando": "2026-10-15T21:30:00-03:00"
     },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-15T21:30:00-03:00"
+     "quando": "2026-10-16T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-16T21:30:00-03:00"
+     "quando": "2026-10-17T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-17T21:30:00-03:00"
+     "quando": "2026-10-18T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -106,7 +93,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 23,
    "ultimo_post": "2026-10-07",
-   "dias_parado": 5,
+   "dias_parado": 6,
    "parado": false,
    "agendados": [],
    "previstos": [
