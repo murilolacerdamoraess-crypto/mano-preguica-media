@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T21:25:52.930615Z",
+ "gerado_em": "2026-10-13T00:13:08.117391Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -325,6 +325,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "4"
+  },
+  {
+   "arquivo": "short-rematch-passe-de-batalha.md",
+   "name": "SHORT - Eu tinha 24 horas pra zerar o passe do Blue Lock no Rematch",
+   "titulo_roteiro": "SHORT: 24 horas pra zerar o passe do Blue Lock",
+   "description": "Short-isca do longo Rematch Egoísto (hhkCo1pFMR8), o nº 3 da tabela de Shorts do longo. Conta nova, 24 horas de jogo e o passe de batalha do evento Blue Lock, que é de graça mas cobra em fichas. A conta mostra que só as ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-12 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (isca do longo, voz do Murilo)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-robo-luta-piloto-realidade-virtual.md",
