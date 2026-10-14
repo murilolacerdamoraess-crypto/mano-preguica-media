@@ -790,9 +790,9 @@
   {
    "tipo": "Longo",
    "titulo": "Vampire Survivors + Megabonk de Pokémon: joguei o Pokémon Survivor Burst (canal 2)",
-   "etapa": "pronto pra publicar no canal secundário (rascunho privado com o seu título e a descrição sem falar do Charmander; anúncios ligados, classificação \"Nenhuma das opções\"; capítulos, lugares e conceitos automáticos desligados; 4 produtos: o console R36S, o Meta Quest 3S, a pelúcia oficial do Cyndaquil e o Pokémon Legends Z-A; 4 cards: o canal principal aos 5 min, a playlist do Megabonk aos 17, o Short de curiosidades de Pokémon do principal aos 30 e TODOS OS VIDEOS aos 50; tela final com inscrever, vídeo sugerido, o canal principal e o Short de Pokémon; nas playlists TODOS OS VIDEOS e na nova POKÉMON SURVIVOR BURST; o campo Jogo ficou vazio porque o YouTube não tem esse jogo na lista; direitos autorais e diretrizes sem problema; capa provisória de um quadro da horda; a capa nova, você com as mãos na cabeça + o Cyndaquil + a horda, está sendo gerada no ChatGPT pelo Periscópio e o Leme sobe quando ficar pronta; studio.youtube.com/video/j5Eb_G2yRJI/edit)",
+   "etapa": "pronto pra publicar no canal secundário (rascunho privado com o seu título e a descrição sem falar do Charmander; anúncios ligados, classificação \"Nenhuma das opções\"; capítulos, lugares e conceitos automáticos desligados; 4 produtos: o console R36S, o Meta Quest 3S, a pelúcia oficial do Cyndaquil e o Pokémon Legends Z-A; 4 cards: o canal principal aos 5 min, a playlist do Megabonk aos 17, o Short de curiosidades de Pokémon do principal aos 30 e TODOS OS VIDEOS aos 50; tela final com inscrever, vídeo sugerido, o canal principal e o Short de Pokémon; nas playlists TODOS OS VIDEOS e na nova POKÉMON SURVIVOR BURST; o campo Jogo ficou vazio porque o YouTube não tem esse jogo na lista; direitos autorais e diretrizes sem problema; capa provisória de um quadro da horda; a capa nova (você com as mãos na cabeça + o Cyndaquil + a horda, sem texto) está pronta e passou no portão; o Leme sobe no rascunho; studio.youtube.com/video/j5Eb_G2yRJI/edit)",
    "responsavel": "Publicação MP2 (Leme)",
-   "falta_murilo": "publicar quando a capa nova entrar (no Studio, Editar rascunho, Visibilidade, Público)",
+   "falta_murilo": "aprovar a capa nova no rascunho e publicar (no Studio, Editar rascunho, Visibilidade, Público)",
    "prazo": ""
   },
   {
@@ -838,13 +838,13 @@
    "prazo": ""
   },
   {
-   "tipo": "14/10",
-   "titulo": "GERAR A THUMB do Pokémon Survivor Burst no ChatGPT (MP2, rascunho j5Eb_G2yRJI; o Murilo cobrou que está sem thumb). Pedido do Anzol. Refs em `Mano Preguica/MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/` (IMAGEM 1 a 4). Os dois prompts, na ordem, estão em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Thumb v2\": estágio 1 num chat novo só com a IMAGEM 1; estágio 2 em outro chat novo com o resultado do estágio 1 + IMAGENS 2, 3 e 4. Gerar 2 ou 3 versões. Salvar na mesma pasta como `GERADA 1.png`, `GERADA 2.png`... e avisar o Anzol (`maestri ask \"Anzol\"`), que confere no portão e passa pro Leme subir. Se o rosto não sair parecido, passar no Nano Banana Pro do Flow com IMAGENS 3 e 4 (skill `flow-nanobanana`). Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[14/10] GERAR A THUMB do Pokémon Survivor Burst no ChatGPT~~ FEITO (Periscópio, 14/10): o ChatGPT recusou o estágio 1 três vezes (\"semelhança com conteúdo de terceiros\", barra a arte oficial do Cyndaquil), então foi pelo plano B: Nano Banana Pro no Flow com as 4 refs e o prompt do estágio 2. `GERADA 1.png` (rosto corrigido numa segunda passada com as IMAGENS 3 e 4), `GERADA 2.png` e `GERADA 3.png` na pasta de refs, 1376x768 como saíram do Flow. Entregue ao Anzol pro portão. Pedido original: (MP2, rascunho j5Eb_G2yRJI; o Murilo cobrou que está sem thumb). Pedido do Anzol. Refs em `Mano Preguica/MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/` (IMAGEM 1 a 4). Os dois prompts, na ordem, estão em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Thumb v2\": estágio 1 num chat novo só com a IMAGEM 1; estágio 2 em outro chat novo com o resultado do estágio 1 + IMAGENS 2, 3 e 4. Gerar 2 ou 3 versões. Salvar na mesma pasta como `GERADA 1.png`, `GERADA 2.png`... e avisar o Anzol (`maestri ask \"Anzol\"`), que confere no portão e passa pro Leme subir. Se o rosto não sair parecido, passar no Nano Banana Pro do Flow com IMAGENS 3 e 4 (skill `flow-nanobanana`). Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T09:41-03:00"
+ "gerado_em": "2026-10-14T09:48-03:00"
 }
