@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T12:39:10.068692Z",
+ "gerado_em": "2026-10-14T12:41:12.917272Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -396,7 +396,7 @@
    "name": "SHORT - O egoísta do Blue Lock teve o gol de ouro no pé e passou a bola",
    "titulo_roteiro": "SHORT: o egoísta com o gol de ouro no pé",
    "description": "Short-isca do longo Rematch Egoísto (hhkCo1pFMR8), o nº 1 da tabela de Shorts do longo. Ele entrou no Rematch pra ser o egoísta perfeito do Blue Lock; na terceira classificatória, depois de perder as duas primeiras, o jo",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "reprovado",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-12 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -409,7 +409,7 @@
    "name": "SHORT - Eu tinha 24 horas pra zerar o passe do Blue Lock no Rematch",
    "titulo_roteiro": "SHORT: 24 horas pra zerar o passe do Blue Lock",
    "description": "Short-isca do longo Rematch Egoísto (hhkCo1pFMR8), o nº 3 da tabela de Shorts do longo. Conta nova, 24 horas de jogo e o passe de batalha do evento Blue Lock, que é de graça mas cobra em fichas. A conta mostra que só as ",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "retirado",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-12 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -422,7 +422,7 @@
    "name": "SHORT - Meu amigo mentia pro time que a partida não era ranqueada",
    "titulo_roteiro": "SHORT: a ranqueada escondida",
    "description": "Short-isca do longo Rematch Egoísto (hhkCo1pFMR8), o nº 2 da tabela de Shorts do longo. Depois de perder 4 das 5 classificatórias, ninguém do time queria jogar ranqueada; o Guutin, que era o líder da sala e escolhia o mo",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "reprovado",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-12 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
