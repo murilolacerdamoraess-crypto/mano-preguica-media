@@ -424,6 +424,37 @@ def telegram_simples(texto):
             pass
 
 
+# 14/10/2026, pedido do Murilo: "ter um ID nos vídeos, porque eu quero falar pra você ajustes em um vídeo
+# específico". Cada vídeo ganha um número fixo (#N) pelo título, que não muda entre versões. O registro
+# mora no cérebro (producao/ids-videos.json), pra Lente, o Windows e os agentes falarem o mesmo número.
+IDS_VIDEOS = os.path.expanduser("~/claude-projects/cerebro/projetos/canal-agente/producao/ids-videos.json")
+
+
+def chave_video(titulo):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", titulo.lower()).encode("ascii", "ignore").decode()
+    t = re.sub(r"\([^)]*\)", " ", t)
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
+def numerar_videos(itens):
+    try:
+        reg = json.load(open(IDS_VIDEOS, encoding="utf-8"))
+    except (OSError, ValueError):
+        reg = {"_como": "número fixo de cada vídeo (#N) pelo título normalizado; apelidos: mais de uma chave pro mesmo número", "videos": {}}
+    vids = reg.setdefault("videos", {})
+    proximo = max([v for v in vids.values() if isinstance(v, int)] or [0]) + 1
+    mudou = False
+    for it in sorted(itens, key=lambda x: x["data"]):
+        k = chave_video(it["titulo"])
+        if k not in vids:
+            vids[k] = proximo; proximo += 1; mudou = True
+        it["num"] = vids[k]
+    if mudou:
+        os.makedirs(os.path.dirname(IDS_VIDEOS), exist_ok=True)
+        json.dump(reg, open(IDS_VIDEOS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
 def videos_prontos():
     import hashlib, urllib.request
     itens = []
@@ -455,6 +486,7 @@ def videos_prontos():
                           "aviso": aviso, "pasta": rel,
                           "data": dt.datetime.fromtimestamp(os.path.getmtime(cam)).strftime("%Y-%m-%d %H:%M"),
                           "mb": round(os.path.getsize(cam) / 1e6, 1)})
+    numerar_videos(itens)
     corpo_meta = {"itens": itens}
     h = hashlib.sha1(json.dumps(corpo_meta, sort_keys=True).encode()).hexdigest()
     estado = os.path.expanduser("~/.canal-agente/videos-hash.txt")
