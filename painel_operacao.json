@@ -894,13 +894,13 @@
    "prazo": ""
   },
   {
-   "tipo": "14/10",
-   "titulo": "CYNDAQUIL LISO NA OPCAO 1 da thumb do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI), sem mexer no rosto. Tela liberada, uma janela só. No editor do Nano Banana Pro do Flow: IMAGEM 1 = `OPCAO 1 - GPT com ele.png`, IMAGEM 2 = `REF LISO - personagem da GERADA 3 (recorte).png`, os dois na pasta `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`. O prompt está em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Cyndaquil liso na OPCAO 1\". Gerar 2 ou 3 versões e salvar na mesma pasta, sem tratar, como `OPCAO 1 LISO a.png`, `b.png` e `c.png`. Se o Flow falhar ou recusar, tentar no ChatGPT (chat novo, mesmo prompt) e anotar que foi pelo GPT. Avisar o Anzol. Não mexer no rascunho. Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[14/10] CYNDAQUIL LISO NA OPCAO 1 da thumb do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI), sem mexer no rosto~~ FEITO (Periscópio, 14/10): no editor do Flow (Nano Banana Pro), 3 edições a partir da OPCAO 1 original, só com a REF LISO anexada, sem falha (não precisou do GPT). `OPCAO 1 LISO a.png`, `b.png` e `c.png` na pasta de refs, 1376x768 (o Flow devolve nesse tamanho, a OPCAO 1 tem 1672x941), JPEG do Flow regravado em PNG, sem tratar. Cyndaquil liso com o fogo das costas: a uns 2x, b uns 2,5x, c uns 3x e cobre o cotovelo dele. Rosto: mesmos traços a olho; diferença medida no recorte do rosto 25,6 / 25,5 / 24,7 dB contra a OPCAO 1 reduzida (a redução de tamanho entra na conta). Rascunho não mexido. Avisado o Anzol. Pedido original: [14/10] CYNDAQUIL LISO NA OPCAO 1 da thumb do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI), sem mexer no rosto. Tela liberada, uma janela só. No editor do Nano Banana Pro do Flow: IMAGEM 1 = `OPCAO 1 - GPT com ele.png`, IMAGEM 2 = `REF LISO - personagem da GERADA 3 (recorte).png`, os dois na pasta `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`. O prompt está em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Cyndaquil liso na OPCAO 1\". Gerar 2 ou 3 versões e salvar na mesma pasta, sem tratar, como `OPCAO 1 LISO a.png`, `b.png` e `c.png`. Se o Flow falhar ou recusar, tentar no ChatGPT (chat novo, mesmo prompt) e anotar que foi pelo GPT. Avisar o Anzol. Não mexer no rascunho. Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T20:13-03:00"
+ "gerado_em": "2026-10-14T20:23-03:00"
 }
