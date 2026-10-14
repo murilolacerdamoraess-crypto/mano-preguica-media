@@ -597,6 +597,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "O Psyduck secreto desse jogo de Pokémon só libera com a senha \"dor de cabeça\"",
+   "etapa": "roteiro (aguardando aprovação: o melhor momento da sua gameplay de 12/10, a senha HEADACHE no Discord, os controles ao contrário e a partida que acabou em 3min12 de 15 com você de mãos na cabeça; você grava a narração e os seus momentos ao vivo tocam no meio; assunto em hype)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
    "etapa": "gravação (roteiro aprovado em 12/10; é o primeiro Short com a sua voz de verdade, as 15 frases já estão no painel em Gravar (projeto short_blanka, publicado pelo Mac em 13/10); o plano de edição está pronto e o editor começa quando a voz estiver aprovada; título e capa prontos: o Anzol recomenda \"O Blanka do Street Fighter começou como um africano criado por leão\", com o Blanka gritando e BRASILEIRO? na capa)",
    "responsavel": "Lente",
@@ -610,6 +618,22 @@
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O que acontece se você jogar uma Master Ball num leviatã do Subnautica",
+   "etapa": "roteiro (aguardando aprovação: um artista 3D pôs no Subnautica uma Pokébola que captura de verdade; a bola vira cubo preto, some junto com o bicho, prende um peixe pra sempre, e no fim a Master Ball engole o Reefback, que vira bicho de estimação; fontes conferidas)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse cara colocou o Minecraft dentro do Skyrim e jura que não é montagem",
+   "etapa": "roteiro (aguardando aprovação: não é cópia do Minecraft, são os dois jogos abertos juntos, um escondido e o outro desenhando; fecha no Minecraft dentro do GTA 5 que fez 4,8 milhões uma semana depois; fontes conferidas)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": "21/10 (a onda de Minecraft em outros jogos ainda sobe)"
   },
   {
    "tipo": "Short",
@@ -694,5 +718,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T00:17-03:00"
+ "gerado_em": "2026-10-14T00:24-03:00"
 }
