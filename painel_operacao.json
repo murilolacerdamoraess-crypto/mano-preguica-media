@@ -144,6 +144,14 @@
    "confianca": "forte no que você recusa (2 de 2); fraca na conversão do Short pro longo (1 caso medido).",
    "status": "aguardando",
    "simples": "Antes de escrever os Shorts que saem de um vídeo longo, a gente pergunta o mesmo que pergunta pra qualquer Short: esse vai pegar sozinho no feed? Se o longo é de um jogo que o público não conhece, como o Rematch, a maioria desses Shorts nem chega pra você, e a vaga vai pra uma pauta mais forte."
+  },
+  {
+   "id": "R19",
+   "titulo": "História de pessoa (influenciador, criador, jogador que fez algo) é planejada em 5 passos antes do texto, com a jornada como motor e nunca uma briga com os outros.",
+   "onde": "roles do Arpão e da Tarrafa (shorts.md), do Farol (longos.md) e do Sonar (descoberta.md).",
+   "confianca": "",
+   "status": "APROVADA no chat com o Claude Code em 14/10/2026, no escopo acima.",
+   "simples": ""
   }
  ],
  "equipe": [
@@ -878,5 +886,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T19:39-03:00"
+ "gerado_em": "2026-10-14T19:47-03:00"
 }
