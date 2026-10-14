@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-10-13T15:33:57.492311-03:00",
+ "gerado_em": "2026-10-13T21:21:50.315096-03:00",
  "mes": {
-  "postados": 13,
+  "postados": 14,
   "teto": 93,
-  "folga": 80
+  "folga": 79
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 0,
-   "ultimo_post": "2026-10-12",
-   "dias_parado": 1,
+   "na_fila": 1,
+   "ultimo_post": "2026-10-13",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "5F8Zkv79qZ8",
-     "titulo": "os jogos de terror mais jogados da steam de 2015 até hoje, mês a mês",
-     "quando": "2026-10-13T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "KYi45DujK_A",
      "titulo": "essa fruta de subnautica 2 é um bicho que faz filhotes dentro da sua barriga",
@@ -29,21 +23,26 @@
     }
    ],
    "previstos": [],
-   "proximos_da_fila": []
+   "proximos_da_fila": [
+    {
+     "video_id": "KYi45DujK_A",
+     "titulo": "Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga #shorts"
+    }
+   ]
   },
   "instagram": {
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 6,
-   "ultimo_post": "2026-10-11",
-   "dias_parado": 2,
+   "ultimo_post": "2026-10-13",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "video_id": "KYi45DujK_A",
+     "titulo": "Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga #shorts",
      "quando": "2026-10-13T21:30:00-03:00"
     },
     {
@@ -74,8 +73,8 @@
    ],
    "proximos_da_fila": [
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
+     "video_id": "KYi45DujK_A",
+     "titulo": "Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga #shorts"
     },
     {
      "video_id": "NzY7XmWAcso",
@@ -91,7 +90,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 23,
+   "na_fila": 25,
    "ultimo_post": "2026-10-07",
    "dias_parado": 6,
    "parado": false,
