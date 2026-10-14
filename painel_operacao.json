@@ -213,7 +213,7 @@
    "por_que_agora": "Minecraft é sempre quente pro público; o TikTok testa se o gancho de monstro funciona nele.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "livre",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -225,7 +225,7 @@
    "por_que_agora": "o remake sai em 05/11.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "livre",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -757,6 +757,22 @@
   },
   {
    "tipo": "Short",
+   "titulo": "A vampira de Resident Evil tem 2,9 metros, e a Capcom teve que diminuir ela",
+   "etapa": "roteiro (aguardando aprovação: teste do TikTok, Resident Evil 1 de 3; ela nasceu como um fantasma que não dava medo, a altura resolveu, e quando virou personagem jogável o diretor teve que diminuir ela; uns 95 s, fontes conferidas)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": "20/10 (semana 1 do teste)"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Tem um jeito de passar do lado do monstro mais assustador do Zelda sem ele te pegar",
+   "etapa": "roteiro (aguardando aprovação: teste do TikTok, Zelda 1 de 3; o zumbi que paralisa com o olhar é cego, e a música que trava ele fica na sala do lado; uns 100 s, fontes conferidas)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": "20/10 (Zelda tem que estar no ar antes do remake de 05/11)"
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (aguardando aprovação: o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
    "responsavel": "Arpão",
@@ -846,5 +862,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T09:33-03:00"
+ "gerado_em": "2026-10-14T09:39-03:00"
 }
