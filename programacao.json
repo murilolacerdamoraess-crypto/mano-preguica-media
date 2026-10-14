@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T21:21:50.315096-03:00",
+ "gerado_em": "2026-10-14T02:06:24.731708-03:00",
  "mes": {
   "postados": 14,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 1,
    "ultimo_post": "2026-10-13",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
     {
@@ -36,39 +36,39 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 6,
    "ultimo_post": "2026-10-13",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "KYi45DujK_A",
      "titulo": "Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga #shorts",
-     "quando": "2026-10-13T21:30:00-03:00"
+     "quando": "2026-10-14T21:30:00-03:00"
     },
     {
      "video_id": "NzY7XmWAcso",
      "titulo": "O Alien muda de forma dependendo de quem ele usou #shorts",
-     "quando": "2026-10-14T21:30:00-03:00"
+     "quando": "2026-10-15T21:30:00-03:00"
     },
     {
      "video_id": "J6XFb909Tg4",
      "titulo": "Esse jogo mandou fita cassete pelo correio e ninguém entendia por quê #shorts",
-     "quando": "2026-10-15T21:30:00-03:00"
+     "quando": "2026-10-16T21:30:00-03:00"
     },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-16T21:30:00-03:00"
+     "quando": "2026-10-17T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-17T21:30:00-03:00"
+     "quando": "2026-10-18T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-18T21:30:00-03:00"
+     "quando": "2026-10-19T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -92,7 +92,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 25,
    "ultimo_post": "2026-10-07",
-   "dias_parado": 6,
+   "dias_parado": 7,
    "parado": false,
    "agendados": [],
    "previstos": [
