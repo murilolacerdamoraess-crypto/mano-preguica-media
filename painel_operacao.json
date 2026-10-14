@@ -862,13 +862,13 @@
    "prazo": ""
   },
   {
-   "tipo": "14/10",
-   "titulo": "✅ TELA LIBERADA pelo Murilo (\"pode liberar a tela, gera as opções\"). GERAR AS OPÇÕES DA THUMB v3 do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI). Pedido do Murilo via Claude Code, refs e prompts do Anzol. O rosto entra com a folha de referência nova (`Mano Preguica/_refs rosto do Murilo/`), e o personagem como aparece no jogo, não a arte oficial. Os 2 prompts (COM ELE e SEM ELE) e a ordem dos anexos estão em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Thumb v3\". Rodar os dois no ChatGPT (chat novo cada) e no Nano Banana Pro do Flow. Salvar em `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`: `OPCAO 1 - GPT com ele`, `OPCAO 2 - GPT com ele`, `OPCAO 3 - Flow com ele`, `OPCAO 4 - Flow com ele`, `OPCAO 5 - GPT sem ele`, `OPCAO 6 - Flow sem ele` (.png). Se o GPT recusar, anotar a mensagem exata e fazer as do Flow no lugar. Avisar o Anzol. A GERADA 3 continua no rascunho até o Murilo escolher. Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[14/10] GERAR AS OPÇÕES DA THUMB v3 do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI)~~ FEITO (Periscópio, 14/10): o ChatGPT NÃO recusou desta vez (com o recorte do jogo no lugar da arte oficial, passou nos 3 chats). As 6 estão na pasta de refs: OPCAO 1 e 2 (GPT com ele, 1672x941), 3 e 4 (Flow com ele, 1376x768), 5 (GPT sem ele), 6 (Flow sem ele) e uma reserva `OPCAO 6B - Flow sem ele (reserva).png` (o Flow gera 2). Avisado o Anzol. Pedido original: ✅ TELA LIBERADA pelo Murilo (\"pode liberar a tela, gera as opções\"). Pedido do Murilo via Claude Code, refs e prompts do Anzol. O rosto entra com a folha de referência nova (`Mano Preguica/_refs rosto do Murilo/`), e o personagem como aparece no jogo, não a arte oficial. Os 2 prompts (COM ELE e SEM ELE) e a ordem dos anexos estão em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Thumb v3\". Rodar os dois no ChatGPT (chat novo cada) e no Nano Banana Pro do Flow. Salvar em `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`: `OPCAO 1 - GPT com ele`, `OPCAO 2 - GPT com ele`, `OPCAO 3 - Flow com ele`, `OPCAO 4 - Flow com ele`, `OPCAO 5 - GPT sem ele`, `OPCAO 6 - Flow sem ele` (.png). Se o GPT recusar, anotar a mensagem exata e fazer as do Flow no lugar. Avisar o Anzol. A GERADA 3 continua no rascunho até o Murilo escolher. Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T12:57-03:00"
+ "gerado_em": "2026-10-14T13:15-03:00"
 }
