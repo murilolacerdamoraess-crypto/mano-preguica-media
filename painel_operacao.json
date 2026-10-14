@@ -678,9 +678,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "aprovação (v3 entregue em 12/10 com o react: o \"exato\" inteiro, \"um dos Pokémon mais procurados na caverna\", o @ uma vez só e sem os frames fantasmas; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "edição (ajuste da narrativa pedido pelo Murilo em 14/10 depois de ver a v3: sem os haters; agora começa nos Pokémon pequenos que ele imprimia e nas obras em tamanho real, e só depois vem o desafio do maior; roteiro novo pronto, falta trocar a voz do começo e da última frase e as imagens do começo; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Lente",
-   "falta_murilo": "assistir a v3 no Assistir",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -886,5 +886,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T19:49-03:00"
+ "gerado_em": "2026-10-14T19:54-03:00"
 }
