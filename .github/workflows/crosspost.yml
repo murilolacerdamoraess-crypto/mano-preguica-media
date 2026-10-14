@@ -102,6 +102,9 @@ jobs:
       - name: gerar painel (Canal Agente)
         run: python scripts/dashboard.py || echo "dashboard skip"
       - name: salvar ledger atualizado
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           git config user.name "crosspost-bot"
           git config user.email "bot@users.noreply.github.com"
@@ -110,5 +113,15 @@ jobs:
           for f in ledger.json schedule.json metrics.json programacao.json saude_state.json dashboard; do
             [ -e "$f" ] && git add "$f"
           done
-          git commit -m "ledger+metrics+painel: atualizado pelo robo [skip ci]" || echo "sem mudanca"
-          git push || echo "push skip"
+          git commit -m "ledger+metrics+painel: atualizado pelo robo [skip ci]" || { echo "sem mudanca"; exit 0; }
+          # 14/10/2026: o "|| echo push skip" engoliu um push rejeitado em 12/10 (o Mac tinha subido antes);
+          # o ledger perdeu o post do IG e o robô postou o MESMO Reel de novo no dia seguinte.
+          # Agora: puxa o que entrou, tenta de novo; se ainda falhar, avisa no Telegram e a execução fica vermelha.
+          for i in 1 2 3 4 5; do
+            git pull --rebase -q && git push -q && exit 0
+            git rebase --abort 2>/dev/null; sleep $((i*5))
+          done
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode text="⚠️ Crosspost: não consegui salvar o ledger no GitHub. O que foi postado hoje pode não estar registrado. Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}" >/dev/null
+          exit 1

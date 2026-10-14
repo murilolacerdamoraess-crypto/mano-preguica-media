@@ -20,7 +20,7 @@ Dedup / segurança (medo de duplicar):
     nas 3 redes que couberem.
 Config por variável de ambiente (secrets no Actions).
 """
-import os, sys, json, re, subprocess, urllib.request, urllib.error, urllib.parse, datetime, time
+import os, sys, json, re, subprocess, unicodedata, urllib.request, urllib.error, urllib.parse, datetime, time
 
 DRY        = os.environ.get("DRY_RUN", "1") == "1"
 PP_KEY     = os.environ.get("POSTPROXY_KEY", "")
@@ -355,6 +355,27 @@ def meta_call(acao, **kw):
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"painel {acao}: {e.code} {e.read().decode()[:300]}")
 
+# TRAVA ANTI-DUPLICATA (14/10/2026): o mesmo Reel saiu 2x no IG (12/10 e 13/10). O post de 12/10 foi feito,
+# mas o push do ledger foi rejeitado e o "|| echo push skip" engoliu o erro; no dia seguinte o ledger não sabia
+# e postou de novo. Agora a fonte da verdade é a PRÓPRIA rede: antes de publicar, confere os posts recentes da
+# conta e, se o título já está lá, não posta. Se a consulta falhar, também não posta (melhor perder 1 dia).
+_rede_cache = {}
+def _norm_titulo(t):
+    t = unicodedata.normalize("NFKD", (t or "").split("\n")[0].lower())
+    return re.sub(r"\s+", " ", re.sub(r"#\w+|[^a-z0-9 ]", " ", t)).strip()
+
+def ja_esta_na_rede(net, title):
+    if not _rede_cache:
+        d = meta_call("metricas", limite=100)
+        if d.get("erro") or not isinstance(d.get("ig"), list) or not isinstance(d.get("fb"), list):
+            raise RuntimeError(f"não consegui conferir os posts da conta antes de publicar: {str(d)[:200]}")
+        _rede_cache.update(instagram=d["ig"], facebook=d["fb"])
+    alvo = _norm_titulo(title)
+    for p in _rede_cache.get(net, []):
+        if alvo and _norm_titulo(p.get("legenda")) == alvo:
+            return p
+    return None
+
 def meta_post(net, url, text):
     """Publica AGORA (a API da Meta não agenda Reels): devolve (id, link)."""
     if net == "facebook":
@@ -389,6 +410,13 @@ def post_one(led, vid, net, scheduled_at="", tag="MANUAL"):
         ok, agora = dentro_da_janela()
         if not ok:
             log(f"{tag} {net} <- {vid}: FORA DA JANELA ({agora} BRT, janela {JANELA_INI} a {JANELA_FIM}); não publica, fica pro próximo disparo")
+            return False
+        ja = ja_esta_na_rede(net, v["title"])
+        if ja:
+            # o ledger não sabia (push perdido, post manual): marca e NÃO posta de novo
+            v["posted"][net] = {"done": True, "date": (ja.get("data") or "")[:10], "post_id": ja.get("id"), "link": ja.get("link", "")}
+            json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
+            log(f"{tag} {net} <- {vid}: JÁ ESTÁ NA REDE ({ja.get('link')}); não posta, ledger corrigido")
             return False
         pid, link = meta_post(net, url, caption(v)); cleanup(vid)
         hoje_brt = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date().isoformat()
