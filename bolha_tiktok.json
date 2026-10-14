@@ -1,0 +1,161 @@
+{
+ "_leia": "Gerado por scripts/bolha_tiktok.py (Sextante). O painel mostra na tela Resultado e em /bolha.",
+ "gerado_em": "2026-10-14T09:31-03:00",
+ "pedido": "Furar a bolha no TikTok: achar fora do Subnautica o que performa tão bem quanto ele (Murilo, 14/10/2026).",
+ "como_ler": [
+  "Cada teste é medido no mesmo prazo: 48 horas e 7 dias depois de publicar. O que vale pro veredito é o de 7 dias.",
+  "Régua = mediana do canal no TikTok, recalculada a cada leitura, sem contar os próprios testes.",
+  "Abaixo da régua: não pegou. Acima da régua: promissor. 5.000 views ou mais: furou.",
+  "Cada tema tem 3 tentativas (os rankings, 2). Quando a última fecha 7 dias, o tema ganha o veredito: furou (alguma passou de 5 mil), promissor (metade ou mais passou da régua) ou não pegou (descarta)."
+ ],
+ "furou": 5000,
+ "regua": {
+  "48h": {
+   "valor": 841,
+   "n": 12,
+   "provisoria": true,
+   "como": "provisória: views totais dos 12 últimos TikToks fora do teste com 7 dias ou mais (vira a mediana com 48h quando houver 6 posts fotografados nesse prazo)"
+  },
+  "7d": {
+   "valor": 841,
+   "n": 12,
+   "provisoria": true,
+   "como": "provisória: views totais dos 12 últimos TikToks fora do teste com 7 dias ou mais (vira a mediana com 7d quando houver 6 posts fotografados nesse prazo)"
+  }
+ },
+ "subnautica_referencia": "Subnautica criatura no TikTok: 308 mil (Reaper maior), 139 mil (pior susto), 83 mil (Gargantuan), 32 mil (buraco da lava).",
+ "temas": [
+  {
+   "tema": "Resident Evil",
+   "por_que": "filme em cartaz desde 18/09 (o maior da série) e o jogo novo se passa em outubro de 2026",
+   "tentativas": [
+    {
+     "n": 1,
+     "pauta": "P31",
+     "titulo": "A vampira de Resident Evil tem 2,9 metros, e a Capcom teve que diminuir ela",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 2,
+     "pauta": "P35",
+     "titulo": "O Nemesis de Resident Evil foi criado pra caçar só um grupo de pessoas",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 3,
+     "pauta": "P38",
+     "titulo": "Em Resident Evil infectaram um tubarão-branco de propósito",
+     "status": "esperando publicar"
+    }
+   ],
+   "veredito": {
+    "fechado": false,
+    "texto": "em teste: 0 de 3 tentativas fecharam 7 dias"
+   }
+  },
+  {
+   "tema": "Zelda Ocarina of Time",
+   "por_que": "o remake sai em 05/11",
+   "tentativas": [
+    {
+     "n": 1,
+     "pauta": "P32",
+     "titulo": "Tem um jeito de passar do lado do monstro mais assustador do Zelda sem ele te pegar",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 2,
+     "pauta": "P34",
+     "titulo": "O templo mais assustador do Zelda tem um passado que a família real esconde",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 3,
+     "pauta": "P36",
+     "titulo": "No Zelda você entra na barriga de um peixe gigante e descobre o que estava deixando ele doente",
+     "status": "esperando publicar"
+    }
+   ],
+   "veredito": {
+    "fechado": false,
+    "texto": "em teste: 0 de 3 tentativas fecharam 7 dias"
+   }
+  },
+  {
+   "tema": "Minecraft",
+   "por_que": "o jogo que mais gente da idade do público joga",
+   "tentativas": [
+    {
+     "n": 1,
+     "pauta": "P33",
+     "titulo": "O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 2,
+     "pauta": "P37",
+     "titulo": "Você ouve o Ghast no Minecraft há anos e nunca soube de onde vem esse grito",
+     "status": "esperando publicar"
+    },
+    {
+     "n": 3,
+     "pauta": "P39",
+     "titulo": "O Enderman fala ao contrário? Nem o Minecraft se decide",
+     "status": "esperando publicar"
+    }
+   ],
+   "veredito": {
+    "fechado": false,
+    "texto": "em teste: 0 de 3 tentativas fecharam 7 dias"
+   }
+  },
+  {
+   "tema": "Rankings com gancho",
+   "por_que": "o Murilo deu mais uma chance pros rankings, agora com gancho (o primeiro, sem gancho de monstro, é o ponto de partida)",
+   "tentativas": [
+    {
+     "n": 1,
+     "pauta": "ranking 13/10",
+     "titulo": "Os jogos de terror mais jogados da Steam de 2015 até hoje",
+     "status": "no ar",
+     "tiktok_id": "7696260761991105800",
+     "link": "https://www.tiktok.com/@manopreguica/video/7696260761991105800",
+     "publicado": "13/10 18:02",
+     "horas_no_ar": 15,
+     "titulo_tiktok": "os jogos de terror mais jogados da steam de 2015 até hoje, mês a mês ...",
+     "agora": {
+      "views": 174,
+      "likes": 6,
+      "comentarios": 0,
+      "salvos": 0,
+      "compart": 0
+     },
+     "48h": {
+      "views": null,
+      "como": "ainda não chegou",
+      "regua": 841,
+      "x": null,
+      "faixa": null
+     },
+     "7d": {
+      "views": null,
+      "como": "ainda não chegou",
+      "regua": 841,
+      "x": null,
+      "faixa": null
+     }
+    },
+    {
+     "n": 2,
+     "pauta": "P40",
+     "titulo": "Subnautica, Raft ou Sea of Thieves: qual jogo de monstro marinho mais gente já jogou ao mesmo tempo?",
+     "status": "esperando publicar"
+    }
+   ],
+   "veredito": {
+    "fechado": false,
+    "texto": "em teste: 0 de 2 tentativas fecharam 7 dias"
+   }
+  }
+ ]
+}
