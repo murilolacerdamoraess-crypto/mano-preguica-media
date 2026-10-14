@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T12:41:12.917272Z",
+ "gerado_em": "2026-10-14T12:48:43.518672Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -481,6 +481,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "7"
+  },
+  {
+   "arquivo": "short-templo-das-sombras-zelda.md",
+   "name": "SHORT - O templo mais assustador do Zelda tem um passado que a família real esconde",
+   "titulo_roteiro": "SHORT: o templo que a família real esconde",
+   "description": "Short de uns 90 segundos pro teste de bolha no TikTok (pauta P34 do Sonar, 14/10, tema Zelda, tentativa 2 de 3). O Templo das Sombras do Ocarina of Time é o templo que a família real é proibida de comentar; logo na entra",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "sn2-cherimoya-rotsac.md",
