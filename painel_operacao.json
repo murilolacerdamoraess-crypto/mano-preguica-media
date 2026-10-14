@@ -670,7 +670,7 @@
   {
    "tipo": "Longo",
    "titulo": "Vampire Survivors + Megabonk de Pokémon: joguei o Pokémon Survivor Burst (canal 2)",
-   "etapa": "pronto pra publicar no canal secundário (rascunho privado com o seu título, anúncios ligados, classificação \"Nenhuma das opções\", tela final com o canal principal; direitos autorais e diretrizes sem problema; capa provisória de um quadro da horda, a de arte do Anzol, Cyndaquil com SEM CHARMANDER, fica pra quando você gerar; studio.youtube.com/video/j5Eb_G2yRJI/edit)",
+   "etapa": "pronto pra publicar no canal secundário (rascunho privado com o seu título, anúncios ligados, classificação \"Nenhuma das opções\", tela final com o canal principal; direitos autorais e diretrizes sem problema; capa provisória de um quadro da horda; a capa nova, você com as mãos na cabeça + o Cyndaquil + a horda, está sendo gerada no ChatGPT pelo Periscópio e o Leme sobe quando ficar pronta; studio.youtube.com/video/j5Eb_G2yRJI/edit)",
    "responsavel": "Publicação MP2 (Leme)",
    "falta_murilo": "marcar Público e publicar (a janela já está aberta na Visibilidade)",
    "prazo": ""
@@ -716,7 +716,15 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "14/10",
+   "titulo": "GERAR A THUMB do Pokémon Survivor Burst no ChatGPT (MP2, rascunho j5Eb_G2yRJI; o Murilo cobrou que está sem thumb). Pedido do Anzol. Refs em `Mano Preguica/MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/` (IMAGEM 1 a 4). Os dois prompts, na ordem, estão em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Thumb v2\": estágio 1 num chat novo só com a IMAGEM 1; estágio 2 em outro chat novo com o resultado do estágio 1 + IMAGENS 2, 3 e 4. Gerar 2 ou 3 versões. Salvar na mesma pasta como `GERADA 1.png`, `GERADA 2.png`... e avisar o Anzol (`maestri ask \"Anzol\"`), que confere no portão e passa pro Leme subir. Se o rosto não sair parecido, passar no Nano Banana Pro do Flow com IMAGENS 3 e 4 (skill `flow-nanobanana`). Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T00:36-03:00"
+ "gerado_em": "2026-10-14T09:22-03:00"
 }
