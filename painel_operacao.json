@@ -174,6 +174,10 @@
   {
    "nome": "Periscópio",
    "funcao": "Publicação e navegador"
+  },
+  {
+   "nome": "Tarrafa",
+   "funcao": "Shorts"
   }
  ],
  "backlog": [
@@ -245,7 +249,7 @@
    "por_que_agora": "mesmo vídeo de 20/09/2026 (487 mil views em 05/10); sair alguns dias depois do Short da mensagem, como continuação.",
    "formato": "Short 60-90s (canal principal)",
    "concorrencia": "LIVRE (mesma busca da pauta da mensagem; maior vídeo em português sobre 10 mil metros: 182 views)",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -293,7 +297,7 @@
    "por_que_agora": "o jogo sai em 05/11 e no Brasil a pré-venda física esgotou rápido (IGN Brasil: https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/156287/superou-nossas-expectativas-mais-otimistas-gamer-hut-uma-das-principais-lojas-de-jogos-em-midia-fisi). Postar antes do lançamento ou na semana dele.",
    "formato": "Short curto (30 a 50s)",
    "concorrencia": "RASO no ângulo da ocarina (1 Short em português com 1 view; os canais brasileiros falam do remake em geral, como Ataque Crítico e Universo Paralelo)",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -305,7 +309,7 @@
    "por_que_agora": "começou a ser vendida em 01/10/2026, por US$ 299,99. FAST-TRACK: a janela é outubro.",
    "formato": "Short curto (30 a 50s)",
    "concorrencia": "LIVRE (busca de 05/10 \"lego pokebola 72154\" e \"pokebola lego abre\": reviews só em inglês e alemão)",
-   "status": "aprovada",
+   "status": "pego por Arpão",
    "frente": "",
    "pendente": ""
   },
@@ -377,7 +381,7 @@
    "por_que_agora": "publicado hoje (03/10/2026), 86 mil views nas primeiras horas; fecha a série Homem-Aranha dele, que já fez 44,8 mi (\"Tom Holland Gets Real Spidy Powers!\", 15/08), 32,7 mi (\"Climbing Walls With Spider-Man!\", 05/08) e 29,7 mi (Short \"Climbing Walls With Gecko Skin!\", 16/05). Homem-Aranha: Um Novo Dia está em cartaz desde 31/07/2026 e passou de US$ 2,4 bi.",
    "formato": "Short 60-90s (pode virar bloco \"gadget de verdade\" com a P14)",
    "concorrencia": "ângulo lagartixa LIVRE (zero vídeo PT-BR; na busca BR só aparecem os originais em inglês, inclusive o Short de maio com 29,7 mi, então parte do público já viu o clipe mas não a história). Lança-teia com o Tom Holland: OCUPADO (Top 5 Prime, \"Como assim o TOM HOLLAND soltou TEIA de VERDADE\", 396 mil, 03/08). Não usar o lança-teia como gancho.",
-   "status": "pego por Arpão",
+   "status": "virou vídeo",
    "frente": "2 (engenharia geek / gadget real de franquia)",
    "pendente": ""
   },
@@ -389,7 +393,7 @@
    "por_que_agora": "vídeo de 01/06/2026 que estourou fora da curva do canal: 63 mil views num canal de 5,6 mil inscritos com mediana de 415 (uns 150x). História narrada recicla (molde Sev7n, igual à P6), e a dica da cadeira serve pra quem joga hoje.",
    "formato": "Short 60-90s",
    "concorrencia": "LIVRE (\"subnautica sem comer\" e \"subnautica hardcore sem comer\": nada sobre o desafio). Cuidado: \"zerou Subnautica sem nadar / sem tocar na água\" está SATURADO no BR (Filipe Kaiser 369 mil, Katreis 316 mil, EduSj 232 mil, diggomais 198 mil, Brunelviss 118 mil); o título não pode parecer esse.",
-   "status": "pego por Arpão",
+   "status": "virou vídeo",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -401,7 +405,7 @@
    "por_que_agora": "publicado 20/09/2026, 465 mil views em 13 dias, 2,6x a mediana do canal; é a volta de um desafio que ele fez em 2021 (1,4 mi).",
    "formato": "Short 60-90s",
    "concorrencia": "LIVRE (maior PT-BR: Hadal Games, \"O QUE EXISTE ABAIXO DE 10 MIL METROS NO SUBNAUTICA?\", 182 views)",
-   "status": "pego por Arpão",
+   "status": "virou vídeo",
    "frente": "1",
    "pendente": ""
   },
@@ -413,7 +417,7 @@
    "por_que_agora": "publicado 22/08/2026; 168 mil views num canal de 8,1 mil inscritos com mediana de 2,4 mil (uns 70x). Mario Kart World é o jogo de lançamento do Switch 2 e ela se vestiu da vaca do jogo (\"the internet has been obsessed with one character in the entire game\", 00:30).",
    "formato": "Short 60-90s",
    "concorrencia": "LIVRE (nenhum vídeo PT-BR sobre a moto dela; \"moto do mario kart na vida real\" só traz kart de Shiloh & Bros e circuito no Vietnã)",
-   "status": "pego por Arpão",
+   "status": "virou vídeo",
    "frente": "2 (engenharia geek / gadget real de franquia)",
    "pendente": ""
   },
@@ -690,5 +694,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T00:03-03:00"
+ "gerado_em": "2026-10-14T00:14-03:00"
 }
