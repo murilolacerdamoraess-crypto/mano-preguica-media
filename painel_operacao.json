@@ -645,6 +645,22 @@
   },
   {
    "tipo": "Short",
+   "titulo": "O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele",
+   "etapa": "roteiro (aguardando aprovação: o Warden te acha pelo cheiro mesmo agachado, teste de fora do Subnautica no TikTok, semana 2; narrado, uns 2 minutos)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O templo mais assustador do Zelda tem um passado que a família real esconde",
+   "etapa": "roteiro (aguardando aprovação: o Templo das Sombras era onde os protetores da família real interrogavam os inimigos, teste de fora do Subnautica no TikTok, semana 2; narrado, perto de 1min47; precisa estar no ar antes do remake sair em 05/11)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "05/11"
+  },
+  {
+   "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
    "etapa": "edição (só a capa: o vídeo foi aprovado no react de 12/10; o TODO DIA caiu e o Anzol propôs a capa nova, o Gengar do jogo em cima, a Pokébola dele embaixo e VIROU POKÉBOLA; o Windows troca só o primeiro quadro; pronto até 17/10 pro estoque do TikTok)",
    "responsavel": "Windows",
@@ -846,5 +862,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T09:50-03:00"
+ "gerado_em": "2026-10-14T09:52-03:00"
 }
