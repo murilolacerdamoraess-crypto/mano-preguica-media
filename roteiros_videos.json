@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T12:50:30.884585Z",
+ "gerado_em": "2026-10-14T12:52:35.296123Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -499,7 +499,7 @@
    "arquivo": "short-warden-cego-agachado.md",
    "name": "SHORT - O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele",
    "titulo_roteiro": "SHORT: o Warden é cego, e agachado não basta",
-   "description": "Short de uns 100 segundos pro teste de bolha no TikTok (pauta P33 do Sonar, 14/10, tema Minecraft, tentativa 1 de 3). O Warden é cego e tem 500 de vida; quem chama ele é um bloco que grita até com você agachado; ele te a",
+   "description": "Short de uns 2 minutos pro teste de bolha no TikTok (pauta P33 do Sonar, 14/10, tema Minecraft, tentativa 1 de 3). O Warden é cego e tem 500 de vida; quem chama ele é um bloco que grita até com você agachado; ele te acha",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
