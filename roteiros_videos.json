@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T00:48:44.098424Z",
+ "gerado_em": "2026-10-14T03:23:32.178046Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -275,6 +275,19 @@
    "versao": null
   },
   {
+   "arquivo": "short-minecraft-dentro-do-skyrim.md",
+   "name": "SHORT - Esse cara colocou o Minecraft dentro do Skyrim e jura que não é montagem",
+   "titulo_roteiro": "SHORT: o Minecraft dentro do Skyrim",
+   "description": "Short de uns 90 segundos (pauta P15 do Sonar, aprovada em 04/10; onda remedida em 14/10). O chasm viu o Minecraft no Elden Ring, achou que era vídeo de IA, percebeu que já tinha feito parecido e pôs o Minecraft no Skyrim",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-moto-mario-kart-world-madeira.md",
    "name": "SHORT - Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween dela",
    "titulo_roteiro": "SHORT: a fantasia de Halloween que virou a moto do Mario Kart World de verdade",
@@ -301,6 +314,19 @@
    "versao": "4"
   },
   {
+   "arquivo": "short-pokebola-subnautica-leviata.md",
+   "name": "SHORT - Esse cara colocou Pokébola no Subnautica pra ver se pegava um leviatã",
+   "titulo_roteiro": "SHORT: a Pokébola no Subnautica e o leviatã",
+   "description": "Short de uns 100 segundos (pauta P17 do Sonar, aprovada em 04/10). O artista 3D Daniel Krafft põe uma Pokébola que captura de verdade no Subnautica; a bola não aparece, vira cubo preto, some junto com o Gasopod, prende u",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
    "name": "SHORT - Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
    "titulo_roteiro": "SHORT: uma Pokébola diferente pra cada Pokémon",
@@ -325,6 +351,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "4"
+  },
+  {
+   "arquivo": "short-psyduck-senha-dor-de-cabeca.md",
+   "name": "SHORT - O Psyduck secreto do Pokémon Survivor Burst só libera com a senha \"dor de cabeça",
+   "titulo_roteiro": "SHORT: o Psyduck secreto da senha \"dor de cabeça\"",
+   "description": "Short do canal principal tirado da gameplay do Murilo no Pokémon Survivor Burst (gravada em 12/10/2026, íntegra no MP2). O objetivo do jogo é sobreviver 15 minutos no meio de uma horda; o Psyduck fica escondido atrás de ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portões de fontes, fluidez e título rodados em 2026-10-14 (saídas no fim); falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo por cima da gameplay dele, com os momentos ao vivo tocando)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-rematch-egoista-gol-de-ouro.md",
