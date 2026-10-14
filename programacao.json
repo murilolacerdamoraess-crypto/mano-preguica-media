@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T08:51:22.051784-03:00",
+ "gerado_em": "2026-10-14T13:02:02.579001-03:00",
  "mes": {
   "postados": 14,
   "teto": 93,
@@ -35,8 +35,8 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 6,
-   "ultimo_post": "2026-10-13",
-   "dias_parado": 1,
+   "ultimo_post": "2026-10-12",
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
