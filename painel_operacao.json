@@ -878,13 +878,13 @@
    "prazo": ""
   },
   {
-   "tipo": "14/10",
-   "titulo": "CONSERTAR O CYNDAQUIL da OPCAO 3 da thumb do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI). Tela liberada, uma janela só. O Murilo escolheu a OPCAO 3 (\"eu fiquei muito parecido nem parece IA\"), mas \"o cindaquil ficou muito esquisito\". Trocar SÓ o personagem, sem tocar no rosto. No Nano Banana Pro do Flow (edição): IMAGEM 1 = `OPCAO 3 - Flow com ele.png`, IMAGEM 2 = `IMAGEM 1-JOGO b - personagem como aparece no jogo, de lado (1m30).png`, os dois na pasta `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`. O prompt está em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Conserto do Cyndaquil da OPCAO 3\". Gerar 2 ou 3 versões e salvar na mesma pasta, sem tratar, como `OPCAO 3 FIX a.png`, `OPCAO 3 FIX b.png`, `OPCAO 3 FIX c.png`. Avisar o Anzol, que confere o portão e o rosto. Não mexer no rascunho. Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[14/10] CONSERTAR O CYNDAQUIL da OPCAO 3 da thumb do Pokémon Survivor Burst (MP2, j5Eb_G2yRJI)~~ FEITO (Periscópio, 14/10): 3 edições no editor do Flow (Nano Banana Pro), cada uma a partir da OPCAO 3 original, só com a IMAGEM 1-JOGO b anexada. `OPCAO 3 FIX a.png`, `b.png` e `c.png` na pasta de refs, 1376x768 como saíram (JPEG do Flow regravado em PNG, sem tratar). Rosto, horda e fundo iguais à original; o Cyndaquil virou o de lado, de quatro patas, com as manchas vermelhas; a c é a maior. Rascunho não mexido. Avisado o Anzol. Pedido original: Tela liberada, uma janela só. O Murilo escolheu a OPCAO 3 (\"eu fiquei muito parecido nem parece IA\"), mas \"o cindaquil ficou muito esquisito\". Trocar SÓ o personagem, sem tocar no rosto. No Nano Banana Pro do Flow (edição): IMAGEM 1 = `OPCAO 3 - Flow com ele.png`, IMAGEM 2 = `IMAGEM 1-JOGO b - personagem como aparece no jogo, de lado (1m30).png`, os dois na pasta `MP2 - PRONTOS PRA SUBIR/_refs capa - Pokemon Survivor Burst/`. O prompt está em `producao/embalagem-mp2-pokemon-survivor-burst.md`, seção \"Conserto do Cyndaquil da OPCAO 3\". Gerar 2 ou 3 versões e salvar na mesma pasta, sem tratar, como `OPCAO 3 FIX a.png`, `OPCAO 3 FIX b.png`, `OPCAO 3 FIX c.png`. Avisar o Anzol, que confere o portão e o rosto. Não mexer no rascunho. Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T19:47-03:00"
+ "gerado_em": "2026-10-14T19:49-03:00"
 }
