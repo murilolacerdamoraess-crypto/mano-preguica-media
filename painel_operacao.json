@@ -136,6 +136,14 @@
    "confianca": "forte no termo apresentado antes (4 casos, Short e longo); fraca na última frase no topo (a R13 é de 10/10 e ainda não foi medida; o que pesa é a R8 não ter bastado).",
    "status": "aguardando",
    "simples": "Todo roteiro chega com a pergunta do começo e a última frase do vídeo lado a lado no topo, pra você ver em 2 linhas se o fim responde o que o começo prometeu. E cada palavra do jogo (anel, build, lifepod) só aparece depois da frase que explica o que ela é, menos na abertura, que continua curta como você pediu no Stonewards; se aparecer antes, o conferidor automático devolve o roteiro."
+  },
+  {
+   "id": "R18",
+   "titulo": "Short tirado de um longo só é escrito se passar sozinho pelo mesmo filtro de pauta dos outros Shorts: jogo que o público conhece ou assunto que já deu muita view; ser isca do longo não basta.",
+   "onde": "instruções do Farol (a tabela de Shorts no fim do roteiro do longo e o pedido ao Arpão depois do OK) e do Arpão (Shorts-isca).",
+   "confianca": "forte no que você recusa (2 de 2); fraca na conversão do Short pro longo (1 caso medido).",
+   "status": "aguardando",
+   "simples": "Antes de escrever os Shorts que saem de um vídeo longo, a gente pergunta o mesmo que pergunta pra qualquer Short: esse vai pegar sozinho no feed? Se o longo é de um jogo que o público não conhece, como o Rematch, a maioria desses Shorts nem chega pra você, e a vaga vai pra uma pauta mais forte."
   }
  ],
  "equipe": [
@@ -780,30 +788,6 @@
    "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
   },
   {
-   "tipo": "Short",
-   "titulo": "Eu tinha 24 horas pra zerar o passe do Blue Lock no Rematch",
-   "etapa": "roteiro (aguardando aprovação: o primeiro Short tirado do longo do Rematch, a conta do passe de batalha e o atalho que foi justamente defender e tocar a bola; com a sua voz; precisa estar no ar antes de 23/10, quando o evento do Blue Lock acaba)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": "23/10"
-  },
-  {
-   "tipo": "Short",
-   "titulo": "O egoísta do Blue Lock teve o gol de ouro no pé e passou a bola",
-   "etapa": "roteiro (aguardando aprovação: o passe pro Guutin na prorrogação, tirado do longo do Rematch; com a sua voz)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Meu amigo mentia pro time que a partida não era ranqueada",
-   "etapa": "roteiro (aguardando aprovação: a ranqueada escondida do Guutin, 4 vitórias em 4 sem saber e 2 em 11 sabendo, tirado do longo do Rematch; com a sua voz)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
    "tipo": "Longo",
    "titulo": "Vampire Survivors + Megabonk de Pokémon: joguei o Pokémon Survivor Burst (canal 2)",
    "etapa": "pronto pra publicar no canal secundário (rascunho privado com o seu título e a descrição sem falar do Charmander; anúncios ligados, classificação \"Nenhuma das opções\"; capítulos, lugares e conceitos automáticos desligados; 4 produtos: o console R36S, o Meta Quest 3S, a pelúcia oficial do Cyndaquil e o Pokémon Legends Z-A; 4 cards: o canal principal aos 5 min, a playlist do Megabonk aos 17, o Short de curiosidades de Pokémon do principal aos 30 e TODOS OS VIDEOS aos 50; tela final com inscrever, vídeo sugerido, o canal principal e o Short de Pokémon; nas playlists TODOS OS VIDEOS e na nova POKÉMON SURVIVOR BURST; o campo Jogo ficou vazio porque o YouTube não tem esse jogo na lista; direitos autorais e diretrizes sem problema; capa provisória de um quadro da horda; a capa nova, você com as mãos na cabeça + o Cyndaquil + a horda, está sendo gerada no ChatGPT pelo Periscópio e o Leme sobe quando ficar pronta; studio.youtube.com/video/j5Eb_G2yRJI/edit)",
@@ -862,5 +846,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T09:39-03:00"
+ "gerado_em": "2026-10-14T09:41-03:00"
 }
