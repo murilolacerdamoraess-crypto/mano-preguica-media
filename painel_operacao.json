@@ -674,9 +674,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-   "etapa": "edição (só a capa: o vídeo foi aprovado no react de 12/10; o TODO DIA caiu e o Anzol propôs a capa nova, o Gengar do jogo em cima, a Pokébola dele embaixo e VIROU POKÉBOLA; o Windows troca só o primeiro quadro; pronto até 17/10 pro estoque do TikTok)",
+   "etapa": "pronto pra publicar (você aprovou no Assistir em 14/10 ~22h; antes de ir pro ar o editor troca só o primeiro quadro pela capa nova do Gengar virando Pokébola, que ainda não foi exportada, e tira o aviso do nome do arquivo)",
    "responsavel": "Windows",
-   "falta_murilo": "aprovar a capa nova (o Gengar virou Pokébola)",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -746,9 +746,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween dela",
-   "etapa": "aprovação (v7 entregue em 11/10 pela ordem v6, a fantasia de Vaca; a frase de 0:22 foi regerada 3 vezes e o verificador ainda acha soprosa; pronto até 14/10 pro estoque do TikTok)",
+   "etapa": "edição (refazendo pelos 8 pontos do seu react de 14/10: o cartão do começo saindo inteiro no corte, ela de vaca e as mãos no centro, as frases novas de 0:19 e 0:38 com os 10 mil dólares da fonte, a tradução junto da fala na loja, uma imagem só no dock e sem o quadro do site; o editor só entrega com a checagem automática nova limpa, que na v7 achou os seus 6 pontos de imagem e mais 12 do mesmo tipo; terceiro da fila, depois do coral e do Onix)",
    "responsavel": "Lente",
-   "falta_murilo": "gravar a voz da frase de 0:22 no painel (decisão dele em 13/10: \"vou regravar ali a parada dos 0:22\"; a frase é \"A fantasia de vaca era a parte fácil, porque era só vestir.\"; depois o Windows troca só essa frase e confere se o timbre da voz real não destoa da voz clonada em volta)",
+   "falta_murilo": "nada (a frase de 0:22 que você ia regravar sai de novo pela voz clonada junto com a de 0:19; se quiser gravar a sua, avise antes da montagem)",
    "prazo": ""
   },
   {
@@ -762,9 +762,9 @@
   {
    "tipo": "Short",
    "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
-   "etapa": "gravação (roteiro aprovado em 12/10; é o primeiro Short com a sua voz de verdade, as 15 frases já estão no painel em Gravar (projeto short_blanka, publicado pelo Mac em 13/10); o plano de edição está pronto e o editor começa quando a voz estiver aprovada; título e capa prontos: o Anzol recomenda \"O Blanka do Street Fighter começou como um africano criado por leão\", com o Blanka gritando e BRASILEIRO? na capa)",
-   "responsavel": "Lente",
-   "falta_murilo": "gravar a voz no painel",
+   "etapa": "edição (a sua voz gravada em 14/10 já está no editor do Mac, com a risada do fim mantida; título e capa do Anzol prontos)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "",
    "prazo": "15/10 (estreia do filme com o Jason Momoa; vale até o fim de outubro)"
   },
   {
@@ -906,5 +906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T22:27-03:00"
+ "gerado_em": "2026-10-14T23:01-03:00"
 }
