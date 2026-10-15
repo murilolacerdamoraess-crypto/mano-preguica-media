@@ -674,8 +674,8 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-   "etapa": "pronto pra publicar (você aprovou no Assistir em 14/10 ~22h; antes de ir pro ar o editor troca só o primeiro quadro pela capa nova do Gengar virando Pokébola, que ainda não foi exportada, e tira o aviso do nome do arquivo)",
-   "responsavel": "Windows",
+   "etapa": "pronto pra publicar (você aprovou no Assistir em 14/10; a capa nova do Gengar virando Pokébola já está no primeiro quadro e passou no feed em 15/10; vai pro ar sáb 24/10 às 20h)",
+   "responsavel": "Periscópio",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -912,7 +912,15 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "15/10",
+   "titulo": "AGENDAR no canal principal, sáb 24/10 às 20h: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta tentando transformar o quarto inteiro numa Pokedex.mp4` (aprovado pelo Murilo no Assistir em 14/10; capa nova no quadro 0 conferida pelo Anzol em 15/10). Título, descrição (sem bloco de créditos, C52), tags, categoria, jogo, \"conteúdo alterado ou sintético\" (voz Eleven) e vitrine em `producao/pacote-publicacao-short-quarto-pokedex.md`. Produtos: o set da Âncora no roteiro (seção Vitrine), conferido por ela na hora. Uma janela só. Depois: arquivo pra `publicados/`, linha no ledger, video_id no roteiro. Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
- "gerado_em": "2026-10-15T16:34-03:00"
+ "gerado_em": "2026-10-15T18:43-03:00"
 }
