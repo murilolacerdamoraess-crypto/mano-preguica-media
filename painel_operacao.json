@@ -826,6 +826,14 @@
  ],
  "navegador": [
   {
+   "tipo": "15/10",
+   "titulo": "Short do Blanka no canal principal: PAUSADO (Claude Code, 15/10 ~13h50: o Murilo ainda não assistiu a v2). Subiu como rascunho privado `KjX2UtWiO7A`, com os Detalhes preenchidos (título, descrição com créditos, capa do quadro 0, 12 tags, jogo Street Fighter 6, IA Não, lugares e conceitos desligados, produtos R36S + Quest 3S). Falta: adequação, vídeo relacionado, playlist VIDEOS CURTOS depois do Programar e Visibilidade em Programar (sugestão: 15/10 às 17h, porque às 20h já sai o sem comer). Só segue quando o Claude Code avisar que ele aprovou a v2.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "05/10",
    "titulo": "Steam Workshop do Mimic Party (appid 5053820, 11.047 pacotes): existe pacote de sons de Subnautica (buscar subnautica, leviathan, reaper)? Pedido do Sonar pra pauta P24. Quem tiver navegador (Leme), só leitura. Responder no Backlog P24.",
    "etapa": "",
@@ -898,5 +906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-15T13:46-03:00"
+ "gerado_em": "2026-10-15T13:47-03:00"
 }
