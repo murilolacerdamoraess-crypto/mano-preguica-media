@@ -652,7 +652,7 @@
    "titulo": "Stonewards em dupla",
    "etapa": "narração (o demo v2 foi aprovado com os ajustes S1 a S15 no react de 12/10; o Farol reescreve os textos S10, S14 e S15; você grava a narração inteira no painel, em Gravar narração, 121 trechos; com a voz aprovada o Windows monta o vídeo inteiro com os ajustes de edição)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a narração no painel",
+   "falta_murilo": "gravar a narração no painel (ele avisou em 14/10 que fica pra depois)",
    "prazo": ""
   },
   {
@@ -906,5 +906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T23:01-03:00"
+ "gerado_em": "2026-10-14T23:41-03:00"
 }
