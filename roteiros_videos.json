@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T02:04:36.614715Z",
+ "gerado_em": "2026-10-15T03:06:19.232984Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -371,12 +371,12 @@
    "titulo_roteiro": "SHORT: o Psyduck secreto da senha \"dor de cabeça\"",
    "description": "Short do canal principal tirado da gameplay do Murilo no Pokémon Survivor Burst (gravada em 12/10/2026, íntegra no MP2). O objetivo do jogo é sobreviver 15 minutos no meio de uma horda; o Psyduck fica escondido atrás de ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py); falta o OK do Murilo",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-15 (versão 2; conferir_fontes.py, checar_fluidez.py e portao_pauta.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo por cima da gameplay dele, com os momentos ao vivo tocando)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-redead-zelda-cego.md",
