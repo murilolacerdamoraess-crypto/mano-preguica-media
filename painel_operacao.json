@@ -827,6 +827,14 @@
  "navegador": [
   {
    "tipo": "",
+   "titulo": "~~[15/10] Tirar créditos da descrição dos 3 Shorts agendados (Anzol, C52)~~ FEITO (Periscópio, 15/10 ~16h20): sem comer `uPbMO5a3DLk`, 10 mil metros `CZbwiBSKafE` e cartuchos `P_icjTz-RC8` sem o bloco \"Créditos:\" e os links; ficou linha 1, \"Narração com voz gerada por IA.\", o modelo do canal, 🔑 e 🏷️. Salvo, recarregado e relido. Datas depois: 10 mil metros 16/10 20:00 e cartuchos 19/10 20:00 (iguais às de antes). **Atenção:** o sem comer está Programado pra **22/10 20:00** no Studio, não 15/10. Às 13h45 a lista ainda mostrava 15/10. Eu só mexi na descrição, e nos outros dois o mesmo salvar não mudou a data. Ninguém registrou essa troca no cérebro, e os quadros ainda dizem 15/10. Não mexi; fica pro Claude Code confirmar se foi de propósito (abrir espaço pro Blanka?).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
    "titulo": "~~[15/10] Short do Blanka no canal principal~~ FEITO (Periscópio, 15/10): `KjX2UtWiO7A` Programado pelo Murilo pra qui 15/10 17h (conferido no Studio: 15 de out. de 2026, 17:00). Playlist VIDEOS CURTOS salva depois do Programar; relacionado Nenhum (ele não escolheu); produtos R36S + Quest 3S; adequação Nenhuma das opções; verificações sem problema. Arquivo movido pra `publicados/`, linha no ledger.",
    "etapa": "",
    "responsavel": "",
@@ -906,5 +914,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-15T14:29-03:00"
+ "gerado_em": "2026-10-15T16:16-03:00"
 }
