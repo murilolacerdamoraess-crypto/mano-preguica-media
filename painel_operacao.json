@@ -753,11 +753,11 @@
   },
   {
    "tipo": "Short",
-   "titulo": "O Blanka do Street Fighter nem era pra ser brasileiro",
-   "etapa": "embalagem (v2 aprovada, pronta pro clique de Programar (hoje 17h) em 15/10: legenda menor e fora de cartão, foto e rosto; os créditos da música e das fotos vão na descrição)",
-   "responsavel": "Anzol",
+   "titulo": "O Blanka do Street Fighter começou como um africano criado por leão",
+   "etapa": "agendado (qui 15/10 às 17h no canal principal, programado pelo Murilo; link youtube.com/shorts/KjX2UtWiO7A)",
+   "responsavel": "Publicação",
    "falta_murilo": "",
-   "prazo": "15/10 (estreia do filme com o Jason Momoa; vale até o fim de outubro)"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -826,8 +826,8 @@
  ],
  "navegador": [
   {
-   "tipo": "15/10",
-   "titulo": "Short do Blanka no canal principal: PRONTO PRO CLIQUE (Periscópio, 15/10 ~14h, depois do OK do Murilo na v2: \"pior que ficou bom, vamos dessa forma\"). Rascunho `KjX2UtWiO7A` com Detalhes completos, adequação enviada (Nenhuma das opções), verificações sem problema (direitos, anúncio, diretrizes) e Visibilidade em Programar 15/10 17h (o sem comer sai às 20h); o clique em Programar é do Murilo. Depois do clique: playlist VIDEOS CURTOS e linha no ledger. Vídeo relacionado em Nenhum: não existe longo de Street Fighter, falta o Murilo dizer pra qual Short aponta.",
+   "tipo": "",
+   "titulo": "~~[15/10] Short do Blanka no canal principal~~ FEITO (Periscópio, 15/10): `KjX2UtWiO7A` Programado pelo Murilo pra qui 15/10 17h (conferido no Studio: 15 de out. de 2026, 17:00). Playlist VIDEOS CURTOS salva depois do Programar; relacionado Nenhum (ele não escolheu); produtos R36S + Quest 3S; adequação Nenhuma das opções; verificações sem problema. Arquivo movido pra `publicados/`, linha no ledger.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -906,5 +906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-15T14:13-03:00"
+ "gerado_em": "2026-10-15T14:29-03:00"
 }
