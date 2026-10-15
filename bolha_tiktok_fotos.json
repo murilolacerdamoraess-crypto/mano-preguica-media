@@ -32,6 +32,10 @@
 {
 "t": 1792036359,
 "v": 197
+},
+{
+"t": 1792058169,
+"v": 197
 }
 ],
 "views": 197
@@ -133,6 +137,10 @@
 {
 "t": 1792036359,
 "v": 430
+},
+{
+"t": 1792058169,
+"v": 430
 }
 ],
 "views": 430
@@ -189,7 +197,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 84400
+"views": 84500
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -380,9 +388,13 @@
 {
 "t": 1792050903,
 "v": 1109
+},
+{
+"t": 1792058169,
+"v": 1153
 }
 ],
-"views": 1109
+"views": 1153
 }
 }
 }
