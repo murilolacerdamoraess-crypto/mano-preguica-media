@@ -118,7 +118,7 @@
    "titulo": "Toda pauta diz o que a pessoa leva no fim do vídeo, a revelação que ela vai querer contar pros amigos, pra o Murilo julgar se paga o que o título promete.",
    "onde": "instruções do Sonar (os campos de cada pauta no Backlog, ao lado da pergunta do gancho da R8).",
    "confianca": "forte no pedido dele (a mesma pauta reprovada 2 vezes pelo mesmo motivo); o dado do canal é indireto.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-15 (instruções do Sonar, operacao-maestri/roles/descoberta.md)",
    "simples": "Toda pauta chega com uma linha \"O que a pessoa leva no fim\", dizendo a revelação do vídeo e por que ela surpreende, por exemplo \"o jogo diz que alguém pôs água na boca dele depois de morto, e ninguém sabe por quê\". Se a resposta for \"ninguém sabe\", a pauta diz isso com todas as letras, pra você decidir se vale ou se vira sensacionalismo em cima de pouca coisa."
   },
   {
@@ -126,7 +126,7 @@
    "titulo": "O que você já aprovou sai do Decidir sozinho: quando o vídeo pronto de um longo é aprovado, o roteiro dele fecha no mesmo dia, e quando o vídeo vai ao ar o roteiro ganha o link dele.",
    "onde": "instruções do Farol (fechar o roteiro do longo quando o vídeo pronto for aprovado, e anotar o link quando ele for ao ar) e o Pulso diário do Sextante (conferir todo dia se algum vídeo que saiu ficou com o roteiro aberto e avisar o dono).",
    "confianca": "forte no incômodo (2 vezes algo decidido voltou); o caso do longo é 1.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-15 (instruções do Farol, roles/longos.md; conferência 4d no Pulso do Sextante, roles/analise.md)",
    "simples": "Quando você aprova o vídeo pronto de um longo, o roteiro dele sai do Decidir no mesmo dia, sem você precisar reprovar nada. Exemplo: no domingo o roteiro do Rematch ainda pedia sua aprovação com o vídeo já no ar; com a regra, o Farol fecha o roteiro assim que o vídeo é aprovado, e eu confiro todo dia se sobrou algum aberto."
   },
   {
@@ -134,7 +134,7 @@
    "titulo": "Todo roteiro chega com a última frase do vídeo escrita no topo, ao lado da pergunta do começo, e cada palavra do jogo só aparece depois da frase que diz o que ela é; o conferidor automático confere as duas coisas.",
    "onde": "checar_fluidez.py (as duas conferências), checklist da receita do longo (seção 13), skill shorts-roteirista, instruções do Farol e do Arpão.",
    "confianca": "forte no termo apresentado antes (4 casos, Short e longo); fraca na última frase no topo (a R13 é de 10/10 e ainda não foi medida; o que pesa é a R8 não ter bastado).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-15 (checar_fluidez.py confere as duas coisas, commit 0695e90 no canal_agente; receita do longo item 13.1; skill shorts-roteirista; roles do Farol e do Arpão). Reprova nos roteiros com atualizado: de 15/10 em diante, só avisa nos anteriores.",
    "simples": "Todo roteiro chega com a pergunta do começo e a última frase do vídeo lado a lado no topo, pra você ver em 2 linhas se o fim responde o que o começo prometeu. E cada palavra do jogo (anel, build, lifepod) só aparece depois da frase que explica o que ela é, menos na abertura, que continua curta como você pediu no Stonewards; se aparecer antes, o conferidor automático devolve o roteiro."
   },
   {
@@ -142,7 +142,7 @@
    "titulo": "Short tirado de um longo só é escrito se passar sozinho pelo mesmo filtro de pauta dos outros Shorts: jogo que o público conhece ou assunto que já deu muita view; ser isca do longo não basta.",
    "onde": "instruções do Farol (a tabela de Shorts no fim do roteiro do longo e o pedido ao Arpão depois do OK) e do Arpão (Shorts-isca).",
    "confianca": "forte no que você recusa (2 de 2); fraca na conversão do Short pro longo (1 caso medido).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-15 (instruções do Farol e do Arpão, skill shorts-roteirista)",
    "simples": "Antes de escrever os Shorts que saem de um vídeo longo, a gente pergunta o mesmo que pergunta pra qualquer Short: esse vai pegar sozinho no feed? Se o longo é de um jogo que o público não conhece, como o Rematch, a maioria desses Shorts nem chega pra você, e a vaga vai pra uma pauta mais forte."
   },
   {
@@ -906,5 +906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-14T23:41-03:00"
+ "gerado_em": "2026-10-15T00:15-03:00"
 }
