@@ -152,6 +152,14 @@
    "confianca": "",
    "status": "APROVADA no chat com o Claude Code em 14/10/2026, no escopo acima.",
    "simples": ""
+  },
+  {
+   "id": "R20",
+   "titulo": "Antes de ir pro Murilo, o vídeo pronto passa por uma conferência de som: troca de trilha suave, nenhuma fala cortada no meio da palavra e nenhuma frase do roteiro sumida do áudio.",
+   "onde": "portão final da Lente (ERROS.md e o item 8.1 do modelo da ordem), junto do `portao_quadros.py` de 15/10, que hoje só olha imagem e legenda.",
+   "confianca": "forte (3 vídeos, 7 pontos, mesma família).",
+   "status": "aguardando",
+   "simples": "Antes de você ver um vídeo pronto, um conferidor escuta o som: se a música troca de uma vez, se alguma fala foi cortada no meio da palavra (como o \"to\" do seu \"exato\" no Onix) ou se uma frase do roteiro sumiu do áudio (como o peso do Onix na Pokédex), o vídeo volta pra edição antes de chegar em você."
   }
  ],
  "equipe": [
@@ -922,5 +930,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-15T18:43-03:00"
+ "gerado_em": "2026-10-16T00:34-03:00"
 }
