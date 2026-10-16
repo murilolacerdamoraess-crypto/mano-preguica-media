@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T21:22:06.625200-03:00",
+ "gerado_em": "2026-10-16T01:45:38.760699-03:00",
  "mes": {
   "postados": 17,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 2,
    "ultimo_post": "2026-10-14",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -33,34 +33,34 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 5,
    "ultimo_post": "2026-10-15",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "J6XFb909Tg4",
      "titulo": "Esse jogo mandou fita cassete pelo correio e ninguém entendia por quê #shorts",
-     "quando": "2026-10-15T21:30:00-03:00"
+     "quando": "2026-10-16T21:30:00-03:00"
     },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-16T21:30:00-03:00"
+     "quando": "2026-10-17T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-17T21:30:00-03:00"
+     "quando": "2026-10-18T21:30:00-03:00"
     },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O Blanka do Street Fighter era pra ser um africano criado por um leão",
-     "quando": "2026-10-18T21:30:00-03:00"
+     "quando": "2026-10-19T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-19T21:30:00-03:00"
+     "quando": "2026-10-20T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -84,7 +84,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 25,
    "ultimo_post": "2026-10-14",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
@@ -92,6 +92,11 @@
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
      "quando": "2026-10-22T20:00:00-03:00"
+    },
+    {
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
+     "quando": "2026-10-29T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
