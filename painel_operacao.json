@@ -163,11 +163,11 @@
   },
   {
    "id": "R21",
-   "titulo": "O gancho de todo roteiro é uma promessa grande, em tom de manchete: diz nos primeiros segundos o que a pessoa ganha se ficar até o fim, e o roteiro traz no topo as 3 versões que o agente testou antes de escolher.",
-   "onde": "skill shorts-roteirista (seção \"O gancho pergunta, o fim responde\"), roles da Tarrafa e do Arpão (shorts.md), do Farol (abertura do longo) e do Sonar (o título sugerido e o ângulo da pauta).",
-   "confianca": "forte no pedido dele (4 roteiros, 4 jogos); fraca no dado da fruta (1 vídeo).",
+   "titulo": "Antes de ir pro Decidir, toda pauta, roteiro e título passa pelo teste do gancho: o conceito grande no título, uma promessa que só o fim entrega, a primeira frase no momento mais forte, o ângulo certo e três títulos diferentes de verdade.",
+   "onde": "o teste já está escrito em `conhecimentos/gancho-titulo-angulo-licao-16-10.md` e já entrou nas instruções de um dos agentes de Shorts em 16/10, sem passar pelo Decidir. A regra estende o teste, com o seu OK, a quem escreve pauta (Sonar), roteiro de Short (Arpão e Tarrafa), roteiro de longo (Farol) e título (Anzol), e a skill shorts-roteirista.",
+   "confianca": "forte no pedido dele (4 roteiros, 4 assuntos, no mesmo dia); fraca no dado da fruta (1 vídeo).",
    "status": "aguardando",
-   "simples": "Todo roteiro abre prometendo algo grande, do jeito que você escreveu na vampira (\"a criação desse personagem foi desastrosa e agora a Capcom paga o preço por isso\"), em vez de abrir num fato solto como a altura dela. Antes de mandar, o agente escreve 3 ganchos nesse tom, escolhe o mais forte e deixa os 3 no topo, pra você ver que ele testou."
+   "simples": "Todo roteiro e toda pauta chegam com o título no assunto grande (\"Inventaram o UFC contra robôs\", e não \"o robô tinha um piloto\") e com um gancho que promete algo que só o fim entrega, do jeito que você escreveu na vampira (\"a criação desse personagem foi desastrosa e agora a Capcom paga o preço\"). Esse teste já foi escrito hoje e um dos agentes de Shorts já usa; com o seu OK, ele passa a valer pra todo mundo que escreve pauta, roteiro e título."
   }
  ],
  "equipe": [
@@ -267,9 +267,9 @@
   },
   {
    "id": "P35",
-   "titulo": "O Nemesis de Resident Evil foi criado pra caçar só um grupo de pessoas",
+   "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "O Nemesis de Resident Evil foi criado pra caçar só um grupo de pessoas",
+   "gancho": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "por_que_agora": "filme e Halloween.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
@@ -279,9 +279,9 @@
   },
   {
    "id": "P36",
-   "titulo": "No Zelda você entra na barriga de um peixe gigante e descobre o que estava deixando ele doente",
+   "titulo": "O vilão do Zelda amaldiçoou um peixe gigante, e você descobre o que ele engoliu",
    "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "No Zelda você entra na barriga de um peixe gigante e descobre o que estava deixando ele doente",
+   "gancho": "O vilão do Zelda amaldiçoou um peixe gigante, e você descobre o que ele engoliu",
    "por_que_agora": "semana do lançamento do remake (05/11).",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
@@ -291,9 +291,9 @@
   },
   {
    "id": "P37",
-   "titulo": "Você ouve o Ghast no Minecraft há anos e nunca soube de onde vem esse grito",
+   "titulo": "Você ouve esse grito no Minecraft há anos, e ele não veio de nenhum monstro",
    "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "Você ouve o Ghast no Minecraft há anos e nunca soube de onde vem esse grito",
+   "gancho": "Você ouve esse grito no Minecraft há anos, e ele não veio de nenhum monstro",
    "por_que_agora": "atemporal; é a tentativa \"você não sabia\" do tema.",
    "formato": "Short 30s narrado, com o som do Ghast tocando",
    "concorrencia": "",
@@ -302,34 +302,10 @@
    "pendente": ""
   },
   {
-   "id": "P38",
-   "titulo": "Em Resident Evil infectaram um tubarão-branco de propósito",
-   "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "Em Resident Evil infectaram um tubarão-branco de propósito",
-   "por_que_agora": "Halloween e filme.",
-   "formato": "Short 30-45s narrado",
-   "concorrencia": "",
-   "status": "livre",
-   "frente": "",
-   "pendente": ""
-  },
-  {
-   "id": "P39",
-   "titulo": "O Enderman fala ao contrário? Nem o Minecraft se decide",
-   "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "O Enderman fala ao contrário? Nem o Minecraft se decide",
-   "por_que_agora": "atemporal; terceira tentativa do tema.",
-   "formato": "Short 30-45s narrado, com o som invertido",
-   "concorrencia": "",
-   "status": "livre",
-   "frente": "",
-   "pendente": ""
-  },
-  {
    "id": "P40",
-   "titulo": "Subnautica, Raft ou Sea of Thieves: qual jogo de monstro marinho mais gente já jogou ao mesmo tempo?",
+   "titulo": "O Subnautica perdeu pra um jogo de tubarão, até o Subnautica 2 chegar e passar todo mundo",
    "rodada": "Teste de bolha (TikTok) 14/10/2026 (Sonar): 3 temas fora do Subnautica, 3 tentativas cada, mais 1 ranking",
-   "gancho": "Subnautica, Raft ou Sea of Thieves: qual jogo de monstro marinho mais gente já jogou ao mesmo tempo?",
+   "gancho": "O Subnautica perdeu pra um jogo de tubarão, até o Subnautica 2 chegar e passar todo mundo",
    "por_que_agora": "",
    "formato": "Short de ranking (corrida de dados ou contagem), 30-45s",
    "concorrencia": "",
@@ -339,9 +315,9 @@
   },
   {
    "id": "P26",
-   "titulo": "Os aliens de Subnautica 2 sequestraram um sobrevivente, e a equipe dele perguntou se dava pra esperar ele morrer",
+   "titulo": "Os aliens de Subnautica 2 levaram um sobrevivente, e o que fizeram depois ninguém explica",
    "rodada": "Rotina de segunda 05/10/2026 (Sonar): radar de hype, 5 pautas",
-   "gancho": "Os aliens de Subnautica 2 sequestraram um sobrevivente, e a equipe dele perguntou se dava pra esperar ele morrer",
+   "gancho": "Os aliens de Subnautica 2 levaram um sobrevivente, e o que fizeram depois ninguém explica",
    "por_que_agora": "a próxima grande atualização do Subnautica 2 vem ainda este ano, e história de Subnautica 2 quase não tem vídeo em português.",
    "formato": "Short 60-90s",
    "concorrencia": "",
@@ -673,16 +649,16 @@
   },
   {
    "tipo": "Short",
-   "titulo": "O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele",
-   "etapa": "roteiro (aguardando aprovação: o Warden te acha pelo cheiro mesmo agachado, teste de fora do Subnautica no TikTok, semana 2; narrado, uns 2 minutos)",
+   "titulo": "A Mojang criou um monstro no Minecraft que não é pra você matar",
+   "etapa": "roteiro (versão 2 aguardando aprovação: refeita pelo teste do gancho de 16/10; abre em você agachado e ele vindo mesmo cego, e fecha na frase do designer de que ele é um tornado e você foge; teste de fora do Subnautica no TikTok; uns 2 minutos)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "O templo mais assustador do Zelda tem um passado que a família real esconde",
-   "etapa": "roteiro (aguardando aprovação: o Templo das Sombras era onde os protetores da família real interrogavam os inimigos, teste de fora do Subnautica no TikTok, semana 2; narrado, perto de 1min47; precisa estar no ar antes do remake sair em 05/11)",
+   "titulo": "Tem uma sala de tortura no Zelda que a família real é proibida de comentar",
+   "etapa": "roteiro (versão 2 aguardando aprovação: refeita pelo teste do gancho de 16/10; abre no jogo avisando na entrada que ali está a história sangrenta de Hyrule, e só no fim diz quem fazia aquilo; perto de 1min47; precisa estar no ar antes do remake sair em 05/11)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "05/11"
@@ -777,8 +753,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara entrou numa jaula pra lutar contra um robô, só que o robô tinha um piloto",
-   "etapa": "roteiro (aguardando aprovação: a luta que viralizou como humano contra máquina, e o detalhe de que uma pessoa de óculos de realidade virtual controlava o robô, igual num videogame)",
+   "titulo": "Gigantes de Aço está cada vez mais perto de virar realidade",
+   "etapa": "roteiro (versão 2 aguardando aprovação: refeita com o que você pediu em 16/10; abre no chute que jogou ele pro outro lado da jaula, fala da empresa que quer fazer um UFC de robôs, e no fim mostra que o robô tinha um piloto e que os jogadores do simulador viraram pilotos de verdade)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -938,5 +914,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-16T08:19-03:00"
+ "gerado_em": "2026-10-16T08:25-03:00"
 }
