@@ -52,6 +52,10 @@
 {
 "t": 1792110207,
 "v": 203
+},
+{
+"t": 1792134671,
+"v": 203
 }
 ],
 "views": 203
@@ -213,6 +217,10 @@
 {
 "t": 1792110207,
 "v": 431
+},
+{
+"t": 1792134671,
+"v": 431
 }
 ],
 "views": 431
@@ -257,7 +265,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 945
+"views": 946
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -287,13 +295,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 897
+"views": 898
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 7456
+"views": 7467
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -500,9 +508,13 @@
 {
 "t": 1792125031,
 "v": 1678
+},
+{
+"t": 1792134671,
+"v": 1682
 }
 ],
-"views": 1678
+"views": 1682
 }
 }
 }
