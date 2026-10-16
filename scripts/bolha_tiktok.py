@@ -53,7 +53,7 @@ def ler_perfil(n=40):
         if not e.get("timestamp"):
             continue
         posts.append({"id": str(e["id"]), "ts": int(e["timestamp"]), "titulo": (e.get("title") or "").strip(),
-                      "views": int(e.get("view_count") or 0), "likes": int(e.get("like_count") or 0),
+                      "views": (int(e["view_count"]) if e.get("view_count") is not None else None), "likes": int(e.get("like_count") or 0),
                       "comentarios": int(e.get("comment_count") or 0), "salvos": int(e.get("save_count") or 0),
                       "compart": int(e.get("repost_count") or 0)})
     return posts
@@ -123,6 +123,12 @@ def main():
 
     for p in posts:
         reg = banco["posts"].setdefault(p["id"], {"titulo": p["titulo"], "ts": p["ts"], "fotos": []})
+        # Leitura falha (16/10/2026): o yt-dlp às vezes devolve o post sem view_count, ou com 0 num post que já tinha
+        # milhares (a lava foi de 35.500 a 0). Isso derrubou a régua de 702 pra 133. Leitura sem número, ou 0 depois de
+        # um valor positivo, não vira foto: o post fica com o último número bom.
+        if p["views"] is None or (p["views"] == 0 and reg.get("views", 0) > 0):
+            p["views"] = reg.get("views") or 0
+            continue
         reg["views"] = p["views"]
         if agora - p["ts"] <= SEGUIR or p["id"] in {str(t.get("tiktok_id")) for te in cfg["temas"] for t in te["tentativas"]}:
             if not reg["fotos"] or reg["fotos"][-1]["v"] != p["views"] or agora - reg["fotos"][-1]["t"] > 6 * H:
