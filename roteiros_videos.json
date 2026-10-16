@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T19:34:47.156169Z",
+ "gerado_em": "2026-10-16T03:42:05.947501Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -317,14 +317,14 @@
    "arquivo": "short-onix-tamanho-real-impresso.md",
    "name": "SHORT - Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
-   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 5, 14/10, a jornada no lugar dos haters, critério C47). O criador francês do canal Entroisdimensions começou imprimindo Pokémon pequeno",
-   "status": "roteiro aprovado (versão 5 de 14/10, só a narrativa mudou, a pedido do Murilo depois de ver o vídeo pronto da v4; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-14 (conferir_fontes.py e checar_fluidez.py, versão 5)",
+   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 6, 16/10: sem a curiosidade da caverna e sem a lição de moral no fim, que agora fecha no Onix gigante que mal cabe no estúdio; versão 5",
+   "status": "roteiro aprovado (versão 6 de 16/10, com o texto que o Murilo aprovou no chat depois do react do vídeo #15; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-16 (conferir_fontes.py e checar_fluidez.py com a R17, versão 6)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "5"
+   "versao": "6"
   },
   {
    "arquivo": "short-pokebola-subnautica-leviata.md",
@@ -460,14 +460,14 @@
    "arquivo": "short-subnautica-10km-coral-ar.md",
    "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
-   "description": "Short de uns 2min20 (versão 3, 11/10: textos do react do Murilo, a base montada perto da cápsula de fuga dita com todas as letras e sem conectivo repetido; pauta P23 do Sonar). O The Last Bacon tenta zerar Subnautica com",
-   "status": "roteiro aprovado (versão 3 de 11/10, com os textos que o Murilo ditou no react e a base no lugar certo; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 3)",
+   "description": "Short de uns 2min20 (versão 4, 16/10: os textos que o Murilo aprovou no chat depois do react do vídeo #14; versão 3, 11/10: textos do react do Murilo, a base montada perto da cápsula de fuga dita com todas as letras e se",
+   "status": "roteiro aprovado (versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-16 (conferir_fontes.py e checar_fluidez.py com a R17, versão 4)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "4"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
