@@ -1,42 +1,165 @@
 {
- "_leia": "Experimento 'furar a bolha' no TikTok do canal principal (pedido do Murilo, 14/10/2026). Lista dos testes por tema. O scripts/bolha_tiktok.py acha cada post no perfil pelo tiktok_id ou, sem ele, pelas palavras do título (cada item de 'palavras' é um grupo: todas as palavras do grupo têm que estar no título do TikTok, sem acento, em minúsculas), só entre os posts publicados a partir de 'desde'. Quem publica pode preencher o tiktok_id na mão. Temas e pautas: Sonar (quadro backlog-de-pautas, P31 a P40). Placar: Sextante.",
- "desde": "2026-10-13",
- "furou": 5000,
- "temas": [
-  {
-   "tema": "Resident Evil",
-   "por_que": "filme em cartaz desde 18/09 (o maior da série) e o jogo novo se passa em outubro de 2026",
-   "tentativas": [
-    {"pauta": "P31", "titulo": "A vampira de Resident Evil tem 2,9 metros, e a Capcom teve que diminuir ela", "palavras": [["dimitrescu"], ["vampira", "resident"]]},
-    {"pauta": "P35", "titulo": "O Nemesis de Resident Evil foi criado pra caçar só um grupo de pessoas", "palavras": [["nemesis"]]},
-    {"pauta": "P38", "titulo": "Em Resident Evil infectaram um tubarão-branco de propósito", "palavras": [["tubarao", "resident"]]}
-   ]
-  },
-  {
-   "tema": "Zelda Ocarina of Time",
-   "por_que": "o remake sai em 05/11",
-   "tentativas": [
-    {"pauta": "P32", "titulo": "Tem um jeito de passar do lado do monstro mais assustador do Zelda sem ele te pegar", "palavras": [["redead"], ["zelda", "assustador", "passar"]]},
-    {"pauta": "P34", "titulo": "O templo mais assustador do Zelda tem um passado que a família real esconde", "palavras": [["templo", "zelda"], ["templo", "sombras"]]},
-    {"pauta": "P36", "titulo": "No Zelda você entra na barriga de um peixe gigante e descobre o que estava deixando ele doente", "palavras": [["jabu"], ["zelda", "peixe"], ["zelda", "barriga"]]}
-   ]
-  },
-  {
-   "tema": "Minecraft",
-   "por_que": "o jogo que mais gente da idade do público joga",
-   "tentativas": [
-    {"pauta": "P33", "titulo": "O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele", "palavras": [["warden"], ["minecraft", "cego"]]},
-    {"pauta": "P37", "titulo": "Você ouve o Ghast no Minecraft há anos e nunca soube de onde vem esse grito", "palavras": [["ghast"]]},
-    {"pauta": "P39", "titulo": "O Enderman fala ao contrário? Nem o Minecraft se decide", "palavras": [["enderman"]]}
-   ]
-  },
-  {
-   "tema": "Rankings com gancho",
-   "por_que": "o Murilo deu mais uma chance pros rankings, agora com gancho (o primeiro, sem gancho de monstro, é o ponto de partida)",
-   "tentativas": [
-    {"pauta": "ranking 13/10", "titulo": "Os jogos de terror mais jogados da Steam de 2015 até hoje", "tiktok_id": "7696260761991105800"},
-    {"pauta": "P40", "titulo": "Subnautica, Raft ou Sea of Thieves: qual jogo de monstro marinho mais gente já jogou ao mesmo tempo?", "palavras": [["marinho"], ["raft", "thieves"]]}
-   ]
-  }
- ]
+  "_leia": "Experimento 'furar a bolha' no TikTok do canal principal (pedido do Murilo, 14/10/2026). Lista dos testes por tema. O scripts/bolha_tiktok.py acha cada post no perfil pelo tiktok_id ou, sem ele, pelas palavras do título (cada item de 'palavras' é um grupo: todas as palavras do grupo têm que estar no título do TikTok, sem acento, em minúsculas), só entre os posts publicados a partir de 'desde'. Quem publica pode preencher o tiktok_id na mão. Temas e pautas: Sonar (quadro backlog-de-pautas, P31 a P40). Placar: Sextante.",
+  "desde": "2026-10-13",
+  "furou": 5000,
+  "temas": [
+    {
+      "tema": "Resident Evil",
+      "por_que": "filme em cartaz desde 18/09 (o maior da série) e o jogo novo se passa em outubro de 2026",
+      "tentativas": [
+        {
+          "pauta": "P31",
+          "titulo": "A criação dessa vilã de Resident Evil deu errado, e a Capcom pagou o preço",
+          "palavras": [
+            [
+              "dimitrescu"
+            ],
+            [
+              "vampira",
+              "resident"
+            ],
+            [
+              "vila",
+              "resident"
+            ],
+            [
+              "capcom",
+              "preco"
+            ]
+          ]
+        },
+        {
+          "pauta": "P35",
+          "titulo": "O Nemesis de Resident Evil foi criado pra caçar só um grupo de pessoas",
+          "palavras": [
+            [
+              "nemesis"
+            ]
+          ]
+        },
+        {
+          "pauta": "P38",
+          "titulo": "Em Resident Evil infectaram um tubarão-branco de propósito",
+          "palavras": [
+            [
+              "tubarao",
+              "resident"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "tema": "Zelda Ocarina of Time",
+      "por_que": "o remake sai em 05/11",
+      "tentativas": [
+        {
+          "pauta": "P32",
+          "titulo": "Tem um jeito de passar do lado do monstro mais assustador do Zelda sem ele te pegar",
+          "palavras": [
+            [
+              "redead"
+            ],
+            [
+              "zelda",
+              "assustador",
+              "passar"
+            ]
+          ]
+        },
+        {
+          "pauta": "P34",
+          "titulo": "O templo mais assustador do Zelda tem um passado que a família real esconde",
+          "palavras": [
+            [
+              "templo",
+              "zelda"
+            ],
+            [
+              "templo",
+              "sombras"
+            ]
+          ]
+        },
+        {
+          "pauta": "P36",
+          "titulo": "No Zelda você entra na barriga de um peixe gigante e descobre o que estava deixando ele doente",
+          "palavras": [
+            [
+              "jabu"
+            ],
+            [
+              "zelda",
+              "peixe"
+            ],
+            [
+              "zelda",
+              "barriga"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "tema": "Minecraft",
+      "por_que": "o jogo que mais gente da idade do público joga",
+      "tentativas": [
+        {
+          "pauta": "P33",
+          "titulo": "O monstro do Minecraft com 500 de vida é cego, e mesmo agachado você não escapa dele",
+          "palavras": [
+            [
+              "warden"
+            ],
+            [
+              "minecraft",
+              "cego"
+            ]
+          ]
+        },
+        {
+          "pauta": "P37",
+          "titulo": "Você ouve o Ghast no Minecraft há anos e nunca soube de onde vem esse grito",
+          "palavras": [
+            [
+              "ghast"
+            ]
+          ]
+        },
+        {
+          "pauta": "P39",
+          "titulo": "O Enderman fala ao contrário? Nem o Minecraft se decide",
+          "palavras": [
+            [
+              "enderman"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "tema": "Rankings com gancho",
+      "por_que": "o Murilo deu mais uma chance pros rankings, agora com gancho (o primeiro, sem gancho de monstro, é o ponto de partida)",
+      "tentativas": [
+        {
+          "pauta": "ranking 13/10",
+          "titulo": "Os jogos de terror mais jogados da Steam de 2015 até hoje",
+          "tiktok_id": "7696260761991105800"
+        },
+        {
+          "pauta": "P40",
+          "titulo": "Subnautica, Raft ou Sea of Thieves: qual jogo de monstro marinho mais gente já jogou ao mesmo tempo?",
+          "palavras": [
+            [
+              "marinho"
+            ],
+            [
+              "raft",
+              "thieves"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
 }
