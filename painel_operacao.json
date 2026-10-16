@@ -160,6 +160,14 @@
    "confianca": "forte (3 vídeos, 7 pontos, mesma família).",
    "status": "aguardando",
    "simples": "Antes de você ver um vídeo pronto, um conferidor escuta o som: se a música troca de uma vez, se alguma fala foi cortada no meio da palavra (como o \"to\" do seu \"exato\" no Onix) ou se uma frase do roteiro sumiu do áudio (como o peso do Onix na Pokédex), o vídeo volta pra edição antes de chegar em você."
+  },
+  {
+   "id": "R21",
+   "titulo": "O gancho de todo roteiro é uma promessa grande, em tom de manchete: diz nos primeiros segundos o que a pessoa ganha se ficar até o fim, e o roteiro traz no topo as 3 versões que o agente testou antes de escolher.",
+   "onde": "skill shorts-roteirista (seção \"O gancho pergunta, o fim responde\"), roles da Tarrafa e do Arpão (shorts.md), do Farol (abertura do longo) e do Sonar (o título sugerido e o ângulo da pauta).",
+   "confianca": "forte no pedido dele (4 roteiros, 4 jogos); fraca no dado da fruta (1 vídeo).",
+   "status": "aguardando",
+   "simples": "Todo roteiro abre prometendo algo grande, do jeito que você escreveu na vampira (\"a criação desse personagem foi desastrosa e agora a Capcom paga o preço por isso\"), em vez de abrir num fato solto como a altura dela. Antes de mandar, o agente escreve 3 ganchos nesse tom, escolhe o mais forte e deixa os 3 no topo, pra você ver que ele testou."
   }
  ],
  "equipe": [
@@ -930,5 +938,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-16T01:30-03:00"
+ "gerado_em": "2026-10-16T08:19-03:00"
 }
