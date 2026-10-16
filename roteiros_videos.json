@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16T11:25:11.439686Z",
+ "gerado_em": "2026-10-16T11:30:13.016655Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -291,7 +291,7 @@
    "arquivo": "short-minecraft-dentro-do-skyrim.md",
    "name": "SHORT - Estão fundindo jogos com inteligência artificial",
    "titulo_roteiro": "SHORT: estão fundindo jogos com inteligência artificial",
-   "description": "Short de uns 100 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 2 (16/10), ângulo trocado pelo pedido do Murilo, a onda de jogos fundidos com IA. O chasm explodiu uma TNT do Minecraft no meio do Skyrim e ela ab",
+   "description": "Short de uns 115 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 2 (16/10), ângulo trocado pelo pedido do Murilo, a onda de jogos fundidos com IA. O chasm explodiu uma TNT do Minecraft no meio do Skyrim e ela ab",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-16 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
@@ -328,16 +328,16 @@
   },
   {
    "arquivo": "short-pokebola-subnautica-leviata.md",
-   "name": "SHORT - Esse cara colocou Pokébola no Subnautica pra ver se pegava um leviatã",
-   "titulo_roteiro": "SHORT: a Pokébola no Subnautica e o leviatã",
-   "description": "Short de uns 100 segundos (pauta P17 do Sonar, aprovada em 04/10). O artista 3D Daniel Krafft põe uma Pokébola que captura de verdade no Subnautica; a bola não aparece, vira cubo preto, some junto com o Gasopod, prende u",
+   "name": "SHORT - Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
+   "titulo_roteiro": "SHORT: o Pokémon no Subnautica",
+   "description": "Short de uns 2 minutos e 30 (pauta P17 do Sonar, aprovada em 04/10). Versão 2 (16/10), gancho e ângulo refeitos pelo pedido do Murilo: a jornada (R19). O artista 3D Daniel Krafft já tinha um mod de Subnautica e aceitou i",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-16 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
@@ -384,12 +384,12 @@
    "titulo_roteiro": "SHORT: o ReDead e o jeito de passar do lado dele",
    "description": "Short de uns 100 segundos pro teste de bolha no TikTok (pauta P32 do Sonar, 14/10, tema Zelda, tentativa 1 de 3). O ReDead do Ocarina of Time paralisa o Link com o olhar e morde até tirar a vida; quando um morre os outro",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-14 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-16 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-rematch-egoista-gol-de-ouro.md",
