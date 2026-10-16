@@ -123,9 +123,13 @@
 {
 "t": 1792102943,
 "v": 35000
+},
+{
+"t": 1792117467,
+"v": 35100
 }
 ],
-"views": 35000
+"views": 35100
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -157,6 +161,10 @@
 },
 {
 "t": 1792095327,
+"v": 132
+},
+{
+"t": 1792117467,
 "v": 132
 }
 ],
@@ -209,7 +217,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1738
+"views": 1740
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -245,7 +253,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 944
+"views": 945
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -257,7 +265,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 85000
+"views": 85100
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -275,13 +283,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 896
+"views": 897
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 7439
+"views": 7452
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -299,19 +307,19 @@
 "titulo": "agora dá pra caçar QUALQUER monstro em Subnautica 2 🔫 #subnautica #su...",
 "ts": 1787346108,
 "fotos": [],
-"views": 3850
+"views": 3851
 },
 "7675850705399188753": {
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3059
+"views": 3062
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
 "ts": 1787000500,
 "fotos": [],
-"views": 2206
+"views": 2207
 },
 "7673995557148298514": {
 "titulo": "Sam Ayou: vítima ou vilã? você decide 🤔 #subnautica #subnautica2 #gam...",
@@ -480,9 +488,13 @@
 {
 "t": 1792110207,
 "v": 1662
+},
+{
+"t": 1792117467,
+"v": 1670
 }
 ],
-"views": 1662
+"views": 1670
 }
 }
 }
