@@ -23,6 +23,8 @@ def load(path, default):
     except Exception: return default
 
 def telegram(msg):
+    if os.path.exists(os.path.expanduser("~/.canal-agente/telegram-pausado")) or os.environ.get("TELEGRAM_PAUSADO") == "1":
+        return  # Telegram pausado (Murilo, 17/10/2026: os avisos viraram ruído)
     if not (TG_TOKEN and TG_CHAT):
         print("(sem TG creds) " + msg); return
     data = urllib.parse.urlencode({"chat_id": TG_CHAT, "text": msg}).encode()

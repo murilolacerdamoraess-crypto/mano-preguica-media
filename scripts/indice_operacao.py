@@ -236,6 +236,8 @@ def avisar_telegram(seco=False):
     /api/decidir, que grava no mesmo registro do painel. Bot: @RotinaOS_bot (só sendMessage, não
     briga com o webhook do RotinaOS). Credenciais em ~/.rotina-os/rotina-os.env (cópia no cérebro:
     projetos/rotina-os/acessos/credenciais.md)."""
+    if os.path.exists(os.path.expanduser("~/.canal-agente/telegram-pausado")) or os.environ.get("TELEGRAM_PAUSADO") == "1":
+        return  # Telegram pausado (Murilo, 17/10/2026: os avisos viraram ruído)
     import urllib.request, urllib.parse
     env = {}
     try:
@@ -408,6 +410,8 @@ def drive_id(caminho):
 
 
 def telegram_simples(texto):
+    if os.path.exists(os.path.expanduser("~/.canal-agente/telegram-pausado")) or os.environ.get("TELEGRAM_PAUSADO") == "1":
+        return  # Telegram pausado (Murilo, 17/10/2026: os avisos viraram ruído)
     import urllib.request, urllib.parse
     env = {}
     try:
