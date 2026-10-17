@@ -168,6 +168,14 @@
    "confianca": "forte no pedido dele (4 roteiros, 4 assuntos, no mesmo dia); fraca no dado da fruta (1 vídeo).",
    "status": "aplicada 2026-10-16 (Sonar já tinha, marcado R21; entrou nas instruções dos Shorts, do Farol e do Anzol; skill shorts-roteirista já tinha, marcada R21)",
    "simples": "Todo roteiro e toda pauta chegam com o título no assunto grande (\"Inventaram o UFC contra robôs\", e não \"o robô tinha um piloto\") e com um gancho que promete algo que só o fim entrega, do jeito que você escreveu na vampira (\"a criação desse personagem foi desastrosa e agora a Capcom paga o preço\"). Esse teste já foi escrito hoje e um dos agentes de Shorts já usa; com o seu OK, ele passa a valer pra todo mundo que escreve pauta, roteiro e título."
+  },
+  {
+   "id": "R22",
+   "titulo": "Toda pauta e todo roteiro de Short chegam com a previsão de 0 a 10 da anatomia dos hits, e o resultado de 24 h e 7 dias volta pra conferir a nota.",
+   "onde": "instruções do Sonar (pauta) e do Arpão e da Tarrafa (roteiro de Short), e a rotina do Sextante (o resultado e a recalibração a cada 10 Shorts). Régua em [[anatomia-dos-hits]].",
+   "confianca": "forte nos critérios 1 e 2 (7 de 7, e é a L1); fraca no 3 (5 de 7 contra 1 de 10, ainda poucos casos) e nos pesos (ajustados no próprio dado).",
+   "status": "aguardando",
+   "simples": "Toda pauta e todo roteiro de Short chegam com uma nota de 0 a 10 que diz se ele tem cara de hit, por exemplo \"Previsão: 8 (Subnautica, coisa apagada, título em dois tempos...)\", e depois que o vídeo sai a gente confere se a nota acertou. A cada 10 Shorts os pesos são ajustados pelo que deu certo de verdade."
   }
  ],
  "equipe": [
@@ -1018,5 +1026,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-17T11:38-03:00"
+ "gerado_em": "2026-10-17T12:14-03:00"
 }
