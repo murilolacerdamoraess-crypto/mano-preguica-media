@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-17T01:43:27.394876-03:00",
+ "gerado_em": "2026-10-17T11:30:22.154783-03:00",
  "mes": {
   "postados": 18,
   "teto": 93,
@@ -93,17 +93,21 @@
    "agendados": [],
    "previstos": [
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "video_id": "CZbwiBSKafE",
+     "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts",
      "quando": "2026-10-22T20:00:00-03:00"
     },
     {
-     "video_id": "X__XMvu7l6I",
-     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
      "quando": "2026-10-29T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
+    {
+     "video_id": "CZbwiBSKafE",
+     "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts"
+    },
     {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
@@ -111,10 +115,6 @@
     {
      "video_id": "X__XMvu7l6I",
      "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
-    },
-    {
-     "video_id": "EcQSPXWiEE8",
-     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     }
    ]
   }
