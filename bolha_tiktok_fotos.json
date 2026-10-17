@@ -80,9 +80,13 @@
 {
 "t": 1792262210,
 "v": 213
+},
+{
+"t": 1792274468,
+"v": 215
 }
 ],
-"views": 213
+"views": 215
 },
 "7695921552239447304": {
 "titulo": "subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #...",
@@ -195,9 +199,13 @@
 {
 "t": 1792245338,
 "v": 36200
+},
+{
+"t": 1792274468,
+"v": 36300
 }
 ],
-"views": 36200
+"views": 36300
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -303,7 +311,7 @@
 "v": 431
 }
 ],
-"views": 440
+"views": 443
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -345,7 +353,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 951
+"views": 953
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -357,7 +365,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 85800
+"views": 85900
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -375,13 +383,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 943
+"views": 947
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 7816
+"views": 7848
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -483,7 +491,7 @@
 "titulo": "Speed quase causa um acidente com essa brincadeira 🩼 #subnautica #gam...",
 "ts": 1784678514,
 "fotos": [],
-"views": 7742
+"views": 7743
 },
 "7664022581409893652": {
 "titulo": "existe um item escondido nesse cemitério do subnautica 🕯️",
@@ -507,7 +515,7 @@
 "titulo": "ENFRENTEI o GARGANTUAN LEVIATÃ com um SUBMARINO MILITAR! Será que que...",
 "ts": 1784066519,
 "fotos": [],
-"views": 617
+"views": 618
 },
 "7655811177863253256": {
 "titulo": "QUE CRIATURA FAZ ESSE BARULHO NA VOID? 😰 #Subnautica #curiosidades #g...",
@@ -648,9 +656,24 @@
 {
 "t": 1792262210,
 "v": 1929
+},
+{
+"t": 1792274468,
+"v": 1963
 }
 ],
-"views": 1929
+"views": 1963
+},
+"7697745159374572816": {
+"titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
+"ts": 1792270959,
+"fotos": [
+{
+"t": 1792274468,
+"v": 143
+}
+],
+"views": 143
 }
 }
 }
