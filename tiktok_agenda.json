@@ -114,6 +114,14 @@
    "titulo": "essa fruta de subnautica 2 é um bicho que faz filhotes dentro da sua barriga",
    "metricool_id": 379126399,
    "status": "agendado"
+  },
+  {
+   "video_id": "CZbwiBSKafE",
+   "quando": "2026-10-17T18:00:00-03:00",
+   "titulo": "ele afundou o subnautica 10 mil metros e achou uma mensagem de outro jogador",
+   "metricool_id": 398548981,
+   "status": "agendado",
+   "nota": "exceção aos 7 dias (41 mil em 15 h), OK do Murilo 17/10"
   }
  ]
 }
