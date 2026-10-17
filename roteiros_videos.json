@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16T11:30:13.016655Z",
+ "gerado_em": "2026-10-17T14:37:32.073226Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -247,6 +247,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": null
+  },
+  {
+   "arquivo": "short-fliperama-minecraft-hardcore.md",
+   "name": "SHORT - Ele construiu um fliperama dentro do Minecraft hardcore, e quase perdeu o mundo no Tetris",
+   "titulo_roteiro": "SHORT: o fliperama dentro do Minecraft hardcore",
+   "description": "Short do canal principal (pauta P44 do Sonar, pedida pelo Murilo em 17/10). O Farzy construiu o maior fliperama que funciona dentro do seu mundo de Minecraft hardcore, onde não dá pra renascer. Cada jogo virou uma sala d",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-17; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Farzy)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-lady-dimitrescu-altura.md",
