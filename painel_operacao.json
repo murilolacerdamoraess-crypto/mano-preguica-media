@@ -174,7 +174,7 @@
    "titulo": "Toda pauta e todo roteiro de Short chegam com a previsão de 0 a 10 da anatomia dos hits, e o resultado de 24 h e 7 dias volta pra conferir a nota.",
    "onde": "instruções do Sonar (pauta) e do Arpão e da Tarrafa (roteiro de Short), e a rotina do Sextante (o resultado e a recalibração a cada 10 Shorts). Régua em [[anatomia-dos-hits]].",
    "confianca": "forte nos critérios 1 e 2 (7 de 7, e é a L1); fraca no 3 (5 de 7 contra 1 de 10, ainda poucos casos) e nos pesos (ajustados no próprio dado).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-17 (instruções do Sonar e dos Shorts, Arpão e Tarrafa; item 4b-f do Sextante; skill shorts-roteirista). Farol fica de fora: a régua foi medida só em Shorts, e longo tem outra régua (C9).",
    "simples": "Toda pauta e todo roteiro de Short chegam com uma nota de 0 a 10 que diz se ele tem cara de hit, por exemplo \"Previsão: 8 (Subnautica, coisa apagada, título em dois tempos...)\", e depois que o vídeo sai a gente confere se a nota acertou. A cada 10 Shorts os pesos são ajustados pelo que deu certo de verdade."
   }
  ],
@@ -1026,5 +1026,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-17T12:14-03:00"
+ "gerado_em": "2026-10-17T12:29-03:00"
 }
