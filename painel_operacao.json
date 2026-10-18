@@ -1020,6 +1020,30 @@
    "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
   },
   {
+   "tipo": "Short",
+   "titulo": "Ele inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "etapa": "roteiro (aguardando aprovação: a base inundada faz o jogo somar andar e nadar, ele inunda na hora cortando os cogumelos ácidos, perde a primeira tentativa e decola com a Aurora de pé; uns 2 minutos, voz sua; precisa sair antes do longo de 04/11)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
+   "etapa": "roteiro (aguardando aprovação: o extintor empurra pro lado contrário, ele dispara em rajadas e cada extintor rende uns 300 metros; sem a cadeira e sem o foguete na água, que ficam pro longo; perto de 1min45, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele começou o Subnautica no fundo do Void, onde o ar acaba 5 vezes mais rápido",
+   "etapa": "roteiro (aguardando aprovação: a subida de 700 metros com 7 tanques usados até a tela escurecer, e a Aurora mostrando o caminho no fim; uns 2 minutos, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "Tarefa",
    "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
    "etapa": "publicado",
@@ -1150,5 +1174,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T17:54-03:00"
+ "gerado_em": "2026-10-18T17:56-03:00"
 }
