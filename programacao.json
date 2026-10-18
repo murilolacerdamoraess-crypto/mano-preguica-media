@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-17T11:30:22.154783-03:00",
+ "gerado_em": "2026-10-17T21:25:09.572236-03:00",
  "mes": {
-  "postados": 18,
+  "postados": 19,
   "teto": 93,
-  "folga": 75
+  "folga": 74
  },
  "redes": {
   "tiktok": {
@@ -11,8 +11,8 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
-   "ultimo_post": "2026-10-14",
-   "dias_parado": 3,
+   "ultimo_post": "2026-10-17",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -35,43 +35,34 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 5,
-   "ultimo_post": "2026-10-16",
-   "dias_parado": 1,
+   "na_fila": 4,
+   "ultimo_post": "2026-10-17",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "CZbwiBSKafE",
-     "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts",
-     "quando": "2026-10-17T21:30:00-03:00"
-    },
-    {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts",
-     "quando": "2026-10-18T21:30:00-03:00"
+     "quando": "2026-10-17T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-19T21:30:00-03:00"
+     "quando": "2026-10-18T21:30:00-03:00"
     },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
-     "quando": "2026-10-20T21:30:00-03:00"
+     "quando": "2026-10-19T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-21T21:30:00-03:00"
+     "quando": "2026-10-20T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "CZbwiBSKafE",
-     "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts"
-    },
     {
      "video_id": "bSA49omtoY4",
      "titulo": "Esse NPC do World of Warcraft tem a voz de um menino que já morreu #shorts"
@@ -79,6 +70,10 @@
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts"
+    },
+    {
+     "video_id": "KjX2UtWiO7A",
+     "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka"
     }
    ]
   },
