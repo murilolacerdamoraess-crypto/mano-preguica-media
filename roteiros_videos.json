@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:54:25.977367Z",
+ "gerado_em": "2026-10-18T20:56:34.907992Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -559,6 +559,32 @@
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-traje-fnaf-springlock.md",
+   "name": "SHORT - Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "titulo_roteiro": "SHORT: o traje de FNAF que fecha em quem veste",
+   "description": "Short de uns 2 minutos e 40 (pauta P41 do Sonar, 18/10, família \"impossível com as próprias mãos\", Halloween). O JLaservideo já tinha um traje de aranha que aperta sozinho e, de tanto pedido dos fãs, passou meses constru",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-void-700-metros-subida.md",
+   "name": "SHORT - Ele começou o Subnautica no fundo do Void, onde o ar acaba 5 vezes mais rápido",
+   "titulo_roteiro": "SHORT: a subida de 700 metros no Void",
+   "description": "Short do canal principal (pauta P57 do Sonar, pedido de roteiro de 18/10). A Viscerface começou o Subnautica numa ilhinha que um mod pôs no meio do Void, a 700 m de profundidade, e pra fazer o resto do jogo precisava che",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
