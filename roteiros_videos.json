@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-17T14:37:32.073226Z",
+ "gerado_em": "2026-10-18T19:13:08.396028Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -473,14 +473,14 @@
    "arquivo": "short-subnautica-10km-coral-ar.md",
    "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
-   "description": "Short de uns 2min20 (versão 4, 16/10: os textos que o Murilo aprovou no chat depois do react do vídeo #14; versão 3, 11/10: textos do react do Murilo, a base montada perto da cápsula de fuga dita com todas as letras e se",
-   "status": "roteiro aprovado (versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-16 (conferir_fontes.py e checar_fluidez.py com a R17, versão 4)",
+   "description": "Short de uns 2min20 (versão 5, 18/10: o bloco 6 (a sacada) aberto pelo Murilo na hora de gravar, com a necessidade, a mecânica das bolhas e por que foi brilhante; versão 4, 16/10: os textos que o Murilo aprovou no chat d",
+   "status": "roteiro aprovado (versão 5 de 18/10, a fala gravada pelo Murilo; antes versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "gate": "versão 5 (18/10): fontes APROVADO (conferir_fontes.py, 35 de 35). Fluidez: R17 e R7 OK, mas 57% das frases ligadas à anterior (o mínimo é 60%), porque o bloco 6 novo é o texto que o Murilo ditou e já gravou. Fica assim, sem reescrever a fala dele; ele aprova vendo o vídeo (C39). Versão 4: fontes e fluidez APROVADOS 2026-10-16.",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "5"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
