@@ -830,7 +830,7 @@
   {
    "tipo": "Short",
    "titulo": "A Mojang criou um monstro no Minecraft que não é pra você matar",
-   "etapa": "roteiro (versão 2 aguardando aprovação: refeita pelo teste do gancho de 16/10; abre em você agachado e ele vindo mesmo cego, e fecha na frase do designer de que ele é um tornado e você foge; teste de fora do Subnautica no TikTok; uns 2 minutos)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, revisada pelas regras de 18/10; refeita pelo teste do gancho de 16/10; abre em você agachado e ele vindo mesmo cego, e fecha na frase do designer de que ele é um tornado e você foge; teste de fora do Subnautica no TikTok; uns 2 minutos)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -838,7 +838,7 @@
   {
    "tipo": "Short",
    "titulo": "Tem uma sala de tortura no Zelda que a família real é proibida de comentar",
-   "etapa": "roteiro (versão 2 aguardando aprovação: refeita pelo teste do gancho de 16/10; abre no jogo avisando na entrada que ali está a história sangrenta de Hyrule, e só no fim diz quem fazia aquilo; perto de 1min47; precisa estar no ar antes do remake sair em 05/11)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, revisada pelas regras de 18/10; refeita pelo teste do gancho de 16/10; abre no jogo avisando na entrada que ali está a história sangrenta de Hyrule, e só no fim diz quem fazia aquilo; perto de 1min47; precisa estar no ar antes do remake sair em 05/11)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "05/11"
@@ -886,7 +886,7 @@
   {
    "tipo": "Short",
    "titulo": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
-   "etapa": "roteiro (versão 2 pra aprovar: mesma história, com os fatos ligados um no outro; produto vai só na aba de compras; fontes conferidas)",
+   "etapa": "roteiro (versão 3 pra aprovar, revisada pelas regras de 18/10: o começo agora promete o que acontece quando você acerta a música, e o fim fecha; produto vai só na aba de compras; fontes conferidas)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -894,7 +894,7 @@
   {
    "tipo": "Short",
    "titulo": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
-   "etapa": "roteiro (aguardando aprovação; lançou em 01/10, a janela é outubro; fontes conferidas)",
+   "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo guarda o que tem dentro pro fim; lançou em 01/10, a janela é outubro; fontes conferidas)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -910,7 +910,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele construiu um fliperama dentro do Minecraft hardcore, e quase perdeu o mundo no Tetris",
-   "etapa": "roteiro (aguardando aprovação: a pauta que você pediu em 17/10; cada jogo do fliperama é uma sala no mesmo mundo de uma vida só, então morrer no joguinho era perder o mundo; no Tetris em cima de lava ele caiu e quase não pôs o totem na mão a tempo; passou dos quatro; perto de 2 minutos, voz sua)",
+   "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: cada perigo com o porquê; a pauta que você pediu em 17/10; cada jogo do fliperama é uma sala no mesmo mundo de uma vida só, então morrer no joguinho era perder o mundo; no Tetris em cima de lava ele caiu e quase não pôs o totem na mão a tempo; passou dos quatro; perto de 2 minutos, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -918,7 +918,7 @@
   {
    "tipo": "Short",
    "titulo": "Gigantes de Aço está cada vez mais perto de virar realidade",
-   "etapa": "roteiro (versão 2 aguardando aprovação: refeita com o que você pediu em 16/10; abre no chute que jogou ele pro outro lado da jaula, fala da empresa que quer fazer um UFC de robôs, e no fim mostra que o robô tinha um piloto e que os jogadores do simulador viraram pilotos de verdade)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, revisada pelas regras de 18/10; refeita com o que você pediu em 16/10; abre no chute que jogou ele pro outro lado da jaula, fala da empresa que quer fazer um UFC de robôs, e no fim mostra que o robô tinha um piloto e que os jogadores do simulador viraram pilotos de verdade)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -958,7 +958,7 @@
   {
    "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
-   "etapa": "roteiro (aguardando aprovação: o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
+   "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo promete quebrar sem perder o pote; o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
@@ -1094,5 +1094,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T17:37-03:00"
+ "gerado_em": "2026-10-18T17:42-03:00"
 }
