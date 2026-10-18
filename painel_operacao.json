@@ -854,7 +854,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-   "etapa": "agendado (seg 19/10 às 20h no canal principal, título trocado pelo Murilo em 12/10; link youtube.com/shorts/P_icjTz-RC8)",
+   "etapa": "agendado (qui 22/10 às 20h no canal principal, era seg 19/10 e o Murilo trocou com o sem comer em 18/10; título trocado por ele em 12/10; link youtube.com/shorts/P_icjTz-RC8)",
    "responsavel": "Publicação",
    "falta_murilo": "",
    "prazo": ""
@@ -870,7 +870,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica",
-   "etapa": "agendado (qui 22/10 às 20h no canal principal, trocado de 15/10 pelo Murilo em 15/10; link youtube.com/shorts/uPbMO5a3DLk)",
+   "etapa": "agendado (seg 19/10 às 20h no canal principal, era qui 22/10 e o Murilo trocou com os cartuchos em 18/10 pra aproveitar a onda de Subnautica do 10 mil metros; link youtube.com/shorts/uPbMO5a3DLk)",
    "responsavel": "Publicação",
    "falta_murilo": "",
    "prazo": ""
@@ -998,6 +998,22 @@
  ],
  "navegador": [
   {
+   "tipo": "18/10",
+   "titulo": "Vídeo relacionado em todos os Shorts do principal (60 dias + agendados), depois leitura do Shopping afiliado (28 d, 90 d, vida útil) (Claude Code, pedido do Murilo). EM ANDAMENTO, parado na trava do navegador desde 11h08 (erro de leitura meu; só o Murilo apaga). Feito até aqui: 10 mil metros `CZbwiBSKafE` já tinha relacionado (longo VOID DE RED PLAGUE); sem comer `uPbMO5a3DLk` já tem (HARDCORE #1).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[18/10] Trocar datas: sem comer pra seg 19/10 20h, cartuchos pra qui 22/10 20h~~ FEITO pelo próprio Murilo no Studio em 18/10; conferido pela API (publishAt 2026-10-19T23:00Z e 2026-10-22T23:00Z). Notas atualizadas pelo Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[15/10] Tirar créditos da descrição dos 3 Shorts agendados (Anzol, C52)~~ FEITO (Periscópio, 15/10 ~16h20): sem comer `uPbMO5a3DLk`, 10 mil metros `CZbwiBSKafE` e cartuchos `P_icjTz-RC8` sem o bloco \"Créditos:\" e os links; ficou linha 1, \"Narração com voz gerada por IA.\", o modelo do canal, 🔑 e 🏷️. Salvo, recarregado e relido. Datas depois: 10 mil metros 16/10 20:00 e cartuchos 19/10 20:00 (iguais às de antes). **Atenção:** o sem comer está Programado pra **22/10 20:00** no Studio, não 15/10. Às 13h45 a lista ainda mostrava 15/10. Eu só mexi na descrição, e nos outros dois o mesmo salvar não mudou a data. Ninguém registrou essa troca no cérebro, e os quadros ainda dizem 15/10. Não mexi. **Confirmado (15/10):** foi o Murilo (\"sim fui eu que troquei, ia sair dois videos hoje\"); 22/10 20h registrado no ledger, Em produção, FILA, pacote, SOP do lote, planta e crosspost.",
    "etapa": "",
@@ -1094,5 +1110,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T03:04-03:00"
+ "gerado_em": "2026-10-18T14:07-03:00"
 }
