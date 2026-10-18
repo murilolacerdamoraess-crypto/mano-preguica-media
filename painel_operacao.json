@@ -745,11 +745,19 @@
  "producao": [
   {
    "tipo": "Longo",
+   "titulo": "Longo contado de Subnautica",
+   "etapa": "pauta (o Sonar manda as opções; o Farol escreve o roteiro no mesmo dia da escolha, de 10 a 14 min, edição no Mac)",
+   "responsavel": "Farol",
+   "falta_murilo": "escolher a pauta até segunda 19/10 e gravar a narração até quinta 22/10",
+   "prazo": "28/10"
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Stonewards em dupla",
    "etapa": "narração (o demo v2 foi aprovado com os ajustes S1 a S15 no react de 12/10; o Farol reescreve os textos S10, S14 e S15; você grava a narração inteira no painel, em Gravar narração, 121 trechos; com a voz aprovada o Windows monta o vídeo inteiro com os ajustes de edição)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a narração no painel até domingo 18/10 (118 trechos já; os outros 3 depois que o Windows copiar as falas do react de 12/10)",
-   "prazo": "28/10"
+   "falta_murilo": "gravar a narração no painel quando sobrar voz, até 08/11 (118 trechos já; os outros 3 depois que o Windows copiar as falas do react de 12/10); ele desceu pra 18/11 e fica de reserva, porque os longos contados de Subnautica entram antes",
+   "prazo": "18/11"
   },
   {
    "tipo": "Short",
@@ -1026,5 +1034,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-17T12:29-03:00"
+ "gerado_em": "2026-10-18T02:27-03:00"
 }
