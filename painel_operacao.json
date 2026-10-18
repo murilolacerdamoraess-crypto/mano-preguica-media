@@ -176,6 +176,14 @@
    "confianca": "forte nos critérios 1 e 2 (7 de 7, e é a L1); fraca no 3 (5 de 7 contra 1 de 10, ainda poucos casos) e nos pesos (ajustados no próprio dado).",
    "status": "aplicada 2026-10-17 (instruções do Sonar e dos Shorts, Arpão e Tarrafa; item 4b-f do Sextante; skill shorts-roteirista). Farol fica de fora: a régua foi medida só em Shorts, e longo tem outra régua (C9).",
    "simples": "Toda pauta e todo roteiro de Short chegam com uma nota de 0 a 10 que diz se ele tem cara de hit, por exemplo \"Previsão: 8 (Subnautica, coisa apagada, título em dois tempos...)\", e depois que o vídeo sai a gente confere se a nota acertou. A cada 10 Shorts os pesos são ajustados pelo que deu certo de verdade."
+  },
+  {
+   "id": "R23",
+   "titulo": "Os produtos fixos de todo vídeo passam a ser testados: a cada 2 semanas troca um espaço só, e fica o que der mais cliques e pedidos a cada mil views.",
+   "onde": "o set de produtos da Vitrine (Âncora), hoje \"todo vídeo leva R36S + Meta Quest 3S\" (regra de 29/08), e a rotina do Sextante (medição por quinzena e revisão mensal). Análise em [[analise-produtos-fixos-2026-10-18]].",
+   "confianca": "forte no diagnóstico (0 de 44 pedidos em 90 dias); fraca no teste enxergar diferença pequena (a medida variou 2x entre dois meses sem troca nenhuma; só uma troca que mude uns 50% ou mais aparece).",
+   "status": "aguardando",
+   "simples": "O console e o óculos estão em todo vídeo desde agosto, mas nenhum dos 44 pedidos dos últimos 90 dias foi deles (o óculos nunca vendeu). Como o YouTube só conta os cliques do canal inteiro, a proposta é testar por quinzena: nas próximas 2 semanas todo vídeo novo leva um item barato, como o chaveiro do Cubone de R$ 9,50, no lugar do óculos, a gente compara os cliques e os pedidos a cada mil views com as 2 semanas antes, e quem ganhar fica; a próxima troca você decide na revisão do mês."
   }
  ],
  "equipe": [
@@ -1110,5 +1118,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T15:20-03:00"
+ "gerado_em": "2026-10-18T15:23-03:00"
 }
