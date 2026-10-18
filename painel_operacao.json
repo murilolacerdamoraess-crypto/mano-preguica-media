@@ -337,7 +337,7 @@
    "por_que_agora": "o público pediu os feitos da Viscerface nos comentários, e o Murilo pôs as crônicas de feitos como a linha do Subnautica em 18/10.",
    "formato": "Longo contado 10 a 14 min",
    "concorrencia": "",
-   "status": "pego por Farol (pedido de roteiro de 18/10; longo de 04/11)",
+   "status": "pego por Farol (roteiro pronto em 18/10, no Decidir: roteiros/roteiro-viscerface-antes-da-aurora.md; longo de 04/11)",
    "frente": "",
    "pendente": ""
   },
@@ -869,6 +869,14 @@
   },
   {
    "tipo": "Longo",
+   "titulo": "Ele zerou o Subnautica antes da Aurora explodir",
+   "etapa": "roteiro aguardando aprovação (12 a 13 min: o youtuber que nunca tinha feito speedrun, a base inundada que deixa ele rápido, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
+   "responsavel": "Farol",
+   "falta_murilo": "gravar a narração no painel até quinta 29/10",
+   "prazo": "04/11"
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Stonewards em dupla",
    "etapa": "narração (você gravou do trecho 1 ao 29 em 18/10 mudando a história; a sua versão virou a história e o texto do 30 em diante já foi reescrito em cima dela, agora com 125 trechos no Gravar narração; com a voz aprovada o Windows monta o vídeo inteiro)",
    "responsavel": "Farol",
@@ -1142,5 +1150,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T17:49-03:00"
+ "gerado_em": "2026-10-18T17:54-03:00"
 }
