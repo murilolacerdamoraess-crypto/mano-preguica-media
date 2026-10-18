@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T19:13:08.396028Z",
+ "gerado_em": "2026-10-18T19:18:46.159797Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -330,14 +330,14 @@
    "arquivo": "short-onix-tamanho-real-impresso.md",
    "name": "SHORT - Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
-   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 6, 16/10: sem a curiosidade da caverna e sem a lição de moral no fim, que agora fecha no Onix gigante que mal cabe no estúdio; versão 5",
+   "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 7, 18/10: o Murilo, gravando, pediu o COMO (impresso em pedaços, pedra por pedra, nas impressoras gigantes) e o trecho da montagem com ",
    "status": "roteiro aprovado (versão 6 de 16/10, com o texto que o Murilo aprovou no chat depois do react do vídeo #15; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-16 (conferir_fontes.py e checar_fluidez.py com a R17, versão 6)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-18 (conferir_fontes.py 27 de 27 e checar_fluidez.py com a R17, versão 7)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "6"
+   "versao": "7"
   },
   {
    "arquivo": "short-pokebola-subnautica-leviata.md",
