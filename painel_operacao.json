@@ -806,7 +806,7 @@
   {
    "tipo": "Longo",
    "titulo": "Longo contado de Subnautica",
-   "etapa": "pauta (o Sonar manda as opções; o Farol escreve o roteiro no mesmo dia da escolha, de 10 a 14 min, edição no Mac)",
+   "etapa": "pauta (as opções estão no Decidir; a recomendada pra 28/10 é a dos recados que jogadores escondem no fundo do mar, e pra 04/11 a da colônia de Subnautica 2 destruída por uma colonista; o Farol escreve o roteiro no mesmo dia da escolha, de 10 a 14 min, edição no Mac)",
    "responsavel": "Farol",
    "falta_murilo": "escolher a pauta até segunda 19/10 e gravar a narração até quinta 22/10",
    "prazo": "28/10"
@@ -1094,5 +1094,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T03:03-03:00"
+ "gerado_em": "2026-10-18T03:04-03:00"
 }
