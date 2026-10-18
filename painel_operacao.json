@@ -179,11 +179,11 @@
   },
   {
    "id": "R23",
-   "titulo": "Os produtos fixos de todo vídeo passam a ser testados: a cada 2 semanas troca um espaço só, e fica o que der mais cliques e pedidos a cada mil views.",
+   "titulo": "O produto que aparece no botão de compra dos Shorts passa a ser testado: a cada 2 semanas um desafiante vai pro 1º lugar, e fica o que der mais cliques a cada mil views.",
    "onde": "o set de produtos da Vitrine (Âncora), hoje \"todo vídeo leva R36S + Meta Quest 3S\" (regra de 29/08), e a rotina do Sextante (medição por quinzena e revisão mensal). Análise em [[analise-produtos-fixos-2026-10-18]].",
-   "confianca": "forte no diagnóstico (0 de 44 pedidos em 90 dias); fraca no teste enxergar diferença pequena (a medida variou 2x entre dois meses sem troca nenhuma; só uma troca que mude uns 50% ou mais aparece).",
+   "confianca": "forte no diagnóstico (0 de 44 pedidos em 90 dias, adesivo com um produto só) e na medida (3 períodos seguidos entre 1,59 e 1,65); fraca nos pedidos (5 por quinzena, poucos pra decidir).",
    "status": "aguardando",
-   "simples": "O console e o óculos estão em todo vídeo desde agosto, mas nenhum dos 44 pedidos dos últimos 90 dias foi deles (o óculos nunca vendeu). Como o YouTube só conta os cliques do canal inteiro, a proposta é testar por quinzena: nas próximas 2 semanas todo vídeo novo leva um item barato, como o chaveiro do Cubone de R$ 9,50, no lugar do óculos, a gente compara os cliques e os pedidos a cada mil views com as 2 semanas antes, e quem ganhar fica; a próxima troca você decide na revisão do mês."
+   "simples": "No Short, o botão de compra mostra só o primeiro produto da lista, que hoje é o console, e o console não vende há 90 dias (o óculos nunca vendeu). A proposta é testar por 2 semanas outro produto nesse primeiro lugar, um item barato do tema do vídeo (por exemplo o leviatã de R$ 39,90 num vídeo de Subnautica), nos vídeos novos e nos 10 mais vistos do momento, e ficar com ele se der pelo menos 25% mais cliques a cada mil views do que o console dá hoje."
   }
  ],
  "equipe": [
@@ -1126,5 +1126,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T15:30-03:00"
+ "gerado_em": "2026-10-18T15:39-03:00"
 }
