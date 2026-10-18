@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:47:28.192116Z",
+ "gerado_em": "2026-10-18T20:54:25.977367Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -197,6 +197,19 @@
    "versao": "3"
   },
   {
+   "arquivo": "roteiro-viscerface-antes-da-aurora.md",
+   "name": "Roteiro zerar o Subnautica antes da Aurora explodir (longo contado)",
+   "titulo_roteiro": "Roteiro: ZERAR O SUBNAUTICA ANTES DA AURORA EXPLODIR",
+   "description": "Longo contado de Subnautica (pauta P54 do Sonar, pedido de roteiro de 18/10/2026 pela regra \"Decidir: vídeo pronto, não argumento\"): a jornada da Viscerface, que nunca tinha feito speedrun, pra zerar o Subnautica antes d",
+   "status": "aguardando-aprovacao-murilo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
    "name": "roundup-gastei-rx-lancamentos",
    "titulo_roteiro": "Roundup: \"Gastei R$ X jogando TODOS os lançamentos do mês (e te digo quais valem)\"",
@@ -208,6 +221,19 @@
    "formato": "longform tier list / veredito de compra, gameplay como B-roll",
    "motor": null,
    "versao": null
+  },
+  {
+   "arquivo": "short-base-inundada-aurora-subnautica.md",
+   "name": "SHORT - Ele inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
+   "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10, chamada do longo de 04/11 do Farol, que conta o mesmo vídeo inteiro). A Viscerface tinha mais ou menos uma hora pra zerar o Subnautica antes da Au",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-blanka-africano-criado-por-leao.md",
@@ -234,6 +260,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-deathrun-extintor-sem-andar.md",
+   "name": "SHORT - Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
+   "titulo_roteiro": "SHORT: o Deathrun zerado sem andar, com um extintor",
+   "description": "Short do canal principal (pauta P55 do Sonar, pedido de roteiro de 18/10). O Queue quis superar o Breathtaker, o primeiro a zerar o Subnautica sem se mexer, fazendo o mesmo com o Deathrun, o mod considerado o mais difíci",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-dlss5-jogo-de-ps2.md",
