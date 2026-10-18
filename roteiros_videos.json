@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:56:34.907992Z",
+ "gerado_em": "2026-10-18T20:59:48.446156Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -314,6 +314,32 @@
    "versao": "2"
   },
   {
+   "arquivo": "short-ghast-grito-gato-c418.md",
+   "name": "SHORT - Você ouve esse grito no Minecraft há anos, e ele não veio de nenhum monstro",
+   "titulo_roteiro": "SHORT: o grito do Ghast",
+   "description": "Short de uns 80 segundos pro teste de bolha no TikTok (pauta P37 do Sonar, tema Minecraft, tentativa 2 de 3). O grito do Ghast, o fantasma gigante que flutua no Nether e cospe bola de fogo, foi feito pelo C418, o composi",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-jabu-jabu-peixe-gigante-zelda.md",
+   "name": "SHORT - O vilão do Zelda amaldiçoou um peixe gigante, e você descobre o que ele engoliu",
+   "titulo_roteiro": "SHORT: o que o peixe gigante do Zelda engoliu",
+   "description": "Short do canal principal (pauta P36 do Sonar, versão 2 do card, pedido de roteiro de 18/10; teste de bolha no TikTok, tema Zelda). No Ocarina of Time, o Jabu-Jabu é a criatura parecida com baleia que protege os Zora. Dep",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (narrado, sem gravar gameplay; teste de bolha no TikTok)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-lady-dimitrescu-altura.md",
    "name": "SHORT - A criação dessa vilã de Resident Evil deu errado, e a Capcom pagou o preço",
    "titulo_roteiro": "SHORT: a Lady Dimitrescu e o preço do tamanho",
@@ -377,6 +403,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "7"
+  },
+  {
+   "arquivo": "short-nemesis-vinganca-stars.md",
+   "name": "SHORT - Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
+   "titulo_roteiro": "SHORT: o Nemesis e a vingança",
+   "description": "Short de uns 100 segundos pro teste de bolha no TikTok (pauta P35 do Sonar, tema Resident Evil, tentativa 2 de 3). O Nemesis mata um colega da Jill na frente da delegacia e sai atrás dela gritando \"STARS\". Ele foi feito ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-onix-tamanho-real-impresso.md",
