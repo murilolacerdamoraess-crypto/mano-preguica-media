@@ -965,14 +965,6 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Fixar no Rematch o comentário com pergunta (\"fala a vdd: no Rematch vc passa a bola ou é igual eu no começo do vídeo? 🤣\"; o vídeo já está no ar desde 11/10)",
-   "etapa": "publicado",
-   "responsavel": "Periscópio",
-   "falta_murilo": "aprovar o texto do comentário",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
    "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
    "etapa": "publicado",
    "responsavel": "Periscópio",
@@ -1102,5 +1094,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T16:56-03:00"
+ "gerado_em": "2026-10-18T17:01-03:00"
 }
