@@ -301,7 +301,7 @@
    "por_que_agora": "semana do lançamento do remake (05/11).",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "pego por Arpão (pedido de roteiro de 18/10)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/short-jabu-jabu-peixe-gigante-zelda.md)",
    "frente": "",
    "pendente": ""
   },
@@ -457,7 +457,7 @@
    "por_que_agora": "a série está no fim (a próxima parte é andar), e o Short pode sair antes dela.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Arpão (pedido de roteiro de 18/10)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/short-armadura-fallout-de-verdade.md)",
    "frente": "",
    "pendente": ""
   },
@@ -469,7 +469,7 @@
    "por_que_agora": "atemporal.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "pego por Arpão (pedido de roteiro de 18/10)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/short-machado-kratos-forjado.md)",
    "frente": "",
    "pendente": ""
   },
@@ -493,7 +493,7 @@
    "por_que_agora": "atemporal.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 1): vai pro Arpão ou a Tarrafa quando abrir vaga",
+   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
    "frente": "",
    "pendente": ""
   },
@@ -529,7 +529,7 @@
    "por_que_agora": "a série está saindo agora (episódio 2 em 30/09).",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 2)",
+   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
    "frente": "",
    "pendente": ""
   },
@@ -817,7 +817,7 @@
    "por_que_agora": "atemporal (história narrada recicla, regra do estudo Sev7n).",
    "formato": "Short 90-180s",
    "concorrencia": "RASO (maior PT-BR 4,9 mil)",
-   "status": "na fila do roteiro (Shorts, posição 3)",
+   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
    "frente": "2",
    "pendente": ""
   },
@@ -1068,6 +1068,30 @@
    "prazo": ""
   },
   {
+   "tipo": "Short",
+   "titulo": "O vilão do Zelda amaldiçoou um peixe gigante, e você descobre o que ele engoliu",
+   "etapa": "roteiro (aguardando aprovação: você dá um peixe pro bicho gigante e entra pela boca; a maldição fez ele engolir a princesa dos Zora, e lá dentro tem um parasita; perto de 1 minuto, narrado)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
+   "etapa": "roteiro (aguardando aprovação: 8 quilos e meio de aço e 40 dias de forja, com a forja, a prensa, a bigorna e o tanque pegando fogo, do protótipo de 3 quilos pro de verdade; perto de 1min10, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "A armadura do Fallout já existe de verdade, só falta uma coisa pra ela ficar pronta",
+   "etapa": "roteiro (aguardando aprovação: ela fecha sozinha em volta de quem entra e mexe mão e perna; falta andar, e o fim fecha no que ela já faz; perto de 1min30, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "Tarefa",
    "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
    "etapa": "publicado",
@@ -1198,5 +1222,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T18:01-03:00"
+ "gerado_em": "2026-10-18T18:03-03:00"
 }
