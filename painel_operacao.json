@@ -1108,6 +1108,30 @@
    "prazo": ""
   },
   {
+   "tipo": "Short",
+   "titulo": "Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
+   "etapa": "roteiro (aguardando aprovação: a Malenia em nível 1 no tapete, 553 tentativas, e depois duas Malenias ao mesmo tempo, uma no controle e outra no tapete, em 3 dias e 199 tentativas; perto de 1min40, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
+   "etapa": "roteiro (aguardando aprovação: veio num lote de videogame quebrado, ele trocou a bateriazinha e calibrou o leitor, e no fim o disco gira na mão e voa se você mexer rápido; 60 segundos)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Estão construindo o Batmóvel de verdade, e o primeiro teste foi bater num muro de tijolo (canal 2)",
+   "etapa": "roteiro (aguardando aprovação: a caminhonete de teste de 2003, com 300 mil km, cercada de aço, contra palete, barril, geladeira e o muro, e saiu inteira; 60 segundos)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "Tarefa",
    "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
    "etapa": "publicado",
@@ -1238,5 +1262,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T18:08-03:00"
+ "gerado_em": "2026-10-18T18:09-03:00"
 }
