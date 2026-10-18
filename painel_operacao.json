@@ -505,7 +505,7 @@
    "por_que_agora": "atemporal.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir, canal 2)",
    "frente": "",
    "pendente": ""
   },
@@ -517,7 +517,7 @@
    "por_que_agora": "é a continuação natural da luva, que acabou de estourar.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir, canal 2)",
    "frente": "",
    "pendente": ""
   },
@@ -1037,6 +1037,22 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, versão 1: a placa fritando na véspera, o sabre vermelho quebrando 1 hora antes da noite de Star Wars, o azul deixando o povo de boca aberta, e o fio que ele soldou errado de cansaço virando a solução da lâmina; uns 2 min e 50, o tamanho da luva)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse cara fez as mãos do Hulk de verdade, e a força estourou o medidor (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, versão 1: do mesmo cara da luva do Homem-Aranha; a bomba em ponto morto, a mochila, o medidor estourado e a bola de vidro que deu mais trabalho que um cadeado de aço, sem as cenas de sangue e de crime encenado do vídeo; uns 2 min e 50)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo promete quebrar sem perder o pote; o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
    "responsavel": "Arpão",
@@ -1222,5 +1238,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T18:03-03:00"
+ "gerado_em": "2026-10-18T18:08-03:00"
 }
