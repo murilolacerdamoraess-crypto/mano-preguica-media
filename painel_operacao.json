@@ -487,13 +487,13 @@
   },
   {
    "id": "P45",
-   "titulo": "Esse cara transformou um PS2 que não ligava num portátil que roda o disco original",
+   "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
    "rodada": "Impossível com as próprias mãos 16/10/2026 (Sonar): 8 pautas pra testar a hipótese da luva do Homem-Aranha",
-   "gancho": "Esse cara transformou um PS2 que não ligava num portátil que roda o disco original",
+   "gancho": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
    "por_que_agora": "atemporal.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/mp2-ps2-portatil-disco-original.md)",
    "frente": "",
    "pendente": ""
   },
@@ -529,7 +529,7 @@
    "por_que_agora": "a série está saindo agora (episódio 2 em 30/09).",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/mp2-batmovel-muro-de-tijolo.md)",
    "frente": "",
    "pendente": ""
   },
@@ -817,7 +817,7 @@
    "por_que_agora": "atemporal (história narrada recicla, regra do estudo Sev7n).",
    "formato": "Short 90-180s",
    "concorrencia": "RASO (maior PT-BR 4,9 mil)",
-   "status": "pego por Arpão (pedido de roteiro de 18/10, terceira leva)",
+   "status": "pego por Arpão (roteiro pronto em 18/10, no Decidir: roteiros/short-elden-ring-tapete-de-danca-malenia.md)",
    "frente": "2",
    "pendente": ""
   },
@@ -1262,5 +1262,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T18:09-03:00"
+ "gerado_em": "2026-10-18T18:10-03:00"
 }
