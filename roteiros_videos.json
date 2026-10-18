@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:59:48.446156Z",
+ "gerado_em": "2026-10-18T21:01:30.819227Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -223,6 +223,19 @@
    "versao": null
   },
   {
+   "arquivo": "short-armadura-fallout-de-verdade.md",
+   "name": "SHORT - A armadura do Fallout já existe de verdade, só falta uma coisa pra ela ficar pronta",
+   "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
+   "description": "Short do canal principal (pauta P42 do Sonar, pedido de roteiro de 18/10, família \"impossível com as próprias mãos\"). A Hacksmith quase faliu quando um robô gigante deles quebrou a perna e ficou proibida de fazer robô; q",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da série da Hacksmith)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-base-inundada-aurora-subnautica.md",
    "name": "SHORT - Ele inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
@@ -317,7 +330,7 @@
    "arquivo": "short-ghast-grito-gato-c418.md",
    "name": "SHORT - Você ouve esse grito no Minecraft há anos, e ele não veio de nenhum monstro",
    "titulo_roteiro": "SHORT: o grito do Ghast",
-   "description": "Short de uns 80 segundos pro teste de bolha no TikTok (pauta P37 do Sonar, tema Minecraft, tentativa 2 de 3). O grito do Ghast, o fantasma gigante que flutua no Nether e cospe bola de fogo, foi feito pelo C418, o composi",
+   "description": "Short de uns 90 segundos pro teste de bolha no TikTok (pauta P37 do Sonar, tema Minecraft, tentativa 2 de 3). O grito do Ghast, o fantasma gigante que flutua no Nether e cospe bola de fogo, foi feito pelo C418, o composi",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
