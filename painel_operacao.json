@@ -869,24 +869,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-   "etapa": "agendado (canal secundário, ter 20/10 às 20h; programado pelo Murilo em 12/10; youtube.com/shorts/GzZE02iibIA)",
-   "responsavel": "Publicação MP2 (Leme)",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica",
    "etapa": "agendado (seg 19/10 às 20h no canal principal, era qui 22/10 e o Murilo trocou com os cartuchos em 18/10 pra aproveitar a onda de Subnautica do 10 mil metros; link youtube.com/shorts/uPbMO5a3DLk)",
-   "responsavel": "Publicação",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador",
-   "etapa": "agendado (sex 16/10 às 20h no canal principal; link youtube.com/shorts/CZbwiBSKafE)",
    "responsavel": "Publicação",
    "falta_murilo": "",
    "prazo": ""
@@ -920,14 +904,6 @@
    "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween dela",
    "etapa": "**pronto pra você assistir** (v8, com a sua voz a 1,17x e sem o \"Comenta aqui\", 3:06; está na tela Assistir e na fila do Drive)",
    "responsavel": "",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "O Blanka do Street Fighter começou como um africano criado por leão",
-   "etapa": "agendado (qui 15/10 às 17h no canal principal, programado pelo Murilo; link youtube.com/shorts/KjX2UtWiO7A)",
-   "responsavel": "Publicação",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -988,19 +964,19 @@
    "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
   },
   {
-   "tipo": "Longo",
-   "titulo": "Vampire Survivors + Megabonk de Pokémon: joguei o Pokémon Survivor Burst (canal 2)",
-   "etapa": "agendado (canal secundário, qui 15/10 às 12h; programado pelo Murilo em 14/10; vídeo movido pra publicados; youtube.com/watch?v=j5Eb_G2yRJI)",
-   "responsavel": "Publicação MP2 (Leme)",
-   "falta_murilo": "",
+   "tipo": "Tarefa",
+   "titulo": "Fixar no Rematch o comentário com pergunta (\"fala a vdd: no Rematch vc passa a bola ou é igual eu no começo do vídeo? 🤣\"; o vídeo já está no ar desde 11/10)",
+   "etapa": "publicado",
+   "responsavel": "Periscópio",
+   "falta_murilo": "aprovar o texto do comentário",
    "prazo": ""
   },
   {
-   "tipo": "Longo",
-   "titulo": "24 horas pra ser o egoísta do Blue Lock no Rematch, mas ninguém passa a bola",
-   "etapa": "publicado (no ar desde 11/10, com 0 comentários; falta fixar um comentário com pergunta, o texto é \"fala a vdd: no Rematch vc passa a bola ou é igual eu no começo do vídeo? 🤣\"; com o seu OK o Periscópio fixa, e a linha sai do quadro)",
-   "responsavel": "Arpão",
-   "falta_murilo": "aprovar o texto do comentário fixado",
+   "tipo": "Tarefa",
+   "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
+   "etapa": "publicado",
+   "responsavel": "Periscópio",
+   "falta_murilo": "",
    "prazo": ""
   }
  ],
@@ -1126,5 +1102,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T16:18-03:00"
+ "gerado_em": "2026-10-18T16:56-03:00"
 }

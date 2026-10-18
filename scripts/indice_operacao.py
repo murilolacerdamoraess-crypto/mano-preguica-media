@@ -522,8 +522,93 @@ def videos_prontos():
         print("vídeos prontos: falhou o envio", e)
 
 
+# Publicado sai das filas no dia seguinte (Murilo, 18/10/2026: "os vídeos que já foram publicados não precisam
+# ficar ali"). A data vem dos lancamentos/*.json do acompanhar_lancamento.py (API do YouTube, só vídeo público).
+# A linha da FILA.md ou do Em produção sai quando: tem o link do vídeo, o título da linha bate com o do vídeo
+# (pra não mover peça que só cita outro vídeo) e a data local de hoje já passou do dia da publicação.
+# Vai pra producao/publicados.md; "falta do Murilo" que sobrar vira uma linha [Tarefa] no Em produção.
+LANCAMENTOS = [(os.path.join(HOME, "canal_agente", "lancamentos"), "Mano Preguiça"),
+               (os.path.join(HOME, "canal_agente", "lancamentos_mp2"), "canal 2")]
+PUBLICADOS = os.path.join(CEREBRO, "producao", "publicados.md")
+RE_YT = re.compile(r"(?:youtu\.be/|shorts/|watch\?v=)([A-Za-z0-9_-]{11})")
+
+
+def _palavras(t):
+    return {w for w in chave_video(t).split() if len(w) > 3}
+
+
+def limpar_publicados(seco=False):
+    pubs = {}
+    for pasta, canal in LANCAMENTOS:
+        if not os.path.isdir(pasta):
+            continue
+        for f in os.listdir(pasta):
+            if not f.endswith(".json"):
+                continue
+            try:
+                d = json.load(open(os.path.join(pasta, f), encoding="utf-8"))
+                quando = dt.datetime.fromisoformat(str(d["publicado"]).replace("Z", "+00:00")).astimezone()
+            except Exception:
+                continue
+            pubs[d.get("id") or f[:-5]] = {"titulo": d.get("titulo", ""), "quando": quando, "canal": canal}
+    hoje = dt.datetime.now().astimezone().date()
+    registro = open(PUBLICADOS, encoding="utf-8").read() if os.path.exists(PUBLICADOS) else ""
+    try:
+        nums = json.load(open(IDS_VIDEOS, encoding="utf-8")).get("videos", {})
+    except (OSError, ValueError):
+        nums = {}
+    novos, tarefas = [], []
+    for arq in (os.path.join(CEREBRO, "producao", "FILA.md"), os.path.join(QUADRO_DIR, "em-producao.md")):
+        if not os.path.exists(arq):
+            continue
+        fica, saiu = [], 0
+        for l in open(arq, encoding="utf-8").read().split("\n"):
+            alvo = None
+            if l.startswith("- [") and not l.startswith("- [Tarefa]"):
+                titulo = re.split(r"\s+·\s+", l[2:])[0]
+                titulo = re.sub(r"^\[[^\]]+\]\s*", "", titulo)
+            elif l.startswith("| ") and l.count("|") > 5:
+                titulo = l.split("|")[2]
+            else:
+                titulo = None
+            if titulo:
+                for vid in RE_YT.findall(l):
+                    p = pubs.get(vid)
+                    if not p or p["quando"].date() >= hoje:
+                        continue
+                    a, b = _palavras(titulo), _palavras(p["titulo"])
+                    if a and len(a & b) >= max(2, len(a) // 2):
+                        alvo = (vid, p)
+                        break
+            if not alvo:
+                fica.append(l)
+                continue
+            saiu += 1
+            vid, p = alvo
+            if vid not in registro and all(vid != n[0] for n in novos):
+                num = nums.get(chave_video(p["titulo"]), "")
+                tit = re.sub(r"\s*#shorts\b", "", p["titulo"])
+                novos.append((vid, f"| {num} | {tit} | {p['canal']} | youtu.be/{vid} | {p['quando'].strftime('%d/%m/%Y %H:%M')} |"))
+            falta = re.search(r"·\s*falta do Murilo:\s*([^·]+)", l)
+            if falta and falta.group(1).strip().lower() not in ("nada", "-", "nenhum", "não"):
+                tarefas.append(f"- [Tarefa] {falta.group(1).strip()} (o vídeo \"{p['titulo'][:60]}\" já está no ar) · etapa: publicado · responsável: Periscópio · falta do Murilo: {falta.group(1).strip()}")
+        if saiu and not seco:
+            if arq.endswith("em-producao.md") and tarefas:
+                fica = fica + tarefas
+            open(arq, "w", encoding="utf-8").write("\n".join(fica))
+        if saiu:
+            print(f"publicados: {saiu} linha(s) fora de {os.path.basename(arq)}" + (" (seco)" if seco else ""))
+    if novos and not seco:
+        if not registro:
+            registro = ("---\nname: publicados\ndescription: Vídeos que já foram ao ar e saíram da FILA e do Em produção "
+                        "(um por linha). Gerado pelo indice_operacao.py no dia seguinte à publicação.\ntipo: quadro\n"
+                        "projeto: canal-agente\n---\n\n# Publicados\n\n| # | Vídeo | Canal | Link | No ar desde |\n|---|---|---|---|---|\n")
+        open(PUBLICADOS, "w", encoding="utf-8").write(registro.rstrip("\n") + "\n" + "\n".join(n[1] for n in novos) + "\n")
+
+
 if __name__ == "__main__":
     import sys
+    limpar_publicados(seco="--seco" in sys.argv)
     main()
     copiar_decisoes()
     enviar_documentos()
