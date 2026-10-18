@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:06:57.393147Z",
+ "gerado_em": "2026-10-18T20:42:54.585539Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -85,12 +85,12 @@
    "titulo_roteiro": "SHORT MP2: a ocarina de verdade que o Zelda novo escuta",
    "description": "Short do MP2 (linha de produto, pauta P19 do Sonar, aprovada pelo Murilo em 05/10). No remake de Zelda Ocarina of Time pro Switch 2, o controle tem microfone; na demonstração da Nintendo o produtor cantarola e o Link toc",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R7) APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
+   "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo. Antes: portão de fontes e de fluidez (com a R7) APROVADOS 2026-10-07 (conferir_fontes.py e checar_fluidez.py, versão 2); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "mp2-pokebola-lego-abre.md",
@@ -98,12 +98,12 @@
    "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
    "description": "Short do MP2 (linha de produto, pauta P20 do Sonar, aprovada pelo Murilo em 05/10; fast-track, a janela é outubro). A Pokébola de LEGO (set 72154) tem 22 cm e 2.386 peças, é o primeiro set de LEGO Pokémon com bonequinhos",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
+   "gate": "versão 2 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo. Antes: portão de fontes e de fluidez APROVADOS 2026-10-05 (conferir_fontes.py e checar_fluidez.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "mp2-pote-zelda-quebra-de-verdade.md",
@@ -111,12 +111,12 @@
    "titulo_roteiro": "SHORT MP2: o pote do Zelda que quebra de verdade",
    "description": "Short do MP2 (linha de produto, pauta do Backlog aprovada pelo Murilo; o Sonar liberou contado como Zelda, sem falar de impressora 3D). Quebrar pote pra achar rupia é a marca do Zelda, e agora tem gente jogando um pote d",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-11 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py); falta o OK do Murilo",
+   "gate": "versão 2 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo. Antes: portão de fontes, de fluidez e de pauta APROVADOS 2026-10-11 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py); falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
@@ -254,12 +254,12 @@
    "titulo_roteiro": "SHORT: o fliperama dentro do Minecraft hardcore",
    "description": "Short do canal principal (pauta P44 do Sonar, pedida pelo Murilo em 17/10). O Farzy construiu o maior fliperama que funciona dentro do seu mundo de Minecraft hardcore, onde não dá pra renascer. Cada jogo virou uma sala d",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-17; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Farzy)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-lady-dimitrescu-altura.md",
@@ -304,14 +304,14 @@
    "arquivo": "short-minecraft-dentro-do-skyrim.md",
    "name": "SHORT - Estão fundindo jogos com inteligência artificial",
    "titulo_roteiro": "SHORT: estão fundindo jogos com inteligência artificial",
-   "description": "Short de uns 115 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 2 (16/10), ângulo trocado pelo pedido do Murilo, a onda de jogos fundidos com IA. O chasm explodiu uma TNT do Minecraft no meio do Skyrim e ela ab",
+   "description": "Short de uns 125 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 3 (18/10), revisada pelas regras de 18/10 (a sacada dos dois jogos conversando ganhou o porquê e o como, e a IA ganhou um exemplo concreto). Versã",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-16 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-moto-mario-kart-world-madeira.md",
@@ -343,14 +343,14 @@
    "arquivo": "short-pokebola-subnautica-leviata.md",
    "name": "SHORT - Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "titulo_roteiro": "SHORT: o Pokémon no Subnautica",
-   "description": "Short de uns 2 minutos e 30 (pauta P17 do Sonar, aprovada em 04/10). Versão 2 (16/10), gancho e ângulo refeitos pelo pedido do Murilo: a jornada (R19). O artista 3D Daniel Krafft já tinha um mod de Subnautica e aceitou i",
+   "description": "Short de uns 2 minutos e 40 (pauta P17 do Sonar, aprovada em 04/10). Versão 3 (18/10), gancho refeito depois do \"não promete nada\" do Murilo. A promessa agora é a nota que um modder de verdade ia dar ao mod, com a reuniã",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-16 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
@@ -449,12 +449,12 @@
    "titulo_roteiro": "SHORT: Gigantes de Aço está cada vez mais perto de virar realidade",
    "description": "Short do canal principal (pauta aprovada do Backlog). O influenciador Frankie LaPenna entrou numa jaula em San Francisco (18/09/2026) pra lutar contra robôs com cara de Exterminador do Futuro, numa luta que a REK anuncio",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18. Antes: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
@@ -501,12 +501,12 @@
    "titulo_roteiro": "SHORT: a sala de tortura que a família real do Zelda esconde",
    "description": "Short de perto de 1min47 pro teste de bolha no TikTok (pauta P34 do Sonar, 14/10, tema Zelda, tentativa 2 de 3). O Templo das Sombras do Ocarina of Time é o templo que a família real é proibida de comentar; logo na entra",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
+   "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18. Antes: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
@@ -514,12 +514,12 @@
    "titulo_roteiro": "SHORT: o monstro do Minecraft que não é pra matar",
    "description": "Short de uns 2 minutos pro teste de bolha no TikTok (pauta P33 do Sonar, 14/10, tema Minecraft, tentativa 1 de 3). O Warden é cego e tem 500 de vida; quem chama ele é um bloco que grita até com você agachado; ele te acha",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
+   "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18. Antes: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "sn2-cherimoya-rotsac.md",
