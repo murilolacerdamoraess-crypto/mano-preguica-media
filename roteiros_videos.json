@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T20:46:11.804247Z",
+ "gerado_em": "2026-10-18T20:47:28.192116Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -158,6 +158,19 @@
    "versao": null
   },
   {
+   "arquivo": "roteiro-capsulas-do-tempo-subnautica.md",
+   "name": "Roteiro cápsulas do tempo do Subnautica (longo contado)",
+   "titulo_roteiro": "Roteiro: AS CÁPSULAS DO TEMPO DO SUBNAUTICA",
+   "description": "Longo contado de Subnautica (pauta P49, decisão do Murilo de 18/10/2026): como as cápsulas do tempo funcionam, quem decide quais entram, a mais bizarra, a mais legal, a mais achada (189 mil vezes) e a resposta da pergunt",
+   "status": "aguardando-aprovacao-murilo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "roteiro-rematch-egoisto.md",
    "name": "Roteiro Rematch Egoísto (longo narrado, minissérie em 5 capítulos)",
    "titulo_roteiro": "Roteiro: REMATCH EGOÍSTO",
@@ -265,7 +278,7 @@
    "arquivo": "short-lady-dimitrescu-altura.md",
    "name": "SHORT - A criação dessa vilã de Resident Evil deu errado, e a Capcom pagou o preço",
    "titulo_roteiro": "SHORT: a Lady Dimitrescu e o preço do tamanho",
-   "description": "Short de uns 115 segundos pro teste de bolha no TikTok (pauta P31 do Sonar, 14/10, tema Resident Evil, tentativa 1 de 3). Versão 3 (18/10), revisada pelas regras de 18/10 (a dificuldade de pôr ela ao lado dos outros ganh",
+   "description": "Short de uns 125 segundos pro teste de bolha no TikTok (pauta P31 do Sonar, 14/10, tema Resident Evil, tentativa 1 de 3). Versão 3 (18/10), revisada pelas regras de 18/10 (a dificuldade de pôr ela ao lado dos outros ganh",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
@@ -304,7 +317,7 @@
    "arquivo": "short-minecraft-dentro-do-skyrim.md",
    "name": "SHORT - Estão fundindo jogos com inteligência artificial",
    "titulo_roteiro": "SHORT: estão fundindo jogos com inteligência artificial",
-   "description": "Short de uns 125 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 3 (18/10), revisada pelas regras de 18/10 (a sacada dos dois jogos conversando ganhou o porquê e o como, e a IA ganhou um exemplo concreto). Versã",
+   "description": "Short de uns 140 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 3 (18/10), revisada pelas regras de 18/10 (a sacada dos dois jogos conversando ganhou o porquê e o como, e a IA ganhou um exemplo concreto). Versã",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
