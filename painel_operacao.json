@@ -330,6 +330,54 @@
    "pendente": ""
   },
   {
+   "id": "P54",
+   "titulo": "Ele zerou o Subnautica antes da Aurora explodir, e entrou nela ainda inteira",
+   "rodada": "Crônicas de feitos no Subnautica 18/10/2026 (Sonar): 4 pautas (regra do Murilo de 18/10)",
+   "gancho": "Ele zerou o Subnautica antes da Aurora explodir, e entrou nela ainda inteira",
+   "por_que_agora": "o público pediu os feitos da Viscerface nos comentários, e o Murilo pôs as crônicas de feitos como a linha do Subnautica em 18/10.",
+   "formato": "Longo contado 10 a 14 min",
+   "concorrencia": "",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P55",
+   "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
+   "rodada": "Crônicas de feitos no Subnautica 18/10/2026 (Sonar): 4 pautas (regra do Murilo de 18/10)",
+   "gancho": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
+   "por_que_agora": "a regra das crônicas de feitos de 18/10, e o vídeo é de maio de 2026.",
+   "formato": "Short 60-90s e Longo contado 10 a 14 min",
+   "concorrencia": "",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P56",
+   "titulo": "Ele inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "rodada": "Crônicas de feitos no Subnautica 18/10/2026 (Sonar): 4 pautas (regra do Murilo de 18/10)",
+   "gancho": "Ele inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "por_que_agora": "chamada do longo de 04/11.",
+   "formato": "Short 60-90s",
+   "concorrencia": "",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P57",
+   "titulo": "Ele começou o Subnautica no fundo do Void, onde o ar acaba 5 vezes mais rápido",
+   "rodada": "Crônicas de feitos no Subnautica 18/10/2026 (Sonar): 4 pautas (regra do Murilo de 18/10)",
+   "gancho": "Ele começou o Subnautica no fundo do Void, onde o ar acaba 5 vezes mais rápido",
+   "por_que_agora": "é o outro feito da Viscerface que o público pediu.",
+   "formato": "Short 60-90s",
+   "concorrencia": "",
+   "status": "livre",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P49",
    "titulo": "Jogadores escondem recados pra você no Subnautica, e um foi achado 189 mil vezes",
    "rodada": "Longo contado de Subnautica 18/10/2026 (Sonar): 5 pautas (decisão do Murilo de 18/10)",
@@ -349,7 +397,7 @@
    "por_que_agora": "o Murilo pediu longo contado de Subnautica (18/10), e o público dos 10 mil metros quer ver o que existe no fundo do mapa.",
    "formato": "Longo contado 10 a 14 min",
    "concorrencia": "",
-   "status": "livre",
+   "status": "descartada",
    "frente": "",
    "pendente": ""
   },
@@ -361,7 +409,7 @@
    "por_que_agora": "decisão do Murilo de 18/10 (Subnautica no centro, longo contado).",
    "formato": "Longo contado 10 a 12 min",
    "concorrencia": "",
-   "status": "livre",
+   "status": "descartada",
    "frente": "",
    "pendente": ""
   },
@@ -373,7 +421,7 @@
    "por_que_agora": "Subnautica 2 é o jogo mais quente do nicho e o canal já tem 3 hits nele; ninguém contou essa história em português.",
    "formato": "Longo contado 10 a 14 min",
    "concorrencia": "",
-   "status": "livre",
+   "status": "descartada",
    "frente": "",
    "pendente": ""
   },
@@ -1094,5 +1142,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T17:42-03:00"
+ "gerado_em": "2026-10-18T17:46-03:00"
 }
