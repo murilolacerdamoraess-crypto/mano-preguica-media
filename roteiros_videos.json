@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T21:08:25.270954Z",
+ "gerado_em": "2026-10-18T21:09:46.068227Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -351,6 +351,19 @@
    "formato": "short",
    "motor": null,
    "versao": null
+  },
+  {
+   "arquivo": "short-elden-ring-tapete-de-danca-malenia.md",
+   "name": "SHORT - Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
+   "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, e depois duas",
+   "description": "Short do canal principal (pauta P6, card de 29/09, pedido de roteiro do Sonar de 18/10, terceira leva). A MissMikkaa, que vive de desafio no Elden Ring, já tinha zerado o jogo com uma mão só e depois só com os pés num ta",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima das lives dela)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-ellie-invisivel-tlou.md",
