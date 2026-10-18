@@ -289,7 +289,7 @@
    "por_que_agora": "filme e Halloween.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -313,7 +313,7 @@
    "por_que_agora": "atemporal; é a tentativa \"você não sabia\" do tema.",
    "formato": "Short 30s narrado, com o som do Ghast tocando",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -445,7 +445,7 @@
    "por_que_agora": "Halloween (31/10).",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -493,7 +493,7 @@
    "por_que_agora": "atemporal.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 3)",
+   "status": "na fila do roteiro (Shorts do canal 2, posição 1): vai pro Arpão ou a Tarrafa quando abrir vaga",
    "frente": "",
    "pendente": ""
   },
@@ -505,7 +505,7 @@
    "por_que_agora": "atemporal.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 1): vai pro Arpão ou a Tarrafa quando abrir vaga",
+   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
    "frente": "",
    "pendente": ""
   },
@@ -517,7 +517,7 @@
    "por_que_agora": "é a continuação natural da luva, que acabou de estourar.",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 2)",
+   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
    "frente": "",
    "pendente": ""
   },
@@ -529,7 +529,7 @@
    "por_que_agora": "a série está saindo agora (episódio 2 em 30/09).",
    "formato": "Short 45-60s narrado",
    "concorrencia": "",
-   "status": "na fila do roteiro (Shorts do canal 2, posição 4)",
+   "status": "na fila do roteiro (Shorts do canal 2, posição 2)",
    "frente": "",
    "pendente": ""
   },
@@ -817,7 +817,7 @@
    "por_que_agora": "atemporal (história narrada recicla, regra do estudo Sev7n).",
    "formato": "Short 90-180s",
    "concorrencia": "RASO (maior PT-BR 4,9 mil)",
-   "status": "na fila do roteiro (Shorts, posição 5)",
+   "status": "na fila do roteiro (Shorts, posição 3)",
    "frente": "2",
    "pendente": ""
   },
@@ -1013,6 +1013,30 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "etapa": "roteiro (aguardando aprovação, versão 1: o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e um motor cinco vezes mais forte, e o teste no boneco com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": "31/10 (Halloween)"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
+   "etapa": "roteiro (aguardando aprovação, versão 1: o grito \"STARS\" é ele dizendo o nome do alvo, a equipe da Jill, e o nome dele é o da deusa da vingança; teste do TikTok, Resident Evil 2 de 3; uns 100 s)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Você ouve esse grito no Minecraft há anos, e ele não veio de nenhum monstro",
+   "etapa": "roteiro (aguardando aprovação, versão 1: o grito do Ghast é o gato do compositor do Minecraft, acordado do lado de um microfone, contado por ele mesmo em 2011; teste do TikTok, Minecraft 2 de 3; uns 90 s)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo promete quebrar sem perder o pote; o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
    "responsavel": "Arpão",
@@ -1174,5 +1198,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T17:56-03:00"
+ "gerado_em": "2026-10-18T18:01-03:00"
 }
