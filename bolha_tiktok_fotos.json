@@ -92,6 +92,10 @@
 {
 "t": 1792300297,
 "v": 221
+},
+{
+"t": 1792322088,
+"v": 221
 }
 ],
 "views": 221
@@ -286,6 +290,10 @@
 {
 "t": 1792300297,
 "v": 136
+},
+{
+"t": 1792322088,
+"v": 136
 }
 ],
 "views": 136
@@ -407,7 +415,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 954
+"views": 955
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -700,9 +708,13 @@
 {
 "t": 1792314826,
 "v": 2081
+},
+{
+"t": 1792322088,
+"v": 2098
 }
 ],
-"views": 2081
+"views": 2098
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -727,9 +739,13 @@
 {
 "t": 1792314826,
 "v": 26800
+},
+{
+"t": 1792322088,
+"v": 28200
 }
 ],
-"views": 26800
+"views": 28200
 }
 }
 }
