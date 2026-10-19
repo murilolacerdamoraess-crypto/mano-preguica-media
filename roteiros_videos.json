@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T02:27:31.136491Z",
+ "gerado_em": "2026-10-19T02:38:46.267554Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -340,6 +340,19 @@
    "versao": "1"
   },
   {
+   "arquivo": "short-base-todos-os-biomas-moon-pool.md",
+   "name": "SHORT - Ele construiu uma base só ligando todos os biomas do Subnautica, e travou o jogo a cada peça",
+   "titulo_roteiro": "SHORT: a base por todos os biomas",
+   "description": "Short do canal principal (pauta P65 do Sonar, pedido de roteiro de 18/10, Subnautica como base dos Shorts). O The Last Bacon viu a base mais alta da história do Subnautica, do Whalelol, e quis o recorde da maior ou pelo ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-blanka-africano-criado-por-leao.md",
    "name": "SHORT - O Blanka do Street Fighter nem era pra ser brasileiro, no começo ele era um africano criado por leão",
    "titulo_roteiro": "SHORT: o Blanka nem era pra ser brasileiro",
@@ -561,6 +574,19 @@
    "versao": "7"
   },
   {
+   "arquivo": "short-nadadeira-4-horas-receitas-embaralhadas.md",
+   "name": "SHORT - A nadadeira do Subnautica, que você pega em 10 segundos, levou 4 horas pra ele",
+   "titulo_roteiro": "SHORT: a nadadeira de 4 horas",
+   "description": "Short do canal principal (pauta P64 do Sonar, pedido de roteiro de 18/10, Subnautica como base dos Shorts). O Diamond Ingots queria sentir de novo a primeira vez no Subnautica e jogou com um mod que embaralha a receita d",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Diamond Ingots)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-nemesis-vinganca-stars.md",
    "name": "SHORT - Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "titulo_roteiro": "SHORT: o Nemesis e a vingança",
@@ -728,6 +754,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "5"
+  },
+  {
+   "arquivo": "short-subnautica-37-peixes-lost-river.md",
+   "name": "SHORT - Ele ficou preso no fundo do Subnautica e levou 37 peixes como tanque de oxigênio",
+   "titulo_roteiro": "SHORT: os 37 peixes de oxigênio no fundo do Lost River",
+   "description": "Short de feito no Subnautica (pauta P62 do Sonar, 18/10, Subnautica como base dos Shorts). O SpeedyMouse começa preso numa base no fundo do Lost River; pra subir com a base ele precisa do construtor, que pede um cogumelo",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short (principal, Subnautica)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-subnautica-dias-de-1-segundo.md",
