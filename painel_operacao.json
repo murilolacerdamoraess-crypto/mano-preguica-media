@@ -869,8 +869,8 @@
   },
   {
    "tipo": "Longo",
-   "titulo": "Ele zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro aguardando aprovação (12 a 13 min: o youtuber que nunca tinha feito speedrun, a base inundada que deixa ele rápido, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
+   "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
+   "etapa": "roteiro aguardando aprovação (12 a 13 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 29/10",
    "prazo": "04/11"
@@ -882,6 +882,14 @@
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 05/11",
    "prazo": "11/11"
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "Ela nadou até a árvore gigante do Subnautica 2, e passou pelos leviatãs ficando parada",
+   "etapa": "roteiro aguardando aprovação (10 a 11 min: a youtuber que nadou sozinha e sem bug até a árvore no vazio, tudo que deu errado com o wake maker, o dash e o tadpole, a camuflagem copiada de um peixinho, 60 metros por vez, e no fim quem pousou em cima da árvore quebrando a física e o que o jogo diz da raiz)",
+   "responsavel": "Farol",
+   "falta_murilo": "gravar a narração no painel até quinta 12/11",
+   "prazo": "18/11"
   },
   {
    "tipo": "Longo",
@@ -1270,5 +1278,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T21:50-03:00"
+ "gerado_em": "2026-10-18T21:51-03:00"
 }
