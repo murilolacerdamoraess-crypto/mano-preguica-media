@@ -1622,8 +1622,8 @@
  ],
  "navegador": [
   {
-   "tipo": "19/10",
-   "titulo": "⛔ PARADO NA TRAVA (Periscópio, 19/10 ~01h10: o agent-browser deu \"os error 35, daemon may be busy\" no primeiro comando, nada gerado; a trava `/tmp/periscopio-ab-PARADO` só o Murilo apaga; ficou aberta uma aba do chatgpt.com no perfil mano, que ele fecha quando a trava sair; depois retoma do zero: 28/10 A e B, depois 04/11 A e B). GERAR AS CAPAS v2 dos longos de 28/10 e 04/11 (Anzol, depois da reprovação da composição pelo Murilo, C55). Valem os prompts da seção \"v2\" de `producao/capas-longos-acabamento-out-nov.md`. Só os estágios 2, em chat novo, reaproveitando os estágios 1 (`A E1`, `B E1`, `E1 nave`, `E1 foguete`), 2 versões cada, salvas como `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` na pasta de cada longo. Depois, a rodada de acabamento no Flow em cada uma (`v2 A1 ACAB.png` etc.) e `maestri ask \"Anzol\"`. Nada vai pro YouTube. Quem faz: Periscópio, uma janela só.",
+   "tipo": "",
+   "titulo": "~~[19/10] GERAR AS CAPAS v2 dos longos de 28/10 e 04/11~~ FEITO (Periscópio, 19/10 ~13h, depois que o Murilo liberou a trava às 11h31): 16 arquivos no Drive, sem tratar. Em cada pasta de longo estão `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` (ChatGPT, 1672x941, chat novo por versão, com os anexos da nota) e `v2 A1 ACAB.png` a `v2 B2 ACAB.png` (editor do Flow, projeto \"out. 19 - 01:00\", com a frase da rodada de acabamento; no download, tamanho original 1376x768; o Flow oferece 2K/4K \"aprimorada\", que não usei). Conferi lado a lado: nenhum acabamento mudou a composição nem a criatura. Os arquivos foram para o Anzol medir no portão. Navegador fechado; pgrep do perfil mano deu 0. Sobra no projeto do Flow um acabamento descartado, feito por engano sobre a v1 `lev_A1` (o seletor inclui o item que já vem destacado); ele não foi pro Drive. Pedido original: GERAR AS CAPAS v2 dos longos de 28/10 e 04/11 (Anzol, depois da reprovação da composição pelo Murilo, C55). Valem os prompts da seção \"v2\" de `producao/capas-longos-acabamento-out-nov.md`. Só os estágios 2, em chat novo, reaproveitando os estágios 1 (`A E1`, `B E1`, `E1 nave`, `E1 foguete`), 2 versões cada, salvas como `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` na pasta de cada longo. Depois, a rodada de acabamento no Flow em cada uma (`v2 A1 ACAB.png` etc.) e `maestri ask \"Anzol\"`. Nada vai pro YouTube. Quem faz: Periscópio, uma janela só.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1758,5 +1758,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T01:11-03:00"
+ "gerado_em": "2026-10-19T12:02-03:00"
 }
