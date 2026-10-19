@@ -918,9 +918,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
-   "etapa": "edição (com a sua voz gravada em 18/10; entraram o trecho de como ele imprimiu, pedra por pedra, e a montagem final explicada, os dois com imagens novas; na fila do Windows, logo depois do coral)",
+   "etapa": "edição (com a sua voz gravada em 18/10; entrou a montagem final explicada, com imagens novas; a frase de como ele imprimiu, pedra por pedra, que você pediu na gravação, ainda não foi gravada; o Windows monta o resto e espera essa frase pra entregar)",
    "responsavel": "Windows",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a frase \"E como um Pokémon desse tamanho não cabe em impressora nenhuma, ele imprimiu o Onix em pedaços, pedra por pedra, nas impressoras gigantes dele, pra depois juntar tudo.\"",
    "prazo": ""
   },
   {
@@ -1270,5 +1270,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T21:41-03:00"
+ "gerado_em": "2026-10-18T21:50-03:00"
 }
