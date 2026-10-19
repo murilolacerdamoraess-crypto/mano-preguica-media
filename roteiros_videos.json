@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:30:07.283184Z",
+ "gerado_em": "2026-10-19T03:35:36.237522Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -427,6 +427,19 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do AstralSpiff)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-cyclops-fossa-das-marianas.md",
+   "name": "SHORT - Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
+   "titulo_roteiro": "SHORT: o Cyclops contra a Fossa das Marianas",
+   "description": "Short \"e se\" com regra dos dois mundos (pauta P71 do Sonar, 19/10, gerador de ângulos). O Cyclops, o maior submarino do Subnautica, desce 500 m de fábrica e 1.700 m com o melhor módulo (eles não somam); passou disso, o c",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short (principal, Subnautica)",
    "motor": null,
    "versao": "1"
   },
