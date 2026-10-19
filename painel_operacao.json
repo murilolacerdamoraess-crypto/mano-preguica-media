@@ -1522,6 +1522,14 @@
  ],
  "navegador": [
   {
+   "tipo": "19/10",
+   "titulo": "GERAR AS CAPAS dos longos de 28/10 (34 leviatãs sem veículo) e 04/11 (Viscerface antes da Aurora) com o acabamento novo. Pedido do Murilo (\"refaz as capas dos próximos longos com esse acabamento\"); pedido do Anzol. **Nada vai pro YouTube:** fica tudo no Drive. Prompts, ordem dos chats e qual ref anexar em cada um estão em `producao/capas-longos-acabamento-out-nov.md`. Refs em `Mano Preguica/THUMBS-NOVAS/LONGO 28-10 - 34 leviatas sem veiculo/_refs/` e `.../LONGO 04-11 - Viscerface antes da Aurora/_refs/`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[18/10] Comentários do 10 mil metros `CZbwiBSKafE`: fixar o das cápsulas, corações, não responder negativos (Claude Code, OK do Murilo)~~ FEITO (Periscópio, 18/10 noite): fixado o de @TeknatoOfficial (\"acolhimento e conforto diante toda a solidão\", 311 curtidas); coração em 9 (@TeknatoOfficial, @SonataRaven, @brodersimbryt8908, @Kaue_Axe, @EdsonArthur-v5k, @lusaiko, @BrunoMartins-e8b, @marcoscampos5374, @OBuscadordoSentido), conferidos depois de recarregar. Nada removido (77 comentários lidos pela API; nenhum com ofensa, preconceito ou link). Feito na página do vídeo no youtube.com: o Studio só listava 16 dos 77.",
    "etapa": "",
@@ -1642,5 +1650,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:35-03:00"
+ "gerado_em": "2026-10-19T00:40-03:00"
 }
