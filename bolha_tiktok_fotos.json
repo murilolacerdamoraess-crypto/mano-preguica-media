@@ -124,6 +124,10 @@
 {
 "t": 1792402165,
 "v": 230
+},
+{
+"t": 1792424233,
+"v": 230
 }
 ],
 "views": 230
@@ -366,6 +370,10 @@
 {
 "t": 1792402165,
 "v": 139
+},
+{
+"t": 1792424233,
+"v": 139
 }
 ],
 "views": 139
@@ -415,7 +423,7 @@
 "v": 431
 }
 ],
-"views": 458
+"views": 460
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -451,7 +459,7 @@
 "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2 #subnauti...",
 "ts": 1790197323,
 "fotos": [],
-"views": 818
+"views": 819
 },
 "7688096735213784341": {
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
@@ -481,19 +489,19 @@
 "titulo": "sobrevivi 24h no Subnautica com monstros aleatórios pelo mapa 😰 #subn...",
 "ts": 1788382895,
 "fotos": [],
-"views": 608
+"views": 609
 },
 "7680304123048168712": {
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 978
+"views": 980
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8065
+"views": 8069
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -836,9 +844,13 @@
 {
 "t": 1792416948,
 "v": 2360
+},
+{
+"t": 1792424233,
+"v": 2377
 }
 ],
-"views": 2360
+"views": 2377
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -919,9 +931,13 @@
 {
 "t": 1792416948,
 "v": 39300
+},
+{
+"t": 1792424233,
+"v": 39600
 }
 ],
-"views": 39300
+"views": 39600
 }
 }
 }
