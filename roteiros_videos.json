@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T00:51:53.323877Z",
+ "gerado_em": "2026-10-19T00:52:40.652325Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -683,7 +683,7 @@
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
    "description": "Short de uns 2min20 (versão 5, 18/10: o bloco 6 (a sacada) aberto pelo Murilo na hora de gravar, com a necessidade, a mecânica das bolhas e por que foi brilhante; versão 4, 16/10: os textos que o Murilo aprovou no chat d",
    "status": "roteiro aprovado (versão 5 de 18/10, a fala gravada pelo Murilo; antes versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
-   "gate": "versão 5 (18/10): fontes APROVADO (conferir_fontes.py, 35 de 35). Fluidez: R17 e R7 OK, mas 57% das frases ligadas à anterior (o mínimo é 60%), porque o bloco 6 novo é o texto que o Murilo ditou e já gravou. Fica assim, sem reescrever a fala dele; ele aprova vendo o vídeo (C39). Versão 4: fontes e fluidez APROVADOS 2026-10-16.",
+   "gate": "versão 5 (18/10): fontes APROVADO (conferir_fontes.py, 40 de 40 e 1 conta, Arpão f3ee2fb3, com a fala gravada do bloco 4). Fluidez: R17 e R7 OK, mas 59% das frases ligadas à anterior (o mínimo é 60%), porque o bloco 6 novo é o texto que o Murilo ditou e já gravou (e a frase da sacada, que ele não gravou, saiu). Fica assim, sem reescrever a fala dele; ele aprova vendo o vídeo (C39). Versão 4: fontes e fluidez APROVADOS 2026-10-16.",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
