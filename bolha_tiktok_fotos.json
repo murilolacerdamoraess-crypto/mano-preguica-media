@@ -120,6 +120,10 @@
 {
 "t": 1792380200,
 "v": 230
+},
+{
+"t": 1792402165,
+"v": 230
 }
 ],
 "views": 230
@@ -267,6 +271,10 @@
 {
 "t": 1792380200,
 "v": 37000
+},
+{
+"t": 1792402165,
+"v": 37000
 }
 ],
 "views": 37000
@@ -349,6 +357,10 @@
 },
 {
 "t": 1792380200,
+"v": 139
+},
+{
+"t": 1792402165,
 "v": 139
 }
 ],
@@ -441,7 +453,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 968
+"views": 969
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -808,9 +820,13 @@
 {
 "t": 1792394902,
 "v": 2329
+},
+{
+"t": 1792402165,
+"v": 2332
 }
 ],
-"views": 2329
+"views": 2332
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -879,9 +895,13 @@
 {
 "t": 1792394902,
 "v": 38000
+},
+{
+"t": 1792402165,
+"v": 38400
 }
 ],
-"views": 38000
+"views": 38400
 }
 }
 }
