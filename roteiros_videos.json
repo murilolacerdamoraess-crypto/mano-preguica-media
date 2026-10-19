@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:35:36.237522Z",
+ "gerado_em": "2026-10-19T03:38:32.434889Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -509,6 +509,19 @@
    "versao": "3"
   },
   {
+   "arquivo": "short-gargantuan-36-baleias-azuis.md",
+   "name": "SHORT - O Gargantuan do Subnautica seria do tamanho de 36 baleias-azuis em fila",
+   "titulo_roteiro": "SHORT: o Gargantuan vivo, em baleias-azuis",
+   "description": "Short do canal principal (pauta P75, estudo de ângulo de 19/10, tipo \"e se\" de escala real; não sai na mesma semana da P63). No Subnautica você só acha o esqueleto do Gargantuan, um fóssil de uns 3 milhões de anos com o ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-gargantuan-vivo-cyclops-foguete.md",
    "name": "SHORT - Ela trouxe o Gargantuan de volta no Subnautica, e precisou construir o submarino que ele come",
    "titulo_roteiro": "SHORT: o Gargantuan vivo e o submarino que ela precisava",
@@ -819,6 +832,32 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-seamoth-por-dia-951-dias-fim.md",
+   "name": "SHORT - Ele fez um Seamoth por dia durante 951 dias até o Subnautica 2 sair, e no dia do lançamento nem jogou",
+   "titulo_roteiro": "SHORT: o fim do Seamoth por dia",
+   "description": "Short do canal principal (pauta P76, pedido do Murilo de 19/10; o fim que o Short do Saif, 979 mil, não teve). O FanWing começou em outubro de 2023 a fazer um Seamoth por dia, com o nome de um seguidor em cada um, no har",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-silksong-noticia-todo-dia-recomecou.md",
+   "name": "SHORT - Ele deu notícia do Silksong todo dia por mais de 1.600 dias, e depois começou de novo",
+   "titulo_roteiro": "SHORT: o canal que dava notícia do Silksong todo dia",
+   "description": "Short do canal principal (pauta P77, pedido do Murilo de 19/10, casos de persistência; é o 1 de outro jogo da semana, Hollow Knight). O Silksong foi anunciado em 2019 e a espera virou piada. Uns dois anos depois, quem fa",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
