@@ -331,13 +331,13 @@
   },
   {
    "id": "P79",
-   "titulo": "Ele matou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
+   "titulo": "Ele caçou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
    "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
-   "gancho": "Ele matou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
-   "por_que_agora": "rotina de segunda de 19/10; é candidato a longo de 28/10.",
+   "gancho": "Ele caçou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
+   "por_que_agora": "rotina de segunda de 19/10. O Murilo escolheu esse vídeo pro longo de 28/10 (roteiro no Decidir), então o Short é o Short do longo e sai depois dele (R18).",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 1)",
+   "status": "em espera (vira pedido de roteiro depois do longo de 28/10, os 34 leviatãs)",
    "frente": "",
    "pendente": ""
   },
@@ -349,7 +349,7 @@
    "por_que_agora": "rotina de segunda de 19/10, segundo \"e se\" de escala do gerador de ângulos.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 2)",
+   "status": "na fila do roteiro (posição 1)",
    "frente": "",
    "pendente": ""
   },
@@ -1758,5 +1758,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T13:59-03:00"
+ "gerado_em": "2026-10-19T16:04-03:00"
 }
