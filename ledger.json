@@ -15550,9 +15550,11 @@
    "source": "mp",
    "posted": {
     "tiktok": {
-     "done": false,
-     "date": null,
-     "post_id": null
+     "done": true,
+     "date": "2026-10-14",
+     "post_id": "7696631696480881938",
+     "link": "https://www.tiktok.com/@manopreguica/video/7696631696480881938",
+     "views_tiktok": 2355
     },
     "instagram": {
      "done": true,
@@ -15605,9 +15607,11 @@
    "source": "mp",
    "posted": {
     "tiktok": {
-     "done": false,
-     "date": null,
-     "post_id": null
+     "done": true,
+     "date": "2026-10-17",
+     "post_id": "7697745159374572816",
+     "link": "https://www.tiktok.com/@manopreguica/video/7697745159374572816",
+     "views_tiktok": 39200
     },
     "instagram": {
      "done": true,

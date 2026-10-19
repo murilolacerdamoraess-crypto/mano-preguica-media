@@ -166,7 +166,7 @@ def main(hospedar):
     ag = agenda()
     ja = {p.get("video_id") for p in ag["posts"]}
     cand, fora = candidatos(led, ja)
-    slots = horarios(ag, len(cand))
+    slots = horarios(ag, POR_SEMANA)   # 19/10: pede todos os horários; com 1 apto ainda maturando, len(cand) só testava o 1º
     # 12/10/2026 (Murilo, saída "a" do buraco de 15 a 27/10): os 7 dias contam até o DIA DO POST, não até a
     # segunda da rotina. Cada horário, em ordem, leva o melhor candidato que já vai ter MATURA dias naquela data.
     pares, livres = [], list(cand)

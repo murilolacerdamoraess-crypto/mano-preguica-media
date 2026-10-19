@@ -1,5 +1,16 @@
 {
  "_leia": "Gerado por tiktok_semana.py. O Leme agenda estes no Metricool (MCP), sempre PUBLIC_TO_EVERYONE, e grava cada um em tiktok_agenda.json com o metricool_id.",
- "gerado_em": "2026-10-12T19:55:29.747825-03:00",
- "plano": []
+ "gerado_em": "2026-10-19T10:02:30.021900-03:00",
+ "plano": [
+  {
+   "video_id": "KjX2UtWiO7A",
+   "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
+   "views_youtube": 2230,
+   "tema_score": 0,
+   "quando": "2026-10-22T18:00:00-03:00",
+   "legenda": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka\n\n#games #jogos #curiosidades",
+   "video_url": "https://github.com/murilolacerdamoraess-crypto/mano-preguica-media/releases/download/KjX2UtWiO7A/KjX2UtWiO7A.mp4",
+   "privacidade": "PUBLIC_TO_EVERYONE"
+  }
+ ]
 }
