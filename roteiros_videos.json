@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T00:41:11.370681Z",
+ "gerado_em": "2026-10-19T00:50:09.150645Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -266,6 +266,19 @@
    "name": "Roteiro zerar o Subnautica antes da Aurora explodir (longo contado)",
    "titulo_roteiro": "Roteiro: ZERAR O SUBNAUTICA ANTES DA AURORA EXPLODIR",
    "description": "Longo contado de Subnautica (pauta P54 do Sonar, pedido de roteiro de 18/10/2026 pela regra \"Decidir: vídeo pronto, não argumento\"): a jornada da Viscerface, que nunca tinha feito speedrun, pra zerar o Subnautica antes d",
+   "status": "aguardando-aprovacao-murilo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "roteiro-viscerface-arvore-subnautica-2.md",
+   "name": "Roteiro a árvore gigante do Subnautica 2 sem trapaça (longo contado)",
+   "titulo_roteiro": "Roteiro: A ÁRVORE GIGANTE DO SUBNAUTICA 2, SEM TRAPAÇA",
+   "description": "Longo contado de Subnautica (decisão do Murilo de 18/10/2026 pra 18/11): a Viscerface nadando sozinha até a árvore gigante do Subnautica 2, no vazio e protegida por leviatãs, sem bug nenhum, com o wake maker, o dash, o t",
    "status": "aguardando-aprovacao-murilo",
    "gate": "",
    "video_id": null,
