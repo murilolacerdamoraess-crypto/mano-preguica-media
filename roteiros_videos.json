@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:01:53.613484Z",
+ "gerado_em": "2026-10-19T03:03:41.074234Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -83,27 +83,27 @@
    "arquivo": "mp2-batmovel-muro-de-tijolo.md",
    "name": "SHORT MP2 - Estão construindo o Batmóvel de verdade, e o primeiro teste foi bater num muro de tijolo",
    "titulo_roteiro": "SHORT MP2: o caminhão do Batmóvel contra o muro de tijolo",
-   "description": "Short do MP2 (pauta P48 do Sonar, pedido de roteiro de 18/10, terceira leva; família \"impossível com as próprias mãos\"). A Hacksmith quer fazer um Batmóvel melhor que o de todos os filmes, com o máximo de aparelhos dos q",
+   "description": "Short do MP2 (pauta P48 do Sonar, versão 2 pela regra \"MP2 também é história guiada\" de 18/10). A Hacksmith, que já fez um monte de projeto do Batman (até um kart do Batmóvel do Nolan há 9 anos), quer o Batmóvel mais fun",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "mp2-maos-do-hulk-hidraulica.md",
    "name": "SHORT MP2 - Esse cara fez as mãos do Hulk de verdade, e a força estourou o medidor",
    "titulo_roteiro": "SHORT MP2: as mãos do Hulk de verdade",
-   "description": "Short de uns 2 minutos e 50 pro MP2 (pauta P47 do Sonar, 18/10, família \"impossível com as próprias mãos\", tom \"olha que legal que estão fazendo\"). O JLaservideo, o mesmo da luva do Homem-Aranha, queria ser mil vezes mai",
+   "description": "Short de uns 2 minutos e 55 pro MP2 (pauta P47 do Sonar, família \"impossível com as próprias mãos\", tom \"olha que legal que estão fazendo\"). Versão 2 (19/10), refeita pela história guiada. O JLaservideo, o mesmo da luva ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "mp2-ocarina-zelda-microfone.md",
