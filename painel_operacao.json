@@ -330,6 +330,42 @@
    "pendente": ""
   },
   {
+   "id": "P76",
+   "titulo": "Ele fez um Seamoth por dia durante 951 dias até o Subnautica 2 sair, e no dia do lançamento nem jogou",
+   "rodada": "Persistência de jogador 19/10/2026 (Sonar): 3 pautas (pedido do Murilo depois do Short do Saif sobre o Seamoth por dia)",
+   "gancho": "Ele fez um Seamoth por dia durante 951 dias até o Subnautica 2 sair, e no dia do lançamento nem jogou",
+   "por_que_agora": "o Subnautica 2 saiu, a série acabou, e o Murilo pediu em 19/10.",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 1)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P77",
+   "titulo": "Ele deu notícia do Silksong todo dia por mais de 1.600 dias, e depois começou de novo",
+   "rodada": "Persistência de jogador 19/10/2026 (Sonar): 3 pautas (pedido do Murilo depois do Short do Saif sobre o Seamoth por dia)",
+   "gancho": "Ele deu notícia do Silksong todo dia por mais de 1.600 dias, e depois começou de novo",
+   "por_que_agora": "o pedido do Murilo de 19/10 (casos avulsos de persistência).",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 2)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P78",
+   "titulo": "Ele mata o Arthur Morgan todo dia até o GTA 6 sair",
+   "rodada": "Persistência de jogador 19/10/2026 (Sonar): 3 pautas (pedido do Murilo depois do Short do Saif sobre o Seamoth por dia)",
+   "gancho": "Ele mata o Arthur Morgan todo dia até o GTA 6 sair",
+   "por_que_agora": "",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "em espera (vira pedido de roteiro quando o GTA 6 sair, a partir de 19/11/2026, junto da varredura do Reddit do GTA 6)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P71",
    "titulo": "Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
    "rodada": "Ângulos de \"e se\" e \"o mundo que te mata\" no Subnautica 19/10/2026 (Sonar): 5 pautas (estudo de ângulo do @iamLaike, pedido do Murilo)",
@@ -385,7 +421,7 @@
    "por_que_agora": "o gerador de ângulos de 19/10 pediu um \"e se\" de escala.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 1)",
+   "status": "na fila do roteiro (posição 3)",
    "frente": "",
    "pendente": ""
   },
@@ -1574,5 +1610,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:30-03:00"
+ "gerado_em": "2026-10-19T00:33-03:00"
 }
