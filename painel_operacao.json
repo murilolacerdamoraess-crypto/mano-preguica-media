@@ -1202,7 +1202,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia (canal 2)",
-   "etapa": "roteiro (aguardando aprovação, versão 1: a placa fritando na véspera, o sabre vermelho quebrando 1 hora antes da noite de Star Wars, o azul deixando o povo de boca aberta, e o fio que ele soldou errado de cansaço virando a solução da lâmina; uns 2 min e 50, o tamanho da luva)",
+   "etapa": "roteiro (aguardando aprovação, versão 2 pela história guiada: agora explica como a lâmina volta, a fita puxando e o motor girando, e por isso o fim faz sentido: o fio ligado errado de cansaço fez o motor apertar enquanto a fita puxava, e a lâmina espremida travou dura; o prazo, a placa queimada e a noite sem duelo no meio; uns 3 min)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": ""
@@ -1210,7 +1210,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez as mãos do Hulk de verdade, e a força estourou o medidor (canal 2)",
-   "etapa": "roteiro (aguardando aprovação, versão 1: do mesmo cara da luva do Homem-Aranha; a bomba em ponto morto, a mochila, o medidor estourado e a bola de vidro que deu mais trabalho que um cadeado de aço, sem as cenas de sangue e de crime encenado do vídeo; uns 2 min e 50)",
+   "etapa": "roteiro (aguardando aprovação, versão 2 pela história guiada, com os seus quatro porquês: o medidor de aperto e os 180 libras do atleta, as duas horas em ponto morto por comprar peça sem saber nada de hidráulica, a mochila porque a bomba precisava de tomada, e o vidro que resiste e explode, cumprindo a aposta do escudo; uns 2 min e 55)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": ""
@@ -1490,5 +1490,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:02-03:00"
+ "gerado_em": "2026-10-19T00:07-03:00"
 }
