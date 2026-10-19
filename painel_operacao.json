@@ -1017,6 +1017,14 @@
  "producao": [
   {
    "tipo": "Longo",
+   "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "etapa": "roteiro aguardando aprovação (12 a 14 min: o youtuber dos 10 mil metros caçando os 34 leviatãs só com faca e rifle de estase, as bolsas do gasópode atiradas com o canhão, os fantasmas que o rifle não segura, a base no meio dos três, a faca de calor que não corta o dragão que cospe fogo e, no fim, o dragão que fugiu pelo chão do mapa)",
+   "responsavel": "Farol",
+   "falta_murilo": "gravar a narração no painel até quinta 22/10",
+   "prazo": "28/10"
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
    "etapa": "roteiro aguardando aprovação (12 a 13 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
@@ -1506,5 +1514,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:21-03:00"
+ "gerado_em": "2026-10-19T00:23-03:00"
 }
