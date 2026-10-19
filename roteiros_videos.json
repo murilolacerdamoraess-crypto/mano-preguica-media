@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T21:09:46.068227Z",
+ "gerado_em": "2026-10-19T00:34:55.067843Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -214,6 +214,19 @@
    "name": "Roteiro cápsulas do tempo do Subnautica (longo contado)",
    "titulo_roteiro": "Roteiro: AS CÁPSULAS DO TEMPO DO SUBNAUTICA",
    "description": "Longo contado de Subnautica (pauta P49, decisão do Murilo de 18/10/2026): como as cápsulas do tempo funcionam, quem decide quais entram, a mais bizarra, a mais legal, a mais achada (189 mil vezes) e a resposta da pergunt",
+   "status": "aguardando-aprovacao-murilo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "roteiro-deathrun-sem-andar-extintor.md",
+   "name": "Roteiro Deathrun sem andar, só com extintor (longo contado)",
+   "titulo_roteiro": "Roteiro: ZERAR O DEATHRUN SEM ANDAR",
+   "description": "Longo contado de Subnautica (pauta P55 do Sonar, aprovada pelo Murilo em 18/10/2026 pra 11/11): o Queue zerando o Deathrun, o mod mais difícil do Subnautica, sem apertar a tecla de andar, empurrado por extintor, entrando",
    "status": "aguardando-aprovacao-murilo",
    "gate": "",
    "video_id": null,
