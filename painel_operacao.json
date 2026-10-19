@@ -330,6 +330,66 @@
    "pendente": ""
   },
   {
+   "id": "P79",
+   "titulo": "Ele matou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
+   "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
+   "gancho": "Ele matou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
+   "por_que_agora": "rotina de segunda de 19/10; é candidato a longo de 28/10.",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 1)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P80",
+   "titulo": "A Aurora do Subnautica tem quase 5 Titanics de comprimento",
+   "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
+   "gancho": "A Aurora do Subnautica tem quase 5 Titanics de comprimento",
+   "por_que_agora": "rotina de segunda de 19/10, segundo \"e se\" de escala do gerador de ângulos.",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 2)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P81",
+   "titulo": "Ela virou o mapa do Subnautica de cabeça pra baixo e começou a 2 mil metros",
+   "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "no backlog (nota 7, abaixo de 8, não vira roteiro agora; repete soluções que o canal já tem)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P82",
+   "titulo": "Ele zerou o Subnautica só com o Cyclops, sem nenhuma base",
+   "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "no backlog (nota 7, abaixo de 8, não vira roteiro agora)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P83",
+   "titulo": "Ele subiu 24 km no céu do Subnautica 2 com um bug, e caiu em cima da árvore",
+   "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
+   "gancho": "Ele subiu 24 km no céu do Subnautica 2 com um bug, e caiu em cima da árvore",
+   "por_que_agora": "",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "em espera (vira pedido de roteiro depois do longo de 18/11)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P76",
    "titulo": "Ele fez um Seamoth por dia durante 951 dias até o Subnautica 2 sair, e no dia do lançamento nem jogou",
    "rodada": "Persistência de jogador 19/10/2026 (Sonar): 3 pautas (pedido do Murilo depois do Short do Saif sobre o Seamoth por dia)",
@@ -1690,5 +1750,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:43-03:00"
+ "gerado_em": "2026-10-19T00:49-03:00"
 }
