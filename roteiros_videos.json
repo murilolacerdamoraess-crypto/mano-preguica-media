@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T02:22:42.993755Z",
+ "gerado_em": "2026-10-19T02:24:00.341547Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -351,6 +351,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-collector-preso-onde-nasce-subnautica-2.md",
+   "name": "SHORT - O maior predador do Subnautica 2 não morre, então três amigos prenderam ele onde ele nasce",
+   "titulo_roteiro": "SHORT: o Collector preso onde ele nasce",
+   "description": "Short do canal principal (pauta P59 do Sonar, pedido de roteiro de 18/10, Subnautica como base dos Shorts). No Subnautica 2 não dá pra matar nenhum bicho, nem o Collector, o maior leviatã caçador do jogo. O AstralSpiff q",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do AstralSpiff)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-deathrun-extintor-sem-andar.md",
