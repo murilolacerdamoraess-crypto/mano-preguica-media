@@ -373,7 +373,7 @@
    "por_que_agora": "o Short dos 10 mil metros mostrou que profundidade extrema puxa o público do canal, e o gerador de ângulos de 19/10 pediu o primeiro \"e se\".",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 19/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 19/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -1345,6 +1345,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
+   "etapa": "roteiro (aguardando aprovação, versão 1 pela história guiada, o primeiro \"e se\" do gerador de ângulos: o Cyclops só aguenta 1.700 metros e explode passando muito disso, e pelas regras do jogo, dito como opinião, não passaria muito dos 2 km; em 1960 o Trieste chegou nos quase 11 mil com a cabine pendurada em tanques de gasolina, e uma janela rachou no caminho; uns 2 min)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 3 aguardando aprovação, contada como história: o fã que fez um pra esposa em 2020, o criador que pôs 68 ímãs pra ele quebrar limpo e montar igual, e o pote voltando inteiro no fim; uns 1min45)",
    "responsavel": "Arpão",
@@ -1634,5 +1642,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:34-03:00"
+ "gerado_em": "2026-10-19T00:35-03:00"
 }
