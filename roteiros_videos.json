@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:17:05.331130Z",
+ "gerado_em": "2026-10-19T03:21:24.484973Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -208,6 +208,19 @@
    "formato": null,
    "motor": null,
    "versao": null
+  },
+  {
+   "arquivo": "roteiro-34-leviatas-sem-veiculo.md",
+   "name": "Roteiro 34 leviatãs sem veículo (longo contado)",
+   "titulo_roteiro": "Roteiro: OS 34 LEVIATÃS SEM VEÍCULO",
+   "description": "Longo contado de Subnautica (escolha do Murilo de 19/10/2026 pra 28/10): o The Last Bacon caçando os 34 leviatãs do mapa sem nenhum veículo, só com faca, rifle de estase e as bolsas do gasópode; os fantasmas que não fica",
+   "status": "aguardando-aprovacao-murilo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "longo MP1",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "roteiro-capsulas-do-tempo-subnautica.md",
