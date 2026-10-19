@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T00:34:55.067843Z",
+ "gerado_em": "2026-10-19T00:41:11.370681Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -306,12 +306,12 @@
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10, chamada do longo de 04/11 do Farol, que conta o mesmo vídeo inteiro). A Viscerface tinha mais ou menos uma hora pra zerar o Subnautica antes da Au",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-blanka-africano-criado-por-leao.md",
@@ -345,12 +345,12 @@
    "titulo_roteiro": "SHORT: o Deathrun zerado sem andar, com um extintor",
    "description": "Short do canal principal (pauta P55 do Sonar, pedido de roteiro de 18/10). O Queue quis superar o Breathtaker, o primeiro a zerar o Subnautica sem se mexer, fazendo o mesmo com o Deathrun, o mod considerado o mais difíci",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-dlss5-jogo-de-ps2.md",
@@ -397,12 +397,12 @@
    "titulo_roteiro": "SHORT: o fliperama dentro do Minecraft hardcore",
    "description": "Short do canal principal (pauta P44 do Sonar, pedida pelo Murilo em 17/10). O Farzy construiu o maior fliperama que funciona dentro do seu mundo de Minecraft hardcore, onde não dá pra renascer. Cada jogo virou uma sala d",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 2 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 3 (18/10, voz real padrões 1 a 20, só a fala): versão 2 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Farzy)",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-ghast-grito-gato-c418.md",
@@ -462,12 +462,12 @@
    "titulo_roteiro": "SHORT: o machado do Kratos forjado de verdade",
    "description": "Short do canal principal (pauta P43 do Sonar, pedido de roteiro de 18/10, família \"impossível com as próprias mãos\"). O machado do Kratos foi o primeiro projeto de réplica da HammerForge; ele voltou nele pra forjar de ve",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo da HammerForge, que é só imagem e música)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-menderbug-hollow-knight.md",
@@ -722,12 +722,12 @@
    "titulo_roteiro": "SHORT: a subida de 700 metros no Void",
    "description": "Short do canal principal (pauta P57 do Sonar, pedido de roteiro de 18/10). A Viscerface começou o Subnautica numa ilhinha que um mod pôs no meio do Void, a 700 m de profundidade, e pra fazer o resto do jogo precisava che",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
