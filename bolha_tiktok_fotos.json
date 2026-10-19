@@ -463,13 +463,13 @@
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
 "ts": 1789765315,
 "fotos": [],
-"views": 460
+"views": 461
 },
 "7686241388739972372": {
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 86600
+"views": 86700
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -487,7 +487,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 975
+"views": 978
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -832,9 +832,13 @@
 {
 "t": 1792409605,
 "v": 2345
+},
+{
+"t": 1792416948,
+"v": 2360
 }
 ],
-"views": 2345
+"views": 2360
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -911,9 +915,13 @@
 {
 "t": 1792409605,
 "v": 38900
+},
+{
+"t": 1792416948,
+"v": 39300
 }
 ],
-"views": 38900
+"views": 39300
 }
 }
 }
