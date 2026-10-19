@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T01:00:48.785954Z",
+ "gerado_em": "2026-10-19T02:22:42.993755Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -689,6 +689,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "5"
+  },
+  {
+   "arquivo": "short-subnautica-por-baixo-do-mapa.md",
+   "name": "SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
+   "titulo_roteiro": "SHORT: atravessar o Subnautica por baixo do mapa",
+   "description": "Short de feito no Subnautica (pauta P58 do Sonar, 18/10, Subnautica como base dos Shorts). The Last Bacon quer cruzar o mapa inteiro nadando por baixo dele; a única entrada é pelo Void, onde os Ghost Leviathans nascem at",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short (principal, Subnautica)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
