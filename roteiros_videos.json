@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T00:53:21.411792Z",
+ "gerado_em": "2026-10-19T00:54:14.984226Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -319,12 +319,12 @@
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10, chamada do longo de 04/11 do Farol, que conta o mesmo vídeo inteiro). A Viscerface tinha mais ou menos uma hora pra zerar o Subnautica antes da Au",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 3 (18/10, a Viscerface é ela, só pronome; títulos novos no portao_pauta): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-blanka-africano-criado-por-leao.md",
@@ -735,12 +735,12 @@
    "titulo_roteiro": "SHORT: a subida de 700 metros no Void",
    "description": "Short do canal principal (pauta P57 do Sonar, pedido de roteiro de 18/10). A Viscerface começou o Subnautica numa ilhinha que um mod pôs no meio do Void, a 700 m de profundidade, e pra fazer o resto do jogo precisava che",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 3 (18/10, a Viscerface é ela, só pronome; títulos novos no portao_pauta): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "2"
+   "versao": "3"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
