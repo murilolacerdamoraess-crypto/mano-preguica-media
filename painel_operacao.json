@@ -337,7 +337,7 @@
    "por_que_agora": "Subnautica virou a base dos Shorts (decisão do Murilo de 18/10) e o canal do Bacon já deu o Short dos 10 mil metros.",
    "formato": "Short 2-2min30",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -361,7 +361,7 @@
    "por_que_agora": "Subnautica virou a base dos Shorts (decisão do Murilo de 18/10).",
    "formato": "Short 2-2min30",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -385,7 +385,7 @@
    "por_que_agora": "Subnautica virou a base dos Shorts (decisão do Murilo de 18/10).",
    "formato": "Short 2-2min30",
    "concorrencia": "",
-   "status": "pego por Tarrafa (pedido de roteiro de 18/10)",
+   "status": "pego por Tarrafa (roteiro pronto em 18/10, no Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -1165,6 +1165,30 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
+   "etapa": "roteiro (aguardando aprovação, versão 1 pela história guiada: ele desce o Void esfregando o ombro na parede, cruza 3 km a quase 2 mil metros trocando de tanque quando a tela escurece, cai num falso fim no meio dos Ghost Leviathans e sobe de air bladder; admite que desligou a névoa e refaz no difícil; só no fim vem a regra do jogo que segurou os Ghost; uns 2 min e 40)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele zerou o Subnautica com dias de 1 segundo, e a comida apodrecia antes de chegar na boca",
+   "etapa": "roteiro (aguardando aprovação, versão 1 pela história guiada: o dia de 20 minutos vira 1 segundo no mod dele, os peixes explosivos voltam a cada 3 segundos, o peixe e a fruta apodrecem na hora, e só no fim o que salvou: o peixe salgado, que não estraga; foguete no dia 24.544 com sal na cápsula do tempo; uns 2 min)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele ficou preso no fundo do Subnautica e levou 37 peixes como tanque de oxigênio",
+   "etapa": "roteiro (aguardando aprovação, versão 1 pela história guiada: sem titânio pra mais tanque, ele leva 37 peixes que dão ar quando você come, mais que o dobro do ar dos tanques; na volta perde vida com peixe sobrando e a água chega em 3, e só no fim o porquê: cada peixe tira água; uns 2 min e 40)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo promete quebrar sem perder o pote; o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
    "responsavel": "Arpão",
@@ -1398,5 +1422,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T23:33-03:00"
+ "gerado_em": "2026-10-18T23:41-03:00"
 }
