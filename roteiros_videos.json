@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T19:12:59.856646Z",
+ "gerado_em": "2026-10-19T19:14:52.525380Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -428,7 +428,7 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-cartuchos-mario-ouro.md",
@@ -467,7 +467,7 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-deathrun-extintor-sem-andar.md",
@@ -662,7 +662,7 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "4"
   },
   {
    "arquivo": "short-mister-peeps-peixinho-capsula.md",
@@ -922,7 +922,7 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-subnautica-dias-de-1-segundo.md",
