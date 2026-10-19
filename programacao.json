@@ -1,16 +1,16 @@
 {
- "gerado_em": "2026-10-19T01:57:57.102336-03:00",
+ "gerado_em": "2026-10-19T14:50:23.509386-03:00",
  "mes": {
-  "postados": 20,
+  "postados": 22,
   "teto": 93,
-  "folga": 73
+  "folga": 71
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 3,
+   "na_fila": 1,
    "ultimo_post": "2026-10-17",
    "dias_parado": 2,
    "parado": false,
@@ -20,18 +20,16 @@
      "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa",
      "quando": "2026-10-19T18:00:00-03:00",
      "fonte": "metricool"
+    },
+    {
+     "video_id": "KjX2UtWiO7A",
+     "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
+     "quando": "2026-10-22T18:00:00-03:00",
+     "fonte": "metricool"
     }
    ],
    "previstos": [],
    "proximos_da_fila": [
-    {
-     "video_id": "KYi45DujK_A",
-     "titulo": "Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga #shorts"
-    },
-    {
-     "video_id": "CZbwiBSKafE",
-     "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts"
-    },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka"
