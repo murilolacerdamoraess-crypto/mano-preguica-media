@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T21:22:39.802917-03:00",
+ "gerado_em": "2026-10-19T01:57:57.102336-03:00",
  "mes": {
   "postados": 20,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
    "ultimo_post": "2026-10-17",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [
     {
@@ -44,24 +44,24 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 3,
    "ultimo_post": "2026-10-18",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-18T21:30:00-03:00"
+     "quando": "2026-10-19T21:30:00-03:00"
     },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
-     "quando": "2026-10-19T21:30:00-03:00"
+     "quando": "2026-10-20T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-20T21:30:00-03:00"
+     "quando": "2026-10-21T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -85,7 +85,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 26,
    "ultimo_post": "2026-10-14",
-   "dias_parado": 4,
+   "dias_parado": 5,
    "parado": false,
    "agendados": [],
    "previstos": [
