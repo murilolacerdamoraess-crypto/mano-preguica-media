@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:38:32.434889Z",
+ "gerado_em": "2026-10-19T03:42:26.350794Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -401,6 +401,19 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-capsulas-500-repetidas.md",
+   "name": "SHORT - Ela abriu 500 cápsulas do tempo no Subnautica, e 100 eram repetidas",
+   "titulo_roteiro": "SHORT: as 500 cápsulas repetidas",
+   "description": "Short de cápsula do tempo (pauta P67 do Sonar, das pautas de cápsulas do Farol, 19/10). A Alidove abre 500 cápsulas em várias partidas e anota tudo numa planilha; umas 100 vêm repetidas, o que pela conta dela (84 mil dif",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short (principal, Subnautica)",
    "motor": null,
    "versao": "1"
   },
