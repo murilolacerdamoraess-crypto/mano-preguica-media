@@ -880,8 +880,8 @@
    "titulo": "Stonewards em dupla",
    "etapa": "narração (você gravou do trecho 1 ao 29 em 18/10 mudando a história; a sua versão virou a história e o texto do 30 em diante já foi reescrito em cima dela, agora com 125 trechos no Gravar narração; com a voz aprovada o Windows monta o vídeo inteiro)",
    "responsavel": "Farol",
-   "falta_murilo": "regravar só o trecho 25 (a cura no crítico é uma chance, não toda vez) e gravar do 30 ao 125 quando sobrar voz, até 08/11; ele fica de reserva, porque os longos contados de Subnautica entram antes",
-   "prazo": "18/11"
+   "falta_murilo": "regravar só o trecho 25 (a cura no crítico é uma chance, não toda vez) e gravar do 30 ao 125 quando sobrar voz; ele fica de reserva, porque os longos contados de Subnautica ocupam até 18/11 e ele cobre a semana que furar",
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -1262,5 +1262,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T19:00-03:00"
+ "gerado_em": "2026-10-18T21:28-03:00"
 }
