@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:21:24.484973Z",
+ "gerado_em": "2026-10-19T03:28:40.076173Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -314,6 +314,19 @@
    "versao": null
   },
   {
+   "arquivo": "short-agua-subnautica-2-envenena-meses-de-vida.md",
+   "name": "SHORT - Até a água do Subnautica 2 te envenena, e o jogo te dá só alguns meses de vida",
+   "titulo_roteiro": "SHORT: até a água do Subnautica 2 te envenena",
+   "description": "Short do canal principal (pauta P73, estudo de ângulo de 19/10, tipo \"o mundo que te mata\"). O planeta do Subnautica 2 te mata de vários jeitos escritos no próprio jogo (o ar pressurizado destrói os pulmões, o calor pass",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
    "arquivo": "short-armadura-fallout-de-verdade.md",
    "name": "SHORT - A armadura do Fallout já existe de verdade, só falta uma coisa pra ela ficar pronta",
    "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
@@ -505,6 +518,19 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
+   "motor": null,
+   "versao": "1"
+  },
+  {
+   "arquivo": "short-heroi-subnautica-1-13-minutos-no-2.md",
+   "name": "SHORT - O herói do Subnautica 1 morreria em 13 minutos no Subnautica 2",
+   "titulo_roteiro": "SHORT: o herói do Subnautica 1 no Subnautica 2",
+   "description": "Short do canal principal (pauta P72, estudo de ângulo de 19/10, tipo \"e se\" entre os dois jogos). No Subnautica 1 o ar do planeta era respirável, era só subir que o oxigênio voltava, e o herói sobreviveu a tudo com corpo",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
    "versao": "1"
   },
@@ -702,6 +728,19 @@
    "formato": "short MP1 (voz real do Murilo por cima da gameplay dele, com os momentos ao vivo tocando)",
    "motor": null,
    "versao": "2"
+  },
+  {
+   "arquivo": "short-reaper-contra-megalodon.md",
+   "name": "SHORT - O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
+   "titulo_roteiro": "SHORT: o Reaper contra o megalodon",
+   "description": "Short do canal principal (pauta P74, estudo de ângulo de 19/10, tipo crossover com animal real). O megalodon, o maior tubarão que já existiu, viveu de 23 milhões a 3,6 milhões de anos atrás, caçava baleia e tinha dentes ",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-redead-zelda-cego.md",
