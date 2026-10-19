@@ -1623,7 +1623,15 @@
  "navegador": [
   {
    "tipo": "19/10",
-   "titulo": "PARADO a pedido (Murilo reprovou a composição: elementos pequenos, 60% de pôr do sol; prompts novos vêm). Já saiu, no Drive e sem tratar: 28/10 `A E1.png`, `A1.png`, `A2.png`, `B E1.png`, `B1.png`, `B2.png`; 04/11 `E1 nave.png`, `E1 foguete.png`, `A1.png`, `A2.png`, `B1.png`, `B2.png`. Acabamento no Flow não rodou (as 8 versões só foram enviadas pro projeto \"out. 19 - 01:00\", sem gerar). Pedido original: GERAR AS CAPAS dos longos de 28/10 (34 leviatãs sem veículo) e 04/11 (Viscerface antes da Aurora) com o acabamento novo. Pedido do Murilo (\"refaz as capas dos próximos longos com esse acabamento\"); pedido do Anzol. **Nada vai pro YouTube:** fica tudo no Drive. Prompts, ordem dos chats e qual ref anexar em cada um estão em `producao/capas-longos-acabamento-out-nov.md`. Refs em `Mano Preguica/THUMBS-NOVAS/LONGO 28-10 - 34 leviatas sem veiculo/_refs/` e `.../LONGO 04-11 - Viscerface antes da Aurora/_refs/`.",
+   "titulo": "GERAR AS CAPAS v2 dos longos de 28/10 e 04/11 (Anzol, depois da reprovação da composição pelo Murilo, C55). Valem os prompts da seção \"v2\" de `producao/capas-longos-acabamento-out-nov.md`. Só os estágios 2, em chat novo, reaproveitando os estágios 1 (`A E1`, `B E1`, `E1 nave`, `E1 foguete`), 2 versões cada, salvas como `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` na pasta de cada longo. Depois, a rodada de acabamento no Flow em cada uma (`v2 A1 ACAB.png` etc.) e `maestri ask \"Anzol\"`. Nada vai pro YouTube. Quem faz: Periscópio, uma janela só.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[19/10] v1 das capas~~ PARADO a pedido (Murilo reprovou a composição: elementos pequenos, 60% de pôr do sol; prompts novos vêm). Já saiu, no Drive e sem tratar: 28/10 `A E1.png`, `A1.png`, `A2.png`, `B E1.png`, `B1.png`, `B2.png`; 04/11 `E1 nave.png`, `E1 foguete.png`, `A1.png`, `A2.png`, `B1.png`, `B2.png`. Acabamento no Flow não rodou (as 8 versões só foram enviadas pro projeto \"out. 19 - 01:00\", sem gerar). Pedido original: GERAR AS CAPAS dos longos de 28/10 (34 leviatãs sem veículo) e 04/11 (Viscerface antes da Aurora) com o acabamento novo. Pedido do Murilo (\"refaz as capas dos próximos longos com esse acabamento\"); pedido do Anzol. **Nada vai pro YouTube:** fica tudo no Drive. Prompts, ordem dos chats e qual ref anexar em cada um estão em `producao/capas-longos-acabamento-out-nov.md`. Refs em `Mano Preguica/THUMBS-NOVAS/LONGO 28-10 - 34 leviatas sem veiculo/_refs/` e `.../LONGO 04-11 - Viscerface antes da Aurora/_refs/`.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1750,5 +1758,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T01:02-03:00"
+ "gerado_em": "2026-10-19T01:07-03:00"
 }
