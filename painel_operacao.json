@@ -1106,7 +1106,7 @@
   {
    "tipo": "Short",
    "titulo": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
-   "etapa": "roteiro (versão 3 pra aprovar, revisada pelas regras de 18/10: o começo agora promete o que acontece quando você acerta a música, e o fim fecha; produto vai só na aba de compras; fontes conferidas)",
+   "etapa": "roteiro (versão 4 aguardando aprovação, contada como história: por que a ocarina importa, como sempre foi no botão, o microfone do Switch 2, a ocarina de verdade e a música que chama o cavalo; uns 1min30)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1114,7 +1114,7 @@
   {
    "tipo": "Short",
    "titulo": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
-   "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo guarda o que tem dentro pro fim; lançou em 01/10, a janela é outubro; fontes conferidas)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, contada como história: por que ela parece só enfeite, por que dentro de uma bola não cabe uma cena, e o jeito de abrir que espalha a cena pra fora; uns 1min50)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1242,10 +1242,10 @@
   {
    "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
-   "etapa": "roteiro (versão 2 aguardando aprovação, revisada pelas regras de 18/10: o começo promete quebrar sem perder o pote; o pote se abre em pedaços com rupia no meio e monta de novo com ímã, contado pelo Zelda, sem falar de impressora)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, contada como história: o fã que fez um pra esposa em 2020, o criador que pôs 68 ímãs pra ele quebrar limpo e montar igual, e o pote voltando inteiro no fim; uns 1min45)",
    "responsavel": "Arpão",
    "falta_murilo": "",
-   "prazo": "05/11 (lançamento do Zelda Ocarina of Time novo)"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -1346,15 +1346,15 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
-   "etapa": "roteiro (aguardando aprovação: veio num lote de videogame quebrado, ele trocou a bateriazinha e calibrou o leitor, e no fim o disco gira na mão e voa se você mexer rápido; 60 segundos)",
+   "etapa": "roteiro (versão 2 aguardando aprovação, contada como história: por que manter o leitor, o ajuste que morava na bateriazinha, a montagem na base da cola quente e da fita, e o disco que resiste quando você vira e voa se mexer rápido; uns 2min30)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Estão construindo o Batmóvel de verdade, e o primeiro teste foi bater num muro de tijolo (canal 2)",
-   "etapa": "roteiro (aguardando aprovação: a caminhonete de teste de 2003, com 300 mil km, cercada de aço, contra palete, barril, geladeira e o muro, e saiu inteira; 60 segundos)",
+   "titulo": "Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo (canal 2)",
+   "etapa": "roteiro (versão 2 aguardando aprovação: o título agora promete só a caminhonete, como você pediu ao reprovar; por que um carro de teste antes, como blindaram e por quê, e o muro que prova que a blindagem aguenta; uns 2min05)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1490,5 +1490,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-19T00:07-03:00"
+ "gerado_em": "2026-10-19T00:13-03:00"
 }
