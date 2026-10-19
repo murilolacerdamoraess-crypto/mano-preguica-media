@@ -349,7 +349,7 @@
    "por_que_agora": "a regra das crônicas de feitos de 18/10, e o vídeo é de maio de 2026.",
    "formato": "Short 60-90s e Longo contado 10 a 14 min",
    "concorrencia": "",
-   "status": "pego por Arpão (Short pronto em 18/10, no Decidir: roteiros/short-deathrun-extintor-sem-andar.md) e Farol (longo, depois do de 04/11)",
+   "status": "pego por Arpão (Short pronto em 18/10, no Decidir: roteiros/short-deathrun-extintor-sem-andar.md) e Farol (longo aprovado pelo Murilo pra 11/11 em 18/10; roteiro pronto em 18/10, no Decidir: roteiros/roteiro-deathrun-sem-andar-extintor.md)",
    "frente": "",
    "pendente": ""
   },
@@ -877,6 +877,14 @@
   },
   {
    "tipo": "Longo",
+   "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
+   "etapa": "roteiro aguardando aprovação (12 a 14 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
+   "responsavel": "Farol",
+   "falta_murilo": "gravar a narração no painel até quinta 05/11",
+   "prazo": "11/11"
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Stonewards em dupla",
    "etapa": "narração (você gravou do trecho 1 ao 29 em 18/10 mudando a história; a sua versão virou a história e o texto do 30 em diante já foi reescrito em cima dela, agora com 125 trechos no Gravar narração; com a voz aprovada o Windows monta o vídeo inteiro)",
    "responsavel": "Farol",
@@ -1262,5 +1270,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-18T21:28-03:00"
+ "gerado_em": "2026-10-18T21:34-03:00"
 }
