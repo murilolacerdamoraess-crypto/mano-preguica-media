@@ -346,6 +346,30 @@
    "pendente": ""
   },
   {
+   "id": "P84",
+   "titulo": "Ela abriu 500 cápsulas do tempo no Subnautica, e uma dizia só: ele espera lá embaixo",
+   "rodada": "Duas pautas das reprovações de 20/10/2026 (Sonar, pedido do Sextante): as cápsulas mais sombrias e os dois Elden Ring",
+   "gancho": "Ela abriu 500 cápsulas do tempo no Subnautica, e uma dizia só: ele espera lá embaixo\" (portão de título APROVADO)",
+   "por_que_agora": "pedido do Murilo no Decidir de 20/10.",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 2)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P85",
+   "titulo": "Ela jogou dois Elden Ring ao mesmo tempo, um com as mãos e outro com os pés, e zerou os dois",
+   "rodada": "Duas pautas das reprovações de 20/10/2026 (Sonar, pedido do Sextante): as cápsulas mais sombrias e os dois Elden Ring",
+   "gancho": "Ela jogou dois Elden Ring ao mesmo tempo, um com as mãos e outro com os pés, e zerou os dois\" (portão de título APROVADO)",
+   "por_que_agora": "pedido do Murilo no Decidir de 20/10.",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "em espera (vaga de outro jogo: a desta semana é o Silksong, a P77, e a próxima é da P6, a Malenia; esta vai na semana seguinte, e sempre atrás do teto de 20 no Decidir)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P79",
    "titulo": "Ele caçou os leviatãs do Subnautica sem nenhum veículo, e o último fugiu do jogo",
    "rodada": "Rotina de segunda 19/10/2026 (Sonar): radar de hype e 5 pautas de Subnautica (com o teto de 20 no Decidir)",
@@ -1766,5 +1790,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T10:04-03:00"
+ "gerado_em": "2026-10-20T10:11-03:00"
 }
