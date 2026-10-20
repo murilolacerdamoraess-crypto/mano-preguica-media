@@ -1501,16 +1501,16 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele chegou na Aurora do Subnautica fugindo do Reaper dentro de uma base que anda",
-   "etapa": "roteiro (aguardando aprovação: com um mod o Reaper não larga mais e ele se proibiu o rifle de estase, então constrói pra frente, tira a parte de trás e a base anda feito minhoca até a Aurora; uns 2 minutos e 20, voz sua)",
+   "titulo": "Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível",
+   "etapa": "roteiro (aguardando aprovação, versão 2: duvidaram do Deathrun, ele montou um jogo novo com o Reaper que não larga ninguém e sem a arma que congela, e chegou na Aurora com o truque de montar a base pra frente e desmontar a de trás; uns 2 minutos e 40, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Ela trouxe o Gargantuan de volta no Subnautica, e precisou construir o submarino que ele come",
-   "etapa": "roteiro (aguardando aprovação: veículo nenhum sobrevive, mas o foguete exige uma peça que só o Cyclops fabrica; ela faz tudo nadando, constrói o Cyclops só no fim, ele pega fogo com um filhote colado no vidro e a peça sai a tempo; uns 2 minutos e 10, voz sua)",
+   "titulo": "Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
+   "etapa": "roteiro (aguardando aprovação, versão 2: nenhum canto do mar seguro, nem onde o jogo começa, então tudo nadando; chega na cura com 5 de vida e no fim constrói o único submarino só pra fazer a peça do foguete enquanto ele pega fogo; uns 2 minutos e 30, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1525,8 +1525,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Alguém deixou um peixinho numa cápsula do Subnautica, e 43 mil pessoas já acharam ele",
-   "etapa": "roteiro (aguardando aprovação: o Mister Peeps, o peixinho que alguém levou a partida inteira e pôs na cápsula pra durar pra sempre; a Alidove passou ele adiante, o pai do comentário fez igual com o Traje Camarão, e ele segue sendo achado, com a foto dele mesmo nadando; uns 2 minutos e 25, voz sua)",
+   "titulo": "Alguém deixou um peixinho numa cápsula do Subnautica, e ele já foi achado 43 mil vezes",
+   "etapa": "roteiro (aguardando aprovação, versão 2: abre na cápsula do tempo, que deixa os jogadores esconderem histórias no jogo dos outros; o pai do comentário, o Mister Peeps prometido pra durar pra sempre, e ele segue sendo achado; uns 2 minutos, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1550,7 +1550,7 @@
   {
    "tipo": "Short",
    "titulo": "O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
-   "etapa": "roteiro (aguardando aprovação: a arma de cada um, por que a mordida não decide, o tamanho na faixa de 14 a 24 metros contra os 55 do Reaper, e o veredito dito como opinião; uns 1min50, voz sua)",
+   "etapa": "roteiro (aguardando aprovação, versão 2: dá dois megalodons em fila e ainda sobra Reaper, como seria a briga, se cabe na boca, se daria trabalho, e o veredito como opinião; uns 2 minutos e 10, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1622,7 +1622,7 @@
   {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
-   "etapa": "roteiro (aguardando aprovação: a Malenia em nível 1 no tapete, 553 tentativas, e depois duas Malenias ao mesmo tempo, uma no controle e outra no tapete, em 3 dias e 199 tentativas; perto de 1min40, voz sua)",
+   "etapa": "roteiro (aguardando aprovação, versão 2: só a luta da Malenia no level 1, como se joga com o tapete, o atraso dele, 553 tentativas e a luta que deu certo; uns 2 minutos e 10, voz sua)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1790,5 +1790,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T10:11-03:00"
+ "gerado_em": "2026-10-20T10:24-03:00"
 }
