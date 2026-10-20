@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T13:21:48.785480Z",
+ "gerado_em": "2026-10-20T13:24:54.859516Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -785,14 +785,14 @@
    "arquivo": "short-reaper-contra-megalodon.md",
    "name": "SHORT - O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
    "titulo_roteiro": "SHORT: o Reaper contra o megalodon",
-   "description": "Short do canal principal (pauta P74, estudo de ângulo de 19/10, tipo crossover com animal real). O megalodon, o maior tubarão que já existiu, viveu de 23 milhões a 3,6 milhões de anos atrás, caçava baleia e tinha dentes ",
+   "description": "Short do canal principal (pauta P74, estudo de ângulo de 19/10, tipo crossover com animal real). A v2 conta como a briga seria. O megalodon, o maior tubarão que já existiu, caçava baleia, mordia o peito pra chegar no cor",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-redead-zelda-cego.md",
