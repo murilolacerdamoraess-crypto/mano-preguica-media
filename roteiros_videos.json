@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T13:11:35.128904Z",
+ "gerado_em": "2026-10-20T13:21:48.785480Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -498,15 +498,15 @@
   {
    "arquivo": "short-elden-ring-tapete-de-danca-malenia.md",
    "name": "SHORT - Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
-   "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, e depois duas",
-   "description": "Short do canal principal (pauta P6, card de 29/09, pedido de roteiro do Sonar de 18/10, terceira leva). A MissMikkaa, que vive de desafio no Elden Ring, já tinha zerado o jogo com uma mão só e depois só com os pés num ta",
+   "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, no level 1",
+   "description": "Short do canal principal (pauta P6, card de 29/09, pedido de roteiro do Sonar de 18/10). A v2 conta só a luta da MissMikkaa contra a Malenia no level 1, jogando com os pés num tapete de dança (o desafio dos dois Elden Ri",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima das lives dela)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-ellie-invisivel-tlou.md",
@@ -549,16 +549,16 @@
   },
   {
    "arquivo": "short-gargantuan-vivo-cyclops-foguete.md",
-   "name": "SHORT - Ela trouxe o Gargantuan de volta no Subnautica, e precisou construir o submarino que ele come",
-   "titulo_roteiro": "SHORT: o Gargantuan vivo e o submarino que ela precisava",
-   "description": "Short do canal principal (pauta P63 do Sonar, pedido de roteiro de 18/10, Subnautica como base dos Shorts). No Subnautica o Gargantuan é um bicho extinto, que só aparece como esqueleto; a Viscerface (ELA) colocou dezenas",
+   "name": "SHORT - Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
+   "titulo_roteiro": "SHORT: o Gargantuan vivo, e nenhum canto seguro",
+   "description": "Short do canal principal (pauta P63 do Sonar, Subnautica como base dos Shorts). No Subnautica o Gargantuan é um bicho extinto, que só aparece como esqueleto; a Viscerface (ELA) pôs dezenas de filhotes e alguns adultos vi",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-ghast-grito-gato-c418.md",
@@ -666,16 +666,16 @@
   },
   {
    "arquivo": "short-mister-peeps-peixinho-capsula.md",
-   "name": "SHORT - Alguém deixou um peixinho numa cápsula do Subnautica, e 43 mil pessoas já acharam ele",
+   "name": "SHORT - Alguém deixou um peixinho numa cápsula do Subnautica, e ele já foi achado 43 mil vezes",
    "titulo_roteiro": "SHORT: o Mister Peeps, o peixinho que passa de jogo em jogo",
-   "description": "Short do canal principal (pauta P68, escrita pelo Farol a partir do longo das cápsulas; pedido de roteiro de 19/10). O Mr. Peeps era um peeper, um peixinho do jogo, que quem mandou carregou no inventário a partida inteir",
+   "description": "Short do canal principal (pauta P68, escrita pelo Farol a partir do longo das cápsulas; pedido de roteiro de 19/10). A v2 abre na cápsula do tempo, a mecânica do Subnautica que deixa os próprios jogadores esconderem hist",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-moto-mario-kart-world-madeira.md",
