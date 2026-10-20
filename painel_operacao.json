@@ -1270,10 +1270,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-   "etapa": "pronto pra publicar (você aprovou no Assistir em 14/10; a capa nova do Gengar virando Pokébola já está no primeiro quadro e passou no feed em 15/10; vai pro ar sáb 24/10 às 20h)",
-   "responsavel": "Periscópio",
-   "falta_murilo": "",
-   "prazo": ""
+   "etapa": "pronto pra publicar no canal 2 (saiu do principal; rascunho conferido em 20/10: studio.youtube.com/video/weC-ObCZ7Xw/edit; 5 produtos com a Pokébola do Gengar de R$ 14,99 em 1º, vídeo relacionado provisório no Homem-Aranha até o cartucho sair, jogo Pokémon Red & Blue)",
+   "responsavel": "Leme",
+   "falta_murilo": "no Studio do canal 2, clicar em Editar rascunho, ir em Visibilidade, escolher Programar qui 29/10 às 18h e apertar Programar (o Studio não guarda a data sem esse clique)",
+   "prazo": "29/10"
   },
   {
    "tipo": "Short",
@@ -1286,10 +1286,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-   "etapa": "agendado (qui 22/10 às 20h no canal principal, era seg 19/10 e o Murilo trocou com o sem comer em 18/10; título trocado por ele em 12/10; link youtube.com/shorts/P_icjTz-RC8)",
-   "responsavel": "Publicação",
-   "falta_murilo": "",
-   "prazo": ""
+   "etapa": "pronto pra publicar no canal 2 (no principal ele está privado e sem data; rascunho conferido em 20/10: studio.youtube.com/video/lybLU6Q9xV8/edit; 5 produtos com o chaveiro de cartucho do Nintendinho de R$ 15 em 1º, vídeo relacionado provisório no Homem-Aranha até o Onix sair, jogo Super Mario Bros.)",
+   "responsavel": "Leme",
+   "falta_murilo": "no Studio do canal 2, clicar em Editar rascunho, ir em Visibilidade, escolher Programar ter 27/10 às 18h e apertar Programar (o Studio não guarda a data sem esse clique)",
+   "prazo": "27/10"
   },
   {
    "tipo": "Short",
@@ -1318,10 +1318,18 @@
   {
    "tipo": "Short",
    "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween",
-   "etapa": "pronto pra publicar no canal 2 (rascunho no Studio do canal 2, studio.youtube.com/video/F3kaiclPuWw/edit; a versão que você aprovou, 2:59; 5 produtos com o chaveiro do Mario Kart em 1º, vídeo relacionado no Short do Homem-Aranha, jogo Mario Kart World)",
+   "etapa": "pronto pra publicar no canal 2 (rascunho conferido em 20/10: studio.youtube.com/video/F3kaiclPuWw/edit; 5 produtos com o chaveiro do Mario Kart em 1º, vídeo relacionado no Short do Homem-Aranha, jogo Mario Kart World; o horário mudou pras 18h, o ritmo novo do canal 2)",
    "responsavel": "Leme",
-   "falta_murilo": "clicar em Programar pra qui 22/10 às 20h",
+   "falta_murilo": "no Studio do canal 2, clicar em Editar rascunho, ir em Visibilidade, escolher Programar qui 22/10 às 18h e apertar Programar (o Studio não guarda a data sem esse clique)",
    "prazo": "22/10"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração",
+   "etapa": "pronto pra publicar no canal 2 (rascunho conferido em 20/10: studio.youtube.com/video/6Syk3Iw5E0U/edit; 5 produtos com o Onix articulado de R$ 19,90 em 1º, vídeo relacionado provisório no Homem-Aranha até a moto sair, jogo Pokémon Red & Blue)",
+   "responsavel": "Leme",
+   "falta_murilo": "no Studio do canal 2, clicar em Editar rascunho, ir em Visibilidade, escolher Programar sáb 24/10 às 18h e apertar Programar (o Studio não guarda a data sem esse clique)",
+   "prazo": "24/10"
   },
   {
    "tipo": "Short",
@@ -1790,5 +1798,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T10:31-03:00"
+ "gerado_em": "2026-10-20T11:36-03:00"
 }
