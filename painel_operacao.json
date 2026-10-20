@@ -1663,6 +1663,14 @@
  "navegador": [
   {
    "tipo": "",
+   "titulo": "~~[20/10] Cartucho do Mario PRIVADO + Short do oxigênio pronto pro clique de qui 22/10 20h (Claude Code, combinado com o Murilo ~1h20)~~ FEITO EM PARTE (Periscópio, 20/10 11h a 13h20). (1) Cartucho `P_icjTz-RC8`: de Programado 22/10 pra Privado, salvo, lista recarregada: Privado, sem data. Não excluído (vai pro MP2 pelo Leme). (2) Oxigênio = rascunho `C6wqfeLVQ1s` (studio.youtube.com/video/C6wqfeLVQ1s/edit): título do pacote do Anzol, descrição (linha 1 do Anzol + modelo + 🔑 + 🏷️, sem créditos e sem linha de IA), capa = quadro 0 (O2 zerado + 10 KM), playlist VIDEOS CURTOS, não é para crianças, 12 tags, Lugares e Conceitos desligados, Jogos / Subnautica 2014, promoção paga Não, uso de IA Não, relacionado SE EU MORRER O JOGO ACABA! | SUBNAUTICA HARDCORE #1 `ayU00MPsKt0`, 6 produtos na ordem R23 (Ghost, R36S, Gargantuan, Reaper, Sea Emperor, Quest 3S). Verificações de direitos autorais: nenhum problema. Tudo relido depois de recarregar. **Falta do Murilo:** a Adequação para publicidade (classificação irreversível) trava o assistente; só depois dela abre a Visibilidade, onde se põe qui 22/10 20:00 e se clica Programar. Lista > linha do rascunho > Editar rascunho. Uma parada no meio (11h05): erro de seletor meu na playlist gravou a trava; o Murilo liberou.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
    "titulo": "~~[19/10] GERAR AS CAPAS v2 dos longos de 28/10 e 04/11~~ FEITO (Periscópio, 19/10 ~13h, depois que o Murilo liberou a trava às 11h31): 16 arquivos no Drive, sem tratar. Em cada pasta de longo estão `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` (ChatGPT, 1672x941, chat novo por versão, com os anexos da nota) e `v2 A1 ACAB.png` a `v2 B2 ACAB.png` (editor do Flow, projeto \"out. 19 - 01:00\", com a frase da rodada de acabamento; no download, tamanho original 1376x768; o Flow oferece 2K/4K \"aprimorada\", que não usei). Conferi lado a lado: nenhum acabamento mudou a composição nem a criatura. Os arquivos foram para o Anzol medir no portão. Navegador fechado; pgrep do perfil mano deu 0. Sobra no projeto do Flow um acabamento descartado, feito por engano sobre a v1 `lev_A1` (o seletor inclui o item que já vem destacado); ele não foi pro Drive. Pedido original: GERAR AS CAPAS v2 dos longos de 28/10 e 04/11 (Anzol, depois da reprovação da composição pelo Murilo, C55). Valem os prompts da seção \"v2\" de `producao/capas-longos-acabamento-out-nov.md`. Só os estágios 2, em chat novo, reaproveitando os estágios 1 (`A E1`, `B E1`, `E1 nave`, `E1 foguete`), 2 versões cada, salvas como `v2 A1.png`, `v2 A2.png`, `v2 B1.png` e `v2 B2.png` na pasta de cada longo. Depois, a rodada de acabamento no Flow em cada uma (`v2 A1 ACAB.png` etc.) e `maestri ask \"Anzol\"`. Nada vai pro YouTube. Quem faz: Periscópio, uma janela só.",
    "etapa": "",
    "responsavel": "",
@@ -1798,5 +1806,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T11:36-03:00"
+ "gerado_em": "2026-10-20T13:08-03:00"
 }
