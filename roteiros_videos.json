@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T04:38:44.990168Z",
+ "gerado_em": "2026-10-20T11:40:56.057249Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -733,14 +733,14 @@
    "arquivo": "short-pokebola-subnautica-leviata.md",
    "name": "SHORT - Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "titulo_roteiro": "SHORT: o Pokémon no Subnautica",
-   "description": "Short de uns 3 minutos pro canal principal (pauta P17, aprovada em 04/10; pedido do Murilo em 20/10 pra medir o interesse por Pokémon). Versão 4 (20/10), a primeira escrita pelo método de 19/10 (perguntas, respostas, tex",
+   "description": "Short de uns 2 minutos e meio pro canal principal (pauta P17, aprovada em 04/10; pedido do Murilo em 20/10 pra medir o interesse por Pokémon). Versão 5 (20/10), pelo método de 19/10 (perguntas, respostas, texto). O ganch",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-20 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "5"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
