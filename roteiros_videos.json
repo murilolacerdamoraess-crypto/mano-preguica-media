@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T11:40:56.057249Z",
+ "gerado_em": "2026-10-20T13:11:35.128904Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -354,16 +354,16 @@
   },
   {
    "arquivo": "short-base-que-anda-aurora-reaper.md",
-   "name": "SHORT - Ele chegou na Aurora do Subnautica fugindo do Reaper dentro de uma base que anda",
-   "titulo_roteiro": "SHORT: a base que anda até a Aurora",
-   "description": "Short do canal principal (pauta P61 do Sonar, pedido de roteiro de 18/10, Subnautica como base dos Shorts). O Zera montou um Subnautica difícil de verdade com 4 mods, porque parte do público achou que o mod difícil do ví",
+   "name": "SHORT - Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível",
+   "titulo_roteiro": "SHORT: o Subnautica que ele deixou quase impossível",
+   "description": "Short do canal principal (pauta P61 do Sonar, Subnautica como base dos Shorts). O Zera zerou o Subnautica com o Deathrun e parte do público disse que o mod era mais chato do que difícil. Ele concordou, jogou o Deathrun f",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Zera)",
    "motor": null,
-   "versao": "1"
+   "versao": "2"
   },
   {
    "arquivo": "short-base-todos-os-biomas-moon-pool.md",
