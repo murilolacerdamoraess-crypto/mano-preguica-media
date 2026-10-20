@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T21:27:22.678423-03:00",
+ "gerado_em": "2026-10-20T02:03:28.583997-03:00",
  "mes": {
   "postados": 23,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 2,
    "ultimo_post": "2026-10-19",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
     {
@@ -40,24 +40,24 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 3,
    "ultimo_post": "2026-10-19",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "uPbMO5a3DLk",
      "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
-     "quando": "2026-10-19T21:30:00-03:00"
+     "quando": "2026-10-20T21:30:00-03:00"
     },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-20T21:30:00-03:00"
+     "quando": "2026-10-21T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-21T21:30:00-03:00"
+     "quando": "2026-10-22T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -81,7 +81,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 27,
    "ultimo_post": "2026-10-14",
-   "dias_parado": 5,
+   "dias_parado": 6,
    "parado": false,
    "agendados": [],
    "previstos": [
