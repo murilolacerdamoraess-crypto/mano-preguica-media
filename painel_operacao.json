@@ -184,6 +184,22 @@
    "confianca": "forte no diagnóstico (0 de 44 pedidos em 90 dias, adesivo com um produto só) e na medida (3 períodos seguidos entre 1,59 e 1,65); fraca nos pedidos (5 por quinzena, poucos pra decidir).",
    "status": "aplicada 2026-10-18 (instruções da Vitrine, produtos-yt-shopping e sop-publicacao-video; a troca dos produtos no Studio, nos novos e nos 10 mais vistos, pedida ao Claude Code pra encaminhar ao Periscópio e à Âncora)",
    "simples": "No Short, o botão de compra mostra só o primeiro produto da lista, que hoje é o console, e o console não vende há 90 dias (o óculos nunca vendeu). A proposta é testar por 2 semanas outro produto nesse primeiro lugar, um item barato do tema do vídeo (por exemplo o leviatã de R$ 39,90 num vídeo de Subnautica), nos vídeos novos e nos 10 mais vistos do momento, e ficar com ele se der pelo menos 25% mais cliques a cada mil views do que o console dá hoje."
+  },
+  {
+   "id": "R24",
+   "titulo": "Quando a fonte tem história boa pra mais de um vídeo, o roteiro conta uma só, inteira, e a outra volta como pauta nova, em vez de resumir as duas num Short.",
+   "onde": "skill shorts-roteirista (antes de escrever, junto da história guiada) e as instruções do Arpão, da Tarrafa e do Farol; a pauta que sobra vai pro Sonar com a fonte.",
+   "confianca": "forte (3 casos, mesma frase dele, em jogos diferentes).",
+   "status": "aguardando",
+   "simples": "Se a história tem duas partes boas, como a jogadora que zerou Elden Ring num tapete de dança e depois venceu o chefe mais difícil no level 1, o Short conta uma delas com calma, mostrando como ela joga, e a outra vira uma pauta nova pro Decidir. Assim nenhuma das duas fica resumida numa frase."
+  },
+  {
+   "id": "R25",
+   "titulo": "Nada no título e no gancho que um jogador do jogo saiba que não existe: se foi um truque, a frase diz que foi um truque.",
+   "onde": "skill shorts-roteirista (leitor Murilo e conferente separado) e o portão de título do Anzol; mesma pergunta pra Tarrafa e o Farol.",
+   "confianca": "fraca (2 casos no mesmo dia, os dois de Subnautica).",
+   "status": "aguardando",
+   "simples": "Antes de ir pro Decidir, alguém que joga Subnautica lê o título e o gancho e diz se alguma frase soa inventada ou exagerada. Por exemplo, em vez de \"ele chegou na Aurora dentro de uma base que anda\", que não existe no jogo, dizer qual foi o truque que ele usou e por que deu certo."
   }
  ],
  "equipe": [
@@ -1750,5 +1766,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T08:44-03:00"
+ "gerado_em": "2026-10-20T10:04-03:00"
 }
