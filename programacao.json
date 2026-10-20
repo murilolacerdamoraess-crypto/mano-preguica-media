@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-10-19T14:50:23.509386-03:00",
+ "gerado_em": "2026-10-19T21:27:22.678423-03:00",
  "mes": {
-  "postados": 22,
+  "postados": 23,
   "teto": 93,
-  "folga": 71
+  "folga": 70
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 1,
-   "ultimo_post": "2026-10-17",
-   "dias_parado": 2,
+   "na_fila": 2,
+   "ultimo_post": "2026-10-19",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "GzZE02iibIA",
-     "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa",
-     "quando": "2026-10-19T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
@@ -30,6 +24,10 @@
    ],
    "previstos": [],
    "proximos_da_fila": [
+    {
+     "video_id": "uPbMO5a3DLk",
+     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
+    },
     {
      "video_id": "KjX2UtWiO7A",
      "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka"
@@ -41,19 +39,19 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 3,
-   "ultimo_post": "2026-10-18",
-   "dias_parado": 1,
+   "ultimo_post": "2026-10-19",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "uxL1gwa0wfA",
-     "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
+     "video_id": "uPbMO5a3DLk",
+     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
      "quando": "2026-10-19T21:30:00-03:00"
     },
     {
-     "video_id": "KjX2UtWiO7A",
-     "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
+     "video_id": "uxL1gwa0wfA",
+     "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
      "quando": "2026-10-20T21:30:00-03:00"
     },
     {
@@ -64,12 +62,12 @@
    ],
    "proximos_da_fila": [
     {
-     "video_id": "uxL1gwa0wfA",
-     "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts"
+     "video_id": "uPbMO5a3DLk",
+     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
     },
     {
-     "video_id": "KjX2UtWiO7A",
-     "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka"
+     "video_id": "uxL1gwa0wfA",
+     "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts"
     },
     {
      "video_id": "DG5kj_Tyf2g",
@@ -81,7 +79,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 26,
+   "na_fila": 27,
    "ultimo_post": "2026-10-14",
    "dias_parado": 5,
    "parado": false,
