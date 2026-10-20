@@ -331,6 +331,10 @@
 {
 "t": 1792512259,
 "v": 37600
+},
+{
+"t": 1792534120,
+"v": 37600
 }
 ],
 "views": 37600
@@ -479,7 +483,7 @@
 "v": 431
 }
 ],
-"views": 467
+"views": 468
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -515,7 +519,7 @@
 "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2 #subnauti...",
 "ts": 1790197323,
 "fotos": [],
-"views": 820
+"views": 822
 },
 "7688096735213784341": {
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
@@ -533,7 +537,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 87100
+"views": 87200
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -551,13 +555,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 989
+"views": 990
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8145
+"views": 8152
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -575,13 +579,13 @@
 "titulo": "agora dá pra caçar QUALQUER monstro em Subnautica 2 🔫 #subnautica #su...",
 "ts": 1787346108,
 "fotos": [],
-"views": 3860
+"views": 3861
 },
 "7675850705399188753": {
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3125
+"views": 3126
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -952,9 +956,13 @@
 {
 "t": 1792526853,
 "v": 2475
+},
+{
+"t": 1792534120,
+"v": 2485
 }
 ],
-"views": 2475
+"views": 2485
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1083,9 +1091,13 @@
 {
 "t": 1792526853,
 "v": 41700
+},
+{
+"t": 1792534120,
+"v": 41800
 }
 ],
-"views": 41700
+"views": 41800
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1134,9 +1146,13 @@
 {
 "t": 1792526853,
 "v": 20800
+},
+{
+"t": 1792534120,
+"v": 22300
 }
 ],
-"views": 20800
+"views": 22300
 }
 }
 }
