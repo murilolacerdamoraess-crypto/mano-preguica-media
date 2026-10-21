@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T16:44:44.095542Z",
+ "gerado_em": "2026-10-21T23:28:57.036793Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -212,15 +212,15 @@
   {
    "arquivo": "reaper-caca-5-passos.md",
    "name": "reaper-caca-5-passos",
-   "titulo_roteiro": "Como o Reaper caça, em 5 passos",
-   "description": "Reel/Short \"Como o Reaper caça em 5 passos\", formato tutorial em passos (referência Egor Vasilev), animado no motor de partículas 3D com o Ryley em mocap. Sem narração; o texto conta.",
-   "status": "teste (pedido do Murilo em 2026-10-21, ainda não aprovado pra publicar)",
-   "gate": "",
+   "titulo_roteiro": "Como o Reaper caça (v2, narrado)",
+   "description": "Reel/Short \"Como o Reaper caça\", formato tutorial em passos (referência Egor Vasilev), animado no motor de partículas 3D com o Ryley em mocap. v2 (21/10) = narrado com a voz real do Murilo, escrito pelo método do canal (",
+   "status": "roteiro pra gravar (pedido do Murilo em 21/10: \"agora eu preciso gravar minha voz e colocar uma trilha sonora\")",
+   "gate": "conferir_fontes e checar_fluidez rodados na v2 (ver o fim); falta o OK do Murilo na gravação",
    "video_id": null,
    "publicado_em": null,
-   "formato": null,
+   "formato": "short/reel vertical animado (voz real do Murilo + trilha), TikTok com mais de 1 min",
    "motor": null,
-   "versao": null
+   "versao": "2"
   },
   {
    "arquivo": "roteiro-34-leviatas-sem-veiculo.md",
