@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T13:24:54.859516Z",
+ "gerado_em": "2026-10-21T00:11:17.477627Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -991,16 +991,16 @@
   },
   {
    "arquivo": "short-void-700-metros-subida.md",
-   "name": "SHORT - Ela começou o Subnautica no fundo do Void, onde o ar acaba 5 vezes mais rápido",
-   "titulo_roteiro": "SHORT: a subida de 700 metros no Void",
-   "description": "Short do canal principal (pauta P57 do Sonar, pedido de roteiro de 18/10). A Viscerface começou o Subnautica numa ilhinha que um mod pôs no meio do Void, a 700 m de profundidade, e pra fazer o resto do jogo precisava che",
+   "name": "SHORT - Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
+   "titulo_roteiro": "SHORT: começar no meio do Void e zerar de lá",
+   "description": "Short do canal principal (pauta P57 do Sonar; v4 de 20/10 depois da reprovação da v3). A Viscerface começou o Subnautica numa ilhinha que um mod pôs no meio do Void, a 700 m, com a única base que podia ter, e quis zerar ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 3 (18/10, a Viscerface é ela, só pronome; títulos novos no portao_pauta): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 4 (20/10, a missão inteira até o foguete): portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "3"
+   "versao": "4"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
