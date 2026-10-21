@@ -497,7 +497,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1752
+"views": 1754
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -527,7 +527,7 @@
 "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2 #subnauti...",
 "ts": 1790197323,
 "fotos": [],
-"views": 822
+"views": 823
 },
 "7688096735213784341": {
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
@@ -545,7 +545,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 87200
+"views": 87300
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -563,13 +563,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 993
+"views": 1001
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8166
+"views": 8174
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -593,7 +593,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3129
+"views": 3130
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -972,9 +972,13 @@
 {
 "t": 1792541379,
 "v": 2500
+},
+{
+"t": 1792548632,
+"v": 2509
 }
 ],
-"views": 2500
+"views": 2509
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1107,9 +1111,13 @@
 {
 "t": 1792534120,
 "v": 41800
+},
+{
+"t": 1792548632,
+"v": 41900
 }
 ],
-"views": 41800
+"views": 41900
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1166,9 +1174,13 @@
 {
 "t": 1792541379,
 "v": 24100
+},
+{
+"t": 1792548632,
+"v": 26300
 }
 ],
-"views": 24100
+"views": 26300
 }
 }
 }
