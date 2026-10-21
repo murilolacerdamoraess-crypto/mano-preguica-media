@@ -1214,7 +1214,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "roteiro aguardando aprovação, versão 2 refeita em 19/10 depois dos seus ajustes e revista na mesma noite pelas regras de \"o que a coisa faz sentir\" (14 a 16 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
+   "etapa": "roteiro aprovado em 20/10, versão 2, com a abertura sem o aposto que você aprovou na mesma noite (14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 22/10",
    "prazo": "28/10"
@@ -1222,7 +1222,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro aguardando aprovação (12 a 13 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
+   "etapa": "roteiro aguardando aprovação, versão 2 com a abertura que você aprovou em 20/10 (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 29/10",
    "prazo": "04/11"
@@ -1230,7 +1230,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
-   "etapa": "roteiro aguardando aprovação (12 a 14 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
+   "etapa": "roteiro aguardando aprovação, versão 2 com a abertura que você aprovou em 20/10 (13 a 15 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 05/11",
    "prazo": "11/11"
@@ -1238,7 +1238,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ela nadou até a árvore gigante do Subnautica 2, e passou pelos leviatãs ficando parada",
-   "etapa": "roteiro aguardando aprovação (10 a 11 min: a youtuber que nadou sozinha e sem bug até a árvore no vazio, tudo que deu errado com o wake maker, o dash e o tadpole, a camuflagem copiada de um peixinho, 60 metros por vez, e no fim quem pousou em cima da árvore quebrando a física e o que o jogo diz da raiz)",
+   "etapa": "roteiro aguardando aprovação, versão 2 com a abertura que você aprovou em 20/10 (10 a 12 min: a youtuber que nadou sozinha e sem bug até a árvore no vazio, tudo que deu errado com o wake maker, o dash e o tadpole, a camuflagem copiada de um peixinho, 60 metros por vez, e no fim quem pousou em cima da árvore quebrando a física e o que o jogo diz da raiz)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 12/11",
    "prazo": "18/11"
@@ -1774,5 +1774,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T22:38-03:00"
+ "gerado_em": "2026-10-20T23:01-03:00"
 }
