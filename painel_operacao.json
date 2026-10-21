@@ -269,7 +269,7 @@
    "por_que_agora": "o remake sai em 05/11.",
    "formato": "Short 30-45s narrado",
    "concorrencia": "",
-   "status": "pego por Tarrafa",
+   "status": "descartada (Murilo, 20/10: \"esse do redead é mt especifico [...] só quem jogou vai se importar\"; o roteiro roteiros/short-redead-zelda-cego.md sai do Decidir por ele)",
    "frente": "",
    "pendente": ""
   },
@@ -1373,14 +1373,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Tem um jeito de passar do lado do monstro mais assustador do Zelda sem ele te pegar",
-   "etapa": "roteiro (aguardando aprovação, versão 5 com as regras de 19/10 do que a coisa faz sentir; antes era a versão 4, piloto da história guiada: virou uma história só, o Link entra no túmulo atrás de uma música, passa pelo bicho porque ele é cego, e a música é a arma contra ele; teste do TikTok, Zelda 1 de 3; uns 2 min 20)",
-   "responsavel": "Tarrafa",
-   "falta_murilo": "dizer se o método acertou",
-   "prazo": "20/10 (Zelda tem que estar no ar antes do remake de 05/11)"
-  },
-  {
-   "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "etapa": "roteiro (aguardando aprovação, versão 1: o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e um motor cinco vezes mais forte, e o teste no boneco com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
    "responsavel": "Tarrafa",
@@ -1806,5 +1798,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T21:11-03:00"
+ "gerado_em": "2026-10-20T21:41-03:00"
 }
