@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T02:05:45.997808Z",
+ "gerado_em": "2026-10-21T02:06:48.705932Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -871,6 +871,19 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "3"
+  },
+  {
+   "arquivo": "short-sea-dragon-imune-faca-quente.md",
+   "name": "SHORT - Ele matou 31 leviatãs com a faca quente do Subnautica, e no Sea Dragon ela não tirava nada",
+   "titulo_roteiro": "SHORT: a faca quente e o Sea Dragon",
+   "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon, sai qua 28/10 12h; pedido do Farol de 20/10, R18). Só a parte do Sea Dragon até a troca de faca. Ele vinha caçando os leviatãs sem veículo com a Thermoblad",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo de 28/10",
+   "motor": null,
+   "versao": "1"
   },
   {
    "arquivo": "short-seamoth-por-dia-951-dias-fim.md",
