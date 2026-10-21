@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T00:52:14.429213Z",
+ "gerado_em": "2026-10-21T00:52:57.170788Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -591,7 +591,7 @@
    "name": "SHORT - O vilão do Zelda amaldiçoou um peixe gigante, e você descobre o que ele engoliu",
    "titulo_roteiro": "SHORT: o que o peixe gigante do Zelda engoliu",
    "description": "Short do canal principal (pauta P36 do Sonar, versão 2 do card, pedido de roteiro de 18/10; teste de bolha no TikTok, tema Zelda). No Ocarina of Time, o Jabu-Jabu é a criatura parecida com baleia que protege os Zora. Dep",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "descartado (2026-10-20, pelo Murilo, sem nova versão)",
    "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -968,7 +968,7 @@
    "name": "SHORT - Existe um lugar escondido no Zelda que a família da princesa é proibida de mencionar",
    "titulo_roteiro": "SHORT: o lugar escondido que a família da princesa do Zelda não pode mencionar",
    "description": "Short de perto de 1min47 pro teste de bolha no TikTok (pauta P34 do Sonar, 14/10, tema Zelda, tentativa 2 de 3). O Templo das Sombras do Ocarina of Time é o templo que a família real é proibida de comentar; logo na entra",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "descartado (2026-10-20, pelo Murilo, sem nova versão)",
    "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18. Antes: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
    "video_id": null,
    "publicado_em": null,
@@ -1007,7 +1007,7 @@
    "name": "SHORT - A Mojang criou um monstro no Minecraft que não é pra você matar",
    "titulo_roteiro": "SHORT: o monstro do Minecraft que não é pra matar",
    "description": "Short de uns 2 minutos pro teste de bolha no TikTok (pauta P33 do Sonar, 14/10, tema Minecraft, tentativa 1 de 3). O Warden é cego e tem 500 de vida; quem chama ele é um bloco que grita até com você agachado; ele te acha",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "descartado (2026-10-20, pelo Murilo, sem nova versão)",
    "gate": "versão 3 (18/10, revisão pelas regras de 18/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18. Antes: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-16, versão 2; os 3 títulos passaram no portao_pauta.py",
    "video_id": null,
    "publicado_em": null,
