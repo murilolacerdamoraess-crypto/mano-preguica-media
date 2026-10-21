@@ -190,7 +190,7 @@
    "titulo": "Quando a fonte tem história boa pra mais de um vídeo, o roteiro conta uma só, inteira, e a outra volta como pauta nova, em vez de resumir as duas num Short.",
    "onde": "skill shorts-roteirista (antes de escrever, junto da história guiada) e as instruções do Arpão, da Tarrafa e do Farol; a pauta que sobra vai pro Sonar com a fonte.",
    "confianca": "forte (3 casos, mesma frase dele, em jogos diferentes).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-20 (aprovada pelo Murilo às 23:47 UTC; instruções dos Shorts, Arpão e Tarrafa, do Farol e do Sonar; skill shorts-roteirista)",
    "simples": "Se a história tem duas partes boas, como a jogadora que zerou Elden Ring num tapete de dança e depois venceu o chefe mais difícil no level 1, o Short conta uma delas com calma, mostrando como ela joga, e a outra vira uma pauta nova pro Decidir. Assim nenhuma das duas fica resumida numa frase."
   },
   {
@@ -198,7 +198,7 @@
    "titulo": "Nada no título e no gancho que um jogador do jogo saiba que não existe: se foi um truque, a frase diz que foi um truque.",
    "onde": "skill shorts-roteirista (leitor Murilo e conferente separado) e o portão de título do Anzol; mesma pergunta pra Tarrafa e o Farol.",
    "confianca": "fraca (2 casos no mesmo dia, os dois de Subnautica).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-20 (aprovada pelo Murilo às 23:48 UTC; instruções dos Shorts, Arpão e Tarrafa, do Farol e do Anzol; skill shorts-roteirista)",
    "simples": "Antes de ir pro Decidir, alguém que joga Subnautica lê o título e o gancho e diz se alguma frase soa inventada ou exagerada. Por exemplo, em vez de \"ele chegou na Aurora dentro de uma base que anda\", que não existe no jogo, dizer qual foi o truque que ele usou e por que deu certo."
   }
  ],
@@ -1806,5 +1806,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T21:03-03:00"
+ "gerado_em": "2026-10-20T21:06-03:00"
 }
