@@ -1626,6 +1626,22 @@
    "responsavel": "Periscópio",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele caçou os 25 Reapers do Subnautica sem nenhum veículo, e o primeiro precisou de 125 facadas",
+   "etapa": "roteiro (aguardando aprovação: isca do longo dos 34 leviatãs de 28/10, só a parte dos Reapers, a bolha que congela, os 125 golpes no primeiro, as bolsas de gás do Gasopod no lugar da bala e o 25º caindo; não entrega o fim do longo; uns 2 min e 25, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "28/10"
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ele matou 31 leviatãs com a faca quente do Subnautica, e no Sea Dragon ela não tirava nada",
+   "etapa": "roteiro (aguardando aprovação: isca do longo dos 34 leviatãs de 28/10, a descida até a lava sem veículo, o Sea Dragon que não morria, a imunidade à faca quente e a volta até a superfície pela faca comum; a fuga e o placar ficam pro longo; uns 1 min e 50, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": "28/10"
   }
  ],
  "navegador": [
@@ -1782,5 +1798,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T23:03-03:00"
+ "gerado_em": "2026-10-20T23:06-03:00"
 }
