@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-20T12:53:53.355135-03:00",
+ "gerado_em": "2026-10-20T21:22:27.503000-03:00",
  "mes": {
-  "postados": 23,
+  "postados": 24,
   "teto": 93,
-  "folga": 70
+  "folga": 69
  },
  "redes": {
   "tiktok": {
@@ -38,33 +38,24 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 3,
-   "ultimo_post": "2026-10-19",
-   "dias_parado": 1,
+   "na_fila": 2,
+   "ultimo_post": "2026-10-20",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "uPbMO5a3DLk",
-     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
-     "quando": "2026-10-20T21:30:00-03:00"
-    },
-    {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts",
-     "quando": "2026-10-21T21:30:00-03:00"
+     "quando": "2026-10-20T21:30:00-03:00"
     },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-22T21:30:00-03:00"
+     "quando": "2026-10-21T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "uPbMO5a3DLk",
-     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
-    },
     {
      "video_id": "uxL1gwa0wfA",
      "titulo": "Vazou o DLSS 5 da NVIDIA por engano e pode ter matado os remakes #shorts"
@@ -91,8 +82,8 @@
      "quando": "2026-10-22T20:00:00-03:00"
     },
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "video_id": "uPbMO5a3DLk",
+     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
      "quando": "2026-10-29T20:00:00-03:00"
     }
    ],
@@ -102,12 +93,12 @@
      "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador #shorts"
     },
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
-    },
-    {
      "video_id": "uPbMO5a3DLk",
      "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
+    },
+    {
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
     }
    ]
   }
