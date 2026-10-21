@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T00:41:15.242235Z",
+ "gerado_em": "2026-10-21T00:52:14.429213Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -601,16 +601,16 @@
   },
   {
    "arquivo": "short-lady-dimitrescu-altura.md",
-   "name": "SHORT - A criação dessa vilã de Resident Evil deu errado, e a Capcom pagou o preço",
-   "titulo_roteiro": "SHORT: a Lady Dimitrescu e o preço do tamanho",
-   "description": "Short de uns 170 segundos pro teste de bolha no TikTok (pauta P31 do Sonar, 14/10, tema Resident Evil, tentativa 1 de 3). Versão 4 (18/10), piloto da história guiada (fio, interrogatório, escada, guia e leitor de fora). ",
+   "name": "SHORT - Como a vilã mais famosa de Resident Evil se tornou a pior",
+   "titulo_roteiro": "SHORT: como a vilã mais famosa de Resident Evil se tornou a pior",
+   "description": "Short de uns 2 minutos e 15 segundos (pauta P31 do Sonar, tema Resident Evil). Versão 6 (20/10), pelo método de 19/10 (perguntas, respostas, texto), no ângulo que o Murilo pediu, de mais famosa a pior. A Lady Dimitrescu ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-20 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
+   "formato": "short MP1",
    "motor": null,
-   "versao": "5"
+   "versao": "6"
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
