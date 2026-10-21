@@ -346,6 +346,18 @@
    "pendente": ""
   },
   {
+   "id": "P86",
+   "titulo": "Ele caçou os leviatãs do Subnautica sem veículo, e um deles atravessou o chão e sumiu do jogo",
+   "rodada": "Short avulso do desfecho dos 34 leviatãs 20/10/2026 (Sonar, sugestão do Arpão via Farol)",
+   "gancho": "Ele caçou os leviatãs do Subnautica sem veículo, e um deles atravessou o chão e sumiu do jogo\" (portão de título APROVADO)",
+   "por_que_agora": "é o desfecho do longo de qua 28/10; sai a partir de 04/11.",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "em espera (vira pedido de roteiro pra sair a partir de 04/11, uma semana depois do longo de 28/10; e atrás do teto de 20 no Decidir)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P84",
    "titulo": "Ela abriu 500 cápsulas do tempo no Subnautica, e uma dizia só: ele espera lá embaixo",
    "rodada": "Duas pautas das reprovações de 20/10/2026 (Sonar, pedido do Sextante): as cápsulas mais sombrias e os dois Elden Ring",
@@ -377,7 +389,7 @@
    "por_que_agora": "rotina de segunda de 19/10. O Murilo escolheu esse vídeo pro longo de 28/10 (roteiro no Decidir), então o Short é o Short do longo e sai depois dele (R18).",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "em espera (vira pedido de roteiro depois do longo de 28/10, os 34 leviatãs)",
+   "status": "descartada (20/10: virou a P86, o Short do desfecho, sugestão do Arpão via Farol; a caça inteira contada em Short repetia o longo de 28/10 e os Shorts-isca)",
    "frente": "",
    "pendente": ""
   },
@@ -1798,5 +1810,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T23:12-03:00"
+ "gerado_em": "2026-10-20T23:14-03:00"
 }
