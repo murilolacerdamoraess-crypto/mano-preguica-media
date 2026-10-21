@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T01:32:57.488227Z",
+ "gerado_em": "2026-10-21T01:34:20.994157Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -603,14 +603,14 @@
    "arquivo": "short-lady-dimitrescu-altura.md",
    "name": "SHORT - Como a vilã mais famosa de Resident Evil se tornou a pior",
    "titulo_roteiro": "SHORT: como a vilã mais famosa de Resident Evil se tornou a pior",
-   "description": "Short de uns 2 minutos e 15 segundos (pauta P31 do Sonar, tema Resident Evil). Versão 6 (20/10), pelo método de 19/10 (perguntas, respostas, texto), no ângulo que o Murilo pediu, de mais famosa a pior. A Lady Dimitrescu ",
+   "description": "Short de uns 2 minutos e 15 segundos (pauta P31 do Sonar, tema Resident Evil). Versão 7 (20/10, gancho do Murilo: \"isso trouxe uma complicação gigantesca pro jogo\"); antes, versão 6 (20/10), pelo método de 19/10 (pergunt",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-20 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "6"
+   "versao": "7"
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
