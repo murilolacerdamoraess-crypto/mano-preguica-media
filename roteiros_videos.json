@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T02:27:20.577362Z",
+ "gerado_em": "2026-10-21T16:44:44.095542Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -203,6 +203,19 @@
    "description": "Short pro canal PRINCIPAL (voz do Murilo). Tema-fio - a comunidade que imprime Pokémon em 3D saiu do controle. Beats - pokébolas personalizadas (Breakroom), escalada BR (109 num shopping de SP), clímax Onix em tamanho ca",
    "status": "substituído (o Murilo reprovou o vídeo pronto em 05/10 e pediu pra virar 3 Shorts: short-pokebolas-impressas-cada-pokemon, short-pokemon-mais-impresso-3d-cubone, short-onix-tamanho-real-impresso)",
    "gate": "aprovado 2026-09-01",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": null,
+   "motor": null,
+   "versao": null
+  },
+  {
+   "arquivo": "reaper-caca-5-passos.md",
+   "name": "reaper-caca-5-passos",
+   "titulo_roteiro": "Como o Reaper caça, em 5 passos",
+   "description": "Reel/Short \"Como o Reaper caça em 5 passos\", formato tutorial em passos (referência Egor Vasilev), animado no motor de partículas 3D com o Ryley em mocap. Sem narração; o texto conta.",
+   "status": "teste (pedido do Murilo em 2026-10-21, ainda não aprovado pra publicar)",
+   "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": null,
