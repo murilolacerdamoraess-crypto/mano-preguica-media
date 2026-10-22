@@ -1224,6 +1224,14 @@
  ],
  "producao": [
   {
+   "tipo": "Short",
+   "titulo": "Como o Reaper caça (animado, voz real)",
+   "etapa": "narração (texto no Gravar narração com 12 frases desde 21/10; a animação de 65 s está pronta e vai ser refeita no tempo da voz, com trilha \"tensao\" e legenda da fala)",
+   "responsavel": "Maestro",
+   "falta_murilo": "gravar a narração no painel",
+   "prazo": ""
+  },
+  {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "etapa": "roteiro aprovado em 20/10, versão 2, com a abertura sem o aposto que você aprovou na mesma noite (14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
@@ -1810,5 +1818,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-20T23:27-03:00"
+ "gerado_em": "2026-10-21T22:56-03:00"
 }
