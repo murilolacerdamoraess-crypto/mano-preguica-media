@@ -1226,7 +1226,7 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos (animado, texto na tela)",
-   "etapa": "pronto pra publicar (22/10: o Murilo disse que a versão atual \"já está boa pra postar\"; sem o pedido de salvar no fim, com trilha \"tensao\", -14 LUFS; Drive VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Como o Reaper caca em 5 passos.mp4; código congelado em ~/EdicaoIA/remotion/versoes/reaper-v5-postar). Em paralelo, teste v6 com o processo do diretor de motion (fundo novo), sem trocar o que vai ao ar",
+   "etapa": "pronto pra publicar (22/10: o Murilo disse que a versão atual \"já está boa pra postar\"; sem o pedido de salvar no fim, com trilha \"tensao\", -14 LUFS; Drive VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Como o Reaper caca em 5 passos.mp4; código congelado em ~/EdicaoIA/remotion/versoes/reaper-v5-postar). Teste v6 (fundo da Crash Zone) visto em 22/10: ele gostou, mas o fundo rouba a atenção dos personagens de partícula; fica o fundo da v5",
    "responsavel": "Maestro",
    "falta_murilo": "publicar (e, se quiser a versão com voz, gravar as 12 frases no painel)",
    "prazo": ""
@@ -1810,5 +1810,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-22T10:36-03:00"
+ "gerado_em": "2026-10-22T11:00-03:00"
 }
