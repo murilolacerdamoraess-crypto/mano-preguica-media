@@ -365,6 +365,48 @@ def enviar_documentos():
     json.dump(novo, open(DOC_HASH, "w"))
 
 
+def enviar_lancamentos():
+    """Curvas de lançamento (views e likes por hora de vida, do acompanhar_lancamento.py) pro painel desenhar na tela
+    Resultado (pedido do Murilo, 22/10/2026: "tem que ser mais dashboard, mais números, métricas, vídeo e resultado logo
+    abaixo"). Um documento só, resultado:lancamentos, com a curva enxuta (até 40 pontos por vídeo) no meta."""
+    import hashlib, urllib.request
+    itens = []
+    for pasta, canal in LANCAMENTOS:
+        if not os.path.isdir(pasta):
+            continue
+        for f in sorted(os.listdir(pasta)):
+            if not f.endswith(".json"):
+                continue
+            try:
+                d = json.load(open(os.path.join(pasta, f), encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            fotos = [x for x in d.get("fotos", []) if isinstance(x.get("views"), (int, float))]
+            passo = max(1, len(fotos) // 40)
+            curva = [[round(x.get("horas", 0), 1), x["views"], x.get("likes", 0)] for x in fotos[::passo]]
+            if fotos and (not curva or curva[-1][0] != round(fotos[-1].get("horas", 0), 1)):
+                curva.append([round(fotos[-1].get("horas", 0), 1), fotos[-1]["views"], fotos[-1].get("likes", 0)])
+            itens.append({"id": d.get("id") or f[:-5], "titulo": d.get("titulo", ""), "canal": "MP2" if canal == "canal 2" else "MP1",
+                          "publicado": d.get("publicado"), "duracao_s": d.get("duracao_s"), "comentarios": (fotos[-1].get("comentarios") if fotos else None),
+                          "curva": curva})
+    if not itens:
+        return
+    corpo_doc = {"chave": "resultado:lancamentos", "tipo": "dados", "titulo": "Curvas de lançamento",
+                 "markdown": f"{len(itens)} lançamentos", "meta": {"itens": itens}}
+    h = hashlib.sha1(json.dumps(itens, sort_keys=True).encode()).hexdigest()
+    velho = json.load(open(DOC_HASH)) if os.path.exists(DOC_HASH) else {}
+    if velho.get("resultado:lancamentos") == h:
+        return
+    req = urllib.request.Request(f"{PAINEL}/api/documentos", data=json.dumps({"t": TOKEN_DECIDIR, "docs": [corpo_doc]}).encode(),
+                                 headers={"content-type": "application/json"})
+    try:
+        if json.loads(urllib.request.urlopen(req, timeout=40).read()).get("ok"):
+            velho["resultado:lancamentos"] = h
+            json.dump(velho, open(DOC_HASH, "w"))
+    except Exception:
+        pass
+
+
 def glob_md(pasta):
     import glob
     return [a for a in glob.glob(os.path.join(pasta, "*.md")) if not os.path.basename(a).startswith("_")]
@@ -613,5 +655,6 @@ if __name__ == "__main__":
     main()
     copiar_decisoes()
     enviar_documentos()
+    enviar_lancamentos()
     videos_prontos()
     avisar_telegram(seco="--seco" in sys.argv)
