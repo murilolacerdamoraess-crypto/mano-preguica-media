@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T21:32:35.083369-03:00",
+ "gerado_em": "2026-10-22T02:05:54.681660-03:00",
  "mes": {
   "postados": 26,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 2,
    "ultimo_post": "2026-10-19",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [
     {
@@ -40,7 +40,7 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 1,
    "ultimo_post": "2026-10-21",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
@@ -63,7 +63,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 26,
    "ultimo_post": "2026-10-21",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
