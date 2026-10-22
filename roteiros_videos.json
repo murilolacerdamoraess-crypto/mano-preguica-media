@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T23:28:57.036793Z",
+ "gerado_em": "2026-10-22T03:49:19.667498Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -12,7 +12,8 @@
    "publicado_em": "2026-08-31",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "aliens-fireteam-elite-pior-jogo-franquia.md",
@@ -25,7 +26,8 @@
    "publicado_em": "2026-09-07",
    "formato": "long",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "half-life-2-gritos-invertidos.md",
@@ -38,7 +40,8 @@
    "publicado_em": "2026-08-21",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "longo-mew-300-bytes.md",
@@ -51,7 +54,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "longo-silicon-knights-destruir.md",
@@ -64,7 +68,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "microconto-piloto-preprod.md",
@@ -77,7 +82,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": null
   },
   {
    "arquivo": "mp2-batmovel-muro-de-tijolo.md",
@@ -90,7 +96,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "Qus5_kbJZBY"
   },
   {
    "arquivo": "mp2-maos-do-hulk-hidraulica.md",
@@ -103,7 +110,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "gQdlMDlSNjE"
   },
   {
    "arquivo": "mp2-ocarina-zelda-microfone.md",
@@ -116,7 +124,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": "PQvD3p2yGwc"
   },
   {
    "arquivo": "mp2-pokebola-lego-abre.md",
@@ -129,7 +138,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": null
   },
   {
    "arquivo": "mp2-pote-zelda-quebra-de-verdade.md",
@@ -142,7 +152,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": "I7m-X49fj_w"
   },
   {
    "arquivo": "mp2-ps2-portatil-disco-original.md",
@@ -155,7 +166,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "JrNK9dr5Cbw"
   },
   {
    "arquivo": "mp2-sabre-de-luz-duelo.md",
@@ -168,7 +180,8 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "qOAenK39gfs"
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
@@ -181,7 +194,8 @@
    "publicado_em": "2026-08-25",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "no-mans-sky-waking-titan.md",
@@ -194,7 +208,8 @@
    "publicado_em": "2026-09-25",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "pokemon-impressao-3d.md",
@@ -207,7 +222,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "reaper-caca-5-passos.md",
@@ -220,7 +236,8 @@
    "publicado_em": null,
    "formato": "short/reel vertical animado (voz real do Murilo + trilha), TikTok com mais de 1 min",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-34-leviatas-sem-veiculo.md",
@@ -233,7 +250,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "5G3XZEcnSzc"
   },
   {
    "arquivo": "roteiro-capsulas-do-tempo-subnautica.md",
@@ -246,7 +264,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-deathrun-sem-andar-extintor.md",
@@ -259,7 +278,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-rematch-egoisto.md",
@@ -272,7 +292,8 @@
    "publicado_em": "2026-10-11",
    "formato": "longo MP1",
    "motor": null,
-   "versao": "6"
+   "versao": "6",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-stonewards-em-dupla.md",
@@ -285,7 +306,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-viscerface-antes-da-aurora.md",
@@ -298,7 +320,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "roteiro-viscerface-arvore-subnautica-2.md",
@@ -311,7 +334,8 @@
    "publicado_em": null,
    "formato": "longo MP1",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "roundup-gastei-rx-lancamentos.md",
@@ -324,7 +348,8 @@
    "publicado_em": null,
    "formato": "longform tier list / veredito de compra, gameplay como B-roll",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "short-25-reapers-sem-veiculo-faca.md",
@@ -337,7 +362,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo de 28/10",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "5G3XZEcnSzc"
   },
   {
    "arquivo": "short-agua-subnautica-2-envenena-meses-de-vida.md",
@@ -350,7 +376,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-armadura-fallout-de-verdade.md",
@@ -363,7 +390,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da série da Hacksmith)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "6UMykgeizTE"
   },
   {
    "arquivo": "short-base-inundada-aurora-subnautica.md",
@@ -376,7 +404,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "lnEzdCum6Kw"
   },
   {
    "arquivo": "short-base-que-anda-aurora-reaper.md",
@@ -389,7 +418,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Zera)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "9_BwDi_hqeA"
   },
   {
    "arquivo": "short-base-todos-os-biomas-moon-pool.md",
@@ -402,7 +432,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "w-jbCuIuh6c"
   },
   {
    "arquivo": "short-blanka-africano-criado-por-leao.md",
@@ -415,7 +446,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "3mjOnR7Gi84"
   },
   {
    "arquivo": "short-capsula-10-mil-metros-dono-foto-da-base.md",
@@ -428,7 +460,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-capsulas-500-repetidas.md",
@@ -441,7 +474,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "KYe5y4zDJ5M"
   },
   {
    "arquivo": "short-capsulas-bateria-escondida-scanner.md",
@@ -454,7 +488,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "KYe5y4zDJ5M"
   },
   {
    "arquivo": "short-cartuchos-mario-ouro.md",
@@ -467,7 +502,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-collector-preso-onde-nasce-subnautica-2.md",
@@ -480,7 +516,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do AstralSpiff)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "TmUJ4HHx1yY"
   },
   {
    "arquivo": "short-cyclops-fossa-das-marianas.md",
@@ -493,7 +530,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-deathrun-extintor-sem-andar.md",
@@ -506,7 +544,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "oGaMu-5hn9U"
   },
   {
    "arquivo": "short-dlss5-jogo-de-ps2.md",
@@ -519,7 +558,8 @@
    "publicado_em": "2026-09-18",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "short-elden-ring-tapete-de-danca-malenia.md",
@@ -532,7 +572,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima das lives dela)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "Bi6SABpXjqM"
   },
   {
    "arquivo": "short-ellie-invisivel-tlou.md",
@@ -545,7 +586,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "short-fliperama-minecraft-hardcore.md",
@@ -558,7 +600,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Farzy)",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": "AJMmVLZU5KM"
   },
   {
    "arquivo": "short-gargantuan-36-baleias-azuis.md",
@@ -571,7 +614,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-gargantuan-vivo-cyclops-foguete.md",
@@ -584,7 +628,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "J72eFRewxss"
   },
   {
    "arquivo": "short-ghast-grito-gato-c418.md",
@@ -597,7 +642,8 @@
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-heroi-subnautica-1-13-minutos-no-2.md",
@@ -610,7 +656,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-jabu-jabu-peixe-gigante-zelda.md",
@@ -623,7 +670,8 @@
    "publicado_em": null,
    "formato": "short MP1 (narrado, sem gravar gameplay; teste de bolha no TikTok)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-lady-dimitrescu-altura.md",
@@ -636,7 +684,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "7"
+   "versao": "7",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
@@ -649,7 +698,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "5"
+   "versao": "5",
+   "fonte_yt": "7nFvNCybmd4"
   },
   {
    "arquivo": "short-machado-kratos-forjado.md",
@@ -662,7 +712,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo da HammerForge, que é só imagem e música)",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": "AbJQPxdleGg"
   },
   {
    "arquivo": "short-menderbug-hollow-knight.md",
@@ -675,7 +726,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "short-minecraft-dentro-do-skyrim.md",
@@ -688,7 +740,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": "zRT3MyFwgu0"
   },
   {
    "arquivo": "short-mister-peeps-peixinho-capsula.md",
@@ -701,7 +754,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-moto-mario-kart-world-madeira.md",
@@ -714,7 +768,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "7"
+   "versao": "7",
+   "fonte_yt": "vbM31wagyRg"
   },
   {
    "arquivo": "short-nadadeira-4-horas-receitas-embaralhadas.md",
@@ -727,7 +782,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Diamond Ingots)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "iNG4NyfisjI"
   },
   {
    "arquivo": "short-nemesis-vinganca-stars.md",
@@ -740,7 +796,8 @@
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-onix-tamanho-real-impresso.md",
@@ -753,7 +810,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "7"
+   "versao": "7",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-pokebola-subnautica-leviata.md",
@@ -766,7 +824,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "6"
+   "versao": "6",
+   "fonte_yt": "hj1VfRcEE-k"
   },
   {
    "arquivo": "short-pokebolas-impressas-cada-pokemon.md",
@@ -779,7 +838,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-pokemon-mais-impresso-3d-cubone.md",
@@ -792,7 +852,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-psyduck-senha-dor-de-cabeca.md",
@@ -805,7 +866,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo por cima da gameplay dele, com os momentos ao vivo tocando)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-reaper-contra-megalodon.md",
@@ -818,7 +880,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-redead-zelda-cego.md",
@@ -831,7 +894,8 @@
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "5"
+   "versao": "5",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-rematch-egoista-gol-de-ouro.md",
@@ -844,7 +908,8 @@
    "publicado_em": null,
    "formato": "short MP1 (isca do longo, voz do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-rematch-passe-de-batalha.md",
@@ -857,7 +922,8 @@
    "publicado_em": null,
    "formato": "short MP1 (isca do longo, voz do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-rematch-ranqueada-escondida.md",
@@ -870,7 +936,8 @@
    "publicado_em": null,
    "formato": "short MP1 (isca do longo, voz do Murilo)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-robo-luta-piloto-realidade-virtual.md",
@@ -883,7 +950,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-sea-dragon-imune-faca-quente.md",
@@ -896,7 +964,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo de 28/10",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "5G3XZEcnSzc"
   },
   {
    "arquivo": "short-seamoth-por-dia-951-dias-fim.md",
@@ -909,7 +978,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "iNG4NyfisjI"
   },
   {
    "arquivo": "short-silksong-noticia-todo-dia-recomecou.md",
@@ -922,7 +992,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "-3QECuK0_tE"
   },
   {
    "arquivo": "short-subnautica-10-mil-metros.md",
@@ -935,7 +1006,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "6"
+   "versao": "6",
+   "fonte_yt": "vtK6Lmdws0E"
   },
   {
    "arquivo": "short-subnautica-10km-coral-ar.md",
@@ -948,7 +1020,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "5"
+   "versao": "5",
+   "fonte_yt": "vtK6Lmdws0E"
   },
   {
    "arquivo": "short-subnautica-37-peixes-lost-river.md",
@@ -961,7 +1034,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "ie3Mze-ctWA"
   },
   {
    "arquivo": "short-subnautica-dias-de-1-segundo.md",
@@ -974,7 +1048,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "iTxJUOfsT6c"
   },
   {
    "arquivo": "short-subnautica-por-baixo-do-mapa.md",
@@ -987,7 +1062,8 @@
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "2"
+   "versao": "2",
+   "fonte_yt": "D3jZf2R_q5c"
   },
   {
    "arquivo": "short-subnautica-sem-comer-cadeira.md",
@@ -1000,7 +1076,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "7"
+   "versao": "7",
+   "fonte_yt": "SZf3jscSKgE"
   },
   {
    "arquivo": "short-templo-das-sombras-zelda.md",
@@ -1013,7 +1090,8 @@
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-traje-fnaf-springlock.md",
@@ -1026,7 +1104,8 @@
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "1"
+   "versao": "1",
+   "fonte_yt": "npUTv0xltTM"
   },
   {
    "arquivo": "short-void-700-metros-subida.md",
@@ -1039,7 +1118,8 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "4"
+   "versao": "4",
+   "fonte_yt": "ZDCHuivDUa4"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
@@ -1052,7 +1132,8 @@
    "publicado_em": null,
    "formato": "short MP1 (teste de bolha TikTok, 1 min+)",
    "motor": null,
-   "versao": "3"
+   "versao": "3",
+   "fonte_yt": null
   },
   {
    "arquivo": "sn2-cherimoya-rotsac.md",
@@ -1065,7 +1146,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "sn2-coral-crab.md",
@@ -1078,7 +1160,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "sn2-deepwing-brooder.md",
@@ -1091,7 +1174,8 @@
    "publicado_em": "2026-09-29",
    "formato": "short",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "sn2-great-jaw.md",
@@ -1104,7 +1188,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "stonewards-arqueiro-mp1.md",
@@ -1117,7 +1202,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "stonewards-primeiro-mapa-em-dois.md",
@@ -1130,7 +1216,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "subnautica-aurora-rota-sea-dragon.md",
@@ -1143,7 +1230,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "voyagers-of-nera-primeira-sessao.md",
@@ -1156,7 +1244,8 @@
    "publicado_em": null,
    "formato": "gameplay bruta com dinâmica, canal secundário (MP2)",
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   },
   {
    "arquivo": "wow-ezra-chatterton.md",
@@ -1169,7 +1258,8 @@
    "publicado_em": null,
    "formato": null,
    "motor": null,
-   "versao": null
+   "versao": null,
+   "fonte_yt": null
   }
  ]
 }

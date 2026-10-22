@@ -23,6 +23,16 @@ def frontmatter(texto):
         if m: fm[m.group(1)] = m.group(2).strip().strip('"')
     return fm
 
+YT = re.compile(r"(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/shorts/)([A-Za-z0-9_-]{11})")
+def fonte_yt(t, proprio):
+    """id do vídeo do YouTube de onde a história saiu (a capa provisória do app usa a miniatura dele, 22/10/2026):
+    primeiro a linha fonte-principal, depois a lista de fontes, depois qualquer vídeo citado. Nunca o próprio vídeo publicado."""
+    fp = next((l for l in t.splitlines() if l.lower().startswith("fonte-principal:")), "")
+    achados = YT.findall(fp) + [i for i in re.findall(r"\(([A-Za-z0-9_-]{11}),", fp) if re.search(r"[0-9_-]", i)]   # "(Bladderfish," não é id
+    fontes = t[t.find("## Fontes"):] if "## Fontes" in t else ""
+    achados += YT.findall(fontes) + YT.findall(t)
+    return next((i for i in achados if i != proprio), None)
+
 itens = []
 for arq in sorted(glob.glob(os.path.join(CEREBRO, "*.md"))):
     t = open(arq, encoding="utf-8").read()
@@ -41,6 +51,7 @@ for arq in sorted(glob.glob(os.path.join(CEREBRO, "*.md"))):
         "formato": fm.get("formato") or None,
         "motor": fm.get("motor") or None,
         "versao": fm.get("versao") or None,   # sobe a cada reescrita depois de um "pedir mudança" (04/10)
+        "fonte_yt": fonte_yt(t, fm.get("video_id") or ""),
     })
 
 json.dump({"gerado_em": datetime.datetime.utcnow().isoformat() + "Z", "roteiros": itens},
