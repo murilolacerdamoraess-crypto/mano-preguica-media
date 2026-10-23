@@ -611,13 +611,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1046
+"views": 1047
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8231
+"views": 8232
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -641,7 +641,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3155
+"views": 3156
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1122,7 +1122,7 @@
 "v": 2752
 }
 ],
-"views": 2753
+"views": 2766
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1303,9 +1303,13 @@
 {
 "t": 1792731587,
 "v": 42800
+},
+{
+"t": 1792753399,
+"v": 42900
 }
 ],
-"views": 42800
+"views": 42900
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1458,9 +1462,13 @@
 {
 "t": 1792746131,
 "v": 32200
+},
+{
+"t": 1792753399,
+"v": 32300
 }
 ],
-"views": 32200
+"views": 32300
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1485,9 +1493,13 @@
 {
 "t": 1792746131,
 "v": 270
+},
+{
+"t": 1792753399,
+"v": 274
 }
 ],
-"views": 270
+"views": 274
 }
 }
 }
