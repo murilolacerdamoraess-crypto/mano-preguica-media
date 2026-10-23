@@ -1666,7 +1666,7 @@
   {
    "tipo": "Short",
    "titulo": "Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo (canal 2)",
-   "etapa": "roteiro (versão 3 aguardando aprovação, com o gancho novo que você aprovou: o muro de tijolo vira o teste do gancho)",
+   "etapa": "roteiro (versão 4 aguardando aprovação: cada mudança na caminhonete agora vem pelo perigo que resolve, e o fim fecha com a blindagem aprovada)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1850,5 +1850,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-23T14:09-03:00"
+ "gerado_em": "2026-10-23T14:10-03:00"
 }
