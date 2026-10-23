@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T13:08:39.890621-03:00",
+ "gerado_em": "2026-10-23T02:05:47.439610-03:00",
  "mes": {
   "postados": 26,
   "teto": 93,
@@ -10,23 +10,20 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 2,
-   "ultimo_post": "2026-10-19",
-   "dias_parado": 3,
+   "na_fila": 3,
+   "ultimo_post": "2026-10-22",
+   "dias_parado": 1,
    "parado": false,
-   "agendados": [
-    {
-     "video_id": "KjX2UtWiO7A",
-     "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
-     "quando": "2026-10-22T18:00:00-03:00",
-     "fonte": "metricool"
-    }
-   ],
+   "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
     {
      "video_id": "uPbMO5a3DLk",
      "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
+    },
+    {
+     "video_id": "C6wqfeLVQ1s",
+     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido"
     },
     {
      "video_id": "KjX2UtWiO7A",
@@ -38,19 +35,28 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 1,
+   "na_fila": 2,
    "ultimo_post": "2026-10-21",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
+     "video_id": "C6wqfeLVQ1s",
+     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido",
+     "quando": "2026-10-23T21:30:00-03:00"
+    },
+    {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-22T21:30:00-03:00"
+     "quando": "2026-10-24T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
+    {
+     "video_id": "C6wqfeLVQ1s",
+     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido"
+    },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts"
@@ -61,21 +67,21 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 26,
+   "na_fila": 27,
    "ultimo_post": "2026-10-21",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "uPbMO5a3DLk",
      "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
-     "quando": "2026-10-22T20:00:00-03:00"
+     "quando": "2026-10-29T20:00:00-03:00"
     },
     {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
-     "quando": "2026-10-29T20:00:00-03:00"
+     "quando": "2026-11-05T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
