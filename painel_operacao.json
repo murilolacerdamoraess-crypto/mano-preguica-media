@@ -208,6 +208,14 @@
    "confianca": "fraca (2 canais de referência, 3 ocorrências, nenhum teste no canal). Se preferir, fica como observação até aparecer de novo.",
    "status": "aguardando",
    "simples": "Quando a pessoa tenta de novo uma coisa em que já falhou, o texto lembra onde ela parou da outra vez bem na hora em que ela passa daquele ponto. Exemplo do MrBeast: \"Vocês acabaram de passar dos 48 segundos, que foi quando soltaram a barra na última tentativa.\""
+  },
+  {
+   "id": "R27",
+   "titulo": "Em vídeo de construção ou de projeto, cada coisa que eles fazem aparece pelo problema que ela resolve pro objetivo, e o passo a passo de oficina sai.",
+   "onde": "skill shorts-roteirista (junto da regra 4 de \"O que a coisa faz a pessoa sentir\": o porquê é o propósito no objetivo do vídeo, não o porquê da ação) e no interrogatório do leitor Murilo (\"pra que isso serve no objetivo?\"); mesma coisa pra Arpão, Tarrafa e Farol.",
+   "confianca": "forte (regra dele, dita pra todos os vídeos).",
+   "status": "aguardando",
+   "simples": "Quando o vídeo mostra alguém construindo ou modificando alguma coisa, cada passo vem com o que ele resolve, e não com o jeito que foi feito. No Batmóvel, em vez de \"pra tirar a caçamba, eles soltaram ela e arrancaram com a caminhonete\", fica \"levaram o tanque de gasolina pra dentro da gaiola, porque ele ficava bem onde ia levar pancada nos testes, e lá dentro a mesma gaiola que protege o piloto protege o tanque\"."
   }
  ],
  "equipe": [
@@ -1842,5 +1850,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-23T10:07-03:00"
+ "gerado_em": "2026-10-23T14:09-03:00"
 }
