@@ -200,6 +200,14 @@
    "confianca": "fraca (2 casos no mesmo dia, os dois de Subnautica).",
    "status": "aplicada 2026-10-20 (aprovada pelo Murilo às 23:48 UTC; instruções dos Shorts, Arpão e Tarrafa, do Farol e do Anzol; skill shorts-roteirista)",
    "simples": "Antes de ir pro Decidir, alguém que joga Subnautica lê o título e o gancho e diz se alguma frase soa inventada ou exagerada. Por exemplo, em vez de \"ele chegou na Aurora dentro de uma base que anda\", que não existe no jogo, dizer qual foi o truque que ele usou e por que deu certo."
+  },
+  {
+   "id": "R26",
+   "titulo": "Quando a pessoa tenta de novo uma coisa em que já falhou, o texto lembra onde ela parou da outra vez bem na hora em que ela passa daquele ponto.",
+   "onde": "role longos (Farol) e skill shorts-roteirista, como ferramenta de narração junto do C2 e do C37; mesma coisa pra Arpão e Tarrafa.",
+   "confianca": "fraca (2 canais de referência, 3 ocorrências, nenhum teste no canal). Se preferir, fica como observação até aparecer de novo.",
+   "status": "aguardando",
+   "simples": "Quando a pessoa tenta de novo uma coisa em que já falhou, o texto lembra onde ela parou da outra vez bem na hora em que ela passa daquele ponto. Exemplo do MrBeast: \"Vocês acabaram de passar dos 48 segundos, que foi quando soltaram a barra na última tentativa.\""
   }
  ],
  "equipe": [
@@ -1834,5 +1842,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-22T12:00-03:00"
+ "gerado_em": "2026-10-23T10:07-03:00"
 }
