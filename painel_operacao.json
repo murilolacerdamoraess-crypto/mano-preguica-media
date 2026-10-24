@@ -1274,7 +1274,7 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos (animado, texto na tela)",
-   "etapa": "pronto pra publicar (22/10: versão com a PROPORÇÃO REAL aprovada pelo Murilo, \"ficou muito bom o reaper com a proporção real\": o mergulhador com 1,8 m contra os 55 m do Reaper, etiquetas VOCÊ",
+   "etapa": "edição (24/10: você reprovou os balões que não dá pra ler; saem o do tamanho do mergulhador e do Reaper, que aparece também no bônus, e o das 4 mandíbulas na sacudida; o resto fica igual; ajuste em producao/short-reaper-caca-5-passos.md)",
    "responsavel": "Maestro",
    "falta_murilo": "gravar as 12 frases no painel (em casa)",
    "prazo": ""
@@ -1866,5 +1866,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T04:12-03:00"
+ "gerado_em": "2026-10-24T04:13-03:00"
 }
