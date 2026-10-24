@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T21:32:55.399066Z",
+ "gerado_em": "2026-10-24T21:39:50.414040Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -114,6 +114,20 @@
    "fonte_yt": "gQdlMDlSNjE"
   },
   {
+   "arquivo": "mp2-ocarina-zelda-microfone-modo-noticia.md",
+   "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (versão no MODO NOTÍCIA)",
+   "titulo_roteiro": "SHORT MP2: dá pra tocar uma ocarina de verdade no Zelda novo?",
+   "description": "Versão no MODO NOTÍCIA (R29, 24/10/2026) do Short da ocarina, pedida pelo Murilo pra comparar com a versão aprovada (mp2-ocarina-zelda-microfone.md, que continua valendo e não foi mexida). A demonstração do remake de Zel",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "PQvD3p2yGwc"
+  },
+  {
    "arquivo": "mp2-ocarina-zelda-microfone.md",
    "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo",
    "titulo_roteiro": "SHORT MP2: a ocarina de verdade que o Zelda novo escuta",
@@ -126,6 +140,20 @@
    "motor": null,
    "versao": "4",
    "fonte_yt": "PQvD3p2yGwc"
+  },
+  {
+   "arquivo": "mp2-pokebola-lego-abre-modo-noticia.md",
+   "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (versão no MODO NOTÍCIA)",
+   "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
+   "description": "Versão no MODO NOTÍCIA (R29, 24/10/2026) do Short da Pokébola de LEGO, pedida pelo Murilo pra comparar com a versão aprovada (mp2-pokebola-lego-abre.md, que continua valendo e não foi mexida). O produto mostrado em sequê",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "I19hSPejKeA"
   },
   {
    "arquivo": "mp2-pokebola-lego-abre.md",
