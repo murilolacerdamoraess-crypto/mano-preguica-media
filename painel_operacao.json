@@ -216,6 +216,14 @@
    "confianca": "forte (regra dele, dita pra todos os vídeos).",
    "status": "aguardando",
    "simples": "Quando o vídeo mostra alguém construindo ou modificando alguma coisa, cada passo vem com o que ele resolve, e não com o jeito que foi feito. No Batmóvel, em vez de \"pra tirar a caçamba, eles soltaram ela e arrancaram com a caminhonete\", fica \"levaram o tanque de gasolina pra dentro da gaiola, porque ele ficava bem onde ia levar pancada nos testes, e lá dentro a mesma gaiola que protege o piloto protege o tanque\"."
+  },
+  {
+   "id": "R28",
+   "titulo": "A última frase do Short não começa com \"Ou seja\" pra repetir o título: ela conta o último momento como cena e diz o que muda dali pra frente.",
+   "onde": "skill shorts-roteirista (a correção de 08/10 do último bloco, os 2 tempos de clímax e fechamento) e as instruções do Arpão, da Tarrafa e do Farol; opcional: o `checar_fluidez.py` avisar quando a última frase começar com \"Ou seja\" e repetir palavras do título.",
+   "confianca": "forte (3 casos no mesmo dia, nas palavras dele, e o modelo dele escrito no Batmóvel).",
+   "status": "aguardando",
+   "simples": "O Short não termina mais repetindo o título com \"Ou seja\". No Batmóvel, em vez de \"Ou seja, a blindagem foi aprovada\", fica \"voou tijolo pra todo lado, e o que eles não esperavam é que a caminhonete aguentou; o projeto está de pé, e agora eles vão fazer os próximos aparelhos\"."
   }
  ],
  "equipe": [
@@ -1858,5 +1866,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T03:42-03:00"
+ "gerado_em": "2026-10-24T04:12-03:00"
 }
