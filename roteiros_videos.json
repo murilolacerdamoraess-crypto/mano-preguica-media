@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T07:15:52.373027Z",
+ "gerado_em": "2026-10-24T07:21:24.843564Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -705,14 +705,14 @@
    "arquivo": "short-machado-kratos-forjado.md",
    "name": "SHORT - O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
    "titulo_roteiro": "SHORT: o machado do Kratos forjado de verdade",
-   "description": "Short do canal principal (pauta P43 do Sonar, pedido de roteiro de 18/10, família \"impossível com as próprias mãos\"). O machado do Kratos foi o primeiro projeto de réplica da HammerForge; ele voltou nele pra forjar de ve",
+   "description": "Short do canal principal (pauta P43 do Sonar). A HammerForge faz de verdade o machado do Kratos na versão final do God of War, com todas as melhorias; não basta ser bonito, tem que funcionar, e no fim ele põe o machado à",
    "status": "roteiro (aguardando aprovação)",
    "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo da HammerForge, que é só imagem e música)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "AbJQPxdleGg"
   },
   {
