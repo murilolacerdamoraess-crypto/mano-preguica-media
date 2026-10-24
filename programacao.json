@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T21:22:24.844658-03:00",
+ "gerado_em": "2026-10-24T01:50:32.924588-03:00",
  "mes": {
   "postados": 27,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
    "ultimo_post": "2026-10-22",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -37,14 +37,14 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 1,
    "ultimo_post": "2026-10-23",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-23T21:30:00-03:00"
+     "quando": "2026-10-24T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -60,7 +60,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 27,
    "ultimo_post": "2026-10-21",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
    "previstos": [
