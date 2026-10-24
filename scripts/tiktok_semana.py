@@ -20,9 +20,15 @@ Saída: tiktok_semana.json com os escolhidos, horário (Ter/Qui/Sáb/Dom 18h BRT
 sem passar de 20 no mês), legenda e URL pública do vídeo (hospedado no release do GitHub pelo Mac,
 igual ao crosspost). Quem agenda no Metricool é o Leme (MCP do Metricool), na rotina de segunda.
 
+Acerto cedo (Murilo, 23/10/2026: "podemos adotar essa parada de passar a regua"): Short que passou de 2x a régua
+com 24 h ou 3 dias (campo acerto_cedo da ficha do vídeo, que o ficha_video.py grava no cérebro) não espera os 7 dias
+e vai na frente da fila. O piso e as outras regras continuam. Com "acertos", o script planeja só esses, e o horário
+das 18h do próprio dia também conta se ainda for antes das 16h (rotina diária "TikTok: acerto cedo" do Leme).
+
 Uso (no Mac):
   python3 scripts/tiktok_semana.py          -> planeja e mostra (não hospeda)
   python3 scripts/tiktok_semana.py hospedar -> planeja, hospeda os escolhidos e grava o json
+  python3 scripts/tiktok_semana.py hospedar acertos -> só os acertos cedo, no próximo horário livre
 """
 import os, sys, json, datetime as dt
 
@@ -41,6 +47,15 @@ POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "4"))
 TETO_MES = int(os.environ.get("TT_TETO_MES", "20"))
 DIAS = [1, 3, 5, 6]          # ter, qui, sáb, dom
 HORA = 18
+FICHAS = os.path.expanduser("~/claude-projects/cerebro/projetos/canal-agente/producao/fichas-video")
+
+
+def acerto_cedo(vid):
+    """A marca do ficha_video.py: passou de 2x a régua com 24 h ou 3 dias (None se não passou ou não tem ficha)."""
+    try:
+        return json.load(open(os.path.join(FICHAS, f"{vid}.json"), encoding="utf-8")).get("acerto_cedo")
+    except (OSError, ValueError):
+        return None
 
 
 def agenda():
@@ -119,7 +134,7 @@ def candidatos(led, ja):
             continue
         elif v.get("views", 0) < PISO:
             motivo = f"abaixo do piso ({v.get('views', 0):,} views)".replace(",", ".")
-        elif idade + 7 < MATURA:   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
+        elif idade + 7 < MATURA and not acerto_cedo(vid):   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
             motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
         elif cp.off_nicho(v["title"]):
             motivo = "fora do nicho"
@@ -132,16 +147,19 @@ def candidatos(led, ja):
     # Views mandam (escala log: 10x mais views = +1 ponto) e o tema dá bônus de 0,25 por gatilho.
     # Antes era tema primeiro e um Short de 4,5 mil passava na frente de um de 542 mil (05/10).
     import math
-    out.sort(key=lambda x: math.log10(max(x[1], 1)) + 0.25 * x[0], reverse=True)
+    # 23/10: acerto cedo vai na frente
+    out.sort(key=lambda x: (bool(acerto_cedo(x[2])), math.log10(max(x[1], 1)) + 0.25 * x[0]), reverse=True)
     return out, fora
 
 
-def horarios(ag, n):
-    """Próximos slots livres (ter/qui/sáb/dom 18h) dos 7 dias a partir de amanhã, sem passar do teto do mês."""
+def horarios(ag, n, hoje_tambem=False):
+    """Próximos slots livres (ter/qui/sáb/dom 18h) dos 7 dias a partir de amanhã, sem passar do teto do mês.
+    hoje_tambem: o das 18h de hoje também, se ainda for antes das 16h (acerto cedo)."""
     ocupados = {p["quando"][:16] for p in ag["posts"] if p.get("status") != "cancelado"}
-    hoje = dt.datetime.now(BRT).date()
+    agora = dt.datetime.now(BRT)
+    hoje = agora.date()
     slots = []
-    for d in range(1, 8):
+    for d in range(0 if hoje_tambem and agora.hour < 16 else 1, 8):
         dia = hoje + dt.timedelta(days=d)
         if dia.weekday() not in DIAS:
             continue
@@ -160,19 +178,21 @@ def legenda(v):
     return f"{t}\n\n#subnautica #games #jogos #curiosidades" if "subnautica" in t.lower() else f"{t}\n\n#games #jogos #curiosidades"
 
 
-def main(hospedar):
+def main(hospedar, so_acertos=False):
     led = json.load(open(cp.LEDGER, encoding="utf-8"))
     sincronizar_perfil(led)
     ag = agenda()
     ja = {p.get("video_id") for p in ag["posts"]}
     cand, fora = candidatos(led, ja)
-    slots = horarios(ag, POR_SEMANA)   # 19/10: pede todos os horários; com 1 apto ainda maturando, len(cand) só testava o 1º
+    if so_acertos:
+        cand = [c for c in cand if acerto_cedo(c[2])]
+    slots = horarios(ag, POR_SEMANA, hoje_tambem=so_acertos)   # 19/10: pede todos os horários; com 1 apto ainda maturando, len(cand) só testava o 1º
     # 12/10/2026 (Murilo, saída "a" do buraco de 15 a 27/10): os 7 dias contam até o DIA DO POST, não até a
     # segunda da rotina. Cada horário, em ordem, leva o melhor candidato que já vai ter MATURA dias naquela data.
     pares, livres = [], list(cand)
     for quando in slots:
         dia = dt.date.fromisoformat(quando[:10])
-        escolhido = next((c for c in livres if (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA), None)
+        escolhido = next((c for c in livres if acerto_cedo(c[2]) or (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA), None)
         if escolhido:
             livres.remove(escolhido)
             pares.append((escolhido, quando))
@@ -192,7 +212,9 @@ def main(hospedar):
     sobra = cand[len(plano):]
     print(f"TikTok da semana · piso {PISO:,} views".replace(",", ".") + f" · {len(cand)} aptos · {len(plano)} no plano")
     for p in plano:
-        print(f"  ✔ {p['quando'][:16]} · {p['views_youtube']:>7,} · {p['titulo'][:60]} {'' if p['video_url'] else '(SEM HOSPEDAGEM)'}".replace(",", "."))
+        ac = acerto_cedo(p["video_id"])
+        print(f"  ✔ {p['quando'][:16]} · {p['views_youtube']:>7,} · {p['titulo'][:60]} {'' if p['video_url'] else '(SEM HOSPEDAGEM)'}".replace(",", ".")
+              + (f" · acerto cedo: {ac['vezes']}x a régua com {ac['marco_nome']}".replace(".", ",") if ac else ""))
     for s in sobra:
         print(f"  … fica pra próxima: {s[3]['title'][:60]}")
     print(f"Fora ({len(fora)}):")
@@ -207,4 +229,4 @@ def main(hospedar):
 
 
 if __name__ == "__main__":
-    main("hospedar" in sys.argv)
+    main("hospedar" in sys.argv, "acertos" in sys.argv)
