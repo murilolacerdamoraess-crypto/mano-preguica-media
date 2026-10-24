@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T06:36:27.525975Z",
+ "gerado_em": "2026-10-24T07:12:23.431812Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -565,14 +565,14 @@
    "arquivo": "short-elden-ring-tapete-de-danca-malenia.md",
    "name": "SHORT - Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
    "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, no level 1",
-   "description": "Short do canal principal (pauta P6, card de 29/09, pedido de roteiro do Sonar de 18/10). A v2 conta só a luta da MissMikkaa contra a Malenia no level 1, jogando com os pés num tapete de dança (o desafio dos dois Elden Ri",
+   "description": "Short do canal principal (pauta P6). A MissMikkaa enfrenta a Malenia, o chefe considerado o mais difícil do Elden Ring, com os pés num tapete de dança e no level 1. A Malenia se cura a cada golpe que acerta, e no level 1",
    "status": "roteiro (aguardando aprovação)",
    "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima das lives dela)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "Bi6SABpXjqM"
   },
   {
