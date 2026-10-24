@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-23T12:58:54.877465-03:00",
+ "gerado_em": "2026-10-23T21:22:24.844658-03:00",
  "mes": {
-  "postados": 26,
+  "postados": 27,
   "teto": 93,
-  "folga": 67
+  "folga": 66
  },
  "redes": {
   "tiktok": {
@@ -35,28 +35,19 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 2,
-   "ultimo_post": "2026-10-21",
-   "dias_parado": 2,
+   "na_fila": 1,
+   "ultimo_post": "2026-10-23",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "C6wqfeLVQ1s",
-     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido",
-     "quando": "2026-10-23T21:30:00-03:00"
-    },
-    {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-24T21:30:00-03:00"
+     "quando": "2026-10-23T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "C6wqfeLVQ1s",
-     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido"
-    },
     {
      "video_id": "DG5kj_Tyf2g",
      "titulo": "O jogo que o Alien deveria ter copiado #shorts"
