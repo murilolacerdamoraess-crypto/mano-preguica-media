@@ -1306,7 +1306,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
-   "etapa": "roteiro aguardando aprovação, versão 3 com a abertura e o fecho que você aprovou em 20/10 (13 a 15 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
+   "etapa": "roteiro aguardando aprovação, versão 4 com a abertura e o fecho que você aprovou em 20/10 e as correções dos outros roteiros (13 a 15 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 05/11",
    "prazo": "11/11"
@@ -1314,7 +1314,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ela nadou até a árvore gigante do Subnautica 2, e passou pelos leviatãs ficando parada",
-   "etapa": "roteiro aguardando aprovação, versão 2 com a abertura que você aprovou em 20/10 (10 a 12 min: a youtuber que nadou sozinha e sem bug até a árvore no vazio, tudo que deu errado com o wake maker, o dash e o tadpole, a camuflagem copiada de um peixinho, 60 metros por vez, e no fim quem pousou em cima da árvore quebrando a física e o que o jogo diz da raiz)",
+   "etapa": "roteiro aguardando aprovação, versão 3 com a abertura que você aprovou em 20/10 e o fecho novo (10 a 12 min: a youtuber que nadou sozinha e sem bug até a árvore no vazio, tudo que deu errado com o wake maker, o dash e o tadpole, a camuflagem copiada de um peixinho, 60 metros por vez, e no fim quem pousou em cima da árvore quebrando a física e o que o jogo diz da raiz)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 12/11",
    "prazo": "18/11"
@@ -1890,5 +1890,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T19:18-03:00"
+ "gerado_em": "2026-10-24T19:21-03:00"
 }
