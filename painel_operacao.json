@@ -224,6 +224,14 @@
    "confianca": "forte (3 casos no mesmo dia, nas palavras dele, e o modelo dele escrito no Batmóvel).",
    "status": "aguardando",
    "simples": "O Short não termina mais repetindo o título com \"Ou seja\". No Batmóvel, em vez de \"Ou seja, a blindagem foi aprovada\", fica \"voou tijolo pra todo lado, e o que eles não esperavam é que a caminhonete aguentou; o projeto está de pé, e agora eles vão fazer os próximos aparelhos\"."
+  },
+  {
+   "id": "R29",
+   "titulo": "Short de notícia, lançamento ou acontecimento: o título e o gancho são a pergunta que todo mundo faria, o meio conta o acontecimento na ordem em que ele aconteceu, em cima da imagem, e o fim responde a pergunta, em 180 a 260 palavras.",
+   "onde": "skill shorts-roteirista, como um modo próprio pra notícia e acontecimento. Em notícia ele toma o lugar do gerador de 7 ângulos e do contexto longo; o portão de fatos continua igual. Mesma coisa pra Arpão e Tarrafa. Se houver publi, ela entra no pico do suspense, antes do desfecho.",
+   "confianca": "média. São 4 casos lado a lado e 120 transcrições de um canal de referência, mas nenhum teste no nosso canal ainda. Dá pra testar nos próximos 3 Shorts de notícia.",
+   "status": "aguardando",
+   "simples": "Quando o vídeo é sobre uma notícia ou um acontecimento, o título e a primeira frase são a pergunta que todo mundo faria ao ver aquilo (\"realmente voa?\", \"quanto custa?\", \"por que ele não comemorou?\"). O vídeo conta o que aconteceu na ordem em que aconteceu, em cima das imagens, e a última frase responde a pergunta. Tem de 180 a 260 palavras, sem inventar um segundo assunto por cima. No Tesla, em vez de \"a Tesla fez um carro de Rocket League\", fica \"o novo Tesla Roadster realmente consegue voar?\", e o vídeo mostra a apresentação: o Elon falando, o carro grudando na parede, depois no teto."
   }
  ],
  "equipe": [
@@ -1866,5 +1874,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T04:25-03:00"
+ "gerado_em": "2026-10-24T13:48-03:00"
 }
