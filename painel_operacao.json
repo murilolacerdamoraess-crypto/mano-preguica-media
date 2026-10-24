@@ -1698,8 +1698,8 @@
  ],
  "navegador": [
   {
-   "tipo": "24/10",
-   "titulo": "CAPA v3 do longo de 04/11, opção B (Anzol; AJUSTE do Murilo no painel: o 59:59 é genérico, não diz que é timer pra explodir). Prompts em `producao/capas-longos-acabamento-out-nov.md`, seção \"04/11 opção B v3\".",
+   "tipo": "",
+   "titulo": "~~[24/10] CAPA v3 do longo de 04/11, opção B~~ FEITO (Periscópio, 24/10): as 8 na pasta do longo, sem tratar. `v3 BOMBA 1.png` e `2` = ChatGPT (1678x937, chat novo cada, só a `v2 B2 ACAB.png` anexada), 00:03 certo. `v3 ESCRITA 1.png` e `2` = **Flow** (1376x768, mesmo prompt e mesma base): o ChatGPT recusou a ESCRITA 2 vezes seguidas com prompt limpo (\"o prompt pode violar nossas políticas de conteúdo\"); as duas do Flow saíram quase iguais entre si. VAI EXPLODIR conferido letra a letra nas 4 ESCRITAS. As 4 `... ACAB.png` = editor do Flow, frase da rodada de acabamento; na BOMBA 2 ACAB o céu escureceu pra quase preto. Uma recusa da BOMBA na 1ª tentativa foi por erro meu (prompt colado 2 vezes; script corrigido). Chrome fechado, pgrep 0. Pedido original: CAPA v3 do longo de 04/11, opção B (Anzol; AJUSTE do Murilo no painel: o 59:59 é genérico, não diz que é timer pra explodir). Prompts em `producao/capas-longos-acabamento-out-nov.md`, seção \"04/11 opção B v3\".",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1858,5 +1858,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T03:40-03:00"
+ "gerado_em": "2026-10-24T03:42-03:00"
 }
