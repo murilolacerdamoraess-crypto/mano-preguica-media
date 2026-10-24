@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T06:11:33.406033Z",
+ "gerado_em": "2026-10-24T06:35:44.424225Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -383,14 +383,14 @@
    "arquivo": "short-armadura-fallout-de-verdade.md",
    "name": "SHORT - A armadura do Fallout já existe de verdade, só falta uma coisa pra ela ficar pronta",
    "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
-   "description": "Short do canal principal (pauta P42 do Sonar, pedido de roteiro de 18/10, família \"impossível com as próprias mãos\"). A Hacksmith quase faliu quando um robô gigante deles quebrou a perna e ficou proibida de fazer robô; q",
+   "description": "Short do canal principal (pauta P42 do Sonar). A Hacksmith está construindo a armadura do Fallout de verdade, a pedido da Bethesda, e na parte 9 chega o teste com uma pessoa dentro tentando o primeiro passo; se não andar",
    "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da série da Hacksmith)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "6UMykgeizTE"
   },
   {
