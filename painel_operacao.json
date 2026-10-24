@@ -1361,10 +1361,26 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Dá pra tocar uma ocarina de verdade no Zelda novo? (canal 2, versão no jeito de notícia pra comparar)",
+   "etapa": "roteiro (aguardando aprovação, versão no jeito de notícia que você pediu pra comparar: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo; uns 70 segundos; a versão aprovada continua valendo se você preferir ela; os dois títulos estão no topo)",
+   "responsavel": "Arpão",
+   "falta_murilo": "escolher entre esta e a aprovada",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
    "etapa": "roteiro (versão 4 aguardando aprovação, com o gancho novo que você aprovou: a batalha que não cabia vira a pergunta, e o fim mostra como coube)",
    "responsavel": "Arpão",
    "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "A Pokébola de LEGO que abre e tem uma batalha dentro (canal 2, versão no jeito de notícia pra comparar)",
+   "etapa": "roteiro (aguardando aprovação, versão no jeito de notícia que você pediu pra comparar: o tamanho, ela abrindo, a batalha e o laboratório, e no fim como coube; uns 70 segundos; a versão aprovada continua valendo se você preferir ela)",
+   "responsavel": "Arpão",
+   "falta_murilo": "escolher entre esta e a aprovada",
    "prazo": ""
   },
   {
@@ -1874,5 +1890,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T18:33-03:00"
+ "gerado_em": "2026-10-24T18:43-03:00"
 }
