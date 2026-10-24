@@ -1698,6 +1698,14 @@
  ],
  "navegador": [
   {
+   "tipo": "24/10",
+   "titulo": "CAPA v3 do longo de 04/11, opção B (Anzol; AJUSTE do Murilo no painel: o 59:59 é genérico, não diz que é timer pra explodir). Prompts em `producao/capas-longos-acabamento-out-nov.md`, seção \"04/11 opção B v3\".",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[20/10] Cartucho do Mario PRIVADO + Short do oxigênio pronto pro clique de qui 22/10 20h (Claude Code, combinado com o Murilo ~1h20)~~ FEITO (Periscópio, 20/10 11h a 21h; Programado pelo Murilo ~21h, conferido pela API pelo Claude Code: C6wqfeLVQ1s private, publishAt 22/10 20:00 BRT). (1) Cartucho `P_icjTz-RC8`: de Programado 22/10 pra Privado, salvo, lista recarregada: Privado, sem data. Não excluído (vai pro MP2 pelo Leme). (2) Oxigênio = rascunho `C6wqfeLVQ1s` (studio.youtube.com/video/C6wqfeLVQ1s/edit): título do pacote do Anzol, descrição (linha 1 do Anzol + modelo + 🔑 + 🏷️, sem créditos e sem linha de IA), capa = quadro 0 (O2 zerado + 10 KM), playlist VIDEOS CURTOS, não é para crianças, 12 tags, Lugares e Conceitos desligados, Jogos / Subnautica 2014, promoção paga Não, uso de IA Não, relacionado SE EU MORRER O JOGO ACABA! | SUBNAUTICA HARDCORE #1 `ayU00MPsKt0`, 6 produtos na ordem R23 (Ghost, R36S, Gargantuan, Reaper, Sea Emperor, Quest 3S). Verificações de direitos autorais: nenhum problema. Tudo relido depois de recarregar. **Falta do Murilo:** a Adequação para publicidade (classificação irreversível) trava o assistente; só depois dela abre a Visibilidade, onde se põe qui 22/10 20:00 e se clica Programar. Lista > linha do rascunho > Editar rascunho. Uma parada no meio (11h05): erro de seletor meu na playlist gravou a trava; o Murilo liberou. **Fechamento (20/10 tarde/noite):** o Murilo classificou a Adequação; eu conferi Elementos (relacionado e produtos ✓) e tirei o Não listado abrindo o Programar. Duas travas por erro meu na data (zsh não separou \"x y\"; seletor do mês lançou exceção). clk2.sh corrigido (skills 8b1e9a6). A data 22/10 20:00 foi posta pelo Claude Code com o script novo `programar_data.sh`, que daqui pra frente é o jeito de pôr data e hora (não clicar no calendário). Chrome fechado, pgrep 0.",
    "etapa": "",
@@ -1850,5 +1858,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-23T14:10-03:00"
+ "gerado_em": "2026-10-24T03:11-03:00"
 }
