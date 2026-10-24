@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T07:12:23.431812Z",
+ "gerado_em": "2026-10-24T07:15:52.373027Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -89,14 +89,14 @@
    "arquivo": "mp2-batmovel-muro-de-tijolo.md",
    "name": "SHORT MP2 - Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo",
    "titulo_roteiro": "SHORT MP2: o caminhão do Batmóvel contra o muro de tijolo",
-   "description": "Short do MP2 (pauta P48 do Sonar, versão 2 pela regra \"MP2 também é história guiada\" de 18/10). A Hacksmith, que já fez um monte de projeto do Batman (até um kart do Batmóvel do Nolan há 9 anos), quer o Batmóvel mais fun",
+   "description": "Short do MP2 (pauta P48 do Sonar). A Hacksmith quer o Batmóvel mais funcional de todos, mas antes de investir nele blinda uma caminhonete velha pra testar tudo nela; se ela não aguentar o muro de tijolo, talvez nem dê pr",
    "status": "roteiro (aguardando aprovação)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "Qus5_kbJZBY"
   },
   {
