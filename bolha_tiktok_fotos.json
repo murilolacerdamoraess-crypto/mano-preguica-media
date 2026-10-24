@@ -617,7 +617,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 89600
+"views": 89700
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -635,13 +635,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1088
+"views": 1091
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8321
+"views": 8335
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -1146,7 +1146,7 @@
 "v": 2752
 }
 ],
-"views": 2866
+"views": 2871
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1359,9 +1359,13 @@
 {
 "t": 1792872709,
 "v": 43600
+},
+{
+"t": 1792880479,
+"v": 43700
 }
 ],
-"views": 43600
+"views": 43700
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1574,9 +1578,13 @@
 {
 "t": 1792872709,
 "v": 36800
+},
+{
+"t": 1792880479,
+"v": 37300
 }
 ],
-"views": 36800
+"views": 37300
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1661,9 +1669,24 @@
 {
 "t": 1792872709,
 "v": 333
+},
+{
+"t": 1792880479,
+"v": 335
 }
 ],
-"views": 333
+"views": 335
+},
+"7700341318593039617": {
+"titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
+"ts": 1792875735,
+"fotos": [
+{
+"t": 1792880479,
+"v": 685
+}
+],
+"views": 685
 }
 }
 }
