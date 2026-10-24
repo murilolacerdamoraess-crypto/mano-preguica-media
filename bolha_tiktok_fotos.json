@@ -216,6 +216,10 @@
 {
 "t": 1792819210,
 "v": 246
+},
+{
+"t": 1792842618,
+"v": 246
 }
 ],
 "views": 246
@@ -597,7 +601,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 996
+"views": 998
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -609,7 +613,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 89200
+"views": 89300
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -627,7 +631,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1068
+"views": 1071
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -657,7 +661,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3163
+"views": 3164
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1138,7 +1142,7 @@
 "v": 2752
 }
 ],
-"views": 2835
+"views": 2844
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1538,9 +1542,13 @@
 {
 "t": 1792826633,
 "v": 35000
+},
+{
+"t": 1792842618,
+"v": 35200
 }
 ],
-"views": 35000
+"views": 35200
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1605,9 +1613,13 @@
 {
 "t": 1792835373,
 "v": 326
+},
+{
+"t": 1792842618,
+"v": 329
 }
 ],
-"views": 326
+"views": 329
 }
 }
 }
