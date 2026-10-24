@@ -1410,10 +1410,10 @@
   {
    "tipo": "Short",
    "titulo": "Estão fundindo jogos com inteligência artificial",
-   "etapa": "roteiro (aguardando aprovação, versão 4 com as regras de 19/10 do que a coisa faz sentir; antes era a versão 3 revisada pelas regras de 18/10: o como dos dois jogos conversando ficou explicado, e a IA ganhou um exemplo do próprio projeto; gancho e fim iguais; uns 2 min e 20)",
+   "etapa": "roteiro (aguardando aprovação, versão 5 no modo notícia: abre na TNT do Minecraft jogando um inimigo do Skyrim pro alto e pergunta como um jogo roda dentro do outro; mostra a casinha, a água e o inimigo desviando do bloco, a IA e a onda, responde e fecha na água do Minecraft num rio do Skyrim; uns 90 s)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
-   "prazo": "21/10 (a onda ainda está quente)"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -1874,5 +1874,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T18:22-03:00"
+ "gerado_em": "2026-10-24T18:32-03:00"
 }
