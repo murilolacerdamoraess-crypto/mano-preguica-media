@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T20:29:00.281004Z",
+ "gerado_em": "2026-10-25T21:22:06.029444Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -180,7 +180,7 @@
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "I7m-X49fj_w"
   },
   {
@@ -404,7 +404,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
@@ -432,7 +432,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "lnEzdCum6Kw"
   },
   {
@@ -446,7 +446,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Zera)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "9_BwDi_hqeA"
   },
   {
@@ -488,7 +488,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
@@ -544,7 +544,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do AstralSpiff)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "TmUJ4HHx1yY"
   },
   {
@@ -572,7 +572,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "oGaMu-5hn9U"
   },
   {
@@ -628,7 +628,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Farzy)",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "AJMmVLZU5KM"
   },
   {
@@ -637,12 +637,12 @@
    "titulo_roteiro": "SHORT: o Gargantuan vivo, em baleias-azuis",
    "description": "Short do canal principal (pauta P75, estudo de ângulo de 19/10, tipo \"e se\" de escala real; não sai na mesma semana da P63). No Subnautica você só acha o esqueleto do Gargantuan, um fóssil de uns 3 milhões de anos com o ",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "gate": "versão 2: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
@@ -656,7 +656,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "J72eFRewxss"
   },
   {
@@ -684,7 +684,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
@@ -782,7 +782,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": null
   },
   {
@@ -810,7 +810,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Diamond Ingots)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "iNG4NyfisjI"
   },
   {
@@ -908,7 +908,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": null
   },
   {
@@ -1006,7 +1006,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "iNG4NyfisjI"
   },
   {
@@ -1020,7 +1020,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "-3QECuK0_tE"
   },
   {
@@ -1146,7 +1146,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "ZDCHuivDUa4"
   },
   {
