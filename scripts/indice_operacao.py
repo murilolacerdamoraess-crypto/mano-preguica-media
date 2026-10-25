@@ -407,6 +407,36 @@ def enviar_lancamentos():
         pass
 
 
+def enviar_operacao():
+    """25/10/2026 (Murilo: "não reflete a realidade, não é atualizado em tempo real"): o painel lia estes JSON pelo
+    raw do GitHub, que fica até 5 min em cache (e o programacao.json do TikTok só era refeito 2x por dia pelo robô).
+    Os quadros (painel_operacao.json) e a agenda do TikTok (tiktok_agenda.json) vão pro banco do painel a cada
+    turno, como documentos painel:operacao e painel:tiktok_agenda, que as rotas leem sem cache."""
+    import hashlib, urllib.request
+    velho = json.load(open(DOC_HASH)) if os.path.exists(DOC_HASH) else {}
+    for chave, arq, titulo in (("painel:operacao", "painel_operacao.json", "Quadros do Maestri"),
+                               ("painel:tiktok_agenda", "tiktok_agenda.json", "Agenda do TikTok (Metricool)")):
+        caminho = os.path.join(REPO, arq)
+        if not os.path.exists(caminho):
+            continue
+        try:
+            dado = json.load(open(caminho, encoding="utf-8"))
+        except ValueError:
+            continue
+        h = hashlib.sha1(json.dumps(dado, sort_keys=True).encode()).hexdigest()
+        if velho.get(chave) == h:
+            continue
+        doc = {"chave": chave, "tipo": "dados", "titulo": titulo, "markdown": "", "meta": dado}
+        req = urllib.request.Request(f"{PAINEL}/api/documentos", data=json.dumps({"t": TOKEN_DECIDIR, "docs": [doc]}).encode(),
+                                     headers={"content-type": "application/json"})
+        try:
+            if json.loads(urllib.request.urlopen(req, timeout=40).read()).get("ok"):
+                velho[chave] = h
+        except Exception:
+            pass
+    json.dump(velho, open(DOC_HASH, "w"))
+
+
 def glob_md(pasta):
     import glob
     return [a for a in glob.glob(os.path.join(pasta, "*.md")) if not os.path.basename(a).startswith("_")]
@@ -653,6 +683,7 @@ if __name__ == "__main__":
     import sys
     limpar_publicados(seco="--seco" in sys.argv)
     main()
+    enviar_operacao()
     copiar_decisoes()
     enviar_documentos()
     enviar_lancamentos()

@@ -78,6 +78,7 @@ def main():
     # agenda manual (Metricool): sem isto o painel dizia "TikTok 0" com 5 agendados (12/09)
     publicados_manual = {n: [] for n in DAILY}
     ja_na_agenda = {}   # vídeo agendado ou postado à mão não é "próximo da fila"
+    planejados = {}     # aprovado, esperando a rotina pôr no Metricool
     for p in carrega(AGENDA_MANUAL, {}).get("posts", []):
         n = p.get("net", "tiktok")
         if p.get("video_id") and p.get("status") != "cancelado":
@@ -87,6 +88,15 @@ def main():
         except Exception:
             continue
         if n not in agendados:
+            continue
+        # 25/10/2026: "planejado" = o Murilo já aprovou, mas ainda não entrou no Metricool (entra na rotina de
+        # segunda). Sem isto ele aprovava e o TikTok não aparecia em lugar nenhum até a rotina rodar.
+        if p.get("status") == "planejado":
+            if dt >= agora:
+                planejados.setdefault(n, []).append({"video_id": p.get("video_id"), "titulo": p.get("titulo") or vids.get(p.get("video_id"), {}).get("title", p.get("video_id")),
+                                                     "quando": dt.isoformat(), "aprovado": True})
+            continue
+        if p.get("status") == "cancelado":
             continue
         if dt < agora - datetime.timedelta(minutes=30):
             publicados_manual[n].append(dt.date().isoformat())
@@ -122,7 +132,8 @@ def main():
                     continue
                 if consumo >= folga:
                     break
-                vid = next((v for v in queues[net] if v not in usados[net] and v not in ja_no_dia), None)
+                vid = next((v for v in queues[net] if v not in usados[net] and v not in ja_no_dia
+                            and v not in ja_na_agenda.get(net, set())), None)
                 if not vid:
                     break
                 usados[net].add(vid); ja_no_dia.add(vid); consumo += 1
@@ -148,7 +159,7 @@ def main():
             # "ninguém agendou", não "robô quebrou".
             "parado": dias is not None and dias > TOLERANCIA.get(net, 3),
             "agendados": sorted(agendados[net], key=lambda x: x["quando"]),
-            "previstos": previstos[net],
+            "previstos": sorted(planejados.get(net, []) + previstos[net], key=lambda x: x["quando"]),
             # 25/10: a fila do robô não vê a agenda manual; o Blanka (22/10) e a mecânica escondida (24/10) já tinham
             # ido pro TikTok e o painel ainda mostrava os dois como "próximos" (Murilo: "não parece refletir a realidade")
             "proximos_da_fila": [{"video_id": v, "titulo": vids.get(v, {}).get("title", v)}
