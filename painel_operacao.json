@@ -1747,7 +1747,7 @@
  "navegador": [
   {
    "tipo": "",
-   "titulo": "~~[25/10] ARSENAL DE POSES, lote 2~~ FEITO (Periscópio, 25/10 16h34 a 16h43): as 6 em `poses/_a conferir/`, sem tratar, ChatGPT, chat novo cada, só a base anexada, nenhuma recusa: `bracos cruzados confiante.png`, `segurando controle.png` (1536x1024), `joinha.png`, `apontando pra esquerda.png`, `susto maos no rosto.png`, `frustrado mao na cabeca.png`. Conferi base x saída e as mãos em tamanho real: a cabeça ficou no mesmo ângulo da base nas 6, nenhuma mão ou braço deformado. No braços cruzados o enquadramento abriu (cabeça menor que na base). O controle saiu genérico, sem marca. Chrome fechado, pgrep 0. Pedido original: ARSENAL DE POSES, lote 2 (o lote 1 está conferido: 9 de 10 entraram em `Mano Preguica/_refs rosto do Murilo/poses/`; ver `thumbnails-playbook.md`, Arsenal). ChatGPT, um chat novo por imagem, só a foto base anexada, nunca capa nem personagem. Perfil mano, uma janela só. Salvar sem tratar em `poses/_a conferir/` com o nome indicado. Lição do lote 1: a base tem que estar no mesmo ângulo de rosto que a pose pede (pose de frente a partir de rosto de lado muda o rosto).",
+   "titulo": "~~[25/10] ARSENAL DE POSES, lote 2~~ FEITO (Periscópio, 25/10 16h34 a 16h43): as 6 em `poses/_a conferir/`, sem tratar, ChatGPT, chat novo cada, só a base anexada, nenhuma recusa: `bracos cruzados confiante.png`, `segurando controle.png` (1536x1024), `joinha.png`, `apontando pra esquerda.png`, `susto maos no rosto.png`, `frustrado mao na cabeca.png`. Conferi base x saída e as mãos em tamanho real: a cabeça ficou no mesmo ângulo da base nas 6, nenhuma mão ou braço deformado. No braços cruzados o enquadramento abriu (cabeça menor que na base). O controle saiu genérico, sem marca. **Anzol (25/10):** entraram 5 de 6 (controle, joinha, apontando pra esquerda, susto com as mãos no rosto, frustrado); braços cruzados reprovou de novo (cabeça pequena, rosto mais comprido), espera a webcam em resolução cheia. Arsenal com 14 poses, sem lote 3 por ora. Chrome fechado, pgrep 0. Pedido original: ARSENAL DE POSES, lote 2 (o lote 1 está conferido: 9 de 10 entraram em `Mano Preguica/_refs rosto do Murilo/poses/`; ver `thumbnails-playbook.md`, Arsenal). ChatGPT, um chat novo por imagem, só a foto base anexada, nunca capa nem personagem. Perfil mano, uma janela só. Salvar sem tratar em `poses/_a conferir/` com o nome indicado. Lição do lote 1: a base tem que estar no mesmo ângulo de rosto que a pose pede (pose de frente a partir de rosto de lado muda o rosto).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1978,5 +1978,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T16:44-03:00"
+ "gerado_em": "2026-10-25T16:45-03:00"
 }
