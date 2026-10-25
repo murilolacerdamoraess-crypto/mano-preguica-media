@@ -228,6 +228,10 @@
 {
 "t": 1792888099,
 "v": 246
+},
+{
+"t": 1792910335,
+"v": 246
 }
 ],
 "views": 246
@@ -421,7 +425,7 @@
 "v": 37800
 }
 ],
-"views": 39600
+"views": 39700
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -645,7 +649,7 @@
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8391
+"views": 8398
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -669,7 +673,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3173
+"views": 3174
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1150,7 +1154,7 @@
 "v": 2752
 }
 ],
-"views": 2911
+"views": 2912
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1379,9 +1383,13 @@
 {
 "t": 1792902856,
 "v": 44100
+},
+{
+"t": 1792910335,
+"v": 44200
 }
 ],
-"views": 44100
+"views": 44200
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1610,9 +1618,13 @@
 {
 "t": 1792902856,
 "v": 39600
+},
+{
+"t": 1792910335,
+"v": 40100
 }
 ],
-"views": 39600
+"views": 40100
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1713,9 +1725,13 @@
 {
 "t": 1792902856,
 "v": 342
+},
+{
+"t": 1792910335,
+"v": 343
 }
 ],
-"views": 342
+"views": 343
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -1736,9 +1752,13 @@
 {
 "t": 1792902856,
 "v": 5369
+},
+{
+"t": 1792910335,
+"v": 5532
 }
 ],
-"views": 5369
+"views": 5532
 }
 }
 }
