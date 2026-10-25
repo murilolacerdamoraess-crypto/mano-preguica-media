@@ -206,7 +206,7 @@
    "titulo": "Quando a pessoa tenta de novo uma coisa em que já falhou, o texto lembra onde ela parou da outra vez bem na hora em que ela passa daquele ponto.",
    "onde": "role longos (Farol) e skill shorts-roteirista, como ferramenta de narração junto do C2 e do C37; mesma coisa pra Arpão e Tarrafa.",
    "confianca": "fraca (2 canais de referência, 3 ocorrências, nenhum teste no canal). Se preferir, fica como observação até aparecer de novo.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-25 (aprovada pelo Murilo no Decidir às 22:08 UTC; roles shorts.md, que vale pro Arpão e pra Tarrafa, e longos.md, do Farol; skill shorts-roteirista)",
    "simples": "Quando a pessoa tenta de novo uma coisa em que já falhou, o texto lembra onde ela parou da outra vez bem na hora em que ela passa daquele ponto. Exemplo do MrBeast: \"Vocês acabaram de passar dos 48 segundos, que foi quando soltaram a barra na última tentativa.\""
   },
   {
@@ -214,7 +214,7 @@
    "titulo": "Em vídeo de construção ou de projeto, cada coisa que eles fazem aparece pelo problema que ela resolve pro objetivo, e o passo a passo de oficina sai.",
    "onde": "skill shorts-roteirista (junto da regra 4 de \"O que a coisa faz a pessoa sentir\": o porquê é o propósito no objetivo do vídeo, não o porquê da ação) e no interrogatório do leitor Murilo (\"pra que isso serve no objetivo?\"); mesma coisa pra Arpão, Tarrafa e Farol.",
    "confianca": "forte (regra dele, dita pra todos os vídeos).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-25 (aprovada pelo Murilo no Decidir às 22:08 UTC; roles shorts.md, que vale pro Arpão e pra Tarrafa, e longos.md, do Farol; skill shorts-roteirista)",
    "simples": "Quando o vídeo mostra alguém construindo ou modificando alguma coisa, cada passo vem com o que ele resolve, e não com o jeito que foi feito. No Batmóvel, em vez de \"pra tirar a caçamba, eles soltaram ela e arrancaram com a caminhonete\", fica \"levaram o tanque de gasolina pra dentro da gaiola, porque ele ficava bem onde ia levar pancada nos testes, e lá dentro a mesma gaiola que protege o piloto protege o tanque\"."
   },
   {
@@ -222,7 +222,7 @@
    "titulo": "A última frase do Short não começa com \"Ou seja\" pra repetir o título: ela conta o último momento como cena e diz o que muda dali pra frente.",
    "onde": "skill shorts-roteirista (a correção de 08/10 do último bloco, os 2 tempos de clímax e fechamento) e as instruções do Arpão, da Tarrafa e do Farol; opcional: o `checar_fluidez.py` avisar quando a última frase começar com \"Ou seja\" e repetir palavras do título.",
    "confianca": "forte (3 casos no mesmo dia, nas palavras dele, e o modelo dele escrito no Batmóvel).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-25 (aprovada pelo Murilo no Decidir às 22:08 UTC; roles shorts.md, que vale pro Arpão e pra Tarrafa, e longos.md, do Farol; skill shorts-roteirista; com o aviso de não trocar o \"Ou seja\" por outra expressão fixa, que o Arpão tinha feito no mesmo dia)",
    "simples": "O Short não termina mais repetindo o título com \"Ou seja\". No Batmóvel, em vez de \"Ou seja, a blindagem foi aprovada\", fica \"voou tijolo pra todo lado, e o que eles não esperavam é que a caminhonete aguentou; o projeto está de pé, e agora eles vão fazer os próximos aparelhos\"."
   },
   {
@@ -238,7 +238,7 @@
    "titulo": "Capa com o rosto do Murilo nasce de uma foto real dele, deixada nítida antes, e nunca de uma capa pronta nem da folha de rostos.",
    "onde": "cartilha do Anzol, como adendo 4 da regra 2.26 (rosto do Murilo), e o pedido de capa do Anzol pro Periscópio.",
    "confianca": "fraca. É 1 capa, e a conferência foi do Anzol. A prova de verdade é a sua escolha na tela Capas: se a A v4 não parecer você, a regra cai e o teste continua.",
-   "status": "aguardando",
+   "status": "aprovada 2026-10-25 (Decidir, 22:09 UTC); o Anzol escreve o adendo 4 da 2.26 na cartilha e avisa, e aí vira aplicada",
    "simples": "Em vez de mandar a IA desenhar o seu rosto a partir da folha de expressões, a gente pega uma foto real sua na expressão certa, deixa ela nítida primeiro e monta a capa em cima dessa foto. Foi assim que saiu a capa do PokéBonk com o Charizard enorme no fundo: você não gostou do fundo preto nem da expressão, mas não disse que o rosto não parecia você."
   }
  ],
@@ -2010,5 +2010,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T18:52-03:00"
+ "gerado_em": "2026-10-25T19:19-03:00"
 }
