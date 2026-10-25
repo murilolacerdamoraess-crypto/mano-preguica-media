@@ -1739,7 +1739,15 @@
  "navegador": [
   {
    "tipo": "25/10",
-   "titulo": "CAPA A v2 do PokéBonk, trocar só o rosto (MP2, sai sáb 31/10 18h; pedido do Murilo na tela Capas: na opção c \"eu fiquei muito fake nessa thumb, não parece comigo\"). Depois das 11h, uma janela só, perfil mano. Pasta `Mano Preguica/_refs capa - Pokebonk/`.",
+   "titulo": "CAPA A v3 do PokéBonk, trocar só o RABO do Charizard (MP2, sai sáb 31/10 18h). A `OPCAO A v2 - Flow.png` passou na conferência do Anzol (rosto confere com a folha, Mew certo), mas o personagem laranja segue com o rabo rosa listrado do Mew, que não existe no jogo (3.C, R25). Perfil mano, uma janela. Editor do Flow (Nano Banana Pro): IMAGEM 1 = `OPCAO A v2 - Flow.png`, IMAGEM 2 = `REF PERSONAGEM Charizard (corpo inteiro no jogo).png`. Frase: \"Troque só o rabo do personagem laranja pelo rabo do personagem da IMAGEM 2, exatamente como ele é: laranja, com a chama acesa na ponta, no mesmo estilo de pixel. Não mude nada no homem, no resto do personagem laranja, no fogo, na criatura rosa nem no fundo.\" 2 versões. Salvar sem tratar como `OPCAO A v3 - Flow 1.png` e `2`. Descartar a versão em que o rosto do homem mudar (2.26). Avisar o Anzol. Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[25/10] CAPA A v2 do PokéBonk, trocar só o rosto~~ FEITO pelo caminho 2 (Periscópio, 25/10 11h06 a 11h12): o ChatGPT recusou o caminho 1 na 1ª versão (chat novo, `OPCAO A - Flow.png` + FOLHA, prompt da entrada), mensagem exata: \"Infelizmente, a imagem que criamos pode violar nossas diretrizes relacionadas à semelhança com conteúdo de terceiros. Se você considera que foi um engano, tente novamente ou edite o prompt.\" Não tentei a 2ª versão. Caminho 2 no Flow (Nano Banana Pro, projeto \"out. 19 - 01:00\", `OPCAO A - GPT.png` + `REF PERSONAGEM Mew (so o Mew, sem a bolha roxa).png`, frase da entrada): `OPCAO A v2 - Flow.png`, 1376x768, sem tratar. O Mew rosa entrou no lugar da bolha; homem, fogo e fundo iguais à GPT. Pra conferir: o Charizard continua com o rabo rosa do Mew (a frase mandava não mexer no personagem laranja). Chrome fechado, pgrep 0. Pedido original: CAPA A v2 do PokéBonk, trocar só o rosto (MP2, sai sáb 31/10 18h; pedido do Murilo na tela Capas: na opção c \"eu fiquei muito fake nessa thumb, não parece comigo\"). Depois das 11h, uma janela só, perfil mano. Pasta `Mano Preguica/_refs capa - Pokebonk/`.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1914,5 +1922,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T01:17-03:00"
+ "gerado_em": "2026-10-25T11:13-03:00"
 }
