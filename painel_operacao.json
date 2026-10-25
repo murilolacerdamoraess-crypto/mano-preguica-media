@@ -1678,7 +1678,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele construiu uma base só ligando todos os biomas do Subnautica, e travou o jogo a cada peça",
-   "etapa": "roteiro (versão 2 aguardando aprovação, com o gancho novo que você aprovou: o recorde vira o veredito do fim)",
+   "etapa": "roteiro (versão 3 aguardando aprovação, reescrita inteira pelo seu comentário: primeiro os observatórios em cada bioma, depois a base ligando um no outro; a base grande trava o jogo, os trechos chegam em alturas diferentes, e a Moonpool resolve as duas coisas; sem ziguezague, sem \"tecnicamente\" e sem \"garagem de veículos\"; não sai na mesma semana da base mais alta)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1990,5 +1990,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T17:26-03:00"
+ "gerado_em": "2026-10-25T17:32-03:00"
 }
