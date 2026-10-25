@@ -386,6 +386,18 @@
    "pendente": ""
   },
   {
+   "id": "P89",
+   "titulo": "Ele construiu uma base de 16 km no Subnautica até o teto do mapa, e pulou lá de cima",
+   "rodada": "Duas notas do Murilo no roteiro da base por todos os biomas 25/10/2026 (Sonar, pedido do Sextante): 1 pauta, 1 descartada",
+   "gancho": "Ele construiu uma base de 16 km no Subnautica até o teto do mapa, e pulou lá de cima\" (portão de título APROVADO)",
+   "por_que_agora": "nota do Murilo de 25/10 no roteiro da base por todos os biomas.",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 3; a fila do Murilo está cheia, 47 esperando com limite 5, então não vai pro roteirista agora)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P87",
    "titulo": "Como o Ghost Leviathan caça, em 5 passos",
    "rodada": "Mais monstros no formato animado do Reaper 22/10/2026 (pedido do Murilo)",
@@ -1978,5 +1990,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T17:20-03:00"
+ "gerado_em": "2026-10-25T17:24-03:00"
 }
