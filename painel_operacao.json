@@ -1726,6 +1726,14 @@
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "28/10"
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "Megabonk de Pokémon no navegador: joguei o PokéBonk antes que derrubem (canal 2)",
+   "etapa": "subindo no Studio do canal 2 desde 24/10 21h10 (82 min, 24,9 GB, o envio leva horas; título, descrição com 14 capítulos, tags e capa provisória já no rascunho, vídeo pzJ3NdXn-bM; som aprovado; a capa de arte vem depois)",
+   "responsavel": "Leme",
+   "falta_murilo": "dizer se monetiza com o palavrão dos 66:40 e, com tudo pronto, apertar Programar pra sábado 31/10 às 18h",
+   "prazo": "31/10"
   }
  ],
  "navegador": [
@@ -1898,5 +1906,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-24T21:06-03:00"
+ "gerado_em": "2026-10-24T21:10-03:00"
 }
