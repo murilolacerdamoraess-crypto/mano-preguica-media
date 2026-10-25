@@ -1738,6 +1738,14 @@
  ],
  "navegador": [
   {
+   "tipo": "25/10",
+   "titulo": "CAPA A v2 do PokéBonk, trocar só o rosto (MP2, sai sáb 31/10 18h; pedido do Murilo na tela Capas: na opção c \"eu fiquei muito fake nessa thumb, não parece comigo\"). Depois das 11h, uma janela só, perfil mano. Pasta `Mano Preguica/_refs capa - Pokebonk/`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[24/10] CAPA DE ARTE do PokéBonk~~ FEITO (Periscópio, 24/10 21h08 a 21h20, tela bloqueada mas antes das 22h30): as 4 na pasta de refs, sem tratar. `OPCAO A - GPT.png` e `OPCAO B - GPT.png` = ChatGPT (1672x941, chat novo cada, imagens na ordem da nota, sem recusa). `OPCAO A - Flow.png` e `OPCAO B - Flow.png` = Flow, **Nano Banana Pro** (1376x768, projeto \"out. 19 - 01:00\", refs incluídas na mesma ordem e contadas uma a uma). Pra conferir: na A do GPT o alvo do fogo virou a criatura roxa que está ao lado do Mew na `REF PERSONAGEM Mew` e o Charizard ganhou o rabo rosa do Mew (a ref tem os dois bichos; o Flow acertou o Mew rosa); a A do Flow saiu sem headset. **Anzol (24/10):** subiu B GPT e A Flow na tela Capas; descartou A GPT (bolha roxa no lugar do Mew) e B Flow (Charmander fora do desenho do jogo). Chrome fechado, pgrep 0. Pedido original: CAPA DE ARTE do PokéBonk (MP2, sai sáb 31/10 18h; pedido do Leme, prompts e refs do Anzol). Uma janela só, perfil mano. Os 2 prompts (A: venceu o Mew; B: a torre dos fantasmas) e a ordem das IMAGENS estão em `producao/embalagem-mp2-pokebonk.md`, seção \"Capa de arte\". Refs em `Mano Preguica/_refs capa - Pokebonk/` + a folha e os quadros soltos de `_refs rosto do Murilo/`. Rodar cada prompt no ChatGPT (chat novo cada) e no Nano Banana Pro do Flow, 1 versão de cada lugar. Salvar sem tratar na pasta de refs como `OPCAO A - GPT.png`, `OPCAO A - Flow.png`, `OPCAO B - GPT.png`, `OPCAO B - Flow.png`. Se o GPT recusar, anotar a mensagem exata e fazer 2 no Flow. Avisar o Anzol (`maestri ask \"Anzol\"`), que confere portão, rosto e personagens e sobe na tela Capas. A capa provisória (quadro do jogo) já está na pasta MP2 pro Leme. Quem faz: Periscópio.",
    "etapa": "",
@@ -1906,5 +1914,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T01:13-03:00"
+ "gerado_em": "2026-10-25T01:17-03:00"
 }
