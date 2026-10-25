@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T21:26:50.652463Z",
+ "gerado_em": "2026-10-25T21:47:42.126271Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -881,6 +881,20 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "4",
+   "fonte_yt": null
+  },
+  {
+   "arquivo": "short-pokemon-night-out-marshmello.md",
+   "name": "SHORT - A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
+   "titulo_roteiro": "SHORT: o show da Pokémon com o Marshmello",
+   "description": "Short do canal principal (pauta P90 do Sonar, liberada pelo Murilo em 25/10 como exceção à fila cheia do C64), no MODO NOTÍCIA (R29). O Pokémon Night Out, em 24/10/2026 no Intuit Dome, em Los Angeles, com o Marshmello, n",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "versão 1: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da live oficial da Pokémon e dos vídeos da plateia)",
+   "motor": null,
+   "versao": "1",
    "fonte_yt": null
   },
   {
