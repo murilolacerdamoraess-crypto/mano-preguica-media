@@ -77,8 +77,11 @@ def main():
 
     # agenda manual (Metricool): sem isto o painel dizia "TikTok 0" com 5 agendados (12/09)
     publicados_manual = {n: [] for n in DAILY}
+    ja_na_agenda = {}   # vídeo agendado ou postado à mão não é "próximo da fila"
     for p in carrega(AGENDA_MANUAL, {}).get("posts", []):
         n = p.get("net", "tiktok")
+        if p.get("video_id") and p.get("status") != "cancelado":
+            ja_na_agenda.setdefault(n, set()).add(p["video_id"])
         try:
             dt = datetime.datetime.fromisoformat(p["quando"]).astimezone(BRT)
         except Exception:
@@ -146,7 +149,10 @@ def main():
             "parado": dias is not None and dias > TOLERANCIA.get(net, 3),
             "agendados": sorted(agendados[net], key=lambda x: x["quando"]),
             "previstos": previstos[net],
-            "proximos_da_fila": [{"video_id": v, "titulo": vids.get(v, {}).get("title", v)} for v in queues[net][:3]],
+            # 25/10: a fila do robô não vê a agenda manual; o Blanka (22/10) e a mecânica escondida (24/10) já tinham
+            # ido pro TikTok e o painel ainda mostrava os dois como "próximos" (Murilo: "não parece refletir a realidade")
+            "proximos_da_fila": [{"video_id": v, "titulo": vids.get(v, {}).get("title", v)}
+                                 for v in [v for v in queues[net] if v not in ja_na_agenda.get(net, set())][:3]],
         }
 
     out = {"gerado_em": agora.isoformat(), "mes": {"postados": postados_mes, "teto": MONTH_CAP, "folga": folga},
