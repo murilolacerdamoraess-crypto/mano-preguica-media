@@ -393,7 +393,7 @@
    "por_que_agora": "o show foi em 24/10, então a janela é esta semana, e o segundo show, em Londres no dia 10/11, abre outra.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (FAST-TRACK pedido pelo Murilo; a janela é agora, então fura a fila assim que o Maestro liberar, porque a fila do Murilo está cheia, 47 esperando com limite 5)",
+   "status": "pego por Arpão (25/10: saiu da fila por exceção do Murilo, fora do limite de 5 roteiros esperando (C64), porque a janela do show é esta semana; o Maestro mandou direto pro Arpão)",
    "frente": "",
    "pendente": ""
   },
@@ -2002,5 +2002,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T18:39-03:00"
+ "gerado_em": "2026-10-25T18:45-03:00"
 }
