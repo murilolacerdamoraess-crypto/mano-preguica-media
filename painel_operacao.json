@@ -1746,8 +1746,8 @@
  ],
  "navegador": [
   {
-   "tipo": "25/10",
-   "titulo": "CAPA A v5 do PokéBonk, só 3 elementos e fundo quase sumindo (MP2, sai sáb 31/10 18h; pedido do Murilo por voz: \"se tivesse o Char grande assim de fundo e o Mew pequenininho [...] jogando fogo talvez ficaria mais fácil de ser entendido\"; a floresta atrás \"tá deixando aquilo [...] não tão simples de ser entendido\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/`. Mesmo método da rodada 2 do teste: IMAGEM 1 é a foto em alta, nenhuma capa pronta anexada.",
+   "tipo": "",
+   "titulo": "~~[25/10] CAPA A v5 do PokéBonk, só 3 elementos e fundo quase sumindo~~ FEITO (Periscópio, 25/10 15h48 a 15h53): `OPCAO A v5 - GPT 1.png`, `GPT 2.png` (ChatGPT, chat novo cada, ~1672x941, sem recusa) e `OPCAO A v5 - Flow.png` (Flow Nano Banana Pro, geração nova, 1376x768), sem tratar. Nariz, mãos e braços conferidos em tamanho real contra o `C3 passo A`: o nariz é o da foto nas três, sem membro a mais. GPT 1: fundo liso certo, mas o personagem grande ocupa uns 65% da altura, com o corpo cortado e o pixel borrado. GPT 2: o personagem grande saiu médio (uns 50%), e o rosa saiu maior que os 15% pedidos. Flow: a composição mais perto do pedido (personagem grande enorme atrás dele, rosa pequeno), mas os dois personagens saíram em desenho liso de anime, não em pixel do jogo, e sobrou um pedaço da cadeira verde embaixo, no meio. Chrome fechado, pgrep 0. Pedido original: CAPA A v5 do PokéBonk, só 3 elementos e fundo quase sumindo (MP2, sai sáb 31/10 18h; pedido do Murilo por voz: \"se tivesse o Char grande assim de fundo e o Mew pequenininho [...] jogando fogo talvez ficaria mais fácil de ser entendido\"; a floresta atrás \"tá deixando aquilo [...] não tão simples de ser entendido\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/`. Mesmo método da rodada 2 do teste: IMAGEM 1 é a foto em alta, nenhuma capa pronta anexada.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1954,5 +1954,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T15:47-03:00"
+ "gerado_em": "2026-10-25T15:54-03:00"
 }
