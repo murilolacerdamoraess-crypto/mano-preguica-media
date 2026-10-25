@@ -1693,8 +1693,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "A armadura do Fallout já existe de verdade, só falta uma coisa pra ela ficar pronta",
-   "etapa": "roteiro (versão 3 aguardando aprovação: com tudo que você cobrou hoje, o que está em jogo no gancho, o teste contado como cena e o fim no que deu certo)",
+   "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "etapa": "roteiro (versão 4 aguardando aprovação: sem o \"continua\", porque a série ainda não mostrou o passo; o vídeo agora é o primeiro teste com uma pessoa dentro e fecha nele, a armadura fechando sozinha, a mão e as pernas mexendo; saíram o \"peça impressa não segura tiro\" e o motor)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1733,8 +1733,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele tentou matar os 25 Reapers do Subnautica sem nenhum veículo, e o primeiro precisou de 125 facadas",
-   "etapa": "roteiro (aguardando aprovação: isca do longo dos 34 leviatãs de 28/10, só a parte dos Reapers, a bolha que congela, os 125 golpes no primeiro, as bolsas de gás do Gasopod no lugar da bala e o 25º caindo; não entrega o fim do longo; uns 2 min e 30, voz sua)",
+   "titulo": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
+   "etapa": "roteiro (versão 2 aguardando aprovação: deixou de ser mais um vídeo de matar leviatã na faca; agora é o truque que ele inventou porque o jogo quase não tem arma, as bolsas de gás do Gasopod atiradas como bala, Reaper por Reaper; isca única do longo dos 34 leviatãs, combinada com o Farol)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "28/10"
@@ -1742,10 +1742,10 @@
   {
    "tipo": "Short",
    "titulo": "Ele matou 31 leviatãs do Subnautica sem veículo, e no Sea Dragon a faca quente não tirava nada",
-   "etapa": "roteiro (aguardando aprovação: isca do longo dos 34 leviatãs de 28/10, a descida até a lava sem veículo, o Sea Dragon que não morria, a imunidade à faca quente e a volta até a superfície pela faca comum; a fuga e o placar ficam pro longo; uns 2 minutos, voz sua)",
+   "etapa": "roteiro (segurado em 25/10: você reprovou e lembrou que já são 3 ou 4 vídeos de matar leviatã; com o Farol ficou uma isca só do longo, a do gás contra o Reaper, e esta fica parada; só volta se você quiser)",
    "responsavel": "Arpão",
    "falta_murilo": "",
-   "prazo": "28/10"
+   "prazo": ""
   },
   {
    "tipo": "Longo",
@@ -1990,5 +1990,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T17:24-03:00"
+ "gerado_em": "2026-10-25T17:26-03:00"
 }
