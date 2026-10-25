@@ -1698,9 +1698,9 @@
   {
    "tipo": "Short",
    "titulo": "O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
-   "etapa": "roteiro (versão 4 aguardando aprovação: versão final do jogo explicada, não basta ser bonito, a lâmina pelo que resolve, os quatro testes um por um e o fim sem o \"Ou seja\")",
+   "etapa": "narração, texto no Gravar com 15 frases (versão 4 aprovada por você em 25/10; projeto short_machado_kratos)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -1714,25 +1714,25 @@
   {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
-   "etapa": "roteiro (versão 3 aguardando aprovação: do jeito que você ditou, o tapete, o segredo da mira, o atraso e as regras dela, e o fim na vitória, sem o \"Ou seja\")",
+   "etapa": "narração, texto no Gravar com 16 frases (versão 3 aprovada por você em 25/10; projeto short_elden_ring_tapete)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
-   "etapa": "roteiro (versão 5 aguardando aprovação: gancho direto no plano, conserto e montagem do jeito que você ditou, fim sem o \"Ou seja\")",
+   "etapa": "narração, texto no Gravar com 17 frases (versão 5 aprovada por você em 25/10; projeto short_ps2_portatil)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo (canal 2)",
-   "etapa": "roteiro (versão 5 aguardando aprovação: do jeito que você ditou, o que está em jogo no gancho, o teste em etapas e o fim com o projeto de pé)",
+   "etapa": "narração, texto no Gravar com 22 frases (versão 5 aprovada por você em 25/10; projeto short_batmovel_muro)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -2010,5 +2010,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T18:47-03:00"
+ "gerado_em": "2026-10-25T18:52-03:00"
 }
