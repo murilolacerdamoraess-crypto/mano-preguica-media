@@ -1747,7 +1747,15 @@
  "navegador": [
   {
    "tipo": "25/10",
-   "titulo": "CAPA A v5b do PokéBonk, ele de punho fechado torcendo e o Mew pequeno NA FRENTE do Charizard gigante (ideia do Murilo por voz, vendo ao vivo: \"eu tinha imaginado alguma coisa como se eu tivesse empolgado ou confiante, com a mão fechada no formato de um soco, mas como se eu tivesse torcendo, e aí ter o Char gigante de fundo e o Mew na frente do Charizard bem pequeno [...] mostrando a imponência do Char na frente do Mew, e eu na minha posição ali de confiante, incisivo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/`. A v5 normal também já saiu; confiro as duas.",
+   "titulo": "ARSENAL DE POSES do Murilo, lote 1 (decisão dele: \"era bom a gente ter um arsenal de poses minhas para usar nas thumbs\", gerado com IA a partir dos vídeos, sem foto nova; plano em `thumbnails-playbook.md`, seção \"Arsenal de poses do Murilo\"). Perfil mano, uma janela só. Tudo no ChatGPT, um chat novo por imagem, só a foto anexada, nunca capa nem personagem. Fotos de origem em `Mano Preguica/_refs rosto do Murilo/quadros soltos/`. Salvar sem tratar em `Mano Preguica/_refs rosto do Murilo/poses/_a conferir/` com o nome indicado. O Anzol confere cada uma lado a lado com a foto e move as aprovadas pra `poses/`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[25/10] CAPA A v5b do PokéBonk, ele de punho fechado torcendo e o Mew pequeno NA FRENTE do Charizard gigante (ideia do Murilo por voz, vendo ao vivo: \"eu tinha imaginado alguma coisa como se eu tivesse empolgado ou confiante, com a mão fechada no formato de um soco, mas como se eu tivesse torcendo, e aí ter o Char gigante de fundo e o Mew na frente do Charizard bem pequeno [...] mostrando a imponência do Char na frente do Mew, e eu na minha posição ali de confiante, incisivo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/`. A v5 normal também já saiu; confiro as duas.~~ SUBSTITUÍDO (Anzol, 25/10): o Murilo não quer o grito (\"parece que eu to sofrendo\") nem foto nova. A v5b agora parte do arsenal de poses, na entrada acima. Não rodar os passos abaixo.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1962,5 +1970,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T15:55-03:00"
+ "gerado_em": "2026-10-25T16:03-03:00"
 }
