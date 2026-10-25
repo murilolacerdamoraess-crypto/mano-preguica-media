@@ -386,6 +386,18 @@
    "pendente": ""
   },
   {
+   "id": "P90",
+   "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
+   "rodada": "Pedido do Murilo 25/10/2026 (Sonar): o show da Pokémon com o Marshmello",
+   "gancho": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão\" (portão de título APROVADO)",
+   "por_que_agora": "o show foi em 24/10, então a janela é esta semana, e o segundo show, em Londres no dia 10/11, abre outra.",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (FAST-TRACK pedido pelo Murilo; a janela é agora, então fura a fila assim que o Maestro liberar, porque a fila do Murilo está cheia, 47 esperando com limite 5)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P89",
    "titulo": "Ele construiu uma base de 16 km no Subnautica até o teto do mapa, e pulou lá de cima",
    "rodada": "Duas notas do Murilo no roteiro da base por todos os biomas 25/10/2026 (Sonar, pedido do Sextante): 1 pauta, 1 descartada",
@@ -1990,5 +2002,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T18:26-03:00"
+ "gerado_em": "2026-10-25T18:39-03:00"
 }
