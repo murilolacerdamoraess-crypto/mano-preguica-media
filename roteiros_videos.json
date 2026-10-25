@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T20:20:44.432764Z",
+ "gerado_em": "2026-10-25T20:24:38.800204Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -381,16 +381,16 @@
   },
   {
    "arquivo": "short-25-reapers-sem-veiculo-faca.md",
-   "name": "SHORT - Ele tentou matar os 25 Reapers do Subnautica sem nenhum veículo, e o primeiro precisou de 125 facadas",
-   "titulo_roteiro": "SHORT: os 25 Reapers sem veículo",
-   "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon, sai qua 28/10 12h; pedido do Farol de 20/10, R18). Só a parte dos Reapers, inteira. No Subnautica todo mundo foge do Reaper; ele decidiu caçar os 25 do map",
+   "name": "SHORT - Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
+   "titulo_roteiro": "SHORT: o gás que virou munição contra o Reaper",
+   "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon; pedido do Farol, R18). Versão 2 (25/10), depois da reprovação do Murilo e do C73 (tema repetido): deixou de ser mais um vídeo de matar leviatã na faca e vi",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "gate": "versão 2: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo de 28/10",
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo dos 34 leviatãs",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": "5G3XZEcnSzc"
   },
   {
