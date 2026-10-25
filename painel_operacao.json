@@ -1746,6 +1746,14 @@
  ],
  "navegador": [
   {
+   "tipo": "25/10",
+   "titulo": "CAPA A v5 do PokéBonk, só 3 elementos e fundo quase sumindo (MP2, sai sáb 31/10 18h; pedido do Murilo por voz: \"se tivesse o Char grande assim de fundo e o Mew pequenininho [...] jogando fogo talvez ficaria mais fácil de ser entendido\"; a floresta atrás \"tá deixando aquilo [...] não tão simples de ser entendido\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/`. Mesmo método da rodada 2 do teste: IMAGEM 1 é a foto em alta, nenhuma capa pronta anexada.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[25/10] TESTE DO ROSTO, rodada 2~~ FEITO (Periscópio, 25/10 15h36 a 15h40): `TESTE ROSTO/R2 GPT.png` (ChatGPT, chat novo, 1672x941, sem recusa) e `TESTE ROSTO/R2 Flow.png` (Flow Nano Banana Pro, geração nova com as 3 refs no comando, sem a v3, 1376x768), sem tratar. Conferi em tamanho real contra o `C3 passo A`: nas duas o nariz é o da foto (curto, ponta larga e arredondada), não o fino da v3; dois braços pra cima, mãos sem deformação. R2 GPT: rosto redesenhado mas parecido, pessoa grande como pedido. R2 Flow: rosto mais colado na foto (parece recortado), mas a pessoa ficou menor que os 45% e o contorno laranja saiu serrilhado, com cara de adesivo. **Anzol (25/10):** passou, o rosto bateu com a foto nas duas; a R2 GPT virou a capa A v4 e está na tela Capas; a R2 Flow ficou fora (adesivo, Charizard fora do jogo), mas a composição dela vira modelo. Chrome fechado, pgrep 0. Pedido original: TESTE DO ROSTO, rodada 2: a foto em alta vira a capa, SEM a v3 anexada (pasta `Mano Preguica/_refs capa - Pokebonk/`). Rodada 1: só o `TESTE ROSTO/C3 passo A - foto em alta.png` (ChatGPT a partir da foto real) parece ele; nas 5 do Flow o rosto continua o da v3, porque o Flow editou a v3. Agora a IMAGEM 1 é sempre a foto em alta, e a cena vem de refs do jogo e de texto. Perfil mano, uma janela só. Nenhum prompt nomeia personagem nem jogo (2.25).",
    "etapa": "",
@@ -1946,5 +1954,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T15:43-03:00"
+ "gerado_em": "2026-10-25T15:47-03:00"
 }
