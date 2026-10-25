@@ -1739,7 +1739,15 @@
  "navegador": [
   {
    "tipo": "25/10",
-   "titulo": "TESTE DE MÉTODO DO ROSTO na capa A do PokéBonk (pedido do Sextante; o Murilo reprovou o rosto gerado 4 vezes: \"precisamos encontrar uma forma de deixar sempre parecido comigo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/TESTE ROSTO/`. É a mesma cena (ele comemorando, o personagem laranja soltando fogo no rosa) feita por 3 caminhos. Nenhum prompt nomeia personagem ou jogo (2.25). Salvar sem tratar, com o nome indicado, e avisar o Anzol, que confere contra a folha e monta a comparação.",
+   "titulo": "TESTE DO ROSTO, rodada 2: a foto em alta vira a capa, SEM a v3 anexada (pasta `Mano Preguica/_refs capa - Pokebonk/`). Rodada 1: só o `TESTE ROSTO/C3 passo A - foto em alta.png` (ChatGPT a partir da foto real) parece ele; nas 5 do Flow o rosto continua o da v3, porque o Flow editou a v3. Agora a IMAGEM 1 é sempre a foto em alta, e a cena vem de refs do jogo e de texto. Perfil mano, uma janela só. Nenhum prompt nomeia personagem nem jogo (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[25/10] TESTE DE MÉTODO DO ROSTO na capa A do PokéBonk~~ FEITO (Periscópio, 25/10 15h21 a 15h32): as 6 em `TESTE ROSTO/`, sem tratar, nenhuma descartada. `C3 passo A - foto em alta.png` = ChatGPT (1388x1133, sem recusa): fiel à foto, fundo verde, braços pra cima. As outras 5 = Flow Nano Banana Pro (1376x768): `C1 troca de rosto 1` e `2`, `C2 foto como base 1` e `2`, `C3 foto em alta mais cena`. **Achado:** nos caminhos 2 e 3 o Flow tomou a IMAGEM 2 (a v3) como base e só retocou o rosto; a pose de braços pra cima da foto real não entrou em nenhuma. Na conferência em tamanho real, o nariz das 5 do Flow segue o da v3 (mais comprido e fino que o da foto real), então nenhuma passa no nariz. `C2 foto como base 1` tem um braço a mais saindo atrás da cabeça, no canto de cima à esquerda: **não sobe**. As fotos reais são pequenas (cabeça 170x175, inteira 380x310). Chrome fechado, pgrep 0. Pedido original: TESTE DE MÉTODO DO ROSTO na capa A do PokéBonk (pedido do Sextante; o Murilo reprovou o rosto gerado 4 vezes: \"precisamos encontrar uma forma de deixar sempre parecido comigo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk/TESTE ROSTO/`. É a mesma cena (ele comemorando, o personagem laranja soltando fogo no rosa) feita por 3 caminhos. Nenhum prompt nomeia personagem ou jogo (2.25). Salvar sem tratar, com o nome indicado, e avisar o Anzol, que confere contra a folha e monta a comparação.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1930,5 +1938,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T15:20-03:00"
+ "gerado_em": "2026-10-25T15:35-03:00"
 }
