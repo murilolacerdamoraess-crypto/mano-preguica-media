@@ -1746,8 +1746,8 @@
  ],
  "navegador": [
   {
-   "tipo": "25/10",
-   "titulo": "ARSENAL DE POSES do Murilo, lote 1 (decisão dele: \"era bom a gente ter um arsenal de poses minhas para usar nas thumbs\", gerado com IA a partir dos vídeos, sem foto nova; plano em `thumbnails-playbook.md`, seção \"Arsenal de poses do Murilo\"). Perfil mano, uma janela só. Tudo no ChatGPT, um chat novo por imagem, só a foto anexada, nunca capa nem personagem. Fotos de origem em `Mano Preguica/_refs rosto do Murilo/quadros soltos/`. Salvar sem tratar em `Mano Preguica/_refs rosto do Murilo/poses/_a conferir/` com o nome indicado. O Anzol confere cada uma lado a lado com a foto e move as aprovadas pra `poses/`.",
+   "tipo": "",
+   "titulo": "~~[25/10] ARSENAL DE POSES do Murilo, lote 1~~ FEITO (Periscópio, 25/10 16h04 a 16h30): as 10 em `poses/_a conferir/`, sem tratar, com a frase NOVA (olhos pra lente), ChatGPT, chat novo cada, só a foto anexada, nenhuma recusa. A 1ª passada (frase antiga, 8 saídas, todas olhando pro jogo) foi guardada em `poses/_a conferir/_v1 olhando pro jogo/`, não apagada. Conferi o quadro das 10 e as 4 poses novas maiores: nenhuma mão ou braço deformado, sem membro a mais. Olhar: pra lente em de frente, susto, mãos na cabeça, riso, desconfiado, punho, dois punhos e braços cruzados; **a gargalhada continua olhando pro lado** (o quadro de origem é de perfil) e no apontando os olhos ainda vão um pouco pro lado. `bracos cruzados confiante.png` saiu vertical (1024x1536); as outras 1385x1136. Chrome fechado, pgrep 0. Pedido original: ARSENAL DE POSES do Murilo, lote 1 (decisão dele: \"era bom a gente ter um arsenal de poses minhas para usar nas thumbs\", gerado com IA a partir dos vídeos, sem foto nova; plano em `thumbnails-playbook.md`, seção \"Arsenal de poses do Murilo\"). Perfil mano, uma janela só. Tudo no ChatGPT, um chat novo por imagem, só a foto anexada, nunca capa nem personagem. Fotos de origem em `Mano Preguica/_refs rosto do Murilo/quadros soltos/`. Salvar sem tratar em `Mano Preguica/_refs rosto do Murilo/poses/_a conferir/` com o nome indicado. O Anzol confere cada uma lado a lado com a foto e move as aprovadas pra `poses/`.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -1970,5 +1970,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-25T16:28-03:00"
+ "gerado_em": "2026-10-25T16:31-03:00"
 }
