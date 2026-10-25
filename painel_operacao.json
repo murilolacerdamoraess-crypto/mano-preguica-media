@@ -232,6 +232,14 @@
    "confianca": "média. São 4 casos lado a lado e 120 transcrições de um canal de referência, mas nenhum teste no nosso canal ainda. Dá pra testar nos próximos 3 Shorts de notícia.",
    "status": "aplicada 2026-10-24 (aprovada pelo Murilo no chat com o Claude Code: \"acho que temos que aprovar pq só assim pros nossos shorts sairem mais com cara de produto final e sem eu ter que ficar aprovando o tempo todo\"; skill shorts-roteirista e role shorts.md, que vale pro Arpão e pra Tarrafa)",
    "simples": "Quando o vídeo é sobre uma notícia ou um acontecimento, o título e a primeira frase são a pergunta que todo mundo faria ao ver aquilo (\"realmente voa?\", \"quanto custa?\", \"por que ele não comemorou?\"). O vídeo conta o que aconteceu na ordem em que aconteceu, em cima das imagens, e a última frase responde a pergunta. Tem de 180 a 260 palavras, sem inventar um segundo assunto por cima. No Tesla, em vez de \"a Tesla fez um carro de Rocket League\", fica \"o novo Tesla Roadster realmente consegue voar?\", e o vídeo mostra a apresentação: o Elon falando, o carro grudando na parede, depois no teto."
+  },
+  {
+   "id": "R30",
+   "titulo": "Capa com o rosto do Murilo nasce de uma foto real dele, deixada nítida antes, e nunca de uma capa pronta nem da folha de rostos.",
+   "onde": "cartilha do Anzol, como adendo 4 da regra 2.26 (rosto do Murilo), e o pedido de capa do Anzol pro Periscópio.",
+   "confianca": "fraca. É 1 capa, e a conferência foi do Anzol. A prova de verdade é a sua escolha na tela Capas: se a A v4 não parecer você, a regra cai e o teste continua.",
+   "status": "aguardando",
+   "simples": "Em vez de mandar a IA desenhar o seu rosto a partir da folha de expressões, a gente pega uma foto real sua na expressão certa, deixa ela nítida primeiro e monta a capa em cima dessa foto. Foi assim que saiu a capa do PokéBonk com você comemorando e o Charizard contra o Mew, que agora está na tela Capas pra você conferir se ficou parecido."
   }
  ],
  "equipe": [
