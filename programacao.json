@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-24T11:56:56.054934-03:00",
+ "gerado_em": "2026-10-24T21:22:37.935322-03:00",
  "mes": {
-  "postados": 27,
+  "postados": 28,
   "teto": 93,
-  "folga": 66
+  "folga": 65
  },
  "redes": {
   "tiktok": {
@@ -11,8 +11,8 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
-   "ultimo_post": "2026-10-22",
-   "dias_parado": 2,
+   "ultimo_post": "2026-10-24",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -35,24 +35,13 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 1,
-   "ultimo_post": "2026-10-23",
-   "dias_parado": 1,
+   "na_fila": 0,
+   "ultimo_post": "2026-10-24",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
-   "previstos": [
-    {
-     "video_id": "DG5kj_Tyf2g",
-     "titulo": "O jogo que o Alien deveria ter copiado #shorts",
-     "quando": "2026-10-24T21:30:00-03:00"
-    }
-   ],
-   "proximos_da_fila": [
-    {
-     "video_id": "DG5kj_Tyf2g",
-     "titulo": "O jogo que o Alien deveria ter copiado #shorts"
-    }
-   ]
+   "previstos": [],
+   "proximos_da_fila": []
   },
   "facebook": {
    "ativo": true,
