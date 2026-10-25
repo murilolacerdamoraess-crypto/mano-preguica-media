@@ -577,7 +577,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1770
+"views": 1771
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -625,7 +625,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 89900
+"views": 90000
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -643,13 +643,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1103
+"views": 1105
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8402
+"views": 8404
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -673,7 +673,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3174
+"views": 3177
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1154,7 +1154,7 @@
 "v": 2752
 }
 ],
-"views": 2914
+"views": 2917
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1387,9 +1387,13 @@
 {
 "t": 1792910335,
 "v": 44200
+},
+{
+"t": 1792924981,
+"v": 44300
 }
 ],
-"views": 44200
+"views": 44300
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1626,9 +1630,13 @@
 {
 "t": 1792917576,
 "v": 40300
+},
+{
+"t": 1792924981,
+"v": 40500
 }
 ],
-"views": 40300
+"views": 40500
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1764,9 +1772,13 @@
 {
 "t": 1792917576,
 "v": 5608
+},
+{
+"t": 1792924981,
+"v": 5683
 }
 ],
-"views": 5608
+"views": 5683
 }
 }
 }
