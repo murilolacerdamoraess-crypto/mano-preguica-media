@@ -295,7 +295,7 @@
    "rodada": "Longo do canal principal a partir das gravações de PokéBonk (Farol, 26/10/2026)",
    "gancho": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa pra descobrir qual é o melhor",
    "por_que_agora": "o jogo saiu em 14/10 e está no auge; o PokéBonk 1 sai hoje às 18h no canal 2, e as íntegras com chamariz por partida (\"a build mais insana de Gengar\") puxam pro longo.",
-   "formato": "Longo de jornada, 12 a 15 min, canal principal, narrado em cima das partidas",
+   "formato": "Longo de jornada, 12 a 15 min, canal principal, narrado em cima das 5 partidas",
    "concorrencia": "em português, só gameplay (\"O melhor Pokémon roguelike acabou de sair e é grátis\", Wallacetaa, 26 mil; Click no Paulo, 9 mil); ninguém fez todos os mapas. Lá fora: \"como completar todos os mapas e derrotar os lendários\" (espanhol, 10,8 mil).",
    "status": "livre (ângulo do Farol esperando o Murilo escolher; nenhum outro agente pega)",
    "frente": "",
@@ -305,7 +305,7 @@
    "id": "P92",
    "titulo": "Qual é o Pokémon mais forte do Megabonk de Pokémon? O ranking dos que eu joguei",
    "rodada": "Longo do canal principal a partir das gravações de PokéBonk (Farol, 26/10/2026)",
-   "gancho": "Qual é o Pokémon mais forte do Megabonk de Pokémon? Joguei com todos pra saber",
+   "gancho": "Qual é o Pokémon mais forte do Megabonk de Pokémon? Joguei com 5 pra saber",
    "por_que_agora": "igual à P91; ranking de Pokémon nesse estilo de jogo tem procura (\"Top 3 Gengar\", 258 mil, e \"Top 5 melhores Pokémon\", 84 mil, os dois sobre outro jogo do mesmo estilo, o PokeSurvivor).",
    "formato": "Longo de ranking, 10 a 13 min, canal principal",
    "concorrencia": "nenhum ranking do PokéBonk em português na busca de 26/10.",
@@ -315,9 +315,9 @@
   },
   {
    "id": "P93",
-   "titulo": "Enfrentei os lendários do Megabonk de Pokémon um por um: Mew, Moltres, Zapdos",
+   "titulo": "Enfrentei os lendários do Megabonk de Pokémon um por um: Mew, Moltres, Zapdos e Articuno",
    "rodada": "Longo do canal principal a partir das gravações de PokéBonk (Farol, 26/10/2026)",
-   "gancho": "Enfrentei os lendários do Megabonk de Pokémon um por um",
+   "gancho": "Venci os lendários do Megabonk de Pokémon um por um, e o Mewtwo ainda está trancado",
    "por_que_agora": "igual à P91.",
    "formato": "Longo de jornada, 10 a 13 min, canal principal",
    "concorrencia": "nenhum vídeo dos lendários do PokéBonk em português na busca de 26/10; em espanhol, a guia de todos os mapas e lendários tem 10,8 mil.",
@@ -2078,5 +2078,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T07:57-03:00"
+ "gerado_em": "2026-10-26T08:03-03:00"
 }
