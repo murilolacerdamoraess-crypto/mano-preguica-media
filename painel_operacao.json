@@ -1777,10 +1777,26 @@
   },
   {
    "tipo": "Longo",
-   "titulo": "PokéBonk de Gengar no Deserto: o Megabonk de Pokémon de graça no navegador (canal 2)",
-   "etapa": "embalagem (título, descrição, tags e capítulos prontos; as 2 capas estão sendo geradas e vão pra tela Capas; data proposta sáb 31/10 às 18h)",
+   "titulo": "PokéBonk 2, o do Gengar (canal 2)",
+   "etapa": "embalagem (descrição, tags e capítulos prontos; os 2 títulos estão nos itens abaixo; as 2 capas saem às 11h e vão pra tela Capas; data proposta sáb 31/10 às 18h; rascunho WbRVuO0FjwI)",
    "responsavel": "Anzol",
-   "falta_murilo": "escolher a capa e o título",
+   "falta_murilo": "nada por enquanto",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 2 (opção 1): Meu Gengar ficou absurdo contra o Pokémon lendário Moltres | PokéBonk",
+   "etapa": "embalagem (a frase que sustenta: ele diz \"O Gengar é absurdo\" logo depois de derrotar o Moltres, aos 60 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 2",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 2 (opção 2): Esse Gengar ficou roubado demais: 57 mil Pokémon derrotados | PokéBonk",
+   "etapa": "embalagem (a frase que sustenta: ele diz \"Nossa, isso aqui é muito roubado\" aos 46 min, e a tela de vitória mostra 57,4 mil derrotados; aprovar este escolhe este título, e o Leme troca no rascunho)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
   }
  ],
@@ -2026,5 +2042,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T02:53-03:00"
+ "gerado_em": "2026-10-26T07:54-03:00"
 }
