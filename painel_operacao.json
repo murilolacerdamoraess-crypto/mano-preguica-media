@@ -293,11 +293,11 @@
    "id": "P91",
    "titulo": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa, pra descobrir qual é o melhor",
    "rodada": "Longo do canal principal a partir das gravações de PokéBonk (Farol, 26/10/2026)",
-   "gancho": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa pra descobrir qual é o melhor",
-   "por_que_agora": "o jogo saiu em 14/10 e está no auge; o PokéBonk 1 sai hoje às 18h no canal 2, e as íntegras com chamariz por partida (\"a build mais insana de Gengar\") puxam pro longo.",
+   "gancho": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "por_que_agora": "o jogo saiu em 14/10 e está no auge; as íntegras saem no canal 2 a partir de 26/10 e puxam pro longo.",
    "formato": "Longo de jornada, 12 a 15 min, canal principal, narrado em cima das 5 partidas",
    "concorrencia": "em português, só gameplay (\"O melhor Pokémon roguelike acabou de sair e é grátis\", Wallacetaa, 26 mil; Click no Paulo, 9 mil); ninguém fez todos os mapas. Lá fora: \"como completar todos os mapas e derrotar os lendários\" (espanhol, 10,8 mil).",
-   "status": "livre (ângulo do Farol esperando o Murilo escolher; nenhum outro agente pega)",
+   "status": "aprovada (Murilo, 26/10; com o Farol). Roteiro ainda não começou: o Claude Code está perguntando ao Murilo se ele passa na frente da fila de roteiros (47 esperando).",
    "frente": "",
    "pendente": ""
   },
@@ -309,7 +309,7 @@
    "por_que_agora": "igual à P91; ranking de Pokémon nesse estilo de jogo tem procura (\"Top 3 Gengar\", 258 mil, e \"Top 5 melhores Pokémon\", 84 mil, os dois sobre outro jogo do mesmo estilo, o PokeSurvivor).",
    "formato": "Longo de ranking, 10 a 13 min, canal principal",
    "concorrencia": "nenhum ranking do PokéBonk em português na busca de 26/10.",
-   "status": "livre (ângulo do Farol esperando o Murilo escolher; nenhum outro agente pega)",
+   "status": "em espera (o Murilo escolheu a P91 em 26/10; fica de reserva, fora do Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -321,7 +321,7 @@
    "por_que_agora": "igual à P91.",
    "formato": "Longo de jornada, 10 a 13 min, canal principal",
    "concorrencia": "nenhum vídeo dos lendários do PokéBonk em português na busca de 26/10; em espanhol, a guia de todos os mapas e lendários tem 10,8 mil.",
-   "status": "livre (ângulo do Farol esperando o Murilo escolher; nenhum outro agente pega)",
+   "status": "em espera (o Murilo escolheu a P91 em 26/10; fica de reserva, fora do Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -2078,5 +2078,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T08:03-03:00"
+ "gerado_em": "2026-10-26T08:11-03:00"
 }
