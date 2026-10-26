@@ -240,6 +240,10 @@
 {
 "t": 1792954560,
 "v": 246
+},
+{
+"t": 1792976839,
+"v": 246
 }
 ],
 "views": 246
@@ -585,7 +589,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1774
+"views": 1775
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -621,7 +625,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1004
+"views": 1005
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -651,13 +655,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1130
+"views": 1132
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8536
+"views": 8549
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -1162,7 +1166,7 @@
 "v": 2752
 }
 ],
-"views": 2952
+"views": 2956
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1674,9 +1678,13 @@
 {
 "t": 1792969401,
 "v": 42100
+},
+{
+"t": 1792976839,
+"v": 42300
 }
 ],
-"views": 42100
+"views": 42300
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1793,9 +1801,13 @@
 {
 "t": 1792961902,
 "v": 346
+},
+{
+"t": 1792976839,
+"v": 347
 }
 ],
-"views": 346
+"views": 347
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -1852,9 +1864,13 @@
 {
 "t": 1792969401,
 "v": 6697
+},
+{
+"t": 1792976839,
+"v": 6856
 }
 ],
-"views": 6697
+"views": 6856
 }
 }
 }
