@@ -1950,9 +1950,41 @@
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "PokéBonk 5, o do Marowak (canal 2)",
+   "etapa": "embalagem (o Cubone sobe a Torre Lavender, vira Marowak no 6º andar, vence o Gengar no topo e segue pelo Além até o andar 23, recorde dele na torre; ele sai por escolha, sem morrer, e não chega ao 25; descrição, 12 tags e 13 capítulos prontos e conferidos no vídeo; as 2 capas vão ao Periscópio depois das do PokéBonk 4; arquivo final de 55:41 mixado e aprovado no portão de áudio, já na pasta de prontos pra subir; data: ter 3/11 às 18h)",
+   "responsavel": "Anzol",
+   "falta_murilo": "escolher o título",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 5 (opção 1): Esse Marowak simplesmente não morria na Torre Lavender | PokéBonk",
+   "etapa": "embalagem (a sua surpresa, com a sua palavra; a base: \"Eu não morro, galera\" aos 51 min e \"se tinha alguma dúvida que eu não morria, essa dúvida não existe mais\" aos 52 min; você sai no andar 23 por escolha, sem usar o reviver; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 2",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 5 (opção 2): Até onde um Cubone consegue subir na Torre Lavender? | PokéBonk",
+   "etapa": "embalagem (a sua pergunta de desafio; a base: \"não há ninguém melhor para essa missão do que o próprio Cubone\" na abertura, e só a tela final responde: andar 23, recorde na torre; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1",
+   "prazo": ""
   }
  ],
  "navegador": [
+  {
+   "tipo": "26/10",
+   "titulo": "CAPAS do PokéBonk 5 (Marowak na Torre Lavender), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2, 3 e 4. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 5/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "26/10",
    "titulo": "CAPAS do PokéBonk 4 (Nidoking na Geleira Celeste), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2 e do 3. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 4/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
@@ -2210,5 +2242,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T15:30-03:00"
+ "gerado_em": "2026-10-26T17:26-03:00"
 }
