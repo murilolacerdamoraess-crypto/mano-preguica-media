@@ -244,6 +244,10 @@
 {
 "t": 1792976839,
 "v": 246
+},
+{
+"t": 1792999052,
+"v": 246
 }
 ],
 "views": 246
@@ -637,7 +641,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 90200
+"views": 90300
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -655,19 +659,19 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1136
+"views": 1137
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8578
+"views": 8579
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
 "ts": 1787778111,
 "fotos": [],
-"views": 899
+"views": 901
 },
 "7677705921895632129": {
 "titulo": "esse leviatã de Subnautica 2 voltou à vida depois de morto 😳 #subnaut...",
@@ -1166,7 +1170,7 @@
 "v": 2752
 }
 ],
-"views": 2969
+"views": 2970
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1419,9 +1423,13 @@
 {
 "t": 1792991532,
 "v": 44700
+},
+{
+"t": 1792999052,
+"v": 44800
 }
 ],
-"views": 44700
+"views": 44800
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1896,9 +1904,13 @@
 {
 "t": 1792991532,
 "v": 7150
+},
+{
+"t": 1792999052,
+"v": 7205
 }
 ],
-"views": 7150
+"views": 7205
 }
 }
 }
