@@ -1357,6 +1357,14 @@
   },
   {
    "tipo": "Longo",
+   "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "etapa": "pauta aprovada em 26/10, roteiro ainda não começou (as 5 partidas gravadas, um Pokémon por mapa, e o que você aprendeu de uma pra outra; 12 a 15 min, canal principal)",
+   "responsavel": "Farol",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "etapa": "narração, texto no Gravar com 68 frases em 8 blocos desde 21/10 (roteiro aprovado em 20/10, versão 2; 14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
    "responsavel": "Farol",
@@ -2078,5 +2086,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T08:11-03:00"
+ "gerado_em": "2026-10-26T08:12-03:00"
 }
