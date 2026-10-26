@@ -1889,16 +1889,16 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 2 (opção 1): Meu Gengar ficou absurdo contra o Pokémon lendário Moltres | PokéBonk",
-   "etapa": "embalagem (a frase que sustenta: ele diz \"O Gengar é absurdo\" logo depois de derrotar o Moltres, aos 60 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
+   "titulo": "Título do PokéBonk 2 (opção 1): Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk",
+   "etapa": "embalagem (na sua linha de 26/10, o superlativo como opinião sua; a base: a vitória com 57,4 mil derrotados e recorde no mapa, e ele diz \"O Gengar é absurdo\" logo depois do Moltres, aos 60 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 2",
    "prazo": ""
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 2 (opção 2): Esse Gengar ficou roubado demais: 57 mil Pokémon derrotados | PokéBonk",
-   "etapa": "embalagem (a frase que sustenta: ele diz \"Nossa, isso aqui é muito roubado\" aos 46 min, e a tela de vitória mostra 57,4 mil derrotados; aprovar este escolhe este título, e o Leme troca no rascunho)",
+   "titulo": "Título do PokéBonk 2 (opção 2): Meu Gengar ficou mais forte do que eu imaginava contra o Moltres | PokéBonk",
+   "etapa": "embalagem (na sua linha de 26/10, a surpresa sua; a base: ele perde a primeira partida e, na segunda, diz \"Nossa, isso aqui é muito roubado\" aos 46 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
@@ -1913,16 +1913,16 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 3 (opção 1): Apostei num Bellsprout contra o Pokémon lendário Zapdos | PokéBonk",
-   "etapa": "embalagem (a frase que sustenta: na abertura ele diz \"Vamos de Bellsprout, porque ele não pode ser subestimado\", escolhido de propósito pra um mapa de água e elétrico, e aos 48 min \"Aqui é o Zapdos\"; aprovar este escolhe este título)",
+   "titulo": "Título do PokéBonk 3 (opção 1): O Bellsprout fez a run mais insana contra o lendário Zapdos | PokéBonk",
+   "etapa": "embalagem (a sua frase, quase literal; a base: a vitória com 52,1 mil derrotados e recorde novo no mapa, e ele diz \"Que loucura\" quando a ultimate enche na hora, aos 47 min; aprovar este escolhe este título)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 2",
    "prazo": ""
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 3 (opção 2): Bellsprout virou Victreebel e derrubou o Pokémon lendário Zapdos | PokéBonk",
-   "etapa": "embalagem (a frase que sustenta: aos 18 min ele diz \"virei um Victreebel\", aos 49 min \"Ganhamos, velho\", e a tela de vitória mostra Bellsprout virando Victreebel; aprovar este escolhe este título)",
+   "titulo": "Título do PokéBonk 3 (opção 2): Será possível vencer o lendário Zapdos com um Bellsprout? | PokéBonk",
+   "etapa": "embalagem (a sua pergunta de desafio; troquei \"zerar o PokéBonk\" por \"vencer o Zapdos\" porque no vídeo ele zera um mapa, não o jogo; a base: \"Vamos de Bellsprout, porque ele não pode ser subestimado\" na abertura e \"Ganhamos, velho\" aos 49 min; aprovar este escolhe este título)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
@@ -2178,5 +2178,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T09:59-03:00"
+ "gerado_em": "2026-10-26T10:07-03:00"
 }
