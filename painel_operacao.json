@@ -422,6 +422,66 @@
    "pendente": ""
   },
   {
+   "id": "P94",
+   "titulo": "Ela apagou o chão inteiro do Subnautica, e o Ghost Leviathan virou o ponto de referência dela",
+   "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
+   "gancho": "Ela apagou o chão inteiro do Subnautica, e o Ghost Leviathan virou o ponto de referência dela\" (portão APROVADO)",
+   "por_que_agora": "rotina de segunda de 26/10, frente 1 (Subnautica é a base).",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 4; a fila do Murilo está cheia, 48 esperando com limite 5)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P95",
+   "titulo": "Ele afundou o Subnautica 10 mil metros e ainda foi consertar a Aurora lá embaixo",
+   "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
+   "gancho": "Ele afundou o Subnautica 10 mil metros e ainda foi consertar a Aurora lá embaixo\" (portão APROVADO)",
+   "por_que_agora": "",
+   "formato": "Short 2-3min ou parte do longo P53",
+   "concorrencia": "",
+   "status": "em espera (entra no longo P53 quando a parte 3 sair; como Short sozinho fica no backlog, nota 7,5)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P96",
+   "titulo": "O Subnautica 2 vai dar braços e pernas pro Tadpole, e os jogadores acharam antes do anúncio",
+   "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
+   "gancho": "O Subnautica 2 vai dar braços e pernas pro Tadpole, e os jogadores acharam antes do anúncio\" (portão APROVADO)",
+   "por_que_agora": "",
+   "formato": "Short 1min",
+   "concorrencia": "",
+   "status": "no backlog (nota 7,5; vira FAST-TRACK se a data da EA 2.0 sair)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P97",
+   "titulo": "Ele zerou o Subnautica sem quebrar nenhuma pedra, e o cobre solto só aparece perto da lava",
+   "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
+   "gancho": "Ele zerou o Subnautica sem quebrar nenhuma pedra, e o cobre solto só aparece perto da lava\" (portão APROVADO)",
+   "por_que_agora": "rotina de segunda de 26/10, vídeo de 11/10.",
+   "formato": "Short 2-3min",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 5; a fila do Murilo está cheia, 48 esperando com limite 5)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P98",
+   "titulo": "Ele construiu a luva do One Punch Man, e a única coisa que ela não explodiu foi uma abóbora",
+   "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
+   "gancho": "Ele construiu a luva do One Punch Man, e a única coisa que ela não explodiu foi uma abóbora\" (portão APROVADO; avisa que não nomeia jogo, porque é anime)",
+   "por_que_agora": "vídeo de 16/10, ainda subindo (789 mil em 10 dias).",
+   "formato": "Short 1-2min (canal secundário)",
+   "concorrencia": "",
+   "status": "na fila do roteiro (posição 1 do canal secundário; a fila do Murilo está cheia, 48 esperando com limite 5)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P90",
    "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
    "rodada": "Pedido do Murilo 25/10/2026 (Sonar): o show da Pokémon com o Marshmello",
@@ -921,7 +981,7 @@
    "por_que_agora": "",
    "formato": "Longo contado 10 a 12 min",
    "concorrencia": "",
-   "status": "em espera: vira pedido de roteiro pro Farol se sair a parte 2 do desafio",
+   "status": "em espera: a parte 2 saiu em 18/10 (\"Can I Fix The Aurora If It's 10,000m DEEP?\", MggxBkuD2qw, 124 mil; ele conserta a Aurora e desce até o Lost River), mas ele ainda não zerou: o foguete fica pro próximo episódio. Vira pedido de roteiro pro Farol quando sair a parte 3, com a P95 dentro (Sonar, 26/10; Farol avisado)",
    "frente": "",
    "pendente": ""
   },
@@ -2086,5 +2146,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T08:58-03:00"
+ "gerado_em": "2026-10-26T09:12-03:00"
 }
