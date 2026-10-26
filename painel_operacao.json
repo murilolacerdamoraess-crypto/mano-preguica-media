@@ -1774,6 +1774,14 @@
    "responsavel": "Leme",
    "falta_murilo": "",
    "prazo": "26/10"
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "PokéBonk de Gengar no Deserto: o Megabonk de Pokémon de graça no navegador (canal 2)",
+   "etapa": "embalagem (título, descrição, tags e capítulos prontos; as 2 capas estão sendo geradas e vão pra tela Capas; data proposta sáb 31/10 às 18h)",
+   "responsavel": "Anzol",
+   "falta_murilo": "escolher a capa e o título",
+   "prazo": ""
   }
  ],
  "navegador": [
@@ -2018,5 +2026,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T02:52-03:00"
+ "gerado_em": "2026-10-26T02:53-03:00"
 }
