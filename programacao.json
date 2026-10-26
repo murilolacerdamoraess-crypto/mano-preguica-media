@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T02:03:05.758227-03:00",
+ "gerado_em": "2026-10-26T14:43:41.516051-03:00",
  "mes": {
   "postados": 28,
   "teto": 93,
@@ -14,27 +14,27 @@
    "ultimo_post": "2026-10-24",
    "dias_parado": 2,
    "parado": false,
-   "agendados": [],
-   "previstos": [
+   "agendados": [
+    {
+     "video_id": "6Syk3Iw5E0U",
+     "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração",
+     "quando": "2026-10-27T18:00:00-03:00",
+     "fonte": "metricool"
+    },
     {
      "video_id": "F3kaiclPuWw",
      "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween",
      "quando": "2026-10-29T18:00:00-03:00",
-     "aprovado": true
+     "fonte": "metricool"
     },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
      "quando": "2026-10-30T18:00:00-03:00",
-     "aprovado": true
-    },
-    {
-     "video_id": "6Syk3Iw5E0U",
-     "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração",
-     "quando": "2026-10-31T18:00:00-03:00",
-     "aprovado": true
+     "fonte": "metricool"
     }
    ],
+   "previstos": [],
    "proximos_da_fila": [
     {
      "video_id": "C6wqfeLVQ1s",
