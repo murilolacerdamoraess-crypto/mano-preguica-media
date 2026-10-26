@@ -1926,9 +1926,41 @@
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "PokéBonk 4, o do Nidoking (canal 2)",
+   "etapa": "embalagem (a Staryu cai aos 8 min, ele troca pro Nidoran, que vira Nidoking e vence o Articuno com 83 mil derrotados e recorde no mapa; descrição, 12 tags e 14 capítulos prontos e conferidos no vídeo; as 2 capas vão ao Periscópio depois das do PokéBonk 2 e 3; o Leme mixa o arquivo final quando o Drive liberar espaço; data: dom 1/11 às 18h)",
+   "responsavel": "Anzol",
+   "falta_murilo": "escolher o título",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 4 (opção 1): Meu Nidoking ficou absurdo contra o lendário Articuno | PokéBonk",
+   "etapa": "embalagem (a sua surpresa, com a sua palavra; a base: \"Que absurdo que eu tô, velho\" aos 55 min e \"Esse é o mais forte que eu já cheguei\" aos 58 min, e a vitória com 83 mil derrotados e recorde no mapa; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 2",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 4 (opção 2): A Staryu caiu. Um Nidoran aguenta o lendário Articuno? | PokéBonk",
+   "etapa": "embalagem (a sua pergunta de desafio; a base: você diz \"Morri!\" com a Staryu aos 8 min e \"Cara, vamos de Nidoran\" aos 11 min, e só a vitória do fim responde; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1",
+   "prazo": ""
   }
  ],
  "navegador": [
+  {
+   "tipo": "26/10",
+   "titulo": "CAPAS do PokéBonk 4 (Nidoking na Geleira Celeste), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2 e do 3. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 4/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "26/10",
    "titulo": "CAPAS do PokéBonk 3 (Bellsprout na Costa da Tormenta), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele confiante ou empolgado olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 3/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
@@ -2178,5 +2210,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T10:55-03:00"
+ "gerado_em": "2026-10-26T12:16-03:00"
 }
