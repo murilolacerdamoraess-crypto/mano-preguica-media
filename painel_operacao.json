@@ -1902,9 +1902,41 @@
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "PokéBonk 3, o do Bellsprout (canal 2)",
+   "etapa": "embalagem (descrição, tags e capítulos prontos no tempo do arquivo final; os 2 títulos estão nos itens abaixo; as 2 capas foram pedidas ao Periscópio e vão pra tela Capas; o Leme está mixando o arquivo final)",
+   "responsavel": "Anzol",
+   "falta_murilo": "nada por enquanto",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 3 (opção 1): Apostei num Bellsprout contra o Pokémon lendário Zapdos | PokéBonk",
+   "etapa": "embalagem (a frase que sustenta: na abertura ele diz \"Vamos de Bellsprout, porque ele não pode ser subestimado\", escolhido de propósito pra um mapa de água e elétrico, e aos 48 min \"Aqui é o Zapdos\"; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 2",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do PokéBonk 3 (opção 2): Bellsprout virou Victreebel e derrubou o Pokémon lendário Zapdos | PokéBonk",
+   "etapa": "embalagem (a frase que sustenta: aos 18 min ele diz \"virei um Victreebel\", aos 49 min \"Ganhamos, velho\", e a tela de vitória mostra Bellsprout virando Victreebel; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1",
+   "prazo": ""
   }
  ],
  "navegador": [
+  {
+   "tipo": "26/10",
+   "titulo": "CAPAS do PokéBonk 3 (Bellsprout na Costa da Tormenta), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele confiante ou empolgado olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 3/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "26/10",
    "titulo": "CAPAS do PokéBonk 2 (Gengar no Deserto Rochoso), opções A e B pra tela Capas (MP2; pedido do Murilo de 26/10: 3 elementos grandes, fundo que não compete e nunca preto, ele confiante ou empolgado olhando pra câmera, título e capa mostram o Gengar e o deserto). Perfil mano, uma janela só. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 2/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose (já é a foto real deixada nítida), nenhuma capa pronta anexada, nem a do PokéBonk 1. Nenhum prompt nomeia personagem nem jogo (2.25).",
@@ -2146,5 +2178,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T09:12-03:00"
+ "gerado_em": "2026-10-26T09:59-03:00"
 }
