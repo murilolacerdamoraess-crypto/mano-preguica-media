@@ -633,7 +633,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1006
+"views": 1007
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -645,7 +645,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 90300
+"views": 90400
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -669,31 +669,31 @@
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8590
+"views": 8591
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
 "ts": 1787778111,
 "fotos": [],
-"views": 901
+"views": 902
 },
 "7677705921895632129": {
 "titulo": "esse leviatã de Subnautica 2 voltou à vida depois de morto 😳 #subnaut...",
 "ts": 1787605295,
 "fotos": [],
-"views": 772
+"views": 774
 },
 "7676593096187989256": {
 "titulo": "agora dá pra caçar QUALQUER monstro em Subnautica 2 🔫 #subnautica #su...",
 "ts": 1787346108,
 "fotos": [],
-"views": 3880
+"views": 3881
 },
 "7675850705399188753": {
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3191
+"views": 3195
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1174,7 +1174,7 @@
 "v": 2752
 }
 ],
-"views": 2979
+"views": 2982
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1845,6 +1845,10 @@
 {
 "t": 1793006308,
 "v": 348
+},
+{
+"t": 1793030011,
+"v": 348
 }
 ],
 "views": 348
@@ -1932,9 +1936,13 @@
 {
 "t": 1793022308,
 "v": 7407
+},
+{
+"t": 1793030011,
+"v": 7492
 }
 ],
-"views": 7407
+"views": 7492
 }
 }
 }
