@@ -1809,7 +1809,7 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short do machado do Kratos: Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
+   "titulo": "Título novo (v2) do Short do machado do Kratos: Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
    "etapa": "embalagem (no rumo que você deu: saiu o \"testar se ele corta\", que é fácil demais, e entrou o \"precisa funcionar\", que não diz o quê e deixa a pessoa imaginar; é verdade, porque o vídeo testa o machado no fim; o \"igual ao do jogo\" já está na capa, com o machado do jogo em cima e o de verdade embaixo; se preferir a sua frase inteira: \"Esse cara tá forjando o machado do Kratos, e ele precisa ficar igual ao do jogo e funcionar\", que fica longa pro Short)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título",
@@ -2290,5 +2290,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T23:34-03:00"
+ "gerado_em": "2026-10-26T23:40-03:00"
 }
