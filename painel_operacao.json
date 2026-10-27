@@ -1497,34 +1497,34 @@
   },
   {
    "tipo": "Short",
-   "titulo": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
+   "titulo": "Versão do Short da ocarina do Zelda (opção 1): a aprovada, contada como história (canal 2)",
    "etapa": "roteiro (versão 4 aguardando aprovação, contada como história: por que a ocarina importa, como sempre foi no botão, o microfone do Switch 2, a ocarina de verdade e a música que chama o cavalo; uns 1min30)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "aprovar esta versão ou a da opção 2",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Dá pra tocar uma ocarina de verdade no Zelda novo? (canal 2, versão no jeito de notícia pra comparar)",
-   "etapa": "roteiro (aguardando aprovação, versão no jeito de notícia que você pediu pra comparar: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo; uns 70 segundos; a versão aprovada continua valendo se você preferir ela; os dois títulos estão no topo)",
+   "titulo": "Versão do Short da ocarina do Zelda (opção 2): no jeito de notícia (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, no jeito de notícia: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo, com o microfone do Switch 2; uns 70 segundos; os dois títulos estão no topo)",
    "responsavel": "Arpão",
-   "falta_murilo": "escolher entre esta e a aprovada",
+   "falta_murilo": "aprovar esta versão ou a da opção 1",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
-   "etapa": "roteiro (versão 4 aguardando aprovação, com o gancho novo que você aprovou: a batalha que não cabia vira a pergunta, e o fim mostra como coube)",
+   "titulo": "Versão do Short da Pokébola de LEGO (opção 1): a aprovada, contada como história (canal 2)",
+   "etapa": "roteiro (versão 4 aguardando aprovação, com o gancho novo que você aprovou: a batalha que não cabia vira a pergunta, e o fim mostra como coube na Pokébola que abre)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "aprovar esta versão ou a da opção 2",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "A Pokébola de LEGO que abre e tem uma batalha dentro (canal 2, versão no jeito de notícia pra comparar)",
-   "etapa": "roteiro (aguardando aprovação, versão no jeito de notícia que você pediu pra comparar: o tamanho, ela abrindo, a batalha e o laboratório, e no fim como coube; uns 70 segundos; a versão aprovada continua valendo se você preferir ela)",
+   "titulo": "Versão do Short da Pokébola de LEGO (opção 2): no jeito de notícia (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, no jeito de notícia: o tamanho, a Pokébola abrindo, a batalha e o laboratório, e no fim como coube; uns 70 segundos)",
    "responsavel": "Arpão",
-   "falta_murilo": "escolher entre esta e a aprovada",
+   "falta_murilo": "aprovar esta versão ou a da opção 1",
    "prazo": ""
   },
   {
@@ -2354,5 +2354,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T01:01-03:00"
+ "gerado_em": "2026-10-27T01:02-03:00"
 }
