@@ -1808,6 +1808,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do machado do Kratos: Esse cara tá forjando o machado do Kratos, e no fim vai testar se ele corta",
+   "etapa": "embalagem (o sonho e o teste que ainda vai acontecer, sem dizer o que ele corta; o título de agora tem 86 letras e corta no celular; a capa é o machado do jogo em cima e o de verdade embaixo, com DE VERDADE no meio; se reprovar, as outras opções são \"O machado do Kratos forjado na vida real pesa 8 quilos e meio\" e o título de agora)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "etapa": "roteiro (versão 4 aguardando aprovação: sem o \"continua\", porque a série ainda não mostrou o passo; o vídeo agora é o primeiro teste com uma pessoa dentro e fecha nele, a armadura fechando sozinha, a mão e as pernas mexendo; saíram o \"peça impressa não segura tiro\" e o motor)",
@@ -1824,6 +1832,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short da Malenia no tapete: Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
+   "etapa": "embalagem (fica o título do card: matar o chefe é comum, o raro é o tapete, e o vídeo mostra como; a capa é a chefe em cima e ela no tapete embaixo, com 553 TENTATIVAS no meio; se reprovar, a opção que não conta o fim é \"Ela jogou Elden Ring com os pés contra o chefe mais difícil do jogo\")",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
    "etapa": "narração, texto no Gravar com 17 frases (versão 5 aprovada por você em 25/10; projeto short_ps2_portatil)",
@@ -1832,11 +1848,27 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do PS2 portátil (canal 2): Esse cara tá tentando transformar um PS2 quebrado num portátil",
+   "etapa": "embalagem (não conta se deu certo; o disco fica na capa, o portátil de fita com o disco do PS2 e COM DISCO em cima da tela; o título de agora tem 85 letras e corta no celular; se reprovar, as outras opções são \"Fizeram um PS2 portátil com cola quente, fita e uma tela de carro\" e \"Esse PS2 portátil roda o disco original, mas não dá pra mexer rápido\")",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo (canal 2)",
    "etapa": "narração, texto no Gravar com 22 frases (versão 5 aprovada por você em 25/10; projeto short_batmovel_muro)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do Batmóvel (canal 2): Antes do Batmóvel, esses caras jogaram uma caminhonete blindada num muro",
+   "etapa": "embalagem (promete só a caminhonete, como você pediu em 19/10, e não diz se ela aguentou; o título de agora tem 105 letras e corta no celular antes do muro; a capa é a caminhonete batendo no muro, com AGUENTA? no teto; se reprovar, a outra opção é \"Esses caras blindaram uma caminhonete velha pra testar o Batmóvel\")",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
