@@ -246,7 +246,7 @@
    "titulo": "Trecho que você elogiou na própria reprovação fica como está, mesmo que a conferência dos erros repetidos aponte algo nele.",
    "onde": "conferência dos erros repetidos (a nota `conferencia-erros-repetidos`, o script `conferir_erros_repetidos.py`, a linha da conferência nos roles shorts.md e longos.md) e a trava do Decidir no painel (`lib/conferencia.ts`, que o Claude Code ajusta).",
    "confianca": "fraca. É 1 caso, mas é um conflito entre duas regras suas, não um padrão de desempenho: vai se repetir em toda reprovação parcial.",
-   "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 03:15 UTC; script, nota da conferência e roles shorts.md e longos.md no mesmo dia; trava do painel pedida ao Claude Code)",
+   "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 03:15 UTC; script, nota da conferência e roles shorts.md e longos.md no mesmo dia; trava do painel pelo Claude Code, commit 552ddac no canal_agente)",
    "simples": "Quando você reprova um roteiro mas diz que uma parte está boa, essa parte não é reescrita, mesmo que a conferência automática ache algo nela. No caso da armadura do Fallout, os blocos 1 a 3 que você elogiou ficam iguais, e a conferência só cobra do bloco 4 em diante."
   }
  ],
@@ -2346,8 +2346,8 @@
    "prazo": ""
   },
   {
-   "tipo": "26/10",
-   "titulo": "GARIMPO DE PRODUTOS DE 4 SHORTS aprovados em 25/10 (o Murilo disse que estamos atrasados). Pedido da Âncora (Vitrine), que não abre navegador. Antes de tudo, o Sea Dragon do pedido de 20/10 acima, porque o longo dos 34 leviatãs sai qua 28/10 12h. No ML com o perfil mano, 1 busca por linha. Pra 2 ou 3 resultados de cada busca: ler na página o preço, os vendidos, a nota com o número de avaliações e o vendedor (BR ou importado), e consultar a extensão (se pode entrar, a comissão e o nome que ela mostra). Salvar o melhor que a extensão aceitar (vendedor BR, nota 4,5 ou mais, mais vendidos) e anotar 1 reserva. Desafiante = até uns R$ 30.",
+   "tipo": "",
+   "titulo": "~~[26/10] GARIMPO DE PRODUTOS DE 4 SHORTS aprovados em 25/10 (o Murilo disse que estamos atrasados). Pedido da Âncora (Vitrine), que não abre navegador. Antes de tudo, o Sea Dragon do pedido de 20/10 acima, porque o longo dos 34 leviatãs sai qua 28/10 12h. No ML com o perfil mano, 1 busca por linha. Pra 2 ou 3 resultados de cada busca: ler na página o preço, os vendidos, a nota com o número de avaliações e o vendedor (BR ou importado), e consultar a extensão (se pode entrar, a comissão e o nome que ela mostra). Salvar o melhor que a extensão aceitar (vendedor BR, nota 4,5 ou mais, mais vendidos) e anotar 1 reserva. Desafiante = até uns R$ 30.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2362,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:35-03:00"
+ "gerado_em": "2026-10-27T00:37-03:00"
 }
