@@ -1466,9 +1466,9 @@
   {
    "tipo": "Longo",
    "titulo": "Stonewards em dupla",
-   "etapa": "narração (25/10: o demo antigo, com a voz de IA, saiu do painel, porque não existe versão nova montada; o próximo vídeo que você vê já vem com a sua voz. Você gravou do trecho 1 ao 29 em 18/10 mudando a história; a sua versão virou a história e o texto do 30 em diante já foi reescrito em cima dela, agora com 125 trechos no Gravar narração; com a voz aprovada o Windows monta o vídeo inteiro)",
+   "etapa": "narração (27/10: você parou no trecho 38 porque ele não tinha lógica; conferi na gameplay o que aconteceu naquela onda e o texto do 38 em diante foi reescrito em cima dos 37 que você gravou, no seu jeito de contar; o Gravar agora tem 121 trechos, e o 25, da cura no crítico, voltou pra você regravar porque é uma chance e não toda vez)",
    "responsavel": "Farol",
-   "falta_murilo": "regravar só o trecho 25 (a cura no crítico é uma chance, não toda vez) e gravar do 30 ao 125 quando sobrar voz; ele fica de reserva, porque os longos contados de Subnautica ocupam até 18/11 e ele cobre a semana que furar",
+   "falta_murilo": "gravar do trecho 38 ao 121 e regravar o 25; ele fica de reserva, porque os longos contados de Subnautica ocupam até 18/11 e ele cobre a semana que furar",
    "prazo": ""
   },
   {
@@ -2354,5 +2354,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:58-03:00"
+ "gerado_em": "2026-10-27T01:01-03:00"
 }
