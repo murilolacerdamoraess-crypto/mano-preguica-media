@@ -2003,7 +2003,15 @@
  "navegador": [
   {
    "tipo": "26/10",
-   "titulo": "CAPAS DE 4 SHORTS (quadro 0, vertical), PRIORIDADE: antes das capas do PokéBonk 3, 4 e 5. O Murilo disse em 26/10 que estamos atrasados, e o Short é montado com a capa no primeiro quadro (C21). Perfil mano, uma janela só, ChatGPT, um chat novo por versão, anexos como imagem1, imagem2 (regra nova). Refs em `Mano Preguica/_refs capa - Shorts 26-10/<nome do Short>/`; salvar no mesmo lugar. Nenhum prompt nomeia jogo, personagem nem pessoa (2.25). As palavras em 3D vêm da IA e são conferidas letra a letra (2.13). Nada importante no quarto de baixo da imagem (cartilha 3.D).",
+   "titulo": "CAPAS DE 2 SHORTS, RODADA 2 (PRIORIDADE, antes do PB4 e do PB5): só subir a composição, porque o objeto que importa caiu no quarto de baixo, que o app cobre com o título (cartilha 3.D). Mesmas refs, mesmo método (ChatGPT, chat novo, anexos como imagem1, imagem2), 2 versões cada, salvar como `... - GPT 3.png` e `4`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[26/10] CAPAS DE 4 SHORTS~~ FEITO (Periscópio, 26/10): as 8 do ChatGPT, nenhuma recusa, letras certas. **Anzol (23h50):** PS2 = `CAPA PS2 - GPT 1.png` e Batmóvel = `CAPA BATMOVEL - GPT 2.png`, conferidas na prateleira de 170 px e mandadas ao Arpão. Machado e Elden Ring foram pra rodada 2 (acima). Pedido original: [26/10] CAPAS DE 4 SHORTS (quadro 0, vertical), PRIORIDADE: antes das capas do PokéBonk 3, 4 e 5. O Murilo disse em 26/10 que estamos atrasados, e o Short é montado com a capa no primeiro quadro (C21). Perfil mano, uma janela só, ChatGPT, um chat novo por versão, anexos como imagem1, imagem2 (regra nova). Refs em `Mano Preguica/_refs capa - Shorts 26-10/<nome do Short>/`; salvar no mesmo lugar. Nenhum prompt nomeia jogo, personagem nem pessoa (2.25). As palavras em 3D vêm da IA e são conferidas letra a letra (2.13). Nada importante no quarto de baixo da imagem (cartilha 3.D).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2282,5 +2290,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T23:16-03:00"
+ "gerado_em": "2026-10-26T23:29-03:00"
 }
