@@ -240,6 +240,14 @@
    "confianca": "fraca. É 1 capa, e a conferência foi do Anzol. A prova de verdade é a sua escolha na tela Capas: se a A v4 não parecer você, a regra cai e o teste continua.",
    "status": "aplicada 2026-10-25 (aprovada pelo Murilo no Decidir às 22:09 UTC; adendo 4 da 2.26 na cartilha-anzol, escrito pelo Anzol no commit e5e4decf: uma foto real com olhos abertos olhando pra câmera, deixada nítida num chat sozinho, vira a IMAGEM 1, nunca capa pronta anexada nem pra consertar o rosto, cabeça conferida lado a lado no mesmo tamanho, e a folha de 12 rostos fica só pra conferir)",
    "simples": "Em vez de mandar a IA desenhar o seu rosto a partir da folha de expressões, a gente pega uma foto real sua na expressão certa, deixa ela nítida primeiro e monta a capa em cima dessa foto. Foi assim que saiu a capa do PokéBonk com o Charizard enorme no fundo: você não gostou do fundo preto nem da expressão, mas não disse que o rosto não parecia você."
+  },
+  {
+   "id": "R31",
+   "titulo": "Trecho que você elogiou na própria reprovação fica como está, mesmo que a conferência dos erros repetidos aponte algo nele.",
+   "onde": "conferência dos erros repetidos (a nota `conferencia-erros-repetidos`, o script `conferir_erros_repetidos.py`, a linha da conferência nos roles shorts.md e longos.md) e a trava do Decidir no painel (`lib/conferencia.ts`, que o Claude Code ajusta).",
+   "confianca": "fraca. É 1 caso, mas é um conflito entre duas regras suas, não um padrão de desempenho: vai se repetir em toda reprovação parcial.",
+   "status": "aguardando",
+   "simples": "Quando você reprova um roteiro mas diz que uma parte está boa, essa parte não é reescrita, mesmo que a conferência automática ache algo nela. No caso da armadura do Fallout, os blocos 1 a 3 que você elogiou ficam iguais, e a conferência só cobra do bloco 4 em diante."
   }
  ],
  "equipe": [
@@ -2330,5 +2338,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:10-03:00"
+ "gerado_em": "2026-10-27T00:15-03:00"
 }
