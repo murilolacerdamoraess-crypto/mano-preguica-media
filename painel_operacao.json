@@ -1410,7 +1410,7 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos (animado, texto na tela)",
-   "etapa": "edição (24/10: você reprovou os balões que não dá pra ler; saem o do tamanho do mergulhador e do Reaper, que aparece também no bônus, e o das 4 mandíbulas na sacudida; o resto fica igual; ajuste em producao/short-reaper-caca-5-passos.md)",
+   "etapa": "narração, texto no Gravar com 12 frases (projeto short_reaper_caca; a versão sem balões já está pronta e só espera a sua voz pro render final)",
    "responsavel": "Maestro",
    "falta_murilo": "gravar as 12 frases no painel (em casa)",
    "prazo": ""
@@ -2242,5 +2242,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T20:50-03:00"
+ "gerado_em": "2026-10-26T22:49-03:00"
 }
