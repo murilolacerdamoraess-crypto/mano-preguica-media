@@ -1913,10 +1913,26 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short do show da Pokémon: O que acontece quando a Pokémon chama o Marshmello pra fazer um show",
-   "etapa": "embalagem (a pergunta que todo mundo faria, que deixa imaginar o show em vez de contar a melhor cena; o título da pauta tem 93 letras e corta no celular antes dos lendários; a capa é o Groudon e o Kyogre no telão com a plateia, e AO VIVO em cima da pedra do DJ; se reprovar, a outra opção é \"A Pokémon chamou o Marshmello pra um show, e os lendários lutaram no telão\")",
+   "titulo": "Variação de título do Short do show da Pokémon (1 de 3): Pokémon x Marshmello: os efeitos desse show pareciam fora da realidade",
+   "etapa": "embalagem (a sua ideia dos efeitos, com Pokémon e Marshmello na frente; \"pareciam\" porque é opinião, e o vídeo mostra o telão virando gelo, neve caindo do teto e a mesa do DJ parecendo flutuar; deixa a pessoa imaginar e não repete a capa, que já mostra os lendários; É A QUE EU RECOMENDO; aprovar troca o título atual por este)",
    "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
+   "falta_murilo": "aprovar esta variação ou uma das outras duas",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Variação de título do Short do show da Pokémon (2 de 3): Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+   "etapa": "embalagem (a sua ideia da batalha, sem o \"mais aguardada pelos fãs\", que nenhuma fonte diz, e sem dizer que o DJ criou a luta, porque a animação é da Pokémon; repete o que a capa já mostra; aprovar troca o título atual por este)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar esta variação ou uma das outras duas",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Variação de título do Short do show da Pokémon (3 de 3): Pokémon x Marshmello: a Pokémon nunca tinha feito um show desse tamanho",
+   "etapa": "embalagem (a sua ideia do evento histórico, dita pelo que a fonte confirma: em 30 anos a Pokémon nunca tinha feito um show assim; é o mais seguro, mas abre menos a imaginação; aprovar troca o título atual por este)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar esta variação ou uma das outras duas",
    "prazo": ""
   },
   {
