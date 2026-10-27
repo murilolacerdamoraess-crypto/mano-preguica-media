@@ -1818,9 +1818,9 @@
   {
    "tipo": "Short",
    "titulo": "O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
-   "etapa": "narração, texto no Gravar com 15 frases (versão 4 aprovada por você em 25/10; projeto short_machado_kratos; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; o título está no Decidir)",
-   "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "etapa": "edição, a voz que você gravou em 26/10 está com o editor do Mac junto com o plano de cada frase (o Arpão confere o \"bem menor\" que você falou do primeiro machado, porque a fonte só diz que ele tinha 3 kg)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2362,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T01:12-03:00"
+ "gerado_em": "2026-10-27T01:13-03:00"
 }
