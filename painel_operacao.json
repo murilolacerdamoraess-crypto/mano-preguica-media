@@ -246,7 +246,7 @@
    "titulo": "Trecho que você elogiou na própria reprovação fica como está, mesmo que a conferência dos erros repetidos aponte algo nele.",
    "onde": "conferência dos erros repetidos (a nota `conferencia-erros-repetidos`, o script `conferir_erros_repetidos.py`, a linha da conferência nos roles shorts.md e longos.md) e a trava do Decidir no painel (`lib/conferencia.ts`, que o Claude Code ajusta).",
    "confianca": "fraca. É 1 caso, mas é um conflito entre duas regras suas, não um padrão de desempenho: vai se repetir em toda reprovação parcial.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 03:15 UTC; script, nota da conferência e roles shorts.md e longos.md no mesmo dia; trava do painel pedida ao Claude Code)",
    "simples": "Quando você reprova um roteiro mas diz que uma parte está boa, essa parte não é reescrita, mesmo que a conferência automática ache algo nela. No caso da armadura do Fallout, os blocos 1 a 3 que você elogiou ficam iguais, e a conferência só cobra do bloco 4 em diante."
   }
  ],
@@ -1826,7 +1826,7 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 5 pronta pelo seu comentário de 27/10, segurada até você decidir a regra que deixa passar o trecho que você elogiou: os blocos 1 a 3 ficaram iguais, o teste virou cena, com a armadura vazia antes, os botões e pra que servem, ele pendurado no suporte e o braço que travou, e o fim é ele suando lá dentro na hora do primeiro passo)",
+   "etapa": "roteiro (versão 5 aguardando aprovação, pelo seu comentário de 27/10: os blocos 1 a 3 ficaram iguais, o teste virou cena, com a armadura vazia antes, os botões e pra que servem, ele pendurado no suporte e o braço que travou, e o fim é ele suando lá dentro na hora do primeiro passo)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -2346,5 +2346,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:26-03:00"
+ "gerado_em": "2026-10-27T00:35-03:00"
 }
