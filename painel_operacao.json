@@ -1426,9 +1426,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "narração, texto no Gravar com 68 frases em 8 blocos desde 21/10 (roteiro aprovado em 20/10, versão 2; 14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
+   "etapa": "narração, texto no Gravar com 68 frases em 8 blocos (subiu em 21/10 e de novo em 26/10, porque o Gravar tinha escondido o texto; roteiro aprovado em 20/10, versão 2; 14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a narração no painel até quinta 22/10",
+   "falta_murilo": "gravar a voz no painel (68 frases; o vídeo sai em 28/10, então é a primeira da fila)",
    "prazo": "28/10"
   },
   {
@@ -1857,14 +1857,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele matou 31 leviatãs do Subnautica sem veículo, e no Sea Dragon a faca quente não tirava nada",
-   "etapa": "roteiro (segurado em 25/10: você reprovou e lembrou que já são 3 ou 4 vídeos de matar leviatã; com o Farol ficou uma isca só do longo, a do gás contra o Reaper, e esta fica parada; só volta se você quiser)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
    "etapa": "roteiro (aguardando aprovação, no jeito de notícia: a pergunta \"Pokémon e música eletrônica dá certo?\", o show na ordem em cima da live e dos vídeos da plateia, o gelo quebrando, o Groudon contra o Kyogre em preto e branco e o Mewtwo no fim; uns 80 segundos; a janela é esta semana)",
    "responsavel": "Arpão",
@@ -2240,7 +2232,15 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "26/10",
+   "titulo": "GARIMPO DE PRODUTOS DE 4 SHORTS aprovados em 25/10 (o Murilo disse que estamos atrasados). Pedido da Âncora (Vitrine), que não abre navegador. Antes de tudo, o Sea Dragon do pedido de 20/10 acima, porque o longo dos 34 leviatãs sai qua 28/10 12h. No ML com o perfil mano, 1 busca por linha. Pra 2 ou 3 resultados de cada busca: ler na página o preço, os vendidos, a nota com o número de avaliações e o vendedor (BR ou importado), e consultar a extensão (se pode entrar, a comissão e o nome que ela mostra). Salvar o melhor que a extensão aceitar (vendedor BR, nota 4,5 ou mais, mais vendidos) e anotar 1 reserva. Desafiante = até uns R$ 30.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T22:49-03:00"
+ "gerado_em": "2026-10-26T22:56-03:00"
 }
