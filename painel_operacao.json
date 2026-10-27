@@ -1428,7 +1428,7 @@
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "etapa": "narração, texto no Gravar com 68 frases em 8 blocos (subiu em 21/10 e de novo em 26/10, porque o Gravar tinha escondido o texto; roteiro aprovado em 20/10, versão 2; 14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a voz no painel (68 frases; o vídeo sai em 28/10, então é a primeira da fila)",
+   "falta_murilo": "gravar a voz no painel (68 frases, a primeira da fila) e decidir se o vídeo muda de 28/10 pra sexta 30/10 com o vídeo de teste da edição antes, ou se sai em 28/10 sem esse teste",
    "prazo": "28/10"
   },
   {
@@ -1971,6 +1971,14 @@
  "navegador": [
   {
    "tipo": "26/10",
+   "titulo": "CAPAS DE 4 SHORTS (quadro 0, vertical), PRIORIDADE: antes das capas do PokéBonk 3, 4 e 5. O Murilo disse em 26/10 que estamos atrasados, e o Short é montado com a capa no primeiro quadro (C21). Perfil mano, uma janela só, ChatGPT, um chat novo por versão, anexos como imagem1, imagem2 (regra nova). Refs em `Mano Preguica/_refs capa - Shorts 26-10/<nome do Short>/`; salvar no mesmo lugar. Nenhum prompt nomeia jogo, personagem nem pessoa (2.25). As palavras em 3D vêm da IA e são conferidas letra a letra (2.13). Nada importante no quarto de baixo da imagem (cartilha 3.D).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "26/10",
    "titulo": "CAPAS do PokéBonk 5 (Marowak na Torre Lavender), opções A e B pra tela Capas (MP2; mesmo pedido do Murilo do PB2: 3 elementos grandes, fundo que não compete e nunca preto, ele olhando pra câmera). Perfil mano, uma janela só. Depois das capas do PokéBonk 2, 3 e 4. Refs na pasta nova `Mano Preguica/_refs capa - Pokebonk 5/`; poses em `Mano Preguica/_refs rosto do Murilo/poses/`. Método da cartilha 2.26, adendo 4: a IMAGEM 1 é a pose, nenhuma capa pronta anexada. Nenhum prompt nomeia personagem nem jogo (2.25).",
    "etapa": "",
    "responsavel": "",
@@ -2242,5 +2250,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T23:07-03:00"
+ "gerado_em": "2026-10-26T23:09-03:00"
 }
