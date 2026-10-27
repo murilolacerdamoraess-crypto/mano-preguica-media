@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T03:04:10.371100Z",
+ "gerado_em": "2026-10-27T03:10:29.066807Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -426,13 +426,13 @@
    "name": "SHORT - Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
    "description": "Short do canal principal (pauta P42 do Sonar). A Hacksmith está construindo a armadura do Fallout de verdade, a pedido da Bethesda, e na parte 9 da série coloca uma pessoa dentro pela primeira vez. Antes, o que cada etap",
-   "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 4: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
+   "status": "roteiro (escrevendo a versão 5, nas conferências)",
+   "gate": "versão 5: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-27; conferente separado e conferência dos erros repetidos no fim do arquivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da série da Hacksmith)",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "6UMykgeizTE"
   },
   {
