@@ -2002,8 +2002,16 @@
  ],
  "navegador": [
   {
-   "tipo": "26/10",
-   "titulo": "CAPAS DE 2 SHORTS, RODADA 2 (PRIORIDADE, antes do PB4 e do PB5): só subir a composição, porque o objeto que importa caiu no quarto de baixo, que o app cobre com o título (cartilha 3.D). Mesmas refs, mesmo método (ChatGPT, chat novo, anexos como imagem1, imagem2), 2 versões cada, salvar como `... - GPT 3.png` e `4`.",
+   "tipo": "27/10",
+   "titulo": "CAPAS DE 2 SHORTS, RODADA 3 (PRIORIDADE, antes do PB4 e do PB5): a rodada 2 ignorou as porcentagens. Agora as ideias 1 e 2 do Periscópio juntas: a posição dita por objeto, e o Flow além do ChatGPT. Salvar como `... - GPT 5.png`, `6` e `... - Flow 1.png`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[26/10] CAPAS DE 2 SHORTS, RODADA 2~~ FEITA (Periscópio, 27/10): GPT 3 e 4 de cada, letras e rosto certos, mas a composição não subiu (machado de verdade entre 60% e 95%; tapete entre 80% e 95%). Virou a rodada 3, acima. Pedido original: [26/10] CAPAS DE 2 SHORTS, RODADA 2 (PRIORIDADE, antes do PB4 e do PB5): só subir a composição, porque o objeto que importa caiu no quarto de baixo, que o app cobre com o título (cartilha 3.D). Mesmas refs, mesmo método (ChatGPT, chat novo, anexos como imagem1, imagem2), 2 versões cada, salvar como `... - GPT 3.png` e `4`.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2290,5 +2298,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-26T23:40-03:00"
+ "gerado_em": "2026-10-26T23:45-03:00"
 }
