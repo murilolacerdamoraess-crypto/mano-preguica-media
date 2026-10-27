@@ -1882,17 +1882,17 @@
   {
    "tipo": "Short",
    "titulo": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "etapa": "roteiro (versão 2 aguardando aprovação: deixou de ser mais um vídeo de matar leviatã na faca; agora é o truque que ele inventou porque o jogo quase não tem arma, as bolsas de gás do Gasopod atiradas como bala, Reaper por Reaper; isca única do longo dos 34 leviatãs, combinada com o Farol; o longo passou pra sexta 30/10 e a isca sai antes dele)",
+   "etapa": "narração, texto no Gravar com 13 frases (versão 2 aprovada por você em 27/10; projeto short_gas_municao_reaper; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": "30/10"
   },
   {
    "tipo": "Short",
    "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
-   "etapa": "roteiro (aguardando aprovação, no jeito de notícia: a pergunta \"Pokémon e música eletrônica dá certo?\", o show na ordem em cima da live e dos vídeos da plateia, o gelo quebrando, o Groudon contra o Kyogre em preto e branco e o Mewtwo no fim; uns 80 segundos; a janela é esta semana)",
+   "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; a janela é esta semana, a segunda noite é 10/11 em Londres)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": "01/11"
   },
   {
@@ -2296,7 +2296,15 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "27/10",
+   "titulo": "GARIMPO DO SHORT DO SHOW DA POKÉMON (Pokémon Night Out com o Marshmello, aprovado em 27/10). Pedido da Âncora (Vitrine), que não abre navegador. Vem DEPOIS do garimpo dos 4 Shorts de 26/10. No ML com o perfil mano: \"chaveiro mewtwo\" e \"chaveiro lucario\" (desafiante, até uns R$ 30)",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:01-03:00"
+ "gerado_em": "2026-10-27T00:04-03:00"
 }
