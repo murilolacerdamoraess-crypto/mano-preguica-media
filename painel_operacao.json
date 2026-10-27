@@ -1888,12 +1888,28 @@
    "prazo": "30/10"
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do Reaper e o gás: Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
+   "etapa": "embalagem (fica o título de trabalho, sem \"matar\" e sem número, como combinado com o Farol; a promessa é a ideia estranha, a munição de gás, e não diz se deu conta; a capa é você atirando a bolsa de gás no Reaper preso na bolha, com SEM VEÍCULO em cima; se reprovar, a outra opção é \"Esse cara transformou um bicho do Subnautica em munição contra o Reaper\")",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
    "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; a janela é esta semana, a segunda noite é 10/11 em Londres)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": "01/11"
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do show da Pokémon: O que acontece quando a Pokémon chama o Marshmello pra fazer um show",
+   "etapa": "embalagem (a pergunta que todo mundo faria, que deixa imaginar o show em vez de contar a melhor cena; o título da pauta tem 93 letras e corta no celular antes dos lendários; a capa é o Groudon e o Kyogre no telão com a plateia, e AO VIVO em cima da pedra do DJ; se reprovar, a outra opção é \"A Pokémon chamou o Marshmello pra um show, e os lendários lutaram no telão\")",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
   },
   {
    "tipo": "Longo",
@@ -2001,6 +2017,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "27/10",
+   "titulo": "CAPAS DE 2 SHORTS NOVOS (quadro 0, vertical), PRIORIDADE MÁXIMA na ordem: primeiro a isca do Reaper (o longo dos 34 leviatãs sai sex 30/10 e a isca sai antes), depois o show da Pokémon (a notícia é desta semana). Antes das capas do PB4 e do PB5. Perfil mano, uma janela só, ChatGPT, chat novo por versão, anexos como imagem1, imagem2. Refs em `Mano Preguica/_refs capa - Shorts 26-10/<pasta>/`; salvar no mesmo lugar. Nenhum prompt nomeia jogo, criatura nem pessoa (2.25). Letras conferidas letra a letra. **A posição vai por objeto (lição da rodada 3):** nada que importa no quarto de baixo.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "",
    "titulo": "~~[27/10] CAPAS DE 2 SHORTS, RODADA 3~~ FEITA (Periscópio, 27/10). **Anzol:** machado = `CAPA MACHADO - GPT 6.png`, Elden Ring = `CAPA ELDEN RING - GPT 5.png`, conferidas na prateleira e mandadas ao Arpão; sem rodada 4. Pedido original: [27/10] CAPAS DE 2 SHORTS, RODADA 3 (PRIORIDADE, antes do PB4 e do PB5): a rodada 2 ignorou as porcentagens. Agora as ideias 1 e 2 do Periscópio juntas: a posição dita por objeto, e o Flow além do ChatGPT. Salvar como `... - GPT 5.png`, `6` e `... - Flow 1.png`.",
@@ -2306,5 +2330,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:04-03:00"
+ "gerado_em": "2026-10-27T00:07-03:00"
 }
