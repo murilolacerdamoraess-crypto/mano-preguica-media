@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T11:51:03.786700Z",
+ "gerado_em": "2026-10-27T01:56:39.076318Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -90,7 +90,7 @@
    "name": "SHORT MP2 - Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo",
    "titulo_roteiro": "SHORT MP2: o caminhão do Batmóvel contra o muro de tijolo",
    "description": "Short do MP2 (pauta P48 do Sonar). A Hacksmith quer o Batmóvel mais funcional de todos, mas antes de investir nele blinda uma caminhonete velha pra testar tudo nela; se ela não aguentar o muro de tijolo, talvez nem dê pr",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "roteiro aprovado (versão 5 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -188,7 +188,7 @@
    "name": "SHORT MP2 - Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
    "titulo_roteiro": "SHORT MP2: o PS2 quebrado que virou portátil",
    "description": "Short do MP2 (pauta P45 do Sonar). O James pegou um PS2 quebrado, que não lia disco, e decidiu fazer dele um portátil que roda o disco original. Pra rodar o disco, o leitor tinha que voltar: ele regulou com um programa p",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "roteiro aprovado (versão 5 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -608,7 +608,7 @@
    "name": "SHORT - Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
    "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, no level 1",
    "description": "Short do canal principal (pauta P6). A MissMikkaa enfrenta a Malenia, o chefe considerado o mais difícil do Elden Ring, com os pés num tapete de dança e no level 1. A Malenia se cura a cada golpe que acerta, e no level 1",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "roteiro aprovado (versão 3 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -748,7 +748,7 @@
    "name": "SHORT - O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
    "titulo_roteiro": "SHORT: o machado do Kratos forjado de verdade",
    "description": "Short do canal principal (pauta P43 do Sonar). A HammerForge faz de verdade o machado do Kratos na versão final do God of War, com todas as melhorias; não basta ser bonito, tem que funcionar, e no fim ele põe o machado à",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "roteiro aprovado (versão 4 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
