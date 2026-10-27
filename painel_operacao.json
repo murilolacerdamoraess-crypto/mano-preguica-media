@@ -1425,10 +1425,10 @@
  "producao": [
   {
    "tipo": "Short",
-   "titulo": "Como o Reaper caça em 5 passos (animado, texto na tela)",
-   "etapa": "narração, texto no Gravar com 12 frases (projeto short_reaper_caca; a versão sem balões já está pronta e só espera a sua voz pro render final)",
-   "responsavel": "Maestro",
-   "falta_murilo": "gravar as 12 frases no painel (em casa)",
+   "titulo": "Como o Reaper caça em 5 passos",
+   "etapa": "edição, entregue no Assistir em 27/10 com a sua voz (1:50, legenda da sua fala, abertura nova mostrando o tamanho do Reaper perto do mergulhador, capa nova do Anzol no primeiro quadro)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "assistir e aprovar",
    "prazo": ""
   },
   {
@@ -2362,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T01:42-03:00"
+ "gerado_em": "2026-10-27T02:37-03:00"
 }
