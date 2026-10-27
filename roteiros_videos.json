@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T03:35:22.757889Z",
+ "gerado_em": "2026-10-27T03:37:46.411570Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -173,14 +173,14 @@
    "arquivo": "mp2-pote-zelda-quebra-de-verdade.md",
    "name": "SHORT MP2 - Fizeram o pote do Zelda de verdade, você joga no chão e ele quebra igual no jogo",
    "titulo_roteiro": "SHORT MP2: o pote do Zelda que quebra de verdade",
-   "description": "Short do MP2 (pauta do Backlog aprovada pelo Murilo; contado pelo Zelda, sem falar de impressora 3D; versão 3 pela regra \"MP2 também é história guiada\" de 18/10). No Zelda quase todo pote solta coração ou rupia quando qu",
-   "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 3 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
+   "description": "Short do MP2 (pauta do Backlog aprovada pelo Murilo). Versão 6 (27/10), no fio que o Murilo contou na reprovação da v5. Esse perfil fez um pote do Zelda que você joga no chão e quebra igual no jogo, e depois dá pra monta",
+   "status": "roteiro (escrevendo a versão 6, nas conferências)",
+   "gate": "versão 6 (27/10): portão de fontes e de fluidez (com a R17), conferente separado e conferência dos erros repetidos no fim do arquivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "I7m-X49fj_w"
   },
   {
