@@ -248,6 +248,14 @@
    "confianca": "fraca. É 1 caso, mas é um conflito entre duas regras suas, não um padrão de desempenho: vai se repetir em toda reprovação parcial.",
    "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 03:15 UTC; script, nota da conferência e roles shorts.md e longos.md no mesmo dia; trava do painel pelo Claude Code, commit 552ddac no canal_agente)",
    "simples": "Quando você reprova um roteiro mas diz que uma parte está boa, essa parte não é reescrita, mesmo que a conferência automática ache algo nela. No caso da armadura do Fallout, os blocos 1 a 3 que você elogiou ficam iguais, e a conferência só cobra do bloco 4 em diante."
+  },
+  {
+   "id": "R32",
+   "titulo": "Na conferência dos erros repetidos, frase apontada só volta pro roteirista se um segundo conferente concordar, e depois da correção só as frases que mudaram são conferidas de novo.",
+   "onde": "conferência dos erros repetidos (a nota `conferencia-erros-repetidos`, com o \"Pedido pro subagente\", e a linha da conferência nos roles shorts.md e longos.md). O script e a trava do painel não mudam: frase não confirmada fica marcada `passa (apontada e não confirmada)`, que eles já aceitam.",
+   "confianca": "fraca nos números (2 casos), forte no defeito: o mesmo texto passou e reprovou, então a reprovação era sorteio, não erro.",
+   "status": "aguardando",
+   "simples": "Hoje o conferente automático reprova na dúvida, e como cada conferente novo implica com frases diferentes, um roteiro grande nunca termina de passar (o Stonewards rodou 7 vezes, e a mesma frase passou numa e reprovou na outra). Com a mudança, cada frase reprovada é lida por um segundo conferente e só volta pro roteirista se os dois concordarem; depois de corrigida, só as frases que mudaram são conferidas de novo."
   }
  ],
  "equipe": [
@@ -2354,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T01:02-03:00"
+ "gerado_em": "2026-10-27T01:03-03:00"
 }
