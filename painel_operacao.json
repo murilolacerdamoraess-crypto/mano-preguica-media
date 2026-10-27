@@ -1849,8 +1849,8 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short da Malenia no tapete: Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
-   "etapa": "embalagem (fica o título do card: matar o chefe é comum, o raro é o tapete, e o vídeo mostra como; a capa é a chefe em cima e ela no tapete embaixo, com 553 TENTATIVAS no meio; se reprovar, a opção que não conta o fim é \"Ela jogou Elden Ring com os pés contra o chefe mais difícil do jogo\")",
+   "titulo": "Título novo (v2) do Short da Malenia no tapete: Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "etapa": "embalagem (troquei o \"pisando num\" pelo \"usando um\", como você pediu; a capa com 553 TENTATIVAS fica igual)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título",
    "prazo": ""
@@ -1881,8 +1881,8 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short do Batmóvel (canal 2): Antes do Batmóvel, esses caras jogaram uma caminhonete blindada num muro",
-   "etapa": "embalagem (promete só a caminhonete, como você pediu em 19/10, e não diz se ela aguentou; o título de agora tem 105 letras e corta no celular antes do muro; a capa é a caminhonete batendo no muro, com AGUENTA? no teto; se reprovar, a outra opção é \"Esses caras blindaram uma caminhonete velha pra testar o Batmóvel\")",
+   "titulo": "Título novo (v2) do Short do Batmóvel (canal 2): Esses caras estão construindo o Batmóvel na vida real",
+   "etapa": "embalagem (é a sua frase; agora vale porque o roteiro aprovado conta o plano da construção, primeiro o carro de teste e depois o Batmóvel, e o vídeo mostra essa primeira etapa; a capa da caminhonete no muro com AGUENTA? fica igual; se reprovar, a outra opção é \"Esses caras estão construindo o Batmóvel na vida real, e o teste final é um muro\")",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título",
    "prazo": ""
@@ -2362,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T11:15-03:00"
+ "gerado_em": "2026-10-27T11:37-03:00"
 }
