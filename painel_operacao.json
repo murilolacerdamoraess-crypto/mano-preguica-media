@@ -1818,7 +1818,7 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 4 aguardando aprovação: sem o \"continua\", porque a série ainda não mostrou o passo; o vídeo agora é o primeiro teste com uma pessoa dentro e fecha nele, a armadura fechando sozinha, a mão e as pernas mexendo; saíram o \"peça impressa não segura tiro\" e o motor)",
+   "etapa": "roteiro (escrevendo a versão 5 pelo seu comentário de 27/10: o teste virou cena, com a armadura vazia antes, os botões e pra que servem, ele pendurado no suporte, o braço que travou e a hora de descer; e o fim diz o que é funcionar e o que falta pra ele andar)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1882,7 +1882,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "etapa": "narração, texto no Gravar com 13 frases (versão 2 aprovada por você em 27/10; projeto short_gas_municao_reaper; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
+   "etapa": "narração, texto no Gravar com 13 frases (versão 2 aprovada por você em 27/10; projeto short_gas_municao_reaper; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": "30/10"
@@ -1898,7 +1898,7 @@
   {
    "tipo": "Short",
    "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
-   "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; a janela é esta semana, a segunda noite é 10/11 em Londres)",
+   "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; a janela é esta semana, a segunda noite é 10/11 em Londres)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": "01/11"
@@ -2330,5 +2330,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:07-03:00"
+ "gerado_em": "2026-10-27T00:10-03:00"
 }
