@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T03:47:29.517237Z",
+ "gerado_em": "2026-10-27T14:07:06.814312Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -258,13 +258,13 @@
    "name": "reaper-caca-5-passos",
    "titulo_roteiro": "Como o Reaper caça (v2, narrado)",
    "description": "Reel/Short \"Como o Reaper caça\", formato tutorial em passos (referência Egor Vasilev), animado no motor de partículas 3D com o Ryley em mocap. v2 (21/10) = narrado com a voz real do Murilo, escrito pelo método do canal (",
-   "status": "roteiro pra gravar (pedido do Murilo em 21/10: \"agora eu preciso gravar minha voz e colocar uma trilha sonora\")",
-   "gate": "conferir_fontes e checar_fluidez rodados na v2 (ver o fim); falta o OK do Murilo na gravação",
+   "status": "roteiro aprovado (v3, ajuste pedido pelo Murilo na reprovação do vídeo em 27/10; só uma frase nova no Gravar, a do peixe)",
+   "gate": "conferir_fontes APROVADO e checar_fluidez APROVADA na v3 (27/10)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short/reel vertical animado (voz real do Murilo + trilha), TikTok com mais de 1 min",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": null
   },
   {
