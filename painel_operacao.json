@@ -254,7 +254,7 @@
    "titulo": "Na conferência dos erros repetidos, frase apontada só volta pro roteirista se um segundo conferente concordar, e depois da correção só as frases que mudaram são conferidas de novo.",
    "onde": "conferência dos erros repetidos (a nota `conferencia-erros-repetidos`, com o \"Pedido pro subagente\", e a linha da conferência nos roles shorts.md e longos.md). O script e a trava do painel não mudam: frase não confirmada fica marcada `passa (apontada e não confirmada)`, que eles já aceitam.",
    "confianca": "fraca nos números (2 casos), forte no defeito: o mesmo texto passou e reprovou, então a reprovação era sorteio, não erro.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 04:11 UTC; nota da conferência e roles shorts.md e longos.md no mesmo dia; script e painel sem mudança)",
    "simples": "Hoje o conferente automático reprova na dúvida, e como cada conferente novo implica com frases diferentes, um roteiro grande nunca termina de passar (o Stonewards rodou 7 vezes, e a mesma frase passou numa e reprovou na outra). Com a mudança, cada frase reprovada é lida por um segundo conferente e só volta pro roteirista se os dois concordarem; depois de corrigida, só as frases que mudaram são conferidas de novo."
   }
  ],
@@ -2362,5 +2362,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T01:22-03:00"
+ "gerado_em": "2026-10-27T01:34-03:00"
 }
