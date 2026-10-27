@@ -1905,35 +1905,11 @@
   },
   {
    "tipo": "Short",
-   "titulo": "A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
-   "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; a janela é esta semana, a segunda noite é 10/11 em Londres)",
+   "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+   "etapa": "narração, texto no Gravar com 11 frases (versão 1 aprovada por você em 27/10; projeto short_pokemon_show_groudon; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; a janela é esta semana, a segunda noite é 10/11 em Londres) ; título com teste A/B pedido por você em 27/10: título A = \"Pokémon x Marshmello: os lendários lutaram no telão no meio do show\" (o que você aprovou), título B = \"Pokémon x Marshmello: os efeitos desse show pareciam fora da realidade\"; quem publicar usa o Testar e comparar do YouTube com os dois, e se o Studio não oferecer teste de título pra esse Short, vai o A; capa: os lendários no telão e AO VIVO",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": "01/11"
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Variação de título do Short do show da Pokémon (1 de 3): Pokémon x Marshmello: os efeitos desse show pareciam fora da realidade",
-   "etapa": "embalagem (a sua ideia dos efeitos, com Pokémon e Marshmello na frente; \"pareciam\" porque é opinião, e o vídeo mostra o telão virando gelo, neve caindo do teto e a mesa do DJ parecendo flutuar; deixa a pessoa imaginar e não repete a capa, que já mostra os lendários; É A QUE EU RECOMENDO; aprovar troca o título atual por este)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar esta variação ou uma das outras duas",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Variação de título do Short do show da Pokémon (2 de 3): Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "embalagem (a sua ideia da batalha, sem o \"mais aguardada pelos fãs\", que nenhuma fonte diz, e sem dizer que o DJ criou a luta, porque a animação é da Pokémon; repete o que a capa já mostra; aprovar troca o título atual por este)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar esta variação ou uma das outras duas",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Variação de título do Short do show da Pokémon (3 de 3): Pokémon x Marshmello: a Pokémon nunca tinha feito um show desse tamanho",
-   "etapa": "embalagem (a sua ideia do evento histórico, dita pelo que a fonte confirma: em 30 anos a Pokémon nunca tinha feito um show assim; é o mais seguro, mas abre menos a imaginação; aprovar troca o título atual por este)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar esta variação ou uma das outras duas",
-   "prazo": ""
   },
   {
    "tipo": "Longo",
@@ -2362,5 +2338,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T00:37-03:00"
+ "gerado_em": "2026-10-27T00:41-03:00"
 }
