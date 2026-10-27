@@ -272,6 +272,10 @@
 {
 "t": 1793114111,
 "v": 249
+},
+{
+"t": 1793140445,
+"v": 249
 }
 ],
 "views": 249
@@ -617,7 +621,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1779
+"views": 1782
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -665,7 +669,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 91100
+"views": 91200
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -683,13 +687,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1156
+"views": 1158
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8647
+"views": 8655
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -713,13 +717,13 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3204
+"views": 3207
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
 "ts": 1787000500,
 "fotos": [],
-"views": 2215
+"views": 2216
 },
 "7673995557148298514": {
 "titulo": "Sam Ayou: vítima ou vilã? você decide 🤔 #subnautica #subnautica2 #gam...",
@@ -731,7 +735,7 @@
 "titulo": "o pior susto da história do Subnautica 😱 #subnautica #subnautica2 #ga...",
 "ts": 1786568499,
 "fotos": [],
-"views": 140700
+"views": 140800
 },
 "7672185994828860679": {
 "titulo": "PORQUE NÃO TEM NINGUÉM VIVO EM SUBNAUTICA? 🪦 #Subnautica #games #game...",
@@ -1194,7 +1198,7 @@
 "v": 2752
 }
 ],
-"views": 3007
+"views": 3010
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1453,7 +1457,7 @@
 "v": 44800
 }
 ],
-"views": 45200
+"views": 45300
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1754,9 +1758,13 @@
 {
 "t": 1793114111,
 "v": 43000
+},
+{
+"t": 1793140445,
+"v": 43200
 }
 ],
-"views": 43000
+"views": 43200
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1917,9 +1925,13 @@
 {
 "t": 1793121620,
 "v": 357
+},
+{
+"t": 1793140445,
+"v": 360
 }
 ],
-"views": 357
+"views": 360
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -2056,9 +2068,24 @@
 {
 "t": 1793121620,
 "v": 7907
+},
+{
+"t": 1793140445,
+"v": 7994
 }
 ],
-"views": 7907
+"views": 7994
+},
+"7701455478399732998": {
+"titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
+"ts": 1793134935,
+"fotos": [
+{
+"t": 1793140445,
+"v": 114
+}
+],
+"views": 114
 }
 }
 }
