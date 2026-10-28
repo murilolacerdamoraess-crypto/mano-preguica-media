@@ -2667,7 +2667,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4"
+  },
+  {
+   "id": "p29",
+   "aberta_em": "2026-10-28T13:58-03:00",
+   "agente": "Anzol",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "aprovar o título novo do Short (prazo 30/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-novo-v3-do-short-do-reaper-e-o-gas-esse-cara-criou-uma-arma-nova-dentro-d:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-10-28T13:57-03:00"
+ "gerado_em": "2026-10-28T13:58-03:00"
 }
