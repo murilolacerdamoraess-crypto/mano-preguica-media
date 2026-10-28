@@ -256,6 +256,14 @@
    "confianca": "fraca nos números (2 casos), forte no defeito: o mesmo texto passou e reprovou, então a reprovação era sorteio, não erro.",
    "status": "aplicada 2026-10-27 (aprovada pelo Murilo no Decidir às 04:11 UTC; nota da conferência e roles shorts.md e longos.md no mesmo dia; script e painel sem mudança)",
    "simples": "Hoje o conferente automático reprova na dúvida, e como cada conferente novo implica com frases diferentes, um roteiro grande nunca termina de passar (o Stonewards rodou 7 vezes, e a mesma frase passou numa e reprovou na outra). Com a mudança, cada frase reprovada é lida por um segundo conferente e só volta pro roteirista se os dois concordarem; depois de corrigida, só as frases que mudaram são conferidas de novo."
+  },
+  {
+   "id": "R33",
+   "titulo": "Quando o canal já tem vídeo do mesmo bicho ou da mesma mecânica, a pauta e o roteiro dizem o que é novo em relação a ele, e esse novo vira o gancho.",
+   "onde": "role descoberta.md (Sonar, linha do ledger e do Reaper e Gargantuan), roles shorts.md e longos.md (linha \"Nunca re-caçar o que está no ledger\") e o portão de pauta.",
+   "confianca": "forte no pedido (3 vezes, uma delas como ordem: \"antes de pautar, confira se ele já fez o mesmo\"), sem número de desempenho.",
+   "status": "aguardando",
+   "simples": "Antes de pautar ou escrever sobre um bicho ou truque que já apareceu no canal, quem escreve procura o vídeo antigo e põe na pauta uma linha \"o que é novo em relação a <vídeo antigo>\". No gás contra o Reaper, o vídeo antigo era \"o gasópode mata tudo\", e o novo é que o cara transformou a ferramenta do gás numa arma nova; é isso que abre o roteiro."
   }
  ],
  "equipe": [
@@ -2633,5 +2641,5 @@
    "nota": "programado sáb 31/10 18:00, conferido no Studio"
   }
  ],
- "gerado_em": "2026-10-28T13:43-03:00"
+ "gerado_em": "2026-10-28T13:44-03:00"
 }
