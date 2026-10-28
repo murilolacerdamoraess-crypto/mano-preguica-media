@@ -276,6 +276,10 @@
 {
 "t": 1793140445,
 "v": 249
+},
+{
+"t": 1793163517,
+"v": 249
 }
 ],
 "views": 249
@@ -621,7 +625,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1788
+"views": 1789
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -687,13 +691,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1161
+"views": 1163
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8666
+"views": 8667
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -717,7 +721,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3209
+"views": 3210
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1198,7 +1202,7 @@
 "v": 2752
 }
 ],
-"views": 3013
+"views": 3020
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1766,9 +1770,13 @@
 {
 "t": 1793155552,
 "v": 43300
+},
+{
+"t": 1793163517,
+"v": 43400
 }
 ],
-"views": 43300
+"views": 43400
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -2092,9 +2100,13 @@
 {
 "t": 1793155552,
 "v": 8035
+},
+{
+"t": 1793163517,
+"v": 8044
 }
 ],
-"views": 8035
+"views": 8044
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2111,9 +2123,13 @@
 {
 "t": 1793155552,
 "v": 681
+},
+{
+"t": 1793163517,
+"v": 2704
 }
 ],
-"views": 681
+"views": 2704
 }
 }
 }
