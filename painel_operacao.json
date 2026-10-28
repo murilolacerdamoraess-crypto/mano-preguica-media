@@ -2639,7 +2639,27 @@
    "status": "feita",
    "fechada_em": "2026-10-28T13:11-03:00",
    "nota": "programado sáb 31/10 18:00, conferido no Studio"
+  },
+  {
+   "id": "p27",
+   "aberta_em": "2026-10-28T13:53-03:00",
+   "agente": "Arpão",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "aprovar ou ajustar o roteiro novo (versão 3, a arma com o canhão; prazo 30/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v3"
+  },
+  {
+   "id": "p28",
+   "aberta_em": "2026-10-28T13:53-03:00",
+   "agente": "Arpão",
+   "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
+   "o_que": "aprovar ou ajustar o roteiro (versão 4, sem \"peça\")",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4"
   }
  ],
- "gerado_em": "2026-10-28T13:49-03:00"
+ "gerado_em": "2026-10-28T13:54-03:00"
 }
