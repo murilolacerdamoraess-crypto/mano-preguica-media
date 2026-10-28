@@ -2477,6 +2477,65 @@
    "o_que": "gravar a voz das 68 frases (o vídeo sai sexta 30/10)",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p12",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Stonewards em dupla",
+   "o_que": "gravar do trecho 38 ao 121 e regravar o 25",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p13",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md"
+  },
+  {
+   "id": "p14",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste",
+   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v2"
+  },
+  {
+   "id": "p15",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Ela zerou o Subnautica antes da Aurora explodir",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v3"
+  },
+  {
+   "id": "p16",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-deathrun-sem-andar-extintor.md@v4"
+  },
+  {
+   "id": "p17",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Ela nadou até a árvore gigante do Subnautica 2, e passou pelos leviatãs ficando parada",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-viscerface-arvore-subnautica-2.md@v4"
   }
  ],
  "gerado_em": "2026-10-28T09:22-03:00"
