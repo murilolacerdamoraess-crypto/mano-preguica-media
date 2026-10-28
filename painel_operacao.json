@@ -2555,7 +2555,9 @@
    "video": "PokéBonk 3, o do Bellsprout (canal 2)",
    "o_que": "escolher a capa",
    "onde": "Capas",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-28T11:27-03:00",
+   "nota": "escolheu a capa A às 11:10"
   },
   {
    "id": "p20",
@@ -2573,7 +2575,9 @@
    "video": "PokéBonk 5, o do Marowak (canal 2)",
    "o_que": "escolher a capa",
    "onde": "Capas",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-28T11:27-03:00",
+   "nota": "escolheu a capa A às 11:11"
   },
   {
    "id": "p22",
@@ -2614,5 +2618,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:23-03:00"
+ "gerado_em": "2026-10-28T11:28-03:00"
 }
