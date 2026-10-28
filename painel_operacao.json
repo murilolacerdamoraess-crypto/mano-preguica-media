@@ -1841,50 +1841,26 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
+   "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
    "etapa": "edição, refazendo pelo seu comentário de 27/10 (o jogo e ela em duas colunas que enchem a tela, com moldura, em vez da tira espremida sobre o fundo preto com dourado; imagem em 1080p; números e desenhos em tela cheia; crédito pequeno no canto; a versão anterior saiu da fila de publicar)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
    "prazo": ""
   },
   {
-   "tipo": "Tarefa",
-   "titulo": "Título novo (v2) do Short da Malenia no tapete: Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "etapa": "embalagem (troquei o \"pisando num\" pelo \"usando um\", como você pediu; a capa com 553 TENTATIVAS fica igual)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
-   "prazo": ""
-  },
-  {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
-   "etapa": "narração, texto no Gravar com 17 frases (versão 5 aprovada por você em 25/10; projeto short_ps2_portatil; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; o título está no Decidir)",
+   "etapa": "narração, texto no Gravar com 17 frases (versão 5 aprovada por você em 25/10; projeto short_ps2_portatil; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; título aprovado em 28/10: \"Esse cara tá tentando transformar um PS2 quebrado num portátil\")",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
-   "tipo": "Tarefa",
-   "titulo": "Título do Short do PS2 portátil (canal 2): Esse cara tá tentando transformar um PS2 quebrado num portátil",
-   "etapa": "embalagem (não conta se deu certo; o disco fica na capa, o portátil de fita com o disco do PS2 e COM DISCO em cima da tela; o título de agora tem 85 letras e corta no celular; se reprovar, as outras opções são \"Fizeram um PS2 portátil com cola quente, fita e uma tela de carro\" e \"Esse PS2 portátil roda o disco original, mas não dá pra mexer rápido\")",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
-   "prazo": ""
-  },
-  {
    "tipo": "Short",
-   "titulo": "Antes do Batmóvel, esses caras jogaram uma caminhonete blindada num muro (canal 2)",
-   "etapa": "embalagem (a edição v2 foi aprovada por você em 28/10 às 11:44: sem efeito sonoro, música mais baixa, sem a tarja do 1:39, crédito pequeno no canto)",
-   "responsavel": "Anzol",
+   "titulo": "Esses caras estão construindo o Batmóvel na vida real (canal 2)",
+   "etapa": "pronto pra publicar (vídeo v2 aprovado por você em 28/10; título aprovado em 27/10; a capa é o primeiro quadro do vídeo, a caminhonete batendo no muro com AGUENTA?; descrição, tags e produtos prontos)",
+   "responsavel": "Leme",
    "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título novo (v2) do Short do Batmóvel (canal 2): Esses caras estão construindo o Batmóvel na vida real",
-   "etapa": "embalagem (é a sua frase; agora vale porque o roteiro aprovado conta o plano da construção, primeiro o carro de teste e depois o Batmóvel, e o vídeo mostra essa primeira etapa; a capa da caminhonete no muro com AGUENTA? fica igual; se reprovar, a outra opção é \"Esses caras estão construindo o Batmóvel na vida real, e o teste final é um muro\")",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -2640,5 +2616,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:49-03:00"
+ "gerado_em": "2026-10-28T11:50-03:00"
 }
