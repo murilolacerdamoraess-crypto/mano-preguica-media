@@ -2386,8 +2386,10 @@
    "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
    "o_que": "aprovar o título novo do Short",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-novo-v2-do-short-da-malenia-no-tapete-ela-matou-o-chefe-mais-dificil-de-e:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-novo-v2-do-short-da-malenia-no-tapete-ela-matou-o-chefe-mais-dificil-de-e:aprovar-este-titulo",
+   "fechada_em": "2026-10-28T11:48-03:00",
+   "nota": "aprovou o título v2 às 11:38"
   },
   {
    "id": "p2",
@@ -2396,8 +2398,10 @@
    "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
    "o_que": "aprovar o título do Short",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-short-do-ps2-portatil-canal-2-esse-cara-ta-tentando-transformar-um-ps2:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-do-short-do-ps2-portatil-canal-2-esse-cara-ta-tentando-transformar-um-ps2:aprovar-este-titulo",
+   "fechada_em": "2026-10-28T11:48-03:00",
+   "nota": "aprovou o título às 11:38"
   },
   {
    "id": "p3",
@@ -2603,7 +2607,9 @@
    "video": "Antes do Batmóvel, esses caras jogaram uma caminhonete no muro (v2)",
    "o_que": "assistir a v2 e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-28T11:48-03:00",
+   "nota": "aprovou o vídeo v2 às 11:44"
   },
   {
    "id": "p24",
@@ -2626,5 +2632,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:38-03:00"
+ "gerado_em": "2026-10-28T11:48-03:00"
 }
