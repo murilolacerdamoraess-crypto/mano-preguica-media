@@ -2544,7 +2544,9 @@
    "video": "PokéBonk 2, o do Gengar (canal 2)",
    "o_que": "programar no Studio pra hoje, qua 28/10 às 18h",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-28T10:01-03:00",
+   "nota": "Murilo programou qua 28/10 18h"
   },
   {
    "id": "p19",
@@ -2603,5 +2605,5 @@
    "nota": "Murilo autorizou; Lixeira esvaziada, 43 → 93 GB livres"
   }
  ],
- "gerado_em": "2026-10-28T09:51-03:00"
+ "gerado_em": "2026-10-28T10:01-03:00"
 }
