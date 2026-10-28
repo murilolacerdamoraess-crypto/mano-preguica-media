@@ -1889,8 +1889,8 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short do Reaper e o gás: Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "etapa": "embalagem (fica o título de trabalho, sem \"matar\" e sem número, como combinado com o Farol; a promessa é a ideia estranha, a munição de gás, e não diz se deu conta; a capa é você atirando a bolsa de gás no Reaper preso na bolha, com SEM VEÍCULO em cima; se reprovar, a outra opção é \"Esse cara transformou um bicho do Subnautica em munição contra o Reaper\")",
+   "titulo": "Título novo (v3) do Short do Reaper e o gás: Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "etapa": "embalagem (é a sua frase, \"é como se ele tivesse criado uma arma nova dentro do jogo\", e não conta se a arma deu conta dos 25; vale junto com o roteiro novo; a capa vai ser refeita com o canhão certo, porque a de antes mostrava a ferramenta que congela; se reprovar, as outras opções são \"No Subnautica quase não tem arma, então ele inventou a dele contra o Reaper\" e \"Ele transformou uma ferramenta do Subnautica numa arma contra o Reaper\")",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título",
    "prazo": ""
@@ -2009,6 +2009,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "28/10",
+   "titulo": "CAPA DO SHORT DO REAPER, RODADA 3 (PRIORIDADE: a isca sai antes de sex 30/10). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Shorts 26-10/Reaper gas/`. O Short mudou de ângulo (Murilo, 28/10): agora é o canhão que arremessa, carregado com a bolsa de gás. A `CAPA REAPER - GPT 4` mostra o rifle branco que congela, que é outra ferramenta (erro do Anzol na ref de 27/10). Vertical 9:16, 1080x1920.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "",
    "titulo": "~~[28/10] ENVIO NO STUDIO DO BATMÓVEL v2 (#31)~~ CANCELADO (correção do Claude Code, 28/10): o Short é do canal 2 e o Leme já deixou pronto no Studio do canal 2 (5VryqAW8h-4, p26). Nada foi começado no canal principal. Pedido original:, aprovado pelo Murilo 28/10 11:44 (recado do Claude Code). ESPERANDO o Anzol fechar capa e título. Depois: preparar o envio até a guia parada no Programar (o clique é do Murilo; nada publica entre 22h30 e 11h), relacionado, produtos, voz (real = Não, clonada = Sim), e abrir o item com pendencia.py. Atenção: o recado diz canal principal, mas os pedidos de capa de 26/10 diziam canal 2; confirmar o canal antes de subir. Quem faz: Periscópio.",
@@ -2661,5 +2669,5 @@
    "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4"
   }
  ],
- "gerado_em": "2026-10-28T13:54-03:00"
+ "gerado_em": "2026-10-28T13:57-03:00"
 }
