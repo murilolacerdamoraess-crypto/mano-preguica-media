@@ -1874,8 +1874,8 @@
   {
    "tipo": "Short",
    "titulo": "Antes do Batmóvel, esses caras jogaram uma caminhonete blindada num muro (canal 2)",
-   "etapa": "edição, refazendo pelo seu pedido de 28/10 (sem nenhum efeito sonoro, a mesma música da primeira versão mais baixa, a tarja preta do vídeo original no canto em 1:39 sai do quadro, crédito pequeno no canto; a imagem fica como estava; a versão anterior saiu da fila de publicar)",
-   "responsavel": "Tesoura",
+   "etapa": "embalagem (a edição v2 foi aprovada por você em 28/10 às 11:44: sem efeito sonoro, música mais baixa, sem a tarja do 1:39, crédito pequeno no canto)",
+   "responsavel": "Anzol",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -2025,6 +2025,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "28/10",
+   "titulo": "ENVIO NO STUDIO DO BATMÓVEL v2 (#31), aprovado pelo Murilo 28/10 11:44 (recado do Claude Code). ESPERANDO o Anzol fechar capa e título. Depois: preparar o envio até a guia parada no Programar (o clique é do Murilo; nada publica entre 22h30 e 11h), relacionado, produtos, voz (real = Não, clonada = Sim), e abrir o item com pendencia.py. Atenção: o recado diz canal principal, mas os pedidos de capa de 26/10 diziam canal 2; confirmar o canal antes de subir. Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "",
    "titulo": "~~[28/10] CAPA A DO POKÉBONK 4, A AVE E O FUNDO~~ FEITO (Periscópio, 28/10, sem recusa): `OPCAO A - ave e fundo GPT 1.png` e `2` (ChatGPT, 1672x941, chat novo cada) e `OPCAO A - ave e fundo Flow.png` (Flow Nano Banana Pro, 1376x768), na pasta do PB4, sem tratar. Nas 3 a ave saiu lisa e com a forma da arte oficial, o rosto e o controle ficaram; as 2 do GPT têm céu laranja forte, a do Flow saiu com fundo mais frio (lilás e azul). Avisado o Anzol. Pedido original: [28/10] CAPA A DO POKÉBONK 4, A AVE E O FUNDO (pedido do Murilo no painel, 28/10 11:15: \"o articuno não ficou parecido e acho que o fundo tá muito parecido com a cor e tal e dá pouco contraste\"). Perfil mano, uma janela só, depois da capa B (mesma rodada). Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. O rosto, a pose dele, o controle e o bichinho rosa ficam iguais; mudam só a ave e o fundo.",
@@ -2632,5 +2640,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:48-03:00"
+ "gerado_em": "2026-10-28T11:49-03:00"
 }
