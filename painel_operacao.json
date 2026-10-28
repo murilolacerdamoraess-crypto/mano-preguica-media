@@ -1850,9 +1850,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "etapa": "edição, refazendo pelo seu pedido de 28/10 (o jogo inteiro, com ela embaixo ou no canto como câmera de gameplay, em vez do recorte vertical; a parte do tapete só com ela pisando e o zoom; um quadro nítido da Malenia; sem a música da piada; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 28/10 (o jogo inteiro em cima e ela pisando no tapete embaixo, como câmera de gameplay, o vídeo todo; na parte do tapete só ela pisando, com zoom nos pés; um quadro nítido da Malenia no fundo; sem a música da piada)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -2685,7 +2685,9 @@
    "video": "Machado do Kratos v2",
    "o_que": "assistir a v2 e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-10-28T15:34-03:00",
+   "nota": "duplicada da p31 (a mesma entrega do machado v2)"
   },
   {
    "id": "p31",
@@ -2695,7 +2697,17 @@
    "o_que": "assistir a versão nova e aprovar ou pedir ajuste",
    "onde": "Assistir",
    "status": "aberta"
+  },
+  {
+   "id": "p32",
+   "aberta_em": "2026-10-28T15:34-03:00",
+   "agente": "Tesoura",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "o_que": "assistir a versão nova (v3, o jogo em cima e os pés dela embaixo o vídeo inteiro) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1VkKIzRP5kFr1q9k0SI4GGoBcsVEbZ_5g"
   }
  ],
- "gerado_em": "2026-10-28T15:22-03:00"
+ "gerado_em": "2026-10-28T15:41-03:00"
 }
