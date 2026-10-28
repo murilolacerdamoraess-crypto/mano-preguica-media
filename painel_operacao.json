@@ -2370,6 +2370,37 @@
    "prazo": ""
   }
  ],
- "pendencias": [],
+ "pendencias": [
+  {
+   "id": "p1",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Anzol",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "o_que": "aprovar o título novo do Short",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-novo-v2-do-short-da-malenia-no-tapete-ela-matou-o-chefe-mais-dificil-de-e:aprovar-este-titulo"
+  },
+  {
+   "id": "p2",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Anzol",
+   "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
+   "o_que": "aprovar o título do Short",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-short-do-ps2-portatil-canal-2-esse-cara-ta-tentando-transformar-um-ps2:aprovar-este-titulo"
+  },
+  {
+   "id": "p3",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Anzol",
+   "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
+   "o_que": "aprovar o título do Short",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-short-do-reaper-e-o-gas-ele-usou-o-gas-de-um-bicho-do-subnautica-como-:aprovar-este-titulo"
+  }
+ ],
  "gerado_em": "2026-10-28T09:22-03:00"
 }
