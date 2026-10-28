@@ -2572,7 +2572,34 @@
    "o_que": "escolher a capa",
    "onde": "Capas",
    "status": "aberta"
+  },
+  {
+   "id": "p22",
+   "aberta_em": "2026-10-28T09:27-03:00",
+   "agente": "Tesoura",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança (v2)",
+   "o_que": "assistir a v2 e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
+  },
+  {
+   "id": "p23",
+   "aberta_em": "2026-10-28T09:27-03:00",
+   "agente": "Tesoura",
+   "video": "Antes do Batmóvel, esses caras jogaram uma caminhonete no muro (v2)",
+   "o_que": "assistir a v2 e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
+  },
+  {
+   "id": "p24",
+   "aberta_em": "2026-10-28T09:27-03:00",
+   "agente": "Tesoura",
+   "video": "Machado do Kratos (v2)",
+   "o_que": "esvaziar a Lixeira do Mac (são os rascunhos da edição; sem isso falta espaço pro machado)",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T09:24-03:00"
+ "gerado_em": "2026-10-28T09:28-03:00"
 }
