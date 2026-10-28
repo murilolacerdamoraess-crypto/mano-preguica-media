@@ -2026,16 +2026,16 @@
  ],
  "navegador": [
   {
-   "tipo": "28/10",
-   "titulo": "CAPA A DO POKÉBONK 4, A AVE E O FUNDO (pedido do Murilo no painel, 28/10 11:15: \"o articuno não ficou parecido e acho que o fundo tá muito parecido com a cor e tal e dá pouco contraste\"). Perfil mano, uma janela só, depois da capa B (mesma rodada). Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. O rosto, a pose dele, o controle e o bichinho rosa ficam iguais; mudam só a ave e o fundo.",
+   "tipo": "",
+   "titulo": "~~[28/10] CAPA A DO POKÉBONK 4, A AVE E O FUNDO~~ FEITO (Periscópio, 28/10, sem recusa): `OPCAO A - ave e fundo GPT 1.png` e `2` (ChatGPT, 1672x941, chat novo cada) e `OPCAO A - ave e fundo Flow.png` (Flow Nano Banana Pro, 1376x768), na pasta do PB4, sem tratar. Nas 3 a ave saiu lisa e com a forma da arte oficial, o rosto e o controle ficaram; as 2 do GPT têm céu laranja forte, a do Flow saiu com fundo mais frio (lilás e azul). Avisado o Anzol. Pedido original: [28/10] CAPA A DO POKÉBONK 4, A AVE E O FUNDO (pedido do Murilo no painel, 28/10 11:15: \"o articuno não ficou parecido e acho que o fundo tá muito parecido com a cor e tal e dá pouco contraste\"). Perfil mano, uma janela só, depois da capa B (mesma rodada). Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. O rosto, a pose dele, o controle e o bichinho rosa ficam iguais; mudam só a ave e o fundo.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
   },
   {
-   "tipo": "28/10",
-   "titulo": "CAPA B DO POKÉBONK 4, SÓ O OLHAR (pedido do Murilo no painel, 28/10 14:11 UTC: \"ficou muito boa só que eu fiquei meio birolho/vesgo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. Composição, monstro roxo, fundo e cores ficam iguais; muda só o olhar (os dois olhos retos pra câmera e pro mesmo lado).",
+   "tipo": "",
+   "titulo": "~~[28/10] CAPA B DO POKÉBONK 4, SÓ O OLHAR~~ FEITO (Periscópio, 28/10, sem recusa): rota 1 `OPCAO B - olhar GPT 1.png` e `2`; rota 2 `BASE susto olhar reto.png` (1388x1133) e `OPCAO B - olhar base GPT 1.png`; todas 1672x941, chat novo cada, na pasta do PB4, sem tratar. Avisado o Anzol. Pedido original: [28/10] CAPA B DO POKÉBONK 4, SÓ O OLHAR (pedido do Murilo no painel, 28/10 14:11 UTC: \"ficou muito boa só que eu fiquei meio birolho/vesgo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. Composição, monstro roxo, fundo e cores ficam iguais; muda só o olhar (os dois olhos retos pra câmera e pro mesmo lado).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2626,5 +2626,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:35-03:00"
+ "gerado_em": "2026-10-28T11:38-03:00"
 }
