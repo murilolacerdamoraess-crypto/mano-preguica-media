@@ -2394,8 +2394,10 @@
    "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
    "o_que": "aprovar o título do Short",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-short-do-reaper-e-o-gas-ele-usou-o-gas-de-um-bicho-do-subnautica-como-:aprovar-este-titulo"
+   "status": "cancelada",
+   "chave": "peca:titulo-do-short-do-reaper-e-o-gas-ele-usou-o-gas-de-um-bicho-do-subnautica-como-:aprovar-este-titulo",
+   "fechada_em": "2026-10-28T13:43-03:00",
+   "nota": "título muda com o ângulo novo (arma nova criada no jogo)"
   },
   {
    "id": "p4",
@@ -2423,7 +2425,9 @@
    "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
    "o_que": "gravar a voz (prazo 30/10)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-10-28T13:43-03:00",
+   "nota": "Murilo pediu outro ângulo em 28/10 (a ferramenta que dispara o gás, arma nova); a voz volta com o roteiro novo"
   },
   {
    "id": "p7",
@@ -2629,5 +2633,5 @@
    "nota": "programado sáb 31/10 18:00, conferido no Studio"
   }
  ],
- "gerado_em": "2026-10-28T13:24-03:00"
+ "gerado_em": "2026-10-28T13:43-03:00"
 }
