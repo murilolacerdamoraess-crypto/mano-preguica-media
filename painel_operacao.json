@@ -2582,7 +2582,9 @@
    "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança (v2)",
    "o_que": "assistir a v2 e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-28T12:08-03:00",
+   "nota": "assistiu às 11:54 e pediu ajuste (v3)"
   },
   {
    "id": "p23",
@@ -2625,5 +2627,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:59-03:00"
+ "gerado_em": "2026-10-28T12:08-03:00"
 }
