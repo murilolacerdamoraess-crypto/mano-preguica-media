@@ -143,6 +143,17 @@ def equipe(anterior):
     return ag
 
 
+def pendencias():
+    """Lista única do que espera o Murilo (28/10/2026, operacao-maestri/pendencia.py): as abertas e as fechadas nas
+    últimas 48 h (pro painel mostrar "resolvidas")."""
+    arq = os.path.join(CEREBRO, "producao", "pendencias-murilo.json")
+    if not os.path.exists(arq):
+        return []
+    corte = (dt.datetime.now().astimezone() - dt.timedelta(hours=48)).isoformat(timespec="minutes")
+    return [i for i in json.load(open(arq, encoding="utf-8")).get("itens", [])
+            if i.get("status") == "aberta" or (i.get("fechada_em") or "") >= corte]
+
+
 def main():
     agora = dt.datetime.now().astimezone().isoformat(timespec="minutes")
     notas, fonte = {}, set()
@@ -172,6 +183,7 @@ def main():
         "regras": regras,
         "equipe": equipe(anterior),
         **notas,
+        "pendencias": pendencias(),
     }
     escreve(saida, op, agora)
 
