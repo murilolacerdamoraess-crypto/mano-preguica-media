@@ -1818,9 +1818,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "edição, entregue no Assistir em 27/10 com a sua voz (1:54, capa do Anzol no primeiro quadro, gráfico de 3 kg contra 8,5 kg; trilha do acervo; o crédito da abertura vai virar o novo, pequeno no canto)",
+   "etapa": "edição, refazendo pelo seu pedido de 28/10 (a imagem acompanha o que ele está fazendo e o machado aparece inteiro, com o quadro aberto em cima e o detalhe embaixo quando ele é largo demais; imagem em qualidade 4K; o gráfico de barras sai e entra o machado de verdade com o 8,5 kg; sem efeito sonoro; música mais baixa; crédito pequeno no canto; a versão anterior saiu da fila de publicar)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -1874,9 +1874,9 @@
   {
    "tipo": "Short",
    "titulo": "Antes do Batmóvel, esses caras jogaram uma caminhonete blindada num muro (canal 2)",
-   "etapa": "edição, entregue no Assistir em 27/10 com a sua voz (2:46, capa do Anzol no primeiro quadro, desenho de giz do tanque; trilha do acervo; o crédito da abertura vai virar o novo, pequeno no canto)",
+   "etapa": "edição, refazendo pelo seu pedido de 28/10 (sem nenhum efeito sonoro, a mesma música da primeira versão mais baixa, a tarja preta do vídeo original no canto em 1:39 sai do quadro, crédito pequeno no canto; a imagem fica como estava; a versão anterior saiu da fila de publicar)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -1914,9 +1914,17 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "edição, refazendo pelo seu pedido de 27/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o assunto sempre na parte de cima e fora da legenda; o Groudon e o Kyogre inteiros, em dois blocos; trilha nova no clima do show, sem o som original, que daria bloqueio; sem efeito sonoro; pedaços curtos do show ao vivo; crédito pequeno no canto; sem regravar; a versão anterior saiu da fila de publicar; prazo 01/11)",
+   "etapa": "edição, refazendo pelo seu pedido de 27/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o assunto sempre na parte de cima e fora da legenda; o Groudon e o Kyogre inteiros, em dois blocos; a música espera a sua escolha (a do gerador do Mac não serviu), sem o som original, que daria bloqueio; sem efeito sonoro; pedaços curtos do show ao vivo; crédito pequeno no canto; sem regravar; a versão anterior saiu da fila de publicar; prazo 01/11)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Música do Short do show da Pokémon: eletrônica de festival da Biblioteca de Áudio do YouTube",
+   "etapa": "edição (a música do gerador do Mac você reprovou; o som do show não pode entrar, porque com ele o Short fica bloqueado; a eletrônica do acervo é a que você achou sem nada a ver com o show; a Biblioteca de Áudio do próprio YouTube tem música de festival liberada pra canal monetizado, sem risco de bloqueio; se aprovar, o Periscópio baixa 2 ou 3 opções e a Tesoura usa a que casa com a luta do Groudon e do Kyogre; se reprovar, diga o caminho)",
+   "responsavel": "Lente",
+   "falta_murilo": "aprovar esta música",
    "prazo": ""
   },
   {
@@ -2362,5 +2370,5 @@
    "prazo": ""
   }
  ],
- "gerado_em": "2026-10-27T11:37-03:00"
+ "gerado_em": "2026-10-28T01:16-03:00"
 }
