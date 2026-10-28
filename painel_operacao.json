@@ -1826,9 +1826,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "edição, refazendo pelo seu pedido de 28/10 (a imagem acompanha o que ele está fazendo e o machado aparece inteiro, com o quadro aberto em cima e o detalhe embaixo quando ele é largo demais; imagem em qualidade 4K; o gráfico de barras sai e entra o machado de verdade com o 8,5 kg; sem efeito sonoro; música mais baixa; crédito pequeno no canto; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 28/10 (a imagem acompanha o que ele faz e o machado aparece inteiro, imagem 4K, o machado de verdade com o 8,5 kg no lugar do gráfico de barras, sem efeito sonoro, música mais baixa, crédito pequeno no canto)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -2677,7 +2677,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-novo-v3-do-short-do-reaper-e-o-gas-esse-cara-criou-uma-arma-nova-dentro-d:aprovar-este-titulo"
+  },
+  {
+   "id": "p30",
+   "aberta_em": "2026-10-28T14:53-03:00",
+   "agente": "Tesoura",
+   "video": "Machado do Kratos v2",
+   "o_que": "assistir a v2 e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T14:05-03:00"
+ "gerado_em": "2026-10-28T14:53-03:00"
 }
