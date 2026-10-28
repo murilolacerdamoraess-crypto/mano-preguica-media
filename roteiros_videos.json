@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T14:07:06.814312Z",
+ "gerado_em": "2026-10-28T16:49:12.115426Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -395,16 +395,16 @@
   },
   {
    "arquivo": "short-25-reapers-sem-veiculo-faca.md",
-   "name": "SHORT - Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "titulo_roteiro": "SHORT: o gás que virou munição contra o Reaper",
-   "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon; pedido do Farol, R18). Versão 2 (25/10), depois da reprovação do Murilo e do C73 (tema repetido): deixou de ser mais um vídeo de matar leviatã na faca e vi",
-   "status": "roteiro aprovado (versão 2 aprovada pelo Murilo em 27/10; texto no Gravar)",
-   "gate": "versão 2: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
+   "name": "SHORT - Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "titulo_roteiro": "SHORT: a arma que ele inventou contra o Reaper",
+   "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon; pedido do Farol, R18). Versão 3 (28/10), ângulo novo pedido pelo Murilo: o gás como munição ele já fez no canal; o novo é a ferramenta que dispara o gás, o",
+   "status": "roteiro (aguardando aprovação)",
+   "gate": "versão 3: portão de fontes e de fluidez APROVADOS 2026-10-28; conferente separado e conferência dos erros repetidos rodados; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon), isca do longo dos 34 leviatãs",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "5G3XZEcnSzc"
   },
   {
@@ -465,16 +465,16 @@
   },
   {
    "arquivo": "short-base-todos-os-biomas-moon-pool.md",
-   "name": "SHORT - Ele construiu uma base só ligando todos os biomas do Subnautica, e travou o jogo a cada peça",
+   "name": "SHORT - Ele construiu uma base só ligando todos os biomas do Subnautica, e o jogo travava a cada corredor novo",
    "titulo_roteiro": "SHORT: a base por todos os biomas",
    "description": "Short do canal principal (pauta P65 do Sonar, Subnautica como base dos Shorts). O The Last Bacon viu a base mais alta da história do Subnautica, do Whalelol, e quis o recorde da maior ou pelo menos da mais longa: uma est",
    "status": "roteiro (aguardando aprovação)",
-   "gate": "versão 3: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
+   "gate": "versão 4: portão de fontes e de fluidez APROVADOS 2026-10-28; conferência dos erros repetidos rodada; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do The Last Bacon)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "w-jbCuIuh6c"
   },
   {
