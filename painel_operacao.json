@@ -1817,8 +1817,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele construiu uma base só ligando todos os biomas do Subnautica, e travou o jogo a cada peça",
-   "etapa": "roteiro (versão 3 aguardando aprovação, reescrita inteira pelo seu comentário: primeiro os observatórios em cada bioma, depois a base ligando um no outro; a base grande trava o jogo, os trechos chegam em alturas diferentes, e a Moonpool resolve as duas coisas; sem ziguezague, sem \"tecnicamente\" e sem \"garagem de veículos\"; não sai na mesma semana da base mais alta)",
+   "titulo": "Ele construiu uma base só ligando todos os biomas do Subnautica, e o jogo travava a cada corredor novo",
+   "etapa": "roteiro (versão 4 aguardando aprovação, sem a palavra \"peça\" que você achou esquisita em 28/10: cada coisa pelo nome no jogo, corredor, observatório e a Moonpool como a sala onde você estaciona o submarino; o resto igual à versão 3; não sai na mesma semana da base mais alta)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1881,10 +1881,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "etapa": "narração, texto no Gravar com 13 frases (versão 2 aprovada por você em 27/10; projeto short_gas_municao_reaper; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
+   "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "etapa": "roteiro (versão 3 aguardando aprovação, no ângulo que você pediu em 28/10: a ferramenta que ele normalmente nem usa, que puxa e arremessa as coisas, carregada com o gás do Gasopod vira uma arma que o jogo não te dá; a voz da versão 2 não vale mais; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": "30/10"
   },
   {
@@ -2641,5 +2641,5 @@
    "nota": "programado sáb 31/10 18:00, conferido no Studio"
   }
  ],
- "gerado_em": "2026-10-28T13:44-03:00"
+ "gerado_em": "2026-10-28T13:49-03:00"
 }
