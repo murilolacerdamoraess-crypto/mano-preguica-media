@@ -1938,9 +1938,9 @@
   {
    "tipo": "Longo",
    "titulo": "PokéBonk 2, o do Gengar (canal 2)",
-   "etapa": "rascunho pronto no canal 2 (studio.youtube.com/video/WbRVuO0FjwI/edit): vídeo processado em HD, descrição com 16 capítulos, 12 tags, monetização ativa e verificação sem problemas, tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 1 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, boneco do Gengar, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk\") já no rascunho; as 2 capas estão na tela Capas; data: qua 28/10 às 18h (PokéBonk dia sim, dia não desde o 1: PB2 qua 28, PB3 sex 30, PB4 dom 1/11, PB5 ter 3/11, intercalando com o cartucho na ter 27 e a Pokédex na qui 29)",
+   "etapa": "rascunho pronto no canal 2 (studio.youtube.com/video/WbRVuO0FjwI/edit): vídeo processado em HD, descrição com 16 capítulos, 12 tags, monetização ativa e verificação sem problemas, tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 1 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, boneco do Gengar, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk\") já no rascunho; capa escolhida (A, o Gengar gigante atrás de você, torcendo) já no rascunho; data: qua 28/10 às 18h (PokéBonk dia sim, dia não desde o 1: PB2 qua 28, PB3 sex 30, PB4 dom 1/11, PB5 ter 3/11, intercalando com o cartucho na ter 27 e a Pokédex na qui 29)",
    "responsavel": "Leme",
-   "falta_murilo": "escolher a capa na tela Capas",
+   "falta_murilo": "programar no Studio",
    "prazo": ""
   },
   {
@@ -2536,7 +2536,43 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:roteiro-viscerface-arvore-subnautica-2.md@v4"
+  },
+  {
+   "id": "p18",
+   "aberta_em": "2026-10-28T09:24-03:00",
+   "agente": "Leme",
+   "video": "PokéBonk 2, o do Gengar (canal 2)",
+   "o_que": "programar no Studio pra hoje, qua 28/10 às 18h",
+   "onde": "Studio",
+   "status": "aberta"
+  },
+  {
+   "id": "p19",
+   "aberta_em": "2026-10-28T09:24-03:00",
+   "agente": "Leme",
+   "video": "PokéBonk 3, o do Bellsprout (canal 2)",
+   "o_que": "escolher a capa",
+   "onde": "Capas",
+   "status": "aberta"
+  },
+  {
+   "id": "p20",
+   "aberta_em": "2026-10-28T09:24-03:00",
+   "agente": "Leme",
+   "video": "PokéBonk 4, o do Nidoking (canal 2)",
+   "o_que": "escolher a capa",
+   "onde": "Capas",
+   "status": "aberta"
+  },
+  {
+   "id": "p21",
+   "aberta_em": "2026-10-28T09:24-03:00",
+   "agente": "Leme",
+   "video": "PokéBonk 5, o do Marowak (canal 2)",
+   "o_que": "escolher a capa",
+   "onde": "Capas",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T09:22-03:00"
+ "gerado_em": "2026-10-28T09:24-03:00"
 }
