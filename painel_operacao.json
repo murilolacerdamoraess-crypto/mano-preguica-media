@@ -1858,9 +1858,9 @@
   {
    "tipo": "Short",
    "titulo": "Esses caras estão construindo o Batmóvel na vida real (canal 2)",
-   "etapa": "pronto pra publicar (vídeo v2 aprovado por você em 28/10; título aprovado em 27/10; a capa é o primeiro quadro do vídeo, a caminhonete batendo no muro com AGUENTA?; descrição, tags e produtos prontos)",
+   "etapa": "pronto pra publicar no canal 2 (studio.youtube.com/video/5VryqAW8h-4/edit; vídeo v2 aprovado no portão de áudio, -14 LUFS, 2:45; título aprovado; capa = primeiro quadro, a caminhonete batendo no muro com AGUENTA?; descrição sem créditos, 12 tags, jogo Batman: Arkham Knight, voz real sem marcação de IA, opções automáticas desligadas, adequação \"Nenhuma das opções\" e verificação sem problemas; 5 produtos na ordem: Hot Wheels do Batmóvel, R36S, LEGO 76331, Batmóvel de controle remoto, Meta Quest 3S; vídeo relacionado provisório no Short do cartucho até a Pokédex sair na qui 29/10, depois o Leme troca pra ela; a playlist Vídeos curtos entra depois de programado; a guia está aberta no Chrome do canal 2 parada no Programar com sáb 31/10 às 18h, o dia livre entre o PokéBonk 3 e o 4)",
    "responsavel": "Leme",
-   "falta_murilo": "",
+   "falta_murilo": "programar no Studio",
    "prazo": ""
   },
   {
@@ -2002,8 +2002,8 @@
  ],
  "navegador": [
   {
-   "tipo": "28/10",
-   "titulo": "ENVIO NO STUDIO DO BATMÓVEL v2 (#31), aprovado pelo Murilo 28/10 11:44 (recado do Claude Code). ESPERANDO o Anzol fechar capa e título. Depois: preparar o envio até a guia parada no Programar (o clique é do Murilo; nada publica entre 22h30 e 11h), relacionado, produtos, voz (real = Não, clonada = Sim), e abrir o item com pendencia.py. Atenção: o recado diz canal principal, mas os pedidos de capa de 26/10 diziam canal 2; confirmar o canal antes de subir. Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[28/10] ENVIO NO STUDIO DO BATMÓVEL v2 (#31)~~ CANCELADO (correção do Claude Code, 28/10): o Short é do canal 2 e o Leme já deixou pronto no Studio do canal 2 (5VryqAW8h-4, p26). Nada foi começado no canal principal. Pedido original:, aprovado pelo Murilo 28/10 11:44 (recado do Claude Code). ESPERANDO o Anzol fechar capa e título. Depois: preparar o envio até a guia parada no Programar (o clique é do Murilo; nada publica entre 22h30 e 11h), relacionado, produtos, voz (real = Não, clonada = Sim), e abrir o item com pendencia.py. Atenção: o recado diz canal principal, mas os pedidos de capa de 26/10 diziam canal 2; confirmar o canal antes de subir. Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2614,7 +2614,16 @@
    "o_que": "gravar 1 frase (a do peixe)",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p26",
+   "aberta_em": "2026-10-28T11:58-03:00",
+   "agente": "Leme",
+   "video": "Esses caras estão construindo o Batmóvel na vida real (canal 2)",
+   "o_que": "apertar Programar na guia aberta (sáb 31/10 às 18h)",
+   "onde": "Studio",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:50-03:00"
+ "gerado_em": "2026-10-28T11:59-03:00"
 }
