@@ -2410,6 +2410,73 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:musica-do-short-do-show-da-pokemon-eletronica-de-festival-da-biblioteca-de-audio:aprovar-esta-musica"
+  },
+  {
+   "id": "p5",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
+   "o_que": "gravar a voz",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p6",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
+   "o_que": "gravar a voz (prazo 30/10)",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p7",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "Short da ocarina do Zelda (canal 2)",
+   "o_que": "escolher a versão contada como história ou a de notícia",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:versao-do-short-da-ocarina-do-zelda-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2"
+  },
+  {
+   "id": "p8",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "Short da Pokébola de LEGO (canal 2)",
+   "o_que": "escolher a versão contada como história ou a de notícia",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:versao-do-short-da-pokebola-de-lego-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2"
+  },
+  {
+   "id": "p9",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "aprovar ou ajustar o roteiro (versão 5)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v5"
+  },
+  {
+   "id": "p10",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Arpão",
+   "video": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
+   "o_que": "aprovar ou ajustar o roteiro (versão 6)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:mp2-pote-zelda-quebra-de-verdade.md@v6"
+  },
+  {
+   "id": "p11",
+   "aberta_em": "2026-10-28T09:22-03:00",
+   "agente": "Farol",
+   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "o_que": "gravar a voz das 68 frases (o vídeo sai sexta 30/10)",
+   "onde": "Gravar",
+   "status": "aberta"
   }
  ],
  "gerado_em": "2026-10-28T09:22-03:00"
