@@ -2027,6 +2027,14 @@
  "navegador": [
   {
    "tipo": "28/10",
+   "titulo": "CAPA A DO POKÉBONK 4, A AVE E O FUNDO (pedido do Murilo no painel, 28/10 11:15: \"o articuno não ficou parecido e acho que o fundo tá muito parecido com a cor e tal e dá pouco contraste\"). Perfil mano, uma janela só, depois da capa B (mesma rodada). Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. O rosto, a pose dele, o controle e o bichinho rosa ficam iguais; mudam só a ave e o fundo.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "28/10",
    "titulo": "CAPA B DO POKÉBONK 4, SÓ O OLHAR (pedido do Murilo no painel, 28/10 14:11 UTC: \"ficou muito boa só que eu fiquei meio birolho/vesgo\"). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Pokebonk 4/`. Composição, monstro roxo, fundo e cores ficam iguais; muda só o olhar (os dois olhos retos pra câmera e pro mesmo lado).",
    "etapa": "",
    "responsavel": "",
@@ -2618,5 +2626,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T11:28-03:00"
+ "gerado_em": "2026-10-28T11:29-03:00"
 }
