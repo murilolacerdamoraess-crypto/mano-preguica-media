@@ -2686,7 +2686,16 @@
    "o_que": "assistir a v2 e aprovar ou pedir ajuste",
    "onde": "Assistir",
    "status": "aberta"
+  },
+  {
+   "id": "p31",
+   "aberta_em": "2026-10-28T15:22-03:00",
+   "agente": "Tesoura",
+   "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
+   "o_que": "assistir a versão nova e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-28T14:53-03:00"
+ "gerado_em": "2026-10-28T15:22-03:00"
 }
