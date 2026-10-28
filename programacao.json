@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27T13:55:13.042669-03:00",
+ "gerado_em": "2026-10-27T21:20:46.858128-03:00",
  "mes": {
   "postados": 28,
   "teto": 93,
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
-   "ultimo_post": "2026-10-24",
-   "dias_parado": 3,
+   "ultimo_post": "2026-10-27",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "6Syk3Iw5E0U",
-     "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração",
-     "quando": "2026-10-27T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "F3kaiclPuWw",
      "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween",
