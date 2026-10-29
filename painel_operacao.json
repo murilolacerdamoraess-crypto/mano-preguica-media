@@ -1513,34 +1513,18 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Versão do Short da ocarina do Zelda (opção 1): a aprovada, contada como história (canal 2)",
-   "etapa": "roteiro (versão 4 aguardando aprovação, contada como história: por que a ocarina importa, como sempre foi no botão, o microfone do Switch 2, a ocarina de verdade e a música que chama o cavalo; uns 1min30)",
+   "titulo": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, versão única no jeito de notícia: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo, com o microfone do Switch 2; uns 70 segundos; a contada como história foi arquivada em 29/10)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar esta versão ou a da opção 2",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Versão do Short da ocarina do Zelda (opção 2): no jeito de notícia (canal 2)",
-   "etapa": "roteiro (aguardando aprovação, no jeito de notícia: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo, com o microfone do Switch 2; uns 70 segundos; os dois títulos estão no topo)",
+   "titulo": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
+   "etapa": "roteiro (aguardando aprovação, versão única no jeito de notícia: o tamanho, a Pokébola abrindo, a batalha e o laboratório, e no fim como coube; uns 70 segundos; a contada como história foi arquivada em 29/10)",
    "responsavel": "Arpão",
-   "falta_murilo": "aprovar esta versão ou a da opção 1",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Versão do Short da Pokébola de LEGO (opção 1): a aprovada, contada como história (canal 2)",
-   "etapa": "roteiro (versão 4 aguardando aprovação, com o gancho novo que você aprovou: a batalha que não cabia vira a pergunta, e o fim mostra como coube na Pokébola que abre)",
-   "responsavel": "Arpão",
-   "falta_murilo": "aprovar esta versão ou a da opção 2",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Versão do Short da Pokébola de LEGO (opção 2): no jeito de notícia (canal 2)",
-   "etapa": "roteiro (aguardando aprovação, no jeito de notícia: o tamanho, a Pokébola abrindo, a batalha e o laboratório, e no fim como coube; uns 70 segundos)",
-   "responsavel": "Arpão",
-   "falta_murilo": "aprovar esta versão ou a da opção 1",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2446,8 +2430,10 @@
    "video": "Short da ocarina do Zelda (canal 2)",
    "o_que": "escolher a versão contada como história ou a de notícia",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:versao-do-short-da-ocarina-do-zelda-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2"
+   "status": "cancelada",
+   "chave": "peca:versao-do-short-da-ocarina-do-zelda-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2",
+   "fechada_em": "2026-10-29T00:44-03:00",
+   "nota": "29/10: o Murilo pediu pra não escolher; o Arpão ficou com a versão de notícia e arquivou a contada como história"
   },
   {
    "id": "p8",
@@ -2456,8 +2442,10 @@
    "video": "Short da Pokébola de LEGO (canal 2)",
    "o_que": "escolher a versão contada como história ou a de notícia",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:versao-do-short-da-pokebola-de-lego-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2"
+   "status": "cancelada",
+   "chave": "peca:versao-do-short-da-pokebola-de-lego-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2",
+   "fechada_em": "2026-10-29T00:44-03:00",
+   "nota": "29/10: o Murilo pediu pra não escolher; o Arpão ficou com a versão de notícia e arquivou a contada como história"
   },
   {
    "id": "p9",
@@ -2701,7 +2689,27 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1VkKIzRP5kFr1q9k0SI4GGoBcsVEbZ_5g"
+  },
+  {
+   "id": "p33",
+   "aberta_em": "2026-10-29T00:44-03:00",
+   "agente": "Arpão",
+   "video": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:mp2-ocarina-zelda-microfone-modo-noticia.md@v1"
+  },
+  {
+   "id": "p34",
+   "aberta_em": "2026-10-29T00:44-03:00",
+   "agente": "Arpão",
+   "video": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:mp2-pokebola-lego-abre-modo-noticia.md@v1"
   }
  ],
- "gerado_em": "2026-10-29T00:42-03:00"
+ "gerado_em": "2026-10-29T00:45-03:00"
 }
