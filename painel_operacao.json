@@ -2678,7 +2678,9 @@
    "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
    "o_que": "assistir a versão nova e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-29T19:27-03:00",
+   "nota": "assistiu às 19:17: APROVADO pra seguir (as notas viram regra de edição, sem refazer)"
   },
   {
    "id": "p32",
@@ -2721,5 +2723,5 @@
    "chave": "video:1mfev-MZsSJKrDxorWeXrdpz12lrqs_Os"
   }
  ],
- "gerado_em": "2026-10-29T18:31-03:00"
+ "gerado_em": "2026-10-29T19:27-03:00"
 }
