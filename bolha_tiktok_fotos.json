@@ -296,6 +296,10 @@
 {
 "t": 1793237758,
 "v": 251
+},
+{
+"t": 1793259876,
+"v": 251
 }
 ],
 "views": 251
@@ -713,7 +717,7 @@
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8701
+"views": 8703
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -1796,7 +1800,7 @@
 "v": 43500
 }
 ],
-"views": 43900
+"views": 44000
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -1996,6 +2000,10 @@
 },
 {
 "t": 1793237758,
+"v": 371
+},
+{
+"t": 1793259876,
 "v": 371
 }
 ],
@@ -2200,9 +2208,13 @@
 {
 "t": 1793252540,
 "v": 8214
+},
+{
+"t": 1793259876,
+"v": 8215
 }
 ],
-"views": 8214
+"views": 8215
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2271,9 +2283,13 @@
 {
 "t": 1793252540,
 "v": 6838
+},
+{
+"t": 1793259876,
+"v": 6867
 }
 ],
-"views": 6838
+"views": 6867
 }
 }
 }
