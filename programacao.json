@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-28T14:29:08.981868-03:00",
+ "gerado_em": "2026-10-28T21:21:00.178914-03:00",
  "mes": {
-  "postados": 28,
+  "postados": 29,
   "teto": 93,
-  "folga": 65
+  "folga": 64
  },
  "redes": {
   "tiktok": {
@@ -52,28 +52,24 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 27,
-   "ultimo_post": "2026-10-21",
-   "dias_parado": 7,
+   "na_fila": 26,
+   "ultimo_post": "2026-10-28",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "uPbMO5a3DLk",
-     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts",
+     "video_id": "WkcpDGnBaUc",
+     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
      "quando": "2026-10-29T20:00:00-03:00"
     },
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
      "quando": "2026-11-05T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "uPbMO5a3DLk",
-     "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #shorts"
-    },
     {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
@@ -81,6 +77,10 @@
     {
      "video_id": "X__XMvu7l6I",
      "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO"
+    },
+    {
+     "video_id": "EcQSPXWiEE8",
+     "titulo": "ACHARAM UMA CRIATURA ESCONDIDA NOS ARQUIVOS DE SUBNAUTICA 2 E ELA SÓ TEM DENTE"
     }
    ]
   }
