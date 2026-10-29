@@ -1882,9 +1882,9 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "edição, refazendo pelo seu pedido de 27/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o assunto sempre na parte de cima e fora da legenda; o Groudon e o Kyogre inteiros, em dois blocos; música eletrônica rápida das nossas do Eleven, já dentro do vídeo pra você julgar vendo; sem o som original, que daria bloqueio; sem efeito sonoro; pedaços curtos do show ao vivo; crédito pequeno no canto; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 29/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o Groudon e o Kyogre inteiros em dois blocos; música eletrônica rápida das nossas do Eleven, do começo ao fim, mais alta nos respiros e na luta dos lendários; sem efeito sonoro; 2:07)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a versão nova e aprovar ou pedir ajuste (a música vai junto)",
    "prazo": ""
   },
   {
@@ -2709,7 +2709,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:mp2-pokebola-lego-abre-modo-noticia.md@v1"
+  },
+  {
+   "id": "p35",
+   "aberta_em": "2026-10-29T01:04-03:00",
+   "agente": "Tesoura",
+   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+   "o_que": "assistir a versão nova (imagens da transmissão oficial e a música eletrônica do canal) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1mfev-MZsSJKrDxorWeXrdpz12lrqs_Os"
   }
  ],
- "gerado_em": "2026-10-29T00:45-03:00"
+ "gerado_em": "2026-10-29T01:05-03:00"
 }
