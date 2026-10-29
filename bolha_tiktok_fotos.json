@@ -653,7 +653,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1837
+"views": 1840
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -719,13 +719,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1214
+"views": 1215
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8718
+"views": 8722
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -749,7 +749,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3252
+"views": 3253
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1230,7 +1230,7 @@
 "v": 2752
 }
 ],
-"views": 3102
+"views": 3104
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1489,7 +1489,7 @@
 "v": 44800
 }
 ],
-"views": 45800
+"views": 45900
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1808,7 +1808,7 @@
 "v": 43500
 }
 ],
-"views": 44000
+"views": 44100
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -2256,9 +2256,13 @@
 {
 "t": 1793303740,
 "v": 8336
+},
+{
+"t": 1793311214,
+"v": 8377
 }
 ],
-"views": 8336
+"views": 8377
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2355,9 +2359,24 @@
 {
 "t": 1793303740,
 "v": 7560
+},
+{
+"t": 1793311214,
+"v": 7604
 }
 ],
-"views": 7560
+"views": 7604
+},
+"7702198101641104661": {
+"titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
+"ts": 1793307737,
+"fotos": [
+{
+"t": 1793311214,
+"v": 91
+}
+],
+"views": 91
 }
 }
 }
