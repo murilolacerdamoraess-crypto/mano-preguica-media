@@ -1826,9 +1826,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "edição, aplicando os seus ajustes de 29/10 (o machado pequeno no 3 kg e maior no 8,5 kg, o texto do peso mais claro, sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52)",
+   "etapa": "edição, versão nova entregue em 29/10 com todos os seus ajustes (o machado pequeno no 3 kg e grande no 8,5 kg, \"quase o triplo\", sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52)",
    "responsavel": "Tesoura",
-   "falta_murilo": "nada por enquanto",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -2770,7 +2770,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5"
+  },
+  {
+   "id": "p39",
+   "aberta_em": "2026-10-29T20:00-03:00",
+   "agente": "Tesoura",
+   "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
+   "o_que": "assistir a versão com todos os seus ajustes (o machado pequeno no 3 kg e grande no 8,5 kg, sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y"
   }
  ],
- "gerado_em": "2026-10-29T19:57-03:00"
+ "gerado_em": "2026-10-29T20:00-03:00"
 }
