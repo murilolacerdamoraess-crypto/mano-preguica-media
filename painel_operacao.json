@@ -1938,9 +1938,9 @@
   {
    "tipo": "Longo",
    "titulo": "PokéBonk 4, o do Nidoking (canal 2)",
-   "etapa": "rascunho pronto no canal 2 (studio.youtube.com/video/jX5ncEppSYs/edit): vídeo processado em HD, arquivo final de 62:57 aprovado no portão de áudio (-18,2 LUFS), descrição com 14 capítulos, 12 tags, monetização ativa e direitos autorais sem problema (a checagem de anúncios termina sozinha), tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 3 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, miniaturas de Nidoran, Nidorino e Nidoking, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Meu Nidoking ficou absurdo contra o lendário Articuno | PokéBonk\") já no rascunho; as 2 capas já estão na tela Capas (a: o Nidoran contra a ave de gelo; b: o Nidoking atrás de você, que casa com o título escolhido); data: dom 1/11 às 18h",
+   "etapa": "rascunho pronto no canal 2 (studio.youtube.com/video/jX5ncEppSYs/edit): vídeo processado em HD, arquivo final de 62:57 aprovado no portão de áudio (-18,2 LUFS), descrição com 14 capítulos, 12 tags, monetização ativa e direitos autorais sem problema (a checagem de anúncios termina sozinha), tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 3 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, miniaturas de Nidoran, Nidorino e Nidoking, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Meu Nidoking ficou absurdo contra o lendário Articuno | PokéBonk\") já no rascunho; capa escolhida (A nova, o Articuno enorme num fim de tarde laranja) no vídeo; a guia está aberta no Chrome do canal 2 parada no Programar com dom 1/11 às 18h; data: dom 1/11 às 18h",
    "responsavel": "Leme",
-   "falta_murilo": "escolher a capa na tela Capas",
+   "falta_murilo": "programar no Studio",
    "prazo": ""
   },
   {
@@ -2737,6 +2737,15 @@
    "chave": "video:1mfev-MZsSJKrDxorWeXrdpz12lrqs_Os",
    "fechada_em": "2026-10-29T19:35-03:00",
    "nota": "assistiu às 19:35; pediu os ajustes (vai pro principal)"
+  },
+  {
+   "id": "p36",
+   "aberta_em": "2026-10-29T19:39-03:00",
+   "agente": "Leme",
+   "video": "PokéBonk 4, o do Nidoking (canal 2)",
+   "o_que": "apertar Programar na guia aberta (dom 1/11 às 18h)",
+   "onde": "Studio",
+   "status": "aberta"
   }
  ],
  "gerado_em": "2026-10-29T19:39-03:00"
