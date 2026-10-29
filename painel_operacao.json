@@ -264,6 +264,22 @@
    "confianca": "forte no pedido (3 vezes, uma delas como ordem: \"antes de pautar, confira se ele já fez o mesmo\"), sem número de desempenho.",
    "status": "aguardando",
    "simples": "Antes de pautar ou escrever sobre um bicho ou truque que já apareceu no canal, quem escreve procura o vídeo antigo e põe na pauta uma linha \"o que é novo em relação a <vídeo antigo>\". No gás contra o Reaper, o vídeo antigo era \"o gasópode mata tudo\", e o novo é que o cara transformou a ferramenta do gás numa arma nova; é isso que abre o roteiro."
+  },
+  {
+   "id": "R34",
+   "titulo": "Imagem que não enche a tela vai sozinha no meio, sobre fundo preto ou bem desfocado; a cópia ampliada embaixo só entra quando mostra um detalhe que não se vê em cima.",
+   "onde": "skill edicao-video (montagem do Short vertical, ERROS.md), modelo da ordem da Lente e a conferência de quadros do vídeo pronto.",
+   "confianca": "forte no pedido (ele pediu pra transformar esses apontamentos em regra da edição: \"extraia as regras e guidelines [...] pra skill de edição\"), sem número de desempenho.",
+   "status": "aguardando",
+   "simples": "Quando a foto ou o vídeo não preenche a tela em pé, ele fica inteiro no meio e o resto é preto ou um desfoque tão forte que não dá pra reconhecer nada. Só vale repetir a mesma imagem ampliada embaixo se ela mostrar um detalhe novo, como os enfeites do cabo do machado que não dá pra ver na imagem inteira."
+  },
+  {
+   "id": "R35",
+   "titulo": "Quando a fala compara peso ou tamanho, a tela mostra o próprio objeto nas duas medidas, não o número escrito.",
+   "onde": "skill edicao-video (inserções e grafismos), modelo da ordem da Lente e skill shorts-roteirista (a marcação do que aparece na tela).",
+   "confianca": "forte no pedido (2 vezes no mesmo vídeo, a segunda dizendo o caminho certo), sem número de desempenho.",
+   "status": "aguardando",
+   "simples": "Se o roteiro diz que uma coisa ficou três vezes mais pesada ou maior, o vídeo mostra a mesma imagem dela pequena e depois grande, pra pessoa sentir a diferença. Nada de gráfico de barra nem de texto tipo \"3x os 3 kg\"."
   }
  ],
  "equipe": [
@@ -2723,5 +2739,5 @@
    "chave": "video:1mfev-MZsSJKrDxorWeXrdpz12lrqs_Os"
   }
  ],
- "gerado_em": "2026-10-29T19:27-03:00"
+ "gerado_em": "2026-10-29T19:28-03:00"
 }
