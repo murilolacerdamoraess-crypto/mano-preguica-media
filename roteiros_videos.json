@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-28T16:49:12.115426Z",
+ "gerado_em": "2026-10-29T03:45:41.862682Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -115,9 +115,9 @@
   },
   {
    "arquivo": "mp2-ocarina-zelda-microfone-modo-noticia.md",
-   "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (versão no MODO NOTÍCIA)",
+   "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo",
    "titulo_roteiro": "SHORT MP2: dá pra tocar uma ocarina de verdade no Zelda novo?",
-   "description": "Versão no MODO NOTÍCIA (R29, 24/10/2026) do Short da ocarina, pedida pelo Murilo pra comparar com a versão aprovada (mp2-ocarina-zelda-microfone.md, que continua valendo e não foi mexida). A demonstração do remake de Zel",
+   "description": "Short da ocarina no jeito de notícia (24/10/2026). Desde 29/10 é a única versão: a contada como história (mp2-ocarina-zelda-microfone.md) foi arquivada, porque o Murilo pediu pra não escolher entre as duas. A demonstraçã",
    "status": "roteiro (aguardando aprovação)",
    "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
    "video_id": null,
@@ -132,7 +132,7 @@
    "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo",
    "titulo_roteiro": "SHORT MP2: a ocarina de verdade que o Zelda novo escuta",
    "description": "Short do MP2 (pauta P19 do Sonar, aprovada pelo Murilo em 05/10; versão 4 pela regra \"MP2 também é história guiada\" de 18/10). Na demonstração do remake de Zelda Ocarina of Time pro Switch 2, o produtor da série, Eiji Ao",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "arquivado (29/10: o Murilo pediu pra não escolher entre versões; ficou a versão de notícia, mp2-ocarina-zelda-microfone-modo-noticia.md)",
    "gate": "versão 4 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -143,9 +143,9 @@
   },
   {
    "arquivo": "mp2-pokebola-lego-abre-modo-noticia.md",
-   "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (versão no MODO NOTÍCIA)",
+   "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro",
    "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
-   "description": "Versão no MODO NOTÍCIA (R29, 24/10/2026) do Short da Pokébola de LEGO, pedida pelo Murilo pra comparar com a versão aprovada (mp2-pokebola-lego-abre.md, que continua valendo e não foi mexida). O produto mostrado em sequê",
+   "description": "Short da Pokébola de LEGO no jeito de notícia (24/10/2026). Desde 29/10 é a única versão: a contada como história (mp2-pokebola-lego-abre.md) foi arquivada, porque o Murilo pediu pra não escolher entre as duas. O produto",
    "status": "roteiro (aguardando aprovação)",
    "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
    "video_id": null,
@@ -160,7 +160,7 @@
    "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro",
    "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
    "description": "Short do MP2 (pauta P20 do Sonar, aprovada pelo Murilo em 05/10; versão 3 pela regra \"MP2 também é história guiada\" de 18/10). A Pokébola de LEGO (set 72154, 22 cm, 2.386 peças) foi feita pra fã adulto expor, e a base fa",
-   "status": "roteiro (aguardando aprovação)",
+   "status": "arquivado (29/10: o Murilo pediu pra não escolher entre versões; ficou a versão de notícia, mp2-pokebola-lego-abre-modo-noticia.md)",
    "gate": "versão 3 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
