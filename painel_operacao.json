@@ -1826,9 +1826,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "embalagem, edição aprovada por você em 29/10 (a versão de 1:54 que está no Assistir; as suas notas viraram regra pros próximos vídeos, este fica como está)",
-   "responsavel": "Anzol",
-   "falta_murilo": "",
+   "etapa": "edição, aplicando os seus ajustes de 29/10 (o machado pequeno no 3 kg e maior no 8,5 kg, o texto do peso mais claro, sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "nada por enquanto",
    "prazo": ""
   },
   {
@@ -1993,6 +1993,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "",
+   "titulo": "~~[29/10] PUBLICAÇÃO DO SHORT DO MACHADO DO KRATOS (#32, canal principal)~~ PARADO a pedido (Claude Code, 29/10 ~20h: o Murilo pediu pra refazer com os ajustes). Ficou no Studio do principal o rascunho PRIVADO `erl46mmsOv0` (sem data, conferido pela API), com título do Anzol + #shorts, descrição (linha 1 + modelo + 🔑 + 🏷️), miniatura GPT 6 (jpg), não é para crianças, 12 tags, Jogos / God of War Ragnarök, promoção paga Não, uso de IA Não, Lugares e Conceitos desligados. NÃO feitos: relacionado (seguia Nenhum; o destino seria o longo do Blue Lock), produtos, playlist, Adequação, Visibilidade. Nenhum item aberto na lista. Quando vier a versão nova: trocar o vídeo (subir o novo com os mesmos dados e excluir este rascunho) e seguir o pacote do Anzol de 29/10.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "",
    "titulo": "~~[28/10] CAPA DO SHORT DO REAPER, RODADA 3~~ FEITA (Periscópio, 28/10, sem recusa): `CAPA REAPER - GPT 5.png` e `6` (ChatGPT, 941x1672, chat novo cada) e `CAPA REAPER - Flow 3.png` (Flow Nano Banana Pro, 768x1376, formato voltou pra 16:9), na pasta Reaper gas, sem tratar. SEM VEÍCULO com acento certo nas 3. Nas do GPT a ferramenta saiu mais clara que a do quadro e há duas luvas; na do Flow ela é cinza-escura com o painel azul, mais perto do quadro. Avisado o Anzol. Pedido original: [28/10] CAPA DO SHORT DO REAPER, RODADA 3 (PRIORIDADE: a isca sai antes de sex 30/10). Perfil mano, uma janela só. Pasta `Mano Preguica/_refs capa - Shorts 26-10/Reaper gas/`. O Short mudou de ângulo (Murilo, 28/10): agora é o canhão que arremessa, carregado com a bolsa de gás. A `CAPA REAPER - GPT 4` mostra o rifle branco que congela, que é outra ferramenta (erro do Anzol na ref de 27/10). Vertical 9:16, 1080x1920.",
@@ -2572,7 +2580,9 @@
    "video": "PokéBonk 4, o do Nidoking (canal 2)",
    "o_que": "escolher a capa",
    "onde": "Capas",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-29T19:37-03:00",
+   "nota": "escolheu a capa A (nova) às 19:35"
   },
   {
    "id": "p21",
@@ -2665,8 +2675,10 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "aprovar o título novo do Short (prazo 30/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-novo-v3-do-short-do-reaper-e-o-gas-esse-cara-criou-uma-arma-nova-dentro-d:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-novo-v3-do-short-do-reaper-e-o-gas-esse-cara-criou-uma-arma-nova-dentro-d:aprovar-este-titulo",
+   "fechada_em": "2026-10-29T19:37-03:00",
+   "nota": "aprovou o título v3 às 19:36"
   },
   {
    "id": "p30",
@@ -2735,5 +2747,5 @@
    "nota": "assistiu às 19:35; pediu os ajustes (vai pro principal)"
   }
  ],
- "gerado_em": "2026-10-29T19:35-03:00"
+ "gerado_em": "2026-10-29T19:37-03:00"
 }
