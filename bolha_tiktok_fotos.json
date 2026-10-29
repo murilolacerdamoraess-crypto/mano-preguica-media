@@ -300,6 +300,10 @@
 {
 "t": 1793259876,
 "v": 251
+},
+{
+"t": 1793281818,
+"v": 251
 }
 ],
 "views": 251
@@ -645,7 +649,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1815
+"views": 1817
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -693,7 +697,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 92000
+"views": 92100
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -711,7 +715,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1206
+"views": 1208
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -741,7 +745,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3237
+"views": 3241
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -759,7 +763,7 @@
 "titulo": "o pior susto da história do Subnautica 😱 #subnautica #subnautica2 #ga...",
 "ts": 1786568499,
 "fotos": [],
-"views": 140800
+"views": 140900
 },
 "7672185994828860679": {
 "titulo": "PORQUE NÃO TEM NINGUÉM VIVO EM SUBNAUTICA? 🪦 #Subnautica #games #game...",
@@ -1222,7 +1226,7 @@
 "v": 2752
 }
 ],
-"views": 3074
+"views": 3077
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2005,9 +2009,13 @@
 {
 "t": 1793259876,
 "v": 371
+},
+{
+"t": 1793281818,
+"v": 372
 }
 ],
-"views": 371
+"views": 372
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -2220,9 +2228,13 @@
 {
 "t": 1793274469,
 "v": 8240
+},
+{
+"t": 1793281818,
+"v": 8255
 }
 ],
-"views": 8240
+"views": 8255
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2303,9 +2315,13 @@
 {
 "t": 1793274469,
 "v": 7014
+},
+{
+"t": 1793281818,
+"v": 7149
 }
 ],
-"views": 7014
+"views": 7149
 }
 }
 }
