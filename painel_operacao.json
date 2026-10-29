@@ -2756,8 +2756,10 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "aprovar ou ajustar o roteiro (versão 6, sem a palavra armadura repetida)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v6"
+   "status": "cancelada",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v6",
+   "fechada_em": "2026-10-29T19:57-03:00",
+   "nota": "ele revisou a v5 às 19:47 e pediu ajuste; a versão nova (v7) volta como item novo"
   },
   {
    "id": "p38",
@@ -2770,5 +2772,5 @@
    "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5"
   }
  ],
- "gerado_em": "2026-10-29T19:44-03:00"
+ "gerado_em": "2026-10-29T19:57-03:00"
 }
