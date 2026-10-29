@@ -1818,7 +1818,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele construiu uma base só ligando todos os biomas do Subnautica, e o jogo travava a cada corredor novo",
-   "etapa": "roteiro (versão 4 aguardando aprovação, sem a palavra \"peça\" que você achou esquisita em 28/10: cada coisa pelo nome no jogo, corredor, observatório e a Moonpool como a sala onde você estaciona o submarino; o resto igual à versão 3; não sai na mesma semana da base mais alta)",
+   "etapa": "roteiro (versão 5 aguardando aprovação; a 5 só tira a Moonpool repetida em 4 frases seguidas, o resto igual à 4, sem a palavra \"peça\" que você achou esquisita em 28/10: cada coisa pelo nome no jogo, corredor, observatório e a Moonpool como a sala onde você estaciona o submarino; o resto igual à versão 3; não sai na mesma semana da base mais alta)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1834,7 +1834,7 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 5 aguardando aprovação, pelo seu comentário de 27/10: os blocos 1 a 3 ficaram iguais, o teste virou cena, com a armadura vazia antes, os botões e pra que servem, ele pendurado no suporte e o braço que travou, e o fim é ele suando lá dentro na hora do primeiro passo)",
+   "etapa": "roteiro (versão 6 aguardando aprovação; a 6 só tira 4 das 11 vezes que \"armadura\" aparecia, o resto igual à 5, pelo seu comentário de 27/10: os blocos 1 a 3 ficaram iguais, o teste virou cena, com a armadura vazia antes, os botões e pra que servem, ele pendurado no suporte e o braço que travou, e o fim é ele suando lá dentro na hora do primeiro passo)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -2462,8 +2462,9 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "aprovar ou ajustar o roteiro (versão 5)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v5"
+   "status": "feita",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v5",
+   "fechada_em": "2026-10-29T19:43-03:00"
   },
   {
    "id": "p10",
@@ -2657,8 +2658,9 @@
    "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
    "o_que": "aprovar ou ajustar o roteiro (versão 4, sem \"peça\")",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4"
+   "status": "feita",
+   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4",
+   "fechada_em": "2026-10-29T19:43-03:00"
   },
   {
    "id": "p29",
@@ -2746,7 +2748,27 @@
    "o_que": "apertar Programar na guia aberta (dom 1/11 às 18h)",
    "onde": "Studio",
    "status": "aberta"
+  },
+  {
+   "id": "p37",
+   "aberta_em": "2026-10-29T19:43-03:00",
+   "agente": "Arpão",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "aprovar ou ajustar o roteiro (versão 6, sem a palavra armadura repetida)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v6"
+  },
+  {
+   "id": "p38",
+   "aberta_em": "2026-10-29T19:43-03:00",
+   "agente": "Arpão",
+   "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
+   "o_que": "aprovar ou ajustar o roteiro (versão 5, sem a Moonpool repetida)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5"
   }
  ],
- "gerado_em": "2026-10-29T19:39-03:00"
+ "gerado_em": "2026-10-29T19:44-03:00"
 }
