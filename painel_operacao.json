@@ -1898,17 +1898,9 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "edição, refazendo pelo seu pedido de 27/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o assunto sempre na parte de cima e fora da legenda; o Groudon e o Kyogre inteiros, em dois blocos; a música espera a sua escolha (a do gerador do Mac não serviu), sem o som original, que daria bloqueio; sem efeito sonoro; pedaços curtos do show ao vivo; crédito pequeno no canto; sem regravar; a versão anterior saiu da fila de publicar; prazo 01/11)",
+   "etapa": "edição, refazendo pelo seu pedido de 27/10 (imagens da transmissão oficial em 1080p, com o bonequinho do Marshmello no Mewtwo; o assunto sempre na parte de cima e fora da legenda; o Groudon e o Kyogre inteiros, em dois blocos; música eletrônica rápida das nossas do Eleven, já dentro do vídeo pra você julgar vendo; sem o som original, que daria bloqueio; sem efeito sonoro; pedaços curtos do show ao vivo; crédito pequeno no canto; a versão anterior saiu da fila de publicar)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Música do Short do show da Pokémon: eletrônica de festival da Biblioteca de Áudio do YouTube",
-   "etapa": "edição (a música do gerador do Mac você reprovou; o som do show não pode entrar, porque com ele o Short fica bloqueado; a eletrônica do acervo é a que você achou sem nada a ver com o show; a Biblioteca de Áudio do próprio YouTube tem música de festival liberada pra canal monetizado, sem risco de bloqueio; se aprovar, o Periscópio baixa 2 ou 3 opções e a Tesoura usa a que casa com a luta do Groudon e do Kyogre; se reprovar, diga o caminho)",
-   "responsavel": "Lente",
-   "falta_murilo": "aprovar esta música",
    "prazo": ""
   },
   {
@@ -2422,8 +2414,10 @@
    "video": "Short do show da Pokémon",
    "o_que": "aprovar a música de festival da Biblioteca de Áudio do YouTube",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:musica-do-short-do-show-da-pokemon-eletronica-de-festival-da-biblioteca-de-audio:aprovar-esta-musica"
+   "status": "cancelada",
+   "chave": "peca:musica-do-short-do-show-da-pokemon-eletronica-de-festival-da-biblioteca-de-audio:aprovar-esta-musica",
+   "fechada_em": "2026-10-29T00:40-03:00",
+   "nota": "Murilo 29/10: não gosta da Biblioteca do YouTube e não tinha como ouvir; a Lente escolhe entre as trilhas do Eleven e ele julga vendo o vídeo"
   },
   {
    "id": "p5",
@@ -2709,5 +2703,5 @@
    "chave": "video:1VkKIzRP5kFr1q9k0SI4GGoBcsVEbZ_5g"
   }
  ],
- "gerado_em": "2026-10-28T15:41-03:00"
+ "gerado_em": "2026-10-29T00:42-03:00"
 }
