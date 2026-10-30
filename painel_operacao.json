@@ -3169,7 +3169,25 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM"
+  },
+  {
+   "id": "p67",
+   "aberta_em": "2026-10-30T09:46-03:00",
+   "agente": "Farol",
+   "video": "Glossário do Subnautica",
+   "o_que": "dizer como você fala 6 nomes que estão em dúvida: Kelp Forest (floresta de algas, bioma das algas ou zona de algas), Sea Emperor (Sea Emperor ou Imperatriz, e se é a ou o), os 2 desertos (deserto do Reaper e deserto vermelho), Mobile Vehicle Bay (baía de veículos, cais de veículos ou em inglês), dente de Stalker, e Blood Kelp, Grand Reef e Tree Cove (em inglês ou pelo que tem lá). Pode responder pro Maestro no chat.",
+   "onde": "Decidir",
+   "status": "aberta"
+  },
+  {
+   "id": "p68",
+   "aberta_em": "2026-10-30T09:46-03:00",
+   "agente": "Claude Code",
+   "video": "Plano da máquina de vídeos",
+   "o_que": "segunda 02/11: ler a revisão da semana 1 do plano (os 4 números: publicados contra a meta, aprovados de primeira, receita contra custo, seus minutos por vídeo, e o estoque do principal) e dizer se seguimos pra semana 2",
+   "onde": "Decidir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T09:44-03:00"
+ "gerado_em": "2026-10-30T09:46-03:00"
 }
