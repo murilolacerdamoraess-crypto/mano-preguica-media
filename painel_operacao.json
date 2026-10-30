@@ -2661,17 +2661,6 @@
    "nota": "gravou a frase do peixe em 29/10 à noite"
   },
   {
-   "id": "p26",
-   "aberta_em": "2026-10-28T11:58-03:00",
-   "agente": "Leme",
-   "video": "Esses caras estão construindo o Batmóvel na vida real (canal 2)",
-   "o_que": "apertar Programar na guia aberta (sáb 31/10 às 18h)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-10-28T13:11-03:00",
-   "nota": "programado sáb 31/10 18:00, conferido no Studio"
-  },
-  {
    "id": "p27",
    "aberta_em": "2026-10-28T13:53-03:00",
    "agente": "Arpão",
@@ -3142,5 +3131,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T12:20-03:00"
+ "gerado_em": "2026-10-30T13:20-03:00"
 }
