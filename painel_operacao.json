@@ -1818,7 +1818,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele construiu uma base só ligando todos os biomas do Subnautica, e o jogo travava a cada corredor novo",
-   "etapa": "roteiro (versão 5 aguardando aprovação; a 5 só tira a Moonpool repetida em 4 frases seguidas, o resto igual à 4, sem a palavra \"peça\" que você achou esquisita em 28/10: cada coisa pelo nome no jogo, corredor, observatório e a Moonpool como a sala onde você estaciona o submarino; o resto igual à versão 3; não sai na mesma semana da base mais alta)",
+   "etapa": "roteiro (versão 5 na fila, fora do Decidir até abrir vaga no teto de 5 (cedeu a vaga ao traje de FNAF, que tem prazo de Halloween); a 5 só tira a Moonpool repetida em 4 frases seguidas, o resto igual à 4, sem a palavra \"peça\" que você achou esquisita em 28/10: cada coisa pelo nome no jogo, corredor, observatório e a Moonpool como a sala onde você estaciona o submarino; o resto igual à versão 3; não sai na mesma semana da base mais alta)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -2780,8 +2780,10 @@
    "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
    "o_que": "aprovar ou ajustar o roteiro (versão 5, sem a Moonpool repetida)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5"
+   "status": "cancelada",
+   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5",
+   "fechada_em": "2026-10-29T21:02-03:00",
+   "nota": "29/10: a base cedeu a vaga do teto de 5 ao traje de FNAF (prazo de Halloween); volta quando abrir vaga"
   },
   {
    "id": "p39",
@@ -2804,5 +2806,5 @@
    "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
   }
  ],
- "gerado_em": "2026-10-29T21:01-03:00"
+ "gerado_em": "2026-10-29T21:02-03:00"
 }
