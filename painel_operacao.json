@@ -1464,7 +1464,7 @@
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "etapa": "roteiro (versão 2 em conferência antes de voltar pro Decidir: as correções que você fez em outros vídeos e o teste do leigo; antes era a versão 1) (passou na frente da fila por decisão sua; as 5 partidas, um Pokémon por mapa, o que cada derrota ensinou pra próxima e a torre do quinto andar vencida no fim; 12 a 14 min, canal principal, voz sua com as suas reações ao vivo)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "nada por enquanto (o roteiro volta pro Decidir quando passar na conferência)",
    "prazo": ""
   },
   {
@@ -1480,7 +1480,7 @@
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
    "etapa": "roteiro (versão 4 em conferência antes de voltar pro Decidir: as correções que você fez em outros vídeos e o teste do leigo; antes era a versão 3) com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a narração no painel até quinta 29/10",
+   "falta_murilo": "nada por enquanto (o roteiro volta pro Decidir quando passar na conferência)",
    "prazo": "04/11"
   },
   {
@@ -1606,7 +1606,7 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "roteiro (aguardando aprovação, versão 4, revisada contra os ajustes de 29/10 no lugar da versão 3: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e lâminas presas por um fio fino, e o teste no boneco de 3 mil dólares com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
+   "etapa": "roteiro (escrevendo a versão 4, conferência de qualidade antes de voltar pro Decidir; revisada contra os ajustes de 29/10: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e lâminas presas por um fio fino, e o teste no boneco de 3 mil dólares com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": "31/10 (Halloween)"
@@ -2887,8 +2887,10 @@
    "video": "Fizeram o traje de FNAF que esmaga quem veste",
    "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v4"
+   "status": "cancelada",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v4",
+   "fechada_em": "2026-10-29T23:01-03:00",
+   "nota": "volta depois do APROVADO PELO CRIVO (regra de 29/10)"
   }
  ],
  "gerado_em": "2026-10-29T23:01-03:00"
