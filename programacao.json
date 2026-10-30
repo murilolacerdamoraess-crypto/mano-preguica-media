@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T21:20:40.066344-03:00",
+ "gerado_em": "2026-10-30T03:05:55.412938-03:00",
  "mes": {
   "postados": 29,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
    "ultimo_post": "2026-10-29",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [
     {
@@ -36,7 +36,7 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 0,
    "ultimo_post": "2026-10-24",
-   "dias_parado": 5,
+   "dias_parado": 6,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -48,7 +48,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 26,
    "ultimo_post": "2026-10-28",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
@@ -56,6 +56,11 @@
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
      "quando": "2026-11-05T20:00:00-03:00"
+    },
+    {
+     "video_id": "X__XMvu7l6I",
+     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
+     "quando": "2026-11-12T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
