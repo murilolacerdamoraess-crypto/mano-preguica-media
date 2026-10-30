@@ -1606,9 +1606,9 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "roteiro (aguardando aprovação, versão 8, reescrita depois da sua reprovação de 29/10 e aprovada pelo controle de qualidade: sem tradução ao pé da letra, o metal agora é o nitinol, que você dobra e volta pro formato quando esquenta; o fim mostra que dessa vez era o traje do jogo de verdade e que ele nunca mais faz isso; Short normal, sem a data do Halloween; uns 3 min)",
+   "etapa": "narração, texto no Gravar com 21 frases (roteiro aprovado em 30/10, versão 8; Short normal, sem a data do Halloween; uns 3 min)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -3040,7 +3040,17 @@
    "o_que": "gravar a voz das 56 frases",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p58",
+   "aberta_em": "2026-10-30T01:23-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "o_que": "gravar a voz das 21 frases",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_traje_fnaf_boneco"
   }
  ],
- "gerado_em": "2026-10-30T01:21-03:00"
+ "gerado_em": "2026-10-30T01:24-03:00"
 }
