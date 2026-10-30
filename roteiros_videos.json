@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T02:05:49.556422Z",
+ "gerado_em": "2026-10-30T02:10:00.861948Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1154,13 +1154,13 @@
    "name": "SHORT - Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "titulo_roteiro": "SHORT: o traje de FNAF que fecha em quem veste",
    "description": "Short de uns 2 minutos e 40 (pauta P41 do Sonar, 18/10, família \"impossível com as próprias mãos\", Halloween). O JLaservideo já tinha um traje de aranha que aperta sozinho e, de tanto pedido dos fãs, passou meses constru",
-   "status": "roteiro (escrevendo a versão 5, devolvida pelo Crivo em 29/10)",
+   "status": "roteiro (aguardando aprovação)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "npUTv0xltTM"
   },
   {
