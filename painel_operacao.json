@@ -1902,9 +1902,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "etapa": "edição, versão nova em produção (você reprovou a anterior em 30/10 só pelo trecho da vitória: o letreiro e os frascos em cartão saem, a luta final fica rolando no quadro padrão, e os números vão pra legenda)",
+   "etapa": "edição, versão 6 entregue em 30/10 14:23 pra você assistir (a luta final rola no quadro padrão até o fim, com o letreiro do próprio jogo; os números ficam na legenda)",
    "responsavel": "Tesoura",
-   "falta_murilo": "nada até a versão nova chegar",
+   "falta_murilo": "assistir a versão 6 e aprovar",
    "prazo": ""
   },
   {
@@ -3106,7 +3106,17 @@
    "o_que": "segunda 02/11: ler a revisão da semana 1 do plano (os 4 números: publicados contra a meta, aprovados de primeira, receita contra custo, seus minutos por vídeo, e o estoque do principal) e dizer se seguimos pra semana 2",
    "onde": "Decidir",
    "status": "aberta"
+  },
+  {
+   "id": "p69",
+   "aberta_em": "2026-10-30T14:39-03:00",
+   "agente": "Tesoura",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "o_que": "assistir a versão 6 e aprovar: de 2:07 até o fim a luta segue rolando no quadro de sempre (o jogo em cima, ela embaixo), sem a animação de 2:24, e os números (15 h, os frascos) ficam só na legenda",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE"
   }
  ],
- "gerado_em": "2026-10-30T13:51-03:00"
+ "gerado_em": "2026-10-30T14:40-03:00"
 }
