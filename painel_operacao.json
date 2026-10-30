@@ -1838,7 +1838,7 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 7 aguardando aprovação, feita em cima da 5 com o seu review de 29/10 ponto por ponto: o que a armadura é antes do peso, pra que serve o metal, uma explicação por vez no teste, sem o botão solto, sem tato e o suporte no seu caminho; primeiro roteiro com o teste do leigo)",
+   "etapa": "roteiro (versão 7 no Crivo, volta pro Decidir quando ele aprovar; feita em cima da 5 com o seu review de 29/10 ponto por ponto: o que a armadura é antes do peso, pra que serve o metal, uma explicação por vez no teste, sem o botão solto, sem tato e o suporte no seu caminho; primeiro roteiro com o teste do leigo)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -1878,7 +1878,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "roteiro (versão 4 aguardando aprovação (a 4 só corrige o que repetia erro do Fallout: a bolsa sem explicação dentro da explicação, o canhão sem lista e a contradição de quando a bolsa explode; o resto igual à 3), no ângulo que você pediu em 28/10: a ferramenta que ele normalmente nem usa, que puxa e arremessa as coisas, carregada com o gás do Gasopod vira uma arma que o jogo não te dá; a voz da versão 2 não vale mais; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
+   "etapa": "roteiro (versão 4 no Crivo, volta pro Decidir quando ele aprovar (a 4 só corrige o que repetia erro do Fallout: a bolsa sem explicação dentro da explicação, o canhão sem lista e a contradição de quando a bolsa explode; o resto igual à 3), no ângulo que você pediu em 28/10: a ferramenta que ele normalmente nem usa, que puxa e arremessa as coisas, carregada com o gás do Gasopod vira uma arma que o jogo não te dá; a voz da versão 2 não vale mais; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "30/10"
@@ -2899,5 +2899,5 @@
    "nota": "volta depois do APROVADO PELO CRIVO (regra de 29/10)"
   }
  ],
- "gerado_em": "2026-10-29T23:03-03:00"
+ "gerado_em": "2026-10-29T23:04-03:00"
 }
