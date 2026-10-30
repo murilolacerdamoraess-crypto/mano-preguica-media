@@ -661,7 +661,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1848
+"views": 1849
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -691,7 +691,7 @@
 "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2 #subnauti...",
 "ts": 1790197323,
 "fotos": [],
-"views": 832
+"views": 834
 },
 "7688096735213784341": {
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
@@ -709,7 +709,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 92700
+"views": 92800
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -727,13 +727,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1223
+"views": 1225
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8736
+"views": 8750
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -757,7 +757,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3269
+"views": 3271
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1238,7 +1238,7 @@
 "v": 2752
 }
 ],
-"views": 3138
+"views": 3140
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2049,9 +2049,13 @@
 {
 "t": 1793340774,
 "v": 384
+},
+{
+"t": 1793362650,
+"v": 387
 }
 ],
-"views": 384
+"views": 387
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -2308,9 +2312,13 @@
 {
 "t": 1793355416,
 "v": 8616
+},
+{
+"t": 1793362650,
+"v": 8636
 }
 ],
-"views": 8616
+"views": 8636
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2435,9 +2443,13 @@
 {
 "t": 1793355416,
 "v": 7816
+},
+{
+"t": 1793362650,
+"v": 7851
 }
 ],
-"views": 7816
+"views": 7851
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2462,9 +2474,13 @@
 {
 "t": 1793340774,
 "v": 126
+},
+{
+"t": 1793362650,
+"v": 130
 }
 ],
-"views": 126
+"views": 130
 }
 }
 }
