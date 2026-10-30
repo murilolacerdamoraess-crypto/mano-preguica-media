@@ -2995,7 +2995,9 @@
    "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
    "o_que": "Apertar Programar na guia aberta do Studio (sábado 31/10 às 18h; Content ID limpo).",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-30T01:09-03:00",
+   "nota": "programado por ele pra sáb 31/10 18:00"
   },
   {
    "id": "p55",
@@ -3008,5 +3010,5 @@
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7"
   }
  ],
- "gerado_em": "2026-10-30T01:05-03:00"
+ "gerado_em": "2026-10-30T01:09-03:00"
 }
