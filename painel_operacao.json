@@ -2507,7 +2507,9 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "gravar a voz das 68 frases (o vídeo sai sexta 30/10)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-30T01:12-03:00",
+   "nota": "gravou os 34 leviatãs em 29-30/10 (pulou de propósito 5.11 e 6.8)"
   },
   {
    "id": "p12",
@@ -2516,7 +2518,9 @@
    "video": "Stonewards em dupla",
    "o_que": "gravar do trecho 38 ao 121 e regravar o 25",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-30T01:12-03:00",
+   "nota": "gravou o Stonewards em 30/10"
   },
   {
    "id": "p13",
@@ -3010,5 +3014,5 @@
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7"
   }
  ],
- "gerado_em": "2026-10-30T01:11-03:00"
+ "gerado_em": "2026-10-30T01:12-03:00"
 }
