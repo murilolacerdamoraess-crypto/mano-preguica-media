@@ -1,6 +1,6 @@
 {
  "_leia": "Gerado por scripts/bolha_tiktok.py (Sextante). O painel mostra na tela Resultado e em /bolha.",
- "gerado_em": "2026-10-29T19:00-03:00",
+ "gerado_em": "2026-10-29T21:04-03:00",
  "pedido": "Furar a bolha no TikTok: achar fora do Subnautica o que performa tão bem quanto ele (Murilo, 14/10/2026).",
  "como_ler": [
   "Cada teste é medido no mesmo prazo: 48 horas e 7 dias depois de publicar. O que vale pro veredito é o de 7 dias.",
@@ -17,10 +17,10 @@
    "como": "mediana dos 7 últimos TikToks fora do teste, em views com 48h"
   },
   "7d": {
-   "valor": 19920,
-   "n": 6,
+   "valor": 2606,
+   "n": 7,
    "provisoria": false,
-   "como": "mediana dos 6 últimos TikToks fora do teste, em views com 7d"
+   "como": "mediana dos 7 últimos TikToks fora do teste, em views com 7d"
   }
  },
  "subnautica_referencia": "Subnautica criatura no TikTok: 308 mil (Reaper maior), 139 mil (pior susto), 83 mil (Gargantuan), 32 mil (buraco da lava).",
@@ -121,7 +121,7 @@
      "tiktok_id": "7696260761991105800",
      "link": "https://www.tiktok.com/@manopreguica/video/7696260761991105800",
      "publicado": "13/10 18:02",
-     "horas_no_ar": 385,
+     "horas_no_ar": 387,
      "titulo_tiktok": "os jogos de terror mais jogados da steam de 2015 até hoje, mês a mês ...",
      "agora": {
       "views": 251,
@@ -140,8 +140,8 @@
      "7d": {
       "views": 238,
       "como": "estimado entre duas leituras",
-      "regua": 19920,
-      "x": 0.01,
+      "regua": 2606,
+      "x": 0.09,
       "faixa": "não pegou"
      }
     },
