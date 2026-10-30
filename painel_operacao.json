@@ -270,7 +270,7 @@
    "titulo": "Imagem que não enche a tela vai sozinha no meio, sobre fundo preto ou bem desfocado; a cópia ampliada embaixo só entra quando mostra um detalhe que não se vê em cima.",
    "onde": "skill edicao-video (montagem do Short vertical, ERROS.md), modelo da ordem da Lente e a conferência de quadros do vídeo pronto.",
    "confianca": "forte no pedido (ele pediu pra transformar esses apontamentos em regra da edição: \"extraia as regras e guidelines [...] pra skill de edição\"), sem número de desempenho.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-29 (dito direto por ele no review do machado; pela rotina nova das Considerações, o que ele diz direto vale como decisão: entrou na skill edicao-video, seção \"Ditas pelo Murilo nos vídeos prontos de 29/10\")",
    "simples": "Quando a foto ou o vídeo não preenche a tela em pé, ele fica inteiro no meio e o resto é preto ou um desfoque tão forte que não dá pra reconhecer nada. Só vale repetir a mesma imagem ampliada embaixo se ela mostrar um detalhe novo, como os enfeites do cabo do machado que não dá pra ver na imagem inteira."
   },
   {
@@ -278,7 +278,7 @@
    "titulo": "Quando a fala compara peso ou tamanho, a tela mostra o próprio objeto nas duas medidas, não o número escrito.",
    "onde": "skill edicao-video (inserções e grafismos), modelo da ordem da Lente e skill shorts-roteirista (a marcação do que aparece na tela).",
    "confianca": "forte no pedido (2 vezes no mesmo vídeo, a segunda dizendo o caminho certo), sem número de desempenho.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-29 (dito direto por ele no review do machado; pela rotina nova das Considerações, o que ele diz direto vale como decisão: entrou na skill edicao-video, seção \"Ditas pelo Murilo nos vídeos prontos de 29/10\")",
    "simples": "Se o roteiro diz que uma coisa ficou três vezes mais pesada ou maior, o vídeo mostra a mesma imagem dela pequena e depois grande, pra pessoa sentir a diferença. Nada de gráfico de barra nem de texto tipo \"3x os 3 kg\"."
   }
  ],
@@ -2828,5 +2828,5 @@
    "chave": "video:1p3EnxzCnYtJi5y1fRApIv0YJTgVwVfi7"
   }
  ],
- "gerado_em": "2026-10-29T21:47-03:00"
+ "gerado_em": "2026-10-29T21:51-03:00"
 }
