@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T01:34:52.801436Z",
+ "gerado_em": "2026-10-30T01:55:05.066669Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -188,7 +188,7 @@
    "name": "SHORT MP2 - Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
    "titulo_roteiro": "SHORT MP2: o PS2 quebrado que virou portátil",
    "description": "Short do MP2 (pauta P45 do Sonar). O James pegou um PS2 quebrado, que não lia disco, e decidiu fazer dele um portátil que roda o disco original. Pra rodar o disco, o leitor tinha que voltar: ele regulou com um programa p",
-   "status": "roteiro aprovado (versão 5 aprovada pelo Murilo em 25/10; texto no Gravar)",
+   "status": "gravado (voz gravada pelo Murilo em 29/10; a fala final é a gravada)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
