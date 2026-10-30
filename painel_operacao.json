@@ -1606,7 +1606,7 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "roteiro (escrevendo a versão 4, conferência de qualidade antes de voltar pro Decidir; revisada contra os ajustes de 29/10: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e lâminas presas por um fio fino, e o teste no boneco de 3 mil dólares com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
+   "etapa": "roteiro (aguardando aprovação, versão 6, aprovada pelo controle de qualidade: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo porque queimava e dava choque, a segunda versão só com molas e lâminas afiadas como no jogo, e o teste no boneco de 3 mil dólares com osso e órgão; no fim ele espera ter feito o traje do jeito que os fãs queriam e diz que nunca mais faz isso; tem sangue verde falso; uns 2 min e 40)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": "31/10 (Halloween)"
@@ -2897,7 +2897,17 @@
    "chave": "roteiro:short-traje-fnaf-springlock.md@v4",
    "fechada_em": "2026-10-29T23:01-03:00",
    "nota": "volta depois do APROVADO PELO CRIVO (regra de 29/10)"
+  },
+  {
+   "id": "p46",
+   "aberta_em": "2026-10-29T23:09-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste",
+   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v6"
   }
  ],
- "gerado_em": "2026-10-29T23:04-03:00"
+ "gerado_em": "2026-10-29T23:10-03:00"
 }
