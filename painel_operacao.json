@@ -3137,7 +3137,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-short-da-armadura-do-fallout-esses-caras-estao-construindo-a-armadura-:aprovar-este-titulo"
+  },
+  {
+   "id": "p63",
+   "aberta_em": "2026-10-30T01:42-03:00",
+   "agente": "Tesoura",
+   "video": "Como o Reaper caça em 5 passos",
+   "o_que": "regravar só a frase do peixe (trecho p12, texto novo sem repetir peixe)",
+   "onde": "Gravar",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T01:40-03:00"
+ "gerado_em": "2026-10-30T01:42-03:00"
 }
