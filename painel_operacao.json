@@ -1986,6 +1986,14 @@
  ],
  "navegador": [
   {
+   "tipo": "30/10, A PARTIR DAS 11h",
+   "titulo": "MACHADO DO KRATOS v3 (#32, canal principal): só falta a Visibilidade. Rascunho NOVO `PBw5xlifJpM` (privado, processado) pronto e relido depois de recarregar: título do Anzol + #shorts, descrição, miniatura GPT 6, 12 tags, Jogos / God of War Ragnarök, não é para crianças, promoção paga Não, uso de IA Não, Lugares e Conceitos desligados, playlist VIDEOS CURTOS, relacionado = longo do Blue Lock (24h pra ser o egoísta...), 5 produtos na ordem da Vitrine (chaveiro PS5, R36S 64GB Shopee, Jogo God of War, Funko Kratos 269, Quest 3S Shopee), Adequação ENVIADA com \"Nenhuma das opções\" (OK do Murilo 29/10). Falta: lista > linha do PBw5xlifJpM (achar pelo id no HTML, os 2 rascunhos têm o mesmo título) > Editar rascunho > Elementos e Verificação > Visibilidade > Programar com `programar_data.sh` sex 30/10 18:00, PARAR sem clicar, abrir `pendencia.py abrir --agente Periscópio --video \"Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar\" --o-que \"apertar Programar na guia aberta (sexta 30/10 às 18h)\" --onde Studio` e avisar o Claude Code. Parou às 22h49 de 29/10 pela janela das 22h30. O rascunho antigo `erl46mmsOv0` fica intocado (o Claude Code pede ao Murilo). Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "29/10",
    "titulo": "PUBLICAÇÃO DO SHORT DO MACHADO DO KRATOS v3 (#32, canal PRINCIPAL), APROVADO pelo Murilo às 22:24 (recado do Claude Code). Arquivo final: Meu Drive `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta forjando o machado do Kratos, so que ele precisa funcionar.mp4` (Drive id 1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y, 1:54, 122 MB, de 29/10 19:59; no Mac: ~/Library/CloudStorage/GoogleDrive-manopreguicacontato@gmail.com/Meu Drive/VIDEOS/00 - PRONTOS PRA PUBLICAR/). O rascunho PRIVADO `erl46mmsOv0` do Studio tem o vídeo ANTIGO (v2): troque o vídeo por este ou suba de novo com o mesmo título e descrição do Anzol. Janela: nada entre 22h30 e 11h (agendar a partir de 30/10 11h, no horário que o Anzol/Leme indicar). Quem faz: Periscópio (pedido da Tesoura).",
    "etapa": "",
@@ -2873,5 +2881,5 @@
    "chave": "roteiro:short-traje-fnaf-springlock.md@v4"
   }
  ],
- "gerado_em": "2026-10-29T22:36-03:00"
+ "gerado_em": "2026-10-29T22:50-03:00"
 }
