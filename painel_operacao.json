@@ -1462,7 +1462,7 @@
   {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "etapa": "roteiro aguardando aprovação, versão 1 (passou na frente da fila por decisão sua; as 5 partidas, um Pokémon por mapa, o que cada derrota ensinou pra próxima e a torre do quinto andar vencida no fim; 12 a 14 min, canal principal, voz sua com as suas reações ao vivo)",
+   "etapa": "roteiro (versão 2 em conferência antes de voltar pro Decidir: as correções que você fez em outros vídeos e o teste do leigo; antes era a versão 1) (passou na frente da fila por decisão sua; as 5 partidas, um Pokémon por mapa, o que cada derrota ensinou pra próxima e a torre do quinto andar vencida no fim; 12 a 14 min, canal principal, voz sua com as suas reações ao vivo)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -1478,7 +1478,7 @@
   {
    "tipo": "Longo",
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro aguardando aprovação, versão 3 com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
+   "etapa": "roteiro (versão 4 em conferência antes de voltar pro Decidir: as correções que você fez em outros vídeos e o teste do leigo; antes era a versão 3) com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
    "falta_murilo": "gravar a narração no painel até quinta 29/10",
    "prazo": "04/11"
@@ -2525,8 +2525,10 @@
    "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "o_que": "aprovar o roteiro",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md"
+   "status": "cancelada",
+   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md",
+   "fechada_em": "2026-10-29T23:01-03:00",
+   "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
   },
   {
    "id": "p14",
@@ -2547,8 +2549,10 @@
    "video": "Ela zerou o Subnautica antes da Aurora explodir",
    "o_que": "aprovar o roteiro",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v3"
+   "status": "cancelada",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v3",
+   "fechada_em": "2026-10-29T23:01-03:00",
+   "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
   },
   {
    "id": "p16",
@@ -2887,5 +2891,5 @@
    "chave": "roteiro:short-traje-fnaf-springlock.md@v4"
   }
  ],
- "gerado_em": "2026-10-29T23:00-03:00"
+ "gerado_em": "2026-10-29T23:01-03:00"
 }
