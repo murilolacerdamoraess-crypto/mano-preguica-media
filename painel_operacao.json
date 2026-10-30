@@ -1454,9 +1454,9 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos",
-   "etapa": "edição, versão nova entregue em 30/10 (a frase nova do peixe sem repetir 'peixe', a câmera de lado na caça, o bônus com o Seamoth e o peixe; 1:50)",
+   "etapa": "gravação, regravar só a frase do peixe no bônus (30/10: o \"peixe\" 2x voltou e o corte na edição comia palavra; texto novo no Gravar, \"ele acaba pegando a isca ao invés de te pegar\"; imagem e som já aprovados pelo Crivo; com o take novo a Tesoura troca o áudio e o Crivo confere só o bônus)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir a versão nova e aprovar",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -3148,5 +3148,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T01:42-03:00"
+ "gerado_em": "2026-10-30T01:43-03:00"
 }
