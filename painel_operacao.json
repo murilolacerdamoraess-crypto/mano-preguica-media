@@ -1826,9 +1826,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "edição, versão nova entregue em 29/10 com todos os seus ajustes (o machado pequeno no 3 kg e grande no 8,5 kg, \"quase o triplo\", sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir a versão nova e aprovar",
+   "etapa": "embalagem, edição aprovada por você em 29/10 às 22:24 (a versão com os seus ajustes); publicação no canal principal com o Periscópio, a partir de 30/10 11h",
+   "responsavel": "Periscópio",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -1985,6 +1985,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "29/10",
+   "titulo": "PUBLICAÇÃO DO SHORT DO MACHADO DO KRATOS v3 (#32, canal PRINCIPAL), APROVADO pelo Murilo às 22:24 (recado do Claude Code). Arquivo final: Meu Drive `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta forjando o machado do Kratos, so que ele precisa funcionar.mp4` (Drive id 1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y, 1:54, 122 MB, de 29/10 19:59; no Mac: ~/Library/CloudStorage/GoogleDrive-manopreguicacontato@gmail.com/Meu Drive/VIDEOS/00 - PRONTOS PRA PUBLICAR/). O rascunho PRIVADO `erl46mmsOv0` do Studio tem o vídeo ANTIGO (v2): troque o vídeo por este ou suba de novo com o mesmo título e descrição do Anzol. Janela: nada entre 22h30 e 11h (agendar a partir de 30/10 11h, no horário que o Anzol/Leme indicar). Quem faz: Periscópio (pedido da Tesoura).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "",
    "titulo": "~~[29/10] PUBLICAÇÃO DO SHORT DO MACHADO DO KRATOS (#32, canal principal)~~ PARADO a pedido (Claude Code, 29/10 ~20h: o Murilo pediu pra refazer com os ajustes). Ficou no Studio do principal o rascunho PRIVADO `erl46mmsOv0` (sem data, conferido pela API), com título do Anzol + #shorts, descrição (linha 1 + modelo + 🔑 + 🏷️), miniatura GPT 6 (jpg), não é para crianças, 12 tags, Jogos / God of War Ragnarök, promoção paga Não, uso de IA Não, Lugares e Conceitos desligados. NÃO feitos: relacionado (seguia Nenhum; o destino seria o longo do Blue Lock), produtos, playlist, Adequação, Visibilidade. Nenhum item aberto na lista. Quando vier a versão nova: trocar o vídeo (subir o novo com os mesmos dados e excluir este rascunho) e seguir o pacote do Anzol de 29/10.",
@@ -2842,5 +2850,5 @@
    "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO"
   }
  ],
- "gerado_em": "2026-10-29T22:29-03:00"
+ "gerado_em": "2026-10-29T22:30-03:00"
 }
