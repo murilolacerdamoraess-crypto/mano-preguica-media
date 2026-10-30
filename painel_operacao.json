@@ -1854,9 +1854,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "etapa": "edição, refazendo pelas suas notas de 29/10, porque vai pro canal principal (ela aparece uma vez só, no maior zoom; no \"nível 1\" o personagem dela grande; a vida da Malenia em cima e a do personagem embaixo; o zoom no tapete entra uma vez e não volta; as 553 tentativas com a gameplay rolando; sem música na piada; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 30/10 com os seus 6 ajustes (a câmera dela inteira sem repetir a perna, o personagem dela grande no nível 1, a vida do chefe em cima e a do personagem embaixo, o tapete sem resetar o zoom, só a gameplay nas 553 tentativas, sem a música da piada; 2:38)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -3157,7 +3157,17 @@
    "o_que": "gravar a voz das 81 frases (o vídeo é de 04/11)",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p65",
+   "aberta_em": "2026-10-30T01:49-03:00",
+   "agente": "Tesoura",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "o_que": "assistir a versão com os seus 6 ajustes (a câmera dela inteira sem repetir a perna, o personagem dela grande no nível 1, a vida do chefe em cima, o tapete sem resetar o zoom, só a gameplay nas 553 tentativas, sem a música da piada) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1w4mBzKopGBA6fquwBuEEfOOLYP0wMZqO"
   }
  ],
- "gerado_em": "2026-10-30T01:48-03:00"
+ "gerado_em": "2026-10-30T01:51-03:00"
 }
