@@ -2464,18 +2464,6 @@
  ],
  "pendencias": [
   {
-   "id": "p3",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Anzol",
-   "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "o_que": "aprovar o título do Short",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "peca:titulo-do-short-do-reaper-e-o-gas-ele-usou-o-gas-de-um-bicho-do-subnautica-como-:aprovar-este-titulo",
-   "fechada_em": "2026-10-28T13:43-03:00",
-   "nota": "título muda com o ângulo novo (arma nova criada no jogo)"
-  },
-  {
    "id": "p4",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Lente",
@@ -2497,17 +2485,6 @@
    "status": "feita",
    "fechada_em": "2026-10-29T22:54-03:00",
    "nota": "gravou as 17 frases em 29/10 à noite, com ajustes na hora; algumas são áudio vazio onde a frase ficou obsoleta"
-  },
-  {
-   "id": "p6",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "Ele usou o gás de um bicho do Subnautica como munição contra o Reaper",
-   "o_que": "gravar a voz (prazo 30/10)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "fechada_em": "2026-10-28T13:43-03:00",
-   "nota": "Murilo pediu outro ângulo em 28/10 (a ferramenta que dispara o gás, arma nova); a voz volta com o roteiro novo"
   },
   {
    "id": "p7",
@@ -3131,5 +3108,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T13:20-03:00"
+ "gerado_em": "2026-10-30T13:51-03:00"
 }
