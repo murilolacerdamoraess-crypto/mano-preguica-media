@@ -695,7 +695,7 @@
 "titulo": "acharam uma criatura escondida nos arquivos de subnautica 2 #subnauti...",
 "ts": 1790197323,
 "fotos": [],
-"views": 835
+"views": 836
 },
 "7688096735213784341": {
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
@@ -731,7 +731,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1234
+"views": 1248
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -761,7 +761,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3277
+"views": 3279
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1242,7 +1242,7 @@
 "v": 2752
 }
 ],
-"views": 3173
+"views": 3179
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2057,6 +2057,10 @@
 {
 "t": 1793362650,
 "v": 387
+},
+{
+"t": 1793389439,
+"v": 387
 }
 ],
 "views": 387
@@ -2328,9 +2332,13 @@
 {
 "t": 1793382031,
 "v": 8789
+},
+{
+"t": 1793389439,
+"v": 8830
 }
 ],
-"views": 8789
+"views": 8830
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2467,9 +2475,13 @@
 {
 "t": 1793382031,
 "v": 7963
+},
+{
+"t": 1793389439,
+"v": 7998
 }
 ],
-"views": 7963
+"views": 7998
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2506,9 +2518,13 @@
 {
 "t": 1793382031,
 "v": 135
+},
+{
+"t": 1793389439,
+"v": 138
 }
 ],
-"views": 135
+"views": 138
 }
 }
 }
