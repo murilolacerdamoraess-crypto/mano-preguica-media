@@ -1606,10 +1606,10 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "roteiro (aguardando aprovação, versão 6, aprovada pelo controle de qualidade: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo porque queimava e dava choque, a segunda versão só com molas e lâminas afiadas como no jogo, e o teste no boneco de 3 mil dólares com osso e órgão; no fim ele espera ter feito o traje do jeito que os fãs queriam e diz que nunca mais faz isso; tem sangue verde falso; uns 2 min e 40)",
+   "etapa": "roteiro (reprovado em 29/10 por \"metal que tem memória\", frase que não faz sentido; o Maestro vai perguntar se arquiva ou se vira Short fora do Halloween)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
-   "prazo": "31/10 (Halloween)"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -2907,8 +2907,10 @@
    "video": "Fizeram o traje de FNAF que esmaga quem veste",
    "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v6"
+   "status": "cancelada",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v6",
+   "fechada_em": "2026-10-29T23:23-03:00",
+   "nota": "reprovado pelo Murilo em 29/10"
   },
   {
    "id": "p47",
@@ -2931,5 +2933,5 @@
    "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
   }
  ],
- "gerado_em": "2026-10-29T23:17-03:00"
+ "gerado_em": "2026-10-29T23:23-03:00"
 }
