@@ -2014,6 +2014,14 @@
  ],
  "navegador": [
   {
+   "tipo": "dom 01/11 à tarde",
+   "titulo": "TIKTOK, RECOMPENSAS DA SEMANA 26/10 A 01/11 (Maestro, 30/10: item 4 do plano da máquina, os 4 números de segunda 02/11). Só leitura, não muda nada na conta. Quem faz: Periscópio, perfil mano, uma janela só.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[30/10] CAPA DO SHORT DA ARMADURA DO FALLOUT (quadro 0, vertical, canal principal; roteiro v7 aprovado em 30/10). Pedido do Anzol. ChatGPT, perfil mano, uma janela só. Refs em `Mano Preguica/_refs capa - Shorts 26-10/Armadura Fallout/`. Nenhum prompt nomeia jogo, armadura nem empresa (2.25).~~ **FEITA 30/10 (Periscópio), sem recusa, com a IMAGEM 1 nova (T-60 no suporte do jogo):** `CAPA ARMADURA - GPT 1.png` e `2` (941x1672, um chat novo cada, anexos como imagem1 e imagem2), na pasta Armadura Fallout, sem tratar. TEM GENTE / DENTRO certo nas duas. A de baixo saiu fiel nas duas, mas cortada nas coxas, entrando no quarto de baixo (a frase pedia até os joelhos acima dele). Avisado o Anzol. **Anzol (30/10):** escolhida a `CAPA ARMADURA - GPT 2.png` (o suporte amarelo inteiro em cima e embaixo), mandada ao Arpão pro quadro 0; a GPT 1 fica de reserva.",
    "etapa": "",
@@ -3167,5 +3175,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T10:02-03:00"
+ "gerado_em": "2026-10-30T10:03-03:00"
 }
