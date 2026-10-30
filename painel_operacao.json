@@ -3078,7 +3078,9 @@
    "video": "Ela zerou o Subnautica antes da Aurora explodir",
    "o_que": "gravar a voz das 80 frases (o vídeo é de 04/11)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-10-30T01:43-03:00",
+   "nota": "texto corrigido em 30/10 (81 frases), reaberta"
   },
   {
    "id": "p57",
@@ -3144,6 +3146,15 @@
    "agente": "Tesoura",
    "video": "Como o Reaper caça em 5 passos",
    "o_que": "regravar só a frase do peixe (trecho p12, texto novo sem repetir peixe)",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p64",
+   "aberta_em": "2026-10-30T01:43-03:00",
+   "agente": "Farol",
+   "video": "Ela zerou o Subnautica antes da Aurora explodir",
+   "o_que": "gravar a voz das 81 frases (o vídeo é de 04/11)",
    "onde": "Gravar",
    "status": "aberta"
   }
