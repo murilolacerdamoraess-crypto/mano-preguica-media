@@ -2623,17 +2623,6 @@
    "nota": "roteiro na fila do Farol, fora do Decidir até abrir vaga no teto de 5 (29/10)"
   },
   {
-   "id": "p18",
-   "aberta_em": "2026-10-28T09:24-03:00",
-   "agente": "Leme",
-   "video": "PokéBonk 2, o do Gengar (canal 2)",
-   "o_que": "programar no Studio pra hoje, qua 28/10 às 18h",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-10-28T10:01-03:00",
-   "nota": "Murilo programou qua 28/10 18h"
-  },
-  {
    "id": "p19",
    "aberta_em": "2026-10-28T09:24-03:00",
    "agente": "Leme",
@@ -3178,5 +3167,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T09:58-03:00"
+ "gerado_em": "2026-10-30T10:02-03:00"
 }
