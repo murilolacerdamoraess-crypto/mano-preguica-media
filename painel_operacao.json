@@ -1454,9 +1454,9 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos",
-   "etapa": "edição, refazendo pelo seu pedido de 27/10 (a câmera fica de lado no bote, nas mandíbulas e na boca, pra ele parecer o Reaper; as dicas de escapar, o peixe e o choque, saem do meio e vão pro bônus, com uma frase nova do peixe; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 30/10 (a frase nova do peixe sem repetir 'peixe', a câmera de lado na caça, o bônus com o Seamoth e o peixe; 1:50)",
    "responsavel": "Tesoura",
-   "falta_murilo": "gravar 1 frase (a do peixe, no Gravar)",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -2961,7 +2961,27 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-traje-fnaf-springlock.md@v8"
+  },
+  {
+   "id": "p52",
+   "aberta_em": "2026-10-30T00:14-03:00",
+   "agente": "Farol",
+   "video": "Ela zerou o Subnautica antes da Aurora explodir",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4"
+  },
+  {
+   "id": "p53",
+   "aberta_em": "2026-10-30T00:14-03:00",
+   "agente": "Tesoura",
+   "video": "Como o Reaper caça em 5 passos",
+   "o_que": "assistir a versão com a frase nova do peixe (sem repetir 'peixe') e a câmera de lado na caça, e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1-JgxOu3JuzjUbuj-O1UQwyICeCnVQ4mS"
   }
  ],
- "gerado_em": "2026-10-30T00:09-03:00"
+ "gerado_em": "2026-10-30T00:15-03:00"
 }
