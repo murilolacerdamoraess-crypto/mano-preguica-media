@@ -2935,8 +2935,10 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "aprovar ou ajustar o roteiro (versão 7, feita com o seu review de 29/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
+   "status": "feita",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7",
+   "fechada_em": "2026-10-30T01:19-03:00",
+   "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
    "id": "p49",
@@ -2957,8 +2959,10 @@
    "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "o_que": "aprovar o roteiro",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2"
+   "status": "feita",
+   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2",
+   "fechada_em": "2026-10-30T01:19-03:00",
+   "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
    "id": "p51",
@@ -2967,8 +2971,10 @@
    "video": "Fizeram o traje de FNAF que esmaga quem veste",
    "o_que": "aprovar ou pedir ajuste no roteiro reescrito",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v8"
+   "status": "feita",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v8",
+   "fechada_em": "2026-10-30T01:19-03:00",
+   "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
    "id": "p52",
@@ -2977,8 +2983,10 @@
    "video": "Ela zerou o Subnautica antes da Aurora explodir",
    "o_que": "aprovar o roteiro",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4"
+   "status": "feita",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4",
+   "fechada_em": "2026-10-30T01:19-03:00",
+   "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
    "id": "p53",
@@ -3010,9 +3018,11 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "aprovar ou ajustar o roteiro (versão 7, com a sua fala do longo dos 34 leviatãs; prazo 30/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7"
+   "status": "feita",
+   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7",
+   "fechada_em": "2026-10-30T01:19-03:00",
+   "nota": "aprovou em 30/10 01:12-01:14"
   }
  ],
- "gerado_em": "2026-10-30T01:12-03:00"
+ "gerado_em": "2026-10-30T01:19-03:00"
 }
