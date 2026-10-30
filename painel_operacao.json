@@ -302,7 +302,7 @@
    "titulo": "No canal 2, o tempo que você dá ao longo de gameplay passa pro Short de jornada.",
    "onde": "role do Leme (canal 2) e meta do canal 2 nos [[quatro-numeros]] (hoje 2 Shorts por semana).",
    "confianca": "forte na receita (5 vídeos contra 14), fraca na constância, porque a jornada é sorteio: 3 de 8 pagaram bem e 3 quase nada.",
-   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; role publicacao-mp2.md e meta do canal 2 nos quatro-numeros, a partir da semana de 02/11)",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; role publicacao-mp2.md e meta do canal 2 nos quatro-numeros, a partir da semana de 02/11). Revista no mesmo dia pela correção dele à R39: os 3 Shorts de jornada por semana ficam, mas sem tirar tempo do longo.",
    "simples": "No canal 2, em vez de gravar um PokéBonk de 1 hora por semana, você grava a voz de mais um Short de jornada, como o do Onix ou o da luva. Os 5 Shorts de jornada renderam 20 vezes mais que os 14 longos somados, gastando uns 30 min seus cada."
   },
   {
@@ -310,7 +310,7 @@
    "titulo": "O longo de 1 hora no canal 2 para depois dos 3 PokéBonk já agendados, e o ranking da Steam não volta.",
    "onde": "role do Leme (canal 2) e plano do canal 2.",
    "confianca": "forte (14 longos e 13 rankings, todos abaixo).",
-   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; role publicacao-mp2.md e nota no C63)",
+   "status": "revista pelo Murilo em 2026-10-30, depois de aprovar: \"a ideia do canal secundário é justamente postar uns vídeos longos sem edição mesmo, mas eu acho que tem algo que a gente pode aprender [...] pra tentar trazer pro canal principal de uma forma mais editada e conseguir performar bem também\". Ficou só a parte do ranking da Steam (não volta). O longo sem edição continua no canal 2 como laboratório, com a cadência dele; cada longo novo sai com hipótese escrita antes. Aplicada assim no role publicacao-mp2.md e no C63. Lição pro C9: o número baixo do longo do canal 2 não mede o propósito dele, que é achar tema pro principal.",
    "simples": "Os 3 PokéBonk que você já programou saem normalmente, mas não gravamos outro de 1 hora pro canal 2 por enquanto, porque os 14 longos de lá renderam US$ 1,92 juntos. O ranking de \"jogo mais jogado da Steam\" também não volta: 13 vídeos deram US$ 0,21."
   },
   {
@@ -320,6 +320,22 @@
    "confianca": "fraca (é hipótese, por isso é teste).",
    "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; teste no role publicacao-mp2.md, pedido ao Maestro pra encaixar o corte da Tesoura quando o Mac liberar)",
    "simples": "A gente pega um PokéBonk que você já gravou e faz uma versão de 15 a 20 minutos só com a parte boa da run, até o lendário. Se ela segurar o público mais que os 4 minutos de hoje e passar a média dos longos, o PokéBonk volta nesse tamanho."
+  },
+  {
+   "id": "R41",
+   "titulo": "A lore do Subnautica (a nave Degasi e os sobreviventes que chegaram antes) vira um longo editado no canal principal.",
+   "onde": "pauta do Sonar e roteiro do Farol no principal, com o molde de [[anatomia-longos-subnautica]] (\"a partir de um fato do jogo\").",
+   "confianca": "fraca (2 longos e 3 Shorts no canal 2, mais o padrão de 2025).",
+   "status": "aguardando",
+   "simples": "Os vídeos de história do Subnautica (a nave que caiu antes da sua e o que aconteceu com quem estava nela) foram os que o público mais assistiu até o fim no canal 2, e no principal esse tema só apareceu em Short ou dentro de episódio de série. A ideia é fazer um longo editado de 10 a 15 min contando essa história, como já deu certo com o Gargantuan e o Bloop, que saíram primeiro no canal 2."
+  },
+  {
+   "id": "R42",
+   "titulo": "Um guia de mods do Subnautica atualizado vira um longo editado no canal principal, feito pra quem chega pela busca.",
+   "onde": "pauta do Sonar e roteiro do Farol no principal.",
+   "confianca": "fraca (1 longo no canal 2; o sinal é a busca, que se mantém sozinha).",
+   "status": "aguardando",
+   "simples": "O guia de mods do canal 2 é o único longo de lá que ainda recebe gente procurando no YouTube, um ano depois. A ideia é fazer uma versão editada e atualizada pro principal, com os mods que valem a pena em 2026 e como instalar, pra ganhar views de busca o ano todo."
   }
  ],
  "equipe": [
@@ -3193,5 +3209,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T10:54-03:00"
+ "gerado_em": "2026-10-30T10:59-03:00"
 }
