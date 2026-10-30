@@ -280,6 +280,22 @@
    "confianca": "forte no pedido (2 vezes no mesmo vídeo, a segunda dizendo o caminho certo), sem número de desempenho.",
    "status": "aplicada 2026-10-29 (dito direto por ele no review do machado; pela rotina nova das Considerações, o que ele diz direto vale como decisão: entrou na skill edicao-video, seção \"Ditas pelo Murilo nos vídeos prontos de 29/10\")",
    "simples": "Se o roteiro diz que uma coisa ficou três vezes mais pesada ou maior, o vídeo mostra a mesma imagem dela pequena e depois grande, pra pessoa sentir a diferença. Nada de gráfico de barra nem de texto tipo \"3x os 3 kg\"."
+  },
+  {
+   "id": "R36",
+   "titulo": "Em longo de gameplay, cada frase que conta o que aconteceu na tela é conferida no quadro do vídeo antes de o roteiro ir pro Decidir, não depois.",
+   "onde": "role longos.md (Farol: a tabela do roteiro já traz o tempo do vídeo de cada frase de ação), checklist do Crivo (item novo de roteiro, junto do R13) e o modelo da ordem da Lente.",
+   "confianca": "forte no defeito (3 casos em 5 dias, em 3 longos diferentes, sempre o mesmo motivo: a transcrição não mostra o que a imagem mostra).",
+   "status": "aguardando",
+   "simples": "Antes de um roteiro de longo chegar pra você aprovar, alguém abre o vídeo no segundo exato de cada coisa que a gente diz que a pessoa fez e confere se foi isso mesmo. Na Aurora, por exemplo, você teria aprovado já com \"ela arranca os cogumelos com a mão\", e não com o \"corta\" que foi trocado meia hora depois."
+  },
+  {
+   "id": "R37",
+   "titulo": "O portão de fluidez avisa quando a mesma palavra aparece 3 vezes no mesmo bloco ou 2 vezes na mesma frase, pra o roteirista trocar antes de o Crivo devolver.",
+   "onde": "`checar_fluidez.py` (o mesmo aviso do NOME REPETIDO, C81, com um limite menor por bloco) e os roles shorts.md e longos.md (rodar o portão e resolver o aviso antes de entregar ao Crivo).",
+   "confianca": "forte no defeito (6 casos em 24 h, 3 deles com volta inteira de conferência).",
+   "status": "aguardando",
+   "simples": "O verificador automático do roteiro passa a apontar quando uma palavra se repete muito perto (três vezes no mesmo trecho ou duas na mesma frase), e quem escreve já troca antes de mandar pro Crivo. No FNAF, o \"metal\" que aparecia 4 vezes no mesmo trecho teria saído na primeira entrega, e não numa volta a mais."
   }
  ],
  "equipe": [
@@ -1994,30 +2010,6 @@
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Glossário de Subnautica: o Prawn Suit no roteiro é \"Prawn\" ou \"traje camarão\"?",
-   "etapa": "roteiro (glossário dos longos e Shorts, dúvida 1 de 3; você fala \"prown\" 9 vezes nas suas narrações e nunca diz \"camarão\"; Jazzghost, TROUSY e Minguels falam \"traje camarão\"; nos comentários do seu canal, 5 \"Prawn\" contra 4 \"traje camarão\"; aprovar fica \"Prawn\", reprovar passa a ser \"traje camarão\")",
-   "responsavel": "Farol",
-   "falta_murilo": "aprovar \"Prawn\" (reprovar escolhe \"traje camarão\")",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Glossário de Subnautica: \"a Void\" ou \"o void\"?",
-   "etapa": "roteiro (glossário dos longos e Shorts, dúvida 2 de 3; você fala \"a Void\", \"na Void\", \"da Void\" 32 vezes e \"o void\" 1 vez; o público dos seus vídeos escreve \"o void\" cerca de 37 vezes contra 4 no feminino; aprovar fica \"a Void\", reprovar passa a ser \"o void\")",
-   "responsavel": "Farol",
-   "falta_murilo": "aprovar \"a Void\" (reprovar escolhe \"o void\")",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Glossário de Subnautica: nome composto de item em inglês ou em português?",
-   "etapa": "roteiro (glossário dos longos e Shorts, dúvida 3 de 3; na voz dos 34 leviatãs você falou em inglês 5 vezes, Stasis Rifle, Thermoblade, Propulsion Cannon e Reinforced Dive Suit, e em português 1 vez; ao vivo você já disse \"rifle de êxtase\", e quase todo o corpus brasileiro fala \"canhão de propulsão\", \"traje reforçado\" e \"cortador a laser\"; vale também pra Laser Cutter, Repulsion Cannon e Gravtrap; aprovar fica em inglês, reprovar passa a ser em português)",
-   "responsavel": "Farol",
-   "falta_murilo": "aprovar em inglês (reprovar escolhe em português)",
-   "prazo": ""
   }
  ],
  "navegador": [
@@ -3179,5 +3171,5 @@
    "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM"
   }
  ],
- "gerado_em": "2026-10-30T04:40-03:00"
+ "gerado_em": "2026-10-30T09:33-03:00"
 }
