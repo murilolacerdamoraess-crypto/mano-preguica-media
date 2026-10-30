@@ -294,7 +294,7 @@
    "titulo": "O portão de fluidez avisa quando a mesma palavra aparece 3 vezes no mesmo bloco ou 2 vezes na mesma frase, pra o roteirista trocar antes de o Crivo devolver.",
    "onde": "`checar_fluidez.py` (o mesmo aviso do NOME REPETIDO, C81, com um limite menor por bloco) e os roles shorts.md e longos.md (rodar o portão e resolver o aviso antes de entregar ao Crivo).",
    "confianca": "forte no defeito (6 casos em 24 h, 3 deles com volta inteira de conferência).",
-   "status": "aprovada 2026-10-30 (no painel às 13:47 UTC); o código no checar_fluidez.py fica com o Claude Code, que se ofereceu",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:47 UTC; implementada pelo Claude Code no checar_fluidez.py, commit 2b3a10c do canal_agente, ainda local). Diferença da proposta: em vez de aviso, REPROVA quando a palavra aparece 2x na mesma frase ou 3x em 4 frases seguidas (no lugar de \"3x no mesmo bloco\").",
    "simples": "O verificador automático do roteiro passa a apontar quando uma palavra se repete muito perto (três vezes no mesmo trecho ou duas na mesma frase), e quem escreve já troca antes de mandar pro Crivo. No FNAF, o \"metal\" que aparecia 4 vezes no mesmo trecho teria saído na primeira entrega, e não numa volta a mais."
   },
   {
@@ -3209,5 +3209,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T10:59-03:00"
+ "gerado_em": "2026-10-30T11:00-03:00"
 }
