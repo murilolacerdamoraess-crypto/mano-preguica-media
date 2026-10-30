@@ -2794,8 +2794,10 @@
    "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
    "o_que": "assistir a versão com todos os seus ajustes (o machado pequeno no 3 kg e grande no 8,5 kg, sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y"
+   "status": "feita",
+   "chave": "video:1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y",
+   "fechada_em": "2026-10-29T22:29-03:00",
+   "nota": "aprovou a v3 às 22:24"
   },
   {
    "id": "p40",
@@ -2840,5 +2842,5 @@
    "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO"
   }
  ],
- "gerado_em": "2026-10-29T22:26-03:00"
+ "gerado_em": "2026-10-29T22:29-03:00"
 }
