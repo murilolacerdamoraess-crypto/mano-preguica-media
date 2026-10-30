@@ -2014,6 +2014,14 @@
  ],
  "navegador": [
   {
+   "tipo": "30/10",
+   "titulo": "CAPA DO SHORT DA ARMADURA DO FALLOUT (quadro 0, vertical, canal principal; roteiro v7 aprovado em 30/10). Pedido do Anzol. ChatGPT, perfil mano, uma janela só. Refs em `Mano Preguica/_refs capa - Shorts 26-10/Armadura Fallout/`. Nenhum prompt nomeia jogo, armadura nem empresa (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[30/10] MACHADO DO KRATOS v3 (#32, canal principal)~~ FEITO 29/10 ~22h55: a janela das 22h30 vale pra hora em que o vídeo SAI, não pro clique (correção do Claude Code). Periscópio deixou o Programar com sex 30/10 18:00 (programar_data.sh) e o Murilo clicou; API: `PBw5xlifJpM` private, publishAt 30/10 18:00 BRT. Rascunho antigo `erl46mmsOv0` EXCLUÍDO com autorização dele (\"dá pra deletar o outro que tá em rascunho\"), conferido no diálogo pela miniatura e pela API. Nenhum item ficou aberto na lista (o clique dele veio antes). Pedido original: só falta a Visibilidade. Rascunho NOVO `PBw5xlifJpM` (privado, processado) pronto e relido depois de recarregar: título do Anzol + #shorts, descrição, miniatura GPT 6, 12 tags, Jogos / God of War Ragnarök, não é para crianças, promoção paga Não, uso de IA Não, Lugares e Conceitos desligados, playlist VIDEOS CURTOS, relacionado = longo do Blue Lock (24h pra ser o egoísta...), 5 produtos na ordem da Vitrine (chaveiro PS5, R36S 64GB Shopee, Jogo God of War, Funko Kratos 269, Quest 3S Shopee), Adequação ENVIADA com \"Nenhuma das opções\" (OK do Murilo 29/10). Falta: lista > linha do PBw5xlifJpM (achar pelo id no HTML, os 2 rascunhos têm o mesmo título) > Editar rascunho > Elementos e Verificação > Visibilidade > Programar com `programar_data.sh` sex 30/10 18:00, PARAR sem clicar, abrir `pendencia.py abrir --agente Periscópio --video \"Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar\" --o-que \"apertar Programar na guia aberta (sexta 30/10 às 18h)\" --onde Studio` e avisar o Claude Code. Parou às 22h49 de 29/10 pela janela das 22h30. O rascunho antigo `erl46mmsOv0` fica intocado (o Claude Code pede ao Murilo). Quem faz: Periscópio.",
    "etapa": "",
@@ -3113,5 +3121,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T01:35-03:00"
+ "gerado_em": "2026-10-30T01:36-03:00"
 }
