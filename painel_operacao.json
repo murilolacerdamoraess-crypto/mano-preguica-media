@@ -1830,7 +1830,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "etapa": "embalagem, edição aprovada por você em 29/10 às 22:24 (a versão com os seus ajustes); publicação no canal principal com o Periscópio, a partir de 30/10 11h",
+   "etapa": "agendado no canal principal pra sex 30/10 às 18h (você programou em 29/10 ~22h55; conferido pela API; studio.youtube.com/video/PBw5xlifJpM/edit; relacionado o longo do Blue Lock, 5 produtos, voz real)",
    "responsavel": "Periscópio",
    "falta_murilo": "",
    "prazo": ""
@@ -1886,9 +1886,9 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "edição, versão nova entregue em 29/10 à noite (sem o silêncio depois do \"insano, meus amigos\": o silêncio entre as suas frases foi aparado; a música mais baixa; 2:02)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir a versão nova e aprovar",
+   "etapa": "agendado no canal principal pra sáb 31/10 às 18h (você aprovou o vídeo em 30/10 00:32 e programou em 30/10; conferido pela API; studio.youtube.com/video/1QprFcx4k8I/edit; capa GPT 2, relacionado o longo do Blue Lock, 5 produtos com o chaveiro do Mewtwo em 1º, voz real, Content ID limpo)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2054,8 +2054,8 @@
    "prazo": ""
   },
   {
-   "tipo": "27/10",
-   "titulo": "AO AGENDAR o Short do show da Pokémon (Pokémon x Marshmello), pedido do Anzol: conferir no Studio se o \"Testar e comparar\" de TÍTULO aparece pra Short. Se aparecer: título A \"Pokémon x Marshmello: os lendários lutaram no telão no meio do show\" e B \"Pokémon x Marshmello: os efeitos desse show pareciam fora da realidade\", e avisar o Anzol com a data. Se NÃO aparecer: não escolher, avisar o Anzol antes de programar (ele pergunta ao Murilo no Decidir). Só vale quando vier o pedido de agendamento com o OK do Murilo. Quem faz: Periscópio.",
+   "tipo": "",
+   "titulo": "~~[27/10] AO AGENDAR o Short do show da Pokémon (Pokémon x Marshmello), pedido do Anzol: conferir no Studio se o \"Testar e comparar\" de TÍTULO aparece pra Short. Se aparecer: título A \"Pokémon x Marshmello: os lendários lutaram no telão no meio do show\" e B \"Pokémon x Marshmello: os efeitos desse show pareciam fora da realidade\", e avisar o Anzol com a data. Se NÃO aparecer: não escolher, avisar o Anzol antes de programar (ele pergunta ao Murilo no Decidir). Só vale quando vier o pedido de agendamento com o OK do Murilo. Quem faz: Periscópio.~~ **Feito 30/10 (Periscópio): Short não tem \"Testar e comparar\"; avisei o Anzol e subiu só o A, que o Murilo tinha aprovado.** Rascunho `1QprFcx4k8I` completo (pacote do Anzol de 30/10), Adequação \"Nenhuma das opções\" com OK do Murilo, Content ID limpo; o Murilo apertou Programar e a API mostra private com publishAt sáb 31/10 18:00 BRT. Item p54 fechado.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3010,5 +3010,5 @@
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7"
   }
  ],
- "gerado_em": "2026-10-30T01:09-03:00"
+ "gerado_em": "2026-10-30T01:11-03:00"
 }
