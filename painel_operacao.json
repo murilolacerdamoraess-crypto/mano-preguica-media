@@ -1838,7 +1838,7 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 7 no Crivo, volta pro Decidir quando ele aprovar; feita em cima da 5 com o seu review de 29/10 ponto por ponto: o que a armadura é antes do peso, pra que serve o metal, uma explicação por vez no teste, sem o botão solto, sem tato e o suporte no seu caminho; primeiro roteiro com o teste do leigo)",
+   "etapa": "roteiro (versão 7 aguardando aprovação, aprovada pelo Crivo; feita em cima da 5 com o seu review de 29/10 ponto por ponto: o que a armadura é antes do peso, pra que serve o metal, uma explicação por vez no teste, sem o botão solto, sem tato e o suporte no seu caminho; primeiro roteiro com o teste do leigo)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -2917,7 +2917,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v5"
+  },
+  {
+   "id": "p48",
+   "aberta_em": "2026-10-29T23:13-03:00",
+   "agente": "Arpão",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "aprovar ou ajustar o roteiro (versão 7, feita com o seu review de 29/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
   }
  ],
- "gerado_em": "2026-10-29T23:11-03:00"
+ "gerado_em": "2026-10-29T23:13-03:00"
 }
