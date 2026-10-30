@@ -296,6 +296,30 @@
    "confianca": "forte no defeito (6 casos em 24 h, 3 deles com volta inteira de conferência).",
    "status": "aguardando",
    "simples": "O verificador automático do roteiro passa a apontar quando uma palavra se repete muito perto (três vezes no mesmo trecho ou duas na mesma frase), e quem escreve já troca antes de mandar pro Crivo. No FNAF, o \"metal\" que aparecia 4 vezes no mesmo trecho teria saído na primeira entrega, e não numa volta a mais."
+  },
+  {
+   "id": "R38",
+   "titulo": "No canal 2, o tempo que você dá ao longo de gameplay passa pro Short de jornada.",
+   "onde": "role do Leme (canal 2) e meta do canal 2 nos [[quatro-numeros]] (hoje 2 Shorts por semana).",
+   "confianca": "forte na receita (5 vídeos contra 14), fraca na constância, porque a jornada é sorteio: 3 de 8 pagaram bem e 3 quase nada.",
+   "status": "aguardando",
+   "simples": "No canal 2, em vez de gravar um PokéBonk de 1 hora por semana, você grava a voz de mais um Short de jornada, como o do Onix ou o da luva. Os 5 Shorts de jornada renderam 20 vezes mais que os 14 longos somados, gastando uns 30 min seus cada."
+  },
+  {
+   "id": "R39",
+   "titulo": "O longo de 1 hora no canal 2 para depois dos 3 PokéBonk já agendados, e o ranking da Steam não volta.",
+   "onde": "role do Leme (canal 2) e plano do canal 2.",
+   "confianca": "forte (14 longos e 13 rankings, todos abaixo).",
+   "status": "aguardando",
+   "simples": "Os 3 PokéBonk que você já programou saem normalmente, mas não gravamos outro de 1 hora pro canal 2 por enquanto, porque os 14 longos de lá renderam US$ 1,92 juntos. O ranking de \"jogo mais jogado da Steam\" também não volta: 13 vídeos deram US$ 0,21."
+  },
+  {
+   "id": "R40",
+   "titulo": "Teste: um PokéBonk já gravado vira um vídeo de 15 a 20 min, só com a run até o lendário.",
+   "onde": "plano do canal 2 (teste), role do Leme e da Tesoura (corte do longo).",
+   "confianca": "fraca (é hipótese, por isso é teste).",
+   "status": "aguardando",
+   "simples": "A gente pega um PokéBonk que você já gravou e faz uma versão de 15 a 20 minutos só com a parte boa da run, até o lendário. Se ela segurar o público mais que os 4 minutos de hoje e passar a média dos longos, o PokéBonk volta nesse tamanho."
   }
  ],
  "equipe": [
@@ -3163,7 +3187,8 @@
    "video": "Glossário do Subnautica",
    "o_que": "dizer como você fala 6 nomes que estão em dúvida: Kelp Forest (floresta de algas, bioma das algas ou zona de algas), Sea Emperor (Sea Emperor ou Imperatriz, e se é a ou o), os 2 desertos (deserto do Reaper e deserto vermelho), Mobile Vehicle Bay (baía de veículos, cais de veículos ou em inglês), dente de Stalker, e Blood Kelp, Grand Reef e Tree Cove (em inglês ou pelo que tem lá). Pode responder pro Maestro no chat.",
    "onde": "Decidir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-30T10:46-03:00"
   },
   {
    "id": "p68",
@@ -3175,5 +3200,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T10:03-03:00"
+ "gerado_em": "2026-10-30T10:48-03:00"
 }
