@@ -2939,8 +2939,10 @@
    "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
    "o_que": "assistir a versão sem o silêncio depois do 'meus amigos' (o silêncio entre as suas frases foi aparado) e com a música mais baixa, e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1srtO0OXwdrTuNORsPsZ65tbBhWjJLvr0"
+   "status": "feita",
+   "chave": "video:1srtO0OXwdrTuNORsPsZ65tbBhWjJLvr0",
+   "fechada_em": "2026-10-30T00:41-03:00",
+   "nota": "aprovou às 00:32"
   },
   {
    "id": "p50",
@@ -2983,5 +2985,5 @@
    "chave": "video:1-JgxOu3JuzjUbuj-O1UQwyICeCnVQ4mS"
   }
  ],
- "gerado_em": "2026-10-30T00:15-03:00"
+ "gerado_em": "2026-10-30T00:41-03:00"
 }
