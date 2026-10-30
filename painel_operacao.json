@@ -2689,17 +2689,6 @@
    "nota": "aprovou o vídeo v2 às 11:44"
   },
   {
-   "id": "p24",
-   "aberta_em": "2026-10-28T09:27-03:00",
-   "agente": "Tesoura",
-   "video": "Machado do Kratos (v2)",
-   "o_que": "esvaziar a Lixeira do Mac (são os rascunhos da edição; sem isso falta espaço pro machado)",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-10-28T09:51-03:00",
-   "nota": "Murilo autorizou; Lixeira esvaziada, 43 → 93 GB livres"
-  },
-  {
    "id": "p25",
    "aberta_em": "2026-10-28T11:22-03:00",
    "agente": "Tesoura",
@@ -3189,5 +3178,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T09:46-03:00"
+ "gerado_em": "2026-10-30T09:58-03:00"
 }
