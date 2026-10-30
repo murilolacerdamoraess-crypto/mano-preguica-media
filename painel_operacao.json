@@ -1882,9 +1882,9 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "etapa": "edição, refazendo pelas suas notas de 29/10, porque vai pro canal principal (os silêncios depois do \"insano, meus amigos\" e da plateia ficam com 1 s e a legenda sai junto com a fala; a música 3 dB mais baixa; a versão anterior saiu da fila de publicar)",
+   "etapa": "edição, versão nova entregue em 29/10 com os seus ajustes (sem o silêncio comprido depois do \"insano, meus amigos\", a legenda saindo na pausa, a música mais baixa; 2:04)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir a versão nova e aprovar",
    "prazo": ""
   },
   {
@@ -2824,9 +2824,21 @@
    "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
    "o_que": "assistir a versão com os seus ajustes (sem o silêncio comprido depois do 'insano, meus amigos' e a música mais baixa) e aprovar ou pedir ajuste",
    "onde": "Assistir",
+   "status": "cancelada",
+   "chave": "video:1p3EnxzCnYtJi5y1fRApIv0YJTgVwVfi7",
+   "fechada_em": "2026-10-29T22:24-03:00",
+   "nota": "substituída: o show foi remontado com a legenda saindo na pausa e a trilha no nível novo; arquivo novo no Drive"
+  },
+  {
+   "id": "p43",
+   "aberta_em": "2026-10-29T22:24-03:00",
+   "agente": "Tesoura",
+   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+   "o_que": "assistir a versão com os seus ajustes (sem o silêncio comprido depois do 'insano, meus amigos', a legenda saindo na pausa e a música mais baixa) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
    "status": "aberta",
-   "chave": "video:1p3EnxzCnYtJi5y1fRApIv0YJTgVwVfi7"
+   "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO"
   }
  ],
- "gerado_em": "2026-10-29T21:51-03:00"
+ "gerado_em": "2026-10-29T22:26-03:00"
 }
