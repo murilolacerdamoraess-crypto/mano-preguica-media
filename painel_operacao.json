@@ -2662,7 +2662,9 @@
    "video": "Como o Reaper caça em 5 passos",
    "o_que": "gravar 1 frase (a do peixe)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-10-29T23:17-03:00",
+   "nota": "gravou a frase do peixe em 29/10 à noite"
   },
   {
    "id": "p26",
@@ -2929,5 +2931,5 @@
    "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
   }
  ],
- "gerado_em": "2026-10-29T23:15-03:00"
+ "gerado_em": "2026-10-29T23:17-03:00"
 }
