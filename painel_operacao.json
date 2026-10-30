@@ -1844,6 +1844,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short da armadura do Fallout: Esses caras estão construindo a armadura do Fallout na vida real",
+   "etapa": "embalagem (é o mesmo jeito do título que você deu pro Batmóvel, que é dos mesmos caras; é verdade, porque eles ainda não terminaram, e não conta se ela funcionou; a capa mostra a armadura do jogo em cima e a de verdade embaixo, com TEM GENTE DENTRO; outras opções: \"Esses caras colocaram uma pessoa dentro da armadura do Fallout de verdade\" e \"A armadura do Fallout de verdade precisa funcionar com alguém dentro\", e com elas a capa troca pra 181 QUILOS)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
    "etapa": "edição, refazendo pelas suas notas de 29/10, porque vai pro canal principal (ela aparece uma vez só, no maior zoom; no \"nível 1\" o personagem dela grande; a vida da Malenia em cima e a do personagem embaixo; o zoom no tapete entra uma vez e não volta; as 553 tentativas com a gameplay rolando; sem música na piada; a versão anterior saiu da fila de publicar)",
@@ -3119,7 +3127,17 @@
    "o_que": "regravar só o trecho 106 (o fim subiu como pergunta): \"Na Onda 8 eu já tava fazia 4 minutos com 38 de vida, e mesmo assim fui pra briga. Os dragões me derrubaram em questão de segundos.\"",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p62",
+   "aberta_em": "2026-10-30T01:38-03:00",
+   "agente": "Anzol",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "aprovar o título do Short da armadura do Fallout",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-short-da-armadura-do-fallout-esses-caras-estao-construindo-a-armadura-d:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-10-30T01:36-03:00"
+ "gerado_em": "2026-10-30T01:38-03:00"
 }
