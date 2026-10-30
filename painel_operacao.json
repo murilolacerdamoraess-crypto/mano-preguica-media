@@ -286,7 +286,7 @@
    "titulo": "Em longo de gameplay, cada frase que conta o que aconteceu na tela é conferida no quadro do vídeo antes de o roteiro ir pro Decidir, não depois.",
    "onde": "role longos.md (Farol: a tabela do roteiro já traz o tempo do vídeo de cada frase de ação), checklist do Crivo (item novo de roteiro, junto do R13) e o modelo da ordem da Lente.",
    "confianca": "forte no defeito (3 casos em 5 dias, em 3 longos diferentes, sempre o mesmo motivo: a transcrição não mostra o que a imagem mostra).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:47 UTC; role longos.md e item R29 do crivo-checklist)",
    "simples": "Antes de um roteiro de longo chegar pra você aprovar, alguém abre o vídeo no segundo exato de cada coisa que a gente diz que a pessoa fez e confere se foi isso mesmo. Na Aurora, por exemplo, você teria aprovado já com \"ela arranca os cogumelos com a mão\", e não com o \"corta\" que foi trocado meia hora depois."
   },
   {
@@ -294,7 +294,7 @@
    "titulo": "O portão de fluidez avisa quando a mesma palavra aparece 3 vezes no mesmo bloco ou 2 vezes na mesma frase, pra o roteirista trocar antes de o Crivo devolver.",
    "onde": "`checar_fluidez.py` (o mesmo aviso do NOME REPETIDO, C81, com um limite menor por bloco) e os roles shorts.md e longos.md (rodar o portão e resolver o aviso antes de entregar ao Crivo).",
    "confianca": "forte no defeito (6 casos em 24 h, 3 deles com volta inteira de conferência).",
-   "status": "aguardando",
+   "status": "aprovada 2026-10-30 (no painel às 13:47 UTC); o código no checar_fluidez.py fica com o Claude Code, que se ofereceu",
    "simples": "O verificador automático do roteiro passa a apontar quando uma palavra se repete muito perto (três vezes no mesmo trecho ou duas na mesma frase), e quem escreve já troca antes de mandar pro Crivo. No FNAF, o \"metal\" que aparecia 4 vezes no mesmo trecho teria saído na primeira entrega, e não numa volta a mais."
   },
   {
@@ -302,7 +302,7 @@
    "titulo": "No canal 2, o tempo que você dá ao longo de gameplay passa pro Short de jornada.",
    "onde": "role do Leme (canal 2) e meta do canal 2 nos [[quatro-numeros]] (hoje 2 Shorts por semana).",
    "confianca": "forte na receita (5 vídeos contra 14), fraca na constância, porque a jornada é sorteio: 3 de 8 pagaram bem e 3 quase nada.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; role publicacao-mp2.md e meta do canal 2 nos quatro-numeros, a partir da semana de 02/11)",
    "simples": "No canal 2, em vez de gravar um PokéBonk de 1 hora por semana, você grava a voz de mais um Short de jornada, como o do Onix ou o da luva. Os 5 Shorts de jornada renderam 20 vezes mais que os 14 longos somados, gastando uns 30 min seus cada."
   },
   {
@@ -310,7 +310,7 @@
    "titulo": "O longo de 1 hora no canal 2 para depois dos 3 PokéBonk já agendados, e o ranking da Steam não volta.",
    "onde": "role do Leme (canal 2) e plano do canal 2.",
    "confianca": "forte (14 longos e 13 rankings, todos abaixo).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; role publicacao-mp2.md e nota no C63)",
    "simples": "Os 3 PokéBonk que você já programou saem normalmente, mas não gravamos outro de 1 hora pro canal 2 por enquanto, porque os 14 longos de lá renderam US$ 1,92 juntos. O ranking de \"jogo mais jogado da Steam\" também não volta: 13 vídeos deram US$ 0,21."
   },
   {
@@ -318,7 +318,7 @@
    "titulo": "Teste: um PokéBonk já gravado vira um vídeo de 15 a 20 min, só com a run até o lendário.",
    "onde": "plano do canal 2 (teste), role do Leme e da Tesoura (corte do longo).",
    "confianca": "fraca (é hipótese, por isso é teste).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel às 13:49 UTC; teste no role publicacao-mp2.md, pedido ao Maestro pra encaixar o corte da Tesoura quando o Mac liberar)",
    "simples": "A gente pega um PokéBonk que você já gravou e faz uma versão de 15 a 20 minutos só com a parte boa da run, até o lendário. Se ela segurar o público mais que os 4 minutos de hoje e passar a média dos longos, o PokéBonk volta nesse tamanho."
   }
  ],
@@ -1884,14 +1884,6 @@
    "prazo": ""
   },
   {
-   "tipo": "Tarefa",
-   "titulo": "Título do Short da armadura do Fallout: Esses caras estão construindo a armadura do Fallout na vida real",
-   "etapa": "embalagem (é o mesmo jeito do título que você deu pro Batmóvel, que é dos mesmos caras; é verdade, porque eles ainda não terminaram, e não conta se ela funcionou; a capa mostra a armadura do jogo em cima e a de verdade embaixo, com TEM GENTE DENTRO; outras opções: \"Esses caras colocaram uma pessoa dentro da armadura do Fallout de verdade\" e \"A armadura do Fallout de verdade precisa funcionar com alguém dentro\", e com elas a capa troca pra 181 QUILOS)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
-   "prazo": ""
-  },
-  {
    "tipo": "Short",
    "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
    "etapa": "edição, versão nova entregue em 30/10 com os seus 6 ajustes (a câmera dela inteira sem repetir a perna, o personagem dela grande no nível 1, a vida do chefe em cima e a do personagem embaixo, o tapete sem resetar o zoom, só a gameplay nas 553 tentativas, sem a música da piada; 2:38)",
@@ -3139,8 +3131,9 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "aprovar o título do Short da armadura do Fallout",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-short-da-armadura-do-fallout-esses-caras-estao-construindo-a-armadura-:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-do-short-da-armadura-do-fallout-esses-caras-estao-construindo-a-armadura-:aprovar-este-titulo",
+   "fechada_em": "2026-10-30T10:51-03:00"
   },
   {
    "id": "p63",
@@ -3200,5 +3193,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T10:48-03:00"
+ "gerado_em": "2026-10-30T10:51-03:00"
 }
