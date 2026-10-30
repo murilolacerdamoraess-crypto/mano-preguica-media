@@ -1838,9 +1838,9 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "etapa": "roteiro (versão 7 aguardando aprovação, aprovada pelo Crivo; feita em cima da 5 com o seu review de 29/10 ponto por ponto: o que a armadura é antes do peso, pra que serve o metal, uma explicação por vez no teste, sem o botão solto, sem tato e o suporte no seu caminho; primeiro roteiro com o teste do leigo)",
+   "etapa": "narração, texto no Gravar com 20 frases (versão 7 aprovada em 30/10; você pode corrigir na hora com Editar e Pular)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -1878,9 +1878,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "roteiro (versão 7 aguardando aprovação, aprovada pelo Crivo: a fala agora é a sua do longo dos 34 leviatãs onde os dois contam a mesma coisa, na sua ordem, o Gasopod antes do canhão, com a gambiarra, o peido do Gasopod e o \"eu já morri pra isso\"; isca única do longo, sai antes dele)",
+   "etapa": "narração, texto no Gravar com 19 frases (versão 7 aprovada em 30/10, no lugar da versão 2; a fala é a sua do longo dos 34 leviatãs, e você pode corrigir na hora com Editar e Pular)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": "30/10"
   },
   {
@@ -3050,7 +3050,27 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_traje_fnaf_boneco"
+  },
+  {
+   "id": "p59",
+   "aberta_em": "2026-10-30T01:26-03:00",
+   "agente": "Arpão",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "gravar a voz das 19 frases (sai antes do longo dos 34 leviatãs)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_gas_municao_reaper@v7"
+  },
+  {
+   "id": "p60",
+   "aberta_em": "2026-10-30T01:26-03:00",
+   "agente": "Arpão",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "gravar a voz das 20 frases",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_armadura_fallout@v7"
   }
  ],
- "gerado_em": "2026-10-30T01:24-03:00"
+ "gerado_em": "2026-10-30T01:26-03:00"
 }
