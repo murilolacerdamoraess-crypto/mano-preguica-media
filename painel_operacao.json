@@ -3102,7 +3102,16 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_armadura_fallout@v7"
+  },
+  {
+   "id": "p61",
+   "aberta_em": "2026-10-30T01:35-03:00",
+   "agente": "Farol",
+   "video": "Stonewards em dupla",
+   "o_que": "regravar só o trecho 106 (o fim subiu como pergunta): \"Na Onda 8 eu já tava fazia 4 minutos com 38 de vida, e mesmo assim fui pra briga. Os dragões me derrubaram em questão de segundos.\"",
+   "onde": "Gravar",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T01:29-03:00"
+ "gerado_em": "2026-10-30T01:35-03:00"
 }
