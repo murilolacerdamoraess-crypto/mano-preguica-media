@@ -1470,10 +1470,10 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "narração, texto no Gravar com 68 frases em 8 blocos (subiu em 21/10 e de novo em 26/10, porque o Gravar tinha escondido o texto; roteiro aprovado em 20/10, versão 2; 14 a 17 min: a missão do The Last Bacon de matar os 34 leviatãs num jogo em que a única arma é a faca; o plano de cada fase e o que quebrou; os Ghosts que a bolha não segura; a Thermoblade que não funciona no Sea Dragon; e o Sea Dragon que fugiu pelo chão do mapa)",
-   "responsavel": "Farol",
-   "falta_murilo": "gravar a voz no painel (68 frases, a primeira da fila)",
-   "prazo": "30/10 (sexta, mesmo horário que estava pra quarta; você mudou em 26/10 pra manter o vídeo de teste da edição antes)"
+   "etapa": "edição, o demo de 3:45 (abertura e capítulos 1 e 2) entregue em 30/10 pra você ver o jeito; o vídeo inteiro segue na montagem",
+   "responsavel": "Tesoura",
+   "falta_murilo": "assistir o demo e aprovar o jeito",
+   "prazo": ""
   },
   {
    "tipo": "Longo",
@@ -3167,7 +3167,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1w4mBzKopGBA6fquwBuEEfOOLYP0wMZqO"
+  },
+  {
+   "id": "p66",
+   "aberta_em": "2026-10-30T04:40-03:00",
+   "agente": "Tesoura",
+   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "o_que": "assistir o DEMO (os primeiros 3:45: a abertura e os capítulos 1 e 2) e aprovar o jeito antes do vídeo inteiro, ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM"
   }
  ],
- "gerado_em": "2026-10-30T03:18-03:00"
+ "gerado_em": "2026-10-30T04:40-03:00"
 }
