@@ -1602,7 +1602,7 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "roteiro (aguardando aprovação, versão 3: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e um motor pra dar mais força às lâminas, e o teste no boneco de 3 mil dólares com osso e órgão; tem sangue verde falso no fim; uns 2 min e 50)",
+   "etapa": "roteiro (aguardando aprovação, versão 4, revisada contra os ajustes de 29/10 no lugar da versão 3: abre perguntando se dá pra construir o traje de FNAF de verdade; o inventor que os fãs desafiaram, o primeiro traje que eles disseram não ser o do jogo, a versão com molas e lâminas presas por um fio fino, e o teste no boneco de 3 mil dólares com osso e órgão; tem sangue verde falso no fim; uns 2 min e 40)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": "31/10 (Halloween)"
@@ -2825,8 +2825,10 @@
    "video": "Fizeram o traje de FNAF que esmaga quem veste",
    "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v3"
+   "status": "cancelada",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v3",
+   "fechada_em": "2026-10-29T22:35-03:00",
+   "nota": "trocada pela versão 4 (revisão de 29/10), chave @v4"
   },
   {
    "id": "p42",
@@ -2859,7 +2861,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v4"
+  },
+  {
+   "id": "p45",
+   "aberta_em": "2026-10-29T22:35-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste",
+   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v4"
   }
  ],
- "gerado_em": "2026-10-29T22:33-03:00"
+ "gerado_em": "2026-10-29T22:36-03:00"
 }
