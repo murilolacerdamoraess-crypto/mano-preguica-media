@@ -2941,6 +2941,16 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1srtO0OXwdrTuNORsPsZ65tbBhWjJLvr0"
+  },
+  {
+   "id": "p50",
+   "aberta_em": "2026-10-29T23:30-03:00",
+   "agente": "Farol",
+   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "o_que": "aprovar o roteiro",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2"
   }
  ],
  "gerado_em": "2026-10-29T23:30-03:00"
