@@ -262,7 +262,7 @@
    "titulo": "Quando o canal já tem vídeo do mesmo bicho ou da mesma mecânica, a pauta e o roteiro dizem o que é novo em relação a ele, e esse novo vira o gancho.",
    "onde": "role descoberta.md (Sonar, linha do ledger e do Reaper e Gargantuan), roles shorts.md e longos.md (linha \"Nunca re-caçar o que está no ledger\") e o portão de pauta.",
    "confianca": "forte no pedido (3 vezes, uma delas como ordem: \"antes de pautar, confira se ele já fez o mesmo\"), sem número de desempenho.",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-30 (aprovada pelo Murilo no painel em 30/10; entrou na skill shorts-roteirista, passo 1 da ordem de trabalho, e no role shorts.md)",
    "simples": "Antes de pautar ou escrever sobre um bicho ou truque que já apareceu no canal, quem escreve procura o vídeo antigo e põe na pauta uma linha \"o que é novo em relação a <vídeo antigo>\". No gás contra o Reaper, o vídeo antigo era \"o gasópode mata tudo\", e o novo é que o cara transformou a ferramenta do gás numa arma nova; é isso que abre o roteiro."
   },
   {
@@ -3072,5 +3072,5 @@
    "chave": "narracao:short_armadura_fallout@v7"
   }
  ],
- "gerado_em": "2026-10-30T01:26-03:00"
+ "gerado_em": "2026-10-30T01:27-03:00"
 }
