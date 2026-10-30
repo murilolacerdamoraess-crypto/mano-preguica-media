@@ -1874,7 +1874,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "roteiro (versão 3 aguardando aprovação, no ângulo que você pediu em 28/10: a ferramenta que ele normalmente nem usa, que puxa e arremessa as coisas, carregada com o gás do Gasopod vira uma arma que o jogo não te dá; a voz da versão 2 não vale mais; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
+   "etapa": "roteiro (versão 4 aguardando aprovação (a 4 só corrige o que repetia erro do Fallout: a bolsa sem explicação dentro da explicação, o canhão sem lista e a contradição de quando a bolsa explode; o resto igual à 3), no ângulo que você pediu em 28/10: a ferramenta que ele normalmente nem usa, que puxa e arremessa as coisas, carregada com o gás do Gasopod vira uma arma que o jogo não te dá; a voz da versão 2 não vale mais; isca única do longo dos 34 leviatãs, sai antes dele, na sexta 30/10)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": "30/10"
@@ -2664,8 +2664,9 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "aprovar ou ajustar o roteiro novo (versão 3, a arma com o canhão; prazo 30/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v3"
+   "status": "feita",
+   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v3",
+   "fechada_em": "2026-10-29T22:32-03:00"
   },
   {
    "id": "p28",
@@ -2848,7 +2849,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO"
+  },
+  {
+   "id": "p44",
+   "aberta_em": "2026-10-29T22:32-03:00",
+   "agente": "Arpão",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "aprovar ou ajustar o roteiro (versão 4; prazo 30/10)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v4"
   }
  ],
- "gerado_em": "2026-10-29T22:30-03:00"
+ "gerado_em": "2026-10-29T22:33-03:00"
 }
