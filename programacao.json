@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T14:39:39.954250-03:00",
+ "gerado_em": "2026-10-29T21:20:40.066344-03:00",
  "mes": {
   "postados": 29,
   "teto": 93,
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 3,
-   "ultimo_post": "2026-10-27",
-   "dias_parado": 2,
+   "ultimo_post": "2026-10-29",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "F3kaiclPuWw",
-     "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween",
-     "quando": "2026-10-29T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
@@ -61,11 +55,6 @@
     {
      "video_id": "WkcpDGnBaUc",
      "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts",
-     "quando": "2026-10-29T20:00:00-03:00"
-    },
-    {
-     "video_id": "X__XMvu7l6I",
-     "titulo": "A NOVA CRIATURA DE SUBNAUTICA 2 É COBERTA DE UM MATERIAL ESTRANHO",
      "quando": "2026-11-05T20:00:00-03:00"
     }
    ],
