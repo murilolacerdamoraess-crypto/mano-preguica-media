@@ -1850,9 +1850,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
-   "etapa": "narração, texto no Gravar com 17 frases (versão 5 aprovada por você em 25/10; projeto short_ps2_portatil; o material de apoio do editor está no Drive, em ROTEIROS - APOIO EDITOR, pra você olhar antes de ir pro Nicolas; título aprovado em 28/10: \"Esse cara tá tentando transformar um PS2 quebrado num portátil\")",
-   "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "etapa": "edição (voz gravada por você em 29/10; a fala final é a gravada, com as frases que você mudou na hora e take vazio nos trechos que você cortou; próximo: a Tesoura edita, depois do show da Pokémon e do Elden Ring; título aprovado em 28/10: \"Esse cara tá tentando transformar um PS2 quebrado num portátil\")",
+   "responsavel": "Tesoura",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2883,5 +2883,5 @@
    "chave": "roteiro:short-traje-fnaf-springlock.md@v4"
   }
  ],
- "gerado_em": "2026-10-29T22:54-03:00"
+ "gerado_em": "2026-10-29T22:55-03:00"
 }
