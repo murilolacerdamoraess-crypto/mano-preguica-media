@@ -2833,8 +2833,10 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "aprovar ou ajustar o roteiro (versão 7, feita com o seu review de 29/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7"
+   "status": "cancelada",
+   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7",
+   "fechada_em": "2026-10-29T23:03-03:00",
+   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
   },
   {
    "id": "p41",
@@ -2867,8 +2869,10 @@
    "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
    "o_que": "assistir a versão com os seus ajustes (sem o silêncio comprido depois do 'insano, meus amigos', a legenda saindo na pausa e a música mais baixa) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO"
+   "status": "cancelada",
+   "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO",
+   "fechada_em": "2026-10-29T23:03-03:00",
+   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
   },
   {
    "id": "p44",
@@ -2877,8 +2881,10 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "aprovar ou ajustar o roteiro (versão 4; prazo 30/10)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v4"
+   "status": "cancelada",
+   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v4",
+   "fechada_em": "2026-10-29T23:03-03:00",
+   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
   },
   {
    "id": "p45",
@@ -2893,5 +2899,5 @@
    "nota": "volta depois do APROVADO PELO CRIVO (regra de 29/10)"
   }
  ],
- "gerado_em": "2026-10-29T23:01-03:00"
+ "gerado_em": "2026-10-29T23:03-03:00"
 }
