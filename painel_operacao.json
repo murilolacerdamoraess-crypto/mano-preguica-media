@@ -1462,9 +1462,9 @@
   {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "etapa": "roteiro aguardando aprovação, versão 2 (as correções que você fez em outros vídeos, o teste do leigo e o Crivo: a abertura virou pergunta, a torre não se repete, o relógio saiu e a fase do terraço e do portal ganhou explicação) (passou na frente da fila por decisão sua; as 5 partidas, um Pokémon por mapa, o que cada derrota ensinou pra próxima e a torre do quinto andar vencida no fim; 12 a 14 min, canal principal, voz sua com as suas reações ao vivo)",
+   "etapa": "narração, texto no Gravar com 56 frases (roteiro aprovado por você em 30/10), versão 2 (as correções que você fez em outros vídeos, o teste do leigo e o Crivo: a abertura virou pergunta, a torre não se repete, o relógio saiu e a fase do terraço e do portal ganhou explicação) (passou na frente da fila por decisão sua; as 5 partidas, um Pokémon por mapa, o que cada derrota ensinou pra próxima e a torre do quinto andar vencida no fim; 12 a 14 min, canal principal, voz sua com as suas reações ao vivo)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "gravar a voz no painel (56 frases)",
    "prazo": ""
   },
   {
@@ -1478,9 +1478,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro aguardando aprovação, versão 4 (floresta de algas e moon pool do jeito que você fala, as frases longas quebradas, o teste do leigo e o Crivo; antes era a versão 3) com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
+   "etapa": "narração, texto no Gravar com 80 frases (roteiro aprovado por você em 30/10), versão 4 (floresta de algas e moon pool do jeito que você fala, as frases longas quebradas, o teste do leigo e o Crivo; antes era a versão 3) com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a narração no painel",
+   "falta_murilo": "gravar a voz no painel (80 frases), a voz está atrasada pro vídeo de 04/11",
    "prazo": "04/11"
   },
   {
@@ -2961,7 +2961,7 @@
    "onde": "Decidir",
    "status": "feita",
    "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2",
-   "fechada_em": "2026-10-30T01:19-03:00",
+   "fechada_em": "2026-10-30T01:21-03:00",
    "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
@@ -2985,7 +2985,7 @@
    "onde": "Decidir",
    "status": "feita",
    "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4",
-   "fechada_em": "2026-10-30T01:19-03:00",
+   "fechada_em": "2026-10-30T01:21-03:00",
    "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
@@ -3022,7 +3022,25 @@
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7",
    "fechada_em": "2026-10-30T01:19-03:00",
    "nota": "aprovou em 30/10 01:12-01:14"
+  },
+  {
+   "id": "p56",
+   "aberta_em": "2026-10-30T01:21-03:00",
+   "agente": "Farol",
+   "video": "Ela zerou o Subnautica antes da Aurora explodir",
+   "o_que": "gravar a voz das 80 frases (o vídeo é de 04/11)",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p57",
+   "aberta_em": "2026-10-30T01:21-03:00",
+   "agente": "Farol",
+   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "o_que": "gravar a voz das 56 frases",
+   "onde": "Gravar",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-10-30T01:19-03:00"
+ "gerado_em": "2026-10-30T01:21-03:00"
 }
