@@ -2951,6 +2951,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2"
+  },
+  {
+   "id": "p51",
+   "aberta_em": "2026-10-29T23:38-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste",
+   "o_que": "aprovar ou pedir ajuste no roteiro reescrito",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-traje-fnaf-springlock.md@v8"
   }
  ],
  "gerado_em": "2026-10-29T23:38-03:00"
