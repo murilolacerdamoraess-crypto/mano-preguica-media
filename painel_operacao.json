@@ -3139,6 +3139,16 @@
    "status": "feita",
    "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE",
    "fechada_em": "2026-10-31T11:59-03:00"
+  },
+  {
+   "id": "p70",
+   "aberta_em": "2026-10-31T12:01-03:00",
+   "agente": "Tesoura",
+   "video": "Elden Ring no tapete (v7) e longo dos 34 leviatãs",
+   "o_que": "apertar 1 no terminal da Tesoura (no Maestri): ela está parada desde 30/10 20h pedindo permissão pra corrigir o script da trilha; sem isso o Elden v7 não sai pra 01/11",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "maestri:tesoura-permissao"
   }
  ],
  "gerado_em": "2026-10-31T12:01-03:00"
