@@ -3058,8 +3058,9 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "assistir o DEMO (os primeiros 3:45: a abertura e os capítulos 1 e 2) e aprovar o jeito antes do vídeo inteiro, ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM"
+   "status": "feita",
+   "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM",
+   "fechada_em": "2026-10-31T11:49-03:00"
   },
   {
    "id": "p67",
@@ -3091,5 +3092,5 @@
    "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE"
   }
  ],
- "gerado_em": "2026-10-31T09:33-03:00"
+ "gerado_em": "2026-10-31T11:50-03:00"
 }
