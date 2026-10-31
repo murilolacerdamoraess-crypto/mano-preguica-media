@@ -2744,17 +2744,6 @@
    "nota": "aprovou o título v3 às 19:36"
   },
   {
-   "id": "p31",
-   "aberta_em": "2026-10-28T15:22-03:00",
-   "agente": "Tesoura",
-   "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "o_que": "assistir a versão nova e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "fechada_em": "2026-10-29T19:27-03:00",
-   "nota": "assistiu às 19:17: APROVADO pra seguir (as notas viram regra de edição, sem refazer)"
-  },
-  {
    "id": "p32",
    "aberta_em": "2026-10-28T15:34-03:00",
    "agente": "Tesoura",
@@ -3191,5 +3180,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T12:36-03:00"
+ "gerado_em": "2026-10-31T19:31-03:00"
 }
