@@ -336,6 +336,14 @@
    "confianca": "fraca (1 longo no canal 2; o sinal é a busca, que se mantém sozinha).",
    "status": "aguardando",
    "simples": "O guia de mods do canal 2 é o único longo de lá que ainda recebe gente procurando no YouTube, um ano depois. A ideia é fazer uma versão editada e atualizada pro principal, com os mods que valem a pena em 2026 e como instalar, pra ganhar views de busca o ano todo."
+  },
+  {
+   "id": "R43",
+   "titulo": "Regravar 1 frase de um vídeo que já está editado aparece no topo do Gravar, separado dos lotes grandes.",
+   "onde": "painel (aba Gravar) e `pendencia.py`, do Claude Code. Origem: Diretor de melhorias, 31/10.",
+   "confianca": "fraca (4 casos em 3 dias). É mudança de ordem no painel, não de regra de conteúdo.",
+   "status": "aguardando",
+   "simples": "Quando um vídeo já está editado e só falta você regravar uma frase, ela aparece primeiro no Gravar, num lugar separado. Hoje a frase do peixe do Reaper espera atrás de quase 200 frases de roteiros novos, e o vídeo pronto fica parado há 3 dias por causa de 30 segundos de voz."
   }
  ],
  "equipe": [
@@ -3083,5 +3091,5 @@
    "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE"
   }
  ],
- "gerado_em": "2026-10-31T00:53-03:00"
+ "gerado_em": "2026-10-31T09:33-03:00"
 }
