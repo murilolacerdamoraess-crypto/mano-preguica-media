@@ -2487,30 +2487,6 @@
    "nota": "gravou as 17 frases em 29/10 à noite, com ajustes na hora; algumas são áudio vazio onde a frase ficou obsoleta"
   },
   {
-   "id": "p7",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "Short da ocarina do Zelda (canal 2)",
-   "o_que": "escolher a versão contada como história ou a de notícia",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "peca:versao-do-short-da-ocarina-do-zelda-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2",
-   "fechada_em": "2026-10-29T00:44-03:00",
-   "nota": "29/10: o Murilo pediu pra não escolher; o Arpão ficou com a versão de notícia e arquivou a contada como história"
-  },
-  {
-   "id": "p8",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "Short da Pokébola de LEGO (canal 2)",
-   "o_que": "escolher a versão contada como história ou a de notícia",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "peca:versao-do-short-da-pokebola-de-lego-opcao-1-a-aprovada-contada-como-historia-can:aprovar-esta-versao-ou-a-da-opcao-2",
-   "fechada_em": "2026-10-29T00:44-03:00",
-   "nota": "29/10: o Murilo pediu pra não escolher; o Arpão ficou com a versão de notícia e arquivou a contada como história"
-  },
-  {
    "id": "p9",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Arpão",
@@ -3107,5 +3083,5 @@
    "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE"
   }
  ],
- "gerado_em": "2026-10-31T00:43-03:00"
+ "gerado_em": "2026-10-31T00:53-03:00"
 }
