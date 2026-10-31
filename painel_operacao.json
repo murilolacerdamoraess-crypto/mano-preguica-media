@@ -2734,18 +2734,6 @@
    "nota": "programado dom 1/11 18:00 com capa A, conferido no Studio às 21h"
   },
   {
-   "id": "p37",
-   "aberta_em": "2026-10-29T19:43-03:00",
-   "agente": "Arpão",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "aprovar ou ajustar o roteiro (versão 6, sem a palavra armadura repetida)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v6",
-   "fechada_em": "2026-10-29T19:57-03:00",
-   "nota": "ele revisou a v5 às 19:47 e pediu ajuste; a versão nova (v7) volta como item novo"
-  },
-  {
    "id": "p38",
    "aberta_em": "2026-10-29T19:43-03:00",
    "agente": "Arpão",
@@ -3111,5 +3099,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T19:44-03:00"
+ "gerado_em": "2026-10-31T20:02-03:00"
 }
