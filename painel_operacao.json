@@ -351,7 +351,7 @@
    "onde": "skill `edicao-video`, `_MODELO-ordem-de-producao.md` (seção 3) e os moldes de edição (`producao/moldes-de-edicao.md`). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "forte (é o 7º caso do C16, no Short e no longo).",
    "status": "aguardando",
-   "simples": "Quando a gente quer mostrar um número ou um item, ele aparece em cima da cena que já está passando, em vez de cortar pra uma tela separada e voltar. Tela separada só pra explicação difícil, como um mapa. Foi o que você apontou na faca e nas facadas dos leviatãs e no letreiro do Elden Ring."
+   "simples": "Quando a gente quer mostrar um número ou um item, ele aparece em cima da cena que já está passando, em vez de cortar pra uma tela separada e voltar. Tela separada só pra explicação difícil, como um mapa. E informação sem imagem boa (como o \"nível 1\") não ganha imagem: a luta continua. Foi o que você apontou na faca e nas facadas dos leviatãs e no letreiro e no nível 1 do Elden Ring."
   },
   {
    "id": "R45",
@@ -392,6 +392,30 @@
    "confianca": "média (1 caso; parte é sugestão).",
    "status": "aguardando",
    "simples": "Nas cenas do jogo, o bicho aparece se mexendo, não parado longe, e a pessoa que joga aparece logo no começo."
+  },
+  {
+   "id": "R50",
+   "titulo": "Zoom dado se sustenta: dali a câmera só anda, nunca tira e põe o zoom de novo.",
+   "onde": "skill `edicao-video` (câmera do `montar_short` e do kit) e `_MODELO-ordem-de-producao.md` (seção 3, coluna Câmera). Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
+   "confianca": "forte (2 vezes no mesmo vídeo, pedido direto).",
+   "status": "aguardando",
+   "simples": "Depois que a imagem aproxima de alguma coisa, ela fica aproximada e só desliza pro lado que interessa; não afasta e aproxima de novo, que parece erro de edição."
+  },
+  {
+   "id": "R51",
+   "titulo": "A câmera aponta o que a fala cita, no referencial da pessoa do vídeo.",
+   "onde": "skill `edicao-video` e `_MODELO-ordem-de-producao.md` (seção 3: plano de demonstração com o mapa dos itens). Junta-se ao C17 (o que a fala cita ocupa a tela). Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
+   "confianca": "média (1 caso, mas é o tipo de demonstração que se repete: tapete, controle, mod).",
+   "status": "aguardando",
+   "simples": "Quando a narração cita uma parte (a seta da frente, o botão de rolar), a imagem desliza até ela naquele momento, e \"frente\" e \"direita\" são as da pessoa do vídeo, não as de quem assiste."
+  },
+  {
+   "id": "R52",
+   "titulo": "O gesto na tela bate com a fala: o trecho é escolhido pelo que a pessoa faz e diz nele, não pela duração.",
+   "onde": "`_MODELO-ordem-de-producao.md` (seção 3, a escolha de `CODE@tempo`) e o Crivo. Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
+   "confianca": "forte (o erro é de fato na tela, igual a frase errada).",
+   "status": "aguardando",
+   "simples": "Quando a gente diz \"botão de beber o frasco\", a imagem mostra ela apontando o botão do frasco, e não outro. Pra isso a gente ouve o que ela fala no vídeo original e escolhe o trecho certo."
   }
  ],
  "equipe": [
@@ -3151,5 +3175,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T12:02-03:00"
+ "gerado_em": "2026-10-31T12:03-03:00"
 }
