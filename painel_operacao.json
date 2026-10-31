@@ -2583,17 +2583,6 @@
    "nota": "gravou as 17 frases em 29/10 à noite, com ajustes na hora; algumas são áudio vazio onde a frase ficou obsoleta"
   },
   {
-   "id": "p9",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "aprovar ou ajustar o roteiro (versão 5)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v5",
-   "fechada_em": "2026-10-29T19:43-03:00"
-  },
-  {
    "id": "p10",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Arpão",
@@ -2688,17 +2677,6 @@
    "nota": "roteiro na fila do Farol, fora do Decidir até abrir vaga no teto de 5 (29/10)"
   },
   {
-   "id": "p20",
-   "aberta_em": "2026-10-28T09:24-03:00",
-   "agente": "Leme",
-   "video": "PokéBonk 4, o do Nidoking (canal 2)",
-   "o_que": "escolher a capa",
-   "onde": "Capas",
-   "status": "feita",
-   "fechada_em": "2026-10-29T19:37-03:00",
-   "nota": "escolheu a capa A (nova) às 19:35"
-  },
-  {
    "id": "p25",
    "aberta_em": "2026-10-28T11:22-03:00",
    "agente": "Tesoura",
@@ -2719,41 +2697,6 @@
    "status": "feita",
    "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v3",
    "fechada_em": "2026-10-29T22:32-03:00"
-  },
-  {
-   "id": "p28",
-   "aberta_em": "2026-10-28T13:53-03:00",
-   "agente": "Arpão",
-   "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
-   "o_que": "aprovar ou ajustar o roteiro (versão 4, sem \"peça\")",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v4",
-   "fechada_em": "2026-10-29T19:43-03:00"
-  },
-  {
-   "id": "p29",
-   "aberta_em": "2026-10-28T13:58-03:00",
-   "agente": "Anzol",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "aprovar o título novo do Short (prazo 30/10)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-novo-v3-do-short-do-reaper-e-o-gas-esse-cara-criou-uma-arma-nova-dentro-d:aprovar-este-titulo",
-   "fechada_em": "2026-10-29T19:37-03:00",
-   "nota": "aprovou o título v3 às 19:36"
-  },
-  {
-   "id": "p32",
-   "aberta_em": "2026-10-28T15:34-03:00",
-   "agente": "Tesoura",
-   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "o_que": "assistir a versão nova (v3, o jogo em cima e os pés dela embaixo o vídeo inteiro) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1VkKIzRP5kFr1q9k0SI4GGoBcsVEbZ_5g",
-   "fechada_em": "2026-10-29T19:35-03:00",
-   "nota": "assistiu às 19:29; 19:4x pediu aplicar os ajustes (vai pro principal)"
   },
   {
    "id": "p33",
@@ -2778,18 +2721,6 @@
    "chave": "roteiro:mp2-pokebola-lego-abre-modo-noticia.md@v1",
    "fechada_em": "2026-10-29T21:00-03:00",
    "nota": "29/10: teto de 5 roteiros esperando o Murilo; o roteiro foi pra fila do Arpão e volta quando abrir vaga"
-  },
-  {
-   "id": "p35",
-   "aberta_em": "2026-10-29T01:04-03:00",
-   "agente": "Tesoura",
-   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "o_que": "assistir a versão nova (imagens da transmissão oficial e a música eletrônica do canal) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1mfev-MZsSJKrDxorWeXrdpz12lrqs_Os",
-   "fechada_em": "2026-10-29T19:35-03:00",
-   "nota": "assistiu às 19:35; pediu os ajustes (vai pro principal)"
   },
   {
    "id": "p36",
@@ -3180,5 +3111,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T19:31-03:00"
+ "gerado_em": "2026-10-31T19:44-03:00"
 }
