@@ -344,6 +344,54 @@
    "confianca": "fraca (4 casos em 3 dias). É mudança de ordem no painel, não de regra de conteúdo.",
    "status": "aguardando",
    "simples": "Quando um vídeo já está editado e só falta você regravar uma frase, ela aparece primeiro no Gravar, num lugar separado. Hoje a frase do peixe do Reaper espera atrás de quase 200 frases de roteiros novos, e o vídeo pronto fica parado há 3 dias por causa de 30 segundos de voz."
+  },
+  {
+   "id": "R44",
+   "titulo": "Informação entra em cima da cena que está rolando; plano à parte só pra explicação complexa.",
+   "onde": "skill `edicao-video`, `_MODELO-ordem-de-producao.md` (seção 3) e os moldes de edição (`producao/moldes-de-edicao.md`). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "forte (é o 7º caso do C16, no Short e no longo).",
+   "status": "aguardando",
+   "simples": "Quando a gente quer mostrar um número ou um item, ele aparece em cima da cena que já está passando, em vez de cortar pra uma tela separada e voltar. Tela separada só pra explicação difícil, como um mapa. Foi o que você apontou na faca e nas facadas dos leviatãs e no letreiro do Elden Ring."
+  },
+  {
+   "id": "R45",
+   "titulo": "Contador e elemento fixo só aparecem quando a fala cita ou quando acontece.",
+   "onde": "skill `edicao-video` e `_MODELO-ordem-de-producao.md` (seção 3, `Placar`/`ContadorCanto`). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "média (1 caso, mas o pedido é direto).",
+   "status": "aguardando",
+   "simples": "O contador de leviatãs mortos só aparece quando a gente fala dele ou quando um bicho morre, e some depois de uns segundos, em vez de ficar no canto desde o começo."
+  },
+  {
+   "id": "R46",
+   "titulo": "Animação de entrada, saída e movimento suave: sem teleporte e sem repor o que já está na tela.",
+   "onde": "skill `edicao-video` (kit Remotion) e o `animacao.py` do Crivo. Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "forte (3 casos num vídeo, apontados um por um).",
+   "status": "aguardando",
+   "simples": "Quando uma imagem muda de lugar na tela, ela desliza devagar até o lugar novo, em vez de pular; e o que já está na tela não pisca nem entra de novo."
+  },
+  {
+   "id": "R47",
+   "titulo": "Crédito do criador pequeno num canto livre, aparece e some, nunca em cima do HUD.",
+   "onde": "skill `edicao-video` (`Lower` de crédito) e `_MODELO-ordem-de-producao.md` (seção 7, crédito). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "forte (pedido direto).",
+   "status": "aguardando",
+   "simples": "O nome do youtuber de quem é o vídeo aparece pequeno num canto vazio da tela, por uns 3 segundos, sem cobrir a vida, o oxigênio ou outra informação do jogo."
+  },
+  {
+   "id": "R48",
+   "titulo": "Sem cartão de capítulo com cara de livro.",
+   "onde": "skill `edicao-video` (`Capitulo`) e `_MODELO-ordem-de-producao.md` (seção 3). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "forte (ele disse que é repetido).",
+   "status": "aguardando",
+   "simples": "Os vídeos longos param de mostrar \"Capítulo 1, Capítulo 2\" na tela como se fosse um livro. Os capítulos ficam só na barra do YouTube, pela descrição."
+  },
+  {
+   "id": "R49",
+   "titulo": "Imagem com movimento: o bicho nadando e a pessoa na tela, não o bicho parado.",
+   "onde": "skill `edicao-video` e a escolha de trechos da ordem (seção 3). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
+   "confianca": "média (1 caso; parte é sugestão).",
+   "status": "aguardando",
+   "simples": "Nas cenas do jogo, o bicho aparece se mexendo, não parado longe, e a pessoa que joga aparece logo no começo."
   }
  ],
  "equipe": [
@@ -3092,5 +3140,5 @@
    "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE"
   }
  ],
- "gerado_em": "2026-10-31T11:50-03:00"
+ "gerado_em": "2026-10-31T11:53-03:00"
 }
