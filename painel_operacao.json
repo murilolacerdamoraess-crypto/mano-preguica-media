@@ -350,7 +350,7 @@
    "titulo": "Informação entra em cima da cena que está rolando; plano à parte só pra explicação complexa.",
    "onde": "skill `edicao-video`, `_MODELO-ordem-de-producao.md` (seção 3) e os moldes de edição (`producao/moldes-de-edicao.md`). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "forte (é o 7º caso do C16, no Short e no longo).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45, demo dos 34 leviatãs): \"você poderia só colocar aquele texto 3D, aquela inserção naquele momento ali, entendeu? Sem trazer ele para esse plano [...] A não ser que seja uma baita explicação super complexa que precisa da atenção do cara\"; e (31/10 11:57, Elden v6): \"É só uma informação pra agregar dificuldade no desafio. Ela não precisa ser ilustrada\". A lista fechada de motivos do plano à parte é conclusão nossa e foi pro Decidir na R53.",
    "simples": "Quando a gente quer mostrar um número ou um item, ele aparece em cima da cena que já está passando, em vez de cortar pra uma tela separada e voltar. Tela separada só pra explicação difícil, como um mapa. E informação sem imagem boa (como o \"nível 1\") não ganha imagem: a luta continua. Foi o que você apontou na faca e nas facadas dos leviatãs e no letreiro e no nível 1 do Elden Ring."
   },
   {
@@ -358,7 +358,7 @@
    "titulo": "Contador e elemento fixo só aparecem quando a fala cita ou quando acontece.",
    "onde": "skill `edicao-video` e `_MODELO-ordem-de-producao.md` (seção 3, `Placar`/`ContadorCanto`). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "média (1 caso, mas o pedido é direto).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45): \"tem que colocar ele só quando de fato for mencionado ou eliminar um monstro de fato\". O limite de 5 s na tela é conclusão nossa e foi pro Decidir na R54.",
    "simples": "O contador de leviatãs mortos só aparece quando a gente fala dele ou quando um bicho morre, e some depois de uns segundos, em vez de ficar no canto desde o começo."
   },
   {
@@ -366,7 +366,7 @@
    "titulo": "Animação de entrada, saída e movimento suave: sem teleporte e sem repor o que já está na tela.",
    "onde": "skill `edicao-video` (kit Remotion) e o `animacao.py` do Crivo. Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "forte (3 casos num vídeo, apontados um por um).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45): \"você só puxa ele pro lado e não fica suavizado. Fica parecendo um bug\"; \"você colocou ele de novo, sendo que ele já estava\". Os limites (8% da largura, 1 a 6 quadros) são conclusão nossa e foram pro Decidir na R54.",
    "simples": "Quando uma imagem muda de lugar na tela, ela desliza devagar até o lugar novo, em vez de pular; e o que já está na tela não pisca nem entra de novo."
   },
   {
@@ -374,7 +374,7 @@
    "titulo": "Crédito do criador pequeno num canto livre, aparece e some, nunca em cima do HUD.",
    "onde": "skill `edicao-video` (`Lower` de crédito) e `_MODELO-ordem-de-producao.md` (seção 7, crédito). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "forte (pedido direto).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45): \"pode ser bem no canto superior esquerdo ou direito da tela, ou inferior direito da tela, bem pequenininho, só, tipo, aparecer e sumir, porque é só uma menção\". Os limites (20% da largura, 5 s) são conclusão nossa e foram pro Decidir na R54.",
    "simples": "O nome do youtuber de quem é o vídeo aparece pequeno num canto vazio da tela, por uns 3 segundos, sem cobrir a vida, o oxigênio ou outra informação do jogo."
   },
   {
@@ -382,7 +382,7 @@
    "titulo": "Sem cartão de capítulo com cara de livro.",
    "onde": "skill `edicao-video` (`Capitulo`) e `_MODELO-ordem-de-producao.md` (seção 3). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "forte (ele disse que é repetido).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45): \"você tem feito constantemente essa parada de tratar o vídeo como se fosse um livro, sei lá, e não eu não quero, não quero essa animação\".",
    "simples": "Os vídeos longos param de mostrar \"Capítulo 1, Capítulo 2\" na tela como se fosse um livro. Os capítulos ficam só na barra do YouTube, pela descrição."
   },
   {
@@ -390,7 +390,7 @@
    "titulo": "Imagem com movimento: o bicho nadando e a pessoa na tela, não o bicho parado.",
    "onde": "skill `edicao-video` e a escolha de trechos da ordem (seção 3). Origem: react do Murilo no demo dos 34 leviatãs (#35, 31/10 11:45, `producao/ajustes/2026-10-31-demo-34-leviatas.md`), proposta da Lente a pedido do Claude Code. Ele pediu: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\".",
    "confianca": "média (1 caso; parte é sugestão).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:45): \"não mostra o mergulhador, não mostra o influenciador, não mostra nada. Só fica mostrando o Reaper parado\". Os takes do Reaper nadando foram sugestão dele (\"seria bom\"), em teste.",
    "simples": "Nas cenas do jogo, o bicho aparece se mexendo, não parado longe, e a pessoa que joga aparece logo no começo."
   },
   {
@@ -398,7 +398,7 @@
    "titulo": "Zoom dado se sustenta: dali a câmera só anda, nunca tira e põe o zoom de novo.",
    "onde": "skill `edicao-video` (câmera do `montar_short` e do kit) e `_MODELO-ordem-de-producao.md` (seção 3, coluna Câmera). Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
    "confianca": "forte (2 vezes no mesmo vídeo, pedido direto).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:57): \"Se você já deu o zoom, cara, sustenta aquilo ali e só mexe a câmera. Porque senão fica tipo, parece um erro de edição\".",
    "simples": "Depois que a imagem aproxima de alguma coisa, ela fica aproximada e só desliza pro lado que interessa; não afasta e aproxima de novo, que parece erro de edição."
   },
   {
@@ -406,7 +406,7 @@
    "titulo": "A câmera aponta o que a fala cita, no referencial da pessoa do vídeo.",
    "onde": "skill `edicao-video` e `_MODELO-ordem-de-producao.md` (seção 3: plano de demonstração com o mapa dos itens). Junta-se ao C17 (o que a fala cita ocupa a tela). Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
    "confianca": "média (1 caso, mas é o tipo de demonstração que se repete: tapete, controle, mod).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:57): \"o teu referencial tem que ser ela, né? A frente dela você foi ali na direção da seta vermelha, que na verdade é a direita dela\".",
    "simples": "Quando a narração cita uma parte (a seta da frente, o botão de rolar), a imagem desliza até ela naquele momento, e \"frente\" e \"direita\" são as da pessoa do vídeo, não as de quem assiste."
   },
   {
@@ -414,8 +414,24 @@
    "titulo": "O gesto na tela bate com a fala: o trecho é escolhido pelo que a pessoa faz e diz nele, não pela duração.",
    "onde": "`_MODELO-ordem-de-producao.md` (seção 3, a escolha de `CODE@tempo`) e o Crivo. Origem: react do Murilo no Elden Ring v6 (#33, 31/10 11:57, `producao/ajustes/2026-10-31-elden-tapete-v6.md`), proposta da Lente a pedido do Claude Code (\"vou aproveitar esse momento para ser bem chato aqui com você na tua edição\").",
    "confianca": "forte (o erro é de fato na tela, igual a frase errada).",
-   "status": "aguardando",
+   "status": "aplicada 2026-10-31 pelo dito direto (o Murilo disse com todas as letras e pediu pra generalizar: \"extrair substancialmente aquilo que eu tô dizendo pra melhorar de modo geral na tua edição de vídeo como um todo\"; decisão do Claude Code de tirar do Decidir, 31/10). Frase dele (31/10 11:57): \"eu tô falando que um botão é para beber frasco e ela tá apontando com o pé para o botão que vai para a esquerda né então tem que tomar cuidado com isso também\". O limite de 1,5 s é conclusão nossa e foi pro Decidir na R54.",
    "simples": "Quando a gente diz \"botão de beber o frasco\", a imagem mostra ela apontando o botão do frasco, e não outro. Pra isso a gente ouve o que ela fala no vídeo original e escolhe o trecho certo."
+  },
+  {
+   "id": "R53",
+   "titulo": "Uma tela separada da gameplay só vale pra 4 coisas: mapa, o que o vídeo não mostra, comparar 3 ou mais e pedido seu.",
+   "onde": "seção 5 do `portao_repetidos.py` (Tesoura) e `_MODELO-ordem-de-producao.md` seção 8.1, bloco \"Mais 3 (31/10)\" (Lente, commit 172dcd71). Origem: a parte das R44 que é conclusão nossa, não frase dele (31/10).",
+   "confianca": "forte no princípio (é dele); a lista é nossa e pode ter faltado algum caso.",
+   "status": "aguardando",
+   "simples": "A gente só corta da gameplay pra uma tela separada quando é um mapa, uma coisa que o vídeo original não mostra, uma comparação de três coisas ou mais, ou quando você pede. Número, item e dano aparecem sempre em cima da cena que está passando."
+  },
+  {
+   "id": "R54",
+   "titulo": "Os números que a conferência automática usa pra reprovar a edição.",
+   "onde": "`_MODELO-ordem-de-producao.md` seção 8.1, bloco \"Mais 3 (31/10)\" (Lente, commit 172dcd71), conferidos pelo Crivo e pela Tesoura. Origem: as partes das R45 a R52 que são conclusão nossa (31/10).",
+   "confianca": "média (os números são a primeira medida; a Tesoura e o Crivo ajustam se pegarem coisa boa como erro).",
+   "status": "aguardando",
+   "simples": "Pra conferir sozinha o que você pediu, a máquina usa uns limites: o contador some uns 5 segundos depois de falado, imagem que pula de lugar em vez de deslizar reprova, o nome do youtuber fica pequeno e por pouco tempo, e quando a gente diz \"o botão do frasco\" a imagem mostra ela no botão do frasco, com no máximo um segundo e meio de diferença. A conferência já roda com esses números; se você não concordar, a gente muda."
   }
  ],
  "equipe": [
@@ -3175,5 +3191,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T12:03-03:00"
+ "gerado_em": "2026-10-31T12:36-03:00"
 }
