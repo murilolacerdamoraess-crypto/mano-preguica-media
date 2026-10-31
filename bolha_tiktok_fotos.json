@@ -709,7 +709,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1021
+"views": 1022
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -739,7 +739,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1322
+"views": 1326
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -769,7 +769,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3290
+"views": 3294
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1250,7 +1250,7 @@
 "v": 2752
 }
 ],
-"views": 3211
+"views": 3213
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2073,9 +2073,13 @@
 {
 "t": 1793404237,
 "v": 388
+},
+{
+"t": 1793426169,
+"v": 389
 }
 ],
-"views": 388
+"views": 389
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -2364,9 +2368,13 @@
 {
 "t": 1793418809,
 "v": 9008
+},
+{
+"t": 1793426169,
+"v": 9033
 }
 ],
-"views": 9008
+"views": 9033
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2523,9 +2531,13 @@
 {
 "t": 1793418809,
 "v": 8149
+},
+{
+"t": 1793426169,
+"v": 8162
 }
 ],
-"views": 8149
+"views": 8162
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2574,6 +2586,10 @@
 {
 "t": 1793404237,
 "v": 141
+},
+{
+"t": 1793426169,
+"v": 141
 }
 ],
 "views": 141
@@ -2597,9 +2613,13 @@
 {
 "t": 1793418809,
 "v": 165
+},
+{
+"t": 1793426169,
+"v": 170
 }
 ],
-"views": 165
+"views": 170
 }
 }
 }
