@@ -2572,17 +2572,6 @@
  ],
  "pendencias": [
   {
-   "id": "p5",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
-   "o_que": "gravar a voz",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-10-29T22:54-03:00",
-   "nota": "gravou as 17 frases em 29/10 à noite, com ajustes na hora; algumas são áudio vazio onde a frase ficou obsoleta"
-  },
-  {
    "id": "p11",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Farol",
@@ -2957,5 +2946,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T22:38-03:00"
+ "gerado_em": "2026-10-31T22:58-03:00"
 }
