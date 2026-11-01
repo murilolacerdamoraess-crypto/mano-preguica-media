@@ -2640,17 +2640,6 @@
    "nota": "gravou a frase do peixe em 29/10 à noite"
   },
   {
-   "id": "p27",
-   "aberta_em": "2026-10-28T13:53-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "aprovar ou ajustar o roteiro novo (versão 3, a arma com o canhão; prazo 30/10)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v3",
-   "fechada_em": "2026-10-29T22:32-03:00"
-  },
-  {
    "id": "p40",
    "aberta_em": "2026-10-29T20:59-03:00",
    "agente": "Arpão",
@@ -2661,18 +2650,6 @@
    "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7",
    "fechada_em": "2026-10-29T23:03-03:00",
    "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
-  },
-  {
-   "id": "p41",
-   "aberta_em": "2026-10-29T21:12-03:00",
-   "agente": "Tarrafa",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste",
-   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v3",
-   "fechada_em": "2026-10-29T22:35-03:00",
-   "nota": "trocada pela versão 4 (revisão de 29/10), chave @v4"
   },
   {
    "id": "p43",
@@ -2980,5 +2957,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T22:32-03:00"
+ "gerado_em": "2026-10-31T22:38-03:00"
 }
