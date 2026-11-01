@@ -2594,18 +2594,6 @@
    "nota": "gravou o Stonewards em 30/10"
   },
   {
-   "id": "p47",
-   "aberta_em": "2026-10-29T23:11-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "aprovar ou ajustar o roteiro (versão 5; prazo 30/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v5",
-   "fechada_em": "2026-10-30T01:04-03:00",
-   "nota": "trocada pela versão 7 (fala do Murilo no longo dos leviatãs), chave roteiro:short-25-reapers-sem-veiculo-faca.md@v7"
-  },
-  {
    "id": "p48",
    "aberta_em": "2026-10-29T23:13-03:00",
    "agente": "Arpão",
@@ -2652,17 +2640,6 @@
    "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4",
    "fechada_em": "2026-10-30T01:21-03:00",
    "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
-   "id": "p54",
-   "aberta_em": "2026-10-30T00:55-03:00",
-   "agente": "Periscópio",
-   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "o_que": "Apertar Programar na guia aberta do Studio (sábado 31/10 às 18h; Content ID limpo).",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-10-30T01:09-03:00",
-   "nota": "programado por ele pra sáb 31/10 18:00"
   },
   {
    "id": "p55",
@@ -2827,5 +2804,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T01:01-03:00"
+ "gerado_em": "2026-11-01T01:11-03:00"
 }
