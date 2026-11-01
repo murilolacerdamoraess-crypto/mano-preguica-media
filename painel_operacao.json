@@ -2594,18 +2594,6 @@
    "nota": "gravou o Stonewards em 30/10"
   },
   {
-   "id": "p46",
-   "aberta_em": "2026-10-29T23:09-03:00",
-   "agente": "Tarrafa",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste",
-   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v6",
-   "fechada_em": "2026-10-29T23:23-03:00",
-   "nota": "reprovado pelo Murilo em 29/10"
-  },
-  {
    "id": "p47",
    "aberta_em": "2026-10-29T23:11-03:00",
    "agente": "Arpão",
@@ -2863,5 +2851,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T23:19-03:00"
+ "gerado_em": "2026-10-31T23:29-03:00"
 }
