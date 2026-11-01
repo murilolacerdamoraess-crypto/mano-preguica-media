@@ -2572,40 +2572,6 @@
  ],
  "pendencias": [
   {
-   "id": "p11",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "o_que": "gravar a voz das 68 frases (o vídeo sai sexta 30/10)",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-10-30T01:12-03:00",
-   "nota": "gravou os 34 leviatãs em 29-30/10 (pulou de propósito 5.11 e 6.8)"
-  },
-  {
-   "id": "p12",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Stonewards em dupla",
-   "o_que": "gravar do trecho 38 ao 121 e regravar o 25",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-10-30T01:12-03:00",
-   "nota": "gravou o Stonewards em 30/10"
-  },
-  {
-   "id": "p48",
-   "aberta_em": "2026-10-29T23:13-03:00",
-   "agente": "Arpão",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "aprovar ou ajustar o roteiro (versão 7, feita com o seu review de 29/10)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7",
-   "fechada_em": "2026-10-30T01:19-03:00",
-   "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
    "id": "p50",
    "aberta_em": "2026-10-29T23:30-03:00",
    "agente": "Farol",
@@ -2618,18 +2584,6 @@
    "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
-   "id": "p51",
-   "aberta_em": "2026-10-29T23:38-03:00",
-   "agente": "Tarrafa",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste",
-   "o_que": "aprovar ou pedir ajuste no roteiro reescrito",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v8",
-   "fechada_em": "2026-10-30T01:19-03:00",
-   "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
    "id": "p52",
    "aberta_em": "2026-10-30T00:14-03:00",
    "agente": "Farol",
@@ -2639,18 +2593,6 @@
    "status": "feita",
    "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4",
    "fechada_em": "2026-10-30T01:21-03:00",
-   "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
-   "id": "p55",
-   "aberta_em": "2026-10-30T01:04-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "aprovar ou ajustar o roteiro (versão 7, com a sua fala do longo dos 34 leviatãs; prazo 30/10)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v7",
-   "fechada_em": "2026-10-30T01:19-03:00",
    "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
@@ -2804,5 +2746,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T01:11-03:00"
+ "gerado_em": "2026-11-01T01:21-03:00"
 }
