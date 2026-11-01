@@ -352,6 +352,10 @@
 {
 "t": 1793528960,
 "v": 256
+},
+{
+"t": 1793550951,
+"v": 256
 }
 ],
 "views": 256
@@ -545,7 +549,7 @@
 "v": 37800
 }
 ],
-"views": 42400
+"views": 42500
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -691,13 +695,13 @@
 "v": 431
 }
 ],
-"views": 495
+"views": 496
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1899
+"views": 1909
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -763,13 +767,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1367
+"views": 1370
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8842
+"views": 8844
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -781,7 +785,7 @@
 "titulo": "esse leviatã de Subnautica 2 voltou à vida depois de morto 😳 #subnaut...",
 "ts": 1787605295,
 "fotos": [],
-"views": 777
+"views": 779
 },
 "7676593096187989256": {
 "titulo": "agora dá pra caçar QUALQUER monstro em Subnautica 2 🔫 #subnautica #su...",
@@ -1274,7 +1278,7 @@
 "v": 2752
 }
 ],
-"views": 3306
+"views": 3311
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2103,7 +2107,7 @@
 "v": 389
 }
 ],
-"views": 389
+"views": 390
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -2460,9 +2464,13 @@
 {
 "t": 1793543584,
 "v": 10100
+},
+{
+"t": 1793550951,
+"v": 10200
 }
 ],
-"views": 10100
+"views": 10200
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2687,9 +2695,13 @@
 {
 "t": 1793543584,
 "v": 8542
+},
+{
+"t": 1793550951,
+"v": 8600
 }
 ],
-"views": 8542
+"views": 8600
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2837,9 +2849,13 @@
 {
 "t": 1793536195,
 "v": 230
+},
+{
+"t": 1793550951,
+"v": 231
 }
 ],
-"views": 230
+"views": 231
 }
 }
 }
