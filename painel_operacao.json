@@ -432,6 +432,14 @@
    "confianca": "média (os números são a primeira medida; a Tesoura e o Crivo ajustam se pegarem coisa boa como erro).",
    "status": "aguardando",
    "simples": "Pra conferir sozinha o que você pediu, a máquina usa uns limites: o contador some uns 5 segundos depois de falado, imagem que pula de lugar em vez de deslizar reprova, o nome do youtuber fica pequeno e por pouco tempo, e quando a gente diz \"o botão do frasco\" a imagem mostra ela no botão do frasco, com no máximo um segundo e meio de diferença. A conferência já roda com esses números; se você não concordar, a gente muda."
+  },
+  {
+   "id": "R55",
+   "titulo": "Agente parado pedindo permissão vira aviso no topo das Tarefas em até 1 hora, com o que ele pede em palavras simples.",
+   "onde": "rotina \"Saúde da máquina\" (`operacao-maestri/saude_maquina.py`) e o Plano do dia, do Claude Code. Origem: Diretor de melhorias, 01/11.",
+   "confianca": "forte para o atraso (1 caso medido de ponta a ponta, 35 h e 2 vídeos parados); fraca para a frequência (é o 1º caso registrado com hora).",
+   "status": "aguardando",
+   "simples": "Quando um agente trava esperando você liberar alguma coisa no terminal, hoje ninguém percebe por horas. A Tesoura ficou 16 h parada antes de virar tarefa e segurou o Elden e o longo dos leviatãs. Com isso, em até 1 hora aparece no topo das suas Tarefas, por exemplo: \"a Tesoura quer corrigir o script da música; o Elden de amanhã está esperando isso\"."
   }
  ],
  "equipe": [
@@ -2711,5 +2719,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T01:52-03:00"
+ "gerado_em": "2026-11-01T09:32-03:00"
 }
