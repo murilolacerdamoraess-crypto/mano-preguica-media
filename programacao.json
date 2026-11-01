@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31T21:23:34.096601-03:00",
+ "gerado_em": "2026-11-01T03:29:17.147379-03:00",
  "mes": {
   "postados": 0,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 5,
    "ultimo_post": "2026-10-30",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [],
@@ -37,14 +37,14 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 1,
    "ultimo_post": "2026-10-31",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "1QprFcx4k8I",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-10-31T21:30:00-03:00"
+     "quando": "2026-11-01T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -60,7 +60,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 28,
    "ultimo_post": "2026-10-28",
-   "dias_parado": 3,
+   "dias_parado": 4,
    "parado": false,
    "agendados": [],
    "previstos": [
