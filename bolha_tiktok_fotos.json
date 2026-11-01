@@ -348,6 +348,10 @@
 {
 "t": 1793506917,
 "v": 256
+},
+{
+"t": 1793528960,
+"v": 256
 }
 ],
 "views": 256
@@ -541,7 +545,7 @@
 "v": 37800
 }
 ],
-"views": 42300
+"views": 42400
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -759,7 +763,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1356
+"views": 1358
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -2444,9 +2448,13 @@
 {
 "t": 1793521544,
 "v": 9870
+},
+{
+"t": 1793528960,
+"v": 9907
 }
 ],
-"views": 9870
+"views": 9907
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2659,9 +2667,13 @@
 {
 "t": 1793521544,
 "v": 8459
+},
+{
+"t": 1793528960,
+"v": 8467
 }
 ],
-"views": 8459
+"views": 8467
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2733,6 +2745,10 @@
 },
 {
 "t": 1793506917,
+"v": 145
+},
+{
+"t": 1793528960,
 "v": 145
 }
 ],
