@@ -2594,30 +2594,6 @@
    "nota": "gravou o Stonewards em 30/10"
   },
   {
-   "id": "p13",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md",
-   "fechada_em": "2026-10-29T23:01-03:00",
-   "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
-  },
-  {
-   "id": "p15",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Ela zerou o Subnautica antes da Aurora explodir",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v3",
-   "fechada_em": "2026-10-29T23:01-03:00",
-   "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
-  },
-  {
    "id": "p25",
    "aberta_em": "2026-10-28T11:22-03:00",
    "agente": "Tesoura",
@@ -2627,54 +2603,6 @@
    "status": "feita",
    "fechada_em": "2026-10-29T23:17-03:00",
    "nota": "gravou a frase do peixe em 29/10 à noite"
-  },
-  {
-   "id": "p40",
-   "aberta_em": "2026-10-29T20:59-03:00",
-   "agente": "Arpão",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "aprovar ou ajustar o roteiro (versão 7, feita com o seu review de 29/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-armadura-fallout-de-verdade.md@v7",
-   "fechada_em": "2026-10-29T23:03-03:00",
-   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
-  },
-  {
-   "id": "p43",
-   "aberta_em": "2026-10-29T22:24-03:00",
-   "agente": "Tesoura",
-   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "o_que": "assistir a versão com os seus ajustes (sem o silêncio comprido depois do 'insano, meus amigos', a legenda saindo na pausa e a música mais baixa) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1ypc0IL9SZD2M6-MRTuJPlh8xmrNJx9RO",
-   "fechada_em": "2026-10-29T23:03-03:00",
-   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
-  },
-  {
-   "id": "p44",
-   "aberta_em": "2026-10-29T22:32-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "aprovar ou ajustar o roteiro (versão 4; prazo 30/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-25-reapers-sem-veiculo-faca.md@v4",
-   "fechada_em": "2026-10-29T23:03-03:00",
-   "nota": "29/10: passa pelo Crivo antes de voltar pro Murilo; o autor reabre com APROVADO PELO CRIVO"
-  },
-  {
-   "id": "p45",
-   "aberta_em": "2026-10-29T22:35-03:00",
-   "agente": "Tarrafa",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste",
-   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v4",
-   "fechada_em": "2026-10-29T23:01-03:00",
-   "nota": "volta depois do APROVADO PELO CRIVO (regra de 29/10)"
   },
   {
    "id": "p46",
@@ -2946,5 +2874,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T22:58-03:00"
+ "gerado_em": "2026-10-31T23:09-03:00"
 }
