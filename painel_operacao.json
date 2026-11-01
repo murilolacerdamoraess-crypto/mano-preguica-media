@@ -2654,18 +2654,6 @@
    "nota": "aprovou em 30/10 01:12-01:14"
   },
   {
-   "id": "p53",
-   "aberta_em": "2026-10-30T00:14-03:00",
-   "agente": "Tesoura",
-   "video": "Como o Reaper caça em 5 passos",
-   "o_que": "assistir a versão com a frase nova do peixe (sem repetir 'peixe') e a câmera de lado na caça, e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1-JgxOu3JuzjUbuj-O1UQwyICeCnVQ4mS",
-   "fechada_em": "2026-10-30T00:51-03:00",
-   "nota": "assistiu às 00:41 e pediu ajuste (áudio cortado, animação e tempos)"
-  },
-  {
    "id": "p54",
    "aberta_em": "2026-10-30T00:55-03:00",
    "agente": "Periscópio",
@@ -2839,5 +2827,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T00:45-03:00"
+ "gerado_em": "2026-11-01T01:01-03:00"
 }
