@@ -340,6 +340,10 @@
 {
 "t": 1793469985,
 "v": 255
+},
+{
+"t": 1793492153,
+"v": 255
 }
 ],
 "views": 255
@@ -685,13 +689,13 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1879
+"views": 1880
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
 "ts": 1790974903,
 "fotos": [],
-"views": 13100
+"views": 13200
 },
 "7691436416273829121": {
 "titulo": "o sangue desse monstro derruba a nave inteira #alien #aliens #games #...",
@@ -721,7 +725,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1029
+"views": 1030
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -757,7 +761,7 @@
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8828
+"views": 8831
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -781,7 +785,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3300
+"views": 3304
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1262,7 +1266,7 @@
 "v": 2752
 }
 ],
-"views": 3265
+"views": 3279
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2416,9 +2420,13 @@
 {
 "t": 1793484762,
 "v": 9523
+},
+{
+"t": 1793492153,
+"v": 9572
 }
 ],
-"views": 9523
+"views": 9572
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2611,9 +2619,13 @@
 {
 "t": 1793484762,
 "v": 8330
+},
+{
+"t": 1793492153,
+"v": 8368
 }
 ],
-"views": 8330
+"views": 8368
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2729,9 +2741,13 @@
 {
 "t": 1793484762,
 "v": 221
+},
+{
+"t": 1793492153,
+"v": 227
 }
 ],
-"views": 221
+"views": 227
 }
 }
 }
