@@ -2687,18 +2687,6 @@
    "nota": "trocada pela versão 4 (revisão de 29/10), chave @v4"
   },
   {
-   "id": "p42",
-   "aberta_em": "2026-10-29T21:43-03:00",
-   "agente": "Tesoura",
-   "video": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-   "o_que": "assistir a versão com os seus ajustes (sem o silêncio comprido depois do 'insano, meus amigos' e a música mais baixa) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1p3EnxzCnYtJi5y1fRApIv0YJTgVwVfi7",
-   "fechada_em": "2026-10-29T22:24-03:00",
-   "nota": "substituída: o show foi remontado com a legenda saindo na pausa e a trilha no nível novo; arquivo novo no Drive"
-  },
-  {
    "id": "p43",
    "aberta_em": "2026-10-29T22:24-03:00",
    "agente": "Tesoura",
@@ -3004,5 +2992,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T21:31-03:00"
+ "gerado_em": "2026-10-31T22:28-03:00"
 }
