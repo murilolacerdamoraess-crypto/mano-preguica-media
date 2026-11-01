@@ -2583,18 +2583,6 @@
    "nota": "gravou as 17 frases em 29/10 à noite, com ajustes na hora; algumas são áudio vazio onde a frase ficou obsoleta"
   },
   {
-   "id": "p10",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Arpão",
-   "video": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
-   "o_que": "aprovar ou ajustar o roteiro (versão 6)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:mp2-pote-zelda-quebra-de-verdade.md@v6",
-   "fechada_em": "2026-10-29T21:00-03:00",
-   "nota": "29/10: teto de 5 roteiros esperando o Murilo; o roteiro foi pra fila do Arpão e volta quando abrir vaga"
-  },
-  {
    "id": "p11",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Farol",
@@ -2629,18 +2617,6 @@
    "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
   },
   {
-   "id": "p14",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Tarrafa",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste",
-   "o_que": "aprovar ou pedir ajuste no roteiro, que precisa sair até o Halloween (31/10)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-traje-fnaf-springlock.md@v2",
-   "fechada_em": "2026-10-29T21:01-03:00",
-   "nota": "roteiro foi pra fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 (29/10)"
-  },
-  {
    "id": "p15",
    "aberta_em": "2026-10-28T09:22-03:00",
    "agente": "Farol",
@@ -2651,30 +2627,6 @@
    "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v3",
    "fechada_em": "2026-10-29T23:01-03:00",
    "nota": "versão nova (PokéBonk v2 / Aurora v4) em conferência; reabro com a chave nova quando o Crivo aprovar"
-  },
-  {
-   "id": "p16",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:roteiro-deathrun-sem-andar-extintor.md@v4",
-   "fechada_em": "2026-10-29T21:01-03:00",
-   "nota": "roteiro na fila do Farol, fora do Decidir até abrir vaga no teto de 5 (29/10)"
-  },
-  {
-   "id": "p17",
-   "aberta_em": "2026-10-28T09:22-03:00",
-   "agente": "Farol",
-   "video": "Ela nadou até a árvore gigante do Subnautica 2, e passou pelos leviatãs ficando parada",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:roteiro-viscerface-arvore-subnautica-2.md@v4",
-   "fechada_em": "2026-10-29T21:01-03:00",
-   "nota": "roteiro na fila do Farol, fora do Decidir até abrir vaga no teto de 5 (29/10)"
   },
   {
    "id": "p25",
@@ -2699,30 +2651,6 @@
    "fechada_em": "2026-10-29T22:32-03:00"
   },
   {
-   "id": "p33",
-   "aberta_em": "2026-10-29T00:44-03:00",
-   "agente": "Arpão",
-   "video": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:mp2-ocarina-zelda-microfone-modo-noticia.md@v1",
-   "fechada_em": "2026-10-29T21:00-03:00",
-   "nota": "29/10: teto de 5 roteiros esperando o Murilo; o roteiro foi pra fila do Arpão e volta quando abrir vaga"
-  },
-  {
-   "id": "p34",
-   "aberta_em": "2026-10-29T00:44-03:00",
-   "agente": "Arpão",
-   "video": "A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro (canal 2)",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:mp2-pokebola-lego-abre-modo-noticia.md@v1",
-   "fechada_em": "2026-10-29T21:00-03:00",
-   "nota": "29/10: teto de 5 roteiros esperando o Murilo; o roteiro foi pra fila do Arpão e volta quando abrir vaga"
-  },
-  {
    "id": "p36",
    "aberta_em": "2026-10-29T19:39-03:00",
    "agente": "Leme",
@@ -2732,18 +2660,6 @@
    "status": "feita",
    "fechada_em": "2026-10-29T21:28-03:00",
    "nota": "programado dom 1/11 18:00 com capa A, conferido no Studio às 21h"
-  },
-  {
-   "id": "p38",
-   "aberta_em": "2026-10-29T19:43-03:00",
-   "agente": "Arpão",
-   "video": "Ele construiu uma base só ligando todos os biomas do Subnautica",
-   "o_que": "aprovar ou ajustar o roteiro (versão 5, sem a Moonpool repetida)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-base-todos-os-biomas-moon-pool.md@v5",
-   "fechada_em": "2026-10-29T21:02-03:00",
-   "nota": "29/10: a base cedeu a vaga do teto de 5 ao traje de FNAF (prazo de Halloween); volta quando abrir vaga"
   },
   {
    "id": "p39",
@@ -3099,5 +3015,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T20:02-03:00"
+ "gerado_em": "2026-10-31T21:05-03:00"
 }
