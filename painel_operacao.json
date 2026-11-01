@@ -2628,17 +2628,6 @@
    "status": "aberta"
   },
   {
-   "id": "p62",
-   "aberta_em": "2026-10-30T01:38-03:00",
-   "agente": "Anzol",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "aprovar o título do Short da armadura do Fallout",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-do-short-da-armadura-do-fallout-esses-caras-estao-construindo-a-armadura-:aprovar-este-titulo",
-   "fechada_em": "2026-10-30T10:51-03:00"
-  },
-  {
    "id": "p63",
    "aberta_em": "2026-10-30T01:42-03:00",
    "agente": "Tesoura",
@@ -2679,16 +2668,6 @@
    "fechada_em": "2026-10-31T11:49-03:00"
   },
   {
-   "id": "p67",
-   "aberta_em": "2026-10-30T09:46-03:00",
-   "agente": "Farol",
-   "video": "Glossário do Subnautica",
-   "o_que": "dizer como você fala 6 nomes que estão em dúvida: Kelp Forest (floresta de algas, bioma das algas ou zona de algas), Sea Emperor (Sea Emperor ou Imperatriz, e se é a ou o), os 2 desertos (deserto do Reaper e deserto vermelho), Mobile Vehicle Bay (baía de veículos, cais de veículos ou em inglês), dente de Stalker, e Blood Kelp, Grand Reef e Tree Cove (em inglês ou pelo que tem lá). Pode responder pro Maestro no chat.",
-   "onde": "Decidir",
-   "status": "feita",
-   "fechada_em": "2026-10-30T10:46-03:00"
-  },
-  {
    "id": "p68",
    "aberta_em": "2026-10-30T09:46-03:00",
    "agente": "Claude Code",
@@ -2719,5 +2698,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T09:32-03:00"
+ "gerado_em": "2026-11-01T10:52-03:00"
 }
