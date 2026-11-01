@@ -1,16 +1,16 @@
 {
- "gerado_em": "2026-10-31T13:22:44.225466-03:00",
+ "gerado_em": "2026-10-31T21:23:34.096601-03:00",
  "mes": {
-  "postados": 29,
+  "postados": 0,
   "teto": 93,
-  "folga": 64
+  "folga": 93
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 4,
+   "na_fila": 5,
    "ultimo_post": "2026-10-30",
    "dias_parado": 1,
    "parado": false,
@@ -24,6 +24,10 @@
     {
      "video_id": "PBw5xlifJpM",
      "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts"
+    },
+    {
+     "video_id": "1QprFcx4k8I",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     }
    ]
   },
@@ -32,21 +36,21 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 1,
-   "ultimo_post": "2026-10-24",
-   "dias_parado": 7,
-   "parado": true,
+   "ultimo_post": "2026-10-31",
+   "dias_parado": 0,
+   "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "PBw5xlifJpM",
-     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts",
+     "video_id": "1QprFcx4k8I",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
      "quando": "2026-10-31T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
     {
-     "video_id": "PBw5xlifJpM",
-     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts"
+     "video_id": "1QprFcx4k8I",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     }
    ]
   },
@@ -54,7 +58,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 27,
+   "na_fila": 28,
    "ultimo_post": "2026-10-28",
    "dias_parado": 3,
    "parado": false,
