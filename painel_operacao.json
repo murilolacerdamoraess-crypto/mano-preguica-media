@@ -2646,17 +2646,6 @@
    "status": "aberta"
   },
   {
-   "id": "p65",
-   "aberta_em": "2026-10-30T01:49-03:00",
-   "agente": "Tesoura",
-   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "o_que": "assistir a versão com os seus 6 ajustes (a câmera dela inteira sem repetir a perna, o personagem dela grande no nível 1, a vida do chefe em cima, o tapete sem resetar o zoom, só a gameplay nas 553 tentativas, sem a música da piada) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1w4mBzKopGBA6fquwBuEEfOOLYP0wMZqO",
-   "fechada_em": "2026-10-30T12:20-03:00"
-  },
-  {
    "id": "p66",
    "aberta_em": "2026-10-30T04:40-03:00",
    "agente": "Tesoura",
@@ -2698,5 +2687,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T10:52-03:00"
+ "gerado_em": "2026-11-01T12:23-03:00"
 }
