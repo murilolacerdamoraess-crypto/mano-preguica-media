@@ -2572,30 +2572,6 @@
  ],
  "pendencias": [
   {
-   "id": "p50",
-   "aberta_em": "2026-10-29T23:30-03:00",
-   "agente": "Farol",
-   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:roteiro-pokebonk-zerei-todos-os-mapas.md@v2",
-   "fechada_em": "2026-10-30T01:21-03:00",
-   "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
-   "id": "p52",
-   "aberta_em": "2026-10-30T00:14-03:00",
-   "agente": "Farol",
-   "video": "Ela zerou o Subnautica antes da Aurora explodir",
-   "o_que": "aprovar o roteiro",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v4",
-   "fechada_em": "2026-10-30T01:21-03:00",
-   "nota": "aprovou em 30/10 01:12-01:14"
-  },
-  {
    "id": "p56",
    "aberta_em": "2026-10-30T01:21-03:00",
    "agente": "Farol",
@@ -2746,5 +2722,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T01:21-03:00"
+ "gerado_em": "2026-11-01T01:32-03:00"
 }
