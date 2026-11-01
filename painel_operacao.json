@@ -2651,18 +2651,6 @@
    "fechada_em": "2026-10-29T22:32-03:00"
   },
   {
-   "id": "p39",
-   "aberta_em": "2026-10-29T20:00-03:00",
-   "agente": "Tesoura",
-   "video": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
-   "o_que": "assistir a versão com todos os seus ajustes (o machado pequeno no 3 kg e grande no 8,5 kg, sem a mesma imagem repetida em cima e embaixo, a ação no centro em 1:17 e 1:52) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1OaFTwjLK4aFggiEdf5pD7r72mPepbl9Y",
-   "fechada_em": "2026-10-29T22:29-03:00",
-   "nota": "aprovou a v3 às 22:24"
-  },
-  {
    "id": "p40",
    "aberta_em": "2026-10-29T20:59-03:00",
    "agente": "Arpão",
@@ -2992,5 +2980,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T22:28-03:00"
+ "gerado_em": "2026-10-31T22:32-03:00"
 }
