@@ -2594,17 +2594,6 @@
    "nota": "gravou o Stonewards em 30/10"
   },
   {
-   "id": "p25",
-   "aberta_em": "2026-10-28T11:22-03:00",
-   "agente": "Tesoura",
-   "video": "Como o Reaper caça em 5 passos",
-   "o_que": "gravar 1 frase (a do peixe)",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-10-29T23:17-03:00",
-   "nota": "gravou a frase do peixe em 29/10 à noite"
-  },
-  {
    "id": "p46",
    "aberta_em": "2026-10-29T23:09-03:00",
    "agente": "Tarrafa",
@@ -2874,5 +2863,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T23:09-03:00"
+ "gerado_em": "2026-10-31T23:19-03:00"
 }
