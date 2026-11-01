@@ -2651,17 +2651,6 @@
    "fechada_em": "2026-10-29T22:32-03:00"
   },
   {
-   "id": "p36",
-   "aberta_em": "2026-10-29T19:39-03:00",
-   "agente": "Leme",
-   "video": "PokéBonk 4, o do Nidoking (canal 2)",
-   "o_que": "apertar Programar na guia aberta (dom 1/11 às 18h)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-10-29T21:28-03:00",
-   "nota": "programado dom 1/11 18:00 com capa A, conferido no Studio às 21h"
-  },
-  {
    "id": "p39",
    "aberta_em": "2026-10-29T20:00-03:00",
    "agente": "Tesoura",
@@ -3015,5 +3004,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-10-31T21:05-03:00"
+ "gerado_em": "2026-10-31T21:31-03:00"
 }
