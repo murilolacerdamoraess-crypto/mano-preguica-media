@@ -360,6 +360,10 @@
 {
 "t": 1793573021,
 "v": 256
+},
+{
+"t": 1793598811,
+"v": 256
 }
 ],
 "views": 256
@@ -553,7 +557,7 @@
 "v": 37800
 }
 ],
-"views": 42600
+"views": 42800
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -652,7 +656,7 @@
 "v": 139
 }
 ],
-"views": 150
+"views": 151
 },
 "7694034184620231954": {
 "titulo": "esse npc do world of warcraft tem a voz de um menino que já morreu 💔 ...",
@@ -699,13 +703,13 @@
 "v": 431
 }
 ],
-"views": 497
+"views": 498
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1927
+"views": 1952
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -741,19 +745,19 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1034
+"views": 1035
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
 "ts": 1789765315,
 "fotos": [],
-"views": 471
+"views": 472
 },
 "7686241388739972372": {
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 94100
+"views": 94300
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -771,13 +775,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1384
+"views": 1386
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8851
+"views": 8859
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -801,7 +805,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3323
+"views": 3330
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -837,7 +841,7 @@
 "titulo": "BASES NOS BIOMAS MAIS PERIGOSOS DO SUBNAUTICA #Subnautica #games #gam...",
 "ts": 1785801608,
 "fotos": [],
-"views": 753
+"views": 754
 },
 "7669588102293359888": {
 "titulo": "O REAPER É MUITO MAIOR DO QUE VOCÊ PENSA #Subnautica #games #gameplay...",
@@ -1282,7 +1286,7 @@
 "v": 2752
 }
 ],
-"views": 3359
+"views": 3371
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1541,7 +1545,7 @@
 "v": 44800
 }
 ],
-"views": 47100
+"views": 47300
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -1860,7 +1864,7 @@
 "v": 43500
 }
 ],
-"views": 44700
+"views": 44800
 },
 "7699600499988761877": {
 "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka #g...",
@@ -2488,9 +2492,13 @@
 {
 "t": 1793580281,
 "v": 10700
+},
+{
+"t": 1793598811,
+"v": 10900
 }
 ],
-"views": 10700
+"views": 10900
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2735,9 +2743,13 @@
 {
 "t": 1793580281,
 "v": 8961
+},
+{
+"t": 1793598811,
+"v": 9173
 }
 ],
-"views": 8961
+"views": 9173
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2909,9 +2921,13 @@
 {
 "t": 1793580281,
 "v": 234
+},
+{
+"t": 1793598811,
+"v": 235
 }
 ],
-"views": 234
+"views": 235
 }
 }
 }
