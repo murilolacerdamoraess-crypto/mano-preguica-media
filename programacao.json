@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-01T14:18:27.887777-03:00",
+ "gerado_em": "2026-11-01T21:22:55.217034-03:00",
  "mes": {
-  "postados": 0,
+  "postados": 1,
   "teto": 93,
-  "folga": 93
+  "folga": 92
  },
  "redes": {
   "tiktok": {
@@ -35,24 +35,13 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 1,
-   "ultimo_post": "2026-10-31",
-   "dias_parado": 1,
+   "na_fila": 0,
+   "ultimo_post": "2026-11-01",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
-   "previstos": [
-    {
-     "video_id": "1QprFcx4k8I",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-11-01T21:30:00-03:00"
-    }
-   ],
-   "proximos_da_fila": [
-    {
-     "video_id": "1QprFcx4k8I",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
-    }
-   ]
+   "previstos": [],
+   "proximos_da_fila": []
   },
   "facebook": {
    "ativo": true,
