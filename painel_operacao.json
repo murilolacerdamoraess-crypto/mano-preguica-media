@@ -440,6 +440,14 @@
    "confianca": "forte para o atraso (1 caso medido de ponta a ponta, 35 h e 2 vídeos parados); fraca para a frequência (é o 1º caso registrado com hora).",
    "status": "aguardando",
    "simples": "Quando um agente trava esperando você liberar alguma coisa no terminal, hoje ninguém percebe por horas. A Tesoura ficou 16 h parada antes de virar tarefa e segurou o Elden e o longo dos leviatãs. Com isso, em até 1 hora aparece no topo das suas Tarefas, por exemplo: \"a Tesoura quer corrigir o script da música; o Elden de amanhã está esperando isso\"."
+  },
+  {
+   "id": "R56",
+   "titulo": "Os robôs que tiram as fotos dos vídeos desistem em 1 minuto e tentam de novo, em vez de travar a rodada.",
+   "onde": "`acompanhar_lancamento.py` e `fotos_mp2.py` (repo canal_agente). Origem: Diretor de melhorias, 02/11.",
+   "confianca": "forte para o travamento (4 rodadas no mesmo dia); fraca para a frequência (a instabilidade da API é de fora e só ficou registrada hoje).",
+   "status": "aguardando",
+   "simples": "Quando o YouTube demora pra responder, o robô que tira as fotos dos vídeos fica esperando sem fim, e o vídeo pode ficar sem número justo no dia do marco. Com isso, ele desiste depois de 1 minuto, tenta de novo até 3 vezes e, se não der, anota \"sem foto\" e segue."
   }
  ],
  "equipe": [
@@ -2665,5 +2673,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-02T15:54-03:00"
+ "gerado_em": "2026-11-02T18:07-03:00"
 }
