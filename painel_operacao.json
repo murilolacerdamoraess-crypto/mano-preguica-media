@@ -2646,17 +2646,6 @@
    "status": "aberta"
   },
   {
-   "id": "p66",
-   "aberta_em": "2026-10-30T04:40-03:00",
-   "agente": "Tesoura",
-   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "o_que": "assistir o DEMO (os primeiros 3:45: a abertura e os capítulos 1 e 2) e aprovar o jeito antes do vídeo inteiro, ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1-LgDpGx0neNwDvH8g2HwCuti4FZNPKnM",
-   "fechada_em": "2026-10-31T11:49-03:00"
-  },
-  {
    "id": "p68",
    "aberta_em": "2026-10-30T09:46-03:00",
    "agente": "Claude Code",
@@ -2664,17 +2653,6 @@
    "o_que": "segunda 02/11: ler a revisão da semana 1 do plano (os 4 números: publicados contra a meta, aprovados de primeira, receita contra custo, seus minutos por vídeo, e o estoque do principal) e dizer se seguimos pra semana 2",
    "onde": "Decidir",
    "status": "aberta"
-  },
-  {
-   "id": "p69",
-   "aberta_em": "2026-10-30T14:39-03:00",
-   "agente": "Tesoura",
-   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "o_que": "assistir a versão 6 e aprovar: de 2:07 até o fim a luta segue rolando no quadro de sempre (o jogo em cima, ela embaixo), sem a animação de 2:24, e os números (15 h, os frascos) ficam só na legenda",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:10Khdadrxq87UfLvmgOoQuRf6oxkbq-IE",
-   "fechada_em": "2026-10-31T11:59-03:00"
   },
   {
    "id": "p70",
@@ -2687,5 +2665,5 @@
    "chave": "maestri:tesoura-permissao"
   }
  ],
- "gerado_em": "2026-11-01T15:02-03:00"
+ "gerado_em": "2026-11-02T15:54-03:00"
 }
