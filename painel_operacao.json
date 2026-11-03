@@ -1933,6 +1933,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+   "etapa": "roteiro (em conferência (Crivo), versão 1; canal 2, Short de jornada de uns 3 min; o Schizo faz os braços de papelão e manda neles com o gatilho do lançador de teia)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "etapa": "narração, texto no Gravar com 21 frases (roteiro aprovado em 30/10, versão 8; Short normal, sem a data do Halloween; uns 3 min)",
    "responsavel": "Tarrafa",
@@ -2916,5 +2924,5 @@
    "chave": "reaper-caca:v10c-assistir"
   }
  ],
- "gerado_em": "2026-11-03T15:03-03:00"
+ "gerado_em": "2026-11-03T15:15-03:00"
 }
