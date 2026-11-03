@@ -2956,7 +2956,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-traje-homem-aranha-bracos-octopus.md@v2"
+  },
+  {
+   "id": "p82",
+   "aberta_em": "2026-11-03T15:56-03:00",
+   "agente": "Tesoura",
+   "video": "Longo #36: os 34 leviatãs sem veículo (v2)",
+   "o_que": "assistir e aprovar ou pedir ajuste: os seus 25 pontos e as 5 regras gerais aplicados no vídeo inteiro, cada um no segundo novo em qa/pedidos.txt; o contador sobe pra 29 no cartão do Ghost",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "longo-36:v2-assistir"
   }
  ],
- "gerado_em": "2026-11-03T15:55-03:00"
+ "gerado_em": "2026-11-03T15:56-03:00"
 }
