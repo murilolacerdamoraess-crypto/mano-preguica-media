@@ -714,6 +714,66 @@
    "pendente": ""
   },
   {
+   "id": "P100",
+   "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "gancho": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
+   "por_que_agora": "saiu em 09/10/2026 e tem 424.676 views, mais que os 366 mil inscritos do canal. O canal 2 precisa de 3 jornadas por semana (R38).",
+   "formato": "Short 2,5 a 3 min",
+   "concorrencia": "LIVRE (busca em português sem versão do vídeo)",
+   "status": "livre (semana de 09/11 do canal 2; não vai pro Decidir até abrir vaga no teto de 5 roteiros)",
+   "frente": "2 (outros universos com hype)",
+   "pendente": ""
+  },
+  {
+   "id": "P101",
+   "titulo": "Construíram um trem do Minecraft de verdade dentro do escritório, e só a impressão levou 1.600 horas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "gancho": "Construíram um trem do Minecraft de verdade dentro do escritório, e só a impressão levou 1.600 horas",
+   "por_que_agora": "saiu em 29/10/2026 e fez 663.362 views em 4 dias.",
+   "formato": "Short 2,5 a 3 min",
+   "concorrencia": "LIVRE (vídeo de 4 dias, sem versão em português)",
+   "status": "livre (semana de 09/11 do canal 2; não vai pro Decidir até abrir vaga no teto de 5 roteiros)",
+   "frente": "2 (outros universos com hype)",
+   "pendente": ""
+  },
+  {
+   "id": "P102",
+   "titulo": "Esse monstro do Subnautica desliga o seu submarino quando você acende a luz, e aquilo que parece o cérebro dele é o estômago",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "gancho": "Esse monstro do Subnautica desliga o seu submarino quando você acende a luz, e aquilo que parece o cérebro dele é o estômago",
+   "por_que_agora": "o formato 2 precisa de 3 por semana; a comunidade está voltando ao Subnautica 1 durante o ramo experimental do 2 (r/Subnautica_2, \"First time playing SN1 after SN2 EA\").",
+   "formato": "Short 60 a 100 s",
+   "concorrencia": "RASO (nos Shorts mais vistos sobre o Crabsquid só tem som e animação; nenhum conta o pulso nem o estômago)",
+   "status": "livre",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
+   "id": "P103",
+   "titulo": "Esse bicho do Subnautica te tira de dentro do submarino, e só do Cyclops ele não consegue",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "gancho": "Esse bicho do Subnautica te tira de dentro do submarino, e só do Cyclops ele não consegue",
+   "por_que_agora": "o formato 2 precisa de 3 por semana; perigo concreto, sem recontar história.",
+   "formato": "Short 60 a 100 s",
+   "concorrencia": "RASO (os Shorts mais vistos com Warper são trailer e reação à mensagem de rádio; nenhum conta o teletransporte pra fora do veículo)",
+   "status": "livre",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
+   "id": "P104",
+   "titulo": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "gancho": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
+   "por_que_agora": "o formato 2 precisa de 3 por semana.",
+   "formato": "Short 60 a 100 s",
+   "concorrencia": "LIVRE (os Shorts com Lava Larva são guia de local de minério; o mais visto sobre a larva em si tem 2.709 views)",
+   "status": "livre",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
    "id": "P94",
    "titulo": "Ela apagou o chão inteiro do Subnautica, e o Ghost Leviathan virou o ponto de referência dela",
    "rodada": "Rotina de segunda 26/10/2026 (Sonar): radar de hype e 5 pautas (4 de Subnautica, 1 do canal secundário)",
@@ -2856,5 +2916,5 @@
    "chave": "reaper-caca:v10c-assistir"
   }
  ],
- "gerado_em": "2026-11-03T15:01-03:00"
+ "gerado_em": "2026-11-03T15:02-03:00"
 }
