@@ -2812,8 +2812,10 @@
    "video": "Teste T7: o jogo que esse cara tá fazendo (Deep, P100)",
    "o_que": "mandar DM pro @midnightzone.studio pedindo o vídeo do Deep sem marca d'água, avisando que vai dar crédito; a montagem espera esse clipe",
    "onde": "Outro",
-   "status": "aberta",
-   "chave": "t7:dm-midnightzone"
+   "status": "cancelada",
+   "chave": "t7:dm-midnightzone",
+   "fechada_em": "2026-11-03T14:25-03:00",
+   "nota": "Murilo, 03/11: 'esquece não vou fazer isso' (não vai mandar DM pro dev)"
   },
   {
    "id": "p76",
@@ -2826,5 +2828,5 @@
    "chave": "motionlab:preguica-vinil-ok"
   }
  ],
- "gerado_em": "2026-11-03T14:22-03:00"
+ "gerado_em": "2026-11-03T14:33-03:00"
 }
