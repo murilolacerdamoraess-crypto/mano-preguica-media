@@ -2834,6 +2834,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "motionlab:preguica-vinil-ok"
+  },
+  {
+   "id": "p77",
+   "aberta_em": "2026-11-03T14:55-03:00",
+   "agente": "Farol",
+   "video": "Longo: os melhores mods de Subnautica em 2026 e como instalar (R42)",
+   "o_que": "escolher a imagem do guia: gravar uma partida nova com os mods e a tela da instalação atual (o Farol recomenda pelo menos a instalação nova, a de 2025 pode estar velha) ou usar os trechos dos Shorts de mod já publicados",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "r42:escolha-gameplay"
   }
  ],
  "gerado_em": "2026-11-03T14:55-03:00"
