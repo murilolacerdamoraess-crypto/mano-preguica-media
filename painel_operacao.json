@@ -454,7 +454,7 @@
    "titulo": "A Tesoura entrega com a lista dos pedidos do Murilo, cada um com o tempo do vídeo novo em que foi resolvido, e roda antes as mesmas checagens do Crivo.",
    "onde": "role edicao.md (Tesoura), seção \"O que você entrega\", e `_MODELO-ordem-de-producao.md` (Lente: a ordem já traz os pedidos numerados). Origem: Diretor de melhorias, 03/11.",
    "confianca": "forte para o padrão (2 de 2 entregas, 7 de 8 pontos já conhecidos); fraca para o tamanho do ganho (o Crivo pegou tudo, nada chegou ao Murilo).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-03 (Murilo, ao Maestro: \"boa pode ser o R57\").",
    "simples": "Quando você pede ajuste num vídeo, a Tesoura passa a entregar uma lista com cada pedido seu e o segundo do vídeo novo em que ele foi feito, por exemplo \"tirar a fogueira: feito, a luta segue de 0:03 a 0:16\". Ontem o Elden e o longo dos leviatãs voltaram do Crivo por coisas que você já tinha pedido em 31/10, e isso custou 3 voltas a mais."
   },
   {
@@ -520,6 +520,14 @@
    "confianca": "",
    "status": "aprovada e valendo desde 03/11 (Murilo: \"sim pode fazer\", em resposta à proposta do Maestro). R58 a R64 são os primeiros casos.",
    "simples": "o que você já reclamou uma vez e voltou passa a ser barrado por um programa, não pela memória de alguém."
+  },
+  {
+   "id": "R66",
+   "titulo": "Ajuste pontual refaz só o trecho que mudou, não o vídeo inteiro.",
+   "onde": "skill edicao-video (montar e faxina), role da Tesoura, `_MODELO` 8.1. Origem: pedido do Murilo, 03/11: \"caso o ajuste seja pontual, não precisamos regerar o vídeo inteiro, podemos simplesmente ajustar as partes que precisam ao invés de fazer tudo do zero sempre\" (ele lembra de já ter pedido antes).",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "se você pediu pra trocar 3 coisas, só essas 3 são refeitas; o resto do vídeo fica como estava."
   }
  ],
  "equipe": [
@@ -2792,9 +2800,10 @@
    "video": "Machado do Kratos no TikTok (sáb 07/11 18h)",
    "o_que": "abrir no Mac o link de autorização do Metricool que o Periscópio mandou e clicar em autorizar (o login caiu); depois ele agenda o machado no TikTok",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "metricool:oauth:2026-11-03"
+   "status": "feita",
+   "chave": "metricool:oauth:2026-11-03",
+   "fechada_em": "2026-11-03T12:08-03:00"
   }
  ],
- "gerado_em": "2026-11-03T11:17-03:00"
+ "gerado_em": "2026-11-03T12:08-03:00"
 }
