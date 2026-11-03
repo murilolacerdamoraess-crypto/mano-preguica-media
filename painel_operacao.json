@@ -2804,7 +2804,27 @@
    "status": "feita",
    "chave": "metricool:oauth:2026-11-03",
    "fechada_em": "2026-11-03T12:08-03:00"
+  },
+  {
+   "id": "p75",
+   "aberta_em": "2026-11-03T14:22-03:00",
+   "agente": "Sonar",
+   "video": "Teste T7: o jogo que esse cara tá fazendo (Deep, P100)",
+   "o_que": "mandar DM pro @midnightzone.studio pedindo o vídeo do Deep sem marca d'água, avisando que vai dar crédito; a montagem espera esse clipe",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "t7:dm-midnightzone"
+  },
+  {
+   "id": "p76",
+   "aberta_em": "2026-11-03T14:22-03:00",
+   "agente": "Lente",
+   "video": "Teste da preguiça de vinil (Motion Lab)",
+   "o_que": "dar o OK (ou ajustar) a cara e a cor da preguiça de vinil antes de construir o teste de 12 s",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "motionlab:preguica-vinil-ok"
   }
  ],
- "gerado_em": "2026-11-03T13:15-03:00"
+ "gerado_em": "2026-11-03T14:22-03:00"
 }
