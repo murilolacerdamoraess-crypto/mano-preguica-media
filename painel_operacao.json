@@ -456,6 +456,62 @@
    "confianca": "forte para o padrão (2 de 2 entregas, 7 de 8 pontos já conhecidos); fraca para o tamanho do ganho (o Crivo pegou tudo, nada chegou ao Murilo).",
    "status": "aguardando",
    "simples": "Quando você pede ajuste num vídeo, a Tesoura passa a entregar uma lista com cada pedido seu e o segundo do vídeo novo em que ele foi feito, por exemplo \"tirar a fogueira: feito, a luta segue de 0:03 a 0:16\". Ontem o Elden e o longo dos leviatãs voltaram do Crivo por coisas que você já tinha pedido em 31/10, e isso custou 3 voltas a mais."
+  },
+  {
+   "id": "R58",
+   "titulo": "Frame fantasma vira reprovação automática, na Tesoura e no Crivo.",
+   "onde": "`_MODELO-ordem-de-producao.md` 8.1 (bloco \"Mais 7, 03/11\"), skill edicao-video (`fantasmas.py` e a guarda do montar), `crivo-checklist` (V26). Origem: react do Murilo no longo dos 34 leviatãs (#36, 03/11 10:34): 4:38, 8:16, 11:33, 11:55, 12:24, \"muito parecido com aquele bug antigo que eu reportava do frame fantasma\". 6ª vez (Onix 12/10, coral 14 e 16/10, moto 15/10, Blanka 15/10).",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo: \"implemente novas guidelines no crivo ou algum agente\").",
+   "simples": "o pedacinho de outra imagem que pisca no meio de um trecho passa a travar a entrega sozinho, antes de chegar em você."
+  },
+  {
+   "id": "R59",
+   "titulo": "Cada frase que cita bicho, item ou ação tem na tela a ação inteira, conferida frase por frase no vídeo inteiro.",
+   "onde": "`_MODELO` seção 3 e 8.1, role da Tesoura, `crivo-checklist` (V27). Origem: #36, 03/11 (\"é importante estar ilustrando exatamente aquilo que tá sendo dito e prestar atenção se tudo foi mostrado, se dá tempo da pessoa ver\"): Sea Dragon escuro no \"sofri com o fogo\", bolha renovada cortada, Stasis Rifle no \"Propulsion Cannon\", Ghost preso no \"não ficava congelado\", atira e não pega, Reaper no \"aquele primeiro\". C17, 16ª vez.",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "o que você fala tem que acontecer na tela, inteiro e no tempo de ver, em todas as frases, não só nas que você já reclamou."
+  },
+  {
+   "id": "R60",
+   "titulo": "Fonte narrada pelo criador entra sem o som dela; a trilha do longo fica 16 a 18 LU abaixo da voz.",
+   "onde": "`_MODELO` 5 e 8.1, `crivo-checklist` (V28). Origem: #36, 03/11 (1:40 e 3:58, \"audio do video\", \"faz uma varredura e uma limpa\"; \"podia subir só um pouquinho o volume da música\").",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "nada da voz do outro youtuber no seu vídeo, e a música um pouco mais alta."
+  },
+  {
+   "id": "R61",
+   "titulo": "Raciocínio na tela entra na ordem de leitura, com rótulo curto, e texto não fica onde o zoom corta.",
+   "onde": "`_MODELO` 3 e 8.1, `crivo-checklist` (V29). Origem: #36, 03/11 (2:53: \"o ser humano lê da esquerda pra direita [...] era melhor vc trazer esse primeiro elemento centralizado mais pra cima e depois trazer abaixo [...] não precisa estar escrito exatamente oq eu disse\"; 2:00: \"o texto ficou cortado a medida que você dá zoom\").",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "o que entra na tela segue a ordem em que a gente lê, com poucas palavras, e nada sai cortado pelo zoom."
+  },
+  {
+   "id": "R62",
+   "titulo": "Zoom contínuo entre planos, foco no bicho e o HUD quando a fala precisa dele.",
+   "onde": "`_MODELO` 8.1, `crivo-checklist` (V12 e V30). Origem: #36, 03/11 (2:30: \"tomar cuidado para o zoom não resetar quando troca de imagem\"; 6:56: \"não entendi pq o monstro não está melhor enquadrado\"; 9:20: \"a primeira vez que eu senti falta do HUD do jogo\").",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "a câmera não dá pulo de zoom, o bicho fica no meio e, quando a história é o ar acabando, você vê o ar acabando."
+  },
+  {
+   "id": "R63",
+   "titulo": "O contador sobe com a morte daquele bicho na tela.",
+   "onde": "`_MODELO` 8.1, `crivo-checklist` (V23). Origem: #36, 03/11 (\"me irritei um pouco de tipo a contagem subir e eu não ver o exato monstro daquela contagem morrer de fato\"). Completa a R45 de 31/10 (\"contador só quando citado ou quando acontece\").",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "o número só sobe quando você vê o monstro morrer."
+  },
+  {
+   "id": "R64",
+   "titulo": "Item que existe no jogo entra pela imagem do jogo; desenho só pro que o jogo não mostra.",
+   "onde": "`_MODELO` 3 e 8.1, `crivo-checklist` (V31). Origem: #36, 03/11 (5:19: \"um desenho gambiarrado dele quando na verdade existe o render dele, o png dele\"; 7:58: a bolha \"parece apenas duas formas geométricas\"; 14:03: os membros \"muito fraca, já fizemos melhor no vídeo do Rematch\").",
+   "confianca": "",
+   "status": "valendo desde 03/11 (pedido direto do Murilo).",
+   "simples": "se a coisa existe no jogo, aparece a imagem dela, e o que já fizemos bem vira o padrão."
   }
  ],
  "equipe": [
@@ -2731,5 +2787,5 @@
    "chave": "metricool:oauth:2026-11-03"
   }
  ],
- "gerado_em": "2026-11-03T10:36-03:00"
+ "gerado_em": "2026-11-03T10:46-03:00"
 }
