@@ -2672,7 +2672,17 @@
    "status": "feita",
    "chave": "maestri:tesoura-permissao",
    "fechada_em": "2026-11-02T21:49-03:00"
+  },
+  {
+   "id": "p71",
+   "aberta_em": "2026-11-02T22:52-03:00",
+   "agente": "Tesoura",
+   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "o_que": "Assistir a v7 e aprovar ou pedir ajuste (os 4 pontos de 31/10: tapete com a câmera indo pro botão sem tirar o zoom, a frente dela, o pé no botão de cada fala, sem a fogueira no nível 1)",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1an4ThPmObcnrywPMWXd9AQs7QJ4WgTJ2"
   }
  ],
- "gerado_em": "2026-11-02T21:52-03:00"
+ "gerado_em": "2026-11-02T22:52-03:00"
 }
