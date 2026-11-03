@@ -512,6 +512,14 @@
    "confianca": "",
    "status": "valendo desde 03/11 (pedido direto do Murilo).",
    "simples": "se a coisa existe no jogo, aparece a imagem dela, e o que já fizemos bem vira o padrão."
+  },
+  {
+   "id": "R65",
+   "titulo": "Reclamação do Murilo que se repete vira checagem em código no Crivo, que reprova sozinha antes de chegar nele.",
+   "onde": "`crivo-checklist` (coluna nova \"checagem em código\": nome do script ou \"falta\"), roles do Crivo, da Lente e do Sextante. Origem: conversa com o Maestro, 03/11 ~11h, depois do react do #36 (frame fantasma pela 6ª vez, C17 pela 16ª).",
+   "confianca": "",
+   "status": "aprovada e valendo desde 03/11 (Murilo: \"sim pode fazer\", em resposta à proposta do Maestro). R58 a R64 são os primeiros casos.",
+   "simples": "o que você já reclamou uma vez e voltou passa a ser barrado por um programa, não pela memória de alguém."
   }
  ],
  "equipe": [
@@ -2788,5 +2796,5 @@
    "chave": "metricool:oauth:2026-11-03"
   }
  ],
- "gerado_em": "2026-11-03T10:51-03:00"
+ "gerado_em": "2026-11-03T10:54-03:00"
 }
