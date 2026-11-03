@@ -2774,7 +2774,8 @@
    "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
    "o_que": "No Studio, responder a Adequação para publicidade e apertar Programar (sugestão: terça 03/11 às 18h), ou me dar o OK pra eu deixar a guia parada no Programar",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-03T10:51-03:00"
   },
   {
    "id": "p74",
@@ -2787,5 +2788,5 @@
    "chave": "metricool:oauth:2026-11-03"
   }
  ],
- "gerado_em": "2026-11-03T10:46-03:00"
+ "gerado_em": "2026-11-03T10:51-03:00"
 }
