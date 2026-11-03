@@ -448,6 +448,14 @@
    "confianca": "forte para o travamento (4 rodadas no mesmo dia); fraca para a frequência (a instabilidade da API é de fora e só ficou registrada hoje).",
    "status": "aprovada e aplicada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30: \"coloca sim mas precisamos resolver isso imediatamente sem custo de preferência\"). Sextante, canal_agente commit a9c76f1: `acompanhar_lancamento.py` (função `ex`, tempo limite de 60 s e 3 tentativas; quando a API cai, o resto da rodada não insiste), `fotos_mp2.py` e `resumo_diario.py`. Testado com a API caída (4,7 s e 2,8 s até \"sem foto\") e normal (99 vídeos em 2,4 s). Custo zero.",
    "simples": "Quando o YouTube demora pra responder, o robô que tira as fotos dos vídeos fica esperando sem fim, e o vídeo pode ficar sem número justo no dia do marco. Com isso, ele desiste depois de 1 minuto, tenta de novo até 3 vezes e, se não der, anota \"sem foto\" e segue."
+  },
+  {
+   "id": "R57",
+   "titulo": "A Tesoura entrega com a lista dos pedidos do Murilo, cada um com o tempo do vídeo novo em que foi resolvido, e roda antes as mesmas checagens do Crivo.",
+   "onde": "role edicao.md (Tesoura), seção \"O que você entrega\", e `_MODELO-ordem-de-producao.md` (Lente: a ordem já traz os pedidos numerados). Origem: Diretor de melhorias, 03/11.",
+   "confianca": "forte para o padrão (2 de 2 entregas, 7 de 8 pontos já conhecidos); fraca para o tamanho do ganho (o Crivo pegou tudo, nada chegou ao Murilo).",
+   "status": "aguardando",
+   "simples": "Quando você pede ajuste num vídeo, a Tesoura passa a entregar uma lista com cada pedido seu e o segundo do vídeo novo em que ele foi feito, por exemplo \"tirar a fogueira: feito, a luta segue de 0:03 a 0:16\". Ontem o Elden e o longo dos leviatãs voltaram do Crivo por coisas que você já tinha pedido em 31/10, e isso custou 3 voltas a mais."
   }
  ],
  "equipe": [
@@ -2712,5 +2720,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-03T00:43-03:00"
+ "gerado_em": "2026-11-03T09:32-03:00"
 }
