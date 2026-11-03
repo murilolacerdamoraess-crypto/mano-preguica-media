@@ -714,9 +714,9 @@
    "pendente": ""
   },
   {
-   "id": "P100",
+   "id": "P105",
    "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
-   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
    "gancho": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
    "por_que_agora": "saiu em 09/10/2026 e tem 424.676 views, mais que os 366 mil inscritos do canal. O canal 2 precisa de 3 jornadas por semana (R38).",
    "formato": "Short 2,5 a 3 min",
@@ -726,9 +726,9 @@
    "pendente": ""
   },
   {
-   "id": "P101",
+   "id": "P106",
    "titulo": "Construíram um trem do Minecraft de verdade dentro do escritório, e só a impressão levou 1.600 horas",
-   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
    "gancho": "Construíram um trem do Minecraft de verdade dentro do escritório, e só a impressão levou 1.600 horas",
    "por_que_agora": "saiu em 29/10/2026 e fez 663.362 views em 4 dias.",
    "formato": "Short 2,5 a 3 min",
@@ -738,9 +738,9 @@
    "pendente": ""
   },
   {
-   "id": "P102",
+   "id": "P107",
    "titulo": "Esse monstro do Subnautica desliga o seu submarino quando você acende a luz, e aquilo que parece o cérebro dele é o estômago",
-   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
    "gancho": "Esse monstro do Subnautica desliga o seu submarino quando você acende a luz, e aquilo que parece o cérebro dele é o estômago",
    "por_que_agora": "o formato 2 precisa de 3 por semana; a comunidade está voltando ao Subnautica 1 durante o ramo experimental do 2 (r/Subnautica_2, \"First time playing SN1 after SN2 EA\").",
    "formato": "Short 60 a 100 s",
@@ -750,9 +750,9 @@
    "pendente": ""
   },
   {
-   "id": "P103",
+   "id": "P108",
    "titulo": "Esse bicho do Subnautica te tira de dentro do submarino, e só do Cyclops ele não consegue",
-   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
    "gancho": "Esse bicho do Subnautica te tira de dentro do submarino, e só do Cyclops ele não consegue",
    "por_que_agora": "o formato 2 precisa de 3 por semana; perigo concreto, sem recontar história.",
    "formato": "Short 60 a 100 s",
@@ -762,9 +762,9 @@
    "pendente": ""
   },
   {
-   "id": "P104",
+   "id": "P109",
    "titulo": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
-   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas",
+   "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
    "gancho": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
    "por_que_agora": "o formato 2 precisa de 3 por semana.",
    "formato": "Short 60 a 100 s",
@@ -2916,5 +2916,5 @@
    "chave": "reaper-caca:v10c-assistir"
   }
  ],
- "gerado_em": "2026-11-03T15:02-03:00"
+ "gerado_em": "2026-11-03T15:03-03:00"
 }
