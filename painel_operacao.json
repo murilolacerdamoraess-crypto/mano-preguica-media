@@ -1768,6 +1768,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Longo",
+   "titulo": "Os melhores mods de Subnautica em 2026 e como instalar",
+   "etapa": "pauta (aprovada por você em 03/11 às 14:25; o Sonar está levantando a lista dos mods com fonte e o jeito de instalar que vale hoje; base: o guia de mods do canal 2, o único longo de lá que ainda recebe gente pela busca; 10 a 15 min no canal principal, um bloco por mod, contado pelo que você viveu com cada um)",
+   "responsavel": "Farol",
+   "falta_murilo": "escolher se grava uma partida nova com os mods instalados e a tela da instalação, ou se a gente usa os trechos dos Shorts de mod que já saíram",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
    "etapa": "agendado no canal 2 (qui 29/10 às 18h, você programou em 20/10 e a data foi conferida; studio.youtube.com/video/weC-ObCZ7Xw/edit; 5 produtos com a Pokébola do Gengar de R$ 14,99 em 1º, vídeo relacionado provisório no Homem-Aranha até o cartucho sair, jogo Pokémon Red & Blue, marcado como conteúdo alterado por causa da voz clonada; playlist Vídeos curtos)",
@@ -2828,5 +2836,5 @@
    "chave": "motionlab:preguica-vinil-ok"
   }
  ],
- "gerado_em": "2026-11-03T14:53-03:00"
+ "gerado_em": "2026-11-03T14:55-03:00"
 }
