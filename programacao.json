@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03T04:02:03.219552-03:00",
+ "gerado_em": "2026-11-03T15:43:58.926020-03:00",
  "mes": {
   "postados": 1,
   "teto": 93,
@@ -14,16 +14,19 @@
    "ultimo_post": "2026-10-30",
    "dias_parado": 4,
    "parado": true,
-   "agendados": [],
+   "agendados": [
+    {
+     "video_id": "PBw5xlifJpM",
+     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo",
+     "quando": "2026-11-07T18:00:00-03:00",
+     "fonte": "metricool"
+    }
+   ],
    "previstos": [],
    "proximos_da_fila": [
     {
      "video_id": "C6wqfeLVQ1s",
      "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido"
-    },
-    {
-     "video_id": "PBw5xlifJpM",
-     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts"
     },
     {
      "video_id": "1QprFcx4k8I",
