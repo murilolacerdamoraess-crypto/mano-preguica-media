@@ -342,7 +342,7 @@
    "titulo": "Regravar 1 frase de um vídeo que já está editado aparece no topo do Gravar, separado dos lotes grandes.",
    "onde": "painel (aba Gravar) e `pendencia.py`, do Claude Code. Origem: Diretor de melhorias, 31/10.",
    "confianca": "fraca (4 casos em 3 dias). É mudança de ordem no painel, não de regra de conteúdo.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30; o Claude Code aplica no painel)",
    "simples": "Quando um vídeo já está editado e só falta você regravar uma frase, ela aparece primeiro no Gravar, num lugar separado. Hoje a frase do peixe do Reaper espera atrás de quase 200 frases de roteiros novos, e o vídeo pronto fica parado há 3 dias por causa de 30 segundos de voz."
   },
   {
@@ -422,7 +422,7 @@
    "titulo": "Uma tela separada da gameplay só vale pra 4 coisas: mapa, o que o vídeo não mostra, comparar 3 ou mais e pedido seu.",
    "onde": "seção 5 do `portao_repetidos.py` (Tesoura) e `_MODELO-ordem-de-producao.md` seção 8.1, bloco \"Mais 3 (31/10)\" (Lente, commit 172dcd71). Origem: a parte das R44 que é conclusão nossa, não frase dele (31/10).",
    "confianca": "forte no princípio (é dele); a lista é nossa e pode ter faltado algum caso.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30; já roda no portao_repetidos e no modelo da ordem, Lente e Crivo avisados)",
    "simples": "A gente só corta da gameplay pra uma tela separada quando é um mapa, uma coisa que o vídeo original não mostra, uma comparação de três coisas ou mais, ou quando você pede. Número, item e dano aparecem sempre em cima da cena que está passando."
   },
   {
@@ -430,7 +430,7 @@
    "titulo": "Os números que a conferência automática usa pra reprovar a edição.",
    "onde": "`_MODELO-ordem-de-producao.md` seção 8.1, bloco \"Mais 3 (31/10)\" (Lente, commit 172dcd71), conferidos pelo Crivo e pela Tesoura. Origem: as partes das R45 a R52 que são conclusão nossa (31/10).",
    "confianca": "média (os números são a primeira medida; a Tesoura e o Crivo ajustam se pegarem coisa boa como erro).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30; os limites já estão no modelo da ordem, Lente e Crivo avisados)",
    "simples": "Pra conferir sozinha o que você pediu, a máquina usa uns limites: o contador some uns 5 segundos depois de falado, imagem que pula de lugar em vez de deslizar reprova, o nome do youtuber fica pequeno e por pouco tempo, e quando a gente diz \"o botão do frasco\" a imagem mostra ela no botão do frasco, com no máximo um segundo e meio de diferença. A conferência já roda com esses números; se você não concordar, a gente muda."
   },
   {
@@ -438,7 +438,7 @@
    "titulo": "Agente parado pedindo permissão vira aviso no topo das Tarefas em até 1 hora, com o que ele pede em palavras simples.",
    "onde": "rotina \"Saúde da máquina\" (`operacao-maestri/saude_maquina.py`) e o Plano do dia, do Claude Code. Origem: Diretor de melhorias, 01/11.",
    "confianca": "forte para o atraso (1 caso medido de ponta a ponta, 35 h e 2 vídeos parados); fraca para a frequência (é o 1º caso registrado com hora).",
-   "status": "aguardando",
+   "status": "aprovada e aplicada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30; o Claude Code pôs no saude_maquina.py)",
    "simples": "Quando um agente trava esperando você liberar alguma coisa no terminal, hoje ninguém percebe por horas. A Tesoura ficou 16 h parada antes de virar tarefa e segurou o Elden e o longo dos leviatãs. Com isso, em até 1 hora aparece no topo das suas Tarefas, por exemplo: \"a Tesoura quer corrigir o script da música; o Elden de amanhã está esperando isso\"."
   },
   {
@@ -446,7 +446,7 @@
    "titulo": "Os robôs que tiram as fotos dos vídeos desistem em 1 minuto e tentam de novo, em vez de travar a rodada.",
    "onde": "`acompanhar_lancamento.py` e `fotos_mp2.py` (repo canal_agente). Origem: Diretor de melhorias, 02/11.",
    "confianca": "forte para o travamento (4 rodadas no mesmo dia); fraca para a frequência (a instabilidade da API é de fora e só ficou registrada hoje).",
-   "status": "aguardando",
+   "status": "aprovada e aplicada 2026-11-02 (Murilo, decisão repassada pelo Maestro às 21h30: \"coloca sim mas precisamos resolver isso imediatamente sem custo de preferência\"). Sextante, canal_agente commit a9c76f1: `acompanhar_lancamento.py` (função `ex`, tempo limite de 60 s e 3 tentativas; quando a API cai, o resto da rodada não insiste), `fotos_mp2.py` e `resumo_diario.py`. Testado com a API caída (4,7 s e 2,8 s até \"sem foto\") e normal (99 vídeos em 2,4 s). Custo zero.",
    "simples": "Quando o YouTube demora pra responder, o robô que tira as fotos dos vídeos fica esperando sem fim, e o vídeo pode ficar sem número justo no dia do marco. Com isso, ele desiste depois de 1 minuto, tenta de novo até 3 vezes e, se não der, anota \"sem foto\" e segue."
   }
  ],
@@ -2669,9 +2669,10 @@
    "video": "Elden Ring no tapete (v7) e longo dos 34 leviatãs",
    "o_que": "apertar 1 no terminal da Tesoura (no Maestri): ela está parada desde 30/10 20h pedindo permissão pra corrigir o script da trilha; sem isso o Elden v7 não sai pra 01/11",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "maestri:tesoura-permissao"
+   "status": "feita",
+   "chave": "maestri:tesoura-permissao",
+   "fechada_em": "2026-11-02T21:49-03:00"
   }
  ],
- "gerado_em": "2026-11-02T18:07-03:00"
+ "gerado_em": "2026-11-02T21:52-03:00"
 }
