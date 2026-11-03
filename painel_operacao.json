@@ -1714,9 +1714,9 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos",
-   "etapa": "gravação, regravar só a frase do peixe no bônus (30/10: o \"peixe\" 2x voltou e o corte na edição comia palavra; texto novo no Gravar, \"ele acaba pegando a isca ao invés de te pegar\"; imagem e som já aprovados pelo Crivo; com o take novo a Tesoura troca o áudio e o Crivo confere só o bônus)",
+   "etapa": "edição, v10c entregue em 03/11 (a frase do peixe com o take que você gravou hoje, \"ele acaba pegando a isca ao invés de te pegar\", e o Reaper mordendo o peixe e saindo com ele; o resto do vídeo é o mesmo)",
    "responsavel": "Tesoura",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "assistir e aprovar",
    "prazo": ""
   },
   {
@@ -2844,7 +2844,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "r42:escolha-gameplay"
+  },
+  {
+   "id": "p78",
+   "aberta_em": "2026-11-03T15:01-03:00",
+   "agente": "Tesoura",
+   "video": "Short: como o Reaper caça (v10c)",
+   "o_que": "assistir e aprovar ou pedir ajuste: só o trecho do peixe foi refeito com o take de hoje, e agora o Reaper morde o peixe e sai nadando com ele; o resto é igual à v10",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "reaper-caca:v10c-assistir"
   }
  ],
- "gerado_em": "2026-11-03T14:55-03:00"
+ "gerado_em": "2026-11-03T15:01-03:00"
 }
