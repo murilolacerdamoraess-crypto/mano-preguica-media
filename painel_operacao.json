@@ -2707,8 +2707,9 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "Assistir o longo inteiro (14:11) e aprovar ou pedir ajuste: o que você pediu no demo em 31/10 já vale em todos os capítulos (informação em cima da gameplay, contador só quando um morre, sem cartão de capítulo, mapa em preto e branco com os 34)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1zifBAGcOOXQrgl5zMRbo_9Tkg6KpBPNn"
+   "status": "feita",
+   "chave": "video:1zifBAGcOOXQrgl5zMRbo_9Tkg6KpBPNn",
+   "fechada_em": "2026-11-03T10:35-03:00"
   },
   {
    "id": "p73",
@@ -2730,5 +2731,5 @@
    "chave": "metricool:oauth:2026-11-03"
   }
  ],
- "gerado_em": "2026-11-03T10:02-03:00"
+ "gerado_em": "2026-11-03T10:36-03:00"
 }
