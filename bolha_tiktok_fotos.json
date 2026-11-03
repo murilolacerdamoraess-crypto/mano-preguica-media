@@ -711,7 +711,7 @@
 "v": 431
 }
 ],
-"views": 506
+"views": 507
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -1294,7 +1294,7 @@
 "v": 2752
 }
 ],
-"views": 3401
+"views": 3403
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2771,9 +2771,13 @@
 {
 "t": 1793688914,
 "v": 9799
+},
+{
+"t": 1793696147,
+"v": 9808
 }
 ],
-"views": 9799
+"views": 9808
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -2869,6 +2873,10 @@
 },
 {
 "t": 1793673923,
+"v": 154
+},
+{
+"t": 1793696147,
 "v": 154
 }
 ],
