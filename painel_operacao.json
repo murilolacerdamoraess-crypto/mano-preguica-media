@@ -1862,9 +1862,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "edição, versão 2 entregue em 03/11 com os 25 pontos que você pediu hoje (os pedacinhos de outra imagem, sem o som do vídeo dele, a trilha mais alta, nada em câmera lenta, o zoom no bicho, o contador na morte de cada um, o fim com os botões e os membros)",
+   "etapa": "edição, versão 3 entregue em 04/11 com os 6 pontos que você pediu ontem à noite no vídeo inteiro (no 0:03 entra o Reaper chegando no Seamoth em vez do mapa; o zoom voltou ao da primeira versão, sem ficar parado; os desenhos ficam lado a lado e em cadeia só quando um sai do outro; os ícones do mapa na faixa preta da direita; a faca do mesmo tamanho do número; nada em cima do bicho)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar",
+   "falta_murilo": "assistir e aprovar ou pedir ajuste",
    "prazo": ""
   },
   {
@@ -3163,5 +3163,5 @@
    "chave": "narracao:short_reaper_lego"
   }
  ],
- "gerado_em": "2026-11-04T12:07-03:00"
+ "gerado_em": "2026-11-04T12:15-03:00"
 }
