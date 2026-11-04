@@ -528,6 +528,14 @@
    "confianca": "",
    "status": "valendo desde 03/11 (pedido direto do Murilo).",
    "simples": "se você pediu pra trocar 3 coisas, só essas 3 são refeitas; o resto do vídeo fica como estava."
+  },
+  {
+   "id": "R67",
+   "titulo": "Ajuste do Murilo vale no alcance que ele disse, e a reentrega não muda o que ele não pediu.",
+   "onde": "`_MODELO` da ordem (seção de ajuste, da Lente), `crivo-checklist` (comparação v nova contra v anterior), role da Tesoura.",
+   "confianca": "fraca (2 casos, no mesmo vídeo e na mesma reentrega).",
+   "status": "aguardando",
+   "simples": "quando você pede uma mudança num ponto, ela vale só onde você disse; o resto do vídeo volta igual estava. Por exemplo, mostrar o oxigênio na frase do ar acabando não pode virar zoom no vídeo inteiro."
   }
  ],
  "equipe": [
@@ -3005,5 +3013,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-03T22:27-03:00"
+ "gerado_em": "2026-11-03T22:32-03:00"
 }
