@@ -806,6 +806,18 @@
    "pendente": ""
   },
   {
+   "id": "P113",
+   "titulo": "Esses mods do Subnautica dão ansiedade de verdade: a água em que você não vê o Reaper chegando",
+   "rodada": "Sonar de mods, 1ª rodada 04/11/2026 (Sonar, pedido do Murilo depois do vídeo do The Last Bacon)",
+   "gancho": "",
+   "por_que_agora": "o vídeo do The Last Bacon fez 184 mil em 3 dias, e o \"Subnautica's Biggest, Best Horror Mod\" (Inco, Red Plague) fez 77 mil em 3 dias com 8.920 inscritos (8,65x). Os longos de mod do canal: Archon 184.663, \"tudo aleatório\" 177.500, Prototype 130.860, biomas na Void 124.571, submarino gigantesco 115.681, contra a mediana de 10.043 dos longos do principal desde abr/2025.",
+   "formato": "Longo 10 a 12 min + Shorts por mod",
+   "concorrencia": "LIVRE. A busca pelo nome de cada mod e por \"mod subnautica água turva\" e \"subnautica mods ansiedade\" (04/11) não devolve nenhum canal BR com eles. O The Last Bacon está testando outro título no mesmo vídeo: \"Trying These Subnautica Mods Was A BAD IDEA\".",
+   "status": "livre (precisa do OK do Murilo e da gravação dele; o longo é do Farol, os Shorts do Arpão)",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
    "id": "P105",
    "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
    "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
@@ -3229,5 +3241,5 @@
    "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v5"
   }
  ],
- "gerado_em": "2026-11-04T13:18-03:00"
+ "gerado_em": "2026-11-04T13:24-03:00"
 }
