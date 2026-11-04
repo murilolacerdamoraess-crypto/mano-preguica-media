@@ -2049,14 +2049,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "etapa": "roteiro (escrevendo, versão 1, nas conferências antes do Crivo; canal 2, uns 2 min e 55)",
-   "responsavel": "Tarrafa",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 1: o grito \"STARS\" é ele dizendo o nome do alvo, a equipe da Jill, e o nome dele é o da deusa da vingança; teste do TikTok, Resident Evil 2 de 3; uns 100 s)",
    "responsavel": "Tarrafa",
@@ -3197,5 +3189,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T12:33-03:00"
+ "gerado_em": "2026-11-04T12:36-03:00"
 }
