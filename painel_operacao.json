@@ -2060,6 +2060,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do Wakemaker: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "etapa": "embalagem (é a sua linha; é verdade, porque é uma réplica de verdade e o vídeo avisa logo no começo que é só de exposição; outras opções: \"Esse cara decidiu construir o Wakemaker do Subnautica 2 de verdade\" e \"Esse cara construiu o Wakemaker do Subnautica 2, e o primeiro saiu errado\"; a capa mostra o propulsor do jogo em cima e a réplica embaixo)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
    "etapa": "narração, texto no Gravar com 29 frases (o seu teste fora do Subnautica, com o seu ângulo, sem forçar o Seaglide; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 50; saída proposta: qui 12/11)",
@@ -3259,5 +3267,5 @@
    "chave": "narracao:short_propulsor_braco"
   }
  ],
- "gerado_em": "2026-11-04T13:35-03:00"
+ "gerado_em": "2026-11-04T13:36-03:00"
 }
