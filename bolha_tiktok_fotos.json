@@ -384,6 +384,10 @@
 {
 "t": 1793759944,
 "v": 257
+},
+{
+"t": 1793782920,
+"v": 257
 }
 ],
 "views": 257
@@ -795,7 +799,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1455
+"views": 1456
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -2827,9 +2831,13 @@
 {
 "t": 1793775609,
 "v": 9999
+},
+{
+"t": 1793782920,
+"v": 10000
 }
 ],
-"views": 9999
+"views": 10000
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -3052,6 +3060,10 @@
 },
 {
 "t": 1793759944,
+"v": 244
+},
+{
+"t": 1793782920,
 "v": 244
 }
 ],
