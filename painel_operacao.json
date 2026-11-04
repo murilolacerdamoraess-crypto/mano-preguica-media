@@ -542,7 +542,7 @@
    "titulo": "O Gravar mostra a fila de voz em minutos, na ordem do que sai primeiro, e roteiro novo espera quando a fila passa de 2 horas.",
    "onde": "painel (aba Gravar) e `pendencia.py`, do Claude Code; Maestro, ao subir roteiro pro Decidir. Origem: Diretor de melhorias, 04/11.",
    "confianca": "forte no problema (6 lotes parados há 5 dias, data vencida); a régua de 2 h é um começo pra ajustar.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser bora.\")",
    "simples": "o Gravar diz quanto tempo de voz está esperando você e qual gravar primeiro pra ter vídeo no canal principal. Quando passar de 2 horas, a gente para de mandar roteiro novo pra você aprovar até a fila andar, salvo o que tapa um dia sem vídeo."
   }
  ],
@@ -2849,7 +2849,8 @@
    "video": "Plano da máquina de vídeos",
    "o_que": "segunda 02/11: ler a revisão da semana 1 do plano (os 4 números: publicados contra a meta, aprovados de primeira, receita contra custo, seus minutos por vídeo, e o estoque do principal) e dizer se seguimos pra semana 2",
    "onde": "Decidir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
    "id": "p70",
@@ -2924,8 +2925,10 @@
    "video": "Teste da preguiça de vinil (Motion Lab)",
    "o_que": "dar o OK (ou ajustar) a cara e a cor da preguiça de vinil antes de construir o teste de 12 s",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "motionlab:preguica-vinil-ok"
+   "status": "cancelada",
+   "chave": "motionlab:preguica-vinil-ok",
+   "fechada_em": "2026-11-04T09:50-03:00",
+   "nota": "virou: a Lente faz a folha da preguiça agora e o Murilo vê a imagem (04/11)"
   },
   {
    "id": "p77",
@@ -2979,8 +2982,9 @@
    "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
    "o_que": "aprovar ou pedir ajuste no roteiro (canal 2, uns 2 min e 55)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-traje-homem-aranha-bracos-octopus.md@v2"
+   "status": "feita",
+   "chave": "roteiro:short-traje-homem-aranha-bracos-octopus.md@v2",
+   "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
    "id": "p82",
@@ -3015,5 +3019,5 @@
    "fechada_em": "2026-11-04T09:36-03:00"
   }
  ],
- "gerado_em": "2026-11-04T09:38-03:00"
+ "gerado_em": "2026-11-04T09:50-03:00"
 }
