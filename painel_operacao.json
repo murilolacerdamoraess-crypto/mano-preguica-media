@@ -3308,7 +3308,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-short-do-wakemaker-esse-cara-construiu-o-wakemaker-do-subnautica-2-de-:aprovar-este-titulo"
+  },
+  {
+   "id": "p98",
+   "aberta_em": "2026-11-04T14:36-03:00",
+   "agente": "Claude Code",
+   "video": "Noiz.gg (quests pagas)",
+   "o_que": "entrar no noiz com seu e-mail e senha na janela do navegador do agente (aba do noiz já aberta), pra rotina ver as quests todo dia",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T13:57-03:00"
+ "gerado_em": "2026-11-04T14:37-03:00"
 }
