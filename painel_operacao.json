@@ -536,6 +536,14 @@
    "confianca": "fraca (2 casos, no mesmo vídeo e na mesma reentrega).",
    "status": "aguardando",
    "simples": "quando você pede uma mudança num ponto, ela vale só onde você disse; o resto do vídeo volta igual estava. Por exemplo, mostrar o oxigênio na frase do ar acabando não pode virar zoom no vídeo inteiro."
+  },
+  {
+   "id": "R68",
+   "titulo": "O Gravar mostra a fila de voz em minutos, na ordem do que sai primeiro, e roteiro novo espera quando a fila passa de 2 horas.",
+   "onde": "painel (aba Gravar) e `pendencia.py`, do Claude Code; Maestro, ao subir roteiro pro Decidir. Origem: Diretor de melhorias, 04/11.",
+   "confianca": "forte no problema (6 lotes parados há 5 dias, data vencida); a régua de 2 h é um começo pra ajustar.",
+   "status": "aguardando",
+   "simples": "o Gravar diz quanto tempo de voz está esperando você e qual gravar primeiro pra ter vídeo no canal principal. Quando passar de 2 horas, a gente para de mandar roteiro novo pra você aprovar até a fila andar, salvo o que tapa um dia sem vídeo."
   }
  ],
  "equipe": [
@@ -3006,5 +3014,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T09:29-03:00"
+ "gerado_em": "2026-11-04T09:32-03:00"
 }
