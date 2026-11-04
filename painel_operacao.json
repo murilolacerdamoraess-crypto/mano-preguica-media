@@ -550,7 +550,7 @@
    "titulo": "Vídeo com só pontos de acabamento sai \"aprovado com ajustes\": a Tesoura corrige, o Crivo confere e ele não assiste de novo.",
    "onde": "painel (Assistir, botão novo \"aprovar com ajustes\"), role da Tesoura e do Crivo. Origem: análise de vazão, 04/11 (pedido do Murilo na revisão da semana 1).",
    "confianca": "forte no problema (17 de 24 reprovadas); fraca em quanto economiza, porque depende de quantos reacts são só acabamento (medir no placar de segunda).",
-   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\") Aplicada 2026-11-04 (Sextante): role da Tesoura (edicao.md); o botão \"aprovar com ajustes\" no Assistir é do painel (Leme, pelo Maestro); o Crivo avisado.",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\") Aplicada 2026-11-04 (Sextante): role da Tesoura (edicao.md); o botão \"aprovar com ajustes\" no Assistir é do painel (Leme, pelo Maestro); no crivo-checklist pelo Crivo (commit ec0698ce: confere cada ponto e roda os portões desde o 0:00; volta pro Murilo se mudar fala, número, bicho ou ordem).",
    "simples": "quando o que falta no vídeo é detalhe, você aperta \"aprovar com ajustes\", escreve o que mudar, e ele sai sem você precisar assistir de novo. O Crivo confere se cada ponto foi feito."
   },
   {
@@ -566,7 +566,7 @@
    "titulo": "Roteiro com aprovação leve vai direto pro Gravar: você aprova gravando, e as frases que mudar na hora valem como a versão final.",
    "onde": "painel (Decidir e Gravar), roles dos autores (Arpão, Tarrafa, Farol) e do Crivo. Origem: análise de vazão, 04/11. Segue a aprovação leve de 30/10 (você aprova ângulo, fatos e ordem; a frase se ajusta na gravação).",
    "confianca": "fraca: a aprovação leve começou em 30/10 e desde então nenhum roteiro novo chegou, então ainda não dá pra medir se ela segura.",
-   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\") Aplicada 2026-11-04 (Sextante): roles dos roteiristas (shorts.md e longos.md: atualizar o roteiro pelo texto do Gravar e medir a 2b); o roteiro direto no Gravar com as 3 linhas e o \"pedir ajuste\" são do painel (Leme, pelo Maestro); o Crivo avisado.",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\") Aplicada 2026-11-04 (Sextante): roles dos roteiristas (shorts.md e longos.md: atualizar o roteiro pelo texto do Gravar e medir a 2b); o roteiro direto no Gravar com as 3 linhas e o \"pedir ajuste\" são do painel (Leme, pelo Maestro); no crivo-checklist pelo Crivo (commit ec0698ce: o APROVADO dele vira a última conferência antes da voz, com fluidez, frase 1, fontes e teste do leigo obrigatórios, e as 3 linhas do topo conferidas).",
    "simples": "o roteiro já aprovado pelo Crivo aparece direto no Gravar. Se você gravar, ele está aprovado, e o que você mudar na hora vira o texto final; se não gostar, pede ajuste ali mesmo."
   },
   {
@@ -3062,5 +3062,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T10:03-03:00"
+ "gerado_em": "2026-11-04T10:04-03:00"
 }
