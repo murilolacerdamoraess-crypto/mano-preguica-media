@@ -781,7 +781,7 @@
    "por_que_agora": "os 5 Shorts do Reaper somam 5,7 milhões de views (22/05 a 05/08/2026), e o Subnautica 2 é o assunto do canal. Nenhum vídeo em português contou essa construção, e o canal nunca contou: o FinCantBuild e o LEGO do Subnautica não aparecem no ledger.",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE.",
-   "status": "pego pelo Arpão (04/11/2026, aprovado pelo Murilo via Maestro)",
+   "status": "pego pelo Arpão (04/11/2026, aprovado pelo Murilo via Maestro); roteiro aprovado pelo Crivo e no Gravar em 04/11 (`roteiros/short-reaper-lego-nao-cabe.md`)",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -2021,6 +2021,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Estão montando o Reaper do Subnautica em LEGO",
+   "etapa": "narração, texto no Gravar com 18 frases (aprovada por você em 04/11, no molde do Onix; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 30; saída proposta: sáb 14/11)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "etapa": "narração, texto no Gravar com 21 frases (roteiro aprovado em 30/10, versão 8; Short normal, sem a data do Halloween; uns 3 min)",
    "responsavel": "Tarrafa",
@@ -3143,7 +3151,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_propulsor_braco"
+  },
+  {
+   "id": "p90",
+   "aberta_em": "2026-11-04T12:07-03:00",
+   "agente": "Arpão",
+   "video": "Estão montando o Reaper do Subnautica em LEGO",
+   "o_que": "gravar a voz (gravar já aprova o roteiro)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_reaper_lego"
   }
  ],
- "gerado_em": "2026-11-04T11:45-03:00"
+ "gerado_em": "2026-11-04T12:07-03:00"
 }
