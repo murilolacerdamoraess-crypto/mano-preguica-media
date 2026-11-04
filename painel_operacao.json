@@ -3121,7 +3121,9 @@
    "video": "Ela zerou o Subnautica antes da Aurora explodir",
    "o_que": "gravar a voz das 81 frases (saída proposta: seg 16/11 às 18h, depois do Megabonk)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-04T12:21-03:00",
+   "nota": "segurada em 04/11: o roteiro passa pela análise nova do PokéBonk antes de ir pra gravação"
   },
   {
    "id": "p86",
@@ -3187,5 +3189,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T12:21-03:00"
+ "gerado_em": "2026-11-04T12:22-03:00"
 }
