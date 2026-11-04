@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T16:14:47.838929Z",
+ "gerado_em": "2026-11-04T16:28:49.230091Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1223,14 +1223,14 @@
    "arquivo": "short-wakemaker-subnautica2-de-verdade.md",
    "name": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
    "titulo_roteiro": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
-   "description": "Short do canal principal (P110 reaberta, ângulo do Murilo de 04/11/2026, \"podemos colocar o video do wakewaker lá mas sem prometer que funciona e trazer um proposito legal de fazer aquela replica\"). O TheGreat3Dini fez d",
-   "status": "parado (Murilo, 2026-11-04, versão 3: \"não tem nada de demais nesse video\"; talvez ele assista o vídeo depois pra achar ângulo; saiu do Gravar, p92 cancelada)",
-   "gate": "versão 3: fontes 42/0, fluidez, roteiro_frases e erros repetidos APROVADOS, leigo sem trava; o Crivo devolveu com 5 trocas, aplicadas, e APROVOU em 2026-11-04 (commit d144d5ad); no Gravar pela R71, saída proposta ter 10/11",
+   "description": "Short do canal principal (P110, ângulo do Murilo de 04/11/2026, \"o cara criou uma replica perfeita do item do subnautica 2 e trazer todas as dificuldades e como ele resolveu [...] e talvez ser o final 'falta alguem fazer",
+   "status": "roteiro (em conferência (Crivo), versão 4; ângulo novo do Murilo em 04/11)",
+   "gate": "versão 4: em conferência",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo do TheGreat3Dini e da gameplay do Subnautica 2), jornada de 2 a 2,5 min",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "HCVr_YRDAqg"
   },
   {
