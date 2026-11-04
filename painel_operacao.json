@@ -3281,7 +3281,16 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_propulsor_braco"
+  },
+  {
+   "id": "p96",
+   "aberta_em": "2026-11-04T13:36-03:00",
+   "agente": "Farol",
+   "video": "Esses mods do Subnautica dão ansiedade de verdade",
+   "o_que": "instalar e testar os 4 mods (lista do Sonar em conhecimentos/instalar-mods-ansiedade.md), gravar a sessão de 1h30 a 2h seguindo o plano (conhecimentos/longo-mods-ansiedade.md) e depois gravar um áudio de 5 a 15 min contando como foi",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T13:36-03:00"
+ "gerado_em": "2026-11-04T13:37-03:00"
 }
