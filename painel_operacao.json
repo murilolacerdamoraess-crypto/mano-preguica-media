@@ -2014,7 +2014,7 @@
   {
    "tipo": "Short",
    "titulo": "Construíram de verdade o propulsor de braço do Subnautica 2",
-   "etapa": "narração, texto no Gravar com 17 frases (pedido seu de 04/11; aprovado pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 20; saída proposta: ter 10/11)",
+   "etapa": "narração, texto no Gravar com 16 frases (versão 2, reescrita do zero depois que você reprovou a primeira; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 10; saída proposta: ter 10/11)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -3133,7 +3133,17 @@
    "chave": "narracao:short_propulsor_braco",
    "fechada_em": "2026-11-04T11:34-03:00",
    "nota": "v1 reprovada pelo Murilo no chat (04/11, 'odiei'); o Arpão abre a pendência da v2 quando republicar"
+  },
+  {
+   "id": "p89",
+   "aberta_em": "2026-11-04T11:45-03:00",
+   "agente": "Arpão",
+   "video": "Construíram de verdade o propulsor de braço do Subnautica 2",
+   "o_que": "gravar a voz da versão 2 (16 frases; gravar já aprova o roteiro)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_propulsor_braco"
   }
  ],
- "gerado_em": "2026-11-04T11:34-03:00"
+ "gerado_em": "2026-11-04T11:45-03:00"
 }
