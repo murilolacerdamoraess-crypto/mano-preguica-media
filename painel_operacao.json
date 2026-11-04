@@ -1933,6 +1933,14 @@
   },
   {
    "tipo": "Longo",
+   "titulo": "Esses mods do Subnautica dão ansiedade de verdade",
+   "etapa": "pauta pronta (aprovada por você em 04/11; o plano da sessão tem a ordem dos 4 mods do medo que cresce, a água turva ligada o tempo todo, depois a pedra que solta bicho, o Starworm e o Voidmaw de 65 a 78 m, e o que gravar de cada um; 10 a 12 min no principal, e um Short por mod com o Arpão, o da pedra primeiro; 3 dos 4 marcados como feitos com IA no Nexus)",
+   "responsavel": "Farol",
+   "falta_murilo": "instalar e testar os mods, gravar a sessão e depois um áudio contando como foi",
+   "prazo": "sem data até a sessão"
+  },
+  {
+   "tipo": "Longo",
    "titulo": "Os melhores mods de Subnautica em 2026 e como instalar",
    "etapa": "pauta pronta (aprovada por você em 03/11 às 14:25; o Sonar levantou 12 mods com fonte e o jeito de instalar que vale desde que a Steam desligou as versões antigas em outubro de 2025; nenhum guia brasileiro foi feito depois disso; 12 a 14 min no canal principal: a instalação na versão atual e um bloco por mod, começando pelos que você já jogou: Gargantuan, Red Plague, Prototype, Echelon e os veículos gigantes)",
    "responsavel": "Farol",
@@ -2057,6 +2065,14 @@
    "etapa": "narração, texto no Gravar com 23 frases (versão 4, com o seu ângulo: a réplica igual ao jogo, as dificuldades e o fim \"agora só falta alguém fazer ela funcionar\"; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 40; saída a definir, depois do Reaper de LEGO)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
+   "etapa": "pauta, esperando você jogar o Creature Outcrops e gravar o áudio contando como foi (o roteiro nasce do seu áudio; acima de 100 m só sai bicho manso, abaixo de 100 m pode sair qualquer criatura, então é chance, não toda vez)",
+   "responsavel": "Arpão",
+   "falta_murilo": "jogar o mod e gravar o áudio contando como foi",
    "prazo": ""
   },
   {
