@@ -2922,8 +2922,9 @@
    "video": "Short: como o Reaper caça (v10c)",
    "o_que": "assistir e aprovar ou pedir ajuste: só o trecho do peixe foi refeito com o take de hoje, e agora o Reaper morde o peixe e sai nadando com ele; o resto é igual à v10",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "reaper-caca:v10c-assistir"
+   "status": "feita",
+   "chave": "reaper-caca:v10c-assistir",
+   "fechada_em": "2026-11-03T22:11-03:00"
   },
   {
    "id": "p79",
@@ -2968,5 +2969,5 @@
    "chave": "longo-36:v2-assistir"
   }
  ],
- "gerado_em": "2026-11-03T15:56-03:00"
+ "gerado_em": "2026-11-03T22:11-03:00"
 }
