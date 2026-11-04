@@ -1774,9 +1774,9 @@
   {
    "tipo": "Short",
    "titulo": "Como o Reaper caça em 5 passos",
-   "etapa": "pronto pra publicar (aprovado por você no painel em 03/11 às 22:06, a versão com a frase nova do peixe; o vídeo de 1:50 está em 00 - PRONTOS PRA PUBLICAR e a capa é o primeiro quadro, com a miniatura na pasta das capas; descrição, tags, vídeo relacionado e produtos prontos e com o Periscópio, que sobe o rascunho; o título final vai pro Decidir com 3 opções)",
-   "responsavel": "Anzol",
-   "falta_murilo": "",
+   "etapa": "pronto pra publicar (aprovado por você em 03/11 às 22:06; rascunho privado completo no canal principal, studio.youtube.com/video/qV_Zq6Eb40k/edit: capa do primeiro quadro, descrição, 12 tags, Jogos / Subnautica, playlist Vídeos curtos, não é para crianças, uso de IA Não (voz sua), vídeo relacionado no longo do Gargantuan, 7 produtos com o Reaper em 1º; o título ainda é o de trabalho e troca quando você escolher no Decidir)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "escolher o título no Decidir; depois, responder a Adequação para publicidade e programar (sugestão: sexta 06/11 às 18h)",
    "prazo": ""
   },
   {
@@ -2333,6 +2333,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "03/11",
+   "titulo": "REAPER CAÇA EM 5 PASSOS (#25, canal principal), RASCUNHO PRA PROGRAMAR (Claude Code, aprovado pelo Murilo 03/11 22:06; pacote do Anzol, Vitrine da Âncora no roteiro). **FEITO até o portão (Periscópio, 03/11 ~22h40):** portão de áudio APROVADO (-11,2 LUFS), arquivo do Drive = final.mp4 da Tesoura (mesmo md5). Rascunho privado `qV_Zq6Eb40k`, relido depois de recarregar: título de TRABALHO \"Como o Reaper caça em 5 passos #shorts\" (o final está no Decidir: Anzol recomenda \"Se você ouviu esse rugido no Subnautica, o Reaper já te viu\"; trocar quando ele escolher), descrição (linha 1 do Anzol + modelo do canal + 🔑 + 🏷️, 862 caracteres), miniatura \"CAPA REAPER CACA - quadro 0 (miniatura...).jpg\", 12 tags, Jogos / Subnautica (2014), playlist VIDEOS CURTOS, não é para crianças, promoção paga Não, conteúdo alterado Não (voz real), Lugares e Conceitos desligados, relacionado = longo do Gargantuan `lYXT1si2c7U`, 7 produtos na ordem (Reaper Leviathan Subnautica ML R$ 39,90; R36S Shopee até 22,5%; Meta Quest 3S Shopee até 23,5%; Ghost Articulado; Gargantuan 85cm; The Sea Emperor Leviathan; Nintendo Subnautica + Below Zero). **Atenção:** o catálogo não tem mais os nomes \"Console de Videogame Retrô R36S Bolso\" e \"Óculos de Realidade Mista Meta Quest 3S 128GB\"; usei os mesmos equivalentes da Shopee do Elden. O jogo do Switch está \"a partir de R$ 541,57\" (a Vitrine dizia R$ 379,99). **Falta:** título final (Decidir), depois a Adequação (irreversível, do Murilo) e o Programar (item p84). Sugestão: sex 06/11 18:00 (a semana só tem o Elden de ter 03/11).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "03/11",
    "titulo": "ELDEN RING TAPETE (#33, canal principal), RASCUNHO PRA PROGRAMAR (Claude Code, aprovado pelo Murilo 03/11 00:31; pacote do Anzol na Embalagem do roteiro). **FEITO até o portão (Periscópio, 03/11 ~01h):** portão de áudio APROVADO (-14,0 LUFS). Rascunho privado `YAXA2f5lzMs` (studio.youtube.com/video/YAXA2f5lzMs/edit), relido depois de recarregar: título + #shorts, descrição (linha 1 do Anzol + modelo do canal + 🔑 + 🏷️), miniatura GPT 5, 12 tags, Jogos / Elden Ring (2022), playlist VIDEOS CURTOS, não é para crianças, promoção paga Não, conteúdo alterado Não (voz real), Lugares e Conceitos desligados, relacionado = longo do Blue Lock no Rematch `hhkCo1pFMR8`, 4 produtos na ordem (chaveiro PS5 ML 20%, R36S Shopee até 22,5%, Bandai Namco Jogo PS5 Elden Ring ML 15%, Meta Quest 3S Shopee até 23,5%). **Atenção:** o Elden Ring PS5 está a R$ 313,70 no Studio (era R$ 204,41 em 27/10); a reserva da Vitrine é o Nightreign. **Falta:** a Adequação (classificação irreversível, só com OK do Murilo) trava o assistente antes da Visibilidade. Item p73 aberto (Studio). Sugestão: ter 03/11 18:00 (o principal não tem nada agendado).",
@@ -2986,7 +2994,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-short-do-reaper-cacando-se-voce-ouviu-esse-rugido-no-subnautica-o-reap:aprovar-este-titulo"
+  },
+  {
+   "id": "p84",
+   "aberta_em": "2026-11-03T22:27-03:00",
+   "agente": "Periscópio",
+   "video": "Como o Reaper caça em 5 passos",
+   "o_que": "No Studio, responder a Adequação para publicidade e apertar Programar (sugestão: sexta 06/11 às 18h). O título eu troco pelo que você escolher no Decidir, antes ou depois de programar.",
+   "onde": "Studio",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-03T22:21-03:00"
+ "gerado_em": "2026-11-03T22:27-03:00"
 }
