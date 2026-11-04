@@ -762,6 +762,18 @@
    "pendente": ""
   },
   {
+   "id": "P110",
+   "titulo": "Construíram de verdade o propulsor de braço do Subnautica 2, e o mais difícil foi acertar a cor que ele tem embaixo d'água",
+   "rodada": "Pedido do Murilo 04/11/2026 (Sonar): o Wakemaker do Subnautica 2 de verdade",
+   "gancho": "Construíram de verdade o propulsor de braço do Subnautica 2, e o mais difícil foi acertar a cor que ele tem embaixo d'água",
+   "por_que_agora": "saiu em 14/10/2026 e tem 211.428 views em 3 semanas num canal de 5.700 inscritos. A mediana dos 11 vídeos anteriores do canal é 14 mil views (de 2.500 a 75 mil), então este fez 15 vezes a mediana. O principal tem dia vazio na agenda, e esta pauta cobre um (R68).",
+   "formato": "Short 2,5 a 3 min",
+   "concorrencia": "LIVRE. A busca \"geraonda subnautica 2\" só devolve guia de onde achar os fragmentos, e nenhum canal BR contou a construção. O canal não contou: \"Wakemaker\" e \"Geraonda\" não aparecem no ledger nem nos roteiros.",
+   "status": "pego pelo Arpão (04/11/2026, pedido do Murilo via Maestro)",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
    "id": "P105",
    "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
    "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
@@ -3090,5 +3102,5 @@
    "chave": "narracao:short_traje_octopus_papelao"
   }
  ],
- "gerado_em": "2026-11-04T10:13-03:00"
+ "gerado_em": "2026-11-04T10:18-03:00"
 }
