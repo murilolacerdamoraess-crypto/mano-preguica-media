@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T15:22:33.838467Z",
+ "gerado_em": "2026-11-04T15:31:53.982048Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -630,6 +630,20 @@
    "motor": null,
    "versao": null,
    "fonte_yt": null
+  },
+  {
+   "arquivo": "short-ferramenta-fugir-tubarao.md",
+   "name": "SHORT - Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "titulo_roteiro": "SHORT: a ferramenta pra fugir de tubarão debaixo d'água",
+   "description": "Short de jornada de uns 2 minutos e 50 pro canal 2 (pauta P112 do Sonar, aprovada pelo Murilo em 04/11). A dupla do CPSdrone quer andar debaixo d'água mais rápido que um tubarão (uns 25 km por hora) com um tubo de bateri",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2 (canal 2), jornada de mais de 1 min (R38)",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "RjUV6Y-baDY"
   },
   {
    "arquivo": "short-fliperama-minecraft-hardcore.md",
