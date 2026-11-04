@@ -426,9 +426,10 @@ def enviar_operacao():
     turno, como documentos painel:operacao e painel:tiktok_agenda, que as rotas leem sem cache."""
     import hashlib, urllib.request
     velho = json.load(open(DOC_HASH)) if os.path.exists(DOC_HASH) else {}
-    for chave, arq, titulo in (("painel:operacao", "painel_operacao.json", "Quadros do Maestri"),
-                               ("painel:tiktok_agenda", "tiktok_agenda.json", "Agenda do TikTok (Metricool)")):
-        caminho = os.path.join(REPO, arq)
+    # 04/11: a curva semanal do registro de correções (Sextante, toda segunda) vai pro gráfico das Tarefas
+    for chave, caminho, titulo in (("painel:operacao", os.path.join(REPO, "painel_operacao.json"), "Quadros do Maestri"),
+                                   ("painel:tiktok_agenda", os.path.join(REPO, "tiktok_agenda.json"), "Agenda do TikTok (Metricool)"),
+                                   ("painel:curva_correcoes", os.path.join(CEREBRO, "conhecimentos", "dados", "curva_correcoes.json"), "Correções por semana")):
         if not os.path.exists(caminho):
             continue
         try:
