@@ -2014,9 +2014,9 @@
   {
    "tipo": "Short",
    "titulo": "Construíram de verdade o propulsor de braço do Subnautica 2",
-   "etapa": "narração, texto no Gravar com 16 frases (versão 2, reescrita do zero depois que você reprovou a primeira; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 10; saída proposta: ter 10/11)",
+   "etapa": "roteiro reprovado em 04/11 (a versão 2 também; o problema é a pauta: o fã pergunta se funciona, e a réplica é parada, sem nada elétrico; voltou pro Sonar e saiu do Gravar)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2862,7 +2862,8 @@
    "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "o_que": "gravar a voz das 56 frases",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-04T12:16-03:00"
   },
   {
    "id": "p58",
@@ -3161,7 +3162,16 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_reaper_lego"
+  },
+  {
+   "id": "p91",
+   "aberta_em": "2026-11-04T12:16-03:00",
+   "agente": "Tesoura",
+   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "o_que": "assistir a versão 3 (os 6 pontos de ontem à noite no vídeo inteiro) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T12:15-03:00"
+ "gerado_em": "2026-11-04T12:16-03:00"
 }
