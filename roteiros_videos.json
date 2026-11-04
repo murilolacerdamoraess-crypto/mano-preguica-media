@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T13:11:25.623207Z",
+ "gerado_em": "2026-11-04T13:25:25.821081Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1190,6 +1190,20 @@
    "motor": null,
    "versao": "5",
    "fonte_yt": "ZDCHuivDUa4"
+  },
+  {
+   "arquivo": "short-wakemaker-subnautica2-de-verdade.md",
+   "name": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
+   "titulo_roteiro": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
+   "description": "Short do canal principal (P110, pedido do Murilo em 04/11/2026, \"bom possivel video curto pro canal principal\"). O TheGreat3Dini jogou tanto Subnautica 2 que, ao fabricar o Wakemaker (o propulsor de braço do jogo), decid",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo do TheGreat3Dini e da gameplay do Subnautica 2), jornada de 2,5 a 3 min",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "HCVr_YRDAqg"
   },
   {
    "arquivo": "short-warden-cego-agachado.md",
