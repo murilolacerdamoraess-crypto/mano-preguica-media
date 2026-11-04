@@ -769,7 +769,7 @@
    "por_que_agora": "saiu em 14/10/2026 e tem 211.428 views em 3 semanas num canal de 5.700 inscritos. A mediana dos 11 vídeos anteriores do canal é 14 mil views (de 2.500 a 75 mil), então este fez 15 vezes a mediana. O principal tem dia vazio na agenda, e esta pauta cobre um (R68).",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE. A busca \"geraonda subnautica 2\" só devolve guia de onde achar os fragmentos, e nenhum canal BR contou a construção. O canal não contou: \"Wakemaker\" e \"Geraonda\" não aparecem no ledger nem nos roteiros.",
-   "status": "pego pelo Arpão (04/11/2026, pedido do Murilo via Maestro)",
+   "status": "pego pelo Arpão (04/11/2026, pedido do Murilo via Maestro); roteiro aprovado pelo Crivo e no Gravar em 04/11 (`roteiros/short-wakemaker-subnautica2-de-verdade.md`)",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -2001,6 +2001,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Construíram de verdade o propulsor de braço do Subnautica 2",
+   "etapa": "narração, texto no Gravar com 17 frases (pedido seu de 04/11; aprovado pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 20; saída proposta: ter 10/11)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "etapa": "narração, texto no Gravar com 21 frases (roteiro aprovado em 30/10, versão 8; Short normal, sem a data do Halloween; uns 3 min)",
    "responsavel": "Tarrafa",
@@ -3100,7 +3108,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_traje_octopus_papelao"
+  },
+  {
+   "id": "p88",
+   "aberta_em": "2026-11-04T10:43-03:00",
+   "agente": "Arpão",
+   "video": "Construíram de verdade o propulsor de braço do Subnautica 2",
+   "o_que": "gravar a voz (17 frases; gravar já aprova o roteiro)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_propulsor_braco"
   }
  ],
- "gerado_em": "2026-11-04T10:18-03:00"
+ "gerado_em": "2026-11-04T10:44-03:00"
 }
