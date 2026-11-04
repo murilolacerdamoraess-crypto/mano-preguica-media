@@ -2973,8 +2973,9 @@
    "video": "Longo #36: os 34 leviatãs sem veículo (v2)",
    "o_que": "assistir e aprovar ou pedir ajuste: os seus 25 pontos e as 5 regras gerais aplicados no vídeo inteiro, cada um no segundo novo em qa/pedidos.txt; o contador sobe pra 29 no cartão do Ghost",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "longo-36:v2-assistir"
+   "status": "feita",
+   "chave": "longo-36:v2-assistir",
+   "fechada_em": "2026-11-03T22:21-03:00"
   },
   {
    "id": "p83",
@@ -2987,5 +2988,5 @@
    "chave": "peca:titulo-do-short-do-reaper-cacando-se-voce-ouviu-esse-rugido-no-subnautica-o-reap:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-03T22:17-03:00"
+ "gerado_em": "2026-11-03T22:21-03:00"
 }
