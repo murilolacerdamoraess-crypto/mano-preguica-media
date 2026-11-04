@@ -11,7 +11,9 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
   3. maturado: 7+ dias no ar (o número do YouTube já diz alguma coisa)
   4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo)
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
-  6. canal principal; do MP2 só o que está na allowlist de faceless de IA (postable)
+  6. canal principal e canal 2 (MP2, só os verticais; desde 04/11/2026, Murilo: "os videos do canal secundario vão
+     pro tiktok tmb"; antes era só a allowlist de faceless de IA). Narrado com voz clonada sai com o selo de IA
+     (isAigc) no Metricool: o plano marca "conferir_voz" nos do MP2 e o Leme confere quem narra antes de agendar
   7. nunca postado nem agendado no TikTok (lê o perfil público com yt-dlp a cada rodada + ledger + tiktok_agenda.json)
   8. ordem: views no YouTube (escala log) + bônus de tema (criatura/medo/escala sobem, construção/veículo descem)
   9. sempre PUBLIC_TO_EVERYONE (o não público perde a monetização)
@@ -77,7 +79,9 @@ def _norm(t):
 def sincronizar_perfil(led):
     """Lê o perfil público do TikTok (yt-dlp, sem navegador) e marca no ledger o que JÁ saiu lá.
     05/10: o seletor escolheu 6 vídeos que já tinham sido postados por sessões manuais no Metricool,
-    que nunca anotavam no ledger. Casa por título: 3+ palavras de 4+ letras em comum (sem as genéricas) e, além disso, 5+ ou 60% do menor."""
+    que nunca anotavam no ledger. Casa por título: 3+ palavras de 4+ letras em comum (sem as genéricas) e, além disso, 5+ ou 60% do menor.
+    04/11: um post vale pra um vídeo só (o do ledger ou o do agendamento daquele dia no tiktok_agenda.json), e o título
+    inteiro também casa."""
     import subprocess
     # 12/10: o yt-dlp passou a dar erro com a URL do @; pelo id do perfil (secUid) funciona. Tenta os dois.
     posts = []
@@ -92,26 +96,63 @@ def sincronizar_perfil(led):
         print("  ⚠ não consegui ler o perfil do TikTok; sigo só com o ledger e a agenda")
         return 0
     marcados = 0
+    # 04/11: o oxigênio (C6wqfeLVQ1s) foi dado como postado com o post da Pokédex do canal 2 (só "cara" e "tentando"
+    # em comum, saiu 8 dias depois). Agora um post do TikTok vale pra um vídeo só: o post que já está no ledger, ou
+    # que caiu no dia de um agendamento do tiktok_agenda.json, é daquele vídeo e não casa com outro; e o título
+    # inteiro (a legenda começa com o título do YouTube) casa antes da regra das palavras.
+    dono = {}
+    for x, w in led["videos"].items():
+        if w["posted"]["tiktok"].get("post_id"):
+            dono[w["posted"]["tiktok"]["post_id"]] = x
+    por_dia = {}
+    for p in agenda().get("posts", []):
+        if p.get("video_id") and p.get("quando"):
+            por_dia.setdefault(p["quando"][:10], set()).add(p["video_id"])
+    for pid, ts, views, titulo in posts:
+        try:
+            dia = por_dia.get(dt.datetime.fromtimestamp(int(ts), BRT).date().isoformat(), set())
+        except Exception:
+            dia = set()
+        if pid not in dono and len(dia) == 1:
+            dono[pid] = next(iter(dia))
+    # Cada par (vídeo, post) que casa ganha uma nota; os pares vão do mais certo pro menos certo, e cada post e
+    # cada vídeo só entram uma vez (antes um post do Shiver marcava 3 vídeos de uma vez).
+    pares = []
     for vid, v in led["videos"].items():
         if v["posted"]["tiktok"]["done"]:
             continue
+        inteiro = cp._norm_titulo(v.get("title", ""))
         a = _norm(v.get("title", ""))
         for pid, ts, views, titulo in posts:
+            if dono.get(pid, vid) != vid:
+                continue
             b = _norm(titulo)
             comum = len(a & b)
-            perto = False   # título reescrito pro TikTok: 2 palavras bastam se saiu até 45 dias depois do YouTube
+            perto, dias = False, 999   # título reescrito pro TikTok: 2 palavras bastam se saiu até 45 dias depois do YouTube
             try:
                 d_tt = dt.datetime.fromtimestamp(int(ts), BRT).date()
-                perto = -10 <= (d_tt - dt.date.fromisoformat(v["published"][:10])).days <= 45   # às vezes sai no TikTok antes
+                dias = (d_tt - dt.date.fromisoformat(v["published"][:10])).days
+                perto = -10 <= dias <= 45   # às vezes sai no TikTok antes
             except Exception:
                 pass
-            if (comum >= 3 and (comum >= 5 or comum >= 0.6 * min(len(a), len(b)))) or (perto and comum >= 2):
-                data = dt.datetime.fromtimestamp(int(ts or 0), BRT).date().isoformat() if ts and ts != "NA" else None
-                v["posted"]["tiktok"] = {"done": True, "date": data, "post_id": pid,
-                                         "link": f"https://www.tiktok.com/@manopreguica/video/{pid}",
-                                         "views_tiktok": int(views) if views and views.isdigit() else None}
-                marcados += 1
-                break
+            if dono.get(pid) == vid or (inteiro and cp._norm_titulo(titulo).startswith(inteiro)):
+                nota = 2.0
+            elif (comum >= 3 and (comum >= 5 or comum >= 0.6 * min(len(a), len(b)))) or (perto and comum >= 2):
+                nota = comum / max(1, min(len(a), len(b)))
+            else:
+                continue
+            pares.append((nota, -abs(dias), vid, pid, ts, views))
+    feitos = set()
+    for nota, _, vid, pid, ts, views in sorted(pares, reverse=True):
+        if vid in feitos or dono.get(pid, vid) != vid:
+            continue
+        data = dt.datetime.fromtimestamp(int(ts or 0), BRT).date().isoformat() if ts and ts != "NA" else None
+        led["videos"][vid]["posted"]["tiktok"] = {"done": True, "date": data, "post_id": pid,
+                                                  "link": f"https://www.tiktok.com/@manopreguica/video/{pid}",
+                                                  "views_tiktok": int(views) if views and views.isdigit() else None}
+        dono[pid] = vid
+        feitos.add(vid)
+        marcados += 1
     if marcados:
         json.dump(led, open(cp.LEDGER, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"  perfil do TikTok: {len(posts)} posts lidos, {marcados} vídeos marcados como já postados no ledger")
@@ -128,8 +169,8 @@ def candidatos(led, ja):
             continue
         motivo = None
         idade = (hoje - dt.date.fromisoformat(v["published"][:10])).days
-        if not v.get("postable"):
-            motivo = "fora da allowlist (MP2/IA)"
+        if not v.get("eligible"):
+            motivo = "não elegível"
         elif v["posted"]["tiktok"]["done"] or vid in ja:
             continue
         elif v.get("views", 0) < PISO:
@@ -208,7 +249,8 @@ def main(hospedar, so_acertos=False):
                 continue
         plano.append({"video_id": vid, "titulo": v["title"], "views_youtube": views, "tema_score": score,
                       "quando": quando, "legenda": legenda(v), "video_url": url,
-                      "privacidade": "PUBLIC_TO_EVERYONE"})
+                      "privacidade": "PUBLIC_TO_EVERYONE", "canal": v.get("source", "mp"),
+                      **({"conferir_voz": "voz clonada = isAigc true no Metricool"} if v.get("source") == "mp2" else {})})
     sobra = cand[len(plano):]
     print(f"TikTok da semana · piso {PISO:,} views".replace(",", ".") + f" · {len(cand)} aptos · {len(plano)} no plano")
     for p in plano:

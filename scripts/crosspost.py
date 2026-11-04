@@ -2,7 +2,8 @@
 """
 Robô de crosspost — roda no GitHub Actions (ou local).
 Fluxo por execução (MODE=post, cron DIÁRIO):
-  1. atualiza o ledger (detecta vídeo novo no YouTube — canal principal + MP2 — preserva status)
+  1. atualiza o ledger (detecta vídeo novo no YouTube — canal principal + MP2 — preserva status;
+     desde 04/11/2026 o MP2 entra inteiro, só os verticais, e IG/FB não têm piso de views)
   2. monta UMA FILA POR REDE (Facebook / TikTok / Instagram), com dedup e curadoria
   3. agenda a COTA DIÁRIA de cada rede (padrão FB 2, TikTok 1, IG 1) via PostProxy,
      em horários espalhados à noite (BRT), respeitando o teto mensal do plano
@@ -66,12 +67,9 @@ HOURS = {"facebook":  [(20, 0), (22, 0)],
 FB_PAGE    = "606193705900753"
 PROFILES   = {"tiktok": "knUlkm", "instagram": "oJUZQL", "facebook": "L2ULXV"}
 # Fonte principal = uploads playlist inteira do Mano Preguiça (UU + resto do channel id).
-SOURCES    = {"mp": "UURKX-GV-beUtYs2IQD-f6jg"}
-# MP2: NÃO a playlist toda (o MP2 tem games variados que não devem ir pros perfis do principal).
-# Só os faceless de IA que a gente PRODUZ aqui, por ALLOWLIST explícita de video IDs.
-# Adicionar o ID de cada novo vídeo de IA conforme for feito. Usam os perfis do Mano Preguiça.
-MP2_ALLOW  = ["Stm2pYvz-yE",   # E se o RAGNARÖK fosse real?
-              "6CCN3fHFPGc"]   # Filmaram ISSO no Rio Amazonas (Jacaré)
+# 04/11/2026 (Murilo: "os videos do canal secundario vão pro tiktok tmb"): o MP2 entra inteiro, mas só os
+# verticais (o longo do MP2 é gameplay de 1 h e não vai pra perfil nenhum). A allowlist de faceless de IA saiu.
+SOURCES    = {"mp": "UURKX-GV-beUtYs2IQD-f6jg", "mp2": "UUo9m5c9tfbQ7NTWefLN24-Q"}
 HERE       = os.path.dirname(os.path.abspath(__file__))
 def _find_ledger():
     for p in (os.environ.get("LEDGER_PATH"), os.path.join(HERE, "ledger.json"),
@@ -204,7 +202,8 @@ def update_ledger():
                 else:
                     led["videos"][vid].update(meta)
                 v = led["videos"][vid]
-                v["eligible"] = v["type"] in ("vertical", "long") and v["published"] >= "2025-01-01"
+                tipos = ("vertical",) if source == "mp2" else ("vertical", "long")
+                v["eligible"] = v["type"] in tipos and v["published"] >= "2025-01-01"
                 v["postable"] = bool(v["eligible"] and v["views"] >= 500)
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     return led, new
@@ -219,10 +218,12 @@ def fits(net, v):
 def queue_facebook(vids):
     """SÓ conteúdo NOVO (>= START_DATE) ainda não postado no FB, por views desc, dup-safe.
     Decisão Murilo 24/08: matar o repost — nada de ressuscitar hit antigo, só o que a gente
-    produziu e ainda não foi pro perfil."""
+    produziu e ainda não foi pro perfil.
+    04/11/2026: sem piso de views (Murilo: "no instagram e facebook pode postar sem essa regra já que não
+    monetizam mesmo"); vale o eligible, não o postable."""
     out = []
     for vid, v in sorted(vids.items(), key=lambda kv: -kv[1]["views"]):
-        if not v["postable"] or v["posted"]["facebook"]["done"]: continue
+        if not v["eligible"] or v["posted"]["facebook"]["done"]: continue
         if v["published"] < START_DATE: continue   # corta o backlog: só conteúdo novo
         if noticia_velha(v): continue              # não repostar notícia datada nem no FB
         out.append(vid)
@@ -233,11 +234,13 @@ def queue_curada(net, vids):
     nessa rede. SEM backlog (nada de ressuscitar hit antigo) e SEM piso de views pro novo — a
     ideia é distribuir a produção fresca, mesmo que ainda tenha poucas views no YouTube.
     Decisão Murilo 24/08: matar o repost, postar só o que é novo e ainda não foi pro perfil.
-    (MIN_VIEWS/THEME_CUT eram filtros do BACKLOG, que saiu; ficam definidos mas sem uso.)"""
+    (MIN_VIEWS/THEME_CUT eram filtros do BACKLOG, que saiu; ficam definidos mas sem uso.)
+    04/11/2026: o IG não tem piso de views (não monetiza); o TikTok segue com o postable."""
     min_secs = 60 if net == "tiktok" else 0
     novos = []
     for vid, v in vids.items():
-        if not v["postable"] or v["type"] != "vertical": continue
+        if not v["eligible"] or v["type"] != "vertical": continue
+        if net == "tiktok" and not v["postable"]: continue
         if v["seconds"] < min_secs: continue
         if v["published"] < START_DATE: continue      # corta o backlog: só conteúdo novo
         if off_nicho(v["title"]): continue
