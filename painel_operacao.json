@@ -3150,8 +3150,10 @@
    "video": "Construíram de verdade o propulsor de braço do Subnautica 2",
    "o_que": "gravar a voz da versão 2 (16 frases; gravar já aprova o roteiro)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_propulsor_braco"
+   "status": "cancelada",
+   "chave": "narracao:short_propulsor_braco",
+   "fechada_em": "2026-11-04T12:16-03:00",
+   "nota": "Wakemaker cancelado: a réplica não funciona (sem propulsão, nunca entra na água); o Murilo: o fã quer saber se dá pra nadar (04/11)"
   },
   {
    "id": "p90",
