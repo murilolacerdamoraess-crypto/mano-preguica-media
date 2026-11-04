@@ -774,6 +774,18 @@
    "pendente": ""
   },
   {
+   "id": "P111",
+   "titulo": "Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
+   "rodada": "Pedido do Murilo 04/11/2026 (Sonar): o Wakemaker do Subnautica 2 de verdade",
+   "gancho": "Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
+   "por_que_agora": "os 5 Shorts do Reaper somam 5,7 milhões de views (22/05 a 05/08/2026), e o Subnautica 2 é o assunto do canal. Nenhum vídeo em português contou essa construção, e o canal nunca contou: o FinCantBuild e o LEGO do Subnautica não aparecem no ledger.",
+   "formato": "Short 2,5 a 3 min",
+   "concorrencia": "LIVRE.",
+   "status": "pego pelo Arpão (04/11/2026, aprovado pelo Murilo via Maestro)",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
    "id": "P105",
    "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
    "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
@@ -2290,10 +2302,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "narração, texto no Gravar com 19 frases (versão 7 aprovada em 30/10, no lugar da versão 2; a fala é a sua do longo dos 34 leviatãs, e você pode corrigir na hora com Editar e Pular)",
-   "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
-   "prazo": "30/10"
+   "etapa": "edição, voz gravada em 04/11 (19 de 19; você mudou 12 trechos ao gravar, e o roteiro já está com a sua fala)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "",
+   "prazo": "dom 08/11 18h"
   },
   {
    "tipo": "Short",
@@ -3121,5 +3133,5 @@
    "chave": "narracao:short_propulsor_braco"
   }
  ],
- "gerado_em": "2026-11-04T11:08-03:00"
+ "gerado_em": "2026-11-04T11:11-03:00"
 }
