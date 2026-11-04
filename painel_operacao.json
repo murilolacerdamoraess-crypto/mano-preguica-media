@@ -3000,8 +3000,9 @@
    "video": "Como o Reaper caça em 5 passos",
    "o_que": "escolher o título do Short do Reaper caçando (v2, nas frases que ele mandou em 03/11)",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-novo-v2-do-short-do-reaper-cacando-como-o-reaper-leviata-caca-suas-presas:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-novo-v2-do-short-do-reaper-cacando-como-o-reaper-leviata-caca-suas-presas:aprovar-este-titulo",
+   "fechada_em": "2026-11-04T09:27-03:00"
   },
   {
    "id": "p84",
@@ -3013,5 +3014,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-03T22:45-03:00"
+ "gerado_em": "2026-11-04T09:27-03:00"
 }
