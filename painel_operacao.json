@@ -2033,16 +2033,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Fizeram a réplica do propulsor de braço do Subnautica 2 sabendo que ela nunca ia funcionar",
-   "etapa": "narração, texto no Gravar com 15 frases (versão 3, com o seu ângulo: não promete que funciona e conta o motivo de fazer; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min; saída proposta: ter 10/11)",
-   "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Estão montando o Reaper do Subnautica em LEGO",
-   "etapa": "narração, texto no Gravar com 18 frases (aprovada por você em 04/11, no molde do Onix; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 30; saída proposta: sáb 14/11)",
+   "etapa": "narração, texto no Gravar com 18 frases (aprovada por você em 04/11, no molde do Onix; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 30; saída proposta: ter 10/11)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -3227,5 +3219,5 @@
    "chave": "narracao:short_ferramenta_tubarao"
   }
  ],
- "gerado_em": "2026-11-04T13:13-03:00"
+ "gerado_em": "2026-11-04T13:14-03:00"
 }
