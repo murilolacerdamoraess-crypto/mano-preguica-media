@@ -769,7 +769,7 @@
    "por_que_agora": "saiu em 14/10/2026 e tem 211.428 views em 3 semanas num canal de 5.700 inscritos. A mediana dos 11 vídeos anteriores do canal é 14 mil views (de 2.500 a 75 mil), então este fez 15 vezes a mediana. O principal tem dia vazio na agenda, e esta pauta cobre um (R68).",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE. A busca \"geraonda subnautica 2\" só devolve guia de onde achar os fragmentos, e nenhum canal BR contou a construção. O canal não contou: \"Wakemaker\" e \"Geraonda\" não aparecem no ledger nem nos roteiros.",
-   "status": "pego pelo Arpão (04/11/2026, pedido do Murilo via Maestro); roteiro aprovado pelo Crivo e no Gravar em 04/11 (`roteiros/short-wakemaker-subnautica2-de-verdade.md`)",
+   "status": "cancelada (04/11/2026). O Murilo reprovou a v2 pela pauta: \"a primeira coisa que passa pela cabeça do fã é 'e funciona de verdade' 'da pra nadar com essa parada' e você me diz que a principal parada era a cor\". A réplica é parada: \"I forewent the use of any electronics in this build\" (18:52), nunca entra na água, e o comentário mais curtido (417) já pedia \"now someone needs to make it functional\". Erro do Sonar: não escrevi a primeira pergunta do fã antes de subir. A pauta que responde \"dá pra nadar?\" é a P112, logo abaixo.",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -782,6 +782,18 @@
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE.",
    "status": "pego pelo Arpão (04/11/2026, aprovado pelo Murilo via Maestro); roteiro aprovado pelo Crivo e no Gravar em 04/11 (`roteiros/short-reaper-lego-nao-cabe.md`)",
+   "frente": "1 (Subnautica)",
+   "pendente": ""
+  },
+  {
+   "id": "P112",
+   "titulo": "Fizeram o Seaglide do Subnautica de verdade pra fugir de um tubarão, e ele quase matou quem pilotava",
+   "rodada": "Substituta da P110, 04/11/2026 (Sonar, pedido do Maestro): o propulsor que funciona de verdade",
+   "gancho": "Fizeram o Seaglide do Subnautica de verdade pra fugir de um tubarão\" (o conceito é o Seaglide, o que dá errado é o tubarão).",
+   "por_que_agora": "a parte 2 é de 08/01/2026 e passou de 5,2 milhões; o Subnautica 2 trouxe o Wakemaker e o público pede \"now the wakemaker from subnautica 2\" nos comentários. Sem versão em português.",
+   "formato": "Short 2,5 a 3 min",
+   "concorrencia": "LIVRE. \"seaglide na vida real\" e \"propulsor subaquático mais rápido que tubarão\" não devolvem nenhum canal BR com essa história; o canal nunca contou o CPSdrone.",
+   "status": "livre, precisa do OK do Murilo no ângulo antes de ir pro Arpão (04/11/2026)",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -1872,7 +1884,7 @@
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
    "etapa": "narração, texto no Gravar com 81 frases (roteiro aprovado por você em 30/10; em 30/10 três fatos foram corrigidos pelo vídeo dela antes de você gravar), versão 4 (floresta de algas e moon pool do jeito que você fala, as frases longas quebradas, o teste do leigo e o Crivo; antes era a versão 3) com a abertura na sua pergunta de 24/10, \"será que é possível zerar o Subnautica antes da Aurora explodir?\" (12 a 14 min: a youtuber que nunca tinha feito speedrun, a base inundada que deixa ela rápida, os recomeços, a viagem por baixo do mapa e a entrada na Aurora ainda inteira; edição no Mac)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a voz no painel (81 frases)",
+   "falta_murilo": "nada por enquanto (em 04/11 a gravação foi segurada: o roteiro passa antes pela mesma análise do PokéBonk, que você regravou mudando mais de 70% do texto)",
    "prazo": "16/11 (a data de 04/11 venceu sem voz; a edição começa depois da do Megabonk)"
   },
   {
@@ -3175,5 +3187,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T12:16-03:00"
+ "gerado_em": "2026-11-04T12:21-03:00"
 }
