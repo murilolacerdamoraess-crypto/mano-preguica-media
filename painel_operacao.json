@@ -2302,10 +2302,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "edição, voz gravada em 04/11 (19 de 19; você mudou 12 trechos ao gravar, e o roteiro já está com a sua fala)",
+   "etapa": "edição (voz gravada por você em 04/11, as 19 frases; o plano de edição está pronto e a Tesoura pega logo depois do longo dos 34 leviatãs; sai dom 08/11 18h)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
-   "prazo": "dom 08/11 18h"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -3133,5 +3133,5 @@
    "chave": "narracao:short_propulsor_braco"
   }
  ],
- "gerado_em": "2026-11-04T11:11-03:00"
+ "gerado_em": "2026-11-04T11:18-03:00"
 }
