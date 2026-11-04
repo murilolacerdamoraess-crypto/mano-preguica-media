@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03T21:30:14.195333-03:00",
+ "gerado_em": "2026-11-04T03:45:23.258056-03:00",
  "mes": {
   "postados": 1,
   "teto": 93,
@@ -10,9 +10,9 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 5,
+   "na_fila": 6,
    "ultimo_post": "2026-10-30",
-   "dias_parado": 4,
+   "dias_parado": 5,
    "parado": true,
    "agendados": [
     {
@@ -31,6 +31,10 @@
     {
      "video_id": "1QprFcx4k8I",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
+    },
+    {
+     "video_id": "YAXA2f5lzMs",
+     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts"
     }
    ]
   },
@@ -38,21 +42,32 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 0,
+   "na_fila": 1,
    "ultimo_post": "2026-11-01",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
-   "previstos": [],
-   "proximos_da_fila": []
+   "previstos": [
+    {
+     "video_id": "YAXA2f5lzMs",
+     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
+     "quando": "2026-11-04T21:30:00-03:00"
+    }
+   ],
+   "proximos_da_fila": [
+    {
+     "video_id": "YAXA2f5lzMs",
+     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts"
+    }
+   ]
   },
   "facebook": {
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 28,
+   "na_fila": 29,
    "ultimo_post": "2026-10-28",
-   "dias_parado": 6,
+   "dias_parado": 7,
    "parado": false,
    "agendados": [],
    "previstos": [
