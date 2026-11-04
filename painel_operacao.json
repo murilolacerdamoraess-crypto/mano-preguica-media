@@ -801,7 +801,7 @@
    "por_que_agora": "a parte 2 é de 08/01/2026 e passou de 5,2 milhões; o Subnautica 2 trouxe o Wakemaker e o público pede \"now the wakemaker from subnautica 2\" nos comentários. Sem versão em português.",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE. \"seaglide na vida real\" e \"propulsor subaquático mais rápido que tubarão\" não devolvem nenhum canal BR com essa história; o canal nunca contou o CPSdrone.",
-   "status": "pego pelo Arpão (04/11/2026; aprovada pelo Murilo via Maestro; ia pra Tarrafa no canal 2 e passou pro principal como teste no mesmo dia)",
+   "status": "pego pelo Arpão (04/11/2026; aprovada pelo Murilo via Maestro; ia pra Tarrafa no canal 2 e passou pro principal como teste no mesmo dia); roteiro aprovado pelo Crivo e no Gravar em 04/11 (`roteiros/short-ferramenta-fugir-tubarao.md`)",
    "frente": "2",
    "pendente": ""
   },
@@ -2049,6 +2049,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "etapa": "narração, texto no Gravar com 29 frases (o seu teste fora do Subnautica, com o seu ângulo, sem forçar o Seaglide; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 50; saída proposta: qui 12/11)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "etapa": "narração, texto no Gravar com 21 frases (roteiro aprovado em 30/10, versão 8; Short normal, sem a data do Halloween; uns 3 min)",
    "responsavel": "Tarrafa",
@@ -3205,7 +3213,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_propulsor_braco"
+  },
+  {
+   "id": "p93",
+   "aberta_em": "2026-11-04T13:02-03:00",
+   "agente": "Arpão",
+   "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "o_que": "gravar a voz (gravar já aprova o roteiro)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_ferramenta_tubarao"
   }
  ],
- "gerado_em": "2026-11-04T12:57-03:00"
+ "gerado_em": "2026-11-04T13:02-03:00"
 }
