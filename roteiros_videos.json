@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T14:45:44.114252Z",
+ "gerado_em": "2026-11-04T14:55:51.164039Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -937,6 +937,20 @@
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
    "versao": "3",
+   "fonte_yt": null
+  },
+  {
+   "arquivo": "short-reaper-lego-nao-cabe.md",
+   "name": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
+   "titulo_roteiro": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
+   "description": "Short do canal principal (P111, aprovada pelo Murilo em 04/11/2026, \"legal, uma vibe bem parecida com a do onix que deu muito certo\"). O FinCantBuild, que já tinha montado o Prawn Suit em LEGO, está montando o Reaper Lev",
+   "status": "roteiro (em conferência (Crivo), versão 1)",
+   "gate": "versão 1: em conferência",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo, narrado em cima dos 8 Shorts do FinCantBuild), jornada de 2,5 a 3 min no molde do Onix",
+   "motor": null,
+   "versao": "1",
    "fonte_yt": null
   },
   {
