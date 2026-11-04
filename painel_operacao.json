@@ -2245,6 +2245,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show (canal 2)",
+   "etapa": "pronto pra programar no canal 2 (studio.youtube.com/video/s_TWIGeMQWc/edit), o teste de repetir no canal 2 um Short que morreu no principal: mesmo vídeo (o final aprovado de 29/10), mesmo título e a mesma capa; descrição sem os links do principal, 10 tags, jogo Pokémon Red & Blue, voz real sem marcação de IA, opções automáticas desligadas, adequação \"Nenhuma das opções\", verificação sem problema e sem aviso de conteúdo repetido; 5 produtos na ordem: chaveiro do Mew e do Mewtwo (R$ 24,90), R36S, Meta Quest 3S, Pokémon Legends Z-A e a estátua dos lendários; vídeo relacionado o Batmóvel; a guia está aberta no Chrome do canal 2 parada no Programar com dom 08/11 às 18h, um dia depois de o original fechar 7 dias no principal; a playlist Vídeos curtos entra depois de programado",
+   "responsavel": "Leme",
+   "falta_murilo": "programar no Studio",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Esses caras estão construindo o Batmóvel na vida real (canal 2)",
    "etapa": "agendado no canal 2 pra sáb 31/10 às 18h, conferido no Studio em 28/10 (studio.youtube.com/video/5VryqAW8h-4/edit; vídeo v2 aprovado no portão de áudio, -14 LUFS, 2:45; título aprovado; capa = primeiro quadro, a caminhonete batendo no muro com AGUENTA?; descrição sem créditos, 12 tags, jogo Batman: Arkham Knight, voz real sem marcação de IA, opções automáticas desligadas, adequação \"Nenhuma das opções\" e verificação sem problemas; 5 produtos na ordem: Hot Wheels do Batmóvel, R36S, LEGO 76331, Batmóvel de controle remoto, Meta Quest 3S; vídeo relacionado no Short da Pokédex (trocado em 29/10 depois que ela saiu); playlist Vídeos curtos colocada em 28/10; dia livre entre o PokéBonk 3 e o 4)",
    "responsavel": "Leme",
@@ -3060,7 +3068,16 @@
    "o_que": "gravar a voz das 81 frases (saída proposta: seg 16/11 às 18h, depois do Megabonk)",
    "onde": "Gravar",
    "status": "aberta"
+  },
+  {
+   "id": "p86",
+   "aberta_em": "2026-11-04T10:06-03:00",
+   "agente": "Leme",
+   "video": "Pokémon x Marshmello no canal 2 (teste do Short repetido)",
+   "o_que": "apertar Programar na guia aberta (dom 08/11 às 18h)",
+   "onde": "Studio",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T10:04-03:00"
+ "gerado_em": "2026-11-04T10:07-03:00"
 }
