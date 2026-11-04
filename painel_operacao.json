@@ -1890,10 +1890,10 @@
   {
    "tipo": "Longo",
    "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro (em conferência (Crivo), versão 5 de 04/11, refeita antes de ir pro Gravar pelo mesmo método novo do PokéBonk: cada truque com o porquê, as reações dela e o espaço de cada parte pelo tempo de jogo; 105 cenas, uns 16 min, contra 61 cenas e 12 min da versão 4; passou em fontes, fluidez, leigo e erros repetidos)",
+   "etapa": "roteiro aprovado pelo Crivo e no Gravar (versão 5 de 04/11, refeita pelo método novo do PokéBonk: cada truque com o porquê, as reações dela e o espaço de cada parte pelo tempo de jogo; 138 trechos, uns 16 min)",
    "responsavel": "Farol",
-   "falta_murilo": "nada por enquanto (depois do Crivo vai pro Gravar)",
-   "prazo": "16/11 (a data de 04/11 venceu sem voz; a edição começa depois da do Megabonk)"
+   "falta_murilo": "gravar a voz no painel (138 trechos)",
+   "prazo": "16/11 (a edição começa depois da do Megabonk)"
   },
   {
    "tipo": "Longo",
@@ -3217,6 +3217,16 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_ferramenta_tubarao"
+  },
+  {
+   "id": "p94",
+   "aberta_em": "2026-11-04T13:14-03:00",
+   "agente": "Farol",
+   "video": "Ela zerou o Subnautica antes da Aurora explodir",
+   "o_que": "gravar a voz dos 138 trechos (versão nova de 04/11, uns 16 min; saída proposta: seg 16/11 às 18h)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v5"
   }
  ],
  "gerado_em": "2026-11-04T13:14-03:00"
