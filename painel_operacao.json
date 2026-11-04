@@ -1789,10 +1789,10 @@
  "producao": [
   {
    "tipo": "Short",
-   "titulo": "Como o Reaper caça em 5 passos",
-   "etapa": "pronto pra publicar (aprovado por você em 03/11 às 22:06; rascunho privado completo no canal principal, studio.youtube.com/video/qV_Zq6Eb40k/edit: capa do primeiro quadro, descrição, 12 tags, Jogos / Subnautica, playlist Vídeos curtos, não é para crianças, uso de IA Não (voz sua), vídeo relacionado no longo do Gargantuan, 7 produtos com o Reaper em 1º; título escolhido por você em 04/11, \"Como o Reaper Leviatã caça suas presas no Subnautica\", já trocado no rascunho e conferido em 04/11)",
+   "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica",
+   "etapa": "agendado no canal principal pra sex 06/11 às 18h (você programou em 04/11; conferido pela API; studio.youtube.com/video/qV_Zq6Eb40k/edit; relacionado o longo do Gargantuan, 7 produtos com o Reaper em 1º, voz real)",
    "responsavel": "Periscópio",
-   "falta_murilo": "responder a Adequação para publicidade e programar (sugestão: sexta 06/11 às 18h)",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2342,8 +2342,8 @@
  ],
  "navegador": [
   {
-   "tipo": "03/11",
-   "titulo": "REAPER CAÇA EM 5 PASSOS (#25, canal principal), RASCUNHO PRA PROGRAMAR (Claude Code, aprovado pelo Murilo 03/11 22:06; pacote do Anzol, Vitrine da Âncora no roteiro). **FEITO até o portão (Periscópio, 03/11 ~22h40):** portão de áudio APROVADO (-11,2 LUFS), arquivo do Drive = final.mp4 da Tesoura (mesmo md5). Rascunho privado `qV_Zq6Eb40k`, relido depois de recarregar: título de TRABALHO \"Como o Reaper caça em 5 passos #shorts\" (o final está no Decidir: Anzol recomenda \"Se você ouviu esse rugido no Subnautica, o Reaper já te viu\"; trocar quando ele escolher), descrição (linha 1 do Anzol + modelo do canal + 🔑 + 🏷️, 862 caracteres), miniatura \"CAPA REAPER CACA - quadro 0 (miniatura...).jpg\", 12 tags, Jogos / Subnautica (2014), playlist VIDEOS CURTOS, não é para crianças, promoção paga Não, conteúdo alterado Não (voz real), Lugares e Conceitos desligados, relacionado = longo do Gargantuan `lYXT1si2c7U`, 7 produtos na ordem (Reaper Leviathan Subnautica ML R$ 39,90; R36S Shopee até 22,5%; Meta Quest 3S Shopee até 23,5%; Ghost Articulado; Gargantuan 85cm; The Sea Emperor Leviathan; Nintendo Subnautica + Below Zero). **Atenção:** o catálogo não tem mais os nomes \"Console de Videogame Retrô R36S Bolso\" e \"Óculos de Realidade Mista Meta Quest 3S 128GB\"; usei os mesmos equivalentes da Shopee do Elden. O jogo do Switch está \"a partir de R$ 541,57\" (a Vitrine dizia R$ 379,99). **Título trocado (04/11 manhã, relido depois de recarregar):** \"Como o Reaper Leviatã caça suas presas no Subnautica #shorts\", escolhido pelo Murilo. **Falta:** a Adequação (irreversível, do Murilo) e o Programar (item p84). Sugestão: sex 06/11 18:00 (a semana só tem o Elden de ter 03/11).",
+   "tipo": "",
+   "titulo": "~~[03/11] REAPER CAÇA EM 5 PASSOS (#25, canal principal), RASCUNHO PRA PROGRAMAR~~ **AGENDADO pelo Murilo pra sex 06/11 18:00 (04/11, p84 fechada; API conferida: private, publishAt 06/11 18:00, VIDEOS CURTOS, ledger feito). IG e FB: o robô do crosspost pega depois de público; TikTok segue manual.** (Claude Code, aprovado pelo Murilo 03/11 22:06; pacote do Anzol, Vitrine da Âncora no roteiro). **FEITO até o portão (Periscópio, 03/11 ~22h40):** portão de áudio APROVADO (-11,2 LUFS), arquivo do Drive = final.mp4 da Tesoura (mesmo md5). Rascunho privado `qV_Zq6Eb40k`, relido depois de recarregar: título de TRABALHO \"Como o Reaper caça em 5 passos #shorts\" (o final está no Decidir: Anzol recomenda \"Se você ouviu esse rugido no Subnautica, o Reaper já te viu\"; trocar quando ele escolher), descrição (linha 1 do Anzol + modelo do canal + 🔑 + 🏷️, 862 caracteres), miniatura \"CAPA REAPER CACA - quadro 0 (miniatura...).jpg\", 12 tags, Jogos / Subnautica (2014), playlist VIDEOS CURTOS, não é para crianças, promoção paga Não, conteúdo alterado Não (voz real), Lugares e Conceitos desligados, relacionado = longo do Gargantuan `lYXT1si2c7U`, 7 produtos na ordem (Reaper Leviathan Subnautica ML R$ 39,90; R36S Shopee até 22,5%; Meta Quest 3S Shopee até 23,5%; Ghost Articulado; Gargantuan 85cm; The Sea Emperor Leviathan; Nintendo Subnautica + Below Zero). **Atenção:** o catálogo não tem mais os nomes \"Console de Videogame Retrô R36S Bolso\" e \"Óculos de Realidade Mista Meta Quest 3S 128GB\"; usei os mesmos equivalentes da Shopee do Elden. O jogo do Switch está \"a partir de R$ 541,57\" (a Vitrine dizia R$ 379,99). **Título trocado (04/11 manhã, relido depois de recarregar):** \"Como o Reaper Leviatã caça suas presas no Subnautica #shorts\", escolhido pelo Murilo. **Falta:** a Adequação (irreversível, do Murilo) e o Programar (item p84). Sugestão: sex 06/11 18:00 (a semana só tem o Elden de ter 03/11).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3015,5 +3015,5 @@
    "fechada_em": "2026-11-04T09:36-03:00"
   }
  ],
- "gerado_em": "2026-11-04T09:36-03:00"
+ "gerado_em": "2026-11-04T09:38-03:00"
 }
