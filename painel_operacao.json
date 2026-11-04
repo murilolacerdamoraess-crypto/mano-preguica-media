@@ -1789,10 +1789,10 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do Short do Reaper caçando: Se você ouviu esse rugido no Subnautica, o Reaper já te viu",
-   "etapa": "embalagem (é verdade pro jogo, o vídeo conta logo no começo que o rugido funciona como um sonar, e não entrega o fim, que é a hora certa de fugir; a capa que já abre o vídeo, o Reaper com 55 M e o mergulhador com 1,8 M, serve pra qualquer título; outra opção: \"Tem uma hora certa pra fugir do Reaper do Subnautica antes de ele te pegar\")",
+   "titulo": "Título novo (v2) do Short do Reaper caçando: Como o Reaper Leviatã caça suas presas no Subnautica",
+   "etapa": "embalagem (é a sua primeira frase, com o jogo no fim; as outras duas, também das suas frases: \"Como funciona a caçada do Reaper Leviatã no Subnautica\" e \"O que acontece se você ouvir esse barulho no Subnautica\"; a capa que abre o vídeo serve pras três)",
    "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -3013,5 +3013,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-03T22:32-03:00"
+ "gerado_em": "2026-11-03T22:42-03:00"
 }
