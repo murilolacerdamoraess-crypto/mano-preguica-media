@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T15:44:40.942121Z",
+ "gerado_em": "2026-11-04T15:50:39.474321Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -634,13 +634,13 @@
   {
    "arquivo": "short-ferramenta-fugir-tubarao.md",
    "name": "SHORT - Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "titulo_roteiro": "SHORT: a ferramenta pra fugir de tubarão debaixo d'água",
-   "description": "Short de jornada de uns 2 minutos e 50 pro canal 2 (pauta P112 do Sonar, aprovada pelo Murilo em 04/11). A dupla do CPSdrone quer andar debaixo d'água mais rápido que um tubarão (uns 25 km por hora) com um tubo de bateri",
-   "status": "roteiro (versão 1 da Tarrafa, rascunho; pauta passada pro Arpão em 04/11 pra testar no canal principal, quem escreve agora é ele)",
-   "gate": "",
+   "titulo_roteiro": "SHORT - Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "description": "Short do canal principal (P112, aprovada pelo Murilo em 04/11/2026 como teste, \"pra ver se não for subnautica mas envolver agua, bicho do mar e coisas assim ainda performa\"; ângulo dele, \"uma ferramenta que foge de tubar",
+   "status": "roteiro (em conferência (Crivo), versão 1)",
+   "gate": "versão 1: em conferência",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short (era canal 2; o Murilo passou pro principal em 04/11), jornada de mais de 1 min (R38)",
+   "formato": "short MP1 (voz real do Murilo, narrado em cima dos 2 vídeos do CPSdrone), jornada de 2,5 a 3 min; teste de tema fora do Subnautica no principal",
    "motor": null,
    "versao": "1",
    "fonte_yt": "RjUV6Y-baDY"
@@ -1223,14 +1223,14 @@
    "arquivo": "short-wakemaker-subnautica2-de-verdade.md",
    "name": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
    "titulo_roteiro": "SHORT - Construíram de verdade o propulsor de braço do Subnautica 2",
-   "description": "Short do canal principal (P110, pedido do Murilo em 04/11/2026, \"bom possivel video curto pro canal principal\"). O TheGreat3Dini fabricou o Wakemaker (o propulsor de braço do Subnautica 2) no jogo e decidiu fazer um de v",
-   "status": "descartado (pauta P110 cancelada pelo Sonar em 2026-11-04: a réplica não tem eletrônica e não responde 'dá pra nadar?'; a substituta é a P112, que espera o OK do Murilo)",
-   "gate": "versão 2: fontes, fluidez, roteiro_frases e erros repetidos APROVADOS e teste do leigo sem pergunta aberta em 2026-11-04; APROVADO PELO CRIVO em 2026-11-04; no Gravar pela R71, saída proposta ter 10/11",
+   "description": "Short do canal principal (P110 reaberta, ângulo do Murilo de 04/11/2026, \"podemos colocar o video do wakewaker lá mas sem prometer que funciona e trazer um proposito legal de fazer aquela replica\"). O TheGreat3Dini fez d",
+   "status": "roteiro (em conferência (Crivo), versão 3; pauta P110 reaberta pelo Sonar em 04/11 com o ângulo novo do Murilo)",
+   "gate": "versão 3: em conferência",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo do TheGreat3Dini e da gameplay do Subnautica 2), jornada de 2 a 2,5 min",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": "HCVr_YRDAqg"
   },
   {
