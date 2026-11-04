@@ -178,6 +178,22 @@
    "metricool_id": 415392181,
    "status": "agendado",
    "nota": "rotina TikTok da semana de 03/11 (5.872 views no YouTube); agendado pelo Leme em 03/11 12h09 depois do novo login do Metricool"
+  },
+  {
+   "video_id": "C6wqfeLVQ1s",
+   "quando": "2026-11-05T18:00:00-03:00",
+   "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido",
+   "metricool_id": 416451662,
+   "status": "agendado",
+   "nota": "34.999 views no YouTube, 13 dias no ar; o tiktok_semana.py pulava ele porque a sincronização do perfil casa o título com o da Pokédex (\"Esse cara tá tentando...\") e marca como postado; agendado pelo Leme em 04/11 à mão"
+  },
+  {
+   "video_id": "lybLU6Q9xV8",
+   "quando": "2026-11-08T18:00:00-03:00",
+   "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
+   "metricool_id": 416451727,
+   "status": "agendado",
+   "nota": "Short do MP2 à mão (regra do principal: 121 mil views, 7 dias em 03/11); TikTok marcado como conteúdo de IA (voz clonada); agendado pelo Leme em 04/11"
   }
  ]
 }
