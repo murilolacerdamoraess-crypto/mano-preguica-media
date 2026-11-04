@@ -576,6 +576,14 @@
    "confianca": "forte no problema (dito por você, com o caso da torre e o lote parado); fraca na solução, porque o ajuste tem de sair em minutos durante a sessão e isso ainda não foi testado. 1º teste: o próprio PokéBonk dos mapas, quando você voltar a gravar.",
    "status": "aguardando",
    "simples": "se você tirar ou mudar uma frase gravando, o roteirista recebe na hora e arruma as frases mais pra frente que falavam daquilo, antes de você chegar nelas. No PokéBonk, ao tirar a torre do 5º andar do começo, as 3 frases que voltavam nela já apareceriam reescritas."
+  },
+  {
+   "id": "R73",
+   "titulo": "O C26 reescrito: corta o detalhe que não muda o caminho, nunca a regra do jogo que explica a dificuldade nem a reação de quem jogou.",
+   "onde": "[[criterios-do-murilo]] (C26 no lugar do texto de hoje), skill shorts-roteirista (princípio 5), roles dos roteiristas, teste do leigo e Crivo. Origem: análise do PokéBonk dos mapas (Maestro, 04/11, [[roteiro-x-gravado-pokebonk-mapas]], item 3 do plano).",
+   "confianca": "forte (1 longo com 40 trechos reescritos, mais as 12 ocorrências do C26 que mostram o que ele queria cortar de verdade).",
+   "status": "aguardando",
+   "simples": "continua saindo do roteiro o que ninguém liga (o chapéu e o salto da fantasia), mas a regra do jogo que deixa a run difícil e a sua reação ficam, porque são elas que contam a história. No PokéBonk, a chuva de inimigos quando o tempo acaba teria entrado no roteiro."
   }
  ],
  "equipe": [
@@ -2041,6 +2049,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "etapa": "roteiro (escrevendo, versão 1, nas conferências antes do Crivo; canal 2, uns 2 min e 55)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 1: o grito \"STARS\" é ele dizendo o nome do alvo, a equipe da Jill, e o nome dele é o da deusa da vingança; teste do TikTok, Resident Evil 2 de 3; uns 100 s)",
    "responsavel": "Tarrafa",
@@ -3181,5 +3197,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T12:25-03:00"
+ "gerado_em": "2026-11-04T12:33-03:00"
 }
