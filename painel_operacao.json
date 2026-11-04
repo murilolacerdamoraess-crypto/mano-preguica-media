@@ -550,7 +550,7 @@
    "titulo": "Vídeo com só pontos de acabamento sai \"aprovado com ajustes\": a Tesoura corrige, o Crivo confere e ele não assiste de novo.",
    "onde": "painel (Assistir, botão novo \"aprovar com ajustes\"), role da Tesoura e do Crivo. Origem: análise de vazão, 04/11 (pedido do Murilo na revisão da semana 1).",
    "confianca": "forte no problema (17 de 24 reprovadas); fraca em quanto economiza, porque depende de quantos reacts são só acabamento (medir no placar de segunda).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\")",
    "simples": "quando o que falta no vídeo é detalhe, você aperta \"aprovar com ajustes\", escreve o que mudar, e ele sai sem você precisar assistir de novo. O Crivo confere se cada ponto foi feito."
   },
   {
@@ -558,7 +558,7 @@
    "titulo": "O primeiro item do seu dia é o bloco de voz que destrava o próximo vídeo; as reviews vêm juntas num bloco depois.",
    "onde": "Plano do dia do Maestro, painel (Tarefas). Origem: análise de vazão, 04/11. Completa a R43 e a R68, que ordenam a fila do Gravar.",
    "confianca": "forte no problema; a régua de 30 min por dia é um começo (172 min por semana dá uns 25 min por dia).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\")",
    "simples": "todo dia você começa gravando uns 30 minutos do vídeo que está mais perto de sair, e depois vê as revisões todas de uma vez. Assim a voz não fica pra madrugada e o canal principal não fica sem vídeo."
   },
   {
@@ -566,7 +566,7 @@
    "titulo": "Roteiro com aprovação leve vai direto pro Gravar: você aprova gravando, e as frases que mudar na hora valem como a versão final.",
    "onde": "painel (Decidir e Gravar), roles dos autores (Arpão, Tarrafa, Farol) e do Crivo. Origem: análise de vazão, 04/11. Segue a aprovação leve de 30/10 (você aprova ângulo, fatos e ordem; a frase se ajusta na gravação).",
    "confianca": "fraca: a aprovação leve começou em 30/10 e desde então nenhum roteiro novo chegou, então ainda não dá pra medir se ela segura.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no chat com o Maestro: \"pode ser cara\")",
    "simples": "o roteiro já aprovado pelo Crivo aparece direto no Gravar. Se você gravar, ele está aprovado, e o que você mudar na hora vira o texto final; se não gostar, pede ajuste ali mesmo."
   }
  ],
@@ -3054,5 +3054,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T09:55-03:00"
+ "gerado_em": "2026-11-04T10:00-03:00"
 }
