@@ -348,7 +348,9 @@ def enviar_documentos():
     for nome, tipo in (("conhecimentos/propostas-de-regra.md", "regra"), ("conhecimentos/livro-de-licoes.md", "regra"),
                        ("conhecimentos/rematch-24h.md", "jornada"), ("tese-do-painel.md", "regra"),
                        ("conhecimentos/cartilha-anzol.md", "regra"), ("producao/FILA.md", "quadro"),
-                       ("conhecimentos/criterios-do-murilo.md", "regra")):   # 22/10: o botão Aprendizado do app mostra os critérios
+                       ("conhecimentos/criterios-do-murilo.md", "regra"),   # 22/10: o botão Aprendizado do app mostra os critérios
+                       # 05/11: o chat do Gravar escreve com essas duas na mão (o que ele já reprovou e o que muda ao gravar)
+                       ("conhecimentos/frases-reprovadas.md", "regra"), ("conhecimentos/voz-real-o-que-o-murilo-muda-ao-gravar.md", "regra")):
         arq = os.path.join(CEREBRO, nome)
         if os.path.exists(arq):
             alvos.append((tipo + ":" + os.path.basename(arq)[:-3], tipo, arq))
