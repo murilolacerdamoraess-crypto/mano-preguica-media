@@ -3180,18 +3180,6 @@
    "fechada_em": "2026-11-03T22:11-03:00"
   },
   {
-   "id": "p79",
-   "aberta_em": "2026-11-03T15:24-03:00",
-   "agente": "Farol",
-   "video": "Longo: os melhores mods de Subnautica em 2026 e como instalar (R42)",
-   "o_que": "aprovar o plano (conhecimentos/longo-guia-mods-2026.md, 12 a 14 min): 1 sessão sua de 1h30 na versão atual (instalação do zero, 2 ou 3 mods novos, todos juntos num save) com o roteiro de gravação que o Farol manda antes; e dizer se o multiplayer entra. Depois vêm umas 60 frases de voz",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "r42:plano-sessao",
-   "fechada_em": "2026-11-03T15:28-03:00",
-   "nota": "substituída pela p80 (Farol fechou o roteiro de gravação)"
-  },
-  {
    "id": "p80",
    "aberta_em": "2026-11-03T15:28-03:00",
    "agente": "Farol",
@@ -3500,5 +3488,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T15:25-03:00"
+ "gerado_em": "2026-11-05T15:29-03:00"
 }
