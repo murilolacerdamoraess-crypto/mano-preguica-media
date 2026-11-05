@@ -531,11 +531,11 @@
   },
   {
    "id": "R67",
-   "titulo": "Ajuste do Murilo vale no alcance que ele disse, e a reentrega não muda o que ele não pediu.",
-   "onde": "`_MODELO` da ordem (seção de ajuste, da Lente), `crivo-checklist` (comparação v nova contra v anterior), role da Tesoura.",
-   "confianca": "fraca (2 casos, no mesmo vídeo e na mesma reentrega).",
+   "titulo": "O ajuste que você pede vale onde você apontou e em todo lugar do vídeo onde o mesmo problema se repete; o que não tem a ver com o pedido volta igual.",
+   "onde": "`_MODELO` da ordem (seção de ajuste, da Lente), role da Tesoura (`qa/pedidos.txt`), `crivo-checklist` (comparação da versão nova com a anterior).",
+   "confianca": "forte no que ele quer (dito por ele, nos dois sentidos); fraca na conferência do Crivo, ainda não testada.",
    "status": "aguardando",
-   "simples": "quando você pede uma mudança num ponto, ela vale só onde você disse; o resto do vídeo volta igual estava. Por exemplo, mostrar o oxigênio na frase do ar acabando não pode virar zoom no vídeo inteiro."
+   "simples": "o que você aponta uma vez é consertado em todo o vídeo onde o mesmo problema aparece, como a mesma inserção pequena ou o mesmo selo da wiki. O que não tem a ver com o seu pedido continua igual: mostrar o oxigênio na frase do ar acabando não vira zoom no vídeo inteiro."
   },
   {
    "id": "R68",
@@ -574,7 +574,7 @@
    "titulo": "Quando você muda ou pula uma frase no Gravar, o roteirista ajusta na hora as frases da frente que dependiam dela, antes de você chegar nelas.",
    "onde": "painel (Gravar: aviso ao dono quando você edita ou pula, e marca nas frases que dependem), roles dos roteiristas (Arpão, Tarrafa, Farol) e o Crivo (confere as amarras antes do Gravar). Origem: trava que você contou em 04/11, junto da aprovação da R69 a R71; a ideia do aviso na hora é do Maestro.",
    "confianca": "forte no problema (dito por você, com o caso da torre e o lote parado); fraca na solução, porque o ajuste tem de sair em minutos durante a sessão e isso ainda não foi testado. 1º teste: o próprio PokéBonk dos mapas, quando você voltar a gravar.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no Decidir, 23:07) Aplicada 2026-11-04 (Sextante): roles do Arpão, da Tarrafa (shorts.md) e do Farol (longos.md): a tabela `## Amarras` antes do Gravar e o ajuste das frases da frente na hora, pelo POST editar do Claude Code. Falta código: o painel não avisa ninguém quando ele edita ou pula (editar guarda `texto_original` e `editado_em`; pular só marca `aprovados[id] = 0`, sem data), nem marca as frases que dependem; pedido de painel mandado ao Maestro em 04/11. O Crivo confere a tabela de amarras (pedido ao Crivo).",
    "simples": "se você tirar ou mudar uma frase gravando, o roteirista recebe na hora e arruma as frases mais pra frente que falavam daquilo, antes de você chegar nelas. No PokéBonk, ao tirar a torre do 5º andar do começo, as 3 frases que voltavam nela já apareceriam reescritas."
   },
   {
@@ -582,7 +582,7 @@
    "titulo": "O C26 reescrito: corta o detalhe que não muda o caminho, nunca a regra do jogo que explica a dificuldade nem a reação de quem jogou.",
    "onde": "[[criterios-do-murilo]] (C26 no lugar do texto de hoje), skill shorts-roteirista (princípio 5), roles dos roteiristas, teste do leigo e Crivo. Origem: análise do PokéBonk dos mapas (Maestro, 04/11, [[roteiro-x-gravado-pokebonk-mapas]], item 3 do plano).",
    "confianca": "forte (1 longo com 40 trechos reescritos, mais as 12 ocorrências do C26 que mostram o que ele queria cortar de verdade).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-04 (Murilo, no Decidir, 23:07) Aplicada 2026-11-04 (Sextante): C26 com o texto novo em [[criterios-do-murilo]], ideia 7 do [[caderno-curto-de-escrita]], princípio 5 da skill shorts-roteirista, roles do Arpão, da Tarrafa e do Farol.",
    "simples": "continua saindo do roteiro o que ninguém liga (o chapéu e o salto da fantasia), mas a regra do jogo que deixa a run difícil e a sua reação ficam, porque são elas que contam a história. No PokéBonk, a chuva de inimigos quando o tempo acaba teria entrado no roteiro."
   }
  ],
@@ -3336,5 +3336,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T23:11-03:00"
+ "gerado_em": "2026-11-04T23:12-03:00"
 }
