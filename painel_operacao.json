@@ -1998,17 +1998,17 @@
   {
    "tipo": "Longo",
    "titulo": "Tentei chegar no fim do mundo do Subnautica",
-   "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: sair da borda do mapa e chegar onde o Void acaba, a uns 4.000 m do centro, com os 3 Ghost Leviathans atrás, trocando de veículo a cada tentativa; sem mod, 1h a 1h30)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; sem mod, num save de Sobrevivência separado, com os veículos pelo console e a posição na tela pelo F1: sair reto pro leste e chegar aos 4.000 m, onde os Ghosts desistem, tentando a nado, de Seamoth, de Prawn Suit e de Cyclops; se passar, o bônus é o teleporte dos 8.192 m; sessão de 1h a 1h30, vídeo de 12 a 15 min editado pela sua gameplay e voz; sugestão: gravar até dom 08/11, saída seg 23/11 às 18h)",
    "responsavel": "Farol",
-   "falta_murilo": "escolher se grava esse desafio",
+   "falta_murilo": "gravar a sessão e o áudio contando como foi",
    "prazo": ""
   },
   {
    "tipo": "Longo",
    "titulo": "Afundei o Subnautica 10 mil metros",
-   "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: com o mar 10 mil metros mais fundo, começar do zero lá embaixo e montar uma base que não alague; com 1 mod, 1h30 a 2h)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min)",
    "responsavel": "Farol",
-   "falta_murilo": "escolher se grava esse desafio",
+   "falta_murilo": "nada por enquanto (o pedido de gravar chega depois do teste)",
    "prazo": ""
   },
   {
@@ -3444,7 +3444,17 @@
    "chave": "desafio:subnautica-10-mil-metros",
    "fechada_em": "2026-11-05T09:10-03:00",
    "nota": "aprovou gravar em 05/11 09:01"
+  },
+  {
+   "id": "p104",
+   "aberta_em": "2026-11-05T09:15-03:00",
+   "agente": "Farol",
+   "video": "Tentei chegar no fim do mundo do Subnautica",
+   "o_que": "gravar a sessão de 1h a 1h30 jogando e comentando ao vivo, e depois um áudio de 5 a 15 min contando como foi. Num save de Sobrevivência separado, sem mod, com os veículos pelo console (Shift + Enter) e o F1 ligado pra mostrar a posição, sair reto pro leste e tentar chegar aos 4.000 m, onde os Ghosts desistem: a nado, de Seamoth, de Prawn Suit e de Cyclops, salvando na borda antes de cada tentativa. Se passar, o bônus é ir até os 8.192 m, onde o jogo te teleporta de volta. O passo a passo está na nota do desafio do Void no cérebro. Sugestão: gravar até dom 08/11, pra sair seg 23/11 às 18h",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "gravar:desafio-fim-do-void"
   }
  ],
- "gerado_em": "2026-11-05T09:10-03:00"
+ "gerado_em": "2026-11-05T09:16-03:00"
 }
