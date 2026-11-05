@@ -2474,6 +2474,22 @@
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Pacote de chamadas premium (curtir, hype, inscrever, sininho, compartilhar e membro em 3D, com a preguiça de vinil apertando o inscrever)",
+   "etapa": "edição (ordem pronta 04/11; começa por um teste de 10 s, depois do #36 v4)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "nada por enquanto (depois: assistir o teste de 10 s e aprovar ou pedir ajuste)",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Trilhas novas por clima, pra não repetir a mesma música em todo vídeo",
+   "etapa": "edição (plano de 04/11: primeiro as 99 trilhas que já temos separadas por clima e uma trava que não deixa a mesma faixa em 2 dos últimos 8 vídeos)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "decidir se reassina o ElevenLabs por um mês pra compor 12 novas; depois ouvir as amostras e escolher",
+   "prazo": ""
   }
  ],
  "navegador": [
@@ -3320,5 +3336,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T23:01-03:00"
+ "gerado_em": "2026-11-04T23:11-03:00"
 }
