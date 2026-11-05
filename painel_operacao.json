@@ -2218,9 +2218,9 @@
   {
    "tipo": "Short",
    "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "etapa": "edição (sua voz a 1,15x, com os cortes que você aprovou em 05/11; montando tudo menos o fecho; principal, uns 2 min e 55; saída proposta: qui 12/11)",
+   "etapa": "edição, montando a 1,15x com o fecho que você regravou (sem a frase das consequências permanentes, que não tem fonte; uns 2 min e 57; saída proposta: qui 12/11)",
    "responsavel": "Tesoura",
-   "falta_murilo": "gravar o fecho curto (Mas o tubarão continua nos 25 km por hora...)",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2490,9 +2490,9 @@
   {
    "tipo": "Tarefa",
    "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
-   "etapa": "edição (5 vozes de IA grátis falando as mesmas 3 frases do Reaper, com nomes sorteados de A a E, e a sua voz de verdade no fim pra comparar; um vídeo só no Assistir e os áudios no Drive, em testes/vozes)",
+   "etapa": "edição (rodada 1 avaliada: a letra A foi a melhor; a rodada 2, com as vozes do Google Gemini e a A de novo no meio, sai amanhã cedo, quando a cota grátis zerar)",
    "responsavel": "Lente",
-   "falta_murilo": "ouvir as vozes A a E e dar uma nota de 0 a 10 pra cada uma",
+   "falta_murilo": "nada por enquanto (rodada 2 do Gemini amanhã cedo)",
    "prazo": ""
   },
   {
@@ -3517,5 +3517,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T17:44-03:00"
+ "gerado_em": "2026-11-05T17:45-03:00"
 }
