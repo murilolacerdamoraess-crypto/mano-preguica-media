@@ -706,6 +706,10 @@
   {
    "nome": "Bússola",
    "funcao": "Metas e plano"
+  },
+  {
+   "nome": "Maré",
+   "funcao": "Canal IA (teste dos 30)"
   }
  ],
  "backlog": [
@@ -3508,5 +3512,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T14:38-03:00"
+ "gerado_em": "2026-11-05T14:48-03:00"
 }
