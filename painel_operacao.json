@@ -2634,6 +2634,14 @@
    "prazo": ""
   },
   {
+   "tipo": "05/11",
+   "titulo": "**AGUARDANDO PACOTE: CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda).** Pedido da Maré. Uns 10 clipes 9:16 em 720p no Omni Flash, uns 120 créditos (orçamento do teste em `canal-ia-teste-30.md`). O Flow com créditos fica no perfil mano, que é só do Periscópio, então quem gera sou eu. Pedi à Maré, num pacote só: os prompts na ordem, a imagem do frame inicial de cada clipe image-first, a duração, a pasta de saída e o nome de cada arquivo. Antes de gerar, confiro no saldo se os créditos cabem. A Maré usa só a sessão canalia (perfil canal-ia) pra foto, banner e descrição do @obraabsurda e do @obra.absurda: não mexo nela.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "04/11 21:49",
    "titulo": "**AVISO, AINDA NÃO EXECUTAR: SHORT DO WAKEMAKER (canal principal).** Pedido do Anzol. Título final aprovado pelo Murilo em 04/11 21:49: \"Esse cara construiu o Wakemaker do Subnautica 2 de verdade\". Capa = `CAPA WAKEMAKER - GPT 1.png` como quadro 0 (montado pelo Arpão). Falta: a voz (Murilo), o vídeo editado e o pacote completo do Anzol (descrição, tags, relacionado, miniatura JPG). Só subo quando chegarem vídeo + pacote; data de saída a definir (depois do Reaper de LEGO, fora da janela 22h30 a 11h).",
    "etapa": "",
@@ -3488,5 +3496,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T15:29-03:00"
+ "gerado_em": "2026-11-05T15:37-03:00"
 }
