@@ -3359,8 +3359,10 @@
    "video": "Uma vida só pra consertar a Aurora no Subnautica",
    "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, no Hardcore (morreu, o save apaga), você sai da cápsula, junta a roupa de radiação, a ferramenta de reparo e o cortador laser, passa pelos 9 Reapers e conserta a sala do motor da Aurora. Sem mod, 2 a 3 h. O fim é a Aurora consertada ou a morte. Melhor gravar depois que o longo da Aurora sair em 16/11",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "desafio:aurora-hardcore"
+   "status": "feita",
+   "chave": "desafio:aurora-hardcore",
+   "fechada_em": "2026-11-05T08:28-03:00",
+   "nota": "pediu ajuste 05/11 08:19: já zerou o Subnautica no Hardcore, o desafio não faz sentido"
   },
   {
    "id": "p102",
@@ -3369,8 +3371,10 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "assistir a versão 2 (2:55, com os pontos que você pediu na versão 1) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-05T08:28-03:00",
+   "nota": "aprovou a v2 em 05/11 08:23"
   }
  ],
- "gerado_em": "2026-11-05T05:06-03:00"
+ "gerado_em": "2026-11-05T08:29-03:00"
 }
