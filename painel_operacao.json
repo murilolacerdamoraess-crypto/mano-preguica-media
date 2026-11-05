@@ -3171,17 +3171,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p74",
-   "aberta_em": "2026-11-03T10:02-03:00",
-   "agente": "Periscópio",
-   "video": "Machado do Kratos no TikTok (sáb 07/11 18h)",
-   "o_que": "abrir no Mac o link de autorização do Metricool que o Periscópio mandou e clicar em autorizar (o login caiu); depois ele agenda o machado no TikTok",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "metricool:oauth:2026-11-03",
-   "fechada_em": "2026-11-03T12:08-03:00"
-  },
-  {
    "id": "p75",
    "aberta_em": "2026-11-03T14:22-03:00",
    "agente": "Sonar",
@@ -3538,5 +3527,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T12:06-03:00"
+ "gerado_em": "2026-11-05T12:10-03:00"
 }
