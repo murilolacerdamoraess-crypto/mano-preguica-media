@@ -534,7 +534,7 @@
    "titulo": "O ajuste que você pede vale onde você apontou e em todo lugar do vídeo onde o mesmo problema se repete; o que não tem a ver com o pedido volta igual.",
    "onde": "`_MODELO` da ordem (seção de ajuste, da Lente), role da Tesoura (`qa/pedidos.txt`), `crivo-checklist` (comparação da versão nova com a anterior).",
    "confianca": "forte no que ele quer (dito por ele, nos dois sentidos); fraca na conferência do Crivo, ainda não testada.",
-   "status": "aprovada 2026-11-05 (Decidir, 11:23 UTC, sem comentário) e aplicada 2026-11-05. (1) e (2) já valiam pelo C92 nos roles da Tesoura e da Lente desde 04/11; em 05/11 os dois bullets ganharam a linha \"o que NÃO muda\" e o critério virou regra aprovada. (3) No código: o `longo_inteiro.py` do Crivo já compara com a versão anterior (`--antes`, `--antes_video`, `--pedidos`: escala C72, tamanho e lugar das inserções C50); pedido ao Crivo em 05/11 pra fechar o resto (Shorts e o que mudou fora dos pedidos e das repetições listadas).",
+   "status": "aprovada 2026-11-05 (Decidir, 11:23 UTC, sem comentário) e aplicada 2026-11-05. (1) e (2) já valiam pelo C92 nos roles da Tesoura e da Lente desde 04/11; em 05/11 os dois bullets ganharam a linha \"o que NÃO muda\" e o critério virou regra aprovada. (3) No código: o `longo_inteiro.py` do Crivo já compara com a versão anterior (`--antes`, `--antes_video`, `--pedidos`: escala C72, tamanho e lugar das inserções C50); pedido ao Crivo em 05/11 pra fechar o resto (Shorts e o que mudou fora dos pedidos e das repetições listadas). **Fechado pelo Crivo em 05/11 (commit 7f55b3db, V43):** com `--antes` compara plano a plano e quadro a quadro, em Short e longo, casando as versões pela fala. Conta como dentro do pedido o que está embaixo de cada pedido numerado do `qa/pedidos.txt` em \"no vídeo: m:ss\" e \"repete em: m:ss, m:ss\" (janela de 3 s); mudança no vídeo todo só com \"no vídeo: vídeo inteiro\". Testado na arma nova: v1 x v2 reprova 17 planos e o voz_vel. **Fora do alcance:** (a) é por tempo, não por tipo: o que muda dentro da janela de um pedido passa mesmo sem ter a ver com ele; (b) som só pelo plano.json (trilha re-mixada com o mesmo nome não aparece); (c) mudança menor que 4% da tela não aparece; (d) precisa da versão anterior no disco (`qa/vN/` com plano.json e final_vN.mp4 até a reentrega seguinte ser aprovada; pedido à Tesoura pelo Claude Code); (e) voz regravada sem palavras.json e narracao.wav da versão cai pra só plano; (f) a 1ª versão não tem anterior.",
    "simples": "o que você aponta uma vez é consertado em todo o vídeo onde o mesmo problema aparece, como a mesma inserção pequena ou o mesmo selo da wiki. O que não tem a ver com o seu pedido continua igual: mostrar o oxigênio na frase do ar acabando não vira zoom no vídeo inteiro."
   },
   {
@@ -3442,5 +3442,5 @@
    "chave": "desafio:subnautica-10-mil-metros"
   }
  ],
- "gerado_em": "2026-11-05T08:51-03:00"
+ "gerado_em": "2026-11-05T08:56-03:00"
 }
