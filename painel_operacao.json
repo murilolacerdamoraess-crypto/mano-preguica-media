@@ -2634,8 +2634,8 @@
    "prazo": ""
   },
   {
-   "tipo": "05/11",
-   "titulo": "**CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda): 3 DE 10 FEITOS, faltam 7 (c04 a c10).** Pedido da Maré, pacote em `producao/obra-absurda-v01-flow.md`. **Feito (Periscópio, 05/11 15h40 às 15h51):** frame do c01 no Nano Banana Pro (0 crédito), salvo em `frames/c01_frame.png` (mais `c01_frame_reserva.png`, a outra das 2). Clipes c01 (image-first), c02 e c03 no Omni 1.1 Flash, 720p, 10 s, 9:16, x1, a 15 créditos cada, baixados pelo menu \"Fazer o download > 720p Tamanho original\" (720x1280, 10 s, com áudio) e copiados pra `VIDEOS/6 - Edicao IA (bastidores)/obra-absurda (canal IA)/v01-muralha-arroz/clipes/`. Conferi por quadros: nenhum texto na tela, nenhum rosto derretido, nada moderno. Projeto do Flow \"nov. 05 - 15:40\". **Saldo:** a conta do Flow (murilo.lacerda.moraess) tinha só 50 créditos, que se renovam todo dia às 15h39; sobraram 5. **Próximo:** dia 06/11 depois das 15h39, c04, c05 e c06 (45 créditos); dia 07/11, c07 a c09; dia 08/11, o c10. Avisar a Maré a cada rodada. A Maré usa só a sessão canalia (perfil canal-ia): não mexo nela.",
+   "tipo": "",
+   "titulo": "~~[05/11] CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda)~~ FEITO (Periscópio, 05/11). **Formato mudou (Maré, 05/11 16h):** 3 clipes + 7 imagens, c04 a c10 cancelados. Clipes `v01_c01_gancho.mp4`, `v01_c02_panela.mp4` e `v01_c03_muralha.mp4` (Omni 1.1 Flash, 720p, 10 s, 45 créditos, sobraram 5) em `.../v01-muralha-arroz/clipes/`. Imagens no Nano Banana Pro (0 crédito, 768x1376) em `.../v01-muralha-arroz/frames/`: `c01_frame.png` (mais reserva), `i04_cal`, `i05_mistura`, `i06_cidade`, `i07_laboratorio`, `i08_cristais`, `i09_chuva` e `i10_restauro` (.png). A i06 foi refeita 1 vez, porque a primeira tinha uma placa sobre o arco com marca que parecia número (ficou como `i06_cidade_reserva.png`). Conferidas: sem texto, sem rosto ruim. Projeto do Flow \"nov. 05 - 15:40\". Navegador fechado. Avisada a Maré.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3505,5 +3505,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T15:52-03:00"
+ "gerado_em": "2026-11-05T16:00-03:00"
 }
