@@ -818,6 +818,54 @@
    "pendente": ""
   },
   {
+   "id": "P114",
+   "titulo": "Afundei o Subnautica 10 mil metros: dá pra viver lá embaixo?",
+   "rodada": "Desafios pros longos, 05/11/2026 (Sonar, pedido do Murilo: \"o jogo que eu vou jogar com a missão, o objetivo\")",
+   "gancho": "",
+   "por_que_agora": "o Short dos 10 mil metros (a cápsula do tempo de outro jogador) é o maior do canal, com 998.201 views (16/10/2026, API em 05/11). O mod foi atualizado em 20/10/2026. Concorrência BR: a busca \"subnautica 10 mil metros\" dá The Last Bacon (667 mil) e, em português, 2 vídeos com 206 e 106 views.",
+   "formato": "longo desafio, 15 a 20 min, principal",
+   "concorrencia": "",
+   "status": "livre (pro Farol)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P115",
+   "titulo": "Quanto tempo eu duro no mod mais difícil do Subnautica?",
+   "rodada": "Desafios pros longos, 05/11/2026 (Sonar, pedido do Murilo: \"o jogo que eu vou jogar com a missão, o objetivo\")",
+   "gancho": "",
+   "por_que_agora": "não tem janela, é tema que não envelhece. Em inglês é o desafio de Subnautica com mais views que achei: Zera, 2,3 milhões; The Last Bacon, 1,97 milhão; Queue, 1,79 milhão; Mono Aurelio, 1,44 milhão; Viscerface, 663 mil. Em português, com \"deathrun\", não apareceu nenhum (busca de 05/11). O mais perto é o Boldt, \"Um Talassofóbico sobrevive ao PIOR mod do Subnautica?\" (916 mil); o Farol confere se o mod é o mesmo.",
+   "formato": "longo desafio, 15 a 20 min, principal",
+   "concorrencia": "",
+   "status": "livre (pro Farol)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P116",
+   "titulo": "Dá pra roubar o cristal da caverna do Shadow Leviathan no Below Zero?",
+   "rodada": "Desafios pros longos, 05/11/2026 (Sonar, pedido do Murilo: \"o jogo que eu vou jogar com a missão, o objetivo\")",
+   "gancho": "",
+   "por_que_agora": "não tem janela. O motivo é que o canal nunca fez um longo de Below Zero, e o mod que leva os bichos do Below Zero pro Subnautica 1 (Below Zero Creatures, Nexus 4343, atualizado em 01/11/2026) mostra que tem gente querendo esses bichos. É a pauta de menor certeza das 4.",
+   "formato": "longo desafio, 12 a 18 min, principal",
+   "concorrencia": "",
+   "status": "livre (pro Farol)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P117",
+   "titulo": "Tentei caçar a serpente do mar do Valheim de jangada",
+   "rodada": "Desafios pros longos, 05/11/2026 (Sonar, pedido do Murilo: \"o jogo que eu vou jogar com a missão, o objetivo\")",
+   "gancho": "",
+   "por_que_agora": "o Valheim 1.0 saiu em 09/09/2026, depois de 5 anos de acesso antecipado (Janelas pra jornadas), e hoje ainda está entre os mais jogados da Steam, com 68.630 jogadores no pico do dia (35º, API da Steam, 05/11/2026). Concorrência BR: em português só tem guia (Chumbinho Games, 6,6 mil); desafio de jangada não achei.",
+   "formato": "longo desafio, 12 a 18 min, principal (teste fora do Subnautica)",
+   "concorrencia": "",
+   "status": "livre (pro Farol; esperar o resultado da P112)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P105",
    "titulo": "Ela fez o lançador de gancho do Batman, e passou 2 semanas num problema que uma bomba de bicicleta resolveu em 1 dia",
    "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
@@ -3376,5 +3424,5 @@
    "nota": "aprovou a v2 em 05/11 08:23"
   }
  ],
- "gerado_em": "2026-11-05T08:41-03:00"
+ "gerado_em": "2026-11-05T08:44-03:00"
 }
