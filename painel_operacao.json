@@ -2257,18 +2257,18 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia (canal 2)",
-   "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 2 pela história guiada: agora explica como a lâmina volta, a fita puxando e o motor girando, e por isso o fim faz sentido: o fio ligado errado de cansaço fez o motor apertar enquanto a fita puxava, e a lâmina espremida travou dura; o prazo, a placa queimada e a noite sem duelo no meio; uns 3 min)",
+   "titulo": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
+   "etapa": "roteiro pronto pra gravar (versão 4 de 05/11: cortado pra uns 2 min e 34 falados, na ordem do vídeo, com o fim de verdade: a lâmina aguentou o duelo de teste em casa, ainda dobrando um pouco nos golpes fortes; passa no Crivo e vai pro Gravar quando o painel voltar)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara fez as mãos do Hulk de verdade, e a força estourou o medidor (canal 2)",
-   "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 3 depois da sua reprovação do gancho: abre na ideia que parecia impossível e no porquê, a garra dos bombeiros enorme e de 21 mil dólares; sem \"atleta de ponta\" e sem \"não foi X nem Y\"; o vidro vira degrau no meio e o fim responde a promessa: a ideia impossível virou uma mão com quase o dobro da força do homem mais forte do mundo; uns 2 min e 40)",
+   "titulo": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
+   "etapa": "roteiro pronto pra gravar (versão 6 de 05/11: cortado pra uns 2 min e 27 falados; diz sem esconder que é a garra dos bombeiros, comprada usada, que os fãs chamaram de clickbait; passa no Crivo e vai pro Gravar quando o painel voltar)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -3525,5 +3525,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T18:10-03:00"
+ "gerado_em": "2026-11-05T18:24-03:00"
 }
