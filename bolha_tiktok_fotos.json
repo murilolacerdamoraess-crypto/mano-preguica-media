@@ -396,6 +396,10 @@
 {
 "t": 1793822640,
 "v": 258
+},
+{
+"t": 1793851844,
+"v": 258
 }
 ],
 "views": 258
@@ -735,7 +739,7 @@
 "v": 431
 }
 ],
-"views": 534
+"views": 536
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -807,13 +811,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1478
+"views": 1480
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 8983
+"views": 8986
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -831,7 +835,7 @@
 "titulo": "agora dá pra caçar QUALQUER monstro em Subnautica 2 🔫 #subnautica #su...",
 "ts": 1787346108,
 "fotos": [],
-"views": 3905
+"views": 3906
 },
 "7675850705399188753": {
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
@@ -1318,7 +1322,7 @@
 "v": 2752
 }
 ],
-"views": 3456
+"views": 3458
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1577,7 +1581,7 @@
 "v": 44800
 }
 ],
-"views": 48300
+"views": 48400
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -2530,7 +2534,7 @@
 "v": 10900
 }
 ],
-"views": 11900
+"views": 12000
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -2986,6 +2990,10 @@
 {
 "t": 1793822640,
 "v": 159
+},
+{
+"t": 1793851844,
+"v": 159
 }
 ],
 "views": 159
@@ -3109,9 +3117,13 @@
 {
 "t": 1793836429,
 "v": 247
+},
+{
+"t": 1793851844,
+"v": 248
 }
 ],
-"views": 247
+"views": 248
 }
 }
 }
