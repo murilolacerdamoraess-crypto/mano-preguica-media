@@ -2635,7 +2635,7 @@
  "navegador": [
   {
    "tipo": "05/11",
-   "titulo": "**#37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova.",
+   "titulo": "**#37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova. **Adequação feita pelo Murilo (05/11, Vigia fechou a p106); conferido no Studio às 17h57: no Editar rascunho, a etapa \"Adequação para publicidade\" está concluída.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2643,7 +2643,7 @@
   },
   {
    "tipo": "",
-   "titulo": "~~[05/11] CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda)~~ FEITO (Periscópio, 05/11). **Formato mudou (Maré, 05/11 16h):** 3 clipes + 7 imagens, c04 a c10 cancelados. Clipes `v01_c01_gancho.mp4`, `v01_c02_panela.mp4` e `v01_c03_muralha.mp4` (Omni 1.1 Flash, 720p, 10 s, 45 créditos, sobraram 5) em `.../v01-muralha-arroz/clipes/`. Imagens no Nano Banana Pro (0 crédito, 768x1376) em `.../v01-muralha-arroz/frames/`: `c01_frame.png` (mais reserva), `i04_cal`, `i05_mistura`, `i06_cidade`, `i07_laboratorio`, `i08_cristais`, `i09_chuva` e `i10_restauro` (.png). A i06 foi refeita 1 vez, porque a primeira tinha uma placa sobre o arco com marca que parecia número (ficou como `i06_cidade_reserva.png`). Conferidas: sem texto, sem rosto ruim. Projeto do Flow \"nov. 05 - 15:40\". Navegador fechado. Avisada a Maré.",
+   "titulo": "~~[05/11] CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda)~~ FEITO (Periscópio, 05/11). **Formato mudou (Maré, 05/11 16h):** 3 clipes + 7 imagens, c04 a c10 cancelados. Clipes `v01_c01_gancho.mp4`, `v01_c02_panela.mp4` e `v01_c03_muralha.mp4` (Omni 1.1 Flash, 720p, 10 s, 45 créditos, sobraram 5) em `.../v01-muralha-arroz/clipes/`. Imagens no Nano Banana Pro (0 crédito, 768x1376) em `.../v01-muralha-arroz/frames/`: `c01_frame.png` (mais reserva), `i04_cal`, `i05_mistura`, `i06_cidade`, `i07_laboratorio`, `i08_cristais`, `i09_chuva` e `i10_restauro` (.png). A i06 foi refeita 1 vez, porque a primeira tinha uma placa sobre o arco com marca que parecia número (ficou como `i06_cidade_reserva.png`). Conferidas: sem texto, sem rosto ruim. Projeto do Flow \"nov. 05 - 15:40\". Navegador fechado. Avisada a Maré. **v2 (Murilo, 05/11 noite: \"tem que ser composto completamente por vídeos\"), FEITO (Periscópio, 17h43 às 17h55):** os 7 clipes c04 a c10 (c09 com o prompt novo, sem cachoeira) gerados na conta **Mano Preguiça** (plano grande), projeto do Flow \"nov. 05 - 17:42\", Omni 1.1 Flash 720p 10 s x1, 105 créditos (saldo 945 até 15/11). Baixados pelo menu, 720x1280, 10 s, com áudio, em `.../v01-muralha-arroz/clipes/` (`v01_c04_cal` a `v01_c10_restauro`). Conferidos por quadros: sem texto, sem rosto ruim, nada fora de época (o c10 tem capacete e colete, que é o restaurador moderno pedido). Nenhum refeito. Ponto pro editor: no c09, perto dos 7 s, a torre entra por fusão e a chuva some no fim.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3517,5 +3517,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T17:48-03:00"
+ "gerado_em": "2026-11-05T17:51-03:00"
 }
