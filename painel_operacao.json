@@ -1491,9 +1491,9 @@
   },
   {
    "id": "P56",
-   "titulo": "Ela inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
    "rodada": "Crônicas de feitos no Subnautica 18/10/2026 (Sonar): 4 pautas (regra do Murilo de 18/10)",
-   "gancho": "Ela inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
+   "gancho": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida\" (refeito em 05/11: o antigo, \"pra correr contra a Aurora\", não fazia sentido pra quem nunca jogou)",
    "por_que_agora": "chamada do longo de 04/11.",
    "formato": "Short 60-90s",
    "concorrencia": "",
@@ -2101,6 +2101,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
+   "etapa": "roteiro (versão 5 de 05/11, a primeira da minha fila pro Decidir quando abrir vaga no teto de 5; peça única desde que você engavetou o longo da Aurora: o título e o gancho agora dizem o que inundar a base dá, o jogo soma andar e nadar e ela fica muito mais rápida, e pra quê, zerar antes da Aurora, a nave que explode num tempo marcado; uns 2:38, voz sua)",
+   "responsavel": "Arpão",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo (canal 2)",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5, versão única no jeito de notícia: a demonstração na ordem, no botão, cantarolando e na ocarina de verdade que chama o cavalo, com o microfone do Switch 2; uns 70 segundos; a contada como história foi arquivada em 29/10)",
    "responsavel": "Arpão",
@@ -2303,14 +2311,6 @@
    "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 6 na fila, fora do Decidir até abrir vaga no teto de 5, no fio que você contou em 27/10: por que quebrar pote é tão bom, a ideia que já vem de antigamente, o que não era suficiente e o ímã que resolve, e o ciclo de quebrar e montar, com o colecionável na estante; uns 55 segundos)",
-   "responsavel": "Arpão",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Ela inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
-   "etapa": "roteiro (versão 4 na fila, fora do Decidir até abrir vaga no teto de 5, fecho sem o \"Ou seja\" (25/10): a base inundada faz o jogo somar andar e nadar, ela inunda na hora cortando os cogumelos ácidos, perde a primeira tentativa e decola com a Aurora de pé; uns 2 minutos, voz sua; precisa sair antes do longo de 04/11)",
    "responsavel": "Arpão",
    "falta_murilo": "",
    "prazo": ""
@@ -3511,5 +3511,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T13:55-03:00"
+ "gerado_em": "2026-11-05T14:10-03:00"
 }
