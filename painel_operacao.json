@@ -2021,14 +2021,6 @@
   },
   {
    "tipo": "Longo",
-   "titulo": "Ela zerou o Subnautica antes da Aurora explodir",
-   "etapa": "roteiro aprovado pelo Crivo e no Gravar (versão 5 de 04/11, refeita pelo método novo do PokéBonk: cada truque com o porquê, as reações dela e o espaço de cada parte pelo tempo de jogo; 138 trechos, uns 16 min, que você decidiu manter em 04/11)",
-   "responsavel": "Farol",
-   "falta_murilo": "gravar a voz no painel (138 trechos)",
-   "prazo": "16/11 (a edição começa depois da do Megabonk)"
-  },
-  {
-   "tipo": "Longo",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, e trouxe o foguete pra água",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5), versão 4 com a abertura e o fecho que você aprovou em 20/10 e as correções dos outros roteiros (13 a 15 min: o youtuber que zerou o Deathrun sem apertar a tecla de andar, empurrado por extintor, a entrada na Aurora de cadeira, as 3 horas de tubo perdidas quando o PC travou, e o foguete trazido pra dentro da água no fim)",
    "responsavel": "Farol",
@@ -3378,8 +3370,10 @@
    "video": "Ela zerou o Subnautica antes da Aurora explodir",
    "o_que": "gravar a voz dos 138 trechos (versão nova de 04/11, uns 16 min; saída proposta: seg 16/11 às 18h)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v5"
+   "status": "cancelada",
+   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v5",
+   "fechada_em": "2026-11-05T13:54-03:00",
+   "nota": "Murilo engavetou o longo da Aurora em 05/11 ('pode engavetar'): 22 min de voz e 2 dias de edição não compensam; a história fica no Short da base inundada"
   },
   {
    "id": "p95",
@@ -3517,5 +3511,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T13:44-03:00"
+ "gerado_em": "2026-11-05T13:55-03:00"
 }
