@@ -656,6 +656,14 @@
    "confianca": "forte no número de hoje; o ritmo de 3 de jornada por semana já é a R38 (30/10).",
    "status": "aguardando",
    "simples": "no canal 2, que deu uns 80 dólares em outubro, voltam os 3 Shorts por semana já na semana de 09/11 (o PS2 portátil, o FNAF e o Octopus) e, a partir de 16/11, sempre uma semana inteira agendada. Hoje o canal 2 tem só 1 vídeo agendado pros próximos 7 dias e nenhum episódio do PokéBonk guardado; a série volta com 1 por semana a partir de 23/11 se você quiser gravar."
+  },
+  {
+   "id": "R83",
+   "titulo": "O PokéBonk de 1 hora sai do canal 2; o próximo episódio sai cortado em 15 a 20 minutos.",
+   "onde": "`conhecimentos/registro-de-formatos.md` (Série PokéBonk) e `conhecimentos/caderno-de-testes.md` (T2 fecha, T5 entra). O formato de 15 a 20 min já é a R40, aprovada em 30/10.",
+   "confianca": "forte (regra escrita antes, 3 episódios, todos longe dos 1.709 que fariam a série seguir).",
+   "status": "aguardando",
+   "simples": "o PokéBonk de 1 hora não pegou no canal 2: os 3 últimos ficaram entre 107 e 323 views em 2 dias, e quem entra assiste uns 3 a 6% do vídeo. A proposta é parar com o de 1 hora e, quando você voltar a gravar, a edição cortar a run em 15 a 20 minutos (escolha do Pokémon, viradas e a luta com o lendário)."
   }
  ],
  "equipe": [
@@ -3525,5 +3533,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T18:24-03:00"
+ "gerado_em": "2026-11-05T18:33-03:00"
 }
