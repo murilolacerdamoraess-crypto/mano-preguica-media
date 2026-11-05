@@ -534,7 +534,7 @@
    "titulo": "O ajuste que você pede vale onde você apontou e em todo lugar do vídeo onde o mesmo problema se repete; o que não tem a ver com o pedido volta igual.",
    "onde": "`_MODELO` da ordem (seção de ajuste, da Lente), role da Tesoura (`qa/pedidos.txt`), `crivo-checklist` (comparação da versão nova com a anterior).",
    "confianca": "forte no que ele quer (dito por ele, nos dois sentidos); fraca na conferência do Crivo, ainda não testada.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-05 (Decidir, 11:23 UTC, sem comentário) e aplicada 2026-11-05. (1) e (2) já valiam pelo C92 nos roles da Tesoura e da Lente desde 04/11; em 05/11 os dois bullets ganharam a linha \"o que NÃO muda\" e o critério virou regra aprovada. (3) No código: o `longo_inteiro.py` do Crivo já compara com a versão anterior (`--antes`, `--antes_video`, `--pedidos`: escala C72, tamanho e lugar das inserções C50); pedido ao Crivo em 05/11 pra fechar o resto (Shorts e o que mudou fora dos pedidos e das repetições listadas).",
    "simples": "o que você aponta uma vez é consertado em todo o vídeo onde o mesmo problema aparece, como a mesma inserção pequena ou o mesmo selo da wiki. O que não tem a ver com o seu pedido continua igual: mostrar o oxigênio na frase do ar acabando não vira zoom no vídeo inteiro."
   },
   {
@@ -3376,5 +3376,5 @@
    "nota": "aprovou a v2 em 05/11 08:23"
   }
  ],
- "gerado_em": "2026-11-05T08:36-03:00"
+ "gerado_em": "2026-11-05T08:39-03:00"
 }
