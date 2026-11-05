@@ -2382,7 +2382,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "edição, versão 1 entregue em 04/11 com a voz que você gravou hoje (3 minutos: o Reaper congelado, as facadas, o Gasopod e o canhão que arremessa as bolsas, e o 25º explodindo); sai dom 08/11 18h",
+   "etapa": "edição, versão 2 entregue em 05/11 com o que você pediu na 1 (agora 2:55, abaixo do limite de 3 min do Short; um Reaper diferente em cada trecho; a arma só aparece quando você explica; as imagens no meio da tela; as lutas contadas em sequência, cada Reaper morrendo na tela); sai dom 08/11 18h",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir e aprovar ou pedir ajuste",
    "prazo": ""
@@ -3338,7 +3338,9 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "assistir a versão 1 (a voz que você gravou hoje) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-05T05:05-03:00",
+   "nota": "ele pediu ajuste na v1 (04/11: mais de 3 min, o mesmo Reaper repetido, a arma antes da explicação, tudo no topo); a v2 foi entregue em 05/11 05h03"
   },
   {
    "id": "p100",
@@ -3359,7 +3361,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "desafio:aurora-hardcore"
+  },
+  {
+   "id": "p102",
+   "aberta_em": "2026-11-05T05:05-03:00",
+   "agente": "Tesoura",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "assistir a versão 2 (2:55, com os pontos que você pediu na versão 1) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T00:35-03:00"
+ "gerado_em": "2026-11-05T05:06-03:00"
 }
