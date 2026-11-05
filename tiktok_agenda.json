@@ -279,6 +279,16 @@
    "isAigc": false,
    "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views; GTA 6 fora do nicho, incluído a pedido (Maestro), na véspera do lançamento",
    "agendado_por": "metricool"
+  },
+  {
+   "video_id": "YAXA2f5lzMs",
+   "quando": "2026-11-13T18:00:00-03:00",
+   "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+   "metricool_id": null,
+   "status": "pedido-tiktok-web",
+   "isAigc": false,
+   "agendado_por": "tiktok-web",
+   "nota": "05/11: 1º item pelo TikTok web (Periscópio, perfil mano), teste do plano B do teto do Metricool; status vira agendado quando ele confirmar"
   }
  ]
 }
