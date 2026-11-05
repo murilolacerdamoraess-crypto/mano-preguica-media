@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T16:55:25.182562Z",
+ "gerado_em": "2026-11-05T17:05:27.478978Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -439,14 +439,14 @@
    "arquivo": "short-base-inundada-aurora-subnautica.md",
    "name": "SHORT - Ela inundou a própria base no Subnautica de propósito, pra correr contra a Aurora",
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
-   "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10, chamada do longo de 04/11 do Farol, que conta o mesmo vídeo inteiro). A Viscerface tinha mais ou menos uma hora pra zerar o Subnautica antes da Au",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
-   "gate": "versão 3 (18/10, a Viscerface é ela, só pronome; títulos novos no portao_pauta): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10). Desde 05/11 é a única peça dessa história (o longo da Aurora foi engavetado pelo Murilo). A Viscerface tinha mais ou menos uma hora pra zerar o S",
+   "status": "roteiro (na fila do Arpão, o primeiro a entrar no Decidir quando abrir vaga no teto de 5, 05/11)",
+   "gate": "versão 5 (05/11, peça única depois do longo engavetado, método novo): portões e ensaio na seção de cada um; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
+   "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface), até 2:40 falados (regra de 05/11)",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": "lnEzdCum6Kw"
   },
   {
