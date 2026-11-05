@@ -2162,7 +2162,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
-   "etapa": "pauta, esperando você jogar o Creature Outcrops e gravar o áudio contando como foi (o roteiro nasce do seu áudio; acima de 100 m só sai bicho manso, abaixo de 100 m pode sair qualquer criatura, então é chance, não toda vez)",
+   "etapa": "pauta, esperando você jogar o Creature Outcrops e gravar o áudio contando como foi, de 16/11 em diante, quando você voltar pra casa (o roteiro nasce do seu áudio; acima de 100 m só sai bicho manso, abaixo de 100 m pode sair qualquer criatura, então é chance, não toda vez)",
    "responsavel": "Arpão",
    "falta_murilo": "jogar o mod e gravar o áudio contando como foi",
    "prazo": ""
@@ -3494,5 +3494,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T11:37-03:00"
+ "gerado_em": "2026-11-05T11:42-03:00"
 }
