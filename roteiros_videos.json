@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T21:08:49.618794Z",
+ "gerado_em": "2026-11-05T21:10:13.513939Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -440,7 +440,7 @@
    "name": "SHORT - Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10). Desde 05/11 é a única peça dessa história (o longo da Aurora foi engavetado pelo Murilo). A Viscerface tinha mais ou menos uma hora pra zerar o S",
-   "status": "roteiro (na fila do Arpão, o primeiro a entrar no Decidir quando abrir vaga no teto de 5, 05/11)",
+   "status": "roteiro aprovado pelo Crivo em 05/11 (commit 0ee2a02c); entra no Gravar quando um dos 3 Shorts do Arpão de lá for gravado (R71: gravar = aprovar)",
    "gate": "versão 5 (05/11): conferir_fontes (36 confirmadas, 0 com problema, 0 contas. APROVADO), checar_fluidez, roteiro_frases (V50 2:39) e erros repetidos APROVADOS; ensaio do Murilo em 7 leituras e mais 3 depois da devolução do Crivo (05/11: a faca, o \"nem ela entendeu\" e o \"toda vez\"), a última com 0 paradas; fontes 42/0 e V50 2:39 (384 palavras) na versão final; título novo no portao_pauta APROVADO; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
