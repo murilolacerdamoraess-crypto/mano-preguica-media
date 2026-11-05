@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T17:22:53.354664Z",
+ "gerado_em": "2026-11-05T20:50:10.275174Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -958,7 +958,7 @@
    "name": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
    "titulo_roteiro": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
    "description": "Short do canal principal (P111, aprovada pelo Murilo em 04/11/2026, \"legal, uma vibe bem parecida com a do onix que deu muito certo\"). O FinCantBuild, que já tinha montado o Prawn Suit em LEGO, está montando o Reaper Lev",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 1; R71: gravar = aprovar)",
+   "status": "roteiro aprovado pelo Crivo; versão 2 (corte pela duração) com o gancho mantido pelo Murilo em 05/11, esperando republicar no Gravar com Octopus, Fallout e Wakemaker quando o painel voltar (R71: gravar = aprovar)",
    "gate": "versão 1: fontes, fluidez, roteiro_frases e erros repetidos APROVADOS e teste do leigo sem pergunta aberta em 2026-11-04; o Crivo devolveu com 6 trocas (o fim pousava no que falta), aplicadas, e APROVOU em 2026-11-04 (commit 0add1bbb); no Gravar pela R71, saída proposta ter 10/11 (era sáb 14/11; passou pra ter 10/11 quando o Wakemaker parou)",
    "video_id": null,
    "publicado_em": null,
