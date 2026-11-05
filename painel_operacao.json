@@ -3121,17 +3121,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p72",
-   "aberta_em": "2026-11-03T00:42-03:00",
-   "agente": "Tesoura",
-   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "o_que": "Assistir o longo inteiro (14:11) e aprovar ou pedir ajuste: o que você pediu no demo em 31/10 já vale em todos os capítulos (informação em cima da gameplay, contador só quando um morre, sem cartão de capítulo, mapa em preto e branco com os 34)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1zifBAGcOOXQrgl5zMRbo_9Tkg6KpBPNn",
-   "fechada_em": "2026-11-03T10:35-03:00"
-  },
-  {
    "id": "p73",
    "aberta_em": "2026-11-03T00:43-03:00",
    "agente": "Periscópio",
@@ -3480,5 +3469,5 @@
    "chave": "gravar:desafio-fim-do-void"
   }
  ],
- "gerado_em": "2026-11-05T09:50-03:00"
+ "gerado_em": "2026-11-05T10:36-03:00"
 }
