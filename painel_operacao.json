@@ -2504,11 +2504,19 @@
    "titulo": "Trilhas novas por clima, pra não repetir a mesma música em todo vídeo",
    "etapa": "edição (plano de 04/11: primeiro as 99 trilhas que já temos separadas por clima e uma trava que não deixa a mesma faixa em 2 dos últimos 8 vídeos)",
    "responsavel": "Tesoura",
-   "falta_murilo": "decidir se reassina o ElevenLabs por um mês pra compor 12 novas; depois ouvir as amostras e escolher",
+   "falta_murilo": "nada (05/11 ele decidiu: não reassina o ElevenLabs, \"é muito caro\"; o rodízio sai das trilhas que já temos)",
    "prazo": ""
   }
  ],
  "navegador": [
+  {
+   "tipo": "05/11",
+   "titulo": "**AVISO, AGUARDANDO CAPA E TÍTULO DO ANZOL: #37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal.** Aprovado pelo Murilo em 05/11. Saída: dom 08/11 18h. Quando o Anzol passar capa e título: preparar o Programar com vídeo relacionado diferente de Nenhum e \"conteúdo alterado\" = Não (voz real dele). Deixar pronto na tela de agendar; **o clique de agendar é do Murilo.**",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "04/11 21:49",
    "titulo": "**AVISO, AINDA NÃO EXECUTAR: SHORT DO WAKEMAKER (canal principal).** Pedido do Anzol. Título final aprovado pelo Murilo em 04/11 21:49: \"Esse cara construiu o Wakemaker do Subnautica 2 de verdade\". Capa = `CAPA WAKEMAKER - GPT 1.png` como quadro 0 (montado pelo Arpão). Falta: a voz (Murilo), o vídeo editado e o pacote completo do Anzol (descrição, tags, relacionado, miniatura JPG). Só subo quando chegarem vídeo + pacote; data de saída a definir (depois do Reaper de LEGO, fora da janela 22h30 a 11h).",
@@ -3376,5 +3384,5 @@
    "nota": "aprovou a v2 em 05/11 08:23"
   }
  ],
- "gerado_em": "2026-11-05T08:29-03:00"
+ "gerado_em": "2026-11-05T08:35-03:00"
 }
