@@ -7,7 +7,9 @@ o FB saíram do Metricool em 04/10, então os 20 são do TikTok).
 
 Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_plan):
   1. vertical de 61 s a 600 s (TikTok só paga 1 min+; o Metricool trava acima de 10 min)
-  2. 2 mil views ou mais no YouTube (piso baixado de 10 mil em 05/10: corta só o fracasso ridículo; sobe quando o Sextante mostrar que dá)
+  2. 2 mil views no YouTube é PRIORIDADE, não corte (05/11/2026, Murilo: o TikTok ficou parado de 30/10 a 05/11). Primeiro
+     os de 2 mil ou mais; quando acabarem, os de baixo do piso, na ordem do tema que funciona no TikTok (tema_score:
+     criatura e medo primeiro, Reaper e Gargantuan na frente, regra de 04/10), não pelas views do YouTube
   3. maturado: 7+ dias no ar (o número do YouTube já diz alguma coisa)
   4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo)
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
@@ -15,16 +17,17 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
      pro tiktok tmb"; antes era só a allowlist de faceless de IA). Narrado com voz clonada sai com o selo de IA
      (isAigc) no Metricool: o plano marca "conferir_voz" nos do MP2 e o Leme confere quem narra antes de agendar
   7. nunca postado nem agendado no TikTok (lê o perfil público com yt-dlp a cada rodada + ledger + tiktok_agenda.json)
-  8. ordem: views no YouTube (escala log) + bônus de tema (criatura/medo/escala sobem, construção/veículo descem)
+  8. ordem: acerto cedo; depois os de 2 mil+ por views no YouTube (escala log) + bônus de tema; depois os de baixo do
+     piso por tema e só então views
   9. sempre PUBLIC_TO_EVERYONE (o não público perde a monetização)
 
-Saída: tiktok_semana.json com os escolhidos, horário (Ter/Qui/Sáb/Dom 18h BRT, até 4 por semana e
-sem passar de 20 no mês), legenda e URL pública do vídeo (hospedado no release do GitHub pelo Mac,
+Saída: tiktok_semana.json com os escolhidos, horário (desde 05/11/2026 TODO DIA às 18h BRT, os 7 dias a partir de
+amanhã, sem buraco; antes era ter/qui/sáb/dom e até 4 por semana), legenda e URL pública do vídeo (hospedado no release do GitHub pelo Mac,
 igual ao crosspost). Quem agenda no Metricool é o Leme (MCP do Metricool), na rotina de segunda.
 
 Acerto cedo (Murilo, 23/10/2026: "podemos adotar essa parada de passar a regua"): Short que passou de 2x a régua
 com 24 h ou 3 dias (campo acerto_cedo da ficha do vídeo, que o ficha_video.py grava no cérebro) não espera os 7 dias
-e vai na frente da fila. O piso e as outras regras continuam. Com "acertos", o script planeja só esses, e o horário
+e vai na frente da fila. As outras regras continuam (o piso virou prioridade em 05/11). Com "acertos", o script planeja só esses, e o horário
 das 18h do próprio dia também conta se ainda for antes das 16h (rotina diária "TikTok: acerto cedo" do Leme).
 
 Uso (no Mac):
@@ -45,9 +48,9 @@ AGENDA = os.path.join(RAIZ, "tiktok_agenda.json")
 SAIDA = os.path.join(RAIZ, "tiktok_semana.json")
 PISO = int(os.environ.get("TT_PISO", "2000"))   # 05/10: 10 mil travava a fila; o Murilo pediu cortar só os fracassos ridículos
 MATURA = int(os.environ.get("TT_MATURA", "7"))
-POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "4"))
-TETO_MES = int(os.environ.get("TT_TETO_MES", "20"))
-DIAS = [1, 3, 5, 6]          # ter, qui, sáb, dom
+POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "7"))
+TETO_MES = int(os.environ.get("TT_TETO_MES", "31"))   # 05/11: 1 por dia; o teto de 20 do Metricool grátis deixou de valer aqui
+DIAS = [0, 1, 2, 3, 4, 5, 6]   # 05/11/2026 (Murilo): 1 TikTok por dia, todo dia, 18h
 HORA = 18
 FICHAS = os.path.expanduser("~/claude-projects/cerebro/projetos/canal-agente/producao/fichas-video")
 
@@ -173,8 +176,6 @@ def candidatos(led, ja):
             motivo = "não elegível"
         elif v["posted"]["tiktok"]["done"] or vid in ja:
             continue
-        elif v.get("views", 0) < PISO:
-            motivo = f"abaixo do piso ({v.get('views', 0):,} views)".replace(",", ".")
         elif idade + 7 < MATURA and not acerto_cedo(vid):   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
             motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
         elif cp.off_nicho(v["title"]):
@@ -184,17 +185,19 @@ def candidatos(led, ja):
         if motivo:
             fora.append((vid, v["title"], motivo))
         else:
-            out.append((cp.tema_score(v["title"]), v.get("views", 0), vid, v))
+            out.append((cp.tema_score(v["title"]), v.get("views", 0), vid, v))   # abaixo do piso entra no fim (05/11)
     # Views mandam (escala log: 10x mais views = +1 ponto) e o tema dá bônus de 0,25 por gatilho.
     # Antes era tema primeiro e um Short de 4,5 mil passava na frente de um de 542 mil (05/10).
     import math
     # 23/10: acerto cedo vai na frente
-    out.sort(key=lambda x: (bool(acerto_cedo(x[2])), math.log10(max(x[1], 1)) + 0.25 * x[0]), reverse=True)
+    # 05/11: o piso virou prioridade; abaixo dele, o tema manda e as views só desempatam
+    out.sort(key=lambda x: (bool(acerto_cedo(x[2])), x[1] >= PISO,
+                            math.log10(max(x[1], 1)) + 0.25 * x[0] if x[1] >= PISO else (x[0], x[1])), reverse=True)
     return out, fora
 
 
 def horarios(ag, n, hoje_tambem=False):
-    """Próximos slots livres (ter/qui/sáb/dom 18h) dos 7 dias a partir de amanhã, sem passar do teto do mês.
+    """Próximos slots livres (18h de cada dia em DIAS) dos 7 dias a partir de amanhã, sem passar do teto do mês.
     hoje_tambem: o das 18h de hoje também, se ainda for antes das 16h (acerto cedo)."""
     ocupados = {p["quando"][:16] for p in ag["posts"] if p.get("status") != "cancelado"}
     agora = dt.datetime.now(BRT)
@@ -255,7 +258,8 @@ def main(hospedar, so_acertos=False):
     print(f"TikTok da semana · piso {PISO:,} views".replace(",", ".") + f" · {len(cand)} aptos · {len(plano)} no plano")
     for p in plano:
         ac = acerto_cedo(p["video_id"])
-        print(f"  ✔ {p['quando'][:16]} · {p['views_youtube']:>7,} · {p['titulo'][:60]} {'' if p['video_url'] else '(SEM HOSPEDAGEM)'}".replace(",", ".")
+        print(f"  ✔ {p['quando'][:16]} · {p['views_youtube']:>7,} · tema {p['tema_score']} · {p['titulo'][:60]} {'' if p['video_url'] else '(SEM HOSPEDAGEM)'}".replace(",", ".")
+              + (" · abaixo do piso" if p["views_youtube"] < PISO else "")
               + (f" · acerto cedo: {ac['vezes']}x a régua com {ac['marco_nome']}".replace(".", ",") if ac else ""))
     for s in sobra:
         print(f"  … fica pra próxima: {s[3]['title'][:60]}")

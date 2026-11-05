@@ -202,6 +202,51 @@
    "metricool_id": 416460397,
    "status": "agendado",
    "nota": "Short do MP2 (regra nova de 04/11: canal 2 vai pro TikTok); 5,7 mil views, 7 dias em 07/11; voz real, sem selo de IA; agendado pelo Leme em 04/11"
+  },
+  {
+   "video_id": "nlNDHXyED70",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
+   "metricool_id": 418227764,
+   "status": "agendado",
+   "isAigc": false,
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views"
+  },
+  {
+   "video_id": "1QprFcx4k8I",
+   "quando": "2026-11-09T18:00:00-03:00",
+   "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+   "metricool_id": 418227799,
+   "status": "agendado",
+   "isAigc": false,
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views"
+  },
+  {
+   "video_id": "09Iaww-aTvg",
+   "quando": "2026-11-11T18:00:00-03:00",
+   "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
+   "metricool_id": 418227835,
+   "status": "agendado",
+   "isAigc": false,
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views"
+  },
+  {
+   "video_id": "35MMvMmb38Y",
+   "quando": "2026-11-12T18:00:00-03:00",
+   "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
+   "metricool_id": 418227852,
+   "status": "agendado",
+   "isAigc": false,
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views"
+  },
+  {
+   "video_id": "ECIQgi3sFVY",
+   "quando": "2026-11-18T18:00:00-03:00",
+   "titulo": "GTA 6 sai dia 19, eu voltando do trampo às 17:99",
+   "metricool_id": 418227870,
+   "status": "agendado",
+   "isAigc": false,
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views; GTA 6 fora do nicho, incluído a pedido (Maestro), na véspera do lançamento"
   }
  ]
 }
