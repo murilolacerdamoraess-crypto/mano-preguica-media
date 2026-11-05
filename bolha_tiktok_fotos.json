@@ -747,7 +747,7 @@
 "v": 431
 }
 ],
-"views": 536
+"views": 537
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -3161,9 +3161,24 @@
 {
 "t": 1793904763,
 "v": 252
+},
+{
+"t": 1793912941,
+"v": 253
 }
 ],
-"views": 252
+"views": 253
+},
+"7704795703553445140": {
+"titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido...",
+"ts": 1793912537,
+"fotos": [
+{
+"t": 1793912941,
+"v": 33
+}
+],
+"views": 33
 }
 }
 }
