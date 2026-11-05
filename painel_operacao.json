@@ -3140,16 +3140,6 @@
    "status": "aberta"
   },
   {
-   "id": "p63",
-   "aberta_em": "2026-10-30T01:42-03:00",
-   "agente": "Tesoura",
-   "video": "Como o Reaper caça em 5 passos",
-   "o_que": "regravar só a frase do peixe (trecho p12, texto novo sem repetir peixe)",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-11-03T13:14-03:00"
-  },
-  {
    "id": "p64",
    "aberta_em": "2026-10-30T01:43-03:00",
    "agente": "Farol",
@@ -3527,5 +3517,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T12:29-03:00"
+ "gerado_em": "2026-11-05T13:44-03:00"
 }
