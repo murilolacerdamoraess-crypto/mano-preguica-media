@@ -2430,9 +2430,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; título e capa prontos, o primeiro quadro é a capa; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; a data fecha quando o longo for aprovado)",
+   "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; a data fecha quando o longo for aprovado)",
    "responsavel": "Periscópio",
-   "falta_murilo": "",
+   "falta_murilo": "classificar os anúncios do Short no Studio (Editar rascunho), quando puder",
    "prazo": ""
   },
   {
@@ -2559,7 +2559,7 @@
  "navegador": [
   {
    "tipo": "05/11",
-   "titulo": "**AVISO, AGUARDANDO CAPA E TÍTULO DO ANZOL: #37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal.** Aprovado pelo Murilo em 05/11. Saída: dom 08/11 18h. Quando o Anzol passar capa e título: preparar o Programar com vídeo relacionado diferente de Nenhum e \"conteúdo alterado\" = Não (voz real dele). Deixar pronto na tela de agendar; **o clique de agendar é do Murilo.**",
+   "titulo": "**#37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3442,5 +3442,5 @@
    "chave": "desafio:subnautica-10-mil-metros"
   }
  ],
- "gerado_em": "2026-11-05T08:47-03:00"
+ "gerado_em": "2026-11-05T08:51-03:00"
 }
