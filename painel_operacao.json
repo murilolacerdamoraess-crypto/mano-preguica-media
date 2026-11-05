@@ -606,7 +606,7 @@
    "titulo": "Cada trecho do Gravar se entende sozinho, como ele vê na tela: reprova o que começa com pronome, \"É um\", \"isso\" ou \"essa parte\" sem dizer de que coisa fala.",
    "onde": "`crivo/roteiro_frases.py` (ao lado da R30) e a leitura do conferente separado.",
    "confianca": "forte (C1 é FIRME; o caso mostra o mecanismo, o Gravar mostra um trecho por vez).",
-   "status": "aplicada 2026-11-05 pela R65 (reclamação que repete um critério vira checagem em código sem passar pelo Decidir); pedido ao Crivo no mesmo dia. Não vai pro Decidir.",
+   "status": "aplicada 2026-11-05 pela R65 (reclamação que repete um critério vira checagem em código sem passar pelo Decidir); pedido ao Crivo no mesmo dia. Não vai pro Decidir. **Virou código (Crivo, 05/11, commit 02854ee3, V45):** reprova \"É um/É uma/São uns\" seco no começo, \"essa parte\" sem do quê, \"ele/ela\" no começo sem o que retomar no trecho de antes, e medida sem unidade (\"os mesmos 25\", \"parou nos 18\"); \"isso\" no começo e \"é um\" depois de conectivo viram CONFERIR. Testado: o P112 v1 reprova 5; a fala gravada de 7 vídeos e 7 roteiros aprovados passam. Fora do alcance: o substantivo que some (\"construir uma.\").",
    "simples": "como o Gravar mostra uma frase por vez, cada frase precisa dizer de que coisa fala. \"É um tubo cheio de bateria\" vira \"A ferramenta que eles montaram é um tubo cheio de bateria\"."
   }
  ],
@@ -3480,5 +3480,5 @@
    "chave": "gravar:desafio-fim-do-void"
   }
  ],
- "gerado_em": "2026-11-05T09:44-03:00"
+ "gerado_em": "2026-11-05T09:50-03:00"
 }
