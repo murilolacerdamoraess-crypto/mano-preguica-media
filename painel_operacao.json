@@ -3465,7 +3465,34 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "gravar:desafio-fim-do-void"
+  },
+  {
+   "id": "p105",
+   "aberta_em": "2026-11-05T11:35-03:00",
+   "agente": "Arpão",
+   "video": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
+   "o_que": "jogar o mod Creature Outcrops e gravar um áudio contando como foi (o roteiro nasce do seu áudio)",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p106",
+   "aberta_em": "2026-11-05T11:35-03:00",
+   "agente": "Periscópio",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "classificar os anúncios do Short no Studio (Editar rascunho), quando puder",
+   "onde": "Outro",
+   "status": "aberta"
+  },
+  {
+   "id": "p107",
+   "aberta_em": "2026-11-05T11:35-03:00",
+   "agente": "Lente",
+   "video": "Afundei o Subnautica 10 mil metros",
+   "o_que": "no PC Windows, abrir o Claude e pedir 'o que tem na fila de produção' pra rodar o teste do mod dos 10 mil metros (uns 15 min; usa um save de teste, nunca o seu)",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T11:34-03:00"
+ "gerado_em": "2026-11-05T11:36-03:00"
 }
