@@ -598,8 +598,16 @@
    "titulo": "Checagem nova do Crivo só passa a reprovar depois de rodar sem erro em 2 vídeos que você já aprovou.",
    "onde": "role do Crivo e `conhecimentos/crivo-checklist.md`.",
    "confianca": "fraca (3 casos em 24 h, todos do mesmo par de vídeos).",
-   "status": "aguardando",
+   "status": "retirada 2026-11-05 pelo Sextante antes de o Murilo decidir. Já é regra aprovada: a R65 (03/11) manda testar toda checagem nova \"num vídeo antigo com o erro (tem que reprovar) e num aprovado (tem que passar)\". O que os 3 afrouxamentos mostram é que esse teste não está segurando, não que falte regra. Vai como cobrança ao Crivo na revisão de segunda (R65), não pro Decidir.",
    "simples": "antes de uma conferência automática nova começar a barrar vídeo, ela é testada em 2 vídeos que você já aprovou; se ela reclamar deles, está errada e é ajustada antes. No longo dos 34 leviatãs, a conferência de spoiler barrou trechos certos e precisou ser corrigida 2 vezes no meio da versão 4."
+  },
+  {
+   "id": "R76",
+   "titulo": "Cada trecho do Gravar se entende sozinho, como ele vê na tela: reprova o que começa com pronome, \"É um\", \"isso\" ou \"essa parte\" sem dizer de que coisa fala.",
+   "onde": "`crivo/roteiro_frases.py` (ao lado da R30) e a leitura do conferente separado.",
+   "confianca": "forte (C1 é FIRME; o caso mostra o mecanismo, o Gravar mostra um trecho por vez).",
+   "status": "aplicada 2026-11-05 pela R65 (reclamação que repete um critério vira checagem em código sem passar pelo Decidir); pedido ao Crivo no mesmo dia. Não vai pro Decidir.",
+   "simples": "como o Gravar mostra uma frase por vez, cada frase precisa dizer de que coisa fala. \"É um tubo cheio de bateria\" vira \"A ferramenta que eles montaram é um tubo cheio de bateria\"."
   }
  ],
  "equipe": [
@@ -3472,5 +3480,5 @@
    "chave": "gravar:desafio-fim-do-void"
   }
  ],
- "gerado_em": "2026-11-05T09:32-03:00"
+ "gerado_em": "2026-11-05T09:44-03:00"
 }
