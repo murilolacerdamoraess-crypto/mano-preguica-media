@@ -608,6 +608,46 @@
    "confianca": "forte (C1 é FIRME; o caso mostra o mecanismo, o Gravar mostra um trecho por vez).",
    "status": "aplicada 2026-11-05 pela R65 (reclamação que repete um critério vira checagem em código sem passar pelo Decidir); pedido ao Crivo no mesmo dia. Não vai pro Decidir. **Virou código (Crivo, 05/11, commit 02854ee3, V45):** reprova \"É um/É uma/São uns\" seco no começo, \"essa parte\" sem do quê, \"ele/ela\" no começo sem o que retomar no trecho de antes, e medida sem unidade (\"os mesmos 25\", \"parou nos 18\"); \"isso\" no começo e \"é um\" depois de conectivo viram CONFERIR. Testado: o P112 v1 reprova 5; a fala gravada de 7 vídeos e 7 roteiros aprovados passam. Fora do alcance: o substantivo que some (\"construir uma.\").",
    "simples": "como o Gravar mostra uma frase por vez, cada frase precisa dizer de que coisa fala. \"É um tubo cheio de bateria\" vira \"A ferramenta que eles montaram é um tubo cheio de bateria\"."
+  },
+  {
+   "id": "R77",
+   "titulo": "Meta: o canal principal publica 3 Shorts por semana e tem sempre 7 dias de Shorts agendados à frente.",
+   "onde": "`conhecimentos/plano-de-metas.md` (meta 2, seção completa como a meta 1).",
+   "confianca": "forte no número de hoje; o alvo é o degrau 1 que ele mesmo pediu (16/10: \"1 vídeo curto por dia\").",
+   "status": "aguardando",
+   "simples": "a meta é o canal principal ter 3 Shorts no ar toda semana e sempre uma semana inteira de Shorts já agendada. Hoje tem 1 agendado (o Reaper de sexta); o alvo é chegar lá na semana de 16/11 e ficar 2 semanas seguidas, aproveitando que até lá você grava só voz."
+  },
+  {
+   "id": "R78",
+   "titulo": "Meta: Short editado em até 4 horas e com no máximo 1 ajuste seu.",
+   "onde": "`conhecimentos/plano-de-metas.md` (meta 3); medida no relatório da edição de segunda (`dados/relatorio_edicao.py`).",
+   "confianca": "forte na linha de base (8 Shorts); horas só de 1 Short até agora.",
+   "status": "aguardando",
+   "simples": "cada Short sai da edição em até 4 horas de máquina e você pede no máximo 1 ajuste. Hoje o Short da arma nova levou 7 horas e você apontou 8 coisas; o alvo é 3 Shorts seguidos dentro disso até 30/11."
+  },
+  {
+   "id": "R79",
+   "titulo": "Meta: longo editado em até 2 dias e no máximo 2 rodadas suas.",
+   "onde": "`conhecimentos/plano-de-metas.md` (meta 4).",
+   "confianca": "fraca (2 longos de base).",
+   "status": "aguardando",
+   "simples": "um longo fica pronto em até 2 dias depois da primeira versão, com no máximo 2 rodadas de ajuste suas. O dos 34 leviatãs já está em 5 dias e 3 rodadas; o alvo vale a partir da Aurora, o próximo longo."
+  },
+  {
+   "id": "R80",
+   "titulo": "Meta: até 30 minutos do seu tempo por Short, somando gravar e revisar.",
+   "onde": "`conhecimentos/plano-de-metas.md` (meta 5); medida no número 4 dos quatro números de segunda.",
+   "confianca": "fraca (estimativa pelos horários de gravação e decisão, 1 semana).",
+   "status": "aguardando",
+   "simples": "cada Short custa no máximo meia hora sua, juntando a gravação e as revisões. Na semana de 26/10 foram uns 79 minutos por Short; o alvo é 30 até 30/11."
+  },
+  {
+   "id": "R81",
+   "titulo": "Meta: receita do mês acima do custo, com novembro em pelo menos US$ 300 e dezembro em pelo menos US$ 400.",
+   "onde": "`conhecimentos/plano-de-metas.md` (meta 6).",
+   "confianca": "forte no número; o começo de novembro está abaixo do ritmo de outubro (só 2 dias, sinal fraco).",
+   "status": "aguardando",
+   "simples": "o canal paga o próprio custo com folga: pelo menos 300 dólares em novembro e 400 em dezembro, o dobro do que a operação custa. Outubro deu uns 225 no YouTube mais o TikTok; os primeiros 2 dias de novembro vieram mais fracos que a média de outubro."
   }
  ],
  "equipe": [
@@ -3498,5 +3538,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T12:01-03:00"
+ "gerado_em": "2026-11-05T12:06-03:00"
 }
