@@ -2635,7 +2635,7 @@
   },
   {
    "tipo": "05/11",
-   "titulo": "**AGUARDANDO PACOTE: CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda).** Pedido da Maré. Uns 10 clipes 9:16 em 720p no Omni Flash, uns 120 créditos (orçamento do teste em `canal-ia-teste-30.md`). O Flow com créditos fica no perfil mano, que é só do Periscópio, então quem gera sou eu. Pedi à Maré, num pacote só: os prompts na ordem, a imagem do frame inicial de cada clipe image-first, a duração, a pasta de saída e o nome de cada arquivo. Antes de gerar, confiro no saldo se os créditos cabem. A Maré usa só a sessão canalia (perfil canal-ia) pra foto, banner e descrição do @obraabsurda e do @obra.absurda: não mexo nela.",
+   "titulo": "**CLIPES DO FLOW DO VÍDEO 1 DO CANAL IA (Obra Absurda): 3 DE 10 FEITOS, faltam 7 (c04 a c10).** Pedido da Maré, pacote em `producao/obra-absurda-v01-flow.md`. **Feito (Periscópio, 05/11 15h40 às 15h51):** frame do c01 no Nano Banana Pro (0 crédito), salvo em `frames/c01_frame.png` (mais `c01_frame_reserva.png`, a outra das 2). Clipes c01 (image-first), c02 e c03 no Omni 1.1 Flash, 720p, 10 s, 9:16, x1, a 15 créditos cada, baixados pelo menu \"Fazer o download > 720p Tamanho original\" (720x1280, 10 s, com áudio) e copiados pra `VIDEOS/6 - Edicao IA (bastidores)/obra-absurda (canal IA)/v01-muralha-arroz/clipes/`. Conferi por quadros: nenhum texto na tela, nenhum rosto derretido, nada moderno. Projeto do Flow \"nov. 05 - 15:40\". **Saldo:** a conta do Flow (murilo.lacerda.moraess) tinha só 50 créditos, que se renovam todo dia às 15h39; sobraram 5. **Próximo:** dia 06/11 depois das 15h39, c04, c05 e c06 (45 créditos); dia 07/11, c07 a c09; dia 08/11, o c10. Avisar a Maré a cada rodada. A Maré usa só a sessão canalia (perfil canal-ia): não mexo nela.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3505,5 +3505,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T15:44-03:00"
+ "gerado_em": "2026-11-05T15:52-03:00"
 }
