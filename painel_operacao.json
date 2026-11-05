@@ -3153,18 +3153,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p75",
-   "aberta_em": "2026-11-03T14:22-03:00",
-   "agente": "Sonar",
-   "video": "Teste T7: o jogo que esse cara tá fazendo (Deep, P100)",
-   "o_que": "mandar DM pro @midnightzone.studio pedindo o vídeo do Deep sem marca d'água, avisando que vai dar crédito; a montagem espera esse clipe",
-   "onde": "Outro",
-   "status": "cancelada",
-   "chave": "t7:dm-midnightzone",
-   "fechada_em": "2026-11-03T14:25-03:00",
-   "nota": "Murilo, 03/11: 'esquece não vou fazer isso' (não vai mandar DM pro dev)"
-  },
-  {
    "id": "p76",
    "aberta_em": "2026-11-03T14:22-03:00",
    "agente": "Lente",
@@ -3511,5 +3499,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T14:10-03:00"
+ "gerado_em": "2026-11-05T14:28-03:00"
 }
