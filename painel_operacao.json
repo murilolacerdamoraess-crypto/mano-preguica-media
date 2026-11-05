@@ -1948,6 +1948,22 @@
    "prazo": ""
   },
   {
+   "tipo": "Longo",
+   "titulo": "Tentei chegar no fim do mundo do Subnautica",
+   "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: sair da borda do mapa e chegar onde o Void acaba, a uns 4.000 m do centro, com os 3 Ghost Leviathans atrás, trocando de veículo a cada tentativa; sem mod, 1h a 1h30)",
+   "responsavel": "Farol",
+   "falta_murilo": "escolher se grava esse desafio",
+   "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "Uma vida só pra consertar a Aurora no Subnautica",
+   "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: no Hardcore, em que morrer apaga o save, entrar na Aurora e consertar a sala do motor passando pelos 9 Reapers; sem mod, 2 a 3 h; melhor gravar depois que o longo da Aurora sair em 16/11)",
+   "responsavel": "Farol",
+   "falta_murilo": "escolher se grava esse desafio",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
    "etapa": "agendado no canal 2 (qui 29/10 às 18h, você programou em 20/10 e a data foi conferida; studio.youtube.com/video/weC-ObCZ7Xw/edit; 5 produtos com a Pokébola do Gengar de R$ 14,99 em 1º, vídeo relacionado provisório no Homem-Aranha até o cartucho sair, jogo Pokémon Red & Blue, marcado como conteúdo alterado por causa da voz clonada; playlist Vídeos curtos)",
@@ -3334,6 +3350,26 @@
    "o_que": "assistir a versão 1 (a voz que você gravou hoje) e aprovar ou pedir ajuste",
    "onde": "Assistir",
    "status": "aberta"
+  },
+  {
+   "id": "p100",
+   "aberta_em": "2026-11-04T23:20-03:00",
+   "agente": "Farol",
+   "video": "Tentei chegar no fim do mundo do Subnautica",
+   "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, você sai da borda do mapa e tenta chegar onde o Void acaba (uns 4.000 m do centro), onde os 3 Ghost Leviathans desistem de te seguir. Cada tentativa num veículo (a nado, Seamoth, Cyclops, Prawn Suit). Sem mod, 1h a 1h30. O fim é você chegar lá ou o veículo que foi mais longe",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "desafio:void-fim-do-mundo"
+  },
+  {
+   "id": "p101",
+   "aberta_em": "2026-11-04T23:20-03:00",
+   "agente": "Farol",
+   "video": "Uma vida só pra consertar a Aurora no Subnautica",
+   "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, no Hardcore (morreu, o save apaga), você sai da cápsula, junta a roupa de radiação, a ferramenta de reparo e o cortador laser, passa pelos 9 Reapers e conserta a sala do motor da Aurora. Sem mod, 2 a 3 h. O fim é a Aurora consertada ou a morte. Melhor gravar depois que o longo da Aurora sair em 16/11",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "desafio:aurora-hardcore"
   }
  ],
  "gerado_em": "2026-11-04T23:20-03:00"
