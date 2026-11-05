@@ -2489,6 +2489,14 @@
   },
   {
    "tipo": "Tarefa",
+   "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
+   "etapa": "edição (5 vozes de IA grátis falando as mesmas 3 frases do Reaper, com nomes sorteados de A a E, e a sua voz de verdade no fim pra comparar; um vídeo só no Assistir e os áudios no Drive, em testes/vozes)",
+   "responsavel": "Lente",
+   "falta_murilo": "ouvir as vozes A a E e dar uma nota de 0 a 10 pra cada uma",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
    "titulo": "Ler qual das 3 capas do Rematch venceu o teste A/B e registrar no critério das capas (o vídeo já está no ar desde 11/10)",
    "etapa": "publicado",
    "responsavel": "Periscópio",
@@ -3505,5 +3513,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T16:00-03:00"
+ "gerado_em": "2026-11-05T16:13-03:00"
 }
