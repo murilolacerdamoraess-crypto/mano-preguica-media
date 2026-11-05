@@ -749,7 +749,7 @@
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
 "ts": 1791234123,
 "fotos": [],
-"views": 1993
+"views": 1994
 },
 "7692178686329490696": {
 "titulo": "esse monstro de subnautica 2 esconde os filhotes no meio de cópias fa...",
@@ -3141,9 +3141,13 @@
 {
 "t": 1793874526,
 "v": 250
+},
+{
+"t": 1793881999,
+"v": 251
 }
 ],
-"views": 250
+"views": 251
 }
 }
 }
