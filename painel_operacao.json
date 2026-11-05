@@ -658,6 +658,10 @@
   {
    "nome": "Crivo",
    "funcao": "Qualidade"
+  },
+  {
+   "nome": "Prumo",
+   "funcao": "Aprendizado dos ajustes"
   }
  ],
  "backlog": [
