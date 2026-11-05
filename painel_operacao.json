@@ -3041,17 +3041,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p71",
-   "aberta_em": "2026-11-02T22:52-03:00",
-   "agente": "Tesoura",
-   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "o_que": "Assistir a v7 e aprovar ou pedir ajuste (os 4 pontos de 31/10: tapete com a câmera indo pro botão sem tirar o zoom, a frente dela, o pé no botão de cada fala, sem a fogueira no nível 1)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1an4ThPmObcnrywPMWXd9AQs7QJ4WgTJ2",
-   "fechada_em": "2026-11-03T00:32-03:00"
-  },
-  {
    "id": "p72",
    "aberta_em": "2026-11-03T00:42-03:00",
    "agente": "Tesoura",
@@ -3372,5 +3361,5 @@
    "chave": "desafio:aurora-hardcore"
   }
  ],
- "gerado_em": "2026-11-04T23:22-03:00"
+ "gerado_em": "2026-11-05T00:35-03:00"
 }
