@@ -3169,18 +3169,6 @@
    "nota": "virou: a Lente faz a folha da preguiça agora e o Murilo vê a imagem (04/11)"
   },
   {
-   "id": "p77",
-   "aberta_em": "2026-11-03T14:55-03:00",
-   "agente": "Farol",
-   "video": "Longo: os melhores mods de Subnautica em 2026 e como instalar (R42)",
-   "o_que": "escolher a imagem do guia: gravar uma partida nova com os mods e a tela da instalação atual (o Farol recomenda pelo menos a instalação nova, a de 2025 pode estar velha) ou usar os trechos dos Shorts de mod já publicados",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "r42:escolha-gameplay",
-   "fechada_em": "2026-11-03T15:24-03:00",
-   "nota": "substituída pela p79, com o plano fechado do Farol"
-  },
-  {
    "id": "p78",
    "aberta_em": "2026-11-03T15:01-03:00",
    "agente": "Tesoura",
@@ -3512,5 +3500,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T14:57-03:00"
+ "gerado_em": "2026-11-05T15:25-03:00"
 }
