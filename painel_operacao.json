@@ -825,7 +825,7 @@
    "por_que_agora": "o Short dos 10 mil metros (a cápsula do tempo de outro jogador) é o maior do canal, com 998.201 views (16/10/2026, API em 05/11). O mod foi atualizado em 20/10/2026. Concorrência BR: a busca \"subnautica 10 mil metros\" dá The Last Bacon (667 mil) e, em português, 2 vídeos com 206 e 106 views.",
    "formato": "longo desafio, 15 a 20 min, principal",
    "concorrencia": "",
-   "status": "livre (pro Farol)",
+   "status": "pego por Farol (05/11: virou o D7 do caderno e subiu pro Decidir)",
    "frente": "",
    "pendente": ""
   },
@@ -837,7 +837,7 @@
    "por_que_agora": "não tem janela, é tema que não envelhece. Em inglês é o desafio de Subnautica com mais views que achei: Zera, 2,3 milhões; The Last Bacon, 1,97 milhão; Queue, 1,79 milhão; Mono Aurelio, 1,44 milhão; Viscerface, 663 mil. Em português, com \"deathrun\", não apareceu nenhum (busca de 05/11). O mais perto é o Boldt, \"Um Talassofóbico sobrevive ao PIOR mod do Subnautica?\" (916 mil); o Farol confere se o mod é o mesmo.",
    "formato": "longo desafio, 15 a 20 min, principal",
    "concorrencia": "",
-   "status": "livre (pro Farol)",
+   "status": "pego por Farol (05/11: virou o D8 do caderno, na reserva)",
    "frente": "",
    "pendente": ""
   },
@@ -849,7 +849,7 @@
    "por_que_agora": "não tem janela. O motivo é que o canal nunca fez um longo de Below Zero, e o mod que leva os bichos do Below Zero pro Subnautica 1 (Below Zero Creatures, Nexus 4343, atualizado em 01/11/2026) mostra que tem gente querendo esses bichos. É a pauta de menor certeza das 4.",
    "formato": "longo desafio, 12 a 18 min, principal",
    "concorrencia": "",
-   "status": "livre (pro Farol)",
+   "status": "pego por Farol (05/11: virou o D9 do caderno, na reserva)",
    "frente": "",
    "pendente": ""
   },
@@ -861,7 +861,7 @@
    "por_que_agora": "o Valheim 1.0 saiu em 09/09/2026, depois de 5 anos de acesso antecipado (Janelas pra jornadas), e hoje ainda está entre os mais jogados da Steam, com 68.630 jogadores no pico do dia (35º, API da Steam, 05/11/2026). Concorrência BR: em português só tem guia (Chumbinho Games, 6,6 mil); desafio de jangada não achei.",
    "formato": "longo desafio, 12 a 18 min, principal (teste fora do Subnautica)",
    "concorrencia": "",
-   "status": "livre (pro Farol; esperar o resultado da P112)",
+   "status": "pego por Farol (05/11: virou o D10 do caderno, na reserva até o resultado da P112)",
    "frente": "",
    "pendente": ""
   },
@@ -1999,6 +1999,14 @@
    "tipo": "Longo",
    "titulo": "Tentei chegar no fim do mundo do Subnautica",
    "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: sair da borda do mapa e chegar onde o Void acaba, a uns 4.000 m do centro, com os 3 Ghost Leviathans atrás, trocando de veículo a cada tentativa; sem mod, 1h a 1h30)",
+   "responsavel": "Farol",
+   "falta_murilo": "escolher se grava esse desafio",
+   "prazo": ""
+  },
+  {
+   "tipo": "Longo",
+   "titulo": "Afundei o Subnautica 10 mil metros",
+   "etapa": "pauta (desafio pra você gravar jogando e comentando ao vivo: com o mar 10 mil metros mais fundo, começar do zero lá embaixo e montar uma base que não alague; com 1 mod, 1h30 a 2h)",
    "responsavel": "Farol",
    "falta_murilo": "escolher se grava esse desafio",
    "prazo": ""
@@ -3422,7 +3430,17 @@
    "status": "feita",
    "fechada_em": "2026-11-05T08:28-03:00",
    "nota": "aprovou a v2 em 05/11 08:23"
+  },
+  {
+   "id": "p103",
+   "aberta_em": "2026-11-05T08:47-03:00",
+   "agente": "Farol",
+   "video": "Afundei o Subnautica 10 mil metros: dá pra viver lá embaixo?",
+   "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, com um mod que deixa o mar do Subnautica 10 mil metros mais fundo, você começa do zero lá embaixo e tenta montar uma base que não alague. O ar acaba mais rápido, não dá pra subir pra respirar, é tudo escuro e a base alaga fácil. É o tema do seu maior Short (998 mil), mas jogado por você. O fim é a base seca ou a morte sem ar. 1h30 a 2h, testando o mod antes",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "desafio:subnautica-10-mil-metros"
   }
  ],
- "gerado_em": "2026-11-05T08:45-03:00"
+ "gerado_em": "2026-11-05T08:47-03:00"
 }
