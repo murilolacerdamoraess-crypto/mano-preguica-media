@@ -2061,8 +2061,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
-   "etapa": "narração, texto no Gravar com 23 frases (versão 4, com o seu ângulo: a réplica igual ao jogo, as dificuldades e o fim \"agora só falta alguém fazer ela funcionar\"; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 40; saída a definir, depois do Reaper de LEGO)",
+   "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "etapa": "narração, texto no Gravar com 23 frases (título aprovado por você em 04/11; versão 4, com o seu ângulo: a réplica igual ao jogo, as dificuldades e o fim \"agora só falta alguém fazer ela funcionar\"; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 40; saída a definir, depois do Reaper de LEGO)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2073,14 +2073,6 @@
    "etapa": "pauta, esperando você jogar o Creature Outcrops e gravar o áudio contando como foi (o roteiro nasce do seu áudio; acima de 100 m só sai bicho manso, abaixo de 100 m pode sair qualquer criatura, então é chance, não toda vez)",
    "responsavel": "Arpão",
    "falta_murilo": "jogar o mod e gravar o áudio contando como foi",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do Short do Wakemaker: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "embalagem (é a sua linha; é verdade, porque é uma réplica de verdade e o vídeo avisa logo no começo que é só de exposição; outras opções: \"Esse cara decidiu construir o Wakemaker do Subnautica 2 de verdade\" e \"Esse cara construiu o Wakemaker do Subnautica 2, e o primeiro saiu errado\"; a capa mostra o propulsor do jogo em cima e a réplica embaixo)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -3295,8 +3287,9 @@
    "video": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
    "o_que": "aprovar o título do Short do Wakemaker",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-short-do-wakemaker-esse-cara-construiu-o-wakemaker-do-subnautica-2-de-:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-do-short-do-wakemaker-esse-cara-construiu-o-wakemaker-do-subnautica-2-de-:aprovar-este-titulo",
+   "fechada_em": "2026-11-04T22:01-03:00"
   },
   {
    "id": "p98",
@@ -3318,5 +3311,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T21:57-03:00"
+ "gerado_em": "2026-11-04T22:01-03:00"
 }
