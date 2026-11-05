@@ -3405,8 +3405,10 @@
    "video": "Tentei chegar no fim do mundo do Subnautica",
    "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, você sai da borda do mapa e tenta chegar onde o Void acaba (uns 4.000 m do centro), onde os 3 Ghost Leviathans desistem de te seguir. Cada tentativa num veículo (a nado, Seamoth, Cyclops, Prawn Suit). Sem mod, 1h a 1h30. O fim é você chegar lá ou o veículo que foi mais longe",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "desafio:void-fim-do-mundo"
+   "status": "feita",
+   "chave": "desafio:void-fim-do-mundo",
+   "fechada_em": "2026-11-05T09:10-03:00",
+   "nota": "aprovou gravar em 05/11 09:01"
   },
   {
    "id": "p101",
@@ -3438,9 +3440,11 @@
    "video": "Afundei o Subnautica 10 mil metros: dá pra viver lá embaixo?",
    "o_que": "escolher se grava esse desafio: jogando e comentando ao vivo, com um mod que deixa o mar do Subnautica 10 mil metros mais fundo, você começa do zero lá embaixo e tenta montar uma base que não alague. O ar acaba mais rápido, não dá pra subir pra respirar, é tudo escuro e a base alaga fácil. É o tema do seu maior Short (998 mil), mas jogado por você. O fim é a base seca ou a morte sem ar. 1h30 a 2h, testando o mod antes",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "desafio:subnautica-10-mil-metros"
+   "status": "feita",
+   "chave": "desafio:subnautica-10-mil-metros",
+   "fechada_em": "2026-11-05T09:10-03:00",
+   "nota": "aprovou gravar em 05/11 09:01"
   }
  ],
- "gerado_em": "2026-11-05T08:56-03:00"
+ "gerado_em": "2026-11-05T09:10-03:00"
 }
