@@ -3483,7 +3483,9 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "classificar os anúncios do Short no Studio (Editar rascunho), quando puder",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-05T17:44-03:00",
+   "nota": "ele classificou os anúncios no Studio em 05/11"
   },
   {
    "id": "p107",
@@ -3501,7 +3503,9 @@
    "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
    "o_que": "gravar só a frase final (uns 10 s): 'Mas o tubarão continua nos 25 km por hora, e eles mesmos decidiram parar nos 18. Então fugir de tubarão com ela, ainda não dá.'",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-05T17:44-03:00",
+   "nota": "regravou o fecho em 05/11 (18,9 s)"
   },
   {
    "id": "p109",
@@ -3513,5 +3517,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T16:13-03:00"
+ "gerado_em": "2026-11-05T17:44-03:00"
 }
