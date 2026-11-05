@@ -3121,16 +3121,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p73",
-   "aberta_em": "2026-11-03T00:43-03:00",
-   "agente": "Periscópio",
-   "video": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
-   "o_que": "No Studio, responder a Adequação para publicidade e apertar Programar (sugestão: terça 03/11 às 18h), ou me dar o OK pra eu deixar a guia parada no Programar",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-03T10:51-03:00"
-  },
-  {
    "id": "p74",
    "aberta_em": "2026-11-03T10:02-03:00",
    "agente": "Periscópio",
@@ -3469,5 +3459,5 @@
    "chave": "gravar:desafio-fim-do-void"
   }
  ],
- "gerado_em": "2026-11-05T10:36-03:00"
+ "gerado_em": "2026-11-05T10:54-03:00"
 }
