@@ -50,6 +50,10 @@ PISO = int(os.environ.get("TT_PISO", "2000"))   # 05/10: 10 mil travava a fila; 
 MATURA = int(os.environ.get("TT_MATURA", "7"))
 POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "7"))
 TETO_MES = int(os.environ.get("TT_TETO_MES", "31"))   # 05/11: 1 por dia; o teto de 20 do Metricool grátis deixou de valer aqui
+# 05/11 (Maestro): o Metricool grátis aceita 20 posts por mês. Com METRICOOL_LIMITE no mês, os próximos daquele mês vão pelo
+# agendamento do próprio TikTok na web (Periscópio, navegador) e entram no tiktok_agenda.json com agendado_por "tiktok-web".
+METRICOOL_TETO = 20
+METRICOOL_LIMITE = int(os.environ.get("TT_METRICOOL_LIMITE", "18"))   # 2 de folga
 DIAS = [0, 1, 2, 3, 4, 5, 6]   # 05/11/2026 (Murilo): 1 TikTok por dia, todo dia, 18h
 HORA = 18
 FICHAS = os.path.expanduser("~/claude-projects/cerebro/projetos/canal-agente/producao/fichas-video")
@@ -250,7 +254,11 @@ def main(hospedar, so_acertos=False):
             except Exception as e:
                 print(f"  ✗ não hospedou {vid}: {e}")
                 continue
+        mes = quando[:7]
+        no_metricool = sum(1 for p in ag["posts"] if p["quando"][:7] == mes and p.get("status") != "cancelado"
+                           and p.get("agendado_por", "metricool") == "metricool") + sum(1 for p in plano if p["quando"][:7] == mes and p["agendar_por"] == "metricool")
         plano.append({"video_id": vid, "titulo": v["title"], "views_youtube": views, "tema_score": score,
+                      "agendar_por": "metricool" if no_metricool < METRICOOL_LIMITE else "tiktok-web",
                       "quando": quando, "legenda": legenda(v), "video_url": url,
                       "privacidade": "PUBLIC_TO_EVERYONE", "canal": v.get("source", "mp"),
                       **({"conferir_voz": "voz clonada = isAigc true no Metricool"} if v.get("source") == "mp2" else {})})
@@ -259,7 +267,7 @@ def main(hospedar, so_acertos=False):
     for p in plano:
         ac = acerto_cedo(p["video_id"])
         print(f"  ✔ {p['quando'][:16]} · {p['views_youtube']:>7,} · tema {p['tema_score']} · {p['titulo'][:60]} {'' if p['video_url'] else '(SEM HOSPEDAGEM)'}".replace(",", ".")
-              + (" · abaixo do piso" if p["views_youtube"] < PISO else "")
+              + (" · abaixo do piso" if p["views_youtube"] < PISO else "") + (" · PELO TIKTOK WEB (Periscópio)" if p["agendar_por"] == "tiktok-web" else "")
               + (f" · acerto cedo: {ac['vezes']}x a régua com {ac['marco_nome']}".replace(".", ",") if ac else ""))
     for s in sobra:
         print(f"  … fica pra próxima: {s[3]['title'][:60]}")
@@ -268,7 +276,8 @@ def main(hospedar, so_acertos=False):
         print(f"  ✗ {t[:55]} · {m}")
     if hospedar:
         json.dump({"_leia": "Gerado por tiktok_semana.py. O Leme agenda estes no Metricool (MCP), sempre PUBLIC_TO_EVERYONE, "
-                            "e grava cada um em tiktok_agenda.json com o metricool_id.",
+                            "e grava cada um em tiktok_agenda.json com o metricool_id e agendado_por. Os de agendar_por tiktok-web "
+                            "(Metricool perto de 20 no mês) vão pro Periscópio agendar no TikTok web.",
                    "gerado_em": dt.datetime.now(BRT).isoformat(), "plano": plano},
                   open(SAIDA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"-> {SAIDA}")
