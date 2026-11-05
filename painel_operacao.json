@@ -2012,7 +2012,7 @@
    "titulo": "Esses mods do Subnautica dão ansiedade de verdade",
    "etapa": "pauta pronta (aprovada por você em 04/11; o plano da sessão tem a ordem dos 4 mods do medo que cresce, a água turva ligada o tempo todo, depois a pedra que solta bicho, o Starworm e o Voidmaw de 65 a 78 m, e o que gravar de cada um; 10 a 12 min no principal, e um Short por mod com o Arpão, o da pedra primeiro; 3 dos 4 marcados como feitos com IA no Nexus)",
    "responsavel": "Farol",
-   "falta_murilo": "instalar e testar os mods, gravar a sessão e depois um áudio contando como foi",
+   "falta_murilo": "instalar e testar os mods, gravar a sessão e depois um áudio contando como foi, a partir de 16/11, quando você volta",
    "prazo": "sem data até a sessão"
   },
   {
@@ -2020,21 +2020,21 @@
    "titulo": "Os melhores mods de Subnautica em 2026 e como instalar",
    "etapa": "pauta pronta (aprovada por você em 03/11 às 14:25; o Sonar levantou 12 mods com fonte e o jeito de instalar que vale desde que a Steam desligou as versões antigas em outubro de 2025; nenhum guia brasileiro foi feito depois disso; 12 a 14 min no canal principal: a instalação na versão atual e um bloco por mod, começando pelos que você já jogou: Gargantuan, Red Plague, Prototype, Echelon e os veículos gigantes)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar uma sessão de 1h30 na versão atual, seguindo a lista de 10 passos que já está pronta (a instalação do zero, 3 mods que você ainda não jogou, os dois submarinos gigantes, todos juntos num save e o multiplayer, que roda na versão atual)",
+   "falta_murilo": "gravar uma sessão de 1h30 na versão atual, seguindo a lista de 10 passos que já está pronta (a instalação do zero, 3 mods que você ainda não jogou, os dois submarinos gigantes, todos juntos num save e o multiplayer, que roda na versão atual), a partir de 16/11, quando você volta",
    "prazo": ""
   },
   {
    "tipo": "Longo",
    "titulo": "Tentei chegar no fim do mundo do Subnautica",
-   "etapa": "gravação (desafio aprovado por você em 05/11; sem mod, num save de Sobrevivência separado, com os veículos pelo console e a posição na tela pelo F1: sair reto pro leste e chegar aos 4.000 m, onde os Ghosts desistem, tentando a nado, de Seamoth, de Prawn Suit e de Cyclops; se passar, o bônus é o teleporte dos 8.192 m; sessão de 1h a 1h30, vídeo de 12 a 15 min editado pela sua gameplay e voz; sugestão: gravar até dom 08/11, saída seg 23/11 às 18h)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; sem mod, num save de Sobrevivência separado, com os veículos pelo console e a posição na tela pelo F1: sair reto pro leste e chegar aos 4.000 m, onde os Ghosts desistem, tentando a nado, de Seamoth, de Prawn Suit e de Cyclops; se passar, o bônus é o teleporte dos 8.192 m; sessão de 1h a 1h30, vídeo de 12 a 15 min editado pela sua gameplay e voz; você está fora de casa até 15 ou 16/11, então a sessão fica pra quando voltar: gravar de seg 16 a qua 18/11, saída seg 30/11 às 18h)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a sessão e o áudio contando como foi",
-   "prazo": ""
+   "falta_murilo": "gravar a sessão e o áudio contando como foi, quando voltar pra casa",
+   "prazo": "30/11"
   },
   {
    "tipo": "Longo",
    "titulo": "Afundei o Subnautica 10 mil metros",
-   "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min; o teste no PC e a sessão só a partir de 16/11, quando você volta, e a saída fica pra depois do Void, por volta de seg 07/12)",
    "responsavel": "Farol",
    "falta_murilo": "nada por enquanto (o pedido de gravar chega depois do teste)",
    "prazo": ""
@@ -3201,7 +3201,7 @@
    "aberta_em": "2026-11-03T15:28-03:00",
    "agente": "Farol",
    "video": "Longo: os melhores mods de Subnautica em 2026 e como instalar (R42)",
-   "o_que": "aprovar o plano e gravar a sessão de ~1h30 pelo roteiro de 10 passos (conhecimentos/longo-guia-mods-2026.md). O Farol sugere o multiplayer (Nitrox, roda na versão atual) no fim e tira o Socknautica (só roda na versão antiga). Confirmar também que o 'SEmarine' do Short é o Seal Submarine. Só quando você voltar pra casa, a partir de 16/11. Só quando você voltar pra casa, a partir de 16/11",
+   "o_que": "aprovar o plano e gravar a sessão de ~1h30 pelo roteiro de 10 passos (conhecimentos/longo-guia-mods-2026.md). O Farol sugere o multiplayer (Nitrox, roda na versão atual) no fim e tira o Socknautica (só roda na versão antiga). Confirmar também que o 'SEmarine' do Short é o Seal Submarine. Só quando você voltar pra casa, a partir de 16/11",
    "onde": "Gravar",
    "status": "aberta",
    "chave": "r42:sessao-gravacao"
@@ -3373,7 +3373,7 @@
    "aberta_em": "2026-11-04T13:36-03:00",
    "agente": "Farol",
    "video": "Esses mods do Subnautica dão ansiedade de verdade",
-   "o_que": "instalar e testar os 4 mods (lista do Sonar em conhecimentos/instalar-mods-ansiedade.md), gravar a sessão de 1h30 a 2h seguindo o plano (conhecimentos/longo-mods-ansiedade.md) e depois gravar um áudio de 5 a 15 min contando como foi. Só quando você voltar pra casa, a partir de 16/11, depois do Void. Só quando você voltar pra casa, a partir de 16/11, depois do Void",
+   "o_que": "instalar e testar os 4 mods (lista do Sonar em conhecimentos/instalar-mods-ansiedade.md), gravar a sessão de 1h30 a 2h seguindo o plano (conhecimentos/longo-mods-ansiedade.md) e depois gravar um áudio de 5 a 15 min contando como foi. Só quando você voltar pra casa, a partir de 16/11, depois do Void",
    "onde": "Outro",
    "status": "aberta"
   },
@@ -3494,5 +3494,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T11:42-03:00"
+ "gerado_em": "2026-11-05T11:43-03:00"
 }
