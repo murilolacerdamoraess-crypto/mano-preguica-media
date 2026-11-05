@@ -473,6 +473,8 @@ def escreve(caminho, dado, agora):
 # id de cada arquivo no atributo com.google.drivefs.item-id; com ele o painel toca o vídeo pelo
 # player do próprio Drive (drive.google.com/file/d/<id>/preview, ele está logado na conta).
 DRIVE = os.path.expanduser("~/Library/CloudStorage/GoogleDrive-manopreguicacontato@gmail.com/Meu Drive")
+# 04/11/2026, Murilo: "perco muita paciencia esperando o video carregar". Cópias leves só pra assistir no painel.
+LEVES = "VIDEOS/6 - Edicao IA (bastidores)/leves"
 PASTAS_VIDEO = [   # (pasta, canal, seção, quantos no máximo; 0 = todos)
     ("VIDEOS/00 - PRONTOS PRA PUBLICAR", "Canal principal", "pra-publicar", 0),
     ("Mano Preguica/MP2 - PRONTOS PRA SUBIR", "Mano Preguiça 2", "pra-publicar", 0),
@@ -572,10 +574,18 @@ def videos_prontos():
                 aviso = m.group(1).strip(); nome = nome.replace(m.group(0), "").strip()
             fmt = "Longo" if re.match(r"^LONGO\b", nome, re.I) else "Short"
             titulo = re.sub(r"^(SHORT|LONGO)\s*-\s*", "", nome, flags=re.I)
-            itens.append({"id": fid, "titulo": titulo, "formato": fmt, "canal": canal, "secao": secao,
-                          "aviso": aviso, "pasta": rel,
-                          "data": dt.datetime.fromtimestamp(os.path.getmtime(cam)).strftime("%Y-%m-%d %H:%M"),
-                          "mb": round(os.path.getsize(cam) / 1e6, 1)})
+            item = {"id": fid, "titulo": titulo, "formato": fmt, "canal": canal, "secao": secao,
+                    "aviso": aviso, "pasta": rel,
+                    "data": dt.datetime.fromtimestamp(os.path.getmtime(cam)).strftime("%Y-%m-%d %H:%M"),
+                    "mb": round(os.path.getsize(cam) / 1e6, 1)}
+            # 04/11: cópia leve (720p) que o entregar.py põe em LEVES com o mesmo nome; o painel toca ela. Só vale se
+            # for mais nova que o final, senão seria a versão anterior do vídeo.
+            leve = os.path.join(DRIVE, LEVES, os.path.basename(f))
+            if os.path.isfile(leve) and os.path.getmtime(leve) >= os.path.getmtime(cam):
+                lid = drive_id(leve)
+                if lid:
+                    item["leve"] = lid
+            itens.append(item)
     numerar_videos(itens)
     corpo_meta = {"itens": itens}
     h = hashlib.sha1(json.dumps(corpo_meta, sort_keys=True).encode()).hexdigest()
