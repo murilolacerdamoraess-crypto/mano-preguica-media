@@ -3235,7 +3235,8 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "assistir a versão 3 (os 6 pontos de ontem à noite no vídeo inteiro) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-04T23:01-03:00"
   },
   {
    "id": "p92",
@@ -3319,5 +3320,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-04T22:02-03:00"
+ "gerado_em": "2026-11-04T23:01-03:00"
 }
