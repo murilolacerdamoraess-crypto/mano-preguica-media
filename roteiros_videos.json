@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T17:09:42.014840Z",
+ "gerado_em": "2026-11-05T17:22:53.354664Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -441,7 +441,7 @@
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10). Desde 05/11 é a única peça dessa história (o longo da Aurora foi engavetado pelo Murilo). A Viscerface tinha mais ou menos uma hora pra zerar o S",
    "status": "roteiro (na fila do Arpão, o primeiro a entrar no Decidir quando abrir vaga no teto de 5, 05/11)",
-   "gate": "versão 5 (05/11, peça única depois do longo engavetado, método novo): portões e ensaio na seção de cada um; falta o OK do Murilo",
+   "gate": "versão 5 (05/11): conferir_fontes (36 confirmadas, 0 com problema, 0 contas. APROVADO), checar_fluidez, roteiro_frases (V50 2:39) e erros repetidos APROVADOS; ensaio do Murilo em 7 leituras, fica 1 parada (o tempo final, que a fonte não tem); título novo no portao_pauta APROVADO; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface), até 2:40 falados (regra de 05/11)",
