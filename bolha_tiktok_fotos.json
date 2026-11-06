@@ -613,7 +613,7 @@
 "v": 37800
 }
 ],
-"views": 44300
+"views": 44400
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -759,7 +759,7 @@
 "v": 431
 }
 ],
-"views": 539
+"views": 540
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -813,7 +813,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 95900
+"views": 96000
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -831,13 +831,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1501
+"views": 1505
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 9004
+"views": 9005
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -1342,7 +1342,7 @@
 "v": 2752
 }
 ],
-"views": 3496
+"views": 3497
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -3038,6 +3038,10 @@
 {
 "t": 1793950444,
 "v": 161
+},
+{
+"t": 1793972550,
+"v": 161
 }
 ],
 "views": 161
@@ -3236,9 +3240,13 @@
 {
 "t": 1793965302,
 "v": 1925
+},
+{
+"t": 1793972550,
+"v": 2007
 }
 ],
-"views": 1925
+"views": 2007
 }
 }
 }
