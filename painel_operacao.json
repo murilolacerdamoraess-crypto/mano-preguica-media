@@ -2034,9 +2034,17 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "embalagem (você aprovou em 05/11; a versão 5 com o Reaper de volta na abertura está na fila de publicar, nada mais mudou; sai seg 09/11)",
+   "etapa": "embalagem (você aprovou o vídeo em 05/11; descrição, capítulos, tags, cards e tela final prontos; o Periscópio sobe como rascunho e programa pra seg 09/11 12h depois que você escolher o título)",
    "responsavel": "Anzol",
-   "falta_murilo": "",
+   "falta_murilo": "aprovar o título (no Decidir)",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do longo dos 34 leviatãs: Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "etapa": "embalagem (era o título de trabalho desde 19/10 e nunca passou por você; o vídeo inteiro cumpre: ele vai atrás dos 34 sem veículo e um Sea Dragon foge pelo chão do mapa; não diz \"matou\", porque foram 33; outras opções: \"Ele tentou matar os 34 leviatãs do Subnautica sem nenhum veículo\" e \"Esse cara decidiu caçar todos os leviatãs do Subnautica sem nenhum veículo\"; a capa é a que você escolheu em 25/10, o Reaper de boca aberta e a faca quente)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -2522,7 +2530,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; a data fecha quando o longo for aprovado; anúncios já classificados por você em 05/11)",
+   "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; o longo foi aprovado em 05/11 e sai seg 09/11, então este sai ter 10/11 18h; anúncios já classificados por você em 05/11)",
    "responsavel": "Periscópio",
    "falta_murilo": "",
    "prazo": ""
@@ -2541,22 +2549,6 @@
    "etapa": "agendado no canal 2 (qua 28/10 às 18h, você programou em 28/10 e a data foi conferida no Studio; studio.youtube.com/video/WbRVuO0FjwI/edit): vídeo processado em HD, descrição com 16 capítulos, 12 tags, monetização ativa e verificação sem problemas, tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 1 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, boneco do Gengar, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk\") já no rascunho; capa escolhida (A, o Gengar gigante atrás de você, torcendo) já no rascunho; data: qua 28/10 às 18h (PokéBonk dia sim, dia não desde o 1: PB2 qua 28, PB3 sex 30, PB4 dom 1/11, PB5 ter 3/11, intercalando com o cartucho na ter 27 e a Pokédex na qui 29)",
    "responsavel": "Leme",
    "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 2 (opção 1): Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk",
-   "etapa": "embalagem (na sua linha de 26/10, o superlativo como opinião sua; a base: a vitória com 57,4 mil derrotados e recorde no mapa, e ele diz \"O Gengar é absurdo\" logo depois do Moltres, aos 60 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título ou o da opção 2",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do PokéBonk 2 (opção 2): Meu Gengar ficou mais forte do que eu imaginava contra o Moltres | PokéBonk",
-   "etapa": "embalagem (na sua linha de 26/10, a surpresa sua; a base: ele perde a primeira partida e, na segunda, diz \"Nossa, isso aqui é muito roubado\" aos 46 min; aprovar este escolhe este título, e o Leme troca no rascunho)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título ou o da opção 1",
    "prazo": ""
   },
   {
@@ -3542,7 +3534,17 @@
    "o_que": "assistir e aprovar ou pedir ajuste (sai sáb 07/11 18h se aprovado)",
    "onde": "Assistir",
    "status": "aberta"
+  },
+  {
+   "id": "p111",
+   "aberta_em": "2026-11-05T21:48-03:00",
+   "agente": "Anzol",
+   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
+   "o_que": "aprovar o título do longo dos 34 leviatãs (ou escolher uma das outras 2 opções); sai seg 09/11",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-05T21:38-03:00"
+ "gerado_em": "2026-11-05T21:48-03:00"
 }
