@@ -835,13 +835,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1515
+"views": 1518
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 9010
+"views": 9011
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -865,7 +865,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3395
+"views": 3397
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1346,7 +1346,7 @@
 "v": 2752
 }
 ],
-"views": 3506
+"views": 3510
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2889,7 +2889,7 @@
 "v": 10100
 }
 ],
-"views": 10300
+"views": 10400
 },
 "7702198101641104661": {
 "titulo": "Ela teve que construir a moto do Mario Kart World pra fantasia de Hal...",
@@ -3049,6 +3049,10 @@
 },
 {
 "t": 1793980097,
+"v": 162
+},
+{
+"t": 1794002646,
 "v": 162
 }
 ],
@@ -3268,9 +3272,24 @@
 {
 "t": 1793995163,
 "v": 4092
+},
+{
+"t": 1794002646,
+"v": 4189
 }
 ],
-"views": 4092
+"views": 4189
+},
+"7705167284339264786": {
+"titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
+"ts": 1793999064,
+"fotos": [
+{
+"t": 1794002646,
+"v": 358
+}
+],
+"views": 358
 }
 }
 }
