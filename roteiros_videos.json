@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:57:57.196607Z",
+ "gerado_em": "2026-11-06T14:14:08.959203Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -202,13 +202,13 @@
    "name": "SHORT MP2 - Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia",
    "titulo_roteiro": "SHORT MP2: o sabre de luz de verdade",
    "description": "Short de uns 3 minutos pro MP2 (pauta P46 do Sonar, família \"impossível com as próprias mãos\", tom \"olha que legal que estão fazendo\"). Versão 2 (19/10), refeita pela história guiada. O HeroTech tinha um sabre que sai do",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 5) desde 06/11; APROVADO PELO CRIVO em 05/11 (34f5837c e f6df95ff), mais as trocas do ensaio de 2 leituras",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 6) desde 06/11; APROVADO PELO CRIVO em 05/11 (34f5837c e f6df95ff), mais as trocas do ensaio de 2 leituras",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "qOAenK39gfs"
   },
   {
@@ -1196,13 +1196,13 @@
    "name": "SHORT - Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
    "titulo_roteiro": "SHORT: o traje do Homem-Aranha com os braços do Doutor Octopus, de papelão",
    "description": "Short de jornada de uns 2 minutos e 55 pro canal 2 (pauta P99 do Sonar, aprovada pelo Murilo em 03/11). O Schizo, que já faz roupas do Homem-Aranha com lançador de teia de verdade, quis o traje do Homem-Aranha Superior, ",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 11) desde 06/11; aprovado pelo Murilo em 04/11 (versão 2), cortado pra 2:40 em 05/11 e republicado em 06/11 com 17 frases (projeto short_traje_octopus_papelao)",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 12) desde 06/11; aprovado pelo Murilo em 04/11 (versão 2), cortado pra 2:40 em 05/11 e republicado em 06/11 com 17 frases (projeto short_traje_octopus_papelao)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2 (canal 2), jornada de mais de 1 min (R38)",
    "motor": null,
-   "versao": "11",
+   "versao": "12",
    "fonte_yt": "WOoCYeHTB4k"
   },
   {
