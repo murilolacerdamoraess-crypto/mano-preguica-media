@@ -3540,7 +3540,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "obra-absurda-estilo-lowpoly"
+  },
+  {
+   "id": "p125",
+   "aberta_em": "2026-11-06T14:15-03:00",
+   "agente": "Lente",
+   "video": "Série Sobreviva em 4546B (teste de estilo)",
+   "o_que": "escolher a câmera da série: a preguiça, você em terceira pessoa ou a primeira pessoa",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1mc_0xWZBhswLtThLzEmDvehFLeQ8nvOj"
   }
  ],
- "gerado_em": "2026-11-06T14:08-03:00"
+ "gerado_em": "2026-11-06T14:17-03:00"
 }
