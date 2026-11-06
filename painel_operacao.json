@@ -3138,17 +3138,6 @@
    "nota": "gravado em 05/11"
   },
   {
-   "id": "p59",
-   "aberta_em": "2026-10-30T01:26-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "gravar a voz das 19 frases (sai antes do longo dos 34 leviatãs)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_gas_municao_reaper@v7",
-   "fechada_em": "2026-11-04T11:08-03:00"
-  },
-  {
    "id": "p60",
    "aberta_em": "2026-10-30T01:26-03:00",
    "agente": "Arpão",
@@ -3476,5 +3465,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T11:08-03:00"
+ "gerado_em": "2026-11-06T11:12-03:00"
 }
