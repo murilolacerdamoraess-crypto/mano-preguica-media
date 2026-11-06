@@ -3510,7 +3510,17 @@
    "o_que": "classificar os anúncios do #36 no Studio (o rascunho já subiu; sai seg 09/11 12h)",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p122",
+   "aberta_em": "2026-11-06T13:45-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
+   "o_que": "assistir a versão 3 nas duas trilhas (A: Legionnaire, de Scott Buckley, orquestra com crédito na descrição; B: gerada no Mac) e escolher A ou B",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "obra-absurda-v01-trilha"
   }
  ],
- "gerado_em": "2026-11-06T13:17-03:00"
+ "gerado_em": "2026-11-06T13:46-03:00"
 }
