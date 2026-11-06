@@ -3140,16 +3140,6 @@
  ],
  "pendencias": [
   {
-   "id": "p57",
-   "aberta_em": "2026-10-30T01:21-03:00",
-   "agente": "Farol",
-   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "o_que": "gravar a voz das 56 frases",
-   "onde": "Gravar",
-   "status": "feita",
-   "fechada_em": "2026-11-04T12:16-03:00"
-  },
-  {
    "id": "p58",
    "aberta_em": "2026-10-30T01:23-03:00",
    "agente": "Tarrafa",
@@ -3191,17 +3181,6 @@
    "chave": "r42:sessao-gravacao"
   },
   {
-   "id": "p85",
-   "aberta_em": "2026-11-04T09:52-03:00",
-   "agente": "Farol",
-   "video": "Ela zerou o Subnautica antes da Aurora explodir",
-   "o_que": "gravar a voz das 81 frases (saída proposta: seg 16/11 às 18h, depois do Megabonk)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "fechada_em": "2026-11-04T12:21-03:00",
-   "nota": "segurada em 04/11: o roteiro passa pela análise nova do PokéBonk antes de ir pra gravação"
-  },
-  {
    "id": "p87",
    "aberta_em": "2026-11-04T10:11-03:00",
    "agente": "Tarrafa",
@@ -3210,18 +3189,6 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_traje_octopus_papelao"
-  },
-  {
-   "id": "p89",
-   "aberta_em": "2026-11-04T11:45-03:00",
-   "agente": "Arpão",
-   "video": "Construíram de verdade o propulsor de braço do Subnautica 2",
-   "o_que": "gravar a voz da versão 2 (16 frases; gravar já aprova o roteiro)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:short_propulsor_braco",
-   "fechada_em": "2026-11-04T12:16-03:00",
-   "nota": "Wakemaker cancelado: a réplica não funciona (sem propulsão, nunca entra na água); o Murilo: o fã quer saber se dá pra nadar (04/11)"
   },
   {
    "id": "p90",
@@ -3557,5 +3524,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T11:45-03:00"
+ "gerado_em": "2026-11-06T12:23-03:00"
 }
