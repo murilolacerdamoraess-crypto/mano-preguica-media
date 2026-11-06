@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:50:18.215774Z",
+ "gerado_em": "2026-11-06T13:51:00.403392Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -664,7 +664,7 @@
    "name": "SHORT - O Gargantuan do Subnautica seria do tamanho de 36 baleias-azuis em fila",
    "titulo_roteiro": "SHORT: o Gargantuan vivo, em baleias-azuis",
    "description": "Short do canal principal (pauta P75, aprovada pelo Murilo em 25/10). O esqueleto do Gargantuan no jogo tem 402 metros e o Cyclops cabe na boca dele, mas o próprio jogo diz que é só o terço da frente; vivo, ele teria entr",
-   "status": "roteiro (versão 3 no molde de criatura, 06/11; vai pro Crivo e entra no Gravar quando a fila de prontos cair)",
+   "status": "roteiro aprovado pelo Crivo em 06/11 (3b92a46d); entra no Gravar quando a fila de prontos cair (R71: gravar = aprovar)",
    "gate": "versão 3 (06/11): conferir_fontes, checar_fluidez, roteiro_frases (V50 1:28, molde criatura) e erros repetidos APROVADOS; ensaio em 6 leituras, fica 1 parada (o porquê de não ser certeza)",
    "video_id": null,
    "publicado_em": null,
