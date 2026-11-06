@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-05T16:07:31.142355-03:00",
+ "gerado_em": "2026-11-05T21:22:33.268275-03:00",
  "mes": {
-  "postados": 3,
+  "postados": 4,
   "teto": 93,
-  "folga": 90
+  "folga": 89
  },
  "redes": {
   "tiktok": {
@@ -11,14 +11,14 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 16,
-   "ultimo_post": "2026-10-30",
-   "dias_parado": 6,
-   "parado": true,
+   "ultimo_post": "2026-11-05",
+   "dias_parado": 0,
+   "parado": false,
    "agendados": [
     {
-     "video_id": "C6wqfeLVQ1s",
-     "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido",
-     "quando": "2026-11-05T18:00:00-03:00",
+     "video_id": "nlNDHXyED70",
+     "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
+     "quando": "2026-11-06T18:00:00-03:00",
      "fonte": "metricool"
     },
     {
@@ -34,25 +34,47 @@
      "fonte": "metricool"
     },
     {
+     "video_id": "1QprFcx4k8I",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
+     "quando": "2026-11-09T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
      "quando": "2026-11-10T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "09Iaww-aTvg",
+     "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
+     "quando": "2026-11-11T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "35MMvMmb38Y",
+     "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
+     "quando": "2026-11-12T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "YAXA2f5lzMs",
+     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
+     "quando": "2026-11-13T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "ECIQgi3sFVY",
+     "titulo": "GTA 6 sai dia 19, eu voltando do trampo às 17:99",
+     "quando": "2026-11-18T18:00:00-03:00",
      "fonte": "metricool"
     }
    ],
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "1QprFcx4k8I",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
-    },
-    {
-     "video_id": "nlNDHXyED70",
-     "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026"
-    },
-    {
-     "video_id": "09Iaww-aTvg",
-     "titulo": "Qual simulador você acha que é o mais jogado da Steam?"
+     "video_id": "uC_EOBxYQ0I",
+     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
     }
    ]
   },
@@ -60,65 +82,65 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 21,
-   "ultimo_post": "2026-11-04",
-   "dias_parado": 1,
+   "na_fila": 20,
+   "ultimo_post": "2026-11-05",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "6Syk3Iw5E0U",
-     "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração",
-     "quando": "2026-11-05T21:30:00-03:00"
-    },
-    {
      "video_id": "HFp_Cl9DcwU",
      "titulo": "Qual jogo de sobrevivência você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-06T21:30:00-03:00"
+     "quando": "2026-11-05T21:30:00-03:00"
     },
     {
      "video_id": "GzZE02iibIA",
      "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-     "quando": "2026-11-07T21:30:00-03:00"
+     "quando": "2026-11-06T21:30:00-03:00"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-     "quando": "2026-11-08T21:30:00-03:00"
+     "quando": "2026-11-07T21:30:00-03:00"
     },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-     "quando": "2026-11-09T21:30:00-03:00"
+     "quando": "2026-11-08T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-10T21:30:00-03:00"
+     "quando": "2026-11-09T21:30:00-03:00"
     },
     {
      "video_id": "Stm2pYvz-yE",
      "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-11-11T21:30:00-03:00"
+     "quando": "2026-11-10T21:30:00-03:00"
     },
     {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-12T21:30:00-03:00"
+     "quando": "2026-11-11T21:30:00-03:00"
     },
     {
      "video_id": "iSzfJgFSODQ",
      "titulo": "O ranking dos consoles mais vendidos da história mudou em 2025",
-     "quando": "2026-11-13T21:30:00-03:00"
+     "quando": "2026-11-12T21:30:00-03:00"
     },
     {
      "video_id": "4B0YPRcXtjM",
      "titulo": "Qual jogo você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-14T21:30:00-03:00"
+     "quando": "2026-11-13T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
+     "quando": "2026-11-14T21:30:00-03:00"
+    },
+    {
+     "video_id": "YAXA2f5lzMs",
+     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
      "quando": "2026-11-15T21:30:00-03:00"
     },
     {
@@ -132,16 +154,12 @@
      "quando": "2026-11-17T21:30:00-03:00"
     },
     {
-     "video_id": "YAXA2f5lzMs",
-     "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
+     "video_id": "uC_EOBxYQ0I",
+     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026",
      "quando": "2026-11-18T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
-    {
-     "video_id": "6Syk3Iw5E0U",
-     "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração"
-    },
     {
      "video_id": "HFp_Cl9DcwU",
      "titulo": "Qual jogo de sobrevivência você acha que é o mais jogado da Steam?"
@@ -149,6 +167,10 @@
     {
      "video_id": "GzZE02iibIA",
      "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa"
+    },
+    {
+     "video_id": "lybLU6Q9xV8",
+     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares"
     }
    ]
   },
@@ -165,11 +187,6 @@
     {
      "video_id": "GzZE02iibIA",
      "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-     "quando": "2026-11-05T20:00:00-03:00"
-    },
-    {
-     "video_id": "lybLU6Q9xV8",
-     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
      "quando": "2026-11-12T20:00:00-03:00"
     }
    ],
