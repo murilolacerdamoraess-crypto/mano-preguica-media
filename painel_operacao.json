@@ -2034,9 +2034,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "edição, versão 4 na fila pra você assistir (os seus pontos de 04/11 à noite aplicados no vídeo inteiro: sem o selo da wiki e sem \"ilustração\" escrito; os combates em sequência e o contador subindo com o bicho morrendo na tela; o processo do Reaper passo a passo; sem spoiler do gás; inserções maiores e no centro; o 7:49 com o tiro de verdade; o recorte do oxigênio como na primeira versão). Em 6:42 o contador pula de 2 pra 16 porque o vídeo original não mostra essas mortes; as animações de like e hype mais caprichadas vêm num pacote separado",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar a versão 4",
+   "etapa": "embalagem (você aprovou em 05/11; a versão 5 com o Reaper de volta na abertura está na fila de publicar, nada mais mudou; sai seg 09/11)",
+   "responsavel": "Anzol",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2234,9 +2234,9 @@
   {
    "tipo": "Short",
    "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "etapa": "edição, montando a 1,15x com o fecho que você regravou (sem a frase das consequências permanentes, que não tem fonte; uns 2 min e 57; saída proposta: qui 12/11)",
+   "etapa": "edição, pronto pra você assistir (sua voz a 1,15x, com os cortes que você aprovou e o fecho que você regravou, sem a frase das consequências permanentes, que não tem fonte; 2 min e 55; sai sáb 07/11 18h se aprovado)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar",
    "prazo": ""
   },
   {
@@ -3520,8 +3520,8 @@
    "o_que": "gravar só a frase final (uns 10 s): 'Mas o tubarão continua nos 25 km por hora, e eles mesmos decidiram parar nos 18. Então fugir de tubarão com ela, ainda não dá.'",
    "onde": "Gravar",
    "status": "feita",
-   "fechada_em": "2026-11-05T17:44-03:00",
-   "nota": "regravou o fecho em 05/11 (18,9 s)"
+   "fechada_em": "2026-11-05T21:38-03:00",
+   "nota": "ele regravou o fecho (05/11 17h35); o Short foi entregue 05/11 21h40"
   },
   {
    "id": "p109",
@@ -3530,8 +3530,19 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "assistir a versão 4 e aprovar ou pedir ajuste (13 dos 14 pedidos feitos; as chamadas premium vêm no pacote à parte)",
    "onde": "Assistir",
+   "status": "feita",
+   "fechada_em": "2026-11-05T21:38-03:00",
+   "nota": "aprovou a v4 com um ajuste (o Reaper na abertura); v5 entregue 05/11 21h28 em 00 - PRONTOS, aprovada pelo Crivo"
+  },
+  {
+   "id": "p110",
+   "aberta_em": "2026-11-05T21:38-03:00",
+   "agente": "Tesoura",
+   "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "o_que": "assistir e aprovar ou pedir ajuste (sai sáb 07/11 18h se aprovado)",
+   "onde": "Assistir",
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T18:33-03:00"
+ "gerado_em": "2026-11-05T21:38-03:00"
 }
