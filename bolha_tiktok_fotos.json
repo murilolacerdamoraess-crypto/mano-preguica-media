@@ -809,7 +809,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 95800
+"views": 95900
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -833,7 +833,7 @@
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 9003
+"views": 9004
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -857,7 +857,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3389
+"views": 3391
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1338,7 +1338,7 @@
 "v": 2752
 }
 ],
-"views": 3475
+"views": 3487
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1597,7 +1597,7 @@
 "v": 44800
 }
 ],
-"views": 48700
+"views": 48800
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -3030,6 +3030,10 @@
 {
 "t": 1793928089,
 "v": 161
+},
+{
+"t": 1793950444,
+"v": 161
 }
 ],
 "views": 161
@@ -3212,9 +3216,13 @@
 {
 "t": 1793942913,
 "v": 1138
+},
+{
+"t": 1793950444,
+"v": 1157
 }
 ],
-"views": 1138
+"views": 1157
 }
 }
 }
