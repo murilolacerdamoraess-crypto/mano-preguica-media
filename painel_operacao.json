@@ -3530,7 +3530,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "t11-reel-teste-instagram"
+  },
+  {
+   "id": "p124",
+   "aberta_em": "2026-11-06T14:08-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 (Muralha da China)",
+   "o_que": "ver a grade low poly em código x Flow v3 e escolher o estilo: híbrido (código nas cenas de fato, Flow nas de gente), só low poly, ou só Flow",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "obra-absurda-estilo-lowpoly"
   }
  ],
- "gerado_em": "2026-11-06T14:07-03:00"
+ "gerado_em": "2026-11-06T14:08-03:00"
 }
