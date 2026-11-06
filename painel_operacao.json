@@ -3560,7 +3560,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "tesoura-permissao-montar-short"
+  },
+  {
+   "id": "p128",
+   "aberta_em": "2026-11-06T17:10-03:00",
+   "agente": "Periscópio",
+   "video": "noiz (quests pagas)",
+   "o_que": "Entrar de novo no noiz (noiz.gg > Sign in, no Chrome do perfil geral) antes das 11h de sábado 07/11: o login dura 24 h e caiu às 17h07 de hoje; a senha é você que digita",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "noiz-login-0711"
   }
  ],
- "gerado_em": "2026-11-06T15:45-03:00"
+ "gerado_em": "2026-11-06T17:10-03:00"
 }
