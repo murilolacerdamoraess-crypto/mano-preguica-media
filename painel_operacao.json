@@ -3520,7 +3520,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "obra-absurda-v01-trilha"
+  },
+  {
+   "id": "p123",
+   "aberta_em": "2026-11-06T14:07-03:00",
+   "agente": "Periscópio",
+   "video": "Série 'você decide' de Subnautica (teste T11 dos 3 visuais)",
+   "o_que": "no app do Instagram do @manopreguica: + > Reel > escolher qualquer vídeo > tela final, ver se aparece a chave 'Reel de teste' e sair sem compartilhar; me dizer sim ou não",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "t11-reel-teste-instagram"
   }
  ],
- "gerado_em": "2026-11-06T13:46-03:00"
+ "gerado_em": "2026-11-06T14:07-03:00"
 }
