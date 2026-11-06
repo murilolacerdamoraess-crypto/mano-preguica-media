@@ -763,7 +763,7 @@
 "v": 431
 }
 ],
-"views": 545
+"views": 549
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -817,7 +817,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 96000
+"views": 96100
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -829,19 +829,19 @@
 "titulo": "sobrevivi 24h no Subnautica com monstros aleatórios pelo mapa 😰 #subn...",
 "ts": 1788382895,
 "fotos": [],
-"views": 629
+"views": 630
 },
 "7680304123048168712": {
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1511
+"views": 1515
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 9009
+"views": 9010
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -1346,7 +1346,7 @@
 "v": 2752
 }
 ],
-"views": 3504
+"views": 3506
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1605,7 +1605,7 @@
 "v": 44800
 }
 ],
-"views": 48800
+"views": 48900
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -3264,9 +3264,13 @@
 {
 "t": 1793987600,
 "v": 3958
+},
+{
+"t": 1793995163,
+"v": 4092
 }
 ],
-"views": 3958
+"views": 4092
 }
 }
 }
