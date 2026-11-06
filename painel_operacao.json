@@ -664,6 +664,22 @@
    "confianca": "forte (regra escrita antes, 3 episódios, todos longe dos 1.709 que fariam a série seguir).",
    "status": "aguardando",
    "simples": "o PokéBonk de 1 hora não pegou no canal 2: os 3 últimos ficaram entre 107 e 323 views em 2 dias, e quem entra assiste uns 3 a 6% do vídeo. A proposta é parar com o de 1 hora e, quando você voltar a gravar, a edição cortar a run em 15 a 20 minutos (escolha do Pokémon, viradas e a luta com o lendário)."
+  },
+  {
+   "id": "R84",
+   "titulo": "A frase do roteiro não pode dizer mais do que a fonte diz: \"toda vez\", \"o único\", \"nunca\" e o que a pessoa sentiu só entram se a fonte disser.",
+   "onde": "`crivo/roteiro_frases.py` e a tabela de fontes da skill `shorts-roteirista`.",
+   "confianca": "forte no padrão (4 de 5 pontos em 24 h, 2 roteiristas diferentes); fraca no ganho, que se mede nas devoluções da próxima semana.",
+   "status": "aguardando",
+   "simples": "o roteiro passa a ser barrado quando aumenta o que o vídeo original disse, como transformar um caso em \"toda vez\" ou \"provavelmente a mais forte\" em \"a única\". Na Aurora e na mão do Hulk foram 4 frases assim num dia só, e quem pegou foi a revisão no olho, depois de o roteiro já estar pronto."
+  },
+  {
+   "id": "R85",
+   "titulo": "Na sua lista de pendências, o que precisa do PC fica separado até você voltar pra casa, e o que dá pra fazer só com a voz aparece primeiro.",
+   "onde": "`operacao-maestri/pendencia.py` e a tela de pendências do painel.",
+   "confianca": "forte no problema (5 de 13 hoje); fraca no ganho.",
+   "status": "aguardando",
+   "simples": "enquanto você estiver fora, a sua lista mostra em cima só o que dá pra fazer com a voz (gravar e assistir), e o que precisa do PC fica guardado num bloco \"quando você voltar\". Hoje são 13 pendências, e 5 delas você não consegue fazer antes de 16/11."
   }
  ],
  "equipe": [
@@ -3530,5 +3546,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T09:31-03:00"
+ "gerado_em": "2026-11-06T09:33-03:00"
 }
