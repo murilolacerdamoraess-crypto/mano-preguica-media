@@ -2224,6 +2224,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do Reaper de LEGO: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
+   "etapa": "embalagem (o de trabalho caiu no ensaio: ele ainda está montando e o problema é a estante, não \"lugar nenhum\"; este segue o gancho que você manteve e o fim honesto)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
    "etapa": "narração, texto no Gravar com 15 frases (versão 5 de 06/11, cortada pra uns 2:39; título aprovado por você em 04/11; versão 4, com o seu ângulo: a réplica igual ao jogo, as dificuldades e o fim \"agora só falta alguém fazer ela funcionar\"; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 40; saída a definir, depois do Reaper de LEGO)",
@@ -3463,7 +3471,17 @@
    "o_que": "Decidir se responde a proposta da KeysDrop (loja BR de keys Steam, aceita comissão, valor fixo ou produto); atenção: ela vende jogo 'pra jogar offline', que costuma ser conta Steam compartilhada, risco de imagem",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p114",
+   "aberta_em": "2026-11-06T11:16-03:00",
+   "agente": "Anzol",
+   "video": "Estão montando o Reaper do Subnautica em LEGO",
+   "o_que": "Aprovar o título do Short do Reaper de LEGO: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-short-do-reaper-de-lego-esse-cara-ta-montando-o-reaper-do-subnautica-e:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-06T11:12-03:00"
+ "gerado_em": "2026-11-06T11:16-03:00"
 }
