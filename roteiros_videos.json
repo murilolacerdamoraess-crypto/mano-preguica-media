@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T17:13:03.337754Z",
+ "gerado_em": "2026-11-06T17:17:17.633971Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -543,6 +543,20 @@
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo), série você decide",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": null
+  },
+  {
+   "arquivo": "serie-4546b-arco-1.md",
+   "name": "SÉRIE Sobreviva em 4546B · Arco 1 (o ovo do deserto), mapa completo pra o Murilo ler",
+   "titulo_roteiro": "Sobreviva em 4546B · Arco 1: o ovo do deserto",
+   "description": "Série \"você decide\" de Shorts do canal principal (pedido do Murilo em 06/11/2026, estudo global/estudos/2026-11-06-sobreviva-pokemon-serie-voce-decide.md). 10 situações de partida e o arco 1 inteiro (Dia 1 fixo, galhos d",
+   "status": "roteiro (arco 1 pra o Murilo ler; nada no Gravar)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "série de shorts MP1 (voz real do Murilo)",
    "motor": null,
    "versao": "1",
    "fonte_yt": null
