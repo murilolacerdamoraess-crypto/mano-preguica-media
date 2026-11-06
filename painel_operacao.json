@@ -3550,7 +3550,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1mc_0xWZBhswLtThLzEmDvehFLeQ8nvOj"
+  },
+  {
+   "id": "p126",
+   "aberta_em": "2026-11-06T14:58-03:00",
+   "agente": "Periscópio",
+   "video": "TikTok: 3 Rankings da Steam (estratégia, simulador, corrida)",
+   "o_que": "no Metricool, aceitar os termos novos e apagar os 3 rascunhos pela lixeira (já não publicam sozinhos)",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "metricool-apagar-rankings"
   }
  ],
- "gerado_em": "2026-11-06T14:17-03:00"
+ "gerado_em": "2026-11-06T14:58-03:00"
 }
