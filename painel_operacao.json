@@ -3222,17 +3222,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p83",
-   "aberta_em": "2026-11-03T22:16-03:00",
-   "agente": "Anzol",
-   "video": "Como o Reaper caça em 5 passos",
-   "o_que": "escolher o título do Short do Reaper caçando (v2, nas frases que ele mandou em 03/11)",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-novo-v2-do-short-do-reaper-cacando-como-o-reaper-leviata-caca-suas-presas:aprovar-este-titulo",
-   "fechada_em": "2026-11-04T09:27-03:00"
-  },
-  {
    "id": "p84",
    "aberta_em": "2026-11-03T22:27-03:00",
    "agente": "Periscópio",
@@ -3541,5 +3530,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T05:15-03:00"
+ "gerado_em": "2026-11-06T09:31-03:00"
 }
