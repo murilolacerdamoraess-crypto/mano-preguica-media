@@ -2034,9 +2034,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "embalagem (você aprovou o vídeo em 05/11; descrição, capítulos, tags, cards e tela final prontos; o Periscópio sobe como rascunho e programa pra seg 09/11 12h depois que você escolher o título)",
+   "etapa": "embalagem (você aprovou o vídeo em 05/11; já está no Studio como rascunho privado com título de trabalho, capa, descrição com capítulos, tags, legenda, 7 produtos, cards e tela final; sai seg 09/11 12h com acesso antecipado de membros, programado depois que você escolher o título)",
    "responsavel": "Anzol",
-   "falta_murilo": "aprovar o título (no Decidir)",
+   "falta_murilo": "escolher o título (no Decidir) e classificar os anúncios no Studio",
    "prazo": ""
   },
   {
@@ -2642,6 +2642,14 @@
  ],
  "navegador": [
   {
+   "tipo": "05/11 noite",
+   "titulo": "**#36 LONGO \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\", canal principal: RASCUNHO PRIVADO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 ~22h30).** `hQCvbXhPYFc` (studio.youtube.com/video/hQCvbXhPYFc/edit). Pacote do Anzol (roteiro-34-leviatas-sem-veiculo.md, Embalagem + Vitrine); vídeo v5 aprovado pelo Murilo 05/11 21:28.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "05/11",
    "titulo": "**#37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova. **Adequação feita pelo Murilo (05/11, Vigia fechou a p106); conferido no Studio às 17h57: no Editar rascunho, a etapa \"Adequação para publicidade\" está concluída.**",
    "etapa": "",
@@ -3193,17 +3201,6 @@
    "nota": "virou: a Lente faz a folha da preguiça agora e o Murilo vê a imagem (04/11)"
   },
   {
-   "id": "p78",
-   "aberta_em": "2026-11-03T15:01-03:00",
-   "agente": "Tesoura",
-   "video": "Short: como o Reaper caça (v10c)",
-   "o_que": "assistir e aprovar ou pedir ajuste: só o trecho do peixe foi refeito com o take de hoje, e agora o Reaper morde o peixe e sai nadando com ele; o resto é igual à v10",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "reaper-caca:v10c-assistir",
-   "fechada_em": "2026-11-03T22:11-03:00"
-  },
-  {
    "id": "p80",
    "aberta_em": "2026-11-03T15:28-03:00",
    "agente": "Farol",
@@ -3546,5 +3543,5 @@
    "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-05T21:48-03:00"
+ "gerado_em": "2026-11-05T22:19-03:00"
 }
