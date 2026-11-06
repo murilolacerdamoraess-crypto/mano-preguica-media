@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:33:47.231895Z",
+ "gerado_em": "2026-11-06T13:35:12.520589Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -663,14 +663,14 @@
    "arquivo": "short-gargantuan-36-baleias-azuis.md",
    "name": "SHORT - O Gargantuan do Subnautica seria do tamanho de 36 baleias-azuis em fila",
    "titulo_roteiro": "SHORT: o Gargantuan vivo, em baleias-azuis",
-   "description": "Short do canal principal (pauta P75, estudo de ângulo de 19/10, tipo \"e se\" de escala real; não sai na mesma semana da P63). No Subnautica você só acha o esqueleto do Gargantuan, um fóssil de uns 3 milhões de anos com o ",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
-   "gate": "versão 2: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
+   "description": "Short do canal principal (pauta P75, aprovada pelo Murilo em 25/10). O esqueleto do Gargantuan no jogo tem 402 metros e o Cyclops cabe na boca dele, mas o próprio jogo diz que é só o terço da frente; vivo, ele teria entr",
+   "status": "roteiro (versão 3 no molde de criatura, 06/11; vai pro Crivo e entra no Gravar quando a fila de prontos cair)",
+   "gate": "versão 3 (06/11): ver o fim do topo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": null
   },
   {
