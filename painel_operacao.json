@@ -3464,7 +3464,16 @@
    "o_que": "assistir e aprovar ou pedir ajuste (canal 2; sai qui 12/11 18h se aprovado)",
    "onde": "Assistir",
    "status": "aberta"
+  },
+  {
+   "id": "p113",
+   "aberta_em": "2026-11-06T11:07-03:00",
+   "agente": "Periscópio",
+   "video": "Parceria KeysDrop (e-mail 06/11)",
+   "o_que": "Decidir se responde a proposta da KeysDrop (loja BR de keys Steam, aceita comissão, valor fixo ou produto); atenção: ela vende jogo 'pra jogar offline', que costuma ser conta Steam compartilhada, risco de imagem",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T10:57-03:00"
+ "gerado_em": "2026-11-06T11:07-03:00"
 }
