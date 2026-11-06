@@ -234,11 +234,12 @@
    "video_id": "nlNDHXyED70",
    "quando": "2026-11-06T18:00:00-03:00",
    "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-   "metricool_id": 418227764,
-   "status": "agendado",
+   "metricool_id": 419225107,
+   "status": "rascunho",
    "isAigc": false,
-   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views",
-   "agendado_por": "metricool"
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views | 06/11: Murilo vendo o painel ('tem um vídeo de números no tiktok, não vamos postar isso né? foi um fracasso'); o Maestro passou pra RASCUNHO no Metricool (não apagou). Ranking da Steam fechou abaixo de 1x a régua no YouTube; o tiktok_semana.py não escolhe mais bar race.",
+   "agendado_por": "metricool",
+   "metricool_id_antigo": 418227764
   },
   {
    "video_id": "1QprFcx4k8I",
@@ -254,21 +255,23 @@
    "video_id": "09Iaww-aTvg",
    "quando": "2026-11-11T18:00:00-03:00",
    "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
-   "metricool_id": 418227835,
-   "status": "agendado",
+   "metricool_id": 419225118,
+   "status": "rascunho",
    "isAigc": false,
-   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views",
-   "agendado_por": "metricool"
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views | 06/11: Murilo vendo o painel ('tem um vídeo de números no tiktok, não vamos postar isso né? foi um fracasso'); o Maestro passou pra RASCUNHO no Metricool (não apagou). Ranking da Steam fechou abaixo de 1x a régua no YouTube; o tiktok_semana.py não escolhe mais bar race.",
+   "agendado_por": "metricool",
+   "metricool_id_antigo": 418227835
   },
   {
    "video_id": "35MMvMmb38Y",
    "quando": "2026-11-12T18:00:00-03:00",
    "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-   "metricool_id": 418227852,
-   "status": "agendado",
+   "metricool_id": 419225134,
+   "status": "rascunho",
    "isAigc": false,
-   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views",
-   "agendado_por": "metricool"
+   "nota": "05/11 regra nova: 1 por dia; abaixo do piso de 2 mil, escolhido por tema e views | 06/11: Murilo vendo o painel ('tem um vídeo de números no tiktok, não vamos postar isso né? foi um fracasso'); o Maestro passou pra RASCUNHO no Metricool (não apagou). Ranking da Steam fechou abaixo de 1x a régua no YouTube; o tiktok_semana.py não escolhe mais bar race.",
+   "agendado_por": "metricool",
+   "metricool_id_antigo": 418227852
   },
   {
    "video_id": "ECIQgi3sFVY",
@@ -289,6 +292,26 @@
    "isAigc": false,
    "agendado_por": "tiktok-web",
    "nota": "05/11: 1º item pelo TikTok web (Periscópio, perfil mano), conferido por ele na lista do TikTok Studio: 13/11 18:00 GMT-3, público, IA desligado. O calendário do web liberava até 30 dias à frente."
+  },
+  {
+   "video_id": "wcahyOJAlmU",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "titulo": "O REAPER SEMPRE TE OLHOU 😨",
+   "metricool_id": 419231137,
+   "status": "agendado",
+   "isAigc": false,
+   "agendado_por": "metricool",
+   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 8.236 views, 2,17x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil)."
+  },
+  {
+   "video_id": "3YLDRx25l0E",
+   "quando": "2026-11-11T18:00:00-03:00",
+   "titulo": "O MAIOR ERRO NO SUBNAUTICA HARDCORE 🪦",
+   "metricool_id": 419231185,
+   "status": "agendado",
+   "isAigc": false,
+   "agendado_por": "metricool",
+   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 3.907 views, 1,03x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil)."
   }
  ]
 }

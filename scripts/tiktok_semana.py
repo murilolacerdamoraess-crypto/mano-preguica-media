@@ -20,6 +20,10 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
   8. ordem: acerto cedo; depois os de 2 mil+ por views no YouTube (escala log) + bônus de tema; depois os de baixo do
      piso por tema e só então views
   9. sempre PUBLIC_TO_EVERYONE (o não público perde a monetização)
+ 10. nunca Ranking da Steam nem outro vídeo do formato bar race (corrida de dados) e nada abaixo de 1x a régua do canal
+     de origem (06/11/2026, Murilo vendo o painel: "tem um vídeo de números no tiktok, não vamos postar isso né? foi um
+     fracasso"; os rankings fecharam 0,58x e no máximo 0,5x a régua no YouTube). Régua: a da ficha do vídeo (Sextante,
+     mesma idade) quando tem; senão as views contra a mediana dos 10 verticais anteriores do mesmo canal
 
 Saída: tiktok_semana.json com os escolhidos, horário (desde 05/11/2026 TODO DIA às 18h BRT, os 7 dias a partir de
 amanhã, sem buraco; antes era ter/qui/sáb/dom e até 4 por semana), legenda e URL pública do vídeo (hospedado no release do GitHub pelo Mac,
@@ -35,7 +39,7 @@ Uso (no Mac):
   python3 scripts/tiktok_semana.py hospedar -> planeja, hospeda os escolhidos e grava o json
   python3 scripts/tiktok_semana.py hospedar acertos -> só os acertos cedo, no próximo horário livre
 """
-import os, sys, json, datetime as dt
+import os, re, sys, json, statistics, datetime as dt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -65,6 +69,30 @@ def acerto_cedo(vid):
         return json.load(open(os.path.join(FICHAS, f"{vid}.json"), encoding="utf-8")).get("acerto_cedo")
     except (OSError, ValueError):
         return None
+
+
+# 06/11/2026: os 13 Rankings da Steam (bar race) que saíram no canal 2 casam todos com isto, e nenhum outro vertical casa
+BAR_RACE = re.compile(r"mais jogad[oa]s? d[ae] steam|ranking d[oa]s?|mais vendid[oa]s? d[ae] hist|você acha que (é|vale|vendeu)|"
+                      r"mais valios[oa]s? d[oa]", re.I)
+# status que não ocupa horário nem aparece como agendado (06/11: o Maestro passou os 3 rankings pra rascunho no Metricool)
+FORA_DA_AGENDA = ("cancelado", "rascunho")
+
+
+def vezes_regua(vid, led):
+    """Quantas vezes a régua do canal de origem o vídeo fez (06/11). A ficha do Sextante compara na mesma idade; sem
+    ficha, views de agora contra a mediana dos 10 verticais anteriores do mesmo canal. None se não dá pra medir."""
+    try:
+        x = json.load(open(os.path.join(FICHAS, f"{vid}.json"), encoding="utf-8")).get("porque", {}).get("vezes")
+        if x is not None:
+            return x
+    except (OSError, ValueError):
+        pass
+    v = led["videos"][vid]
+    ant = sorted(((w.get("published", ""), w.get("views", 0)) for k, w in led["videos"].items()
+                  if k != vid and w.get("type") == "vertical" and w.get("source") == v.get("source")
+                  and w.get("published", "") < v.get("published", "")), reverse=True)[:10]
+    r = statistics.median([b for _, b in ant]) if ant else 0
+    return v.get("views", 0) / r if r else None
 
 
 def agenda():
@@ -182,10 +210,14 @@ def candidatos(led, ja):
             continue
         elif idade + 7 < MATURA and not acerto_cedo(vid):   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
             motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
+        elif BAR_RACE.search(v["title"]):
+            motivo = "Ranking da Steam / bar race (fracasso no YouTube, Murilo 06/11)"
         elif cp.off_nicho(v["title"]):
             motivo = "fora do nicho"
         elif cp.noticia_velha(v):
             motivo = "notícia velha"
+        elif not acerto_cedo(vid) and (vezes_regua(vid, led) or 0) < 1:
+            motivo = f"abaixo de 1x a régua do canal ({vezes_regua(vid, led) or 0:.2f}x)".replace(".", ",")
         if motivo:
             fora.append((vid, v["title"], motivo))
         else:
@@ -203,7 +235,7 @@ def candidatos(led, ja):
 def horarios(ag, n, hoje_tambem=False):
     """Próximos slots livres (18h de cada dia em DIAS) dos 7 dias a partir de amanhã, sem passar do teto do mês.
     hoje_tambem: o das 18h de hoje também, se ainda for antes das 16h (acerto cedo)."""
-    ocupados = {p["quando"][:16] for p in ag["posts"] if p.get("status") != "cancelado"}
+    ocupados = {p["quando"][:16] for p in ag["posts"] if p.get("status") not in FORA_DA_AGENDA}
     agora = dt.datetime.now(BRT)
     hoje = agora.date()
     slots = []
@@ -211,7 +243,7 @@ def horarios(ag, n, hoje_tambem=False):
         dia = hoje + dt.timedelta(days=d)
         if dia.weekday() not in DIAS:
             continue
-        no_mes = sum(1 for p in ag["posts"] if p["quando"][:7] == dia.strftime("%Y-%m") and p.get("status") != "cancelado")
+        no_mes = sum(1 for p in ag["posts"] if p["quando"][:7] == dia.strftime("%Y-%m") and p.get("status") not in FORA_DA_AGENDA)
         no_mes += sum(1 for s in slots if s[:7] == dia.strftime("%Y-%m"))
         if no_mes >= TETO_MES:
             continue
@@ -255,7 +287,7 @@ def main(hospedar, so_acertos=False):
                 print(f"  ✗ não hospedou {vid}: {e}")
                 continue
         mes = quando[:7]
-        no_metricool = sum(1 for p in ag["posts"] if p["quando"][:7] == mes and p.get("status") != "cancelado"
+        no_metricool = sum(1 for p in ag["posts"] if p["quando"][:7] == mes and p.get("status") not in FORA_DA_AGENDA
                            and p.get("agendado_por", "metricool") == "metricool") + sum(1 for p in plano if p["quando"][:7] == mes and p["agendar_por"] == "metricool")
         plano.append({"video_id": vid, "titulo": v["title"], "views_youtube": views, "tema_score": score,
                       "agendar_por": "metricool" if no_metricool < METRICOOL_LIMITE else "tiktok-web",

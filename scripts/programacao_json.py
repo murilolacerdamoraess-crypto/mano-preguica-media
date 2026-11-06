@@ -96,7 +96,7 @@ def main():
                 planejados.setdefault(n, []).append({"video_id": p.get("video_id"), "titulo": p.get("titulo") or vids.get(p.get("video_id"), {}).get("title", p.get("video_id")),
                                                      "quando": dt.isoformat(), "aprovado": True})
             continue
-        if p.get("status") == "cancelado":
+        if p.get("status") in ("cancelado", "rascunho"):   # 06/11: rascunho no Metricool não sai, não mostra no painel
             continue
         if dt < agora - datetime.timedelta(minutes=30):
             publicados_manual[n].append(dt.date().isoformat())
