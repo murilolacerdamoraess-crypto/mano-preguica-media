@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:12:19.663059Z",
+ "gerado_em": "2026-11-06T13:32:05.453497Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -580,8 +580,8 @@
    "name": "SHORT - Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
    "titulo_roteiro": "SHORT: o Deathrun zerado sem andar, com um extintor",
    "description": "Short do canal principal (pauta P55 do Sonar). O Queue zera o Deathrun, o mod mais difícil do Subnautica, sem apertar a tecla de andar, empurrado por um extintor de incêndio. Versão 5 no molde de jornada (06/11): o plano",
-   "status": "roteiro (versão 5 no molde de jornada, 06/11; passa pelo Crivo e entra no Gravar quando a fila de prontos cair)",
-   "gate": "versão 5 (06/11): ver as linhas de portão no fim do topo",
+   "status": "roteiro (versão 5 no molde de jornada, 06/11; vai pro Crivo e entra no Gravar quando a fila de prontos cair)",
+   "gate": "versão 5 (06/11): conferir_fontes, checar_fluidez, roteiro_frases (V50 2:39, molde jornada) e erros repetidos APROVADOS; ensaio em 8 leituras, fica 1 parada (a cadeira, não confirmada pelo conferente)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
