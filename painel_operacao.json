@@ -3238,16 +3238,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p84",
-   "aberta_em": "2026-11-03T22:27-03:00",
-   "agente": "Periscópio",
-   "video": "Como o Reaper caça em 5 passos",
-   "o_que": "No Studio, responder a Adequação para publicidade e apertar Programar (sugestão: sexta 06/11 às 18h). O título eu troco pelo que você escolher no Decidir, antes ou depois de programar.",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-04T09:36-03:00"
-  },
-  {
    "id": "p85",
    "aberta_em": "2026-11-04T09:52-03:00",
    "agente": "Farol",
@@ -3546,5 +3536,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T09:33-03:00"
+ "gerado_em": "2026-11-06T09:42-03:00"
 }
