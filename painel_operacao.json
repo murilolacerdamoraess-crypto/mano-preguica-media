@@ -3211,18 +3211,6 @@
    "fechada_em": "2026-11-04T23:01-03:00"
   },
   {
-   "id": "p92",
-   "aberta_em": "2026-11-04T12:56-03:00",
-   "agente": "Arpão",
-   "video": "Fizeram a réplica do propulsor de braço do Subnautica 2 sabendo que ela nunca ia funcionar",
-   "o_que": "gravar a voz da versão 3 (gravar já aprova o roteiro)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:short_propulsor_braco",
-   "fechada_em": "2026-11-04T13:13-03:00",
-   "nota": "Wakemaker v3: o Murilo achou 'nada de demais'; fica parado até ele assistir o vídeo e achar ângulo (04/11)"
-  },
-  {
    "id": "p93",
    "aberta_em": "2026-11-04T13:02-03:00",
    "agente": "Arpão",
@@ -3524,5 +3512,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T12:23-03:00"
+ "gerado_em": "2026-11-06T13:17-03:00"
 }
