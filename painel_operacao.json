@@ -3222,17 +3222,6 @@
    "fechada_em": "2026-11-04T09:50-03:00"
   },
   {
-   "id": "p82",
-   "aberta_em": "2026-11-03T15:56-03:00",
-   "agente": "Tesoura",
-   "video": "Longo #36: os 34 leviatãs sem veículo (v2)",
-   "o_que": "assistir e aprovar ou pedir ajuste: os seus 25 pontos e as 5 regras gerais aplicados no vídeo inteiro, cada um no segundo novo em qa/pedidos.txt; o contador sobe pra 29 no cartão do Ghost",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "longo-36:v2-assistir",
-   "fechada_em": "2026-11-03T22:21-03:00"
-  },
-  {
    "id": "p83",
    "aberta_em": "2026-11-03T22:16-03:00",
    "agente": "Anzol",
@@ -3543,5 +3532,5 @@
    "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-05T22:19-03:00"
+ "gerado_em": "2026-11-05T22:22-03:00"
 }
