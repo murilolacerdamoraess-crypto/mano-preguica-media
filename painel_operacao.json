@@ -3212,18 +3212,6 @@
    "chave": "narracao:short_traje_octopus_papelao"
   },
   {
-   "id": "p88",
-   "aberta_em": "2026-11-04T10:43-03:00",
-   "agente": "Arpão",
-   "video": "Construíram de verdade o propulsor de braço do Subnautica 2",
-   "o_que": "gravar a voz (17 frases; gravar já aprova o roteiro)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:short_propulsor_braco",
-   "fechada_em": "2026-11-04T11:34-03:00",
-   "nota": "v1 reprovada pelo Murilo no chat (04/11, 'odiei'); o Arpão abre a pendência da v2 quando republicar"
-  },
-  {
    "id": "p89",
    "aberta_em": "2026-11-04T11:45-03:00",
    "agente": "Arpão",
@@ -3531,5 +3519,5 @@
    "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-06T11:31-03:00"
+ "gerado_em": "2026-11-06T11:35-03:00"
 }
