@@ -412,6 +412,10 @@
 {
 "t": 1793920548,
 "v": 258
+},
+{
+"t": 1793942913,
+"v": 258
 }
 ],
 "views": 258
@@ -823,7 +827,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1496
+"views": 1498
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -853,7 +857,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3386
+"views": 3389
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1334,7 +1338,7 @@
 "v": 2752
 }
 ],
-"views": 3472
+"views": 3475
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -3177,9 +3181,13 @@
 {
 "t": 1793928089,
 "v": 255
+},
+{
+"t": 1793942913,
+"v": 256
 }
 ],
-"views": 255
+"views": 256
 },
 "7704795703553445140": {
 "titulo": "Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido...",
@@ -3200,9 +3208,13 @@
 {
 "t": 1793935359,
 "v": 1069
+},
+{
+"t": 1793942913,
+"v": 1138
 }
 ],
-"views": 1069
+"views": 1138
 }
 }
 }
