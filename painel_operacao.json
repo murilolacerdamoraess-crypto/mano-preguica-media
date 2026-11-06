@@ -3205,16 +3205,6 @@
    "nota": "segurada em 04/11: o roteiro passa pela análise nova do PokéBonk antes de ir pra gravação"
   },
   {
-   "id": "p86",
-   "aberta_em": "2026-11-04T10:06-03:00",
-   "agente": "Leme",
-   "video": "Pokémon x Marshmello no canal 2 (teste do Short repetido)",
-   "o_que": "apertar Programar na guia aberta (dom 08/11 às 18h)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-04T10:11-03:00"
-  },
-  {
    "id": "p87",
    "aberta_em": "2026-11-04T10:11-03:00",
    "agente": "Tarrafa",
@@ -3492,5 +3482,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T10:01-03:00"
+ "gerado_em": "2026-11-06T10:12-03:00"
 }
