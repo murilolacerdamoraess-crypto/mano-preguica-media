@@ -3517,7 +3517,45 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo"
+  },
+  {
+   "id": "p118",
+   "aberta_em": "2026-11-06T11:45-03:00",
+   "agente": "Tarrafa",
+   "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo",
+   "o_que": "gravar a voz da versão 6, com 14 frases (canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_sabre_de_luz_duelo"
+  },
+  {
+   "id": "p119",
+   "aberta_em": "2026-11-06T11:45-03:00",
+   "agente": "Tarrafa",
+   "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
+   "o_que": "gravar a voz da versão 7, com 12 frases (canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_mao_do_hulk"
+  },
+  {
+   "id": "p120",
+   "aberta_em": "2026-11-06T11:45-03:00",
+   "agente": "Lente",
+   "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
+   "o_que": "ouvir as vozes F a J da rodada 2 (vídeo no Assistir) e dar uma nota de 0 a 10 pra cada uma",
+   "onde": "Assistir",
+   "status": "aberta"
+  },
+  {
+   "id": "p121",
+   "aberta_em": "2026-11-06T11:45-03:00",
+   "agente": "Periscópio",
+   "video": "Longo dos 34 leviatãs (#36)",
+   "o_que": "classificar os anúncios do #36 no Studio (o rascunho já subiu; sai seg 09/11 12h)",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T11:35-03:00"
+ "gerado_em": "2026-11-06T11:45-03:00"
 }
