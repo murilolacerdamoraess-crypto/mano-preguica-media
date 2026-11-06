@@ -3558,8 +3558,9 @@
    "video": "Construíram uma ferramenta pra fugir de tubarão (v2, prazo sáb 07/11 18h)",
    "o_que": "no terminal da Tesoura no Maestri, apertar '1. Yes' na permissão pra editar o montar_short.py (ela está parada nisso desde a manhã)",
    "onde": "Outro",
-   "status": "aberta",
-   "chave": "tesoura-permissao-montar-short"
+   "status": "feita",
+   "chave": "tesoura-permissao-montar-short",
+   "fechada_em": "2026-11-06T20:29-03:00"
   },
   {
    "id": "p128",
@@ -3572,5 +3573,5 @@
    "chave": "noiz-login-0711"
   }
  ],
- "gerado_em": "2026-11-06T17:10-03:00"
+ "gerado_em": "2026-11-06T20:29-03:00"
 }
