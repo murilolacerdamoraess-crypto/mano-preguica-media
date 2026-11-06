@@ -2514,9 +2514,9 @@
   {
    "tipo": "Tarefa",
    "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
-   "etapa": "edição (rodada 1 avaliada: a letra A foi a melhor; a rodada 2, com as vozes do Google Gemini e a A de novo no meio, sai amanhã cedo, quando a cota grátis zerar)",
+   "etapa": "edição (rodada 2 no Assistir: 5 vozes com as mesmas 3 frases do Reaper, com letras sorteadas de F a J; 4 são do Google Gemini e uma é a sua favorita da rodada 1, misturada sem dizer qual; sua voz de verdade no fim pra comparar; áudios no Drive em testes/vozes/rodada 2)",
    "responsavel": "Lente",
-   "falta_murilo": "nada por enquanto (rodada 2 do Gemini amanhã cedo)",
+   "falta_murilo": "ouvir as vozes F a J e dar uma nota de 0 a 10 pra cada uma",
    "prazo": ""
   },
   {
@@ -3541,5 +3541,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T01:58-03:00"
+ "gerado_em": "2026-11-06T05:15-03:00"
 }
