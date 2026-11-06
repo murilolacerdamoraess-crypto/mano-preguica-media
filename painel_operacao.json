@@ -2242,7 +2242,7 @@
   {
    "tipo": "Short",
    "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "etapa": "edição, pronto pra você assistir (sua voz a 1,15x, com os cortes que você aprovou e o fecho que você regravou, sem a frase das consequências permanentes, que não tem fonte; 2 min e 55; sai sáb 07/11 18h se aprovado)",
+   "etapa": "edição, pronto pra você assistir (sua voz a 1,15x, com os cortes que você aprovou e o fecho que você regravou, sem a frase das consequências permanentes, que não tem fonte; 2 min e 55; os números da tela inteiros acima da legenda; sai sáb 07/11 18h se aprovado)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir e aprovar",
    "prazo": ""
@@ -2250,9 +2250,9 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "edição (sua voz a 1,15x sem cortar nenhuma frase, como você escolheu em 05/11; uns 2 min e 51; montando)",
+   "etapa": "edição, pronto pra você assistir (canal 2; sua voz a 1,15x sem cortar nenhuma frase; 2 min e 53; sangue verde falso no teste final; sai qui 12/11 18h se aprovado)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar",
    "prazo": ""
   },
   {
@@ -3530,7 +3530,16 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo"
+  },
+  {
+   "id": "p112",
+   "aberta_em": "2026-11-06T01:58-03:00",
+   "agente": "Tesoura",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "o_que": "assistir e aprovar ou pedir ajuste (canal 2; sai qui 12/11 18h se aprovado)",
+   "onde": "Assistir",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-05T22:22-03:00"
+ "gerado_em": "2026-11-06T01:58-03:00"
 }
