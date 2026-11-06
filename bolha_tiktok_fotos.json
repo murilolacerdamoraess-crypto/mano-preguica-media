@@ -605,7 +605,7 @@
 "v": 37800
 }
 ],
-"views": 44200
+"views": 44300
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -823,13 +823,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1494
+"views": 1496
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 9002
+"views": 9003
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -853,7 +853,7 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3382
+"views": 3386
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
@@ -1334,7 +1334,7 @@
 "v": 2752
 }
 ],
-"views": 3466
+"views": 3472
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -1593,7 +1593,7 @@
 "v": 44800
 }
 ],
-"views": 48600
+"views": 48700
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -3196,9 +3196,13 @@
 {
 "t": 1793928089,
 "v": 865
+},
+{
+"t": 1793935359,
+"v": 1069
 }
 ],
-"views": 865
+"views": 1069
 }
 }
 }
