@@ -3184,17 +3184,6 @@
    "status": "aberta"
   },
   {
-   "id": "p64",
-   "aberta_em": "2026-10-30T01:43-03:00",
-   "agente": "Farol",
-   "video": "Ela zerou o Subnautica antes da Aurora explodir",
-   "o_que": "gravar a voz das 81 frases (o vídeo é de 04/11)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "fechada_em": "2026-11-04T09:52-03:00",
-   "nota": "data de 04/11 venceu sem voz (R68); reaberta com a saída nova proposta"
-  },
-  {
    "id": "p80",
    "aberta_em": "2026-11-03T15:28-03:00",
    "agente": "Farol",
@@ -3503,5 +3492,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T09:52-03:00"
+ "gerado_em": "2026-11-06T10:01-03:00"
 }
