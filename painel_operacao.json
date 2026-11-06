@@ -2057,8 +2057,16 @@
   },
   {
    "tipo": "Tarefa",
-   "titulo": "Título do longo dos 34 leviatãs: Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "embalagem (era o título de trabalho desde 19/10 e nunca passou por você; o vídeo inteiro cumpre: ele vai atrás dos 34 sem veículo e um Sea Dragon foge pelo chão do mapa; não diz \"matou\", porque foram 33; outras opções: \"Ele tentou matar os 34 leviatãs do Subnautica sem nenhum veículo\" e \"Esse cara decidiu caçar todos os leviatãs do Subnautica sem nenhum veículo\"; a capa é a que você escolheu em 25/10, o Reaper de boca aberta e a faca quente)",
+   "titulo": "Título novo (v2) do longo dos 34 leviatãs, opção 1: Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo",
+   "etapa": "embalagem (refeito no seu ajuste de 06/11: a arma, todos os leviatãs e sem veículo; \"fez\" no lugar de \"inventou\" porque arremessar as bolsas com o canhão é coisa que o jogo já permite, e a ideia dele foi usar isso; recomendado, porque mantém o \"sem veículo\" que você escreveu)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título novo (v2) do longo dos 34 leviatãs, opção 2: Esse cara fez uma arma pra enfrentar todos os leviatãs do Subnautica a nado",
+   "etapa": "embalagem (a mesma ideia com o seu \"Esse cara\" e \"a nado\" no lugar de \"sem veículo\", pra caber em 75 letras)",
    "responsavel": "Anzol",
    "falta_murilo": "aprovar este título",
    "prazo": ""
@@ -2541,6 +2549,14 @@
    "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; o longo foi aprovado em 05/11 e sai seg 09/11, então este sai ter 10/11 18h; anúncios já classificados por você em 05/11)",
    "responsavel": "Periscópio",
    "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título novo (v4) do Short da arma nova pro Reaper: Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
+   "etapa": "embalagem (com o longo virando \"fez uma arma pra enfrentar todos os leviatãs\", o título que você aprovou pro Short ficava quase igual ao do longo, e o Short vai com o longo de vídeo relacionado; este conta só o pedaço do Short, as bolsas de gás contra o Reaper; a capa com SEM VEÍCULO fica igual; se você preferir manter o antigo, reprove este)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -3451,8 +3467,10 @@
    "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
    "o_que": "aprovar o título do longo dos 34 leviatãs (ou escolher uma das outras 2 opções); sai seg 09/11",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo"
+   "status": "cancelada",
+   "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo",
+   "fechada_em": "2026-11-06T11:30-03:00",
+   "nota": "ajuste do Murilo em 06/11 11:08; v2 com 2 opções no Decidir"
   },
   {
    "id": "p112",
@@ -3481,7 +3499,37 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-short-do-reaper-de-lego-esse-cara-ta-montando-o-reaper-do-subnautica-e:aprovar-este-titulo"
+  },
+  {
+   "id": "p115",
+   "aberta_em": "2026-11-06T11:30-03:00",
+   "agente": "Anzol",
+   "video": "Longo dos 34 leviatãs",
+   "o_que": "Aprovar o título novo do longo (opção 1, recomendada): Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo; sai seg 09/11 12h",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-novo-v2-do-longo-dos-34-leviatas-opcao-1-ele-fez-uma-arma-pra-enfrentar-t:aprovar-este-titulo"
+  },
+  {
+   "id": "p116",
+   "aberta_em": "2026-11-06T11:30-03:00",
+   "agente": "Anzol",
+   "video": "Longo dos 34 leviatãs",
+   "o_que": "Ou aprovar a opção 2 do título do longo: Esse cara fez uma arma pra enfrentar todos os leviatãs do Subnautica a nado",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-novo-v2-do-longo-dos-34-leviatas-opcao-2-esse-cara-fez-uma-arma-pra-enfre:aprovar-este-titulo"
+  },
+  {
+   "id": "p117",
+   "aberta_em": "2026-11-06T11:30-03:00",
+   "agente": "Anzol",
+   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "o_que": "Aprovar o título novo do Short da arma pro Reaper, pra não ficar igual ao do longo: Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica; sai ter 10/11 18h",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-06T11:17-03:00"
+ "gerado_em": "2026-11-06T11:31-03:00"
 }
