@@ -3444,7 +3444,8 @@
    "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
    "o_que": "assistir e aprovar ou pedir ajuste (sai sáb 07/11 18h se aprovado)",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-06T11:08-03:00"
   },
   {
    "id": "p111",
@@ -3475,5 +3476,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-06T11:07-03:00"
+ "gerado_em": "2026-11-06T11:08-03:00"
 }
