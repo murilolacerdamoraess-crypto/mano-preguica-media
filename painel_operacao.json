@@ -3922,7 +3922,21 @@
     "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
     "Esses caras tão tentando andar debaixo d'água mais rápido que um tubarão"
    ]
+  },
+  {
+   "id": "p161",
+   "aberta_em": "2026-11-07T14:40-03:00",
+   "agente": "Anzol",
+   "video": "Sobreviva em 4546B, Dia 1 (estreia qua 11/11 no mais cedo)",
+   "o_que": "Escolher o título do Dia 1 da série. A capa já sai com DIA 1 e SOBREVIVA em 3D na cena (a preguiça tonta na cápsula, com a nave pegando fogo atrás), e serve aos 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Você acordou no Subnautica e decide como pegar o ovo que o Reaper rodeia",
+    "Você decide se arrisca a vida pelo ovo que o Reaper rodeia no Subnautica",
+    "Esse ovo do Subnautica pode virar seu melhor amigo, e você decide se encara o Reaper por ele"
+   ]
   }
  ],
- "gerado_em": "2026-11-07T14:39-03:00"
+ "gerado_em": "2026-11-07T14:40-03:00"
 }
