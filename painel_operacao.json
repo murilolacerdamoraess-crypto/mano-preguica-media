@@ -3683,7 +3683,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:serie-4546b-arco-1.md@v2"
+  },
+  {
+   "id": "p137",
+   "aberta_em": "2026-11-07T01:23-03:00",
+   "agente": "Periscópio",
+   "video": "Longo dos 34 leviatãs (#36) e Short da arma pro Reaper (#37)",
+   "o_que": "Agendar no Studio: o #36 pra seg 09/11 12h e o #37 pra ter 10/11 18h (títulos novos e capas já estão lá; os dois estão privados sem data)",
+   "onde": "Studio",
+   "status": "aberta",
+   "chave": "studio-agendar-36-37"
   }
  ],
- "gerado_em": "2026-11-07T01:13-03:00"
+ "gerado_em": "2026-11-07T01:23-03:00"
 }
