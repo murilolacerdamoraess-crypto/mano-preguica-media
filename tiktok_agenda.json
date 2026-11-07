@@ -301,17 +301,18 @@
    "status": "agendado",
    "isAigc": false,
    "agendado_por": "metricool",
-   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 8.236 views, 2,17x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil)."
+   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 8.236 views, 2,17x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil). | 06/11 noite: também furava a regra de 18/08 (backlog); já tinha saído às 18h e o Murilo disse \"n precisa fazer nada com esse que ja ta postado\"."
   },
   {
    "video_id": "3YLDRx25l0E",
    "quando": "2026-11-11T18:00:00-03:00",
    "titulo": "O MAIOR ERRO NO SUBNAUTICA HARDCORE 🪦",
-   "metricool_id": 419231185,
-   "status": "agendado",
+   "metricool_id": 419598180,
+   "status": "rascunho",
    "isAigc": false,
    "agendado_por": "metricool",
-   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 3.907 views, 1,03x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil)."
+   "nota": "06/11: no lugar do Ranking da Steam (pedido do Maestro). Short do principal de fev/2026, voz real; 3.907 views, 1,03x a régua do canal. O estoque novo de 1 min+ acabou, então veio do backlog: criatura/medo e jornada, ainda não postado no TikTok (conferido no perfil). | 06/11 noite: furava a regra de 18/08 (sem repost de backlog). Murilo autorizou e o Maestro passou pra RASCUNHO no Metricool (id novo 419598180); não publica; o 11/11 fica vazio.",
+   "metricool_id_antigo": 419231185
   }
  ]
 }
