@@ -2650,6 +2650,14 @@
  ],
  "navegador": [
   {
+   "tipo": "07/11",
+   "titulo": "**APAGAR NO METRICOOL OS 3 RANKINGS DE TIKTOK (Murilo, 06 e 07/11: \"apaga esses vídeos, não quero mais\"). ESPERANDO O MURILO ACEITAR OS TERMOS NOVOS DO METRICOOL (p126).** São só estes 3, todos rascunho (draft true, não publicam sozinhos), conferidos pela API em 06/11 15h:",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "",
    "titulo": "~~[06/11 21h50] GERAR A CAPA do Short do traje de FNAF~~ **FEITO (Periscópio, 06/11 ~22h10), sem recusa:** `CAPA FNAF - GPT 1.png` (916x1717) e `GPT 2.png` (941x1672) na pasta de refs, sem tratar; também ficou `CAPA FNAF - estagio 1 (base limpa).png` (1672x941, sem as manchas verdes e os fios). ChatGPT perfil mano, chat novo em cada estágio e em cada versão, prompts literais. Conferido: VAI FECHAR certo nas duas, torso transparente com costelas, sem sangue. Pra conferir: nas duas o urso ganhou a cartola da REF 2 (no topo, encostando na borda); na 1 as lâminas quase não aparecem (só hastes e tela), na 2 as lâminas abertas aparecem como placas de metal em volta do torso; as letras ficam ao lado da cabeça, mas \"em pé no piso\" é discutível nas duas. Navegador fechado, pgrep 0.",
    "etapa": "",
@@ -3406,7 +3414,9 @@
    "video": "Parceria KeysDrop (e-mail 06/11)",
    "o_que": "Decidir se responde a proposta da KeysDrop (loja BR de keys Steam, aceita comissão, valor fixo ou produto); atenção: ela vende jogo 'pra jogar offline', que costuma ser conta Steam compartilhada, risco de imagem",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-07T00:03-03:00",
+   "nota": "Murilo: acho que não vou aceitar (KeysDrop)"
   },
   {
    "id": "p114",
@@ -3513,8 +3523,10 @@
    "video": "Série 'você decide' de Subnautica (teste T11 dos 3 visuais)",
    "o_que": "no app do Instagram do @manopreguica: + > Reel > escolher qualquer vídeo > tela final, ver se aparece a chave 'Reel de teste' e sair sem compartilhar; me dizer sim ou não",
    "onde": "Outro",
-   "status": "aberta",
-   "chave": "t11-reel-teste-instagram"
+   "status": "cancelada",
+   "chave": "t11-reel-teste-instagram",
+   "fechada_em": "2026-11-07T00:03-03:00",
+   "nota": "Murilo: não quer testar nada no Instagram"
   },
   {
    "id": "p124",
@@ -3659,5 +3671,5 @@
    "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m"
   }
  ],
- "gerado_em": "2026-11-06T23:34-03:00"
+ "gerado_em": "2026-11-07T00:04-03:00"
 }
