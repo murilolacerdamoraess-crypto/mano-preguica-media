@@ -1029,7 +1029,7 @@
    "por_que_agora": "o formato 2 precisa de 3 por semana; a comunidade está voltando ao Subnautica 1 durante o ramo experimental do 2 (r/Subnautica_2, \"First time playing SN1 after SN2 EA\").",
    "formato": "Short 60 a 100 s",
    "concorrencia": "RASO (nos Shorts mais vistos sobre o Crabsquid só tem som e animação; nenhum conta o pulso nem o estômago)",
-   "status": "livre",
+   "status": "arquivada (07/11/2026, pedido de ajuste do Murilo no painel: \"ja tinhamos falado que esses videos falando de criaturas do subnautica 1 obvias já n faz sentido o jogo tem mais de 10 anos\"; filtro SN1C, criatura conhecida do Subnautica 1)",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
@@ -1041,18 +1041,18 @@
    "por_que_agora": "o formato 2 precisa de 3 por semana; perigo concreto, sem recontar história.",
    "formato": "Short 60 a 100 s",
    "concorrencia": "RASO (os Shorts mais vistos com Warper são trailer e reação à mensagem de rádio; nenhum conta o teletransporte pra fora do veículo)",
-   "status": "livre",
+   "status": "arquivada (07/11/2026, pedido de ajuste do Murilo no painel: \"monstro que todo mundo já conhece, o mesmo motivo de eu ter rejeitado o anterior de crabsquid\"; filtro SN1C, criatura conhecida do Subnautica 1)",
    "frente": "1 (Subnautica)",
    "pendente": ""
   },
   {
    "id": "P109",
-   "titulo": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
+   "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava, e tem uma explicação biológica pra isso",
    "rodada": "Rotina de segunda, 02/11/2026 (Sonar): 5 pautas novas (P105 a P109; a P100 é a do teste do jogo que esse cara tá fazendo)",
-   "gancho": "Tem um bicho no fundo do Subnautica que gruda no seu submarino e come a bateria, e com 7 grudados você perde 1% por segundo",
-   "por_que_agora": "o formato 2 precisa de 3 por semana.",
+   "gancho": "Se você jogou Subnautica, a sua bateria sumia na zona de lava, e tem uma explicação biológica pra isso",
+   "por_que_agora": "o formato 2 ficou só com esta e a P80 depois do filtro de 07/11; é o molde novo que o Murilo pediu (situação primeiro, curiosidade do porquê depois).",
    "formato": "Short 60 a 100 s",
-   "concorrencia": "LIVRE (os Shorts com Lava Larva são guia de local de minério; o mais visto sobre a larva em si tem 2.709 views)",
+   "concorrencia": "LIVRE (busca no YouTube em 07/11 por \"subnautica bateria lava\", \"subnautica larva de lava\" e \"subnautica energia cyclops acabando\": em português só tem guia de como chegar na zona de lava e onde achar bateria; nenhum conta por que a energia some)",
    "status": "livre",
    "frente": "1 (Subnautica)",
    "pendente": ""
@@ -1161,7 +1161,7 @@
    "por_que_agora": "",
    "formato": "",
    "concorrencia": "",
-   "status": "livre",
+   "status": "arquivada (07/11/2026, filtro SN1C: criatura conhecida do Subnautica 1 como assunto, pela reprovação da P107 e da P108. Era pedido do Murilo de 22/10, \"a gente pode fazer isso para os outros monstros também\"; o critério de 07/11 é mais novo, e ele reabre se quiser)",
    "frente": "",
    "pendente": ""
   },
@@ -1173,7 +1173,7 @@
    "por_que_agora": "",
    "formato": "",
    "concorrencia": "",
-   "status": "livre",
+   "status": "arquivada (07/11/2026, filtro SN1C: criatura conhecida do Subnautica 1 como assunto, pela reprovação da P107 e da P108. Era pedido do Murilo de 22/10; o critério de 07/11 é mais novo, e ele reabre se quiser. O roteiro irmão do Gargantuan das 36 baleias, P75, está fora do backlog, no Gravar: o Maestro decide)",
    "frente": "",
    "pendente": ""
   },
@@ -3948,5 +3948,5 @@
    "chave": "studio:_aSy4jUW1ZY"
   }
  ],
- "gerado_em": "2026-11-07T14:49-03:00"
+ "gerado_em": "2026-11-07T14:52-03:00"
 }
