@@ -2210,7 +2210,7 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "etapa": "gravação, texto cortado no Gravar desde 06/11 (17 frases, uns 2 min e 39 falados, com o quadro do vídeo em cada frase; roteiro aprovado em 04/11; é o Homem-Aranha Superior dos quadrinhos, não o Aranha de Ferro do Tony Stark; canal 2; saída proposta: sáb 14/11 às 18h)",
+   "etapa": "gravação, texto cortado no Gravar desde 06/11 (17 frases, uns 2 min e 37 falados, com o quadro do vídeo em cada frase; roteiro aprovado em 04/11; é o Homem-Aranha Superior dos quadrinhos, não o Aranha de Ferro do Tony Stark; canal 2; saída proposta: sáb 14/11 às 18h)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2282,7 +2282,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
-   "etapa": "gravação, texto no Gravar desde 06/11 (14 frases, uns 2 min e 35 falados, com o quadro do vídeo em cada frase; o fim é o de verdade: a lâmina aguentou o duelo de teste, só dobrando um pouco nos golpes mais fortes)",
+   "etapa": "gravação, texto no Gravar desde 06/11 (14 frases, uns 2 min e 38 falados, com o quadro do vídeo em cada frase; o fim é o de verdade: a lâmina aguentou o duelo de teste, só dobrando um pouco nos golpes mais fortes; saída proposta: qua 11/11 às 18h se a voz sair até dom 08/11)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2290,7 +2290,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
-   "etapa": "gravação, texto no Gravar desde 06/11 (12 frases, uns 2 min e 25 falados, com o quadro do vídeo em cada frase; diz sem esconder que é a garra dos bombeiros comprada usada, que os fãs chamaram de clickbait)",
+   "etapa": "gravação, texto no Gravar desde 06/11 (12 frases, uns 2 min e 25 falados, com o quadro do vídeo em cada frase; diz sem esconder que é a garra dos bombeiros comprada usada, que os fãs chamaram de clickbait; saída proposta: sex 13/11 às 18h)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -3196,8 +3196,10 @@
    "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
    "o_que": "gravar a voz das 24 frases (saída proposta: sáb 14/11 às 18h, canal 2)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_traje_octopus_papelao"
+   "status": "cancelada",
+   "chave": "narracao:short_traje_octopus_papelao",
+   "fechada_em": "2026-11-07T01:24-03:00",
+   "nota": "texto velho: o Gravar tem 17 frases desde 06/11, não 24"
   },
   {
    "id": "p90",
@@ -3470,8 +3472,10 @@
    "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo",
    "o_que": "gravar a voz da versão 6, com 14 frases (canal 2)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_sabre_de_luz_duelo"
+   "status": "cancelada",
+   "chave": "narracao:short_sabre_de_luz_duelo",
+   "fechada_em": "2026-11-07T01:24-03:00",
+   "nota": "faltava a data de saída e o título inteiro"
   },
   {
    "id": "p119",
@@ -3480,8 +3484,10 @@
    "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
    "o_que": "gravar a voz da versão 7, com 12 frases (canal 2)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_mao_do_hulk"
+   "status": "cancelada",
+   "chave": "narracao:short_mao_do_hulk",
+   "fechada_em": "2026-11-07T01:24-03:00",
+   "nota": "faltava a data de saída"
   },
   {
    "id": "p120",
@@ -3693,7 +3699,37 @@
    "onde": "Studio",
    "status": "aberta",
    "chave": "studio-agendar-36-37"
+  },
+  {
+   "id": "p138",
+   "aberta_em": "2026-11-07T01:24-03:00",
+   "agente": "Tarrafa",
+   "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+   "o_que": "gravar a voz das 17 frases (texto cortado pra caber em 2:40; sai sáb 14/11 às 18h, canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_traje_octopus_papelao"
+  },
+  {
+   "id": "p139",
+   "aberta_em": "2026-11-07T01:24-03:00",
+   "agente": "Tarrafa",
+   "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes",
+   "o_que": "gravar a voz das 14 frases (sai qua 11/11 às 18h se gravar até dom 08/11, canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_sabre_de_luz_duelo"
+  },
+  {
+   "id": "p140",
+   "aberta_em": "2026-11-07T01:24-03:00",
+   "agente": "Tarrafa",
+   "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
+   "o_que": "gravar a voz das 12 frases (sai sex 13/11 às 18h, canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_mao_do_hulk"
   }
  ],
- "gerado_em": "2026-11-07T01:23-03:00"
+ "gerado_em": "2026-11-07T01:24-03:00"
 }
