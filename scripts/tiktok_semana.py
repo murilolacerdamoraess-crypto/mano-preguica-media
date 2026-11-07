@@ -11,7 +11,10 @@ Regras (do cérebro: crosspost-pipeline, padrao-desempenho-yt-tiktok, tiktok_pla
      os de 2 mil ou mais; quando acabarem, os de baixo do piso, na ordem do tema que funciona no TikTok (tema_score:
      criatura e medo primeiro, Reaper e Gargantuan na frente, regra de 04/10), não pelas views do YouTube
   3. maturado: 7+ dias no ar (o número do YouTube já diz alguma coisa)
-  4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo)
+  4. conteúdo novo (>= START_DATE; decisão de 24/08: sem ressuscitar backlog antigo) e, desde 06/11/2026, no máximo
+     MAX_IDADE (30) dias no YouTube no dia do post. Regra do Murilo de 18/08 (crosspost-pipeline, "SEM REPOSTS"): nada
+     de backlog em rede nenhuma; acabou o estoque novo, a esteira PARA e o dia fica vazio. Em 06/11 o Leme pôs à mão
+     dois Shorts de fevereiro (o Reaper e o Hardcore) e o Murilo cobrou: "já tinhamos combinado de não fazer isso"
   5. dentro do nicho (off_nicho) e sem notícia velha (moldura de "novo" em vídeo envelhecido)
   6. canal principal e canal 2 (MP2, só os verticais; desde 04/11/2026, Murilo: "os videos do canal secundario vão
      pro tiktok tmb"; antes era só a allowlist de faceless de IA). Narrado com voz clonada sai com o selo de IA
@@ -52,6 +55,7 @@ AGENDA = os.path.join(RAIZ, "tiktok_agenda.json")
 SAIDA = os.path.join(RAIZ, "tiktok_semana.json")
 PISO = int(os.environ.get("TT_PISO", "2000"))   # 05/10: 10 mil travava a fila; o Murilo pediu cortar só os fracassos ridículos
 MATURA = int(os.environ.get("TT_MATURA", "7"))
+MAX_IDADE = int(os.environ.get("TT_MAX_IDADE", "30"))   # 06/11/2026: backlog nunca (regra de 18/08)
 POR_SEMANA = int(os.environ.get("TT_POR_SEMANA", "7"))
 TETO_MES = int(os.environ.get("TT_TETO_MES", "31"))   # 05/11: 1 por dia; o teto de 20 do Metricool grátis deixou de valer aqui
 # 05/11 (Maestro): o Metricool grátis aceita 20 posts por mês. Com METRICOOL_LIMITE no mês, os próximos daquele mês vão pelo
@@ -76,6 +80,13 @@ BAR_RACE = re.compile(r"mais jogad[oa]s? d[ae] steam|ranking d[oa]s?|mais vendid
                       r"mais valios[oa]s? d[oa]", re.I)
 # status que não ocupa horário nem aparece como agendado (06/11: o Maestro passou os 3 rankings pra rascunho no Metricool)
 FORA_DA_AGENDA = ("cancelado", "rascunho")
+
+
+def backlog(v, dia=None):
+    """Passou de MAX_IDADE dias no YouTube no dia do post (hoje, se não vier o dia)? Vídeo sem data (ainda não saiu) não é."""
+    if not v.get("published"):
+        return False
+    return ((dia or dt.date.today()) - dt.date.fromisoformat(v["published"][:10])).days > MAX_IDADE
 
 
 def vezes_regua(vid, led):
@@ -210,6 +221,8 @@ def candidatos(led, ja):
             continue
         elif idade + 7 < MATURA and not acerto_cedo(vid):   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
             motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
+        elif backlog(v):
+            motivo = f"backlog ({idade} dias no YouTube, passa de {MAX_IDADE}; regra de 18/08: sem repost)"
         elif BAR_RACE.search(v["title"]):
             motivo = "Ranking da Steam / bar race (fracasso no YouTube, Murilo 06/11)"
         elif cp.off_nicho(v["title"]):
@@ -272,7 +285,7 @@ def main(hospedar, so_acertos=False):
     pares, livres = [], list(cand)
     for quando in slots:
         dia = dt.date.fromisoformat(quando[:10])
-        escolhido = next((c for c in livres if acerto_cedo(c[2]) or (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA), None)
+        escolhido = next((c for c in livres if not backlog(c[3], dia) and (acerto_cedo(c[2]) or (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA)), None)
         if escolhido:
             livres.remove(escolhido)
             pares.append((escolhido, quando))
