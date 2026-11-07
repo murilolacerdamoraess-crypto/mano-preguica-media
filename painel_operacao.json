@@ -3817,8 +3817,10 @@
    "video": "Em Subnautica, o seu medo decide o tamanho dos monstros (teste)",
    "o_que": "ler o roteiro do teste do medo e do tamanho dos monstros e aprovar ou pedir ajuste",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:avulso-subnautica-medo-tamanho-dos-monstros.md"
+   "status": "feita",
+   "chave": "roteiro:avulso-subnautica-medo-tamanho-dos-monstros.md",
+   "fechada_em": "2026-11-07T14:34-03:00",
+   "nota": "aprovado no painel 07/11 14:2x"
   },
   {
    "id": "p153",
@@ -3827,8 +3829,10 @@
    "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
    "o_que": "assistir a versão nova com os seus 5 pontos e aprovar (o filhote e o cara na água inteiros, as duas frases de volta com a sua voz gravada, sem regravar, o 's' de quilos inteiro e o fundo com moldura em todos os trechos que não enchem a tela; sai hoje, sáb 07/11, às 18h)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ"
+   "status": "feita",
+   "chave": "video:1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ",
+   "fechada_em": "2026-11-07T14:34-03:00",
+   "nota": "aprovado no painel 07/11 14:2x"
   },
   {
    "id": "p154",
@@ -3847,12 +3851,14 @@
    "video": "Sobreviva em 4546B (série)",
    "o_que": "escolher quem narra a série: a sua voz pelo Gravar ou a voz de IA (H, I ou J)",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Minha voz",
     "Voz de IA"
-   ]
+   ],
+   "fechada_em": "2026-11-07T14:34-03:00",
+   "nota": "aprovado no painel 07/11 14:2x"
   }
  ],
- "gerado_em": "2026-11-07T14:03-03:00"
+ "gerado_em": "2026-11-07T14:35-03:00"
 }
