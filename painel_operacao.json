@@ -3945,12 +3945,14 @@
    "video": "Sobreviva em 4546B, Dia 1 (estreia qua 11/11 no mais cedo)",
    "o_que": "Escolher o título do Dia 1 da série. A capa já sai com DIA 1 e SOBREVIVA em 3D na cena (a preguiça tonta na cápsula, com a nave pegando fogo atrás), e serve aos 3.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Você acordou no Subnautica e decide como pegar o ovo que o Reaper rodeia",
     "Você decide se arrisca a vida pelo ovo que o Reaper rodeia no Subnautica",
     "Esse ovo do Subnautica pode virar seu melhor amigo, e você decide se encara o Reaper por ele"
-   ]
+   ],
+   "fechada_em": "2026-11-07T19:16-03:00",
+   "nota": "nenhuma das 3; sugestão dele enviada ao Anzol (07/11 19:15)"
   },
   {
    "id": "p162",
@@ -3965,5 +3967,5 @@
    "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
   }
  ],
- "gerado_em": "2026-11-07T18:37-03:00"
+ "gerado_em": "2026-11-07T19:16-03:00"
 }
