@@ -2248,6 +2248,14 @@
    "prazo": "12/11"
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do Short do traje de FNAF (canal 2): Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "etapa": "embalagem (você aprovou o vídeo em 06/11; é o título que veio desde a pauta, mas nunca passou sozinho por você; a capa, o traje com o boneco dentro e VAI FECHAR, está sendo gerada; sai qui 12/11 18h com o Leme)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título",
+   "prazo": ""
+  },
+  {
    "tipo": "Short",
    "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 1: o grito \"STARS\" é ele dizendo o nome do alvo, a equipe da Jill, e o nome dele é o da deusa da vingança; teste do TikTok, Resident Evil 2 de 3; uns 100 s)",
@@ -2633,6 +2641,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "06/11 21h50",
+   "titulo": "**GERAR A CAPA do Short do traje de FNAF (#44, canal 2), no ChatGPT (Anzol). Vídeo aprovado pelo Murilo em 06/11; sai qui 12/11 18h.** Refs em `Mano Preguica/_refs capa - Shorts 26-10/FNAF traje/`. 2 versões do estágio 2, chat novo em cada estágio. Salvar como `CAPA FNAF - GPT 1.png`, `GPT 2.png` na mesma pasta, sem tratar, e me avisar (eu confiro e mando pro quadro 0).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "06/11 21h30",
    "titulo": "**TROCAR TÍTULO de 2 rascunhos (Anzol), aprovados pelo Murilo no painel em 06/11 ~21h25. Pela API, sem mexer em data, visibilidade nem nada mais.** (1) #36 `hQCvbXhPYFc`: de \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\" pra **\"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"**. (2) #37 `wGVF6ThIv9I`: de \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" pra **\"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\"**. Descrição, tags, capa e o resto ficam iguais. Depois, ler de volta o título que ficou e responder ao Anzol. **FEITO (Periscópio, 06/11 ~21h40, API videos.update só no snippet, com descrição, tags, categoria e idioma reenviados iguais; visibilidade e data intocadas):** relido pela API: #36 = \"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"; #37 = \"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts\" (o \" #shorts\" já estava no título antigo e é o padrão do canal, então ficou). Os dois seguem privados, sem data, com 12 tags; as descrições têm o mesmo tamanho de antes.",
@@ -3554,7 +3570,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "noiz-login-0711"
+  },
+  {
+   "id": "p129",
+   "aberta_em": "2026-11-06T21:36-03:00",
+   "agente": "Anzol",
+   "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares (canal 2)",
+   "o_que": "Aprovar o título do Short do traje de FNAF: Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares; sai qui 12/11 18h",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "peca:titulo-do-short-do-traje-de-fnaf-canal-2-fizeram-o-traje-de-fnaf-que-esmaga-quem:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-06T21:33-03:00"
+ "gerado_em": "2026-11-06T21:36-03:00"
 }
