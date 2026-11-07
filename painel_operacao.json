@@ -2250,9 +2250,9 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "pronto pro seu clique de Programar, qui 12/11 às 18h (studio.youtube.com/video/fmRy7htiKf8/edit): render com a capa VAI FECHAR no primeiro quadro e a mesma capa como miniatura; portão de áudio aprovado (-14 LUFS, 2:53); descrição e 12 tags do Anzol; jogo Five Nights at Freddy's; sua voz, sem marcação de IA; não é conteúdo para crianças; capítulos, lugares e conceitos automáticos desligados; playlist Vídeos curtos; sem reivindicação de direitos autorais; anúncios do feed dos Shorts ativados; 5 produtos na ordem: chaveiro do FNAF de R$ 19,90, R36S, Meta Quest 3S, Funko do Freddy Fazbear e o Security Breach de PS5; vídeo relacionado provisório no Batmóvel até o PS2 sair. Título aprovado por você às 22:59 (o mesmo de trabalho). Programar aberto no Studio do canal 2 no Mac com qui 12/11 às 18:00 preenchido",
+   "etapa": "agendado no canal 2 pra qui 12/11 às 18h, você programou em 06/11 e a data foi conferida pela API (studio.youtube.com/video/fmRy7htiKf8/edit); capa VAI FECHAR subida pelo Studio e conferida na prévia (a capa no primeiro quadro não vale no YouTube); título aprovado; descrição e 12 tags; jogo Five Nights at Freddy's; sua voz, sem marcação de IA; 5 produtos (chaveiro do FNAF de R$ 19,90, R36S, Meta Quest 3S, Funko do Freddy e Security Breach de PS5); vídeo relacionado provisório no Batmóvel até o PS2 sair; playlist Vídeos curtos",
    "responsavel": "Leme",
-   "falta_murilo": "apertar Concluir e depois Salvar no Studio",
+   "falta_murilo": "",
    "prazo": "12/11"
   },
   {
@@ -3639,8 +3639,10 @@
    "video": "Traje de FNAF (canal 2)",
    "o_que": "programar o traje de FNAF pra qui 12/11 às 18h: no Studio do canal 2 que está aberto no Mac, apertar Concluir e depois Salvar (data e hora já estão preenchidas)",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-06T23:19-03:00",
+   "nota": "programou em 06/11; publishAt 2026-11-12T21:00Z conferido pela API; capa conferida no Studio"
   }
  ],
- "gerado_em": "2026-11-06T23:07-03:00"
+ "gerado_em": "2026-11-06T23:20-03:00"
 }
