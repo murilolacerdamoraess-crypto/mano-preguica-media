@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-07T17:53:52.298020Z",
+ "gerado_em": "2026-11-07T22:25:17.843946Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1344,6 +1344,20 @@
    "motor": null,
    "versao": "3",
    "fonte_yt": "ie3Mze-ctWA"
+  },
+  {
+   "arquivo": "short-subnautica-bateria-some-na-lava.md",
+   "name": "SHORT - Se você jogou Subnautica, a sua bateria sumia na zona de lava, e tem uma explicação biológica pra isso",
+   "titulo_roteiro": "SHORT: a bateria que some na Lava Zone",
+   "description": "Short do canal principal (pauta P109 v2, aprovada pelo Murilo em 07/11 19:18). Na Lava Zone a energia dos veículos cai muito mais rápido; o motivo é a Lava Larva, um bicho que não enxerga nem sente cheiro, sente energia,",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo)",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-subnautica-dias-de-1-segundo.md",
