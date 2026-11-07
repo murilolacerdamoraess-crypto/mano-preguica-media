@@ -2683,7 +2683,7 @@
   },
   {
    "tipo": "07/11 15h30",
-   "titulo": "**#43 TUBARÃO (principal): PRONTO NO STUDIO, PRIVADO, ESPERANDO O MURILO (Periscópio, 07/11 ~14h40 a 15h30).** `_aSy4jUW1ZY` (studio.youtube.com/video/_aSy4jUW1ZY/edit). Arquivo = o aprovado (id do Drive 1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ), portão de áudio APROVADO (-14,0 LUFS), 2:58.",
+   "titulo": "**#43 TUBARÃO (principal): PRONTO NO STUDIO, PRIVADO, ESPERANDO O MURILO (Periscópio, 07/11 ~14h40 a 15h30).** `_aSy4jUW1ZY` (studio.youtube.com/video/_aSy4jUW1ZY/edit). Arquivo = o aprovado (id do Drive 1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ), portão de áudio APROVADO (-14,0 LUFS), 2:58. **17h52: horário trocado pra sáb 07/11 19:00** (pedido do Maestro, o Murilo não clicou até 17h50; janela 19-20h), pelo programar_data.sh, relido: 19:00, sem erro, Programar ativo e sem clique.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3947,5 +3947,5 @@
    "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
   }
  ],
- "gerado_em": "2026-11-07T17:46-03:00"
+ "gerado_em": "2026-11-07T17:52-03:00"
 }
