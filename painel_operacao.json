@@ -702,7 +702,7 @@
    "titulo": "Frase que começa com \"ele\" ou \"ela\" e não fala do personagem principal reprova, mesmo com o nome na frase de antes.",
    "onde": "`operacao-maestri/crivo/roteiro_frases.py` (V45 do crivo-checklist).",
    "confianca": "forte no problema (4 casos em 2 dias); fraca no quanto o código novo reprova nos aprovados (ainda não medido).",
-   "status": "aprovada 2026-11-07 (Murilo 07/11 14:37); pedida ao Crivo pelo Prumo no mesmo dia, com o teste da R65 antes de ligar (série v5 38ef4038 tem de reprovar; Shorts aprovados de 05/11 pra cá têm de passar; se aprovado reprovar, vira aviso)",
+   "status": "aplicada 2026-11-07 (aprovada pelo Murilo 07/11 14:37; Crivo, roteiro_frases V45, commit d8b32dd2; shorts-roteirista 3.2, skills e761a2d). Reprova em roteiro novo, aviso em texto já aprovado. Teste R65: a série v5 reprova, 0 aprovados caem. Dois ajustes medidos: o pronome conta também logo depois de \"toda vez que\", \"quando\", \"enquanto\", \"se\", \"assim que\" (sem isso a série v5 passava); personagem principal = pronome em 40% dos trechos ou mais (mínimo 3) ou quem a abertura apresenta (o \"começa 3+ trechos\" reprovava o extintor, o tubarão e os cortes)",
    "simples": "no Gravar você vê uma frase por vez, então \"Mas toda vez que ele te mordia\" chega sem dizer quem é \"ele\". A máquina passa a barrar essa frase e pedir o nome (\"quando o Reaper te mordia\"), em vez de aceitar porque o nome estava na frase anterior."
   }
  ],
