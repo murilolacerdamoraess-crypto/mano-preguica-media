@@ -3831,7 +3831,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:corte_c2_leviata_sn2"
+  },
+  {
+   "id": "p152",
+   "aberta_em": "2026-11-07T11:05-03:00",
+   "agente": "Arpão",
+   "video": "Em Subnautica, o seu medo decide o tamanho dos monstros (teste)",
+   "o_que": "ler o roteiro do teste do medo e do tamanho dos monstros e aprovar ou pedir ajuste",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:avulso-subnautica-medo-tamanho-dos-monstros.md"
   }
  ],
- "gerado_em": "2026-11-07T10:47-03:00"
+ "gerado_em": "2026-11-07T11:06-03:00"
 }
