@@ -3201,16 +3201,6 @@
    "chave": "narracao:short_reaper_lego"
   },
   {
-   "id": "p91",
-   "aberta_em": "2026-11-04T12:16-03:00",
-   "agente": "Tesoura",
-   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "o_que": "assistir a versão 3 (os 6 pontos de ontem à noite no vídeo inteiro) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "fechada_em": "2026-11-04T23:01-03:00"
-  },
-  {
    "id": "p93",
    "aberta_em": "2026-11-04T13:02-03:00",
    "agente": "Arpão",
@@ -3617,8 +3607,10 @@
    "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
    "o_que": "ver a comparação e escolher o estilo: híbrido, só low poly ou só Flow",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
+   "status": "feita",
+   "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2",
+   "fechada_em": "2026-11-06T23:02-03:00",
+   "nota": "low poly, animado (Murilo: dá pra fazer mais e mais rápido; tem canais funcionando só com poly)"
   },
   {
    "id": "p133",
@@ -3628,8 +3620,14 @@
    "o_que": "ver a preguiça e a primeira pessoa refeitas e escolher a câmera (A, B ou C pra preguiça, D pra primeira pessoa), ou desistir da preguiça",
    "onde": "Assistir",
    "status": "aberta",
-   "chave": "video:1jTWsOY-gmrgNtFTuS9W6O8ZwtpfPNAch"
+   "chave": "video:1jTWsOY-gmrgNtFTuS9W6O8ZwtpfPNAch",
+   "opcoes": [
+    "Preguiça A (vinil fosco)",
+    "Preguiça B (pelúcia)",
+    "Preguiça C (facetada)",
+    "Primeira pessoa (D)"
+   ]
   }
  ],
- "gerado_em": "2026-11-06T22:25-03:00"
+ "gerado_em": "2026-11-06T23:03-03:00"
 }
