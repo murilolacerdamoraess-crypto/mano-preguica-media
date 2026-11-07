@@ -3594,8 +3594,10 @@
    "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
    "o_que": "ouvir o antes e depois das vozes H, I e J com mais corpo nos graves e médios e dizer se o depois soa menos IA",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1wV0zbtzvMzVnhtOpp6KrCtxtiqNS0E4J"
+   "status": "cancelada",
+   "chave": "video:1wV0zbtzvMzVnhtOpp6KrCtxtiqNS0E4J",
+   "fechada_em": "2026-11-06T21:52-03:00",
+   "nota": "Murilo: as 3 já estavam aprovadas, o EQ era só melhoria; não precisa aprovar"
   },
   {
    "id": "p131",
