@@ -2544,6 +2544,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Short",
+   "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
+   "etapa": "edição (ordem pronta em 07/11: animação 3D com a preguiça de pelúcia e o Cuddlefish; cenas até qui 12/11, depois das da série)",
+   "responsavel": "Lente",
+   "falta_murilo": "gravar a voz das 17 frases",
+   "prazo": ""
+  },
+  {
    "tipo": "Tarefa",
    "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
    "etapa": "edição (decidido por você em 06/11: vozes H, I e J aprovadas em rodízio, G de reserva, F reprovada, e o ajuste de médios e graves aplicado nas três; em uso no Obra Absurda. Toda voz nova passa no teste de pronúncia antes de montar)",
@@ -3902,5 +3910,5 @@
    "grupo": "serie-4546b-a1-dia2"
   }
  ],
- "gerado_em": "2026-11-07T14:36-03:00"
+ "gerado_em": "2026-11-07T14:37-03:00"
 }
