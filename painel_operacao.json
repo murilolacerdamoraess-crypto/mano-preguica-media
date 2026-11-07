@@ -2490,10 +2490,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original (canal 2)",
-   "etapa": "edição (voz gravada por você em 29/10; a fala final é a gravada, com as frases que você mudou na hora e take vazio nos trechos que você cortou; próximo: a Tesoura edita, depois do show da Pokémon e do Elden Ring; título aprovado em 28/10: \"Esse cara tá tentando transformar um PS2 quebrado num portátil\")",
+   "etapa": "edição (voz gravada por você em 29/10; a fala final é a gravada, com as frases que você mudou na hora e take vazio nos trechos que você cortou; próximo: a Tesoura edita; título aprovado em 28/10: \"Esse cara tá tentando transformar um PS2 quebrado num portátil\"; saída: ter 10/11 às 18h no canal 2, pela regra de 3 Shorts por semana que você aprovou, se a edição chegar até dom 08/11)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
-   "prazo": ""
+   "prazo": "10/11"
   },
   {
    "tipo": "Short",
@@ -3622,5 +3622,5 @@
    "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
   }
  ],
- "gerado_em": "2026-11-06T21:52-03:00"
+ "gerado_em": "2026-11-06T21:55-03:00"
 }
