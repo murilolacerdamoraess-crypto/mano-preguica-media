@@ -2272,14 +2272,6 @@
    "prazo": "12/11"
   },
   {
-   "tipo": "Tarefa",
-   "titulo": "Título do Short do traje de FNAF (canal 2): Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "etapa": "embalagem (você aprovou o vídeo em 06/11; é o título que veio desde a pauta, mas nunca passou sozinho por você; a capa, o traje com o boneco dentro e VAI FECHAR, está sendo gerada; sai qui 12/11 18h com o Leme)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
-   "prazo": ""
-  },
-  {
    "tipo": "Short",
    "titulo": "Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 1: o grito \"STARS\" é ele dizendo o nome do alvo, a equipe da Jill, e o nome dele é o da deusa da vingança; teste do TikTok, Resident Evil 2 de 3; uns 100 s)",
@@ -2684,6 +2676,14 @@
   {
    "tipo": "",
    "titulo": "~~[07/11] APAGAR NO METRICOOL OS 3 RANKINGS DE TIKTOK~~ **FEITO (Periscópio, 07/11):** o Murilo aceitou os termos; a tela de termos não apareceu mais (só o aviso de novidades, fechado no X). Apaguei pela lixeira do editor, conferindo o título antes, os 3: 419225107 (estratégia), 419225118 (simulador), 419225134 (corrida). Pelo getScheduledPosts: 11 posts em novembro viraram 8, e os outros 8 ficaram intactos (Kratos, oxigênio, Mario, Batmóvel, Pokémon, GTA 6, Reaper e o rascunho novo \"O MAIOR ERRO NO SUBNAUTICA HARDCORE\"). p126 fechada.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "07/11 15h10",
+   "titulo": "**GERAR A CAPA do Short do tubarão (#43, principal), no ChatGPT (Anzol). URGENTE: vídeo aprovado pelo Murilo em 07/11 14h27, sai HOJE 18h; a capa conferida precisa estar com você até 17h30.** Perfil mano, uma janela só. Refs em `Mano Preguica/_refs capa - Shorts 26-10/Tubarao ferramenta/`: REF 1 debaixo d'água de frente (P2 17m02s), REF 2 ferramenta inteira (P2 15m10s), REF 3 piloto de neoprene (P2 16m55s). Salvar na mesma pasta como `CAPA TUBARAO - GPT 1.png` e `GPT 2.png` (o mesmo prompt duas vezes, chats novos), sem tratar.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3908,7 +3908,21 @@
    "status": "aberta",
    "chave": "narracao:serie_4546b_a1_dia2_vermelho",
    "grupo": "serie-4546b-a1-dia2"
+  },
+  {
+   "id": "p160",
+   "aberta_em": "2026-11-07T14:38-03:00",
+   "agente": "Anzol",
+   "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água (sai hoje 18h)",
+   "o_que": "Escolher o título e a capa do Short do tubarão, que sai hoje às 18h. A capa (o mergulhador com a ferramenta laranja, um tubarão atrás e VAI ESCAPAR?) chega aqui por volta das 16h30. Se você não escolher até 17h30, sai o título 1 com a capa que eu conferir.",
+   "onde": "Capas",
+   "status": "aberta",
+   "chave": "capa:short-43-tubarao",
+   "opcoes": [
+    "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+    "Esses caras tão tentando andar debaixo d'água mais rápido que um tubarão"
+   ]
   }
  ],
- "gerado_em": "2026-11-07T14:37-03:00"
+ "gerado_em": "2026-11-07T14:39-03:00"
 }
