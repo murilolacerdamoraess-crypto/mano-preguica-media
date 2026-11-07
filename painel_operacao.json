@@ -3965,7 +3965,21 @@
    "chave": "studio:_aSy4jUW1ZY",
    "fechada_em": "2026-11-07T15:06-03:00",
    "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
+  },
+  {
+   "id": "p163",
+   "aberta_em": "2026-11-07T19:16-03:00",
+   "agente": "Anzol",
+   "video": "Série 4546B, Dia 1 (Short)",
+   "o_que": "Escolher o título do Dia 1, na sua linha (você acordou + o Reaper perto do ovo). No jogo o Reaper não ataca ovo: ele fica sempre perto dele e ataca quem chega. Por isso a ameaça nos títulos é com você. A capa continua a mesma (a preguiça na cápsula, DIA 1: SOBREVIVA): ela mostra que você acabou de cair ali, e o título traz o Reaper e o ovo. Eu escolheria a B, que deixa o ataque perto de acontecer.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "A: Você acordou no Subnautica e tem um Reaper rondando o ovo do seu filhote",
+    "B: Você acordou no Subnautica e o Reaper ataca quem chegar perto desse ovo",
+    "C: Você acordou no Subnautica e precisa passar por um Reaper pra esse filhote nascer"
+   ]
   }
  ],
- "gerado_em": "2026-11-07T19:16-03:00"
+ "gerado_em": "2026-11-07T19:17-03:00"
 }
