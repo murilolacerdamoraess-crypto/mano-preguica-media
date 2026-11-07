@@ -3805,7 +3805,31 @@
    "onde": "Gravar",
    "status": "aberta",
    "jogando": true
+  },
+  {
+   "id": "p147",
+   "aberta_em": "2026-11-07T02:13-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, teste de estilos (a Muralha em 12 estilos)",
+   "o_que": "ver as 12 amostras de 5 s (o low poly é a base e abre o vídeo) e escolher o estilo que entra no rodízio com o low poly; pode escolher 2: clique no primeiro e escreva o segundo no campo de considerações",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1B8Hxi6R3jrfji3oMwzAwWSrNos8yIb-8",
+   "opcoes": [
+    "Pontilhismo",
+    "Traço branco",
+    "Colagem de foto",
+    "Recorte de papel",
+    "Hachura",
+    "Risografia",
+    "Caderno",
+    "Matemática",
+    "Pixel 8 bits",
+    "Isométrico",
+    "Nanquim",
+    "TV antiga"
+   ]
   }
  ],
- "gerado_em": "2026-11-07T01:25-03:00"
+ "gerado_em": "2026-11-07T02:14-03:00"
 }
