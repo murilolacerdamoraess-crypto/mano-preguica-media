@@ -688,6 +688,22 @@
    "confianca": "forte no problema (5 de 20 abertas pedem jogar); fraca no ganho.",
    "status": "aplicada 2026-11-07 (aprovada pelo Murilo 07/11 02:22; `pendencia.py --jogando`, commit 4847b701; marcadas p107, p142, p146 e as que esperam a vez)",
    "simples": "enquanto você estiver fora, só o que pede você jogando (os 4 mods, a sessão do guia de mods, o desafio do Void, o Creature Outcrops e o teste dos 10 mil metros) fica guardado num bloco \"quando você voltar\". Todo o resto continua em cima, porque gravar, assistir e decidir você faz pelo Mac e pelo celular."
+  },
+  {
+   "id": "R87",
+   "titulo": "Antes de ir pro Decidir, toda regra é conferida contra o que o Murilo já decidiu e contra os vídeos que ele viu.",
+   "onde": "role analise.md, item 2, e o role da Bússola na parte de metas.",
+   "confianca": "forte no problema (3 de 4 reprovações numa leva); fraca no ganho (ainda sem teste: rodar na leva de 06/11 e ver se o subagente pega R83, R79 e R84).",
+   "status": "aguardando",
+   "simples": "antes de uma regra chegar pra você, alguém que não escreveu ela confere se ela vai contra algo que você já decidiu ou se usa como prova um vídeo que você nem viu. Na última leva, isso teria segurado 3 das 4 que você reprovou, como a do PokéBonk de 1 hora, que você já tinha respondido em outubro."
+  },
+  {
+   "id": "R88",
+   "titulo": "Frase que começa com \"ele\" ou \"ela\" e não fala do personagem principal reprova, mesmo com o nome na frase de antes.",
+   "onde": "`operacao-maestri/crivo/roteiro_frases.py` (V45 do crivo-checklist).",
+   "confianca": "forte no problema (4 casos em 2 dias); fraca no quanto o código novo reprova nos aprovados (ainda não medido).",
+   "status": "aguardando",
+   "simples": "no Gravar você vê uma frase por vez, então \"Mas toda vez que ele te mordia\" chega sem dizer quem é \"ele\". A máquina passa a barrar essa frase e pedir o nome (\"quando o Reaper te mordia\"), em vez de aceitar porque o nome estava na frase anterior."
   }
  ],
  "equipe": [
@@ -3787,5 +3803,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-07T09:31-03:00"
+ "gerado_em": "2026-11-07T09:32-03:00"
 }
