@@ -3490,8 +3490,8 @@
    "onde": "Assistir",
    "status": "feita",
    "chave": "video:1xji2m6WJVrRoCkVvuABfQaQ1qveCh2v6",
-   "fechada_em": "2026-11-06T21:40-03:00",
-   "nota": "H, I, J aprovadas; G reserva; F reprovada; pediu EQ de médios e graves e rodízio das 3"
+   "fechada_em": "2026-11-06T21:43-03:00",
+   "nota": "06/11: H, I e J aprovadas pro rodízio (homem, homem e mulher), G de reserva, F reprovada; pediu médios e graves pra soar menos IA"
   },
   {
    "id": "p121",
@@ -3509,8 +3509,10 @@
    "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
    "o_que": "assistir a versão 3 nas duas trilhas (A: Legionnaire, de Scott Buckley, orquestra com crédito na descrição; B: gerada no Mac) e escolher A ou B",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "obra-absurda-v01-trilha"
+   "status": "cancelada",
+   "chave": "obra-absurda-v01-trilha",
+   "fechada_em": "2026-11-06T21:44-03:00",
+   "nota": "trocado por vídeo de comparação: o card só tocava uma das duas versões"
   },
   {
    "id": "p123",
@@ -3582,7 +3584,27 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "peca:titulo-do-short-do-traje-de-fnaf-canal-2-fizeram-o-traje-de-fnaf-que-esmaga-quem:aprovar-este-titulo"
+  },
+  {
+   "id": "p130",
+   "aberta_em": "2026-11-06T21:43-03:00",
+   "agente": "Lente",
+   "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
+   "o_que": "ouvir o antes e depois das vozes H, I e J com mais corpo nos graves e médios e dizer se o depois soa menos IA",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1wV0zbtzvMzVnhtOpp6KrCtxtiqNS0E4J"
+  },
+  {
+   "id": "p131",
+   "aberta_em": "2026-11-06T21:44-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
+   "o_que": "ouvir a comparação e escolher a trilha A ou a B",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1D_TjvqyFCVkOnfZESCcvDxhfmrY2sdNE"
   }
  ],
- "gerado_em": "2026-11-06T21:40-03:00"
+ "gerado_em": "2026-11-06T21:44-03:00"
 }
