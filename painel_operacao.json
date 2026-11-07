@@ -2538,9 +2538,9 @@
   {
    "tipo": "Tarefa",
    "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
-   "etapa": "edição (rodada 2 no Assistir: 5 vozes com as mesmas 3 frases do Reaper, com letras sorteadas de F a J; 4 são do Google Gemini e uma é a sua favorita da rodada 1, misturada sem dizer qual; sua voz de verdade no fim pra comparar; áudios no Drive em testes/vozes/rodada 2)",
+   "etapa": "edição (decidido por você em 06/11: vozes H, I e J aprovadas em rodízio, G de reserva, F reprovada, e o ajuste de médios e graves aplicado nas três; em uso no Obra Absurda. Toda voz nova passa no teste de pronúncia antes de montar)",
    "responsavel": "Lente",
-   "falta_murilo": "ouvir as vozes F a J e dar uma nota de 0 a 10 pra cada uma",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -3827,7 +3827,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ"
+  },
+  {
+   "id": "p154",
+   "aberta_em": "2026-11-07T11:47-03:00",
+   "agente": "Arpão",
+   "video": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "o_que": "gravar a voz das 15 frases (principal, uns 2:40; sai depois do Reaper de LEGO)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_wakemaker"
   }
  ],
- "gerado_em": "2026-11-07T11:39-03:00"
+ "gerado_em": "2026-11-07T11:47-03:00"
 }
