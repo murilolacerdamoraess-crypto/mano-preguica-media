@@ -3540,8 +3540,10 @@
    "video": "Série Sobreviva em 4546B (teste de estilo)",
    "o_que": "escolher a câmera da série: a preguiça, você em terceira pessoa ou a primeira pessoa",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1mc_0xWZBhswLtThLzEmDvehFLeQ8nvOj"
+   "status": "cancelada",
+   "chave": "video:1mc_0xWZBhswLtThLzEmDvehFLeQ8nvOj",
+   "fechada_em": "2026-11-06T22:07-03:00",
+   "nota": "06/11: o Murilo achou a preguiça 'meio feia/bugada' e a primeira pessoa 'meio bugada'; as duas foram refeitas e o item novo substitui este"
   },
   {
    "id": "p126",
@@ -3617,7 +3619,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
+  },
+  {
+   "id": "p133",
+   "aberta_em": "2026-11-06T22:07-03:00",
+   "agente": "Lente",
+   "video": "Série Sobreviva em 4546B (teste de estilo)",
+   "o_que": "ver a preguiça e a primeira pessoa refeitas e escolher a câmera (A, B ou C pra preguiça, D pra primeira pessoa), ou desistir da preguiça",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1jTWsOY-gmrgNtFTuS9W6O8ZwtpfPNAch"
   }
  ],
- "gerado_em": "2026-11-06T22:02-03:00"
+ "gerado_em": "2026-11-06T22:08-03:00"
 }
