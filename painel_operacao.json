@@ -3297,17 +3297,6 @@
    "nota": "texto acertado com a data em que ele volta a jogar"
   },
   {
-   "id": "p106",
-   "aberta_em": "2026-11-05T11:35-03:00",
-   "agente": "Periscópio",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "classificar os anúncios do Short no Studio (Editar rascunho), quando puder",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-05T17:44-03:00",
-   "nota": "ele classificou os anúncios no Studio em 05/11"
-  },
-  {
    "id": "p107",
    "aberta_em": "2026-11-05T11:35-03:00",
    "agente": "Lente",
@@ -3958,5 +3947,5 @@
    "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
   }
  ],
- "gerado_em": "2026-11-07T15:06-03:00"
+ "gerado_em": "2026-11-07T17:46-03:00"
 }
