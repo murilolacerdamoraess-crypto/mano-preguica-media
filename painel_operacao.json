@@ -3989,6 +3989,16 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1gj1h5xOWsn5aPTDcV9PwRBpIB-K59Sca"
+  },
+  {
+   "id": "p166",
+   "aberta_em": "2026-11-07T19:49-03:00",
+   "agente": "Arpão",
+   "video": "Construíram um trem do Minecraft de verdade dentro do escritório",
+   "o_que": "ler o roteiro do trem do Minecraft e aprovar ou pedir ajuste (com os trechos do vídeo original ele fica perto de 2:50)",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-trem-minecraft-de-verdade-escritorio.md"
   }
  ],
  "gerado_em": "2026-11-07T19:49-03:00"
