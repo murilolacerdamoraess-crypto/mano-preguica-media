@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-11-06T15:34:36.041364-03:00",
+ "gerado_em": "2026-11-06T21:22:27.617791-03:00",
  "mes": {
-  "postados": 4,
+  "postados": 5,
   "teto": 93,
-  "folga": 89
+  "folga": 88
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 16,
-   "ultimo_post": "2026-11-05",
-   "dias_parado": 1,
+   "na_fila": 17,
+   "ultimo_post": "2026-11-06",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "wcahyOJAlmU",
-     "titulo": "O REAPER SEMPRE TE OLHOU 😨",
-     "quando": "2026-11-06T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "PBw5xlifJpM",
      "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo",
@@ -67,6 +61,10 @@
    "previstos": [],
    "proximos_da_fila": [
     {
+     "video_id": "qV_Zq6Eb40k",
+     "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts"
+    },
+    {
      "video_id": "uC_EOBxYQ0I",
      "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
     }
@@ -77,14 +75,14 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 20,
-   "ultimo_post": "2026-11-05",
-   "dias_parado": 1,
+   "ultimo_post": "2026-11-06",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "HFp_Cl9DcwU",
-     "titulo": "Qual jogo de sobrevivência você acha que é o mais jogado da Steam?",
+     "video_id": "qV_Zq6Eb40k",
+     "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts",
      "quando": "2026-11-06T21:30:00-03:00"
     },
     {
@@ -155,8 +153,8 @@
    ],
    "proximos_da_fila": [
     {
-     "video_id": "HFp_Cl9DcwU",
-     "titulo": "Qual jogo de sobrevivência você acha que é o mais jogado da Steam?"
+     "video_id": "qV_Zq6Eb40k",
+     "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts"
     },
     {
      "video_id": "GzZE02iibIA",
@@ -172,7 +170,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 50,
+   "na_fila": 51,
    "ultimo_post": "2026-11-04",
    "dias_parado": 2,
    "parado": false,
