@@ -686,7 +686,7 @@
    "titulo": "Na sua lista, só o que pede você jogando fica guardado num bloco \"quando você voltar\"; todo o resto continua em cima.",
    "onde": "`operacao-maestri/pendencia.py` e a tela de pendências do painel.",
    "confianca": "forte no problema (5 de 20 abertas pedem jogar); fraca no ganho.",
-   "status": "aguardando",
+   "status": "aplicada 2026-11-07 (aprovada pelo Murilo 07/11 02:22; `pendencia.py --jogando`, commit 4847b701; marcadas p107, p142, p146 e as que esperam a vez)",
    "simples": "enquanto você estiver fora, só o que pede você jogando (os 4 mods, a sessão do guia de mods, o desafio do Void, o Creature Outcrops e o teste dos 10 mil metros) fica guardado num bloco \"quando você voltar\". Todo o resto continua em cima, porque gravar, assistir e decidir você faz pelo Mac e pelo celular."
   }
  ],
@@ -3787,5 +3787,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-07T09:11-03:00"
+ "gerado_em": "2026-11-07T09:31-03:00"
 }
