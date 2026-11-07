@@ -3531,8 +3531,10 @@
    "video": "Obra Absurda, vídeo 1 (Muralha da China)",
    "o_que": "ver a grade low poly em código x Flow v3 e escolher o estilo: híbrido (código nas cenas de fato, Flow nas de gente), só low poly, ou só Flow",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "obra-absurda-estilo-lowpoly"
+   "status": "cancelada",
+   "chave": "obra-absurda-estilo-lowpoly",
+   "fechada_em": "2026-11-06T21:45-03:00",
+   "nota": "trocado por vídeo de comparação: o card só toca vídeo e a grade era JPG"
   },
   {
    "id": "p125",
@@ -3604,7 +3606,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1D_TjvqyFCVkOnfZESCcvDxhfmrY2sdNE"
+  },
+  {
+   "id": "p132",
+   "aberta_em": "2026-11-06T21:45-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
+   "o_que": "ver a comparação e escolher o estilo: híbrido, só low poly ou só Flow",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
   }
  ],
- "gerado_em": "2026-11-06T21:44-03:00"
+ "gerado_em": "2026-11-06T21:45-03:00"
 }
