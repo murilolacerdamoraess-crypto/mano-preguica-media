@@ -2066,9 +2066,9 @@
   {
    "tipo": "Longo",
    "titulo": "Stonewards em dupla",
-   "etapa": "narração (27/10: você parou no trecho 38 porque ele não tinha lógica; conferi na gameplay o que aconteceu naquela onda e o texto do 38 em diante foi reescrito em cima dos 37 que você gravou, no seu jeito de contar; o Gravar agora tem 121 trechos, e o 25, da cura no crítico, voltou pra você regravar porque é uma chance e não toda vez)",
+   "etapa": "narração (você gravou os 121 trechos e regravou o da cura no crítico; falta só 1 frase, a da Onda 8, que mudou em 05/11 pra dizer \"38 de vida, de um total de 130\"; ele fica de reserva pra cobrir uma semana sem longo)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar do trecho 38 ao 121 e regravar o 25; ele fica de reserva, porque os longos contados de Subnautica ocupam até 18/11 e ele cobre a semana que furar",
+   "falta_murilo": "gravar 1 frase (a da Onda 8)",
    "prazo": ""
   },
   {
@@ -2076,15 +2076,15 @@
    "titulo": "Esses mods do Subnautica dão ansiedade de verdade",
    "etapa": "pauta pronta (aprovada por você em 04/11; o plano da sessão tem a ordem dos 4 mods do medo que cresce, a água turva ligada o tempo todo, depois a pedra que solta bicho, o Starworm e o Voidmaw de 65 a 78 m, e o que gravar de cada um; 10 a 12 min no principal, e um Short por mod com o Arpão, o da pedra primeiro; 3 dos 4 marcados como feitos com IA no Nexus)",
    "responsavel": "Farol",
-   "falta_murilo": "instalar e testar os mods, gravar a sessão e depois um áudio contando como foi, a partir de 16/11, quando você volta",
-   "prazo": "sem data até a sessão"
+   "falta_murilo": "nada por enquanto (uma sessão de gravar por vez: este vem depois do Void e dos 10 mil metros, e o pedido volta pra sua lista quando chegar a vez)",
+   "prazo": ""
   },
   {
    "tipo": "Longo",
    "titulo": "Os melhores mods de Subnautica em 2026 e como instalar",
    "etapa": "pauta pronta (aprovada por você em 03/11 às 14:25; o Sonar levantou 12 mods com fonte e o jeito de instalar que vale desde que a Steam desligou as versões antigas em outubro de 2025; nenhum guia brasileiro foi feito depois disso; 12 a 14 min no canal principal: a instalação na versão atual e um bloco por mod, começando pelos que você já jogou: Gargantuan, Red Plague, Prototype, Echelon e os veículos gigantes)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar uma sessão de 1h30 na versão atual, seguindo a lista de 10 passos que já está pronta (a instalação do zero, 3 mods que você ainda não jogou, os dois submarinos gigantes, todos juntos num save e o multiplayer, que roda na versão atual), a partir de 16/11, quando você volta",
+   "falta_murilo": "nada por enquanto (uma sessão de gravar por vez: este vem depois dos mods que dão ansiedade, e o pedido volta pra sua lista quando chegar a vez)",
    "prazo": ""
   },
   {
@@ -3166,8 +3166,10 @@
    "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "gravar a voz dos 14 trechos",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_armadura_fallout@v7"
+   "status": "cancelada",
+   "chave": "narracao:short_armadura_fallout@v7",
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto acertado: chave sem a versão antiga (v7), frases em vez de trechos"
   },
   {
    "id": "p61",
@@ -3176,7 +3178,9 @@
    "video": "Stonewards em dupla",
    "o_que": "regravar só o trecho 106 (o fim subiu como pergunta): \"Na Onda 8 eu já tava fazia 4 minutos com 38 de vida, e mesmo assim fui pra briga. Os dragões me derrubaram em questão de segundos.\"",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto trocado: a frase mudou em 05/11 (reaberta com o texto que está no Gravar)"
   },
   {
    "id": "p80",
@@ -3185,9 +3189,11 @@
    "video": "Longo: os melhores mods de Subnautica em 2026 e como instalar (R42)",
    "o_que": "aprovar o plano e gravar a sessão de ~1h30 pelo roteiro de 10 passos (conhecimentos/longo-guia-mods-2026.md). O Farol sugere o multiplayer (Nitrox, roda na versão atual) no fim e tira o Socknautica (só roda na versão antiga). Confirmar também que o 'SEmarine' do Short é o Seal Submarine. Só quando você voltar pra casa, a partir de 16/11",
    "onde": "Gravar",
-   "status": "aberta",
+   "status": "cancelada",
    "chave": "r42:sessao-gravacao",
-   "jogando": true
+   "jogando": true,
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "sai da lista até chegar a vez: uma sessão de gravar por vez, na ordem Void, 10 mil metros, mods que dão ansiedade, mods de 2026 (regra 5 do caderno de desafios); reabre com as 2 perguntas (multiplayer e SEmarine)"
   },
   {
    "id": "p87",
@@ -3208,8 +3214,10 @@
    "video": "Estão montando o Reaper do Subnautica em LEGO",
    "o_que": "gravar a voz das 13 frases (gravar já aprova o roteiro)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_reaper_lego"
+   "status": "cancelada",
+   "chave": "narracao:short_reaper_lego",
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto acertado com a data de saída"
   },
   {
    "id": "p93",
@@ -3242,8 +3250,10 @@
    "video": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
    "o_que": "gravar a voz da versão 5, com 15 frases (gravar já aprova o roteiro)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_propulsor_braco"
+   "status": "cancelada",
+   "chave": "narracao:short_propulsor_braco",
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto acertado: sem a versão, com a saída"
   },
   {
    "id": "p96",
@@ -3252,8 +3262,10 @@
    "video": "Esses mods do Subnautica dão ansiedade de verdade",
    "o_que": "instalar e testar os 4 mods (lista do Sonar em conhecimentos/instalar-mods-ansiedade.md), gravar a sessão de 1h30 a 2h seguindo o plano (conhecimentos/longo-mods-ansiedade.md) e depois gravar um áudio de 5 a 15 min contando como foi. Só quando você voltar pra casa, a partir de 16/11, depois do Void",
    "onde": "Outro",
-   "status": "aberta",
-   "jogando": true
+   "status": "cancelada",
+   "jogando": true,
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "sai da lista até chegar a vez: uma sessão de gravar por vez, na ordem Void, 10 mil metros, mods que dão ansiedade, mods de 2026 (regra 5 do caderno de desafios)"
   },
   {
    "id": "p99",
@@ -3320,9 +3332,11 @@
    "video": "Tentei chegar no fim do mundo do Subnautica",
    "o_que": "gravar a sessão de 1h a 1h30 jogando e comentando ao vivo, e depois um áudio de 5 a 15 min contando como foi. Num save de Sobrevivência separado, sem mod, com os veículos pelo console (Shift + Enter) e o F1 ligado pra mostrar a posição, sair reto pro leste e tentar chegar aos 4.000 m, onde os Ghosts desistem: a nado, de Seamoth, de Prawn Suit e de Cyclops, salvando na borda antes de cada tentativa. Se passar, o bônus é ir até os 8.192 m, onde o jogo te teleporta de volta. O passo a passo está na nota do desafio do Void no cérebro. Você está fora de casa até 15 ou 16/11, então fica pra quando voltar: gravar de seg 16 a qua 18/11, pra sair seg 30/11 às 18h",
    "onde": "Gravar",
-   "status": "aberta",
+   "status": "cancelada",
    "chave": "gravar:desafio-fim-do-void",
-   "jogando": true
+   "jogando": true,
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto encurtado (reaberta com a mesma chave)"
   },
   {
    "id": "p105",
@@ -3331,8 +3345,10 @@
    "video": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
    "o_que": "jogar o mod Creature Outcrops e gravar um áudio contando como foi (o roteiro nasce do seu áudio)",
    "onde": "Gravar",
-   "status": "aberta",
-   "jogando": true
+   "status": "cancelada",
+   "jogando": true,
+   "fechada_em": "2026-11-07T01:25-03:00",
+   "nota": "texto acertado com a data em que ele volta a jogar"
   },
   {
    "id": "p106",
@@ -3729,7 +3745,67 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_mao_do_hulk"
+  },
+  {
+   "id": "p141",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Farol",
+   "video": "Stonewards em dupla",
+   "o_que": "regravar a frase da Onda 8, que mudou: \"Na Onda 8 fazia 4 minutos que eu tava com 38 de vida, de um total de 130, e mesmo assim eu fui pra briga, e os dragões me derrubaram em segundos.\"",
+   "onde": "Gravar",
+   "status": "aberta"
+  },
+  {
+   "id": "p142",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Farol",
+   "video": "Tentei chegar no fim do mundo do Subnautica",
+   "o_que": "gravar a sessão de 1h a 1h30 jogando e comentando ao vivo, e depois um áudio de 5 a 15 min contando como foi. Num save novo de Sobrevivência, sem mod: sair reto pro leste e tentar chegar aos 4.000 m, onde os Ghosts desistem, a nado, de Seamoth, de Prawn Suit e de Cyclops (veículos pelo console, F1 ligado pra ver a posição, salvar na borda antes de cada tentativa). O passo a passo está na nota do desafio. Gravar de seg 16 a qua 18/11, pra sair seg 30/11 às 18h",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "gravar:desafio-fim-do-void",
+   "jogando": true
+  },
+  {
+   "id": "p143",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Arpão",
+   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "gravar a voz das 14 frases",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_armadura_fallout"
+  },
+  {
+   "id": "p144",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Arpão",
+   "video": "Estão montando o Reaper do Subnautica em LEGO",
+   "o_que": "gravar a voz das 13 frases (sai dom 08/11 às 18h se a voz chegar no sábado cedo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_reaper_lego"
+  },
+  {
+   "id": "p145",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Arpão",
+   "video": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
+   "o_que": "gravar a voz das 15 frases (sai depois do Reaper de LEGO)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_propulsor_braco"
+  },
+  {
+   "id": "p146",
+   "aberta_em": "2026-11-07T01:25-03:00",
+   "agente": "Arpão",
+   "video": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
+   "o_que": "jogar o mod Creature Outcrops a partir de 16/11 e gravar um áudio contando como foi",
+   "onde": "Gravar",
+   "status": "aberta",
+   "jogando": true
   }
  ],
- "gerado_em": "2026-11-07T01:24-03:00"
+ "gerado_em": "2026-11-07T01:25-03:00"
 }
