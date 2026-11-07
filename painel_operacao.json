@@ -2650,8 +2650,8 @@
  ],
  "navegador": [
   {
-   "tipo": "07/11",
-   "titulo": "**APAGAR NO METRICOOL OS 3 RANKINGS DE TIKTOK (Murilo, 06 e 07/11: \"apaga esses vídeos, não quero mais\"). ESPERANDO O MURILO ACEITAR OS TERMOS NOVOS DO METRICOOL (p126).** São só estes 3, todos rascunho (draft true, não publicam sozinhos), conferidos pela API em 06/11 15h:",
+   "tipo": "",
+   "titulo": "~~[07/11] APAGAR NO METRICOOL OS 3 RANKINGS DE TIKTOK~~ **FEITO (Periscópio, 07/11):** o Murilo aceitou os termos; a tela de termos não apareceu mais (só o aviso de novidades, fechado no X). Apaguei pela lixeira do editor, conferindo o título antes, os 3: 419225107 (estratégia), 419225118 (simulador), 419225134 (corrida). Pelo getScheduledPosts: 11 posts em novembro viraram 8, e os outros 8 ficaram intactos (Kratos, oxigênio, Mario, Batmóvel, Pokémon, GTA 6, Reaper e o rascunho novo \"O MAIOR ERRO NO SUBNAUTICA HARDCORE\"). p126 fechada.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3559,8 +3559,10 @@
    "video": "TikTok: 3 Rankings da Steam (estratégia, simulador, corrida)",
    "o_que": "no Metricool, aceitar os termos novos e apagar os 3 rascunhos pela lixeira (já não publicam sozinhos)",
    "onde": "Outro",
-   "status": "aberta",
-   "chave": "metricool-apagar-rankings"
+   "status": "feita",
+   "chave": "metricool-apagar-rankings",
+   "fechada_em": "2026-11-07T00:11-03:00",
+   "nota": "Murilo aceitou os termos (07/11). Periscópio apagou pela lixeira os 3 rascunhos (419225107 estratégia, 419225118 simulador, 419225134 corrida), conferindo o título antes; getScheduledPosts confirma que só os 3 sumiram."
   },
   {
    "id": "p127",
@@ -3671,5 +3673,5 @@
    "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m"
   }
  ],
- "gerado_em": "2026-11-07T00:04-03:00"
+ "gerado_em": "2026-11-07T00:11-03:00"
 }
