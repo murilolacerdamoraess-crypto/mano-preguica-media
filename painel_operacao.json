@@ -2682,8 +2682,16 @@
    "prazo": ""
   },
   {
-   "tipo": "07/11 15h10",
-   "titulo": "**GERAR A CAPA do Short do tubarão (#43, principal), no ChatGPT (Anzol). URGENTE: vídeo aprovado pelo Murilo em 07/11 14h27, sai HOJE 18h; a capa conferida precisa estar com você até 17h30.** Perfil mano, uma janela só. Refs em `Mano Preguica/_refs capa - Shorts 26-10/Tubarao ferramenta/`: REF 1 debaixo d'água de frente (P2 17m02s), REF 2 ferramenta inteira (P2 15m10s), REF 3 piloto de neoprene (P2 16m55s). Salvar na mesma pasta como `CAPA TUBARAO - GPT 1.png` e `GPT 2.png` (o mesmo prompt duas vezes, chats novos), sem tratar.",
+   "tipo": "07/11 15h30",
+   "titulo": "**#43 TUBARÃO (principal): PRONTO NO STUDIO, PRIVADO, ESPERANDO O MURILO (Periscópio, 07/11 ~14h40 a 15h30).** `_aSy4jUW1ZY` (studio.youtube.com/video/_aSy4jUW1ZY/edit). Arquivo = o aprovado (id do Drive 1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ), portão de áudio APROVADO (-14,0 LUFS), 2:58.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "",
+   "titulo": "~~[07/11 15h10] GERAR A CAPA do Short do tubarão~~ **FEITO (Periscópio, 07/11 ~15h05), sem recusa:** `CAPA TUBARAO - GPT 1.png` e `GPT 2.png` (941x1672) na pasta de refs, prompt literal em 2 chats novos, 3 refs. Conferido: VAI ESCAPAR? certo, ferramenta laranja com os 2 propulsores, tubarão atrás. Pontos que mandei ao Anzol: a ponta da ferramenta desce até o pé do quadro, e a touca tem a marca NABAIJI (fica, é a touca real). O Anzol escolheu a GPT 1.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3948,5 +3956,5 @@
    "chave": "studio:_aSy4jUW1ZY"
   }
  ],
- "gerado_em": "2026-11-07T14:52-03:00"
+ "gerado_em": "2026-11-07T14:55-03:00"
 }
