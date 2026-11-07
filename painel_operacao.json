@@ -2635,7 +2635,7 @@
  "navegador": [
   {
    "tipo": "06/11 21h30",
-   "titulo": "**TROCAR TÍTULO de 2 rascunhos (Anzol), aprovados pelo Murilo no painel em 06/11 ~21h25. Pela API, sem mexer em data, visibilidade nem nada mais.** (1) #36 `hQCvbXhPYFc`: de \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\" pra **\"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"**. (2) #37 `wGVF6ThIv9I`: de \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" pra **\"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\"**. Descrição, tags, capa e o resto ficam iguais. Depois, ler de volta o título que ficou e responder ao Anzol.",
+   "titulo": "**TROCAR TÍTULO de 2 rascunhos (Anzol), aprovados pelo Murilo no painel em 06/11 ~21h25. Pela API, sem mexer em data, visibilidade nem nada mais.** (1) #36 `hQCvbXhPYFc`: de \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\" pra **\"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"**. (2) #37 `wGVF6ThIv9I`: de \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" pra **\"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\"**. Descrição, tags, capa e o resto ficam iguais. Depois, ler de volta o título que ficou e responder ao Anzol. **FEITO (Periscópio, 06/11 ~21h40, API videos.update só no snippet, com descrição, tags, categoria e idioma reenviados iguais; visibilidade e data intocadas):** relido pela API: #36 = \"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"; #37 = \"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts\" (o \" #shorts\" já estava no título antigo e é o padrão do canal, então ficou). Os dois seguem privados, sem data, com 12 tags; as descrições têm o mesmo tamanho de antes.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2643,7 +2643,7 @@
   },
   {
    "tipo": "05/11 noite",
-   "titulo": "**#36 LONGO \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\", canal principal: RASCUNHO PRIVADO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 ~22h30).** `hQCvbXhPYFc` (studio.youtube.com/video/hQCvbXhPYFc/edit). Pacote do Anzol (roteiro-34-leviatas-sem-veiculo.md, Embalagem + Vitrine); vídeo v5 aprovado pelo Murilo 05/11 21:28.",
+   "titulo": "**#36 LONGO \"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\" (título trocado 06/11), canal principal: RASCUNHO PRIVADO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 ~22h30).** `hQCvbXhPYFc` (studio.youtube.com/video/hQCvbXhPYFc/edit). Pacote do Anzol (roteiro-34-leviatas-sem-veiculo.md, Embalagem + Vitrine); vídeo v5 aprovado pelo Murilo 05/11 21:28.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2651,7 +2651,7 @@
   },
   {
    "tipo": "05/11",
-   "titulo": "**#37 Short \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" (v2), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova. **Adequação feita pelo Murilo (05/11, Vigia fechou a p106); conferido no Studio às 17h57: no Editar rascunho, a etapa \"Adequação para publicidade\" está concluída.**",
+   "titulo": "**#37 Short \"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\" (título trocado 06/11), canal principal: RASCUNHO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 manhã).** `wGVF6ThIv9I` (studio.youtube.com/video/wGVF6ThIv9I/edit). Vídeo aprovado pelo Murilo 05/11 08:23 (decisoes.md). **A data de dom 08/11 caiu (Murilo, 05/11):** sai só depois que o longo dos 34 leviatãs (#36) estiver público, no mesmo dia mais tarde ou no dia seguinte, entre 11h e 22h30, com o #36 de vídeo relacionado. O #36 ainda espera a v4 ser aprovada; o Anzol passa a data nova. **Adequação feita pelo Murilo (05/11, Vigia fechou a p106); conferido no Studio às 17h57: no Editar rascunho, a etapa \"Adequação para publicidade\" está concluída.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3555,5 +3555,5 @@
    "chave": "noiz-login-0711"
   }
  ],
- "gerado_em": "2026-11-06T21:26-03:00"
+ "gerado_em": "2026-11-06T21:28-03:00"
 }
