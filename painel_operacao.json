@@ -3488,8 +3488,10 @@
    "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
    "o_que": "ouvir as vozes F a J da rodada 2 (vídeo no Assistir) e dar uma nota de 0 a 10 pra cada uma",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1xji2m6WJVrRoCkVvuABfQaQ1qveCh2v6"
+   "status": "feita",
+   "chave": "video:1xji2m6WJVrRoCkVvuABfQaQ1qveCh2v6",
+   "fechada_em": "2026-11-06T21:40-03:00",
+   "nota": "H, I, J aprovadas; G reserva; F reprovada; pediu EQ de médios e graves e rodízio das 3"
   },
   {
    "id": "p121",
@@ -3582,5 +3584,5 @@
    "chave": "peca:titulo-do-short-do-traje-de-fnaf-canal-2-fizeram-o-traje-de-fnaf-que-esmaga-quem:aprovar-este-titulo"
   }
  ],
- "gerado_em": "2026-11-06T21:36-03:00"
+ "gerado_em": "2026-11-06T21:40-03:00"
 }
