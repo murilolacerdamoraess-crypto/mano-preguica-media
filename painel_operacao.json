@@ -2056,14 +2056,6 @@
  ],
  "producao": [
   {
-   "tipo": "Short",
-   "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica",
-   "etapa": "agendado no canal principal pra sex 06/11 às 18h (você programou em 04/11; conferido pela API; studio.youtube.com/video/qV_Zq6Eb40k/edit; relacionado o longo do Gargantuan, 7 produtos com o Reaper em 1º, voz real)",
-   "responsavel": "Periscópio",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "etapa": "edição (voz gravada por você em 04/11, 56 de 56 trechos; você reescreveu 71% deles na hora e falou 66% a mais que o texto, então a edição segue a sua fala e não o roteiro; as 5 partidas, um Pokémon por mapa, a torre do quinto andar vencida no fim; canal principal, edição no Mac)",
@@ -2074,9 +2066,9 @@
   {
    "tipo": "Longo",
    "titulo": "Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo",
-   "etapa": "embalagem (você aprovou o vídeo em 05/11; já está no Studio como rascunho privado com título de trabalho, capa, descrição com capítulos, tags, legenda, 7 produtos, cards e tela final; título aprovado por você em 06/11, o Periscópio troca o de trabalho no rascunho; sai seg 09/11 12h com acesso antecipado de membros)",
+   "etapa": "agendado no canal principal: já disponível pros membros desde 07/11 e público seg 09/11 às 12h (você programou e salvou o acesso antecipado em 07/11; conferido pela API; capa nova com o canhão e a bolsa de gás; playlists TODOS OS VIDEOS e SUBNAUTICA; studio.youtube.com/video/hQCvbXhPYFc/edit)",
    "responsavel": "Periscópio",
-   "falta_murilo": "classificar os anúncios no Studio",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2253,14 +2245,6 @@
    "etapa": "pauta, esperando você jogar o Creature Outcrops e gravar o áudio contando como foi, de 16/11 em diante, quando você voltar pra casa (o roteiro nasce do seu áudio; acima de 100 m só sai bicho manso, abaixo de 100 m pode sair qualquer criatura, então é chance, não toda vez)",
    "responsavel": "Arpão",
    "falta_murilo": "jogar o mod e gravar o áudio contando como foi",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-   "etapa": "edição, versão nova pronta pra você assistir (os seus 5 pontos: o filhote e o cara na água inteiros, as duas frases de volta com a sua voz gravada, sem regravar, o 's' de quilos inteiro, o fundo com moldura em todos os trechos que não enchem a tela; 2 min e 58; sai sáb 07/11 18h se aprovado)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar",
    "prazo": ""
   },
   {
@@ -2562,7 +2546,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
-   "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; o longo foi aprovado em 05/11 e sai seg 09/11, então este sai ter 10/11 18h; anúncios já classificados por você em 05/11)",
+   "etapa": "agendado no canal principal pra ter 10/11 às 18h (você programou em 07/11; conferido pela API; capa conferida; vídeo relacionado já é o longo dos 34 leviatãs; playlist VIDEOS CURTOS; studio.youtube.com/video/wGVF6ThIv9I/edit)",
    "responsavel": "Periscópio",
    "falta_murilo": "",
    "prazo": ""
@@ -3983,5 +3967,5 @@
    "nota": "escolheu B (07/11)"
   }
  ],
- "gerado_em": "2026-11-07T19:20-03:00"
+ "gerado_em": "2026-11-07T19:21-03:00"
 }
