@@ -2682,6 +2682,14 @@
    "prazo": ""
   },
   {
+   "tipo": "07/11 18h05",
+   "titulo": "**p137 #36 e #37 (Periscópio):** #37 `wGVF6ThIv9I` PRONTO PRO CLIQUE: assistente aberto na Visibilidade (aba 2 do Chrome mano), Do privado ao público, ter 10/11 18:00, sem erro, Programar ativo e sem clique; crianças Não; adequação já feita (p106); capa GPT 6 relida pela API (shortsAspectRatio difere 0,1). Relacionado segue o Gargantuan provisório: o #36 privado não aparece no seletor nem na busca; **trocar pro #36 na seg 09/11 depois das 12h (antes do #37 sair)**. Semana 09-15/11 só com o #37 (API). #36 `hQCvbXhPYFc` TRAVADO NA MONETIZAÇÃO (aba 1): a etapa Monetização está \"Desativada\" e por isso a etapa de Adequação nem aparece; é do Murilo (p121). Depois dele: eu ponho seg 09/11 12:00 com acesso antecipado de membros e paro no Programar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "07/11 15h30",
    "titulo": "~~**#43 TUBARÃO (principal): PRONTO NO STUDIO, PRIVADO, ESPERANDO O MURILO (Periscópio, 07/11 ~14h40 a 15h30).** `_aSy4jUW1ZY` (studio.youtube.com/video/_aSy4jUW1ZY/edit). Arquivo = o aprovado (id do Drive 1PpTjOhyTupFLPI9e8rWlkKd80VotdQyZ), portão de áudio APROVADO (-14,0 LUFS), 2:58. **17h52: horário trocado pra sáb 07/11 19:00** (pedido do Maestro, o Murilo não clicou até 17h50; janela 19-20h), pelo programar_data.sh, relido: 19:00, sem erro, Programar ativo e sem clique.~~ **FEITO: o Murilo programou às 17:55.** API: private, publishAt 2026-11-07T22:00:00Z (19h), não é pra crianças, capa = GPT 1 (maxres e standard batem); VIDEOS CURTOS posta depois do programar (posição 139); linha no ledger.",
    "etapa": "",
@@ -3947,5 +3955,5 @@
    "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
   }
  ],
- "gerado_em": "2026-11-07T17:57-03:00"
+ "gerado_em": "2026-11-07T18:01-03:00"
 }
