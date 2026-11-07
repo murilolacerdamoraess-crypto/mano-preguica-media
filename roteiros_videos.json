@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-07T04:12:10.877357Z",
+ "gerado_em": "2026-11-07T13:36:13.349308Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -28,6 +28,48 @@
    "motor": null,
    "versao": null,
    "fonte_yt": null
+  },
+  {
+   "arquivo": "corte-canal2-streamer-ghost-leviathan.md",
+   "name": "CORTE CANAL 2 · Esse streamer saiu do submarino pra encarar o Ghost",
+   "titulo_roteiro": "CORTE CANAL 2 · Esse streamer saiu do submarino pra encarar o Ghost",
+   "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "corte de streamer MP2 (fala curta do Murilo + live legendada), 60 a 65 s",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "qkgHrc1NZIQ"
+  },
+  {
+   "arquivo": "corte-canal2-streamer-leviata-subnautica-2.md",
+   "name": "CORTE CANAL 2 · Esse streamer entrou na boca de um leviatã",
+   "titulo_roteiro": "CORTE CANAL 2 · Esse streamer entrou na boca de um leviatã",
+   "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "corte de streamer MP2 (fala curta do Murilo + live legendada), 60 a 65 s",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "KXh5O-mF7_Y"
+  },
+  {
+   "arquivo": "corte-canal2-streamer-sea-dragon.md",
+   "name": "CORTE CANAL 2 · Esse streamer achou o esqueleto e depois o dono da mordida",
+   "titulo_roteiro": "CORTE CANAL 2 · Esse streamer achou o esqueleto e depois o dono da mordida",
+   "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
+   "status": "pronto-pra-gravar",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "corte de streamer MP2 (fala curta do Murilo + live legendada), 60 a 65 s",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "2laD_2RNeIk"
   },
   {
    "arquivo": "half-life-2-gritos-invertidos.md",
