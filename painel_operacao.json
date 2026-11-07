@@ -2049,26 +2049,10 @@
   },
   {
    "tipo": "Longo",
-   "titulo": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "etapa": "embalagem (você aprovou o vídeo em 05/11; já está no Studio como rascunho privado com título de trabalho, capa, descrição com capítulos, tags, legenda, 7 produtos, cards e tela final; sai seg 09/11 12h com acesso antecipado de membros, programado depois que você escolher o título)",
-   "responsavel": "Anzol",
-   "falta_murilo": "escolher o título (no Decidir) e classificar os anúncios no Studio",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título novo (v2) do longo dos 34 leviatãs, opção 1: Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo",
-   "etapa": "embalagem (refeito no seu ajuste de 06/11: a arma, todos os leviatãs e sem veículo; \"fez\" no lugar de \"inventou\" porque arremessar as bolsas com o canhão é coisa que o jogo já permite, e a ideia dele foi usar isso; recomendado, porque mantém o \"sem veículo\" que você escreveu)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título novo (v2) do longo dos 34 leviatãs, opção 2: Esse cara fez uma arma pra enfrentar todos os leviatãs do Subnautica a nado",
-   "etapa": "embalagem (a mesma ideia com o seu \"Esse cara\" e \"a nado\" no lugar de \"sem veículo\", pra caber em 75 letras)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
+   "titulo": "Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo",
+   "etapa": "embalagem (você aprovou o vídeo em 05/11; já está no Studio como rascunho privado com título de trabalho, capa, descrição com capítulos, tags, legenda, 7 produtos, cards e tela final; título aprovado por você em 06/11, o Periscópio troca o de trabalho no rascunho; sai seg 09/11 12h com acesso antecipado de membros)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "classificar os anúncios no Studio",
    "prazo": ""
   },
   {
@@ -2225,18 +2209,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Estão montando o Reaper do Subnautica em LEGO",
+   "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "etapa": "narração, texto no Gravar com 13 frases (versão 2 de 06/11, cortada pra uns 2:23 com o gancho que você manteve e o fecho honesto; aprovada por você em 04/11, no molde do Onix; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 30; saída: dom 08/11 18h no principal, plano da Bússola; depende da sua voz hoje à noite e da edição no sábado, se a voz não vier a Bússola move)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do Short do Reaper de LEGO: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "embalagem (o de trabalho caiu no ensaio: ele ainda está montando e o problema é a estante, não \"lugar nenhum\"; este segue o gancho que você manteve e o fim honesto)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -2545,18 +2521,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
+   "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
    "etapa": "pronto pra publicar (vídeo aprovado por você em 05/11; já está no Studio como rascunho sem data, com título, capa, descrição, tags e os 7 produtos; o vídeo relacionado está provisório no Gargantuan até o longo sair; sai depois do longo dos 34 leviatãs estar no ar, no mesmo dia mais tarde ou no dia seguinte, com o longo como vídeo relacionado; o longo foi aprovado em 05/11 e sai seg 09/11, então este sai ter 10/11 18h; anúncios já classificados por você em 05/11)",
    "responsavel": "Periscópio",
    "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título novo (v4) do Short da arma nova pro Reaper: Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
-   "etapa": "embalagem (com o longo virando \"fez uma arma pra enfrentar todos os leviatãs\", o título que você aprovou pro Short ficava quase igual ao do longo, e o Short vai com o longo de vídeo relacionado; este conta só o pedaço do Short, as bolsas de gás contra o Reaper; a capa com SEM VEÍCULO fica igual; se você preferir manter o antigo, reprove este)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título",
    "prazo": ""
   },
   {
@@ -2665,6 +2633,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "06/11 21h30",
+   "titulo": "**TROCAR TÍTULO de 2 rascunhos (Anzol), aprovados pelo Murilo no painel em 06/11 ~21h25. Pela API, sem mexer em data, visibilidade nem nada mais.** (1) #36 `hQCvbXhPYFc`: de \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\" pra **\"Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo\"**. (2) #37 `wGVF6ThIv9I`: de \"Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper\" pra **\"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\"**. Descrição, tags, capa e o resto ficam iguais. Depois, ler de volta o título que ficou e responder ao Anzol.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "05/11 noite",
    "titulo": "**#36 LONGO \"Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa\", canal principal: RASCUNHO PRIVADO PRONTO NO STUDIO, SEM DATA (Periscópio, 05/11 ~22h30).** `hQCvbXhPYFc` (studio.youtube.com/video/hQCvbXhPYFc/edit). Pacote do Anzol (roteiro-34-leviatas-sem-veiculo.md, Embalagem + Vitrine); vídeo v5 aprovado pelo Murilo 05/11 21:28.",
@@ -3412,7 +3388,8 @@
    "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "o_que": "assistir e aprovar ou pedir ajuste (canal 2; sai qui 12/11 18h se aprovado)",
    "onde": "Assistir",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-06T21:26-03:00"
   },
   {
    "id": "p113",
@@ -3430,8 +3407,9 @@
    "video": "Estão montando o Reaper do Subnautica em LEGO",
    "o_que": "Aprovar o título do Short do Reaper de LEGO: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-do-short-do-reaper-de-lego-esse-cara-ta-montando-o-reaper-do-subnautica-e:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-do-short-do-reaper-de-lego-esse-cara-ta-montando-o-reaper-do-subnautica-e:aprovar-este-titulo",
+   "fechada_em": "2026-11-06T21:26-03:00"
   },
   {
    "id": "p115",
@@ -3463,8 +3441,9 @@
    "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "o_que": "Aprovar o título novo do Short da arma pro Reaper, pra não ficar igual ao do longo: Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica; sai ter 10/11 18h",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo"
+   "status": "feita",
+   "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo",
+   "fechada_em": "2026-11-06T21:26-03:00"
   },
   {
    "id": "p118",
@@ -3576,5 +3555,5 @@
    "chave": "noiz-login-0711"
   }
  ],
- "gerado_em": "2026-11-06T21:25-03:00"
+ "gerado_em": "2026-11-06T21:26-03:00"
 }
