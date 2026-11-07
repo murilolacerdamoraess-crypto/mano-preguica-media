@@ -3858,6 +3858,48 @@
    ],
    "fechada_em": "2026-11-07T14:34-03:00",
    "nota": "aprovado no painel 07/11 14:2x"
+  },
+  {
+   "id": "p156",
+   "aberta_em": "2026-11-07T14:36-03:00",
+   "agente": "Arpão",
+   "video": "Em Subnautica, cada monstro tem o tamanho do seu medo (teste)",
+   "o_que": "gravar a voz das 17 frases",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:avulso_medo_tamanho_monstros"
+  },
+  {
+   "id": "p157",
+   "aberta_em": "2026-11-07T14:36-03:00",
+   "agente": "Arpão",
+   "video": "Sobreviva em 4546B, Dia 1: o ovo do deserto",
+   "o_que": "gravar a voz das 8 frases (é o primeiro episódio da série)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:serie_4546b_a1_dia1"
+  },
+  {
+   "id": "p158",
+   "aberta_em": "2026-11-07T14:36-03:00",
+   "agente": "Arpão",
+   "video": "Sobreviva em 4546B, Dia 2 se o voto der verde",
+   "o_que": "gravar a voz das 7 frases só se o voto do Dia 1 der verde",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:serie_4546b_a1_dia2_verde",
+   "grupo": "serie-4546b-a1-dia2"
+  },
+  {
+   "id": "p159",
+   "aberta_em": "2026-11-07T14:36-03:00",
+   "agente": "Arpão",
+   "video": "Sobreviva em 4546B, Dia 2 se o voto der vermelho",
+   "o_que": "gravar a voz das 8 frases só se o voto do Dia 1 der vermelho",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:serie_4546b_a1_dia2_vermelho",
+   "grupo": "serie-4546b-a1-dia2"
   }
  ],
  "gerado_em": "2026-11-07T14:36-03:00"
