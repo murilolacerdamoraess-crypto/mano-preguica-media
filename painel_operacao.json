@@ -3232,18 +3232,6 @@
    "nota": "texto acertado com a data de saída"
   },
   {
-   "id": "p94",
-   "aberta_em": "2026-11-04T13:14-03:00",
-   "agente": "Farol",
-   "video": "Ela zerou o Subnautica antes da Aurora explodir",
-   "o_que": "gravar a voz dos 138 trechos (versão nova de 04/11, uns 16 min; saída proposta: seg 16/11 às 18h)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "roteiro:roteiro-viscerface-antes-da-aurora.md@v5",
-   "fechada_em": "2026-11-05T13:54-03:00",
-   "nota": "Murilo engavetou o longo da Aurora em 05/11 ('pode engavetar'): 22 min de voz e 2 dias de edição não compensam; a história fica no Short da base inundada"
-  },
-  {
    "id": "p95",
    "aberta_em": "2026-11-04T13:33-03:00",
    "agente": "Arpão",
@@ -3853,5 +3841,5 @@
    "chave": "narracao:short_wakemaker"
   }
  ],
- "gerado_em": "2026-11-07T12:29-03:00"
+ "gerado_em": "2026-11-07T14:02-03:00"
 }
