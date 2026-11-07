@@ -3673,7 +3673,17 @@
    "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m",
    "fechada_em": "2026-11-07T01:04-03:00",
    "nota": "pediu ajuste: qualidade, lifepod, Aurora reconhecível, HUD limpo"
+  },
+  {
+   "id": "p136",
+   "aberta_em": "2026-11-07T01:12-03:00",
+   "agente": "Arpão",
+   "video": "Sobreviva em 4546B, arco 1 (série você decide)",
+   "o_que": "ler o arco 1 e aprovar ou pedir ajuste",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:serie-4546b-arco-1.md@v2"
   }
  ],
- "gerado_em": "2026-11-07T01:04-03:00"
+ "gerado_em": "2026-11-07T01:13-03:00"
 }
