@@ -3268,17 +3268,6 @@
    "nota": "sai da lista até chegar a vez: uma sessão de gravar por vez, na ordem Void, 10 mil metros, mods que dão ansiedade, mods de 2026 (regra 5 do caderno de desafios)"
   },
   {
-   "id": "p99",
-   "aberta_em": "2026-11-04T16:52-03:00",
-   "agente": "Tesoura",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "assistir a versão 1 (a voz que você gravou hoje) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "fechada_em": "2026-11-05T05:05-03:00",
-   "nota": "ele pediu ajuste na v1 (04/11: mais de 3 min, o mesmo Reaper repetido, a arma antes da explicação, tudo no topo); a v2 foi entregue em 05/11 05h03"
-  },
-  {
    "id": "p100",
    "aberta_em": "2026-11-04T23:20-03:00",
    "agente": "Farol",
@@ -3831,5 +3820,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-07T02:14-03:00"
+ "gerado_em": "2026-11-07T05:06-03:00"
 }
