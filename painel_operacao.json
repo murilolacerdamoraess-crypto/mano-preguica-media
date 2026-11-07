@@ -3178,7 +3178,8 @@
    "o_que": "aprovar o plano e gravar a sessão de ~1h30 pelo roteiro de 10 passos (conhecimentos/longo-guia-mods-2026.md). O Farol sugere o multiplayer (Nitrox, roda na versão atual) no fim e tira o Socknautica (só roda na versão antiga). Confirmar também que o 'SEmarine' do Short é o Seal Submarine. Só quando você voltar pra casa, a partir de 16/11",
    "onde": "Gravar",
    "status": "aberta",
-   "chave": "r42:sessao-gravacao"
+   "chave": "r42:sessao-gravacao",
+   "jogando": true
   },
   {
    "id": "p87",
@@ -3241,7 +3242,8 @@
    "video": "Esses mods do Subnautica dão ansiedade de verdade",
    "o_que": "instalar e testar os 4 mods (lista do Sonar em conhecimentos/instalar-mods-ansiedade.md), gravar a sessão de 1h30 a 2h seguindo o plano (conhecimentos/longo-mods-ansiedade.md) e depois gravar um áudio de 5 a 15 min contando como foi. Só quando você voltar pra casa, a partir de 16/11, depois do Void",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "aberta",
+   "jogando": true
   },
   {
    "id": "p99",
@@ -3309,7 +3311,8 @@
    "o_que": "gravar a sessão de 1h a 1h30 jogando e comentando ao vivo, e depois um áudio de 5 a 15 min contando como foi. Num save de Sobrevivência separado, sem mod, com os veículos pelo console (Shift + Enter) e o F1 ligado pra mostrar a posição, sair reto pro leste e tentar chegar aos 4.000 m, onde os Ghosts desistem: a nado, de Seamoth, de Prawn Suit e de Cyclops, salvando na borda antes de cada tentativa. Se passar, o bônus é ir até os 8.192 m, onde o jogo te teleporta de volta. O passo a passo está na nota do desafio do Void no cérebro. Você está fora de casa até 15 ou 16/11, então fica pra quando voltar: gravar de seg 16 a qua 18/11, pra sair seg 30/11 às 18h",
    "onde": "Gravar",
    "status": "aberta",
-   "chave": "gravar:desafio-fim-do-void"
+   "chave": "gravar:desafio-fim-do-void",
+   "jogando": true
   },
   {
    "id": "p105",
@@ -3318,7 +3321,8 @@
    "video": "Esse mod do Subnautica pode soltar um Reaper quando você quebra uma pedra",
    "o_que": "jogar o mod Creature Outcrops e gravar um áudio contando como foi (o roteiro nasce do seu áudio)",
    "onde": "Gravar",
-   "status": "aberta"
+   "status": "aberta",
+   "jogando": true
   },
   {
    "id": "p106",
@@ -3338,7 +3342,8 @@
    "video": "Afundei o Subnautica 10 mil metros",
    "o_que": "no PC Windows, abrir o Claude e pedir 'o que tem na fila de produção' pra rodar o teste do mod dos 10 mil metros (uns 15 min; usa um save de teste, nunca o seu)",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "aberta",
+   "jogando": true
   },
   {
    "id": "p108",
@@ -3644,5 +3649,5 @@
    "nota": "programou em 06/11; publishAt 2026-11-12T21:00Z conferido pela API; capa conferida no Studio"
   }
  ],
- "gerado_em": "2026-11-06T23:20-03:00"
+ "gerado_em": "2026-11-06T23:25-03:00"
 }
