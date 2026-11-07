@@ -3969,7 +3969,17 @@
    ],
    "fechada_em": "2026-11-07T19:19-03:00",
    "nota": "escolheu B (07/11)"
+  },
+  {
+   "id": "p164",
+   "aberta_em": "2026-11-07T19:39-03:00",
+   "agente": "Arpão",
+   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava (explicação biológica)",
+   "o_que": "ler o roteiro da bateria que some na zona de lava e aprovar ou pedir ajuste",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "roteiro:short-subnautica-bateria-some-na-lava.md"
   }
  ],
- "gerado_em": "2026-11-07T19:23-03:00"
+ "gerado_em": "2026-11-07T19:40-03:00"
 }
