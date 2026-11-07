@@ -590,7 +590,7 @@
    "titulo": "O Short de ajuste passa pelas mesmas checagens em código do Crivo antes de ir pra ele, e a distância da borda vira checagem.",
    "onde": "skill `edicao-video` (Entrega de ajuste) e `crivo/longo_inteiro.py`.",
    "confianca": "forte na causa (está escrito \"no longo\" na skill); fraca no ganho, que se mede no relatório da edição de segunda.",
-   "status": "aguardando",
+   "status": "aplicada 2026-11-06 (APROVADA pelo Murilo em 06/11; skill edicao-video, lista \"Antes de entregar\" da R57, pelo Sextante; a margem de borda no `longo_inteiro.py` pedida ao Crivo)",
    "simples": "antes de mandar o Short pro Crivo, a própria edição roda as mesmas conferências automáticas que ele roda, e a distância da borda passa a ser medida pela máquina. No Short da arma nova, isso teria evitado a maior parte das 5 devoluções e das 7 horas da versão 2."
   },
   {
@@ -614,7 +614,7 @@
    "titulo": "Meta: o canal principal publica 3 Shorts por semana e tem sempre 7 dias de Shorts agendados à frente.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 2, seção completa como a meta 1).",
    "confianca": "forte no número de hoje; o alvo é o degrau 1 que ele mesmo pediu (16/10: \"1 vídeo curto por dia\").",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-06 (meta 2 do plano-de-metas; resposta levada à Bússola)",
    "simples": "a meta é o canal principal ter 3 Shorts no ar toda semana e sempre uma semana inteira de Shorts já agendada. Hoje tem 1 agendado (o Reaper de sexta); o alvo é chegar lá na semana de 16/11 e ficar 2 semanas seguidas, aproveitando que até lá você grava só voz."
   },
   {
@@ -622,7 +622,7 @@
    "titulo": "Meta: Short editado em até 4 horas e com no máximo 1 ajuste seu.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 3); medida no relatório da edição de segunda (`dados/relatorio_edicao.py`).",
    "confianca": "forte na linha de base (8 Shorts); horas só de 1 Short até agora.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-06 (meta 3; medida no `relatorio_edicao.py` de segunda; resposta levada à Bússola)",
    "simples": "cada Short sai da edição em até 4 horas de máquina e você pede no máximo 1 ajuste. Hoje o Short da arma nova levou 7 horas e você apontou 8 coisas; o alvo é 3 Shorts seguidos dentro disso até 30/11."
   },
   {
@@ -630,7 +630,7 @@
    "titulo": "Meta: longo editado em até 2 dias e no máximo 2 rodadas suas.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 4).",
    "confianca": "fraca (2 longos de base).",
-   "status": "aguardando",
+   "status": "reprovada 2026-11-06. Murilo: \"não vamos fazer mais longos nesse estilo\". O longo contado em cima da gameplay de outra pessoa acabou (C95); o longo do principal é desafio gravado por ele, com edição leve. Não propor meta de longo antes do 1º desafio gravado ser editado (depois de 16/11).",
    "simples": "um longo fica pronto em até 2 dias depois da primeira versão, com no máximo 2 rodadas de ajuste suas. O dos 34 leviatãs já está em 5 dias e 3 rodadas; o alvo vale a partir da Aurora, o próximo longo."
   },
   {
@@ -638,7 +638,7 @@
    "titulo": "Meta: até 30 minutos do seu tempo por Short, somando gravar e revisar.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 5); medida no número 4 dos quatro números de segunda.",
    "confianca": "fraca (estimativa pelos horários de gravação e decisão, 1 semana).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-06 (meta 5; medida no número 4 dos quatro números de segunda, pelo Sextante; resposta levada à Bússola)",
    "simples": "cada Short custa no máximo meia hora sua, juntando a gravação e as revisões. Na semana de 26/10 foram uns 79 minutos por Short; o alvo é 30 até 30/11."
   },
   {
@@ -646,7 +646,7 @@
    "titulo": "Meta: receita do mês acima do custo, com novembro em pelo menos US$ 300 e dezembro em pelo menos US$ 400.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 6).",
    "confianca": "forte no número; o começo de novembro está abaixo do ritmo de outubro (só 2 dias, sinal fraco).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-06 (meta 6; resposta levada à Bússola)",
    "simples": "o canal paga o próprio custo com folga: pelo menos 300 dólares em novembro e 400 em dezembro, o dobro do que a operação custa. Outubro deu uns 225 no YouTube mais o TikTok; os primeiros 2 dias de novembro vieram mais fracos que a média de outubro."
   },
   {
@@ -654,7 +654,7 @@
    "titulo": "Meta: o canal 2 volta a ter 3 Shorts de jornada por semana e, a partir de 16/11, 7 dias agendados à frente.",
    "onde": "`conhecimentos/plano-de-metas.md` (meta 7). O \"nenhum dia vazio\" (Meta 0) já é diretriz dele e não passa pelo Decidir.",
    "confianca": "forte no número de hoje; o ritmo de 3 de jornada por semana já é a R38 (30/10).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-06 (meta 7; resposta levada à Bússola, que leva ao Leme)",
    "simples": "no canal 2, que deu uns 80 dólares em outubro, voltam os 3 Shorts por semana já na semana de 09/11 (o PS2 portátil, o FNAF e o Octopus) e, a partir de 16/11, sempre uma semana inteira agendada. Hoje o canal 2 tem só 1 vídeo agendado pros próximos 7 dias e nenhum episódio do PokéBonk guardado; a série volta com 1 por semana a partir de 23/11 se você quiser gravar."
   },
   {
@@ -662,7 +662,7 @@
    "titulo": "O PokéBonk de 1 hora sai do canal 2; o próximo episódio sai cortado em 15 a 20 minutos.",
    "onde": "`conhecimentos/registro-de-formatos.md` (Série PokéBonk) e `conhecimentos/caderno-de-testes.md` (T2 fecha, T5 entra). O formato de 15 a 20 min já é a R40, aprovada em 30/10.",
    "confianca": "forte (regra escrita antes, 3 episódios, todos longe dos 1.709 que fariam a série seguir).",
-   "status": "aguardando",
+   "status": "reprovada 2026-11-06. Murilo: \"como eu ja disse eu ja ia jogar pq não gravar e postar?\". O PokéBonk que ele já ia jogar custa zero dele: segue gravado e postado inteiro no canal 2, e views baixas não aposentam a série (C8). O T2 fecha sem corte.",
    "simples": "o PokéBonk de 1 hora não pegou no canal 2: os 3 últimos ficaram entre 107 e 323 views em 2 dias, e quem entra assiste uns 3 a 6% do vídeo. A proposta é parar com o de 1 hora e, quando você voltar a gravar, a edição cortar a run em 15 a 20 minutos (escolha do Pokémon, viradas e a luta com o lendário)."
   },
   {
@@ -670,7 +670,7 @@
    "titulo": "A frase do roteiro não pode dizer mais do que a fonte diz: \"toda vez\", \"o único\", \"nunca\" e o que a pessoa sentiu só entram se a fonte disser.",
    "onde": "`crivo/roteiro_frases.py` e a tabela de fontes da skill `shorts-roteirista`.",
    "confianca": "forte no padrão (4 de 5 pontos em 24 h, 2 roteiristas diferentes); fraca no ganho, que se mede nas devoluções da próxima semana.",
-   "status": "aguardando",
+   "status": "retirada 2026-11-06 (reprovada). Murilo: \"nem sei pq esses videos eu nem desenvolvi da pra deletar essa regra talvez\". A prova eram roteiros que o Crivo barrou antes de chegarem nele (C96). Não propor de novo.",
    "simples": "o roteiro passa a ser barrado quando aumenta o que o vídeo original disse, como transformar um caso em \"toda vez\" ou \"provavelmente a mais forte\" em \"a única\". Na Aurora e na mão do Hulk foram 4 frases assim num dia só, e quem pegou foi a revisão no olho, depois de o roteiro já estar pronto."
   },
   {
@@ -678,8 +678,16 @@
    "titulo": "Na sua lista de pendências, o que precisa do PC fica separado até você voltar pra casa, e o que dá pra fazer só com a voz aparece primeiro.",
    "onde": "`operacao-maestri/pendencia.py` e a tela de pendências do painel.",
    "confianca": "forte no problema (5 de 13 hoje); fraca no ganho.",
-   "status": "aguardando",
+   "status": "reprovada 2026-11-06. Murilo: \"eu só n consigo jogar mas todo o processo é feito pelo mac por isso que eu sempre quis deixar as coisas no mac\". Refeita na R86 pela fala dele (C97).",
    "simples": "enquanto você estiver fora, a sua lista mostra em cima só o que dá pra fazer com a voz (gravar e assistir), e o que precisa do PC fica guardado num bloco \"quando você voltar\". Hoje são 13 pendências, e 5 delas você não consegue fazer antes de 16/11."
+  },
+  {
+   "id": "R86",
+   "titulo": "Na sua lista, só o que pede você jogando fica guardado num bloco \"quando você voltar\"; todo o resto continua em cima.",
+   "onde": "`operacao-maestri/pendencia.py` e a tela de pendências do painel.",
+   "confianca": "forte no problema (5 de 20 abertas pedem jogar); fraca no ganho.",
+   "status": "aguardando",
+   "simples": "enquanto você estiver fora, só o que pede você jogando (os 4 mods, a sessão do guia de mods, o desafio do Void, o Creature Outcrops e o teste dos 10 mil metros) fica guardado num bloco \"quando você voltar\". Todo o resto continua em cima, porque gravar, assistir e decidir você faz pelo Mac e pelo celular."
   }
  ],
  "equipe": [
@@ -3622,5 +3630,5 @@
    "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
   }
  ],
- "gerado_em": "2026-11-06T21:55-03:00"
+ "gerado_em": "2026-11-06T21:57-03:00"
 }
