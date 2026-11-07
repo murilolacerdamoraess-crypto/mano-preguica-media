@@ -3621,15 +3621,17 @@
    "video": "Série Sobreviva em 4546B (teste de estilo)",
    "o_que": "ver a preguiça e a primeira pessoa refeitas e escolher a câmera (A, B ou C pra preguiça, D pra primeira pessoa), ou desistir da preguiça",
    "onde": "Assistir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "video:1jTWsOY-gmrgNtFTuS9W6O8ZwtpfPNAch",
    "opcoes": [
     "Preguiça A (vinil fosco)",
     "Preguiça B (pelúcia)",
     "Preguiça C (facetada)",
     "Primeira pessoa (D)"
-   ]
+   ],
+   "fechada_em": "2026-11-06T23:05-03:00",
+   "nota": "preguiça B (pelúcia); primeira pessoa descartada"
   }
  ],
- "gerado_em": "2026-11-06T23:04-03:00"
+ "gerado_em": "2026-11-06T23:06-03:00"
 }
