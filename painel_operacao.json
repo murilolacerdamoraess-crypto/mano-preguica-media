@@ -3669,9 +3669,11 @@
    "video": "Série Sobreviva em 4546B (piloto animado)",
    "o_que": "ver o piloto animado de 15 s (a preguiça de pelúcia no Dia 1: acorda na cápsula, mergulha, o ovo, o Reaper e o voto) e dizer se o estilo e o movimento servem pra fazer o episódio inteiro",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m"
+   "status": "feita",
+   "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m",
+   "fechada_em": "2026-11-07T01:04-03:00",
+   "nota": "pediu ajuste: qualidade, lifepod, Aurora reconhecível, HUD limpo"
   }
  ],
- "gerado_em": "2026-11-07T00:11-03:00"
+ "gerado_em": "2026-11-07T01:04-03:00"
 }
