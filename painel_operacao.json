@@ -694,7 +694,7 @@
    "titulo": "Antes de ir pro Decidir, toda regra é conferida contra o que o Murilo já decidiu e contra os vídeos que ele viu.",
    "onde": "role analise.md, item 2, e o role da Bússola na parte de metas.",
    "confianca": "forte no problema (3 de 4 reprovações numa leva); fraca no ganho (ainda sem teste: rodar na leva de 06/11 e ver se o subagente pega R83, R79 e R84).",
-   "status": "aguardando",
+   "status": "aplicada 2026-11-07 (aprovada pelo Murilo 07/11 14:37; pelo Prumo, a pedido do Maestro: item 2 do role analise.md, item 4 do role metas.md da Bússola e o \"Como funciona\" deste arquivo; proposta nova leva a linha \"Conferência cega:\")",
    "simples": "antes de uma regra chegar pra você, alguém que não escreveu ela confere se ela vai contra algo que você já decidiu ou se usa como prova um vídeo que você nem viu. Na última leva, isso teria segurado 3 das 4 que você reprovou, como a do PokéBonk de 1 hora, que você já tinha respondido em outubro."
   },
   {
@@ -702,7 +702,7 @@
    "titulo": "Frase que começa com \"ele\" ou \"ela\" e não fala do personagem principal reprova, mesmo com o nome na frase de antes.",
    "onde": "`operacao-maestri/crivo/roteiro_frases.py` (V45 do crivo-checklist).",
    "confianca": "forte no problema (4 casos em 2 dias); fraca no quanto o código novo reprova nos aprovados (ainda não medido).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-07 (Murilo 07/11 14:37); pedida ao Crivo pelo Prumo no mesmo dia, com o teste da R65 antes de ligar (série v5 38ef4038 tem de reprovar; Shorts aprovados de 05/11 pra cá têm de passar; se aprovado reprovar, vira aviso)",
    "simples": "no Gravar você vê uma frase por vez, então \"Mas toda vez que ele te mordia\" chega sem dizer quem é \"ele\". A máquina passa a barrar essa frase e pedir o nome (\"quando o Reaper te mordia\"), em vez de aceitar porque o nome estava na frase anterior."
   }
  ],
@@ -3938,5 +3938,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-07T14:40-03:00"
+ "gerado_em": "2026-11-07T14:46-03:00"
 }
