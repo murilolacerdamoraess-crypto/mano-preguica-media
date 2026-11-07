@@ -3647,7 +3647,17 @@
    "status": "feita",
    "fechada_em": "2026-11-06T23:19-03:00",
    "nota": "programou em 06/11; publishAt 2026-11-12T21:00Z conferido pela API; capa conferida no Studio"
+  },
+  {
+   "id": "p135",
+   "aberta_em": "2026-11-06T23:33-03:00",
+   "agente": "Lente",
+   "video": "Série Sobreviva em 4546B (piloto animado)",
+   "o_que": "ver o piloto animado de 15 s (a preguiça de pelúcia no Dia 1: acorda na cápsula, mergulha, o ovo, o Reaper e o voto) e dizer se o estilo e o movimento servem pra fazer o episódio inteiro",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1Wlo1iUxLFJZmLA0Nu-x-xi6eJieXzX1m"
   }
  ],
- "gerado_em": "2026-11-06T23:25-03:00"
+ "gerado_em": "2026-11-06T23:34-03:00"
 }
