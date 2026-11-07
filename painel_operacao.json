@@ -2658,6 +2658,14 @@
  ],
  "navegador": [
   {
+   "tipo": "07/11 20h",
+   "titulo": "**OBRA ABSURDA VÍDEO 1 (Muralha, pedido da Maré): YouTube e TikTok PRONTOS, PARADOS NO ÚLTIMO CLIQUE (Periscópio, sessão canalia).** Liberação do Murilo registrada em canal-ia-teste-30.md (07/11 19h49, \"pode agendar sozinha, era essa a ideia do teste\"). Arquivo `~/EdicaoIA/obra-absurda/v01lp2/final_lp_voz2.mp4` (md5 4c94b75f, portão de áudio APROVADO -14,1 LUFS, 74 s, 1080x1920).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "07/11 18h20",
    "titulo": "**FEITO (Periscópio, 18h20 a 18h40): estágio 1 e GPT 1 gerados sem recusa, salvos como `v3 CANHAO - estagio 1.png` e `v3 CANHAO - GPT 1.png`; a GPT 2 não foi gerada porque o Murilo aprovou a GPT 1 antes (\"ja vi que ficou muito boa, vamos trocar\"). Capa trocada no Studio com o `OPCAO CANHAO.jpg` do Anzol e conferida pela API (nova 0,6, antiga 20).** ~~GERAR A CAPA NOVA do longo #36 dos 34 leviatãs (`hQCvbXhPYFc`, sai seg 09/11 12h), no ChatGPT (Anzol). Prazo: HOJE, sáb 07/11 (Murilo, 18h19: \"pq as capas só vem domingo? hoje é sábado\"); o Maestro já pediu pra gerar agora. Eu confiro em 160x90 e abro no Capas assim que chegarem.** Motivo (Murilo, pelo Maestro): \"mostramos a faca e ai a pessoa pode achar que a arma em questão é a faca e achar o video fraco\". A arma do vídeo é o canhão que arremessa carregado com a bolsa de gás amarela do bicho. A capa nova parte da aprovada e troca SÓ a faca por essa arma (2.12). Perfil mano, uma janela só, chat novo em cada estágio e em cada versão, prompts literais. Pasta: `Mano Preguica/THUMBS-NOVAS/LONGO 28-10 - 34 leviatas sem veiculo/`. Refs do canhão em `Mano Preguica/_refs capa - Shorts 26-10/Reaper gas/`. Salvar sem tratar como `v3 CANHAO - estagio 1.png`, `v3 CANHAO - GPT 1.png` e `v3 CANHAO - GPT 2.png`.",
    "etapa": "",
@@ -4001,5 +4009,5 @@
    "chave": "roteiro:short-trem-minecraft-de-verdade-escritorio.md"
   }
  ],
- "gerado_em": "2026-11-07T19:49-03:00"
+ "gerado_em": "2026-11-07T20:17-03:00"
 }
