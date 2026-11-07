@@ -3783,12 +3783,14 @@
    "video": "Voz do Obra Absurda (A Muralha da China tem cola de arroz)",
    "o_que": "ouvir o arroz antes e depois e dizer se a voz nova ficou natural (canal Obra Absurda, não é do Mano)",
    "onde": "Assistir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "video:1RqXL0kad73jlRpIRfWYTd22UWgNCczk4",
    "opcoes": [
     "Ficou natural",
     "Ainda estranho"
-   ]
+   ],
+   "fechada_em": "2026-11-07T12:28-03:00",
+   "nota": "Ficou natural (07/11 12:09)"
   },
   {
    "id": "p149",
@@ -3851,5 +3853,5 @@
    "chave": "narracao:short_wakemaker"
   }
  ],
- "gerado_em": "2026-11-07T12:10-03:00"
+ "gerado_em": "2026-11-07T12:29-03:00"
 }
