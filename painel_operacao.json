@@ -3604,8 +3604,10 @@
    "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
    "o_que": "ouvir a comparação e escolher a trilha A ou a B",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1D_TjvqyFCVkOnfZESCcvDxhfmrY2sdNE"
+   "status": "feita",
+   "chave": "video:1D_TjvqyFCVkOnfZESCcvDxhfmrY2sdNE",
+   "fechada_em": "2026-11-06T21:52-03:00",
+   "nota": "trilha B: mais condizente"
   },
   {
    "id": "p132",
@@ -3618,5 +3620,5 @@
    "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
   }
  ],
- "gerado_em": "2026-11-06T21:45-03:00"
+ "gerado_em": "2026-11-06T21:52-03:00"
 }
