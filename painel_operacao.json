@@ -2536,6 +2536,14 @@
    "prazo": ""
   },
   {
+   "tipo": "Short",
+   "titulo": "Sobreviva em 4546B, Dia 1 (Você acordou no deserto do Subnautica e tem um ovo lá embaixo)",
+   "etapa": "edição (ordem pronta em 07/11: cenas 3D com a preguiça de pelúcia, a cápsula, a Aurora e o HUD limpo do piloto; Dia 1 até seg 09/11, os dois Dias 2 até ter 10/11; estreia qua 11/11 no mais cedo)",
+   "responsavel": "Lente",
+   "falta_murilo": "escolher quem narra a série, a sua voz pelo Gravar ou a voz de IA",
+   "prazo": ""
+  },
+  {
    "tipo": "Tarefa",
    "titulo": "Teste de voz de IA pra substituir o ElevenLabs (canal novo de IA e Short sem voz)",
    "etapa": "edição (decidido por você em 06/11: vozes H, I e J aprovadas em rodízio, G de reserva, F reprovada, e o ajuste de médios e graves aplicado nas três; em uso no Obra Absurda. Toda voz nova passa no teste de pronúncia antes de montar)",
@@ -3843,5 +3851,5 @@
    "chave": "narracao:short_wakemaker"
   }
  ],
- "gerado_em": "2026-11-07T12:09-03:00"
+ "gerado_em": "2026-11-07T12:10-03:00"
 }
