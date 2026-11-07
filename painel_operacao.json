@@ -2650,8 +2650,8 @@
  ],
  "navegador": [
   {
-   "tipo": "06/11 21h50",
-   "titulo": "**GERAR A CAPA do Short do traje de FNAF (#44, canal 2), no ChatGPT (Anzol). Vídeo aprovado pelo Murilo em 06/11; sai qui 12/11 18h.** Refs em `Mano Preguica/_refs capa - Shorts 26-10/FNAF traje/`. 2 versões do estágio 2, chat novo em cada estágio. Salvar como `CAPA FNAF - GPT 1.png`, `GPT 2.png` na mesma pasta, sem tratar, e me avisar (eu confiro e mando pro quadro 0).",
+   "tipo": "",
+   "titulo": "~~[06/11 21h50] GERAR A CAPA do Short do traje de FNAF~~ **FEITO (Periscópio, 06/11 ~22h10), sem recusa:** `CAPA FNAF - GPT 1.png` (916x1717) e `GPT 2.png` (941x1672) na pasta de refs, sem tratar; também ficou `CAPA FNAF - estagio 1 (base limpa).png` (1672x941, sem as manchas verdes e os fios). ChatGPT perfil mano, chat novo em cada estágio e em cada versão, prompts literais. Conferido: VAI FECHAR certo nas duas, torso transparente com costelas, sem sangue. Pra conferir: nas duas o urso ganhou a cartola da REF 2 (no topo, encostando na borda); na 1 as lâminas quase não aparecem (só hastes e tela), na 2 as lâminas abertas aparecem como placas de metal em volta do torso; as letras ficam ao lado da cabeça, mas \"em pé no piso\" é discutível nas duas. Navegador fechado, pgrep 0.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3254,17 +3254,6 @@
    "status": "aberta"
   },
   {
-   "id": "p97",
-   "aberta_em": "2026-11-04T13:39-03:00",
-   "agente": "Anzol",
-   "video": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
-   "o_que": "aprovar o título do Short do Wakemaker",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-do-short-do-wakemaker-esse-cara-construiu-o-wakemaker-do-subnautica-2-de-:aprovar-este-titulo",
-   "fechada_em": "2026-11-04T22:01-03:00"
-  },
-  {
    "id": "p99",
    "aberta_em": "2026-11-04T16:52-03:00",
    "agente": "Tesoura",
@@ -3630,5 +3619,5 @@
    "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2"
   }
  ],
- "gerado_em": "2026-11-06T21:57-03:00"
+ "gerado_em": "2026-11-06T22:02-03:00"
 }
