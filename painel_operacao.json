@@ -2659,7 +2659,7 @@
  "navegador": [
   {
    "tipo": "07/11 20h",
-   "titulo": "**OBRA ABSURDA VÍDEO 1 (Muralha, pedido da Maré): YouTube e TikTok PRONTOS, PARADOS NO ÚLTIMO CLIQUE (Periscópio, sessão canalia).** Liberação do Murilo registrada em canal-ia-teste-30.md (07/11 19h49, \"pode agendar sozinha, era essa a ideia do teste\"). Arquivo `~/EdicaoIA/obra-absurda/v01lp2/final_lp_voz2.mp4` (md5 4c94b75f, portão de áudio APROVADO -14,1 LUFS, 74 s, 1080x1920).",
+   "titulo": "**FEITO 21h30: o Murilo autorizou na minha sessão (\"eu autorizo\") e eu cliquei. YouTube i-8VWmpuEEo \"Programado, 8 de nov. de 2026\" às 18:00 (lista do Studio); TikTok agendado \"8 de nov, 18:00 (GMT-3) São Paulo\", Todos (lista de conteúdo). p167 fechada.** ~~OBRA ABSURDA VÍDEO 1 (Muralha, pedido da Maré): YouTube e TikTok PRONTOS, PARADOS NO ÚLTIMO CLIQUE (Periscópio, sessão canalia).~~ Liberação do Murilo registrada em canal-ia-teste-30.md (07/11 19h49, \"pode agendar sozinha, era essa a ideia do teste\"). Arquivo `~/EdicaoIA/obra-absurda/v01lp2/final_lp_voz2.mp4` (md5 4c94b75f, portão de áudio APROVADO -14,1 LUFS, 74 s, 1080x1920).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3993,8 +3993,10 @@
    "video": "Obra Absurda, vídeo 1: A Muralha da China tem cola de arroz",
    "o_que": "2 cliques pra agendar o vídeo 1 do canal (preenchido pelo Periscópio, sai 08/11 18h00): no Chrome do perfil canal-ia, aba t1 YouTube = Programar; t2 TikTok = Agendar. Não feche a aba do TikTok antes do clique. O vídeo 2 (Itaipu, abas t3 e t4) NÃO agenda: está voltando pra ajuste da cena de 0:27",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-07T21:30-03:00",
+   "nota": "ele autorizou na sessão do Periscópio (\"eu autorizo\"); os 2 cliques feitos pelo Periscópio: YouTube i-8VWmpuEEo Programado 8 de nov. 18:00 (lista do Studio) e TikTok agendado 8 de nov 18:00 (GMT-3), conferidos na tela"
   }
  ],
- "gerado_em": "2026-11-07T21:43-03:00"
+ "gerado_em": "2026-11-07T22:23-03:00"
 }
