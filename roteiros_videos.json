@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-08T03:18:02.401544Z",
+ "gerado_em": "2026-11-08T14:34:43.189921Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -748,7 +748,7 @@
    "name": "SHORT - Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
    "titulo_roteiro": "SHORT: o item proibido da cápsula do tempo",
    "description": "Short de cápsula do tempo (pauta P69 do Sonar, das pautas de cápsulas do Farol, 19/10). Versão 4 (07/11) no ângulo do Murilo, a mecânica escondida. Abre na lista de itens proibidos da cápsula do tempo, que pouca gente sa",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 4) desde 07/11; APROVADO PELO CRIVO em 07/11 (0f2c2f09), mais a troca do ensaio de 2 leituras",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 4) desde 07/11; APROVADO PELO CRIVO em 07/11 (0f2c2f09) e de novo em 08/11 pela R89, com as 3 trocas do ensaio (157998a6)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
