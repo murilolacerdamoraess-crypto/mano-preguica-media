@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-11-07T14:02:10.526532-03:00",
+ "gerado_em": "2026-11-07T21:21:56.433068-03:00",
  "mes": {
-  "postados": 5,
+  "postados": 6,
   "teto": 93,
-  "folga": 88
+  "folga": 87
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 17,
-   "ultimo_post": "2026-11-06",
-   "dias_parado": 1,
+   "na_fila": 18,
+   "ultimo_post": "2026-11-07",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "PBw5xlifJpM",
-     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo",
-     "quando": "2026-11-07T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
@@ -59,6 +53,10 @@
      "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts"
     },
     {
+     "video_id": "_aSy4jUW1ZY",
+     "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts"
+    },
+    {
      "video_id": "uC_EOBxYQ0I",
      "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
     }
@@ -69,14 +67,14 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 20,
-   "ultimo_post": "2026-11-06",
-   "dias_parado": 1,
+   "ultimo_post": "2026-11-07",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "qV_Zq6Eb40k",
-     "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts",
+     "video_id": "_aSy4jUW1ZY",
+     "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts",
      "quando": "2026-11-07T21:30:00-03:00"
     },
     {
@@ -147,8 +145,8 @@
    ],
    "proximos_da_fila": [
     {
-     "video_id": "qV_Zq6Eb40k",
-     "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #shorts"
+     "video_id": "_aSy4jUW1ZY",
+     "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts"
     },
     {
      "video_id": "GzZE02iibIA",
@@ -164,7 +162,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 51,
+   "na_fila": 52,
    "ultimo_post": "2026-11-04",
    "dias_parado": 3,
    "parado": false,
