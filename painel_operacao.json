@@ -3427,18 +3427,6 @@
    "jogando": true
   },
   {
-   "id": "p111",
-   "aberta_em": "2026-11-05T21:48-03:00",
-   "agente": "Anzol",
-   "video": "Ele caçou os 34 leviatãs do Subnautica sem nenhum veículo, e um fugiu do mapa",
-   "o_que": "aprovar o título do longo dos 34 leviatãs (ou escolher uma das outras 2 opções); sai seg 09/11",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "peca:titulo-do-longo-dos-34-leviatas-ele-cacou-os-34-leviatas-do-subnautica-sem-nenhu:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T11:30-03:00",
-   "nota": "ajuste do Murilo em 06/11 11:08; v2 com 2 opções no Decidir"
-  },
-  {
    "id": "p112",
    "aberta_em": "2026-11-06T01:58-03:00",
    "agente": "Tesoura",
@@ -4187,5 +4175,5 @@
    "nota": "Aprovado pelo Murilo no chat (08/11 ~09h40)"
   }
  ],
- "gerado_em": "2026-11-08T11:29-03:00"
+ "gerado_em": "2026-11-08T11:31-03:00"
 }
