@@ -4173,7 +4173,16 @@
    "chave": "video:1TC_Yga3NslR5lnRT54dzsgLvI0hupG-W",
    "fechada_em": "2026-11-08T09:32-03:00",
    "nota": "Aprovado pelo Murilo no chat (08/11 ~09h40)"
+  },
+  {
+   "id": "p175",
+   "aberta_em": "2026-11-08T12:05-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 4: o Canal do Panamá levanta o navio com água",
+   "o_que": "fechar o Chrome e o VS Code por uns 15 min e avisar o Maestro: é o que falta pra música do vídeo 4 sair (a memória do Mac não aguenta com eles abertos); depois pode abrir de novo",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-08T11:35-03:00"
+ "gerado_em": "2026-11-08T12:05-03:00"
 }
