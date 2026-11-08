@@ -4047,8 +4047,10 @@
    "video": "Obra Absurda, vídeo 1 v3: A Muralha da China tem cola de arroz",
    "o_que": "assistir a versão nova do primeiro vídeo (74 s) com os seus ajustes: o construtor da cal agora olha a parede (o boneco ganhou rosto e um teste que reprova boneco de costas), a legenda em caixa normal e menor, sem o título junto da legenda e com bem menos texto na tela; já passou no Crivo. Se aprovar, ele é agendado pras 18h do dia seguinte; se tiver ajuste, escreva no campo",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1YrOLNQueaBNxyMdQFRlqFzVtturH2rZo"
+   "status": "cancelada",
+   "chave": "video:1YrOLNQueaBNxyMdQFRlqFzVtturH2rZo",
+   "fechada_em": "2026-11-07T23:13-03:00",
+   "nota": "substituída pela v4 (telhado alinhado), item novo no Assistir"
   },
   {
    "id": "p171",
@@ -4069,7 +4071,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1akUglonnScFpB2bWi9sfuIcfAw1VwEAZ"
+  },
+  {
+   "id": "p173",
+   "aberta_em": "2026-11-07T23:13-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 v4: A Muralha da China tem cola de arroz",
+   "o_que": "assistir a Muralha com o telhado corrigido (aos 0:37 a casa da muralha de cidade agora tem o telhado alinhado e cobrindo a casa; todo telhado sai de uma função única e um teste reprova telhado torto antes do render), além do boneco virado, legenda nova e menos texto. Já passou no Crivo. Se aprovar, ele é agendado; se tiver ajuste, escreva no campo",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1tTQmORStwA9Y7gfu3egUpyy0tW0xRZ7k"
   }
  ],
- "gerado_em": "2026-11-07T23:05-03:00"
+ "gerado_em": "2026-11-07T23:13-03:00"
 }
