@@ -4059,7 +4059,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
+  },
+  {
+   "id": "p172",
+   "aberta_em": "2026-11-07T22:57-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 2: Itaipu tirou o rio do lugar (pixel 8 bits)",
+   "o_que": "assistir o Itaipu corrigido (82 s): aos 0:27 agora aparece o buraco sendo cavado e os caminhões levando a terra; aos 0:53 a barragem vista de lado com o lago subindo só atrás dela, bem abaixo do topo; mais 4 cenas trocadas pela checagem frase x imagem, legenda nova e menos texto. Já passou no Crivo. Se aprovar, ele é agendado; se tiver ajuste, escreva no campo",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1akUglonnScFpB2bWi9sfuIcfAw1VwEAZ"
   }
  ],
- "gerado_em": "2026-11-07T22:54-03:00"
+ "gerado_em": "2026-11-07T22:58-03:00"
 }
