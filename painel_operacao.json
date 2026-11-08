@@ -3931,7 +3931,7 @@
    "o_que": "gravar a voz das 15 frases (principal, uns 2:40; sai depois do Reaper de LEGO)",
    "onde": "Gravar",
    "status": "aberta",
-   "chave": "narracao:short_wakemaker"
+   "chave": "narracao:short_propulsor_braco"
   },
   {
    "id": "p155",
@@ -4220,5 +4220,5 @@
    "chave": "video:1SRWHWpl2M2I9HkAe3x6tJrY8yuTSiMhO"
   }
  ],
- "gerado_em": "2026-11-08T14:41-03:00"
+ "gerado_em": "2026-11-08T14:57-03:00"
 }
