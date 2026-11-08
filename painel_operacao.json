@@ -4165,7 +4165,17 @@
    "chave": "video:1tTQmORStwA9Y7gfu3egUpyy0tW0xRZ7k",
    "fechada_em": "2026-11-08T00:00-03:00",
    "nota": "Murilo autorizou e agendou os vídeos 1 e 2 do Obra Absurda (07/11 23h30)"
+  },
+  {
+   "id": "p174",
+   "aberta_em": "2026-11-08T07:31-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 3: A Torre Eiffel era pra ser desmontada (colagem de fotos)",
+   "o_que": "assistir o vídeo 3 da Torre Eiffel (90 s) e aprovar ou pedir ajuste. Já passou no Crivo, legenda nova e só o texto que a fala não diz. Se aprovar, o Periscópio agenda pra 10/11 às 18h e pede o seu 'eu autorizo'",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1TC_Yga3NslR5lnRT54dzsgLvI0hupG-W"
   }
  ],
- "gerado_em": "2026-11-08T03:12-03:00"
+ "gerado_em": "2026-11-08T07:31-03:00"
 }
