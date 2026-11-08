@@ -4019,7 +4019,17 @@
    "status": "feita",
    "fechada_em": "2026-11-07T22:41-03:00",
    "nota": "Murilo entrou no noiz 07/11 22:41; cookie vence 08/11 22:41"
+  },
+  {
+   "id": "p169",
+   "aberta_em": "2026-11-07T22:45-03:00",
+   "agente": "Arpão",
+   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
+   "o_que": "gravar a voz das 11 frases",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_subnautica_bateria_lava"
   }
  ],
- "gerado_em": "2026-11-07T22:41-03:00"
+ "gerado_em": "2026-11-07T22:45-03:00"
 }
