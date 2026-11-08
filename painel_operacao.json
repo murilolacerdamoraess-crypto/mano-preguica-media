@@ -710,7 +710,7 @@
    "titulo": "Frase trocada pelo ensaio volta pro Crivo antes de entrar no Gravar.",
    "onde": "skill shorts-roteirista passo 7b2; `publicar_narracao.py` e `operacao-maestri/revisar_gravar.py`.",
    "confianca": "forte no problema (3 casos em 2 roteiros numa noite); fraca na trava em código (ainda não testada: o teste R65 seria a 1c51e008 da bateria recusada e a 85069d8a aceita).",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-08 (Murilo, painel 08/11 11:20). Aplicada pelo Prumo no mesmo dia a ordem: shorts-roteirista passos 7b e 7b2 e os 2 moldes (skills 8938ac0), ensaio-do-murilo.md. A trava no publicar_narracao.py e no revisar_gravar.py pedida ao Crivo, com o teste da R65 (1c51e008 recusada, 85069d8a aceita); vira \"aplicada\" com o commit dele",
    "simples": "quando a leitura de teste troca uma frase de um roteiro que o Crivo já tinha aprovado, a frase nova volta pro Crivo antes de ir pro seu Gravar. Na bateria da lava, duas trocas assim chegaram ao Gravar com erro (uma dizia que as larvas juntas sempre sugam a bateria mais rápido, e a tabela da wiki mostra que de 2 a 4 elas sugam até mais devagar), e o Crivo só pegou depois."
   }
  ],
@@ -4187,5 +4187,5 @@
    "nota": "Aprovado pelo Murilo no chat (08/11 ~09h40)"
   }
  ],
- "gerado_em": "2026-11-08T11:26-03:00"
+ "gerado_em": "2026-11-08T11:29-03:00"
 }
