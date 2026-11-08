@@ -3985,8 +3985,10 @@
    "video": "Obra Absurda, vídeo 1: A Muralha da China tem cola de arroz (low poly, voz nova)",
    "o_que": "assistir o primeiro vídeo do canal novo antes de sair (74 s, low poly, voz H com o arroz corrigido, já passou no Crivo); aprovado, ele sai amanhã no YouTube e no TikTok dentro da janela 11h a 22h30; se tiver ajuste, escreva no campo",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1gj1h5xOWsn5aPTDcV9PwRBpIB-K59Sca"
+   "status": "cancelada",
+   "chave": "video:1gj1h5xOWsn5aPTDcV9PwRBpIB-K59Sca",
+   "fechada_em": "2026-11-07T22:50-03:00",
+   "nota": "substituída pela versão nova do vídeo 1 (boneco virado, legenda nova, menos texto), item novo no Assistir"
   },
   {
    "id": "p166",
@@ -4029,7 +4031,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_subnautica_bateria_lava"
+  },
+  {
+   "id": "p170",
+   "aberta_em": "2026-11-07T22:50-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda, vídeo 1 v3: A Muralha da China tem cola de arroz",
+   "o_que": "assistir a versão nova do primeiro vídeo (74 s) com os seus ajustes: o construtor da cal agora olha a parede (o boneco ganhou rosto e um teste que reprova boneco de costas), a legenda em caixa normal e menor, sem o título junto da legenda e com bem menos texto na tela; já passou no Crivo. Se aprovar, ele é agendado pras 18h do dia seguinte; se tiver ajuste, escreva no campo",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1YrOLNQueaBNxyMdQFRlqFzVtturH2rZo"
   }
  ],
- "gerado_em": "2026-11-07T22:49-03:00"
+ "gerado_em": "2026-11-07T22:50-03:00"
 }
