@@ -4181,8 +4181,10 @@
    "video": "Obra Absurda, vídeo 4: o Canal do Panamá levanta o navio com água",
    "o_que": "fechar o Chrome e o VS Code por uns 15 min e avisar o Maestro: é o que falta pra música do vídeo 4 sair (a memória do Mac não aguenta com eles abertos); depois pode abrir de novo",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-08T12:31-03:00",
+   "nota": "Murilo fechou Chrome e VS Code (08/11 12h20); o ACE caiu mesmo assim (o modelo sozinho passa do limite); segue sem LM ou com a reserva"
   }
  ],
- "gerado_em": "2026-11-08T12:05-03:00"
+ "gerado_em": "2026-11-08T12:31-03:00"
 }
