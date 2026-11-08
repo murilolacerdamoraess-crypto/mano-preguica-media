@@ -4077,8 +4077,10 @@
    "video": "Obra Absurda, vídeo 2: Itaipu tirou o rio do lugar (pixel 8 bits)",
    "o_que": "assistir o Itaipu corrigido (82 s): aos 0:27 agora aparece o buraco sendo cavado e os caminhões levando a terra; aos 0:53 a barragem vista de lado com o lago subindo só atrás dela, bem abaixo do topo; mais 4 cenas trocadas pela checagem frase x imagem, legenda nova e menos texto. Já passou no Crivo. Se aprovar, ele é agendado; se tiver ajuste, escreva no campo",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1akUglonnScFpB2bWi9sfuIcfAw1VwEAZ"
+   "status": "feita",
+   "chave": "video:1akUglonnScFpB2bWi9sfuIcfAw1VwEAZ",
+   "fechada_em": "2026-11-08T00:00-03:00",
+   "nota": "Murilo autorizou e agendou os vídeos 1 e 2 do Obra Absurda (07/11 23h30)"
   },
   {
    "id": "p173",
