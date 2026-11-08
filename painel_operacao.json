@@ -2666,6 +2666,14 @@
  ],
  "navegador": [
   {
+   "tipo": "07/11 23h45",
+   "titulo": "**OBRA ABSURDA VÍDEOS 1 E 2, VERSÕES NOVAS (aprovadas pelo Murilo no Assistir 23h13, \"aprovei os dois, pode agendar\"): os 4 envios PRONTOS, PARADOS NO ÚLTIMO CLIQUE.** O Programar do YouTube do vídeo 1 foi barrado pela trava do Claude Code (\"Unrequested Commit in a Connected App\"); não insisti. Arquivos conferidos: v1 md5 34a06e70 (-14,1 LUFS, 73,9 s), v2 md5 9b70764e (-14,0 LUFS, 81,7 s).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "07/11 ~21h50",
    "titulo": "**OBRA ABSURDA VÍDEO 1 DESAGENDADO (Murilo pediu ajustes, pelo Maestro): não sai 08/11.** YouTube i-8VWmpuEEo: visibilidade trocada pra Privado (Concluir + Salvar); na lista do Studio \"Privado\", sem data. TikTok: post agendado EXCLUÍDO (o TikTok Studio só oferece Baixar/Excluir pra agendado, não há como tirar a data); a lista ficou \"Ainda não possui publicações\". A versão ajustada sobe do zero no TikTok; **Maré (07/11 ~22h): no YouTube sobe NOVO e apaga o i-8VWmpuEEo depois que o novo estiver no Studio; no TikTok, do zero.** Ela manda o pacote quando o Crivo aprovar e o Murilo vir no Assistir. Arquivo antigo segue em ~/EdicaoIA/obra-absurda/v01lp2/.",
    "etapa": "",
@@ -4083,5 +4091,5 @@
    "chave": "video:1tTQmORStwA9Y7gfu3egUpyy0tW0xRZ7k"
   }
  ],
- "gerado_em": "2026-11-07T23:13-03:00"
+ "gerado_em": "2026-11-07T23:23-03:00"
 }
