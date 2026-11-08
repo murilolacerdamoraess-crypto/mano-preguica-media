@@ -2329,8 +2329,8 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Os jogadores do Subnautica escondem a melhor bateria do jogo dentro de um scanner pra mandar pra você",
-   "etapa": "roteiro (na fila, fora do Decidir até abrir vaga no teto de 5; versão 3 com o fecho sem \"Ou seja\"; antes era a versão 2 com as regras de 19/10 do que a coisa faz sentir; antes era a versão 1 pela história guiada: a bateria de íon está na lista proibida da cápsula, guarda cinco vezes mais energia e só é liberada numa usina alienígena; a própria lista deixa passar ferramenta com ela dentro, e um terço das ferramentas da youtuber das 500 cápsulas veio assim, cheia; uns 1 min e 45)",
+   "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
+   "etapa": "roteiro (em conferência (Crivo), versão 4 de 07/11 no seu ângulo: abre em \"você sabia que tem item proibido na cápsula do tempo\", a youtuber que abriu 500 cápsulas descobriu que tem gente burlando um deles, o item é a bateria de íon e a brecha é a própria lista, que deixa passar ferramenta com ela dentro; uns 1 min e 40)",
    "responsavel": "Tarrafa",
    "falta_murilo": "",
    "prazo": ""
@@ -2659,7 +2659,7 @@
  "navegador": [
   {
    "tipo": "07/11 ~21h50",
-   "titulo": "**OBRA ABSURDA VÍDEO 1 DESAGENDADO (Murilo pediu ajustes, pelo Maestro): não sai 08/11.** YouTube i-8VWmpuEEo: visibilidade trocada pra Privado (Concluir + Salvar); na lista do Studio \"Privado\", sem data. TikTok: post agendado EXCLUÍDO (o TikTok Studio só oferece Baixar/Excluir pra agendado, não há como tirar a data); a lista ficou \"Ainda não possui publicações\". A versão ajustada sobe do zero no TikTok; no YouTube dá pra trocar o arquivo ou subir novo (decidir com a Maré). Arquivo antigo segue em ~/EdicaoIA/obra-absurda/v01lp2/.",
+   "titulo": "**OBRA ABSURDA VÍDEO 1 DESAGENDADO (Murilo pediu ajustes, pelo Maestro): não sai 08/11.** YouTube i-8VWmpuEEo: visibilidade trocada pra Privado (Concluir + Salvar); na lista do Studio \"Privado\", sem data. TikTok: post agendado EXCLUÍDO (o TikTok Studio só oferece Baixar/Excluir pra agendado, não há como tirar a data); a lista ficou \"Ainda não possui publicações\". A versão ajustada sobe do zero no TikTok; **Maré (07/11 ~22h): no YouTube sobe NOVO e apaga o i-8VWmpuEEo depois que o novo estiver no Studio; no TikTok, do zero.** Ela manda o pacote quando o Crivo aprovar e o Murilo vir no Assistir. Arquivo antigo segue em ~/EdicaoIA/obra-absurda/v01lp2/.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
