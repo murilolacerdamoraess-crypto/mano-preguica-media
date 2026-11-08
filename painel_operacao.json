@@ -2337,6 +2337,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
+   "etapa": "gravação (roteiro aprovado em 07/11 22:34, no Gravar com 11 trechos; a ordem de edição já está pronta, com os trechos de gameplay escolhidos e a tabela da wiki em gráfico)",
+   "responsavel": "Lente",
+   "falta_murilo": "gravar a voz dos 11 trechos",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "O pote do Zelda que você joga no chão e quebra igual no jogo (canal 2)",
    "etapa": "roteiro (versão 6 na fila, fora do Decidir até abrir vaga no teto de 5, no fio que você contou em 27/10: por que quebrar pote é tão bom, a ideia que já vem de antigamente, o que não era suficiente e o ímã que resolve, e o ciclo de quebrar e montar, com o colecionável na estante; uns 55 segundos)",
    "responsavel": "Arpão",
@@ -4043,5 +4051,5 @@
    "chave": "video:1YrOLNQueaBNxyMdQFRlqFzVtturH2rZo"
   }
  ],
- "gerado_em": "2026-11-07T22:50-03:00"
+ "gerado_em": "2026-11-07T22:52-03:00"
 }
