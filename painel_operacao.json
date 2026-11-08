@@ -3973,8 +3973,10 @@
    "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava (explicação biológica)",
    "o_que": "ler o roteiro da bateria que some na zona de lava e aprovar ou pedir ajuste",
    "onde": "Decidir",
-   "status": "aberta",
-   "chave": "roteiro:short-subnautica-bateria-some-na-lava.md"
+   "status": "feita",
+   "chave": "roteiro:short-subnautica-bateria-some-na-lava.md",
+   "fechada_em": "2026-11-07T22:40-03:00",
+   "nota": "aprovou o roteiro 07/11 22:34"
   },
   {
    "id": "p165",
@@ -4017,5 +4019,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-07T22:38-03:00"
+ "gerado_em": "2026-11-07T22:41-03:00"
 }
