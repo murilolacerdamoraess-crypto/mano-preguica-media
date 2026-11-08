@@ -2746,6 +2746,14 @@
  ],
  "navegador": [
   {
+   "tipo": "08/11 10h",
+   "titulo": "**OBRA ABSURDA VÍDEO 3 (Torre Eiffel, p174, aprovado pelo Murilo 08/11 ~09h40): PRONTO, PARADO NO ÚLTIMO CLIQUE, esperando o \"eu autorizo\" dele na minha sessão.** Arquivo final_v03.mp4 md5 8aa2035b conferido, portão de áudio APROVADO (-14,1 LUFS). YouTube (canalia t9): `8Kz4QSR2VDU`, título do roteiro 03 (86 caracteres), descrição da seção do post, não é pra crianças, conteúdo alterado Sim, 10 de nov. de 2026 18:00, botão Programar. TikTok (t10, @obra.absurda): legenda igual, rótulo de IA ligado, Programar 10 de nov de 2026 18:00 (GMT-3), botão Agendar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "08/11 ~00h",
    "titulo": "**FEITO: o Murilo escreveu \"eu autorizo\" na minha sessão e eu cliquei nos 4.** YouTube (lista do Studio): `KfoJSgOoXis` Programado 8 de nov. de 2026 18:00; `ZtEUz0UlxmE` Programado 9 de nov. de 2026 18:00. TikTok (lista de conteúdo): 8 de nov 18:00 (Muralha) e 9 de nov 18:00 (Itaipu), GMT-3. Antigos APAGADOS depois de conferir o id na linha: `i-8VWmpuEEo` (Excluir para sempre) e `KPY0j-MXK0E` (rascunho). Abas t5 a t8 fechadas. ~~[07/11 23h45] **OBRA ABSURDA VÍDEOS 1 E 2, VERSÕES NOVAS (aprovadas pelo Murilo no Assistir 23h13, \"aprovei os dois, pode agendar\"): os 4 envios PRONTOS, PARADOS NO ÚLTIMO CLIQUE.** O Programar do YouTube do vídeo 1 foi barrado pela trava do Claude Code (\"Unrequested Commit in a Connected App\"); não insisti. Arquivos conferidos: v1 md5 34a06e70 (-14,1 LUFS, 73,9 s), v2 md5 9b70764e (-14,0 LUFS, 81,7 s).",
    "etapa": "",
@@ -4189,5 +4197,5 @@
    "nota": "Aprovado pelo Murilo no chat (08/11 ~09h40)"
   }
  ],
- "gerado_em": "2026-11-08T09:34-03:00"
+ "gerado_em": "2026-11-08T09:37-03:00"
 }
