@@ -2658,6 +2658,14 @@
  ],
  "navegador": [
   {
+   "tipo": "07/11 ~21h50",
+   "titulo": "**OBRA ABSURDA VÍDEO 1 DESAGENDADO (Murilo pediu ajustes, pelo Maestro): não sai 08/11.** YouTube i-8VWmpuEEo: visibilidade trocada pra Privado (Concluir + Salvar); na lista do Studio \"Privado\", sem data. TikTok: post agendado EXCLUÍDO (o TikTok Studio só oferece Baixar/Excluir pra agendado, não há como tirar a data); a lista ficou \"Ainda não possui publicações\". A versão ajustada sobe do zero no TikTok; no YouTube dá pra trocar o arquivo ou subir novo (decidir com a Maré). Arquivo antigo segue em ~/EdicaoIA/obra-absurda/v01lp2/.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "07/11 20h",
    "titulo": "**FEITO 21h30: o Murilo autorizou na minha sessão (\"eu autorizo\") e eu cliquei. YouTube i-8VWmpuEEo \"Programado, 8 de nov. de 2026\" às 18:00 (lista do Studio); TikTok agendado \"8 de nov, 18:00 (GMT-3) São Paulo\", Todos (lista de conteúdo). p167 fechada.** ~~OBRA ABSURDA VÍDEO 1 (Muralha, pedido da Maré): YouTube e TikTok PRONTOS, PARADOS NO ÚLTIMO CLIQUE (Periscópio, sessão canalia).~~ Liberação do Murilo registrada em canal-ia-teste-30.md (07/11 19h49, \"pode agendar sozinha, era essa a ideia do teste\"). Arquivo `~/EdicaoIA/obra-absurda/v01lp2/final_lp_voz2.mp4` (md5 4c94b75f, portão de áudio APROVADO -14,1 LUFS, 74 s, 1080x1920).",
    "etapa": "",
@@ -3998,5 +4006,5 @@
    "nota": "ele autorizou na sessão do Periscópio (\"eu autorizo\"); os 2 cliques feitos pelo Periscópio: YouTube i-8VWmpuEEo Programado 8 de nov. 18:00 (lista do Studio) e TikTok agendado 8 de nov 18:00 (GMT-3), conferidos na tela"
   }
  ],
- "gerado_em": "2026-11-07T22:23-03:00"
+ "gerado_em": "2026-11-07T22:36-03:00"
 }
