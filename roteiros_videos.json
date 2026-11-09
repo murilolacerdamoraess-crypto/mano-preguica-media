@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-09T14:58:17.462794Z",
+ "gerado_em": "2026-11-09T15:00:49.897915Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -993,6 +993,20 @@
    "formato": "short MP1",
    "motor": null,
    "versao": "7",
+   "fonte_yt": null
+  },
+  {
+   "arquivo": "short-lancador-gancho-batman-de-verdade.md",
+   "name": "SHORT - Ela tentou fazer o lançador de gancho do Batman de verdade, e virou a coisa mais difícil que ela já fez",
+   "titulo_roteiro": "SHORT: o lançador de gancho do Batman feito de verdade",
+   "description": "Short de jornada do canal 2 (pauta P105, divisão com a Tarrafa pelo pedido da Lente de 09/11, 3 jornadas do canal 2 de 16 a 22/11). A Kiara monta a própria roupa do Batman do filme de 2022 e começa pelo lançador de ganch",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short (voz real do Murilo, narrado em cima do vídeo da Kiara's Workshop), jornada de 2 a 2,5 min",
+   "motor": null,
+   "versao": "1",
    "fonte_yt": null
   },
   {
