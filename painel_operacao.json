@@ -3533,30 +3533,6 @@
    "nota": "título aprovado 22:59"
   },
   {
-   "id": "p130",
-   "aberta_em": "2026-11-06T21:43-03:00",
-   "agente": "Lente",
-   "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
-   "o_que": "ouvir o antes e depois das vozes H, I e J com mais corpo nos graves e médios e dizer se o depois soa menos IA",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1wV0zbtzvMzVnhtOpp6KrCtxtiqNS0E4J",
-   "fechada_em": "2026-11-06T21:52-03:00",
-   "nota": "Murilo: as 3 já estavam aprovadas, o EQ era só melhoria; não precisa aprovar"
-  },
-  {
-   "id": "p131",
-   "aberta_em": "2026-11-06T21:44-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
-   "o_que": "ouvir a comparação e escolher a trilha A ou a B",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1D_TjvqyFCVkOnfZESCcvDxhfmrY2sdNE",
-   "fechada_em": "2026-11-06T21:52-03:00",
-   "nota": "trilha B: mais condizente"
-  },
-  {
    "id": "p132",
    "aberta_em": "2026-11-06T21:45-03:00",
    "agente": "Maré",
@@ -4128,5 +4104,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T21:48-03:00"
+ "gerado_em": "2026-11-08T21:59-03:00"
 }
