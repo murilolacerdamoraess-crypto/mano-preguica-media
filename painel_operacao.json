@@ -2782,6 +2782,14 @@
  ],
  "navegador": [
   {
+   "tipo": "09/11 11h10",
+   "titulo": "**GERAR AS 3 CAPAS (A, B e C) DO LONGO DO MEGABONK DE POKÉMON, pro \"Testar e comparar\" (pedido do Maestro, 09/11; regra do Murilo de 10/10: todo longo sobe com 3 capas).** O longo dos 34 leviatãs subiu com uma só; este não pode. Prazo: ter 11/11 (a edição entrega qua 11/11). Não depende do título: as 3 servem pros 3 títulos da p183. Tudo na pasta Drive `Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/`, onde já estão as refs. Nenhum prompt nomeia personagem, jogo ou empresa (2.25); confira antes de colar. ChatGPT primeiro, um chat novo por prompt; se recusar (\"semelhança com conteúdo de terceiros\"), anote a mensagem exata e gere no Flow (Nano Banana Pro) com os mesmos anexos e o prompt do estágio 2. Salve cada uma como `OPCAO A - GPT 1.png` etc. Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 ~08h40",
    "titulo": "**FEITO: Obra Absurda vídeo 4 v2 (Canal do Panamá) agendado direto pela autorização permanente.** Pedido do Maestro; OK do Murilo no Assistir (p178, fechada 09/11 08:02, \"ficou bom o video 4 v2 bem melhor\"). md5 63ee8b4a conferido, portão de áudio APROVADO (-14,0 LUFS). YouTube `s-i1UVAEFUQ` \"Vídeo programado\", público 11 de novembro de 2026 às 18:00 (não é para crianças, conteúdo alterado = Sim). TikTok @obra.absurda \"11 de nov, 18:00 (GMT-3)\", rótulo de IA ligado.",
    "etapa": "",
@@ -3930,7 +3938,21 @@
    "o_que": "entrar de novo no noiz.gg no Chrome do perfil geral (a sessão venceu em 08/11 22:41); só quando voltar pro PC, sem pressa",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p183",
+   "aberta_em": "2026-11-09T11:05-03:00",
+   "agente": "Anzol",
+   "video": "Longo: zerei todos os mapas do Megabonk de Pokémon",
+   "o_que": "Escolher o título do longo do Megabonk de Pokémon. A: Zerei o Megabonk de Pokémon, até a torre que me parou no quinto andar (minha escolha: é a sua frase do pedido, com a torre que te parou na primeira vez). B: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa. C: Será que dá pra zerar o Megabonk de Pokémon trocando de Pokémon em cada mapa? As 3 capas do teste (Testar e comparar) já estão sendo feitas e servem pros 3 títulos.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "A",
+    "B",
+    "C"
+   ]
   }
  ],
- "gerado_em": "2026-11-09T11:03-03:00"
+ "gerado_em": "2026-11-09T11:08-03:00"
 }
