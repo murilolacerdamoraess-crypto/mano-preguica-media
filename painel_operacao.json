@@ -3691,18 +3691,6 @@
    "nota": "nenhuma das 3; sugestão dele enviada ao Anzol (07/11 19:15)"
   },
   {
-   "id": "p162",
-   "aberta_em": "2026-11-07T14:49-03:00",
-   "agente": "Periscópio",
-   "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água (sai hoje 18h)",
-   "o_que": "no Studio (dá pelo celular): abrir o vídeo _aSy4jUW1ZY, Editar rascunho, marcar 'Nenhuma das opções' na adequação para publicidade e Enviar classificação; depois o Periscópio deixa pronto o Programar pra 18h e você só confirma",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "studio:_aSy4jUW1ZY",
-   "fechada_em": "2026-11-07T15:06-03:00",
-   "nota": "Murilo enviou a classificação de adequação (07/11 ~15h)"
-  },
-  {
    "id": "p163",
    "aberta_em": "2026-11-07T19:16-03:00",
    "agente": "Anzol",
@@ -3991,5 +3979,5 @@
    "chave": "narracao:short_lancador_gancho_batman"
   }
  ],
- "gerado_em": "2026-11-09T14:41-03:00"
+ "gerado_em": "2026-11-09T15:11-03:00"
 }
