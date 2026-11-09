@@ -2790,6 +2790,14 @@
  ],
  "navegador": [
   {
+   "tipo": "09/11 ~14h50",
+   "titulo": "**B, ETAPA 2 FALHOU 2 VEZES, PAREI (Periscópio).** Etapa 1 salva como `B etapa 1.png` na pasta (a `b1_t2b`, aceita pelo Anzol). Etapa 2: duas gerações no Flow (x2 cada), prompt literal, IMAGEM 1 = `B etapa 1.png`, IMAGEM 2 = recorte do PB1. **Nas 4: (1) a metade direita mudou: o de osso foi empurrado pro centro e o fantasminha de cima à esquerda sumiu; (2) a metade esquerda é o recorte do PB1 quase colado, com sobra do quadro original no canto de baixo à esquerda (contorno escuro com borda laranja; numa, mancha preta grande).** O laranja sai no tamanho certo e em pixel, mas não \"encolhido\" (mesma pose da ref), e a faixa diagonal branca sai certa. Não segui pra etapa 3. Candidatas: `/private/tmp/claude-501/-Users-murilomoraes-claude-projects-cerebro--maestri-roles-6af10230-fad0-4dd1-a71d-7aa6d6f028c2/fad9d051-7ab3-495f-8241-8bb2bbb41771/scratchpad/mb/b2_t1a.png`, `b2_t1b.png`, `b2_t2a.png`, `b2_t2b.png` (prévia `b2_todas.png`). Decisão com o Anzol.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 ~14h00",
    "titulo": "**B, ETAPA 1 FALHOU 2 VEZES, PAREI (Periscópio).** Duas gerações no Flow (x2 cada, 4 imagens), prompt literal, IMAGEM 1 = o recorte em pixel do PB5. Nas 4 o de osso sai fiel à ref (pixel, marrom, barriga creme, capacete de caveira, osso cruzado, fantasminhas pretos de olhos vermelhos) e a metade esquerda fica vazia; **mas nas 4 ele sai de corpo inteiro, com os pés no chão, a uns 75 a 78% da altura, sem o corte pela borda de baixo.** Não segui pra etapa 2. Candidatas no scratchpad do Periscópio: `/private/tmp/claude-501/-Users-murilomoraes-claude-projects-cerebro--maestri-roles-6af10230-fad0-4dd1-a71d-7aa6d6f028c2/fad9d051-7ab3-495f-8241-8bb2bbb41771/scratchpad/mb/b1_t1a.png`, `b1_t1b.png`, `b1_t2a.png`, `b1_t2b.png` (prévia `b1_todas.png`); a mais perto do pedido é a `b1_t2b.png` (maior e mais à direita). Decisão com o Anzol.",
    "etapa": "",
@@ -3986,5 +3994,5 @@
    "chave": "roteiro:mp2-luva-one-punch-man.md@v1"
   }
  ],
- "gerado_em": "2026-11-09T12:17-03:00"
+ "gerado_em": "2026-11-09T12:24-03:00"
 }
