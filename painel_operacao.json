@@ -2782,6 +2782,14 @@
  ],
  "navegador": [
   {
+   "tipo": "09/11 12h15",
+   "titulo": "**CAPA B DO LONGO DO MEGABONK, RODADA NOVA NO FLOW, EM 3 ETAPAS (Anzol; A e C já conferidas e salvas como `OPCAO A.jpg` e `OPCAO C.jpg`).** Prazo: ter 11/11. Pasta: a mesma (`THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/`). Não usar os estágios 1 lisos: foi ao redesenhar em liso que o de osso virou outro bicho. As refs agora são os recortes em pixel das capas do PokéBonk que já passaram (2.8 e 2.10), e o estilo fica em pixel, como no jogo. **Nada de recortar personagem e colar sobre fundo, nem com ffmpeg nem com qualquer editor** (cartilha 2.14): a junção é feita pelo próprio Flow, uma mudança por etapa (2.12), cada etapa com o resultado da anterior anexado. Nano Banana Pro, 16:9, mesmo projeto do Flow. Até 2 tentativas por etapa; se uma etapa falhar 2 vezes, pare e me avise (não siga com a base errada). Prompts sem nome de personagem, jogo ou empresa (2.25).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 ~13h20",
    "titulo": "**FEITO EM PARTE (Periscópio): A e C prontas, B não passou na conferência.** Na pasta: `ESTAGIO 1 laranja liso.png`, `ESTAGIO 1 osso liso.png` (Flow, sem os fantasminhas no 2º pedido), `OPCAO A - Flow 1.png` e `OPCAO A - Flow 2.png` (1376x768; a 2 tem os dentes brancos do prompt, a 1 amarelados), `OPCAO C - GPT 1.png` e `OPCAO C - GPT 2.png` (1672x941; rosto conferido lado a lado: a GPT 2 é a mais fiel, olhar na câmera como na pose; a GPT 1 tem os olhos mais arregalados e um levemente desviado). **Recusas do ChatGPT** (\"Infelizmente, a imagem que criamos pode violar nossas diretrizes relacionadas à semelhança com conteúdo de terceiros. Se você considera que foi um engano, tente novamente ou edite o prompt.\"): estágio 1 laranja, estágio 1 osso, A e B, cada uma em chat novo; só a C passou. **B no Flow, 4 geradas, nenhuma passa:** \"1ª VEZ\" e \"2ª VEZ\" saem certos, mas o de osso volta como outro bicho de caveira (não o do estágio 1), sem os 80% nem o corte na borda, e o laranja sai mais gordinho; numa delas aparece um \"1ª VEZ\" espelhado no chão. Candidatas fora do Drive, no scratchpad do Periscópio (`/private/tmp/claude-501/-Users-murilomoraes-claude-projects-cerebro--maestri-roles-6af10230-fad0-4dd1-a71d-7aa6d6f028c2/fad9d051-7ab3-495f-8241-8bb2bbb41771/scratchpad/mb/B1.jpg` a `B4.jpg`, prévia `B_todas.png`). Decisão da B com o Maestro e o Anzol. Projeto do Flow: flow.google.com/project/8ce5fe10-de2b-4ff1-b84e-4b2131734aeb.",
    "etapa": "",
@@ -3944,5 +3952,5 @@
    "chave": "narracao:short_deathrun_extintor"
   }
  ],
- "gerado_em": "2026-11-09T12:10-03:00"
+ "gerado_em": "2026-11-09T12:11-03:00"
 }
