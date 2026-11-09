@@ -3699,38 +3699,6 @@
    "grupo": "serie-4546b-a1-dia2"
   },
   {
-   "id": "p161",
-   "aberta_em": "2026-11-07T14:40-03:00",
-   "agente": "Anzol",
-   "video": "Sobreviva em 4546B, Dia 1 (estreia qua 11/11 no mais cedo)",
-   "o_que": "Escolher o título do Dia 1 da série. A capa já sai com DIA 1 e SOBREVIVA em 3D na cena (a preguiça tonta na cápsula, com a nave pegando fogo atrás), e serve aos 3.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Você acordou no Subnautica e decide como pegar o ovo que o Reaper rodeia",
-    "Você decide se arrisca a vida pelo ovo que o Reaper rodeia no Subnautica",
-    "Esse ovo do Subnautica pode virar seu melhor amigo, e você decide se encara o Reaper por ele"
-   ],
-   "fechada_em": "2026-11-07T19:16-03:00",
-   "nota": "nenhuma das 3; sugestão dele enviada ao Anzol (07/11 19:15)"
-  },
-  {
-   "id": "p163",
-   "aberta_em": "2026-11-07T19:16-03:00",
-   "agente": "Anzol",
-   "video": "Série 4546B, Dia 1 (Short)",
-   "o_que": "Escolher o título do Dia 1, na sua linha (você acordou + o Reaper perto do ovo). No jogo o Reaper não ataca ovo: ele fica sempre perto dele e ataca quem chega. Por isso a ameaça nos títulos é com você. A capa continua a mesma (a preguiça na cápsula, DIA 1: SOBREVIVA): ela mostra que você acabou de cair ali, e o título traz o Reaper e o ovo. Eu escolheria a B, que deixa o ataque perto de acontecer.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "A: Você acordou no Subnautica e tem um Reaper rondando o ovo do seu filhote",
-    "B: Você acordou no Subnautica e o Reaper ataca quem chegar perto desse ovo",
-    "C: Você acordou no Subnautica e precisa passar por um Reaper pra esse filhote nascer"
-   ],
-   "fechada_em": "2026-11-07T19:19-03:00",
-   "nota": "escolheu B (07/11)"
-  },
-  {
    "id": "p164",
    "aberta_em": "2026-11-07T19:39-03:00",
    "agente": "Arpão",
@@ -4025,5 +3993,5 @@
    "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
   }
  ],
- "gerado_em": "2026-11-09T18:34-03:00"
+ "gerado_em": "2026-11-09T19:20-03:00"
 }
