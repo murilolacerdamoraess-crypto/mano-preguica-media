@@ -2791,7 +2791,7 @@
  "navegador": [
   {
    "tipo": "09/11 ~15h20",
-   "titulo": "**B: ETAPA 2 SALVA, ETAPA 2b TRAVADA NO LIMITE DO FLOW (Periscópio).** `B etapa 2.png` salva na pasta (a `b2_t2a`). Etapa 2b enviada com o prompt literal e só a `B etapa 2` anexada, mas o Flow respondeu nas 2 imagens: \"You've reached your usage limit. Please try again later, or upgrade for higher limits. Não houve cobrança por esta geração.\" É o limite do Nano Banana Pro na conta (cerca de 13 gerações hoje, todas desta capa). Não conta como tentativa: nenhuma imagem saiu. Upgrade é pago, decisão do Murilo; não fiz. Retomo a 2b (e depois a 3) quando o limite voltar; prazo ter 11/11. Os prompts da 2b e da 3 (com o acréscimo das patas) estão prontos.",
+   "titulo": "**B: ETAPA 2 SALVA, ETAPA 2b TRAVADA NO LIMITE DO FLOW (Periscópio).** `B etapa 2.png` salva na pasta (a `b2_t2a`). Etapa 2b enviada com o prompt literal e só a `B etapa 2` anexada, mas o Flow respondeu nas 2 imagens: \"You've reached your usage limit. Please try again later, or upgrade for higher limits. Não houve cobrança por esta geração.\" É o limite do Nano Banana Pro na conta (cerca de 13 gerações hoje, todas desta capa). Não conta como tentativa: nenhuma imagem saiu. Upgrade é pago, decisão do Murilo; não fiz. Retomo a 2b (e depois a 3) quando o limite voltar; prazo ter 11/11. Os prompts da 2b e da 3 (com o acréscimo das patas) estão prontos. **Combinado com o Anzol (09/11):** sem upgrade; geração barrada pelo limite não conta como tentativa; nada de ChatGPT pra esses personagens; retomar a 2b e depois a 3 quando o limite voltar.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
