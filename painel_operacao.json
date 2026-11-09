@@ -3509,36 +3509,6 @@
    "nota": "texto velho (prazo de sábado 11h já passou); reaberto com o texto atual"
   },
   {
-   "id": "p129",
-   "aberta_em": "2026-11-06T21:36-03:00",
-   "agente": "Anzol",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares (canal 2)",
-   "o_que": "Aprovar o título do Short do traje de FNAF: Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares; sai qui 12/11 18h",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-do-short-do-traje-de-fnaf-canal-2-fizeram-o-traje-de-fnaf-que-esmaga-quem:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T23:04-03:00",
-   "nota": "título aprovado 22:59"
-  },
-  {
-   "id": "p133",
-   "aberta_em": "2026-11-06T22:07-03:00",
-   "agente": "Lente",
-   "video": "Série Sobreviva em 4546B (teste de estilo)",
-   "o_que": "ver a preguiça e a primeira pessoa refeitas e escolher a câmera (A, B ou C pra preguiça, D pra primeira pessoa), ou desistir da preguiça",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1jTWsOY-gmrgNtFTuS9W6O8ZwtpfPNAch",
-   "opcoes": [
-    "Preguiça A (vinil fosco)",
-    "Preguiça B (pelúcia)",
-    "Preguiça C (facetada)",
-    "Primeira pessoa (D)"
-   ],
-   "fechada_em": "2026-11-06T23:05-03:00",
-   "nota": "preguiça B (pelúcia); primeira pessoa descartada"
-  },
-  {
    "id": "p134",
    "aberta_em": "2026-11-06T23:07-03:00",
    "agente": "Leme",
@@ -4080,5 +4050,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T23:04-03:00"
+ "gerado_em": "2026-11-08T23:09-03:00"
 }
