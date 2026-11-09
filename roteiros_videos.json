@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-08T14:34:43.189921Z",
+ "gerado_em": "2026-11-09T13:07:33.803463Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -84,6 +84,20 @@
    "motor": null,
    "versao": "2",
    "fonte_yt": "2laD_2RNeIk"
+  },
+  {
+   "arquivo": "corte-canal2-streamer-sunbeam.md",
+   "name": "CORTE CANAL 2 · Esse streamer viu a nave de resgate ser derrubada",
+   "titulo_roteiro": "CORTE CANAL 2 · Esse streamer viu a nave de resgate ser derrubada",
+   "description": "Corte de streamer do canal 2 (item 8, uma das 2 vagas que eram do Speed; reserva do Cellbit usada em 09/11/2026 por ordem do Maestro). 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do s",
+   "status": "aguardando o Crivo",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "corte de streamer MP2 (fala curta do Murilo + live legendada), 60 a 65 s",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "XsGRqOoUONg"
   },
   {
    "arquivo": "half-life-2-gritos-invertidos.md",
