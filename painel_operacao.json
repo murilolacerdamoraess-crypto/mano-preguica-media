@@ -3427,17 +3427,6 @@
    "jogando": true
   },
   {
-   "id": "p113",
-   "aberta_em": "2026-11-06T11:07-03:00",
-   "agente": "Periscópio",
-   "video": "Parceria KeysDrop (e-mail 06/11)",
-   "o_que": "Decidir se responde a proposta da KeysDrop (loja BR de keys Steam, aceita comissão, valor fixo ou produto); atenção: ela vende jogo 'pra jogar offline', que costuma ser conta Steam compartilhada, risco de imagem",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-07T00:03-03:00",
-   "nota": "Murilo: acho que não vou aceitar (KeysDrop)"
-  },
-  {
    "id": "p118",
    "aberta_em": "2026-11-06T11:45-03:00",
    "agente": "Tarrafa",
@@ -3471,18 +3460,6 @@
    "status": "feita",
    "fechada_em": "2026-11-07T19:22-03:00",
    "nota": "ele ativou a monetização e classificou os anúncios do #36 no Studio em 07/11 18:06"
-  },
-  {
-   "id": "p123",
-   "aberta_em": "2026-11-06T14:07-03:00",
-   "agente": "Periscópio",
-   "video": "Série 'você decide' de Subnautica (teste T11 dos 3 visuais)",
-   "o_que": "no app do Instagram do @manopreguica: + > Reel > escolher qualquer vídeo > tela final, ver se aparece a chave 'Reel de teste' e sair sem compartilhar; me dizer sim ou não",
-   "onde": "Outro",
-   "status": "cancelada",
-   "chave": "t11-reel-teste-instagram",
-   "fechada_em": "2026-11-07T00:03-03:00",
-   "nota": "Murilo: não quer testar nada no Instagram"
   },
   {
    "id": "p126",
@@ -4039,5 +4016,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T23:26-03:00"
+ "gerado_em": "2026-11-09T00:06-03:00"
 }
