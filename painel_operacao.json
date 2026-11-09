@@ -2180,6 +2180,30 @@
    "prazo": "qua 11/11"
   },
   {
+   "tipo": "Tarefa",
+   "titulo": "Título do longo do Megabonk de Pokémon (opção 1): Zerei o Megabonk de Pokémon, até a torre que me parou no quinto andar",
+   "etapa": "embalagem (a minha recomendação: a sua frase do pedido, com a torre como promessa; a base: as 5 partidas, um Pokémon por mapa, e a torre que te parou no quinto andar e você vence no fim; as 3 capas no Capas servem pra qualquer um dos 3 títulos; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 2 ou 3",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do longo do Megabonk de Pokémon (opção 2): Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa",
+   "etapa": "embalagem (a regra do desafio no título; a base: um Pokémon novo em cada um dos 5 mapas; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1 ou 3",
+   "prazo": ""
+  },
+  {
+   "tipo": "Tarefa",
+   "titulo": "Título do longo do Megabonk de Pokémon (opção 3): Será que dá pra zerar o Megabonk de Pokémon trocando de Pokémon em cada mapa?",
+   "etapa": "embalagem (a pergunta de desafio, que só o fim responde; a base: as 5 partidas com Pokémon diferentes até zerar; aprovar este escolhe este título)",
+   "responsavel": "Anzol",
+   "falta_murilo": "aprovar este título ou o da opção 1 ou 2",
+   "prazo": ""
+  },
+  {
    "tipo": "Longo",
    "titulo": "Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo",
    "etapa": "agendado no canal principal: já disponível pros membros desde 07/11 e público seg 09/11 às 12h (você programou e salvou o acesso antecipado em 07/11; conferido pela API; capa nova com o canhão e a bolsa de gás; playlists TODOS OS VIDEOS e SUBNAUTICA; studio.youtube.com/video/hQCvbXhPYFc/edit)",
@@ -3999,5 +4023,5 @@
    "chave": "agendar:_YCpqe5Uxuc"
   }
  ],
- "gerado_em": "2026-11-09T18:03-03:00"
+ "gerado_em": "2026-11-09T18:09-03:00"
 }
