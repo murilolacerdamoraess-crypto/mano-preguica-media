@@ -2638,10 +2638,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
-   "etapa": "pronto pra publicar, você aprovou o fundo novo em 09/11 e liberou agendar; sai ter 10/11 às 18h no canal 2, com a legenda como está (o arquivo está em MP2 - PRONTOS PRA SUBIR sem o aviso no nome, com o .txt de descrição, créditos e capa)",
+   "etapa": "pronto pro clique, privado no canal 2 (studio.youtube.com/video/_YCpqe5Uxuc/edit); capa \"COM DISCO\" subida e conferida na prévia do Studio; título, descrição e 12 tags; sua voz, sem marcação de IA; 5 produtos (memory card de PS2 de R$ 21,99, R36S, Meta Quest 3S, controle Knup e PS2 Slim recondicionado); vídeo relacionado no Batmóvel; playlist Vídeos curtos",
    "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": "10/11"
+   "falta_murilo": "abrir o vídeo no Studio (ou no app do YouTube Studio), Visibilidade, Programar, escolher ter 10/11 às 18h e apertar Programar",
+   "prazo": "10/11 até 17h"
   },
   {
    "tipo": "Short",
@@ -3675,22 +3675,6 @@
    "grupo": "serie-4546b-a1-dia2"
   },
   {
-   "id": "p160",
-   "aberta_em": "2026-11-07T14:38-03:00",
-   "agente": "Anzol",
-   "video": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água (sai hoje 18h)",
-   "o_que": "Escolher o título e a capa do Short do tubarão, que sai hoje às 18h. A capa (o mergulhador com a ferramenta laranja, um tubarão atrás e VAI ESCAPAR?) chega aqui por volta das 16h30. Se você não escolher até 17h30, sai o título 1 com a capa que eu conferir.",
-   "onde": "Capas",
-   "status": "feita",
-   "chave": "capa:short-43-tubarao",
-   "opcoes": [
-    "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-    "Esses caras tão tentando andar debaixo d'água mais rápido que um tubarão"
-   ],
-   "fechada_em": "2026-11-07T18:02-03:00",
-   "nota": "título 1 aprovado pelo Murilo ('gostei do titulo que ta ali'); programado 19h com a capa GPT 1 (padrão do Anzol depois de 17h30)"
-  },
-  {
    "id": "p161",
    "aberta_em": "2026-11-07T14:40-03:00",
    "agente": "Anzol",
@@ -4003,7 +3987,17 @@
    "o_que": "Aprovar as 3 capas juntas: as 3 sobem no Testar e comparar do YouTube, que mostra cada uma pra parte do público e fica com a que der mais clique. Se alguma não te agradar, reprove só ela com o motivo que eu refaço.",
    "onde": "Capas",
    "status": "aberta"
+  },
+  {
+   "id": "p190",
+   "aberta_em": "2026-11-09T18:03-03:00",
+   "agente": "Leme",
+   "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
+   "o_que": "programar o PS2 pra ter 10/11 às 18h (já está tudo pronto e privado: capa, relacionado e produtos). Ou você clica em Visibilidade > Programar no Studio ou no app, ou escreve na sessão do Leme: eu autorizo agendar o PS2 ter 10/11 18h. Prazo: ter até umas 17h",
+   "onde": "Studio",
+   "status": "aberta",
+   "chave": "agendar:_YCpqe5Uxuc"
   }
  ],
- "gerado_em": "2026-11-09T16:20-03:00"
+ "gerado_em": "2026-11-09T18:03-03:00"
 }
