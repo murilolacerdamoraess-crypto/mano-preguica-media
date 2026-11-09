@@ -3509,17 +3509,6 @@
    "nota": "texto velho (prazo de sábado 11h já passou); reaberto com o texto atual"
   },
   {
-   "id": "p134",
-   "aberta_em": "2026-11-06T23:07-03:00",
-   "agente": "Leme",
-   "video": "Traje de FNAF (canal 2)",
-   "o_que": "programar o traje de FNAF pra qui 12/11 às 18h: no Studio do canal 2 que está aberto no Mac, apertar Concluir e depois Salvar (data e hora já estão preenchidas)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-06T23:19-03:00",
-   "nota": "programou em 06/11; publishAt 2026-11-12T21:00Z conferido pela API; capa conferida no Studio"
-  },
-  {
    "id": "p135",
    "aberta_em": "2026-11-06T23:33-03:00",
    "agente": "Lente",
@@ -4050,5 +4039,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T23:09-03:00"
+ "gerado_em": "2026-11-08T23:26-03:00"
 }
