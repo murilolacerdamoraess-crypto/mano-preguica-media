@@ -3952,7 +3952,27 @@
     "B",
     "C"
    ]
+  },
+  {
+   "id": "p184",
+   "aberta_em": "2026-11-09T12:40-03:00",
+   "agente": "Arpão",
+   "video": "Ela inundou a própria base no Subnautica de propósito",
+   "o_que": "gravar a voz das 16 frases (sai qui 19/11 às 18h)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_base_inundada_aurora"
+  },
+  {
+   "id": "p185",
+   "aberta_em": "2026-11-09T12:40-03:00",
+   "agente": "Arpão",
+   "video": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
+   "o_que": "gravar a voz das 16 frases (sai sáb 21/11 às 18h)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_deathrun_extintor"
   }
  ],
- "gerado_em": "2026-11-09T11:42-03:00"
+ "gerado_em": "2026-11-09T11:58-03:00"
 }
