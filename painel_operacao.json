@@ -3883,8 +3883,9 @@
    "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
    "o_que": "ver o fundo novo do PS2 (placa de circuito no lugar das bolhas) e aprovar; sai ter 10/11 às 18h no canal 2",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
+   "status": "feita",
+   "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T",
+   "fechada_em": "2026-11-09T16:18-03:00"
   },
   {
    "id": "p180",
@@ -3979,5 +3980,5 @@
    "chave": "narracao:short_lancador_gancho_batman"
   }
  ],
- "gerado_em": "2026-11-09T16:10-03:00"
+ "gerado_em": "2026-11-09T16:19-03:00"
 }
