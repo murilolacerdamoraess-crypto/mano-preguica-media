@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-09T14:52:16.214739Z",
+ "gerado_em": "2026-11-09T14:58:17.462794Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -171,7 +171,7 @@
   },
   {
    "arquivo": "mp2-luva-one-punch-man.md",
-   "name": "SHORT MP2 - Ele construiu a luva do One Punch Man, e a única coisa que ela não explodiu foi uma abóbora",
+   "name": "SHORT MP2 - Ele tentou socar tão forte que a coisa explodisse, igual ao One Punch Man",
    "titulo_roteiro": "SHORT MP2: a luva do One Punch Man",
    "description": "Short de jornada do canal 2 (pauta P98 do Sonar, 30/10; pedido da Lente pela Meta 7 em 09/11, pra semana de 16 a 22/11). O Allen Pan quer dar um soco que explode a coisa, como o herói do One Punch Man. Testa uma espingar",
    "status": "roteiro (em conferência (Crivo), versão 1)",
@@ -692,7 +692,7 @@
    "name": "SHORT - Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10). Desde 05/11 é a única peça dessa história (o longo da Aurora foi engavetado pelo Murilo). A Viscerface tinha mais ou menos uma hora pra zerar o S",
-   "status": "roteiro aprovado pelo Crivo em 05/11 (commit 0ee2a02c); entra no Gravar quando um dos 3 Shorts do Arpão de lá for gravado (R71: gravar = aprovar)",
+   "status": "pronto-pra-gravar (no Gravar desde 09/11, pedido da Lente pro calendário de 16 a 22/11; Crivo 0ee2a02c, trava R89 362799bd; R71: gravar = aprovar)",
    "gate": "versão 5 (05/11): conferir_fontes (36 confirmadas, 0 com problema, 0 contas. APROVADO), checar_fluidez, roteiro_frases (V50 2:39) e erros repetidos APROVADOS; ensaio do Murilo em 7 leituras e mais 3 depois da devolução do Crivo (05/11: a faca, o \"nem ela entendeu\" e o \"toda vez\"), a última com 0 paradas; fontes 42/0 e V50 2:39 (384 palavras) na versão final; título novo no portao_pauta APROVADO; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -832,7 +832,7 @@
    "name": "SHORT - Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
    "titulo_roteiro": "SHORT: o Deathrun zerado sem andar, com um extintor",
    "description": "Short do canal principal (pauta P55 do Sonar). O Queue zera o Deathrun, o mod mais difícil do Subnautica, sem apertar a tecla de andar, empurrado por um extintor de incêndio. Versão 5 no molde de jornada (06/11): o plano",
-   "status": "roteiro aprovado pelo Crivo em 06/11 (58c7d8a3); entra no Gravar quando a fila de prontos cair (R71: gravar = aprovar)",
+   "status": "pronto-pra-gravar (no Gravar desde 09/11, pedido da Lente pro calendário de 16 a 22/11; Crivo 58c7d8a3, trava R89 289895c7; R71: gravar = aprovar)",
    "gate": "versão 5 (06/11, depois da devolução do Crivo): conferir_fontes 28/0, checar_fluidez, roteiro_frases (V50 2:39, molde jornada) e erros repetidos APROVADOS; ensaio em 12 leituras, fica 1 parada (a cadeira); a Pergunta do fã trocada pela que o Short responde (C91)",
    "video_id": null,
    "publicado_em": null,
