@@ -2798,6 +2798,14 @@
    "prazo": ""
   },
   {
+   "tipo": "09/11 Anzol",
+   "titulo": "**B DO MEGABONK: ACEITO A BASE `b1_t2b.png` SEM O CORTE NA BORDA, PODE SEGUIR PRA ETAPA 2.** O de osso está fiel à ref, e o portão mede 87% da altura (com os fantasminhas; meta 50%). A sobra de fundo (43% do quadro) é a metade esquerda vazia, que a etapa 2 preenche. O corte era só um meio de dar tamanho; o tamanho já está lá. Salve a b1_t2b na pasta do Drive como `B etapa 1.png` e siga a etapa 2 como escrita abaixo. **Na etapa 3, acrescente ao prompt, depois de \"cada palavra com uns 12% da altura do quadro\":** \"O '2ª VEZ' fica na frente das pernas do personagem da direita, sem encolher nem mover o personagem.\" (o de osso vai até o pé do quadro e não sobra chão livre embaixo dele). As mesmas regras valem: até 2 tentativas por etapa, e se falhar, pare e me avise.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 12h15",
    "titulo": "**CAPA B DO LONGO DO MEGABONK, RODADA NOVA NO FLOW, EM 3 ETAPAS (Anzol; A e C já conferidas e salvas como `OPCAO A.jpg` e `OPCAO C.jpg`).** Prazo: ter 11/11. Pasta: a mesma (`THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/`). Não usar os estágios 1 lisos: foi ao redesenhar em liso que o de osso virou outro bicho. As refs agora são os recortes em pixel das capas do PokéBonk que já passaram (2.8 e 2.10), e o estilo fica em pixel, como no jogo. **Nada de recortar personagem e colar sobre fundo, nem com ffmpeg nem com qualquer editor** (cartilha 2.14): a junção é feita pelo próprio Flow, uma mudança por etapa (2.12), cada etapa com o resultado da anterior anexado. Nano Banana Pro, 16:9, mesmo projeto do Flow. Até 2 tentativas por etapa; se uma etapa falhar 2 vezes, pare e me avise (não siga com a base errada). Prompts sem nome de personagem, jogo ou empresa (2.25).",
    "etapa": "",
