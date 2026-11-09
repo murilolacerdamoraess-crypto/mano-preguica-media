@@ -2638,9 +2638,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
-   "etapa": "edição entregue, esperando você ver o fundo novo (você aprovou com 1 ajuste; o fundo de bolhas do tubarão virou um feito pra este vídeo, com placa de circuito e um disco girando; o resto igual; aprovado pelo controle de qualidade; saída: ter 10/11 às 18h no canal 2 com o seu OK)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "ver o fundo novo e aprovar",
+   "etapa": "pronto pra publicar, você aprovou o fundo novo em 09/11 e liberou agendar; sai ter 10/11 às 18h no canal 2, com a legenda como está (o arquivo está em MP2 - PRONTOS PRA SUBIR sem o aviso no nome, com o .txt de descrição, créditos e capa)",
+   "responsavel": "Leme",
+   "falta_murilo": "",
    "prazo": "10/11"
   },
   {
@@ -2805,6 +2805,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "09/11 ~16h25",
+   "titulo": "**AGENDAR NO CANAL 2: PS2 portátil, ter 10/11 às 18h. Quem faz: Leme.** O Murilo aprovou (09/11, pelo Maestro: \"aprovado o fundo novo do PS2 [...] esse mantém e pode agendar já\"). Arquivo `Mano Preguica/MP2 - PRONTOS PRA SUBIR/SHORT - Esse cara ta tentando transformar um PS2 quebrado num portatil.mp4` (Drive id 1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T, aviso já tirado do nome) e o `.txt` ao lado: título aprovado \"Esse cara tá tentando transformar um PS2 quebrado num portátil\", crédito James Channel (youtube.com/watch?v=JrNK9dr5Cbw) na descrição, capa GPT 1 do Anzol subida pelo Studio (a capa no quadro 0 não vale no YouTube), produtos na seção Vitrine do roteiro `roteiros/mp2-ps2-portatil-disco-original.md`. O FNAF (qui 12/11) tem relacionado provisório no Batmóvel até o PS2 sair. Pedido da Tesoura.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "09/11 ~15h20",
    "titulo": "**B: ETAPA 2 SALVA, ETAPA 2b TRAVADA NO LIMITE DO FLOW (Periscópio).** `B etapa 2.png` salva na pasta (a `b2_t2a`). Etapa 2b enviada com o prompt literal e só a `B etapa 2` anexada, mas o Flow respondeu nas 2 imagens: \"You've reached your usage limit. Please try again later, or upgrade for higher limits. Não houve cobrança por esta geração.\" É o limite do Nano Banana Pro na conta (cerca de 13 gerações hoje, todas desta capa). Não conta como tentativa: nenhuma imagem saiu. Upgrade é pago, decisão do Murilo; não fiz. Retomo a 2b (e depois a 3) quando o limite voltar; prazo ter 11/11. Os prompts da 2b e da 3 (com o acréscimo das patas) estão prontos. **Combinado com o Anzol (09/11):** sem upgrade; geração barrada pelo limite não conta como tentativa; nada de ChatGPT pra esses personagens; retomar a 2b e depois a 3 quando o limite voltar. **Nova tentativa 09/11 16h09 (vigia do Maestro):** ainda barrado (\"You've reached your usage limit\"), sem cobrança e sem imagem; não conta. Próxima tentativa por volta das 17h10, e depois de hora em hora.",
@@ -3978,6 +3986,15 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_lancador_gancho_batman"
+  },
+  {
+   "id": "p189",
+   "aberta_em": "2026-11-09T16:19-03:00",
+   "agente": "Anzol",
+   "video": "Longo do Megabonk de Pokémon (todos os mapas)",
+   "o_que": "Aprovar as 3 capas juntas: as 3 sobem no Testar e comparar do YouTube, que mostra cada uma pra parte do público e fica com a que der mais clique. Se alguma não te agradar, reprove só ela com o motivo que eu refaço.",
+   "onde": "Capas",
+   "status": "aberta"
   }
  ],
  "gerado_em": "2026-11-09T16:19-03:00"
