@@ -1121,7 +1121,7 @@
    "por_que_agora": "saiu em 09/10/2026 e tem 424.676 views, mais que os 366 mil inscritos do canal. O canal 2 precisa de 3 jornadas por semana (R38).",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE (busca em português sem versão do vídeo)",
-   "status": "pego por Arpão (09/11, divisão com a Tarrafa pelo pedido da Lente: 3 jornadas do canal 2 no Gravar até qui 12/11; semana de 09/11 do canal 2; não vai pro Decidir até abrir vaga no teto de 5 roteiros)",
+   "status": "pego por Arpão (09/11, roteiro no Gravar desde 09/11, sai sex 20/11 no canal 2; divisão com a Tarrafa pelo pedido da Lente: 3 jornadas do canal 2 no Gravar até qui 12/11; semana de 09/11 do canal 2; não vai pro Decidir até abrir vaga no teto de 5 roteiros)",
    "frente": "2 (outros universos com hype)",
    "pendente": ""
   },
@@ -2254,9 +2254,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-   "etapa": "roteiro aprovado (versão 5, aprovada pelo Crivo em 05/11; vai direto pro Gravar assim que você gravar um dos 3 Shorts que já estão lá; peça única desde que você engavetou o longo da Aurora: o título e o gancho agora dizem o que inundar a base dá, o jogo soma andar e nadar e ela fica muito mais rápida, e pra quê, zerar antes da Aurora, a nave que explode num tempo marcado; uns 2:39, voz sua)",
+   "etapa": "gravação (texto no Gravar desde 09/11, 16 frases, uns 2:39; sai qui 19/11 às 18h)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -2486,9 +2486,17 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "etapa": "roteiro aprovado (versão 5 de 06/11, aprovada pelo Crivo, a primeira escrita no molde novo de jornada: o extintor em rajadinhas, o corredor de 3 horas até o Lava Castle, o PC que travou sem salvar, o monstro que errou o bote e a entrada com o último extintor; uns 2:39, voz sua; vai pro Gravar quando a fila de prontos cair, depois da Aurora)",
+   "etapa": "gravação (texto no Gravar desde 09/11, 16 frases, uns 2:39; sai sáb 21/11 às 18h)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
+   "etapa": "gravação (texto no Gravar desde 09/11, 14 frases, uns 2:38; sai sex 20/11 às 18h no canal 2)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4010,7 +4018,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:mp2-cozinha-arrietty-fogo.md@v1"
+  },
+  {
+   "id": "p188",
+   "aberta_em": "2026-11-09T15:30-03:00",
+   "agente": "Arpão",
+   "video": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
+   "o_que": "gravar a voz das 14 frases (sai sex 20/11 às 18h no canal 2)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_lancador_gancho_batman"
   }
  ],
- "gerado_em": "2026-11-09T12:35-03:00"
+ "gerado_em": "2026-11-09T12:40-03:00"
 }
