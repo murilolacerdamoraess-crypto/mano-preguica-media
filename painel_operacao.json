@@ -2746,6 +2746,14 @@
  ],
  "navegador": [
   {
+   "tipo": "09/11 ~08h40",
+   "titulo": "**FEITO: Obra Absurda vídeo 4 v2 (Canal do Panamá) agendado direto pela autorização permanente.** Pedido do Maestro; OK do Murilo no Assistir (p178, fechada 09/11 08:02, \"ficou bom o video 4 v2 bem melhor\"). md5 63ee8b4a conferido, portão de áudio APROVADO (-14,0 LUFS). YouTube `s-i1UVAEFUQ` \"Vídeo programado\", público 11 de novembro de 2026 às 18:00 (não é para crianças, conteúdo alterado = Sim). TikTok @obra.absurda \"11 de nov, 18:00 (GMT-3)\", rótulo de IA ligado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "08/11 ~11h20",
    "titulo": "**FEITO: o Murilo escreveu \"eu autorizo\" e cliquei.** YouTube `8Kz4QSR2VDU` Programado 10 de nov. de 2026 18:00 (lista do Studio); TikTok 10 de nov, 18:00 (GMT-3) na lista de conteúdo. Abas t9 e t10 fechadas. **Daqui pra frente (fala dele): todo vídeo do Obra Absurda que ele aprovar eu agendo sem pedir de novo.** ~~[08/11 10h] OBRA ABSURDA VÍDEO 3 (Torre Eiffel, p174, aprovado pelo Murilo 08/11 ~09h40): PRONTO, PARADO NO ÚLTIMO CLIQUE, esperando o \"eu autorizo\" dele na minha sessão.~~ Arquivo final_v03.mp4 md5 8aa2035b conferido, portão de áudio APROVADO (-14,1 LUFS). YouTube (canalia t9): `8Kz4QSR2VDU`, título do roteiro 03 (86 caracteres), descrição da seção do post, não é pra crianças, conteúdo alterado Sim, 10 de nov. de 2026 18:00, botão Programar. TikTok (t10, @obra.absurda): legenda igual, rótulo de IA ligado, Programar 10 de nov de 2026 18:00 (GMT-3), botão Agendar.",
    "etapa": "",
@@ -3860,5 +3868,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-09T08:03-03:00"
+ "gerado_em": "2026-11-09T08:12-03:00"
 }
