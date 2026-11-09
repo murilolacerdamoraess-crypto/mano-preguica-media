@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-09T15:00:49.897915Z",
+ "gerado_em": "2026-11-09T15:04:23.295816Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -170,8 +170,22 @@
    "fonte_yt": "Qus5_kbJZBY"
   },
   {
+   "arquivo": "mp2-cozinha-arrietty-fogo.md",
+   "name": "SHORT MP2 - Ele construiu a cozinha da Arrietty no tamanho dela, e tentou acender o fogão do filme de verdade",
+   "titulo_roteiro": "SHORT MP2: a cozinha da Arrietty com fogo de verdade",
+   "description": "Short de jornada do canal 2 (pauta P125 do Sonar, 09/11; pedido da Lente pela Meta 7 em 09/11, pra semana de 16 a 22/11). O Physical Render constrói a cozinha da Arrietty (O Mundo dos Pequeninos, Studio Ghibli) na escala",
+   "status": "roteiro (em conferência (Crivo), versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2 (jornada)",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "nTFRqV3VVMs"
+  },
+  {
    "arquivo": "mp2-luva-one-punch-man.md",
-   "name": "SHORT MP2 - Ele tentou socar tão forte que a coisa explodisse, igual ao One Punch Man",
+   "name": "SHORT MP2 - Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
    "titulo_roteiro": "SHORT MP2: a luva do One Punch Man",
    "description": "Short de jornada do canal 2 (pauta P98 do Sonar, 30/10; pedido da Lente pela Meta 7 em 09/11, pra semana de 16 a 22/11). O Allen Pan quer dar um soco que explode a coisa, como o herói do One Punch Man. Testa uma espingar",
    "status": "roteiro (em conferência (Crivo), versão 1)",
@@ -1007,7 +1021,7 @@
    "formato": "short (voz real do Murilo, narrado em cima do vídeo da Kiara's Workshop), jornada de 2 a 2,5 min",
    "motor": null,
    "versao": "1",
-   "fonte_yt": null
+   "fonte_yt": "TvJmQ5xZCQo"
   },
   {
    "arquivo": "short-luva-lagartixa-homem-aranha.md",
