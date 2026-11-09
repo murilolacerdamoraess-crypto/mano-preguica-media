@@ -2453,6 +2453,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
+   "etapa": "gravação, texto no Gravar desde 09/11 (canal 2, 15 frases, uns 2:38, com os quadros do vídeo do Allen Pan no topo e em cada frase; saída proposta: dom 22/11 às 18h)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
    "etapa": "gravação (roteiro aprovado em 07/11 22:34, no Gravar com 11 trechos; a ordem de edição já está pronta, com os trechos de gameplay escolhidos e a tabela da wiki em gráfico)",
    "responsavel": "Lente",
@@ -2781,6 +2789,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "09/11 ~14h00",
+   "titulo": "**B, ETAPA 1 FALHOU 2 VEZES, PAREI (Periscópio).** Duas gerações no Flow (x2 cada, 4 imagens), prompt literal, IMAGEM 1 = o recorte em pixel do PB5. Nas 4 o de osso sai fiel à ref (pixel, marrom, barriga creme, capacete de caveira, osso cruzado, fantasminhas pretos de olhos vermelhos) e a metade esquerda fica vazia; **mas nas 4 ele sai de corpo inteiro, com os pés no chão, a uns 75 a 78% da altura, sem o corte pela borda de baixo.** Não segui pra etapa 2. Candidatas no scratchpad do Periscópio: `/private/tmp/claude-501/-Users-murilomoraes-claude-projects-cerebro--maestri-roles-6af10230-fad0-4dd1-a71d-7aa6d6f028c2/fad9d051-7ab3-495f-8241-8bb2bbb41771/scratchpad/mb/b1_t1a.png`, `b1_t1b.png`, `b1_t2a.png`, `b1_t2b.png` (prévia `b1_todas.png`); a mais perto do pedido é a `b1_t2b.png` (maior e mais à direita). Decisão com o Anzol.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "09/11 12h15",
    "titulo": "**CAPA B DO LONGO DO MEGABONK, RODADA NOVA NO FLOW, EM 3 ETAPAS (Anzol; A e C já conferidas e salvas como `OPCAO A.jpg` e `OPCAO C.jpg`).** Prazo: ter 11/11. Pasta: a mesma (`THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/`). Não usar os estágios 1 lisos: foi ao redesenhar em liso que o de osso virou outro bicho. As refs agora são os recortes em pixel das capas do PokéBonk que já passaram (2.8 e 2.10), e o estilo fica em pixel, como no jogo. **Nada de recortar personagem e colar sobre fundo, nem com ffmpeg nem com qualquer editor** (cartilha 2.14): a junção é feita pelo próprio Flow, uma mudança por etapa (2.12), cada etapa com o resultado da anterior anexado. Nano Banana Pro, 16:9, mesmo projeto do Flow. Até 2 tentativas por etapa; se uma etapa falhar 2 vezes, pare e me avise (não siga com a base errada). Prompts sem nome de personagem, jogo ou empresa (2.25).",
@@ -3950,7 +3966,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_deathrun_extintor"
+  },
+  {
+   "id": "p186",
+   "aberta_em": "2026-11-09T12:16-03:00",
+   "agente": "Tarrafa",
+   "video": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir (canal 2)",
+   "o_que": "gravar a voz das 15 frases (sai dom 22/11 às 18h)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:mp2-luva-one-punch-man.md@v1"
   }
  ],
- "gerado_em": "2026-11-09T12:11-03:00"
+ "gerado_em": "2026-11-09T12:17-03:00"
 }
