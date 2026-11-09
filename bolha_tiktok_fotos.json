@@ -468,6 +468,10 @@
 {
 "t": 1794237144,
 "v": 259
+},
+{
+"t": 1794259746,
+"v": 259
 }
 ],
 "views": 259
@@ -661,7 +665,7 @@
 "v": 37800
 }
 ],
-"views": 45600
+"views": 45700
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -807,7 +811,7 @@
 "v": 431
 }
 ],
-"views": 968
+"views": 1050
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -873,13 +877,13 @@
 "titulo": "sobrevivi 24h no Subnautica com monstros aleatórios pelo mapa 😰 #subn...",
 "ts": 1788382895,
 "fotos": [],
-"views": 630
+"views": 631
 },
 "7680304123048168712": {
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1576
+"views": 1582
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -1390,7 +1394,7 @@
 "v": 2752
 }
 ],
-"views": 3751
+"views": 3756
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2602,7 +2606,7 @@
 "v": 10900
 }
 ],
-"views": 14900
+"views": 15000
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -3488,9 +3492,13 @@
 {
 "t": 1794252225,
 "v": 5123
+},
+{
+"t": 1794259746,
+"v": 5132
 }
 ],
-"views": 5123
+"views": 5132
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -3623,9 +3631,13 @@
 {
 "t": 1794252225,
 "v": 2763
+},
+{
+"t": 1794259746,
+"v": 2772
 }
 ],
-"views": 2763
+"views": 2772
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -3694,9 +3706,13 @@
 {
 "t": 1794244840,
 "v": 270
+},
+{
+"t": 1794259746,
+"v": 271
 }
 ],
-"views": 270
+"views": 271
 },
 "7705908946741120274": {
 "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares...",
@@ -3745,9 +3761,24 @@
 {
 "t": 1794252225,
 "v": 2075
+},
+{
+"t": 1794259746,
+"v": 2092
 }
 ],
-"views": 2075
+"views": 2092
+},
+"7706280079789214997": {
+"titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #...",
+"ts": 1794258152,
+"fotos": [
+{
+"t": 1794259746,
+"v": 82
+}
+],
+"views": 82
 }
 }
 }
