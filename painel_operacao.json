@@ -2662,10 +2662,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
-   "etapa": "pronto pro clique, privado no canal 2 (studio.youtube.com/video/_YCpqe5Uxuc/edit); capa \"COM DISCO\" subida e conferida na prévia do Studio; título, descrição e 12 tags; sua voz, sem marcação de IA; 5 produtos (memory card de PS2 de R$ 21,99, R36S, Meta Quest 3S, controle Knup e PS2 Slim recondicionado); vídeo relacionado no Batmóvel; playlist Vídeos curtos",
+   "etapa": "agendado no canal 2 pra ter 10/11 às 18h, você autorizou na sessão do Leme em 09/11 e a data foi conferida pela API e no Studio (Programado) (studio.youtube.com/video/_YCpqe5Uxuc/edit); capa \"COM DISCO\" conferida na prévia do Studio; título, descrição e 12 tags; sua voz, sem marcação de IA; 5 produtos (memory card de PS2 de R$ 21,99, R36S, Meta Quest 3S, controle Knup e PS2 Slim recondicionado); vídeo relacionado no Batmóvel; playlist Vídeos curtos",
    "responsavel": "Leme",
-   "falta_murilo": "abrir o vídeo no Studio (ou no app do YouTube Studio), Visibilidade, Programar, escolher ter 10/11 às 18h e apertar Programar",
-   "prazo": "10/11 até 17h"
+   "falta_murilo": "",
+   "prazo": "10/11"
   },
   {
    "tipo": "Short",
@@ -4019,9 +4019,11 @@
    "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
    "o_que": "programar o PS2 pra ter 10/11 às 18h (já está tudo pronto e privado: capa, relacionado e produtos). Ou você clica em Visibilidade > Programar no Studio ou no app, ou escreve na sessão do Leme: eu autorizo agendar o PS2 ter 10/11 18h. Prazo: ter até umas 17h",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "agendar:_YCpqe5Uxuc"
+   "status": "feita",
+   "chave": "agendar:_YCpqe5Uxuc",
+   "fechada_em": "2026-11-09T18:34-03:00",
+   "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
   }
  ],
- "gerado_em": "2026-11-09T18:09-03:00"
+ "gerado_em": "2026-11-09T18:34-03:00"
 }
