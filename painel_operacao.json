@@ -3490,17 +3490,6 @@
    "jogando": true
   },
   {
-   "id": "p121",
-   "aberta_em": "2026-11-06T11:45-03:00",
-   "agente": "Periscópio",
-   "video": "Longo dos 34 leviatãs (#36)",
-   "o_que": "classificar os anúncios do #36 no Studio (o rascunho já subiu; sai seg 09/11 12h)",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-07T19:22-03:00",
-   "nota": "ele ativou a monetização e classificou os anúncios do #36 no Studio em 07/11 18:06"
-  },
-  {
    "id": "p128",
    "aberta_em": "2026-11-06T17:10-03:00",
    "agente": "Periscópio",
@@ -3511,18 +3500,6 @@
    "chave": "noiz-login-0711",
    "fechada_em": "2026-11-07T22:38-03:00",
    "nota": "texto velho (prazo de sábado 11h já passou); reaberto com o texto atual"
-  },
-  {
-   "id": "p137",
-   "aberta_em": "2026-11-07T01:23-03:00",
-   "agente": "Periscópio",
-   "video": "Longo dos 34 leviatãs (#36) e Short da arma pro Reaper (#37)",
-   "o_que": "Agendar no Studio: o #36 pra seg 09/11 12h e o #37 pra ter 10/11 18h (títulos novos e capas já estão lá; os dois estão privados sem data)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-07T19:22-03:00",
-   "nota": "os dois agendados por ele em 07/11: #37 ter 10/11 18h (18:04) e #36 seg 09/11 12h com acesso antecipado de membros; conferido pela API",
-   "chave": "studio-agendar-36-37"
   },
   {
    "id": "p138",
@@ -3993,5 +3970,5 @@
    "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
   }
  ],
- "gerado_em": "2026-11-09T19:20-03:00"
+ "gerado_em": "2026-11-09T19:32-03:00"
 }
