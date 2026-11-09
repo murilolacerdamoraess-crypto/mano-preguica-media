@@ -2461,6 +2461,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Ele construiu a cozinha minúscula da Arrietty, e tentou acender o fogão do filme de verdade",
+   "etapa": "gravação, texto no Gravar desde 09/11 (canal 2, 17 frases, uns 2:38, com os quadros do vídeo do Physical Render no topo e em cada frase; saída proposta: ter 17/11 às 18h)",
+   "responsavel": "Tarrafa",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
    "etapa": "gravação (roteiro aprovado em 07/11 22:34, no Gravar com 11 trechos; a ordem de edição já está pronta, com os trechos de gameplay escolhidos e a tabela da wiki em gráfico)",
    "responsavel": "Lente",
@@ -3992,7 +4000,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:mp2-luva-one-punch-man.md@v1"
+  },
+  {
+   "id": "p187",
+   "aberta_em": "2026-11-09T12:34-03:00",
+   "agente": "Tarrafa",
+   "video": "Ele construiu a cozinha minúscula da Arrietty, e tentou acender o fogão do filme de verdade (canal 2)",
+   "o_que": "gravar a voz das 17 frases (sai ter 17/11 às 18h)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:mp2-cozinha-arrietty-fogo.md@v1"
   }
  ],
- "gerado_em": "2026-11-09T12:29-03:00"
+ "gerado_em": "2026-11-09T12:35-03:00"
 }
