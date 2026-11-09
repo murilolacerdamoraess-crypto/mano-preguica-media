@@ -3393,18 +3393,6 @@
    "nota": "texto velho (prazo de sábado 11h já passou); reaberto com o texto atual"
   },
   {
-   "id": "p136",
-   "aberta_em": "2026-11-07T01:12-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, arco 1 (série você decide)",
-   "o_que": "ler o arco 1 e aprovar ou pedir ajuste",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:serie-4546b-arco-1.md@v2",
-   "fechada_em": "2026-11-07T12:05-03:00",
-   "nota": "aprovou o arco 1 v2 no painel 07/11 11:54"
-  },
-  {
    "id": "p137",
    "aberta_em": "2026-11-07T01:23-03:00",
    "agente": "Periscópio",
@@ -3974,5 +3962,5 @@
    "chave": "narracao:short_deathrun_extintor"
   }
  ],
- "gerado_em": "2026-11-09T11:58-03:00"
+ "gerado_em": "2026-11-09T12:08-03:00"
 }
