@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-09T03:56:04.263602-03:00",
+ "gerado_em": "2026-11-09T18:40:21.000943-03:00",
  "mes": {
   "postados": 6,
   "teto": 93,
@@ -11,16 +11,10 @@
    "manual": true,
    "cadencia": "manual (Metricool)",
    "na_fila": 19,
-   "ultimo_post": "2026-11-08",
-   "dias_parado": 1,
+   "ultimo_post": "2026-11-09",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "1QprFcx4k8I",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show",
-     "quando": "2026-11-09T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
@@ -162,7 +156,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 53,
+   "na_fila": 54,
    "ultimo_post": "2026-11-04",
    "dias_parado": 5,
    "parado": false,
