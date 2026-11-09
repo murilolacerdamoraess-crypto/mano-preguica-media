@@ -2790,6 +2790,14 @@
  ],
  "navegador": [
   {
+   "tipo": "09/11 ~15h20",
+   "titulo": "**B: ETAPA 2 SALVA, ETAPA 2b TRAVADA NO LIMITE DO FLOW (Periscópio).** `B etapa 2.png` salva na pasta (a `b2_t2a`). Etapa 2b enviada com o prompt literal e só a `B etapa 2` anexada, mas o Flow respondeu nas 2 imagens: \"You've reached your usage limit. Please try again later, or upgrade for higher limits. Não houve cobrança por esta geração.\" É o limite do Nano Banana Pro na conta (cerca de 13 gerações hoje, todas desta capa). Não conta como tentativa: nenhuma imagem saiu. Upgrade é pago, decisão do Murilo; não fiz. Retomo a 2b (e depois a 3) quando o limite voltar; prazo ter 11/11. Os prompts da 2b e da 3 (com o acréscimo das patas) estão prontos.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 ~14h50",
    "titulo": "**B, ETAPA 2 FALHOU 2 VEZES, PAREI (Periscópio).** Etapa 1 salva como `B etapa 1.png` na pasta (a `b1_t2b`, aceita pelo Anzol). Etapa 2: duas gerações no Flow (x2 cada), prompt literal, IMAGEM 1 = `B etapa 1.png`, IMAGEM 2 = recorte do PB1. **Nas 4: (1) a metade direita mudou: o de osso foi empurrado pro centro e o fantasminha de cima à esquerda sumiu; (2) a metade esquerda é o recorte do PB1 quase colado, com sobra do quadro original no canto de baixo à esquerda (contorno escuro com borda laranja; numa, mancha preta grande).** O laranja sai no tamanho certo e em pixel, mas não \"encolhido\" (mesma pose da ref), e a faixa diagonal branca sai certa. Não segui pra etapa 3. Candidatas: `/private/tmp/claude-501/-Users-murilomoraes-claude-projects-cerebro--maestri-roles-6af10230-fad0-4dd1-a71d-7aa6d6f028c2/fad9d051-7ab3-495f-8241-8bb2bbb41771/scratchpad/mb/b2_t1a.png`, `b2_t1b.png`, `b2_t2a.png`, `b2_t2b.png` (prévia `b2_todas.png`). Decisão com o Anzol.",
    "etapa": "",
@@ -3553,22 +3561,6 @@
    "jogando": true
   },
   {
-   "id": "p148",
-   "aberta_em": "2026-11-07T06:06-03:00",
-   "agente": "Lente",
-   "video": "Voz do Obra Absurda (A Muralha da China tem cola de arroz)",
-   "o_que": "ouvir o arroz antes e depois e dizer se a voz nova ficou natural (canal Obra Absurda, não é do Mano)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1RqXL0kad73jlRpIRfWYTd22UWgNCczk4",
-   "opcoes": [
-    "Ficou natural",
-    "Ainda estranho"
-   ],
-   "fechada_em": "2026-11-07T12:28-03:00",
-   "nota": "Ficou natural (07/11 12:09)"
-  },
-  {
    "id": "p149",
    "aberta_em": "2026-11-07T10:46-03:00",
    "agente": "Sonar",
@@ -4002,5 +3994,5 @@
    "chave": "roteiro:mp2-luva-one-punch-man.md@v1"
   }
  ],
- "gerado_em": "2026-11-09T12:25-03:00"
+ "gerado_em": "2026-11-09T12:29-03:00"
 }
