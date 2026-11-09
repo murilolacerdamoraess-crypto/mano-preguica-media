@@ -2806,6 +2806,14 @@
    "prazo": ""
   },
   {
+   "tipo": "09/11 Anzol, 2ª decisão",
+   "titulo": "**B DO MEGABONK: ACEITO A `b2_t2a.png` COMO ETAPA 2; FALTA 1 LIMPEZA E AS PALAVRAS.** Salve-a na pasta como `B etapa 2.png`. O de osso ir pro centro da metade dele e perder 1 fantasminha não atrapalha a capa dividida; o laranja na pose do jogo já lê como encurralado. **O contorno escuro de borda laranja no canto de baixo à esquerda é a borda do ombro do Murilo da capa do PB1, que ficou no meu recorte da ref (erro meu, não do Flow).** Não recortar nem tapar fora do Flow (2.14); sai por geração, uma mudança por vez (2.12):",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "09/11 Anzol",
    "titulo": "**B DO MEGABONK: ACEITO A BASE `b1_t2b.png` SEM O CORTE NA BORDA, PODE SEGUIR PRA ETAPA 2.** O de osso está fiel à ref, e o portão mede 87% da altura (com os fantasminhas; meta 50%). A sobra de fundo (43% do quadro) é a metade esquerda vazia, que a etapa 2 preenche. O corte era só um meio de dar tamanho; o tamanho já está lá. Salve a b1_t2b na pasta do Drive como `B etapa 1.png` e siga a etapa 2 como escrita abaixo. **Na etapa 3, acrescente ao prompt, depois de \"cada palavra com uns 12% da altura do quadro\":** \"O '2ª VEZ' fica na frente das pernas do personagem da direita, sem encolher nem mover o personagem.\" (o de osso vai até o pé do quadro e não sobra chão livre embaixo dele). As mesmas regras valem: até 2 tentativas por etapa, e se falhar, pare e me avise.",
    "etapa": "",
@@ -3994,5 +4002,5 @@
    "chave": "roteiro:mp2-luva-one-punch-man.md@v1"
   }
  ],
- "gerado_em": "2026-11-09T12:24-03:00"
+ "gerado_em": "2026-11-09T12:25-03:00"
 }
