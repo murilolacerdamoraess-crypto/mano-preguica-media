@@ -3521,18 +3521,6 @@
    "nota": "título aprovado 22:59"
   },
   {
-   "id": "p132",
-   "aberta_em": "2026-11-06T21:45-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
-   "o_que": "ver a comparação e escolher o estilo: híbrido, só low poly ou só Flow",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1F0MLHz1TeT2D_TYRmWwtzwyreYlTJeO2",
-   "fechada_em": "2026-11-06T23:02-03:00",
-   "nota": "low poly, animado (Murilo: dá pra fazer mais e mais rápido; tem canais funcionando só com poly)"
-  },
-  {
    "id": "p133",
    "aberta_em": "2026-11-06T22:07-03:00",
    "agente": "Lente",
@@ -4092,5 +4080,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T22:09-03:00"
+ "gerado_em": "2026-11-08T23:04-03:00"
 }
