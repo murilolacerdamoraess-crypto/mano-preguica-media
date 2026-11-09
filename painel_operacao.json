@@ -3845,8 +3845,9 @@
    "video": "Obra Absurda, vídeo 4 v2: o Canal do Panamá com o mapa do canal (low poly)",
    "o_que": "assistir de novo o vídeo 4 do Canal do Panamá (85 s) com os seus 3 ajustes: o navio navega desde o começo sem pular, um mapa do canal inteiro mostra o Atlântico, as eclusas subindo, o lago Gatún lá no alto com a barragem, as eclusas descendo e o Pacífico, e o mapa volta quando a fala cita o lago e os oceanos. Já passou no Crivo. Se aprovar, o Periscópio agenda direto pra 11/11 às 18h",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1SRWHWpl2M2I9HkAe3x6tJrY8yuTSiMhO"
+   "status": "feita",
+   "chave": "video:1SRWHWpl2M2I9HkAe3x6tJrY8yuTSiMhO",
+   "fechada_em": "2026-11-09T08:02-03:00"
   },
   {
    "id": "p179",
@@ -3859,5 +3860,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-09T01:30-03:00"
+ "gerado_em": "2026-11-09T08:03-03:00"
 }
