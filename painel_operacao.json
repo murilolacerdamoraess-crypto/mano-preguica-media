@@ -3462,18 +3462,6 @@
    "nota": "faltava a data de saída"
   },
   {
-   "id": "p120",
-   "aberta_em": "2026-11-06T11:45-03:00",
-   "agente": "Lente",
-   "video": "Teste de voz de IA (canal Obra Absurda e Shorts)",
-   "o_que": "ouvir as vozes F a J da rodada 2 (vídeo no Assistir) e dar uma nota de 0 a 10 pra cada uma",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1xji2m6WJVrRoCkVvuABfQaQ1qveCh2v6",
-   "fechada_em": "2026-11-06T21:43-03:00",
-   "nota": "06/11: H, I e J aprovadas pro rodízio (homem, homem e mulher), G de reserva, F reprovada; pediu médios e graves pra soar menos IA"
-  },
-  {
    "id": "p121",
    "aberta_em": "2026-11-06T11:45-03:00",
    "agente": "Periscópio",
@@ -3483,18 +3471,6 @@
    "status": "feita",
    "fechada_em": "2026-11-07T19:22-03:00",
    "nota": "ele ativou a monetização e classificou os anúncios do #36 no Studio em 07/11 18:06"
-  },
-  {
-   "id": "p122",
-   "aberta_em": "2026-11-06T13:45-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1 (a Muralha da China colada com arroz)",
-   "o_que": "assistir a versão 3 nas duas trilhas (A: Legionnaire, de Scott Buckley, orquestra com crédito na descrição; B: gerada no Mac) e escolher A ou B",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "obra-absurda-v01-trilha",
-   "fechada_em": "2026-11-06T21:44-03:00",
-   "nota": "trocado por vídeo de comparação: o card só tocava uma das duas versões"
   },
   {
    "id": "p123",
@@ -3507,18 +3483,6 @@
    "chave": "t11-reel-teste-instagram",
    "fechada_em": "2026-11-07T00:03-03:00",
    "nota": "Murilo: não quer testar nada no Instagram"
-  },
-  {
-   "id": "p124",
-   "aberta_em": "2026-11-06T14:08-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1 (Muralha da China)",
-   "o_que": "ver a grade low poly em código x Flow v3 e escolher o estilo: híbrido (código nas cenas de fato, Flow nas de gente), só low poly, ou só Flow",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "obra-absurda-estilo-lowpoly",
-   "fechada_em": "2026-11-06T21:45-03:00",
-   "nota": "trocado por vídeo de comparação: o card só toca vídeo e a grade era JPG"
   },
   {
    "id": "p125",
@@ -4164,5 +4128,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T21:28-03:00"
+ "gerado_em": "2026-11-08T21:48-03:00"
 }
