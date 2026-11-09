@@ -3427,16 +3427,6 @@
    "jogando": true
   },
   {
-   "id": "p112",
-   "aberta_em": "2026-11-06T01:58-03:00",
-   "agente": "Tesoura",
-   "video": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-   "o_que": "assistir e aprovar ou pedir ajuste (canal 2; sai qui 12/11 18h se aprovado)",
-   "onde": "Assistir",
-   "status": "feita",
-   "fechada_em": "2026-11-06T21:26-03:00"
-  },
-  {
    "id": "p113",
    "aberta_em": "2026-11-06T11:07-03:00",
    "agente": "Periscópio",
@@ -3446,51 +3436,6 @@
    "status": "cancelada",
    "fechada_em": "2026-11-07T00:03-03:00",
    "nota": "Murilo: acho que não vou aceitar (KeysDrop)"
-  },
-  {
-   "id": "p114",
-   "aberta_em": "2026-11-06T11:16-03:00",
-   "agente": "Anzol",
-   "video": "Estão montando o Reaper do Subnautica em LEGO",
-   "o_que": "Aprovar o título do Short do Reaper de LEGO: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-do-short-do-reaper-de-lego-esse-cara-ta-montando-o-reaper-do-subnautica-e:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T21:26-03:00"
-  },
-  {
-   "id": "p115",
-   "aberta_em": "2026-11-06T11:30-03:00",
-   "agente": "Anzol",
-   "video": "Longo dos 34 leviatãs",
-   "o_que": "Aprovar o título novo do longo (opção 1, recomendada): Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo; sai seg 09/11 12h",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-novo-v2-do-longo-dos-34-leviatas-opcao-1-ele-fez-uma-arma-pra-enfrentar-t:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T21:25-03:00"
-  },
-  {
-   "id": "p116",
-   "aberta_em": "2026-11-06T11:30-03:00",
-   "agente": "Anzol",
-   "video": "Longo dos 34 leviatãs",
-   "o_que": "Ou aprovar a opção 2 do título do longo: Esse cara fez uma arma pra enfrentar todos os leviatãs do Subnautica a nado",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "peca:titulo-novo-v2-do-longo-dos-34-leviatas-opcao-2-esse-cara-fez-uma-arma-pra-enfre:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T21:25-03:00",
-   "nota": "Murilo aprovou a opção 1 (06/11); a 2 perdeu o sentido"
-  },
-  {
-   "id": "p117",
-   "aberta_em": "2026-11-06T11:30-03:00",
-   "agente": "Anzol",
-   "video": "Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
-   "o_que": "Aprovar o título novo do Short da arma pro Reaper, pra não ficar igual ao do longo: Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica; sai ter 10/11 18h",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "peca:titulo-novo-v4-do-short-da-arma-nova-pro-reaper-esse-cara-usou-as-bolsas-de-gas-:aprovar-este-titulo",
-   "fechada_em": "2026-11-06T21:26-03:00"
   },
   {
    "id": "p118",
@@ -4219,5 +4164,5 @@
    "chave": "video:1AYwloF5RqSrI_l8OyVykrZz-i_9kJ02T"
   }
  ],
- "gerado_em": "2026-11-08T20:37-03:00"
+ "gerado_em": "2026-11-08T21:28-03:00"
 }
