@@ -712,6 +712,14 @@
    "confianca": "forte no problema (3 casos em 2 roteiros numa noite); fraca na trava em código (ainda não testada: o teste R65 seria a 1c51e008 da bateria recusada e a 85069d8a aceita).",
    "status": "aplicada 2026-11-08 (aprovada pelo Murilo, painel 08/11 11:20). Ordem: shorts-roteirista passos 7b e 7b2 e os 2 moldes (skills 8938ac0, Prumo). Trava: Crivo, crivo/trava_crivo.py e revisar_gravar.py (e62b113d) e publicar_narracao.py (skills dfde62a); teste R65 aprovado (lava 1c51e008 recusa, 85069d8a aceita; cápsula dc8bfc7a recusa antes do APROVADO novo e aceita depois). shorts-roteirista 3.3",
    "simples": "quando a leitura de teste troca uma frase de um roteiro que o Crivo já tinha aprovado, a frase nova volta pro Crivo antes de ir pro seu Gravar. Na bateria da lava, duas trocas assim chegaram ao Gravar com erro (uma dizia que as larvas juntas sempre sugam a bateria mais rápido, e a tabela da wiki mostra que de 2 a 4 elas sugam até mais devagar), e o Crivo só pegou depois."
+  },
+  {
+   "id": "R90",
+   "titulo": "Antes de ir pro Murilo, o vídeo do Obra Absurda é assistido inteiro por alguém que não leu o roteiro e aponta o que não existe de verdade ou não dá pra entender.",
+   "onde": "role canal-ia.md (entrega da Maré) e crivo-checklist (linha nova), só pro Obra Absurda. Não estendo ao Mano nem ao canal 2 sem prova de lá (C9).",
+   "confianca": "forte no problema (4 de 5 vídeos, cada um com a frase dele); fraca no ganho (o subagente ainda não foi testado nesses vídeos).",
+   "status": "aguardando",
+   "simples": "antes de um vídeo do Obra Absurda chegar pra você, alguém que não leu o roteiro assiste ele inteiro e aponta só o que não existe de verdade ou não dá pra entender. Em 4 dos 5 vídeos foi você que achou um defeito assim (o boneco de costas pra parede, o navio que pulava de lugar, os prédios em cima da ponte), e isso só começa a valer se, num teste com as versões antigas, ele achar esses mesmos defeitos."
   }
  ],
  "equipe": [
@@ -3852,5 +3860,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T09:33-03:00"
+ "gerado_em": "2026-11-10T09:36-03:00"
 }
