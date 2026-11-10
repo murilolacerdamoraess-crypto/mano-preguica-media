@@ -2830,8 +2830,16 @@
    "prazo": ""
   },
   {
+   "tipo": "10/11 ~13h",
+   "titulo": "**FEITO EM PARTE (Periscópio): capa do Octopus saiu pelo Flow, 2 versões salvas; o ChatGPT recusou o estágio 2.** Estágio 1 no ChatGPT passou sem recusa (salvo como `CAPA OCTOPUS - estagio 1.png`, 1672x941, fiel: 4 braços vermelhos com ponta em lâmina, sem borrão). Estágio 2 (chat novo, estágio 1 + REF 2, prompt literal): \"Infelizmente, a imagem que criamos pode violar nossas diretrizes relacionadas à semelhança com conteúdo de terceiros\"; 1 tentativa só, fui pra reserva. Flow (conta Mano Preguiça conferida no avatar, PRO, Nano Banana Pro, 9:16, x2, projeto \"nov. 10 - 11:13\", 1 geração, REF 1 e REF 2 e o texto do estágio 2): `CAPA OCTOPUS - Flow 1.png` e `CAPA OCTOPUS - Flow 2.png` (768x1376, convertidas de JPEG pra PNG sem tratar). Nas duas: FUNCIONA? com as letras e o ponto certos, 4 braços vermelhos, roupa preta e vermelha com a aranha no peito. Ressalvas: as duas vieram de CORPO INTEIRO (o prompt pedia da coxa pra cima); na Flow 1 as pontas em lâmina ficam fora do quadro e a cabeça cobre o meio da palavra; na Flow 2 aparecem 3 lâminas e o fundo está desfocado como pedido. Não refiz: quem confere é o Anzol.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~11h20",
-   "titulo": "**GERAR A CAPA do Short do traje do Homem-Aranha com os braços do Doutor Octopus (canal 2), no ChatGPT (Anzol). Voz gravada pelo Murilo em 10/11; saída proposta sáb 14/11 18h.** Refs em `Mano Preguica/_refs capa - Shorts 26-10/Octopus traje/`. 2 versões do estágio 2, chat novo em cada estágio. Salvar como `CAPA OCTOPUS - GPT 1.png`, `GPT 2.png` na mesma pasta, sem tratar, e me avisar (eu confiro e mando pro quadro 0). Se o ChatGPT recusar a foto (semelhança com conteúdo de terceiros), pular o estágio 1 e gerar no Flow (Nano Banana Pro, conta Mano Preguiça) com a REF 1 e a REF 2 e o texto do estágio 2, salvando como `CAPA OCTOPUS - Flow 1.png`, `Flow 2.png`. Quem faz: Periscópio.",
+   "titulo": "~~pedido~~ **GERAR A CAPA do Short do traje do Homem-Aranha com os braços do Doutor Octopus (canal 2), no ChatGPT (Anzol). Voz gravada pelo Murilo em 10/11; saída proposta sáb 14/11 18h.** Refs em `Mano Preguica/_refs capa - Shorts 26-10/Octopus traje/`. 2 versões do estágio 2, chat novo em cada estágio. Salvar como `CAPA OCTOPUS - GPT 1.png`, `GPT 2.png` na mesma pasta, sem tratar, e me avisar (eu confiro e mando pro quadro 0). Se o ChatGPT recusar a foto (semelhança com conteúdo de terceiros), pular o estágio 1 e gerar no Flow (Nano Banana Pro, conta Mano Preguiça) com a REF 1 e a REF 2 e o texto do estágio 2, salvando como `CAPA OCTOPUS - Flow 1.png`, `Flow 2.png`. Quem faz: Periscópio.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3938,5 +3946,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T11:09-03:00"
+ "gerado_em": "2026-11-10T11:21-03:00"
 }
