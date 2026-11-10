@@ -3724,17 +3724,6 @@
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
   },
   {
-   "id": "p175",
-   "aberta_em": "2026-11-08T12:05-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 4: o Canal do Panamá levanta o navio com água",
-   "o_que": "fechar o Chrome e o VS Code por uns 15 min e avisar o Maestro: é o que falta pra música do vídeo 4 sair (a memória do Mac não aguenta com eles abertos); depois pode abrir de novo",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-08T12:31-03:00",
-   "nota": "Murilo fechou Chrome e VS Code (08/11 12h20); o ACE caiu mesmo assim (o modelo sozinho passa do limite); segue sem LM ou com a reserva"
-  },
-  {
    "id": "p176",
    "aberta_em": "2026-11-08T13:21-03:00",
    "agente": "Maré",
@@ -3946,5 +3935,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T11:42-03:00"
+ "gerado_em": "2026-11-10T12:38-03:00"
 }
