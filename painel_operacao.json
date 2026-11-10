@@ -3490,18 +3490,6 @@
    "jogando": true
   },
   {
-   "id": "p128",
-   "aberta_em": "2026-11-06T17:10-03:00",
-   "agente": "Periscópio",
-   "video": "noiz (quests pagas)",
-   "o_que": "Entrar de novo no noiz (noiz.gg > Sign in, no Chrome do perfil geral) antes das 11h de sábado 07/11: o login dura 24 h e caiu às 17h07 de hoje; a senha é você que digita",
-   "onde": "Outro",
-   "status": "cancelada",
-   "chave": "noiz-login-0711",
-   "fechada_em": "2026-11-07T22:38-03:00",
-   "nota": "texto velho (prazo de sábado 11h já passou); reaberto com o texto atual"
-  },
-  {
    "id": "p138",
    "aberta_em": "2026-11-07T01:24-03:00",
    "agente": "Tarrafa",
@@ -3676,18 +3664,6 @@
    "grupo": "serie-4546b-a1-dia2"
   },
   {
-   "id": "p164",
-   "aberta_em": "2026-11-07T19:39-03:00",
-   "agente": "Arpão",
-   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava (explicação biológica)",
-   "o_que": "ler o roteiro da bateria que some na zona de lava e aprovar ou pedir ajuste",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "roteiro:short-subnautica-bateria-some-na-lava.md",
-   "fechada_em": "2026-11-07T22:40-03:00",
-   "nota": "aprovou o roteiro 07/11 22:34"
-  },
-  {
    "id": "p165",
    "aberta_em": "2026-11-07T19:49-03:00",
    "agente": "Maré",
@@ -3708,17 +3684,6 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "roteiro:short-trem-minecraft-de-verdade-escritorio.md"
-  },
-  {
-   "id": "p168",
-   "aberta_em": "2026-11-07T22:38-03:00",
-   "agente": "Periscópio",
-   "video": "noiz (quests pagas)",
-   "o_que": "entrar de novo no noiz (noiz.gg > Sign in, no Chrome do perfil geral do Mac; a senha é você que digita). O login dura 24 h e está caído desde 06/11 17h07; sem ele o Periscópio não lê as campanhas pagas",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-07T22:41-03:00",
-   "nota": "Murilo entrou no noiz 07/11 22:41; cookie vence 08/11 22:41"
   },
   {
    "id": "p169",
@@ -3959,5 +3924,5 @@
    "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
   }
  ],
- "gerado_em": "2026-11-09T21:38-03:00"
+ "gerado_em": "2026-11-09T22:43-03:00"
 }
