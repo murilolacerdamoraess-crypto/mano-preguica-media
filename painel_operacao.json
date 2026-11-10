@@ -3658,18 +3658,6 @@
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
   },
   {
-   "id": "p174",
-   "aberta_em": "2026-11-08T07:31-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 3: A Torre Eiffel era pra ser desmontada (colagem de fotos)",
-   "o_que": "assistir o vídeo 3 da Torre Eiffel (90 s) e aprovar ou pedir ajuste. Já passou no Crivo, legenda nova e só o texto que a fala não diz. Se aprovar, o Periscópio agenda pra 10/11 às 18h e pede o seu 'eu autorizo'",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1TC_Yga3NslR5lnRT54dzsgLvI0hupG-W",
-   "fechada_em": "2026-11-08T09:32-03:00",
-   "nota": "Aprovado pelo Murilo no chat (08/11 ~09h40)"
-  },
-  {
    "id": "p175",
    "aberta_em": "2026-11-08T12:05-03:00",
    "agente": "Maré",
@@ -3864,5 +3852,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T09:27-03:00"
+ "gerado_em": "2026-11-10T09:33-03:00"
 }
