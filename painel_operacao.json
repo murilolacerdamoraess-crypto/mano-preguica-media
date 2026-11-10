@@ -3664,18 +3664,6 @@
    "grupo": "serie-4546b-a1-dia2"
   },
   {
-   "id": "p165",
-   "aberta_em": "2026-11-07T19:49-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1: A Muralha da China tem cola de arroz (low poly, voz nova)",
-   "o_que": "assistir o primeiro vídeo do canal novo antes de sair (74 s, low poly, voz H com o arroz corrigido, já passou no Crivo); aprovado, ele sai amanhã no YouTube e no TikTok dentro da janela 11h a 22h30; se tiver ajuste, escreva no campo",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1gj1h5xOWsn5aPTDcV9PwRBpIB-K59Sca",
-   "fechada_em": "2026-11-07T22:50-03:00",
-   "nota": "substituída pela versão nova do vídeo 1 (boneco virado, legenda nova, menos texto), item novo no Assistir"
-  },
-  {
    "id": "p166",
    "aberta_em": "2026-11-07T19:49-03:00",
    "agente": "Arpão",
@@ -3924,5 +3912,5 @@
    "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
   }
  ],
- "gerado_em": "2026-11-09T22:43-03:00"
+ "gerado_em": "2026-11-09T22:54-03:00"
 }
