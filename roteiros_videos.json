@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T16:05:56.454147Z",
+ "gerado_em": "2026-11-10T16:19:15.015457Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -300,13 +300,13 @@
    "name": "SHORT MP2 - Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia",
    "titulo_roteiro": "SHORT MP2: o sabre de luz de verdade",
    "description": "Short de uns 3 minutos pro MP2 (pauta P46 do Sonar, família \"impossível com as próprias mãos\", tom \"olha que legal que estão fazendo\"). Versão 2 (19/10), refeita pela história guiada. O HeroTech tinha um sabre que sai do",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 7) desde 07/11; APROVADO PELO CRIVO em 05/11 (34f5837c e f6df95ff), mais as trocas do ensaio de 2 leituras",
+   "status": "roteiro (em conferência (Crivo), versão 8, reescrita pedida pelo Murilo em 10/11; ele já gravou a frase 1); a versão 7 teve APROVADO PELO CRIVO em 05/11 (34f5837c e f6df95ff), mais as trocas do ensaio de 2 leituras",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "7",
+   "versao": "8",
    "fonte_yt": "qOAenK39gfs"
   },
   {
@@ -1244,7 +1244,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima dos 8 Shorts do FinCantBuild), jornada de 2 a 2,5 min no molde do Onix (até 2:40 falados, regra de 05/11)",
    "motor": null,
-   "versao": "2",
+   "versao": "3",
    "fonte_yt": null
   },
   {
@@ -1538,7 +1538,7 @@
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo do TheGreat3Dini e da gameplay do Subnautica 2), jornada de 2 a 2,5 min",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "HCVr_YRDAqg"
   },
   {
