@@ -3716,18 +3716,6 @@
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
   },
   {
-   "id": "p177",
-   "aberta_em": "2026-11-08T14:05-03:00",
-   "agente": "Tesoura",
-   "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
-   "o_que": "assistir e aprovar o Short do PS2 portátil (2min29, aprovado pelo controle de qualidade); sai ter 10/11 às 18h no canal 2 se você aprovar",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1YD2yaDAu3HtqwFu0R96xZzWsFJRI8Jcr",
-   "fechada_em": "2026-11-08T14:25-03:00",
-   "nota": "Murilo aprovou com 1 ajuste (08/11): fundo próprio do vídeo no lugar do fundo de água/bolhas reaproveitado; retoque pequeno não volta pra aprovação"
-  },
-  {
    "id": "p178",
    "aberta_em": "2026-11-08T14:41-03:00",
    "agente": "Maré",
@@ -3915,5 +3903,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T14:02-03:00"
+ "gerado_em": "2026-11-10T14:27-03:00"
 }
