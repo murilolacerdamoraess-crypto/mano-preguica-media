@@ -3797,12 +3797,13 @@
    "video": "Longo: zerei todos os mapas do Megabonk de Pokémon",
    "o_que": "Escolher o título do longo do Megabonk de Pokémon. A: Zerei o Megabonk de Pokémon, até a torre que me parou no quinto andar (minha escolha: é a sua frase do pedido, com a torre que te parou na primeira vez). B: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa. C: Será que dá pra zerar o Megabonk de Pokémon trocando de Pokémon em cada mapa? As 3 capas do teste (Testar e comparar) já estão sendo feitas e servem pros 3 títulos.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "A",
     "B",
     "C"
-   ]
+   ],
+   "fechada_em": "2026-11-10T09:09-03:00"
   },
   {
    "id": "p184",
@@ -3899,5 +3900,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T01:34-03:00"
+ "gerado_em": "2026-11-10T09:09-03:00"
 }
