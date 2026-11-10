@@ -2342,9 +2342,9 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "etapa": "gravação, texto cortado no Gravar desde 06/11 (17 frases, uns 2 min e 37 falados, com o quadro do vídeo em cada frase; roteiro aprovado em 04/11 e de novo no painel em 10/11; é o Homem-Aranha Superior dos quadrinhos, não o Aranha de Ferro do Tony Stark; canal 2; saída proposta: sáb 14/11 às 18h)",
+   "etapa": "roteiro aprovado, voz gravada por você em 10/11 (17 frases, 5 mudadas por você no chat do Gravar; falta a ordem de produção da Lente pra edição; canal 2; saída proposta: sáb 14/11 às 18h)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -3488,8 +3488,10 @@
    "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
    "o_que": "gravar a voz das 17 frases (texto cortado pra caber em 2:40; sai sáb 14/11 às 18h, canal 2)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_traje_octopus_papelao"
+   "status": "feita",
+   "chave": "narracao:short_traje_octopus_papelao",
+   "fechada_em": "2026-11-10T10:15-03:00",
+   "nota": "ele gravou as 17 frases em 10/11 entre 09:59 e 10:15 (17 takes conferidos no Drive); mudou 5 frases pelo chat"
   },
   {
    "id": "p139",
@@ -3870,5 +3872,5 @@
    "fechada_em": "2026-11-10T10:21-03:00"
   }
  ],
- "gerado_em": "2026-11-10T10:22-03:00"
+ "gerado_em": "2026-11-10T10:24-03:00"
 }
