@@ -2202,7 +2202,7 @@
   {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio; o título final você escolheu em 10/11: \"Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa\"; as 3 capas esperam você na tela Capas; o vídeo inteiro chega pra você assistir até sex 13/11 ao meio-dia e a saída passou pra dom 15/11 às 18h)",
+   "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio; o título final você escolheu em 10/11: \"Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa\"; a capa você escolheu em 10/11: o fantasma roxo gigante por cima da torre, com o Cubone pequeno na porta; o vídeo inteiro chega pra você assistir até sex 13/11 ao meio-dia e a saída passou pra dom 15/11 às 18h)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir a amostra e dizer o que muda",
    "prazo": "qua 11/11"
@@ -2825,6 +2825,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "10/11 16h45",
+   "titulo": "**PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Faltam 2 coisas antes de subir:** (1) os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar; (2) a resposta do Murilo na tarefa \"sobe só a capa escolhida ou as 3 no teste\". Sem resposta dele, sobe só a A, sem Testar e comparar. Se ele pedir o teste: A como capa normal e A, B e C (`OPCAO B.jpg`, `OPCAO C.jpg`, mesma pasta) em Miniatura > Testar e comparar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "10/11 15h50",
    "titulo": "**FEITO (parte 1): guarda de provas do Obra Absurda (pedido do Maestro; só leitura e download).** Pasta mãe: `Meu Drive/Mano Preguica/Provas Obra Absurda/` (ao lado do `Empacotar o Canal Agente.html`). Guardado em 10/11 15h46 a 15h51: marco zero (print do canal: 1 inscrito, criado 05/11/2026, 1.393 views; print do Studio do canal; CSV do canal em zip; print do TikTok) e, nos vídeos 1 Muralha e 2 Itaipu, print do Studio (visão geral, desde a publicação, com carimbo de data e hora amarelo), CSV do Studio em zip e print do TikTok (lista de conteúdo, views 0). Muralha 1.418 views no Studio, Itaipu 689. O CSV vem com período de 13/10 a 10/11 (cobre tudo, o canal nasceu em 05/11).",
@@ -3923,7 +3931,21 @@
     "Esse cara tá tentando controlar os 4 braços do Doutor Octopus num traje do Homem-Aranha"
    ],
    "fechada_em": "2026-11-10T16:42-03:00"
+  },
+  {
+   "id": "p195",
+   "aberta_em": "2026-11-10T16:43-03:00",
+   "agente": "Anzol",
+   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "o_que": "Você escolheu a capa do fantasma roxo gigante por cima da torre pro longo do Megabonk, e ela está certa pro título que você escolheu. Falta só escolher como ela sobe. A sua regra de outubro é todo longo subir com 3 capas no teste do YouTube, que mostra cada uma pra uma parte do público e fica com a que segura mais gente. As outras duas são a do Charmander cercado e do Marowak com 1ª VEZ e 2ª VEZ, e a do seu rosto de susto com a torre. Se você não gostou delas, sobe só a sua.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "capa-teste:longo-megabonk-todos-os-mapas",
+   "opcoes": [
+    "Sobe só a capa que eu escolhi",
+    "Testa as 3, com a que eu escolhi como a primeira"
+   ]
   }
  ],
- "gerado_em": "2026-11-10T16:43-03:00"
+ "gerado_em": "2026-11-10T16:44-03:00"
 }
