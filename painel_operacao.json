@@ -974,6 +974,30 @@
    "pendente": ""
   },
   {
+   "id": "P128",
+   "titulo": "Ele imprimiu o Mewtwo em tamanho real, e na hora de montar o corpo não passou pelas pernas",
+   "rodada": "Rotina de segunda, 09/11/2026 (Sonar): 3 pautas novas (P124 a P126); as outras 2 vagas caíram nos testes",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short de 2 a 3 min",
+   "concorrencia": "LIVRE (em português só existe outro Mewtwo impresso, de uma loja de impressoras, com 2,9 mil views; ninguém contou este)",
+   "status": "na fila do roteiro (posição 1 das duas de 10/11; não fura, entra quando a fila baixar de 8)",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
+   "id": "P129",
+   "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele",
+   "rodada": "Rotina de segunda, 09/11/2026 (Sonar): 3 pautas novas (P124 a P126); as outras 2 vagas caíram nos testes",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short de 2 a 3 min",
+   "concorrencia": "LIVRE pra esta história (em português há muito \"como fazer\" e teste de lançador de brinquedo, e nenhum conta a teia que gruda e segura uma pessoa)",
+   "status": "na fila do roteiro (posição 2 das duas de 10/11; não fura, entra quando a fila baixar de 8)",
+   "frente": "2",
+   "pendente": ""
+  },
+  {
    "id": "P118",
    "titulo": "O Gargantuan do Subnautica contra o Godzilla: quem ganha?",
    "rodada": "Combates, 08/11/2026 (Sonar, formato novo do Murilo): P118 a P122 em Short, P123 em longo, e a P74 como a primeira",
@@ -3947,5 +3971,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T16:44-03:00"
+ "gerado_em": "2026-11-10T16:50-03:00"
 }
