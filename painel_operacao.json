@@ -3862,12 +3862,13 @@
    "video": "Longo: zerei todos os mapas do Megabonk de Pokémon",
    "o_que": "A amostra do longo saiu em 30 quadros por segundo e a ordem pede 60 (o programa que monta o vídeo só faz 30; o longo dos leviatãs também saiu em 30). Você aceita 30 ou quer que a gente mude o montador pra 60 antes do vídeo inteiro?",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Aceito 30",
     "Mudar pra 60"
-   ]
+   ],
+   "fechada_em": "2026-11-10T10:21-03:00"
   }
  ],
- "gerado_em": "2026-11-10T10:14-03:00"
+ "gerado_em": "2026-11-10T10:22-03:00"
 }
