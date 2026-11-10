@@ -3823,7 +3823,8 @@
    "video": "noiz.gg (quests pagas)",
    "o_que": "entrar de novo no noiz.gg no Chrome do perfil geral (a sessão venceu em 08/11 22:41); só quando voltar pro PC, sem pressa",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-10T20:34-03:00"
   },
   {
    "id": "p183",
@@ -3979,5 +3980,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T17:47-03:00"
+ "gerado_em": "2026-11-10T20:34-03:00"
 }
