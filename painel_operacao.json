@@ -2814,6 +2814,14 @@
  ],
  "navegador": [
   {
+   "tipo": "10/11 ~11h",
+   "titulo": "**GARIMPO DO SHORT DO TRAJE DO HOMEM-ARANHA COM OS BRAÇOS DO DOUTOR OCTOPUS (canal 2, voz gravada pelo Murilo em 10/11, saída proposta sáb 14/11 às 18h; roteiro `roteiros/short-traje-homem-aranha-bracos-octopus.md`).** Pedido da Âncora (Vitrine), que não abre navegador. Prazo: até qui 12/11, antes de o Leme agendar. No ML com o perfil mano, em duas partes.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~10h35",
    "titulo": "**FEITO: Obra Absurda vídeo 5 (21 elefantes na Ponte do Brooklyn, pixel) agendado direto pela autorização permanente.** Pedido do Maestro; OK do Murilo no painel (10/11 09:54, p191, `decisoes.md`). Arquivo `~/EdicaoIA/obra-absurda/v05/final_v05.mp4`, md5 5c05c8a3 conferido, portão de áudio APROVADO (-14,0 LUFS). YouTube `CcPkYdDcvlw` \"Vídeo programado\", público 12 de novembro de 2026 às 18:00 (não é para crianças, conteúdo alterado = Sim; título de 99 caracteres mandado pela Maré, porque o do roteiro tinha 110). TikTok @obra.absurda \"12 de nov, 18:00 (GMT-3)\", Todos, rótulo de IA ligado. Crédito \"Música: Scott Buckley (CC-BY 4.0)\" na descrição dos dois. Data conferida no Studio (lista \"Programado\" e card de Visibilidade 12 de nov. de 2026, 18:00); pela API não dá, não existe token desse canal. O 1º envio deu \"Arquivo ilegível\" porque o arquivo estava na pasta temporária; subir sempre direto do `~/EdicaoIA`.",
    "etapa": "",
@@ -3884,5 +3892,5 @@
    "chave": "capa:longo-megabonk-todos-os-mapas"
   }
  ],
- "gerado_em": "2026-11-10T10:25-03:00"
+ "gerado_em": "2026-11-10T10:37-03:00"
 }
