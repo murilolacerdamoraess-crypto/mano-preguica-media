@@ -720,6 +720,14 @@
    "confianca": "forte no problema (4 de 5 vídeos, cada um com a frase dele); fraca no ganho (o subagente ainda não foi testado nesses vídeos).",
    "status": "aplicada 2026-11-10 (V61 no crivo-checklist, item 4 do role canal-ia.md, `fabrica/sem_roteiro.py`); vale do vídeo 6 em diante, só no Obra Absurda. Conferir em: os 3 próximos vídeos (o Murilo ainda acha defeito de imagem que o leitor não trouxe?)",
    "simples": "antes de um vídeo do Obra Absurda chegar pra você, alguém que não leu o roteiro assiste ele inteiro e aponta só o que não existe de verdade ou não dá pra entender. Em 4 dos 5 vídeos foi você que achou um defeito assim (o boneco de costas pra parede, o navio que pulava de lugar, os prédios em cima da ponte), e isso só começa a valer se, num teste com as versões antigas, ele achar esses mesmos defeitos."
+  },
+  {
+   "id": "R91",
+   "titulo": "Frase que o Murilo escolheu no chat do Gravar ou gravou não é barrada pelo verificador de palavra repetida: vira aviso pra quem escreve.",
+   "onde": "`checar_fluidez.py` e 1 linha nos roles shorts.md e longos.md (o aviso em fala gravada não se \"conserta\" trocando a palavra dele).",
+   "confianca": "fraca (1 vídeo, 4 frases). Forte só num ponto: hoje o portão reprova a fala gravada, o que trava o caminho do roteiro pro Crivo sem ninguém poder consertar.",
+   "status": "aguardando",
+   "simples": "No Octopus, o verificador de palavra repetida fez o roteirista tirar \"no gatilho do\" de uma frase e você parou na gravação sem entender o que era o toque; depois ele barrou 4 frases que você mesmo escolheu no chat do Gravar, como \"tem um gatilho escondido na luva, e dependendo de quantas vezes ele toca nesse gatilho, os braços fazem uma coisa diferente\". A proposta: frase que você escolheu ou gravou vai pro vídeo como você falou e o verificador só deixa um aviso pra quem escreve, sem devolver nada pra você; em roteiro novo ele continua barrando, e a mesma palavra em 4 frases seguidas continua barrada em qualquer texto. É um vídeo só por enquanto."
   }
  ],
  "equipe": [
@@ -3922,5 +3930,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T10:53-03:00"
+ "gerado_em": "2026-11-10T11:00-03:00"
 }
