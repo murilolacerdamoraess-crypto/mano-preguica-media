@@ -2814,6 +2814,14 @@
  ],
  "navegador": [
   {
+   "tipo": "10/11 15h50",
+   "titulo": "**FEITO (parte 1): guarda de provas do Obra Absurda (pedido do Maestro; só leitura e download).** Pasta mãe: `Meu Drive/Mano Preguica/Provas Obra Absurda/` (ao lado do `Empacotar o Canal Agente.html`). Guardado em 10/11 15h46 a 15h51: marco zero (print do canal: 1 inscrito, criado 05/11/2026, 1.393 views; print do Studio do canal; CSV do canal em zip; print do TikTok) e, nos vídeos 1 Muralha e 2 Itaipu, print do Studio (visão geral, desde a publicação, com carimbo de data e hora amarelo), CSV do Studio em zip e print do TikTok (lista de conteúdo, views 0). Muralha 1.418 views no Studio, Itaipu 689. O CSV vem com período de 13/10 a 10/11 (cobre tudo, o canal nasceu em 05/11).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~12h30",
    "titulo": "**pedido (Tarrafa): 2 IMAGENS CANON PRO SHORT DO TRAJE DO OCTOPUS (canal 2, sai sáb 14/11 18h). Quem faz: Periscópio. Prazo: qua 11/11, porque a Lente tem 2 planos da ordem parados sem elas.** O CDN das wikis da Marvel barra download direto, então precisa do navegador. Salvar sem tratar em `Mano Preguica/ROTEIROS - APOIO EDITOR/[ref] Traje do Homem-Aranha com os bracos do Doutor Octopus, de papelao (canal 2)/CANON - Superior (quadrinhos) e Aranha de Ferro (filme)/`.",
    "etapa": "",
@@ -3903,5 +3911,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T14:27-03:00"
+ "gerado_em": "2026-11-10T15:52-03:00"
 }
