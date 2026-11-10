@@ -3716,18 +3716,6 @@
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
   },
   {
-   "id": "p176",
-   "aberta_em": "2026-11-08T13:21-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 4: o Canal do Panamá levanta o navio com água (low poly)",
-   "o_que": "assistir o vídeo 4 do Canal do Panamá (85 s) e aprovar ou pedir ajuste. Já passou no Crivo (música nova gerada no Mac, mula virou locomotiva com cabo até o navio). Se aprovar, o Periscópio agenda direto pra 11/11 às 18h, sem pedir o 'eu autorizo'",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1xfxo5i1Xx-O_Kyl3JCMIZRIu_Wz-b7ip",
-   "fechada_em": "2026-11-08T14:00-03:00",
-   "nota": "Murilo pediu ajuste (08/11): navio teleporta no começo, lago mais alto sem lugar no desenho, falta mostrar de qual oceano pra qual"
-  },
-  {
    "id": "p177",
    "aberta_em": "2026-11-08T14:05-03:00",
    "agente": "Tesoura",
@@ -3927,5 +3915,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T13:35-03:00"
+ "gerado_em": "2026-11-10T14:02-03:00"
 }
