@@ -728,6 +728,14 @@
    "confianca": "fraca (1 vídeo, 4 frases). Forte só num ponto: hoje o portão reprova a fala gravada, o que trava o caminho do roteiro pro Crivo sem ninguém poder consertar.",
    "status": "aplicada 2026-11-10 (aprovada pelo Murilo no painel, 16:40). Código: `checar_fluidez.py` no commit e2d132d do repo canal_agente (commit local; o push é do Claude Code), feito pelo Crivo; regressão e linha R0a do checklist no cérebro (e934048a). Como o portão reconhece o texto dele: fala gravada = o status do topo do roteiro diz que ele gravou; frase escolhida no chat = entre aspas na seção `## Frases do Murilo` do roteiro, que o Crivo confere contra o Gravar. Teste (R65): Octopus v13 passa, 0 reprovação e 9 avisos (a proposta dizia 4 porque contava frases; o portão lista cada repetição: 3 na mesma frase e 6 no mesmo trecho); o mesmo texto como roteiro novo reprova; FNAF v7 e gás v6 continuam reprovando; o nome do objeto frase após frase (machado) não foi tocado. Roles shorts.md e longos.md com a linha (985da724). Conferir em: a próxima gravação com frase escolhida no chat (o verificador devolveu alguma?) e o Octopus pronto no Assistir (ele reclama da repetição?).",
    "simples": "No Octopus, o verificador de palavra repetida fez o roteirista tirar \"no gatilho do\" de uma frase e você parou na gravação sem entender o que era o toque; depois ele barrou 4 frases que você mesmo escolheu no chat do Gravar, como \"tem um gatilho escondido na luva, e dependendo de quantas vezes ele toca nesse gatilho, os braços fazem uma coisa diferente\". A proposta: frase que você escolheu ou gravou vai pro vídeo como você falou e o verificador só deixa um aviso pra quem escreve, sem devolver nada pra você; em roteiro novo ele continua barrando, e a mesma palavra em 4 frases seguidas continua barrada em qualquer texto. É um vídeo só por enquanto."
+  },
+  {
+   "id": "R92",
+   "titulo": "A previsão de cada pauta de Short passa a seguir a receita do canal (v1): universo que o público do canal segue, uma pessoa tentando, coisa que parece impossível.",
+   "onde": "role do Sonar (linha \"Previsão: N · Receita v1: 1, 2, 3\" em cada pauta de Short e a ordem da fila), roles shorts.md (Arpão e Tarrafa leem a [[receita-do-canal]] antes de escrever) e a tabela de pesos da [[anatomia-dos-hits]].",
+   "confianca": "fraca pra média (forte só no \"0 de 12\" e no \"0 de 17\" de notícia e ranking fora de Subnautica).",
+   "status": "aguardando",
+   "simples": "Dos 38 Shorts dos 2 canais de julho pra cá, nenhum dos 12 de jogo ou personagem que pouca gente conhece passou de 10 mil views, e as 4 maiores jornadas (10 mil metros e mecânica escondida no principal, Onix e luva do Homem-Aranha no canal 2) tinham as mesmas 3 coisas: um jogo ou personagem que o público daquele canal já segue, uma pessoa tentando, e uma coisa que parece impossível. O que muda: a previsão de 0 a 10 que o Sonar já dá em cada pauta passa a seguir essas 3 coisas (hoje \"uma pessoa tentando\" pesa pouco nela) e as pautas com mais delas vão na frente, sem barrar nenhuma e sem mexer no que você já decidiu (criatura conhecida do Subnautica 1 fora; no canal 2, se Pokémon e Nintendo já dominam a fila, a próxima vem de outra franquia; fila com 5); nada muda no seu tempo, e toda segunda eu mostro se os vídeos escolhidos assim foram melhor que os outros."
   }
  ],
  "equipe": [
@@ -3971,5 +3979,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T16:59-03:00"
+ "gerado_em": "2026-11-10T17:22-03:00"
 }
