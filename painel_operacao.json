@@ -3843,8 +3843,9 @@
    "video": "Obra Absurda, vídeo 5: 21 elefantes na Ponte do Brooklyn (pixel)",
    "o_que": "assistir o vídeo 5 do Obra Absurda, os 21 elefantes na Ponte do Brooklyn (90 s, pixel). Já passou no Crivo. Dois pontos pra reparar: ouvir o 'mais vinte' em 0:52 (a palavra saiu com confiança média na conferência) e olhar os nomes NOVA YORK e BROOKLYN no mapa de 0:09 a 0:15 (ficaram por decisão do Crivo, pra mostrar qual margem é qual). Se aprovar, o Periscópio agenda direto pra 12/11 às 18h",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:10UhilmTDVl21lsILarF4YeOl4zZO8F1Q"
+   "status": "feita",
+   "chave": "video:10UhilmTDVl21lsILarF4YeOl4zZO8F1Q",
+   "fechada_em": "2026-11-10T10:01-03:00"
   },
   {
    "id": "p192",
@@ -3860,5 +3861,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T09:38-03:00"
+ "gerado_em": "2026-11-10T10:01-03:00"
 }
