@@ -3536,18 +3536,6 @@
    "chave": "narracao:short_reaper_lego"
   },
   {
-   "id": "p145",
-   "aberta_em": "2026-11-07T01:25-03:00",
-   "agente": "Arpão",
-   "video": "Fizeram o propulsor de braço do Subnautica 2 igualzinho ao do jogo",
-   "o_que": "gravar a voz das 15 frases (sai depois do Reaper de LEGO)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:short_propulsor_braco",
-   "fechada_em": "2026-11-08T09:25-03:00",
-   "nota": "Mesmo vídeo da p154 (Wakemaker); o Murilo mandou fechar a repetida em 08/11"
-  },
-  {
    "id": "p146",
    "aberta_em": "2026-11-07T01:25-03:00",
    "agente": "Arpão",
@@ -3876,5 +3864,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T09:11-03:00"
+ "gerado_em": "2026-11-10T09:27-03:00"
 }
