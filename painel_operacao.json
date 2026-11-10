@@ -945,7 +945,7 @@
    "por_que_agora": "saiu em 23/10/2026 e tem 371.273 views com 51.200 inscritos (7 vezes o canal). O canal 2 precisa de 3 jornadas por semana (R38).",
    "formato": "Short 2,5 a 3 min",
    "concorrencia": "LIVRE (em português, \"arrietty cozinha miniatura\" só traz edits do filme; nenhum conta este projeto)",
-   "status": "pego por Tarrafa (09/11/2026, pedido da Lente pela Meta 7: jornada do canal 2 no Gravar até qui 12/11, pra 16 a 22/11; divisão com o Arpão, que ficou com a P105)",
+   "status": "reprovada (Murilo, 10/11/2026: \"acho que ngm conhece isso, deleta esse video\"; roteiro descartado e fora do Gravar); antes: pego por Tarrafa (09/11/2026, pedido da Lente pela Meta 7: jornada do canal 2 no Gravar até qui 12/11, pra 16 a 22/11; divisão com o Arpão, que ficou com a P105)",
    "frente": "2 (outros universos com hype)",
    "pendente": ""
   },
@@ -2470,15 +2470,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
-   "etapa": "gravação, texto no Gravar desde 09/11 (canal 2, 15 frases, uns 2:38, com os quadros do vídeo do Allen Pan no topo e em cada frase; saída proposta: dom 22/11 às 18h)",
-   "responsavel": "Tarrafa",
-   "falta_murilo": "gravar a voz",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Ele construiu a cozinha minúscula da Arrietty, e tentou acender o fogão do filme de verdade",
-   "etapa": "gravação, texto no Gravar desde 09/11 (canal 2, 17 frases, uns 2:38, com os quadros do vídeo do Physical Render no topo e em cada frase; saída proposta: ter 17/11 às 18h)",
+   "etapa": "gravação, texto no Gravar desde 09/11 (canal 2, 15 frases, uns 2:38, com os quadros do vídeo do Allen Pan no topo e em cada frase; saída proposta: sex 20/11 às 18h)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2510,7 +2502,7 @@
   {
    "tipo": "Short",
    "titulo": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
-   "etapa": "gravação (texto no Gravar desde 09/11, 14 frases, uns 2:38; sai sex 20/11 às 18h no canal 2)",
+   "etapa": "gravação (texto no Gravar desde 09/11, 14 frases, uns 2:38; sai ter 17/11 às 18h no canal 2, no lugar da cozinha da Arrietty que você mandou tirar)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -3935,5 +3927,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T13:28-03:00"
+ "gerado_em": "2026-11-10T13:33-03:00"
 }
