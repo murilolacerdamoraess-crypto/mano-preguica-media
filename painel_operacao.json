@@ -2814,6 +2814,14 @@
  ],
  "navegador": [
   {
+   "tipo": "10/11 ~11h20",
+   "titulo": "**GERAR A CAPA do Short do traje do Homem-Aranha com os braços do Doutor Octopus (canal 2), no ChatGPT (Anzol). Voz gravada pelo Murilo em 10/11; saída proposta sáb 14/11 18h.** Refs em `Mano Preguica/_refs capa - Shorts 26-10/Octopus traje/`. 2 versões do estágio 2, chat novo em cada estágio. Salvar como `CAPA OCTOPUS - GPT 1.png`, `GPT 2.png` na mesma pasta, sem tratar, e me avisar (eu confiro e mando pro quadro 0). Se o ChatGPT recusar a foto (semelhança com conteúdo de terceiros), pular o estágio 1 e gerar no Flow (Nano Banana Pro, conta Mano Preguiça) com a REF 1 e a REF 2 e o texto do estágio 2, salvando como `CAPA OCTOPUS - Flow 1.png`, `Flow 2.png`. Quem faz: Periscópio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~11h",
    "titulo": "**GARIMPO DO SHORT DO TRAJE DO HOMEM-ARANHA COM OS BRAÇOS DO DOUTOR OCTOPUS (canal 2, voz gravada pelo Murilo em 10/11, saída proposta sáb 14/11 às 18h; roteiro `roteiros/short-traje-homem-aranha-bracos-octopus.md`).** Pedido da Âncora (Vitrine), que não abre navegador. Prazo: até qui 12/11, antes de o Leme agendar. No ML com o perfil mano, em duas partes.",
    "etapa": "",
@@ -3890,7 +3898,21 @@
    "onde": "Capas",
    "status": "aberta",
    "chave": "capa:longo-megabonk-todos-os-mapas"
+  },
+  {
+   "id": "p194",
+   "aberta_em": "2026-11-10T10:40-03:00",
+   "agente": "Anzol",
+   "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+   "o_que": "Escolher o título do Short do traje do Homem-Aranha com os braços do Doutor Octopus (canal 2, sai sáb 14/11 às 18h). O primeiro é o que eu escolheria: é o título com que você aprovou a pauta e o roteiro, e o papelão no fim faz a pessoa duvidar que funciona. A capa (ele com os 4 braços abertos e a palavra FUNCIONA?) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+    "Esse cara fez na vida real o traje do Homem-Aranha com os braços do Doutor Octopus",
+    "Esse cara tá tentando controlar os 4 braços do Doutor Octopus num traje do Homem-Aranha"
+   ]
   }
  ],
- "gerado_em": "2026-11-10T10:37-03:00"
+ "gerado_em": "2026-11-10T10:42-03:00"
 }
