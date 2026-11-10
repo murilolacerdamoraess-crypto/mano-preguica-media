@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T16:34:07.578306Z",
+ "gerado_em": "2026-11-10T19:43:26.286261Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1344,6 +1344,20 @@
    "motor": null,
    "versao": "3",
    "fonte_yt": "iNG4NyfisjI"
+  },
+  {
+   "arquivo": "short-shadow-leviathan-como-caca.md",
+   "name": "SHORT - Como o Shadow Leviathan caça suas presas no Subnautica Below Zero",
+   "titulo_roteiro": "SHORT: como o Shadow Leviathan caça",
+   "description": "Short do canal principal (pauta P127, pedido do Murilo em 10/11, fura-fila liberado por ele). Como o Shadow Leviathan do Below Zero caça, no molde do Reaper caçando. A luz azul que se vê no escuro é a boca dele, as perna",
+   "status": "roteiro (em conferência (Crivo), versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP1 (voz real do Murilo), animado no motor do Reaper",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "short-silksong-noticia-todo-dia-recomecou.md",
