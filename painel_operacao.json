@@ -726,7 +726,7 @@
    "titulo": "Frase que o Murilo escolheu no chat do Gravar ou gravou não é barrada pelo verificador de palavra repetida: vira aviso pra quem escreve.",
    "onde": "`checar_fluidez.py` e 1 linha nos roles shorts.md e longos.md (o aviso em fala gravada não se \"conserta\" trocando a palavra dele).",
    "confianca": "fraca (1 vídeo, 4 frases). Forte só num ponto: hoje o portão reprova a fala gravada, o que trava o caminho do roteiro pro Crivo sem ninguém poder consertar.",
-   "status": "aguardando",
+   "status": "aprovada 2026-11-10 (painel, 16:40). Aplicado em 10/11: 1 linha nos roles shorts.md e longos.md. Falta: a mudança no `checar_fluidez.py`, pedida ao Crivo em 10/11 com o teste (Octopus v13 passa com 4 avisos e nenhuma reprovação; FNAF v7 e gás v6 continuam reprovando). Vira \"aplicada\" quando o teste passar. Conferir em: a próxima gravação com frase escolhida no chat (o verificador devolveu alguma?) e o Octopus pronto no Assistir (ele reclama da repetição?).",
    "simples": "No Octopus, o verificador de palavra repetida fez o roteirista tirar \"no gatilho do\" de uma frase e você parou na gravação sem entender o que era o toque; depois ele barrou 4 frases que você mesmo escolheu no chat do Gravar, como \"tem um gatilho escondido na luva, e dependendo de quantas vezes ele toca nesse gatilho, os braços fazem uma coisa diferente\". A proposta: frase que você escolheu ou gravou vai pro vídeo como você falou e o verificador só deixa um aviso pra quem escreve, sem devolver nada pra você; em roteiro novo ele continua barrando, e a mesma palavra em 4 frases seguidas continua barrada em qualquer texto. É um vídeo só por enquanto."
   }
  ],
@@ -3925,5 +3925,5 @@
    "fechada_em": "2026-11-10T16:42-03:00"
   }
  ],
- "gerado_em": "2026-11-10T16:42-03:00"
+ "gerado_em": "2026-11-10T16:43-03:00"
 }
