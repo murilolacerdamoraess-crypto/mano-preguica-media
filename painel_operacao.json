@@ -2174,34 +2174,10 @@
   {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio)",
+   "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio; o título final você escolheu em 10/11: \"Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa\"; as 3 capas esperam você na tela Capas)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir a amostra e dizer o que muda",
    "prazo": "qua 11/11"
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do longo do Megabonk de Pokémon (opção 1): Zerei o Megabonk de Pokémon, até a torre que me parou no quinto andar",
-   "etapa": "embalagem (a minha recomendação: a sua frase do pedido, com a torre como promessa; a base: as 5 partidas, um Pokémon por mapa, e a torre que te parou no quinto andar e você vence no fim; as 3 capas no Capas servem pra qualquer um dos 3 títulos; aprovar este escolhe este título)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título ou o da opção 2 ou 3",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do longo do Megabonk de Pokémon (opção 2): Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa",
-   "etapa": "embalagem (a regra do desafio no título; a base: um Pokémon novo em cada um dos 5 mapas; aprovar este escolhe este título)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título ou o da opção 1 ou 3",
-   "prazo": ""
-  },
-  {
-   "tipo": "Tarefa",
-   "titulo": "Título do longo do Megabonk de Pokémon (opção 3): Será que dá pra zerar o Megabonk de Pokémon trocando de Pokémon em cada mapa?",
-   "etapa": "embalagem (a pergunta de desafio, que só o fim responde; a base: as 5 partidas com Pokémon diferentes até zerar; aprovar este escolhe este título)",
-   "responsavel": "Anzol",
-   "falta_murilo": "aprovar este título ou o da opção 1 ou 2",
-   "prazo": ""
   },
   {
    "tipo": "Longo",
@@ -3900,5 +3876,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T09:09-03:00"
+ "gerado_em": "2026-11-10T09:11-03:00"
 }
