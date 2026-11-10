@@ -3694,30 +3694,6 @@
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
   },
   {
-   "id": "p172",
-   "aberta_em": "2026-11-07T22:57-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 2: Itaipu tirou o rio do lugar (pixel 8 bits)",
-   "o_que": "assistir o Itaipu corrigido (82 s): aos 0:27 agora aparece o buraco sendo cavado e os caminhões levando a terra; aos 0:53 a barragem vista de lado com o lago subindo só atrás dela, bem abaixo do topo; mais 4 cenas trocadas pela checagem frase x imagem, legenda nova e menos texto. Já passou no Crivo. Se aprovar, ele é agendado; se tiver ajuste, escreva no campo",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1akUglonnScFpB2bWi9sfuIcfAw1VwEAZ",
-   "fechada_em": "2026-11-08T00:00-03:00",
-   "nota": "Murilo autorizou e agendou os vídeos 1 e 2 do Obra Absurda (07/11 23h30)"
-  },
-  {
-   "id": "p173",
-   "aberta_em": "2026-11-07T23:13-03:00",
-   "agente": "Maré",
-   "video": "Obra Absurda, vídeo 1 v4: A Muralha da China tem cola de arroz",
-   "o_que": "assistir a Muralha com o telhado corrigido (aos 0:37 a casa da muralha de cidade agora tem o telhado alinhado e cobrindo a casa; todo telhado sai de uma função única e um teste reprova telhado torto antes do render), além do boneco virado, legenda nova e menos texto. Já passou no Crivo. Se aprovar, ele é agendado; se tiver ajuste, escreva no campo",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1tTQmORStwA9Y7gfu3egUpyy0tW0xRZ7k",
-   "fechada_em": "2026-11-08T00:00-03:00",
-   "nota": "Murilo autorizou e agendou os vídeos 1 e 2 do Obra Absurda (07/11 23h30)"
-  },
-  {
    "id": "p174",
    "aberta_em": "2026-11-08T07:31-03:00",
    "agente": "Maré",
@@ -3910,5 +3886,5 @@
    "chave": "video:10UhilmTDVl21lsILarF4YeOl4zZO8F1Q"
   }
  ],
- "gerado_em": "2026-11-09T23:50-03:00"
+ "gerado_em": "2026-11-10T00:10-03:00"
 }
