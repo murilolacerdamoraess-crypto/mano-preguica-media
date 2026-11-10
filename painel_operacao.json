@@ -3832,7 +3832,9 @@
    "video": "Longo do Megabonk de Pokémon (todos os mapas)",
    "o_que": "Aprovar as 3 capas juntas: as 3 sobem no Testar e comparar do YouTube, que mostra cada uma pra parte do público e fica com a que der mais clique. Se alguma não te agradar, reprove só ela com o motivo que eu refaço.",
    "onde": "Capas",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-10T10:24-03:00",
+   "nota": "aberta sem a chave das capas: as imagens não apareciam na tarefa; reaberta com a chave"
   },
   {
    "id": "p190",
@@ -3870,7 +3872,17 @@
     "Mudar pra 60"
    ],
    "fechada_em": "2026-11-10T10:21-03:00"
+  },
+  {
+   "id": "p193",
+   "aberta_em": "2026-11-10T10:24-03:00",
+   "agente": "Anzol",
+   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
+   "o_que": "Ver as 3 capas do longo do Megabonk aqui mesmo e tocar em testar as 3 juntas (o YouTube mostra cada uma pra parte do público e fica com a melhor). Se alguma não agradar, peça alteração só nela. O título já é o que você escolheu: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa.",
+   "onde": "Capas",
+   "status": "aberta",
+   "chave": "capa:longo-megabonk-todos-os-mapas"
   }
  ],
- "gerado_em": "2026-11-10T10:24-03:00"
+ "gerado_em": "2026-11-10T10:25-03:00"
 }
