@@ -2822,8 +2822,16 @@
    "prazo": ""
   },
   {
+   "tipo": "10/11 ~12h10",
+   "titulo": "**FEITO (Periscópio): garimpo do Short do traje com os braços do Doutor Octopus, 17 páginas no ML, sem pedido de login. Respondido à Âncora.** Parte 1: chaveiro de PS5 igual (R$ 20,91, +100 vendidos, nota 4,9 com 24, ACMDSTORE, opção \"Spiderman 2 | Ps5\" na lista de 43, extensão 20%); kit de luvas igual (R$ 51,99, +1000 vendidos, nota 4,9 com 152, Afortunado Imports, 15%; o título virou \"Kit Luvas Lançadoras de Teia Homem Aranha com Máscara e Dardos\"); **Spider-Man 2 de PS5 da MMZ subiu de R$ 283,00 pra R$ 387,60 (+100 vendidos, nota 4,9 com 85) e a extensão agora RECUSA esse anúncio.** Parte 2: SALVOS o LEGO 76338 (R$ 332,40, +500 vendidos, nota 4,9 com 198, Dalo Vendas, 15%, nome na extensão \"LEGO Marvel Batalhas de Robôs Homem-Aranha vs Doutor Octopus\") e o Funko 150 (R$ 159,00, +50 vendidos, nota 5,0 com 12, Lacross, 15%, nome na extensão \"Doctor Octopus Funko Pop Marvel\"). Boneco: nenhum passa (ZD Toys nota 3,0; Dummy 13 com 3 vendidos e sem nota), nada salvo. Braços de vestir e mochila de tentáculos do Doutor Octopus: não existem no ML.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~11h",
-   "titulo": "**GARIMPO DO SHORT DO TRAJE DO HOMEM-ARANHA COM OS BRAÇOS DO DOUTOR OCTOPUS (canal 2, voz gravada pelo Murilo em 10/11, saída proposta sáb 14/11 às 18h; roteiro `roteiros/short-traje-homem-aranha-bracos-octopus.md`).** Pedido da Âncora (Vitrine), que não abre navegador. Prazo: até qui 12/11, antes de o Leme agendar. No ML com o perfil mano, em duas partes.",
+   "titulo": "~~pedido~~ **GARIMPO DO SHORT DO TRAJE DO HOMEM-ARANHA COM OS BRAÇOS DO DOUTOR OCTOPUS (canal 2, voz gravada pelo Murilo em 10/11, saída proposta sáb 14/11 às 18h; roteiro `roteiros/short-traje-homem-aranha-bracos-octopus.md`).** Pedido da Âncora (Vitrine), que não abre navegador. Prazo: até qui 12/11, antes de o Leme agendar. No ML com o perfil mano, em duas partes.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3914,5 +3922,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T10:51-03:00"
+ "gerado_em": "2026-11-10T10:53-03:00"
 }
