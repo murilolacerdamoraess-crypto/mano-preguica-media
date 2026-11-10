@@ -718,7 +718,7 @@
    "titulo": "Antes de ir pro Murilo, o vídeo do Obra Absurda é assistido inteiro por alguém que não leu o roteiro e aponta o que não existe de verdade ou não dá pra entender.",
    "onde": "role canal-ia.md (entrega da Maré) e crivo-checklist (linha nova), só pro Obra Absurda. Não estendo ao Mano nem ao canal 2 sem prova de lá (C9).",
    "confianca": "forte no problema (4 de 5 vídeos, cada um com a frase dele); fraca no ganho (o subagente ainda não foi testado nesses vídeos).",
-   "status": "aguardando",
+   "status": "aprovada pelo Murilo em 2026-11-10 (painel); NÃO aplicada ainda, falta fechar a parte 2 do teste antes de ligar",
    "simples": "antes de um vídeo do Obra Absurda chegar pra você, alguém que não leu o roteiro assiste ele inteiro e aponta só o que não existe de verdade ou não dá pra entender. Em 4 dos 5 vídeos foi você que achou um defeito assim (o boneco de costas pra parede, o navio que pulava de lugar, os prédios em cima da ponte), e isso só começa a valer se, num teste com as versões antigas, ele achar esses mesmos defeitos."
   }
  ],
@@ -3861,5 +3861,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-10T10:02-03:00"
+ "gerado_em": "2026-11-10T10:11-03:00"
 }
