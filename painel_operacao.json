@@ -1277,7 +1277,7 @@
    "por_que_agora": "rotina de segunda de 26/10, frente 1 (Subnautica é a base).",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 4; a fila do Murilo está cheia, 48 esperando com limite 5)",
+   "status": "na fila do roteiro (posição 4 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1313,7 +1313,7 @@
    "por_que_agora": "rotina de segunda de 26/10, vídeo de 11/10.",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 5; a fila do Murilo está cheia, 48 esperando com limite 5)",
+   "status": "na fila do roteiro (posição 2 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1361,7 +1361,7 @@
    "por_que_agora": "nota do Murilo de 25/10 no roteiro da base por todos os biomas.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 3; a fila do Murilo está cheia, 47 esperando com limite 5, então não vai pro roteirista agora)",
+   "status": "na fila do roteiro (posição 3 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1409,7 +1409,7 @@
    "por_que_agora": "pedido do Murilo no Decidir de 20/10.",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 2)",
+   "status": "na fila do roteiro (posição 1 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1445,7 +1445,7 @@
    "por_que_agora": "rotina de segunda de 19/10, segundo \"e se\" de escala do gerador de ângulos.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 1)",
+   "status": "na fila do roteiro (posição 5 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, que põe na frente quem tem 1 + 2 + 3 ou 1 + 4; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -4106,5 +4106,5 @@
    "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
   }
  ],
- "gerado_em": "2026-11-11T09:08-03:00"
+ "gerado_em": "2026-11-11T09:09-03:00"
 }
