@@ -2542,9 +2542,9 @@
   {
    "tipo": "Short",
    "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "etapa": "gravação, texto no Gravar desde 07/11 (versão 4 no seu ângulo, 10 frases, uns 1:40, com o quadro do vídeo da youtuber em cada frase; sai sex 13/11 às 18h no principal, na vaga do Fallout, que foi pro canal 2; a voz precisa sair até qua 11 à noite)",
-   "responsavel": "Tarrafa",
-   "falta_murilo": "gravar a voz",
+   "etapa": "edição (você gravou a voz hoje, 11/11, as 10 frases, uns 2:08; o roteiro virou a sua fala, versão 5; sai sex 13/11 às 18h no principal, na vaga do Fallout)",
+   "responsavel": "Lente",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4131,7 +4131,16 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
+  },
+  {
+   "id": "p200",
+   "aberta_em": "2026-11-11T11:11-03:00",
+   "agente": "Periscópio",
+   "video": "Quest paga nova: Zap Blastum (creators.gg)",
+   "o_que": "Decidir se pede acesso à campanha paga Zap Blastum Launch Round 2 (creators.gg, Shiny Dolphin Games): shooter de cobertura visto de cima contra exército de robôs. Pede #ZapBlastum, #ad ou a tag de parceria paga, sem imagem feita por IA e o link da Steam na descrição (no TikTok pode pular). Paga US$ 10 com 5 mil views somadas em curtos (YouTube, TikTok ou Instagram), US$ 10 com 2 mil views em vídeo longo no YouTube e US$ 20 com 5 mil em longo; vem 1 key da Steam. Começou 09/11, sem data de fim na página; a verba total é US$ 600 e restavam US$ 520 hoje, então acaba quando esgotar. Ideia de ângulo: não dá pra dizer sem ver o jogo (a descrição só fala de tiro e robôs); se você achar um, o curto de 5 mil views já paga US$ 10. Link: https://creators.gg/campaigns/1280-zap-blastum-launch-round-2",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-11T11:11-03:00"
+ "gerado_em": "2026-11-11T11:12-03:00"
 }
