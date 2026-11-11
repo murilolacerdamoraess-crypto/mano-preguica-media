@@ -322,6 +322,30 @@
    "status": "agendado",
    "agendado_por": "metricool",
    "nota": "acerto cedo (2,9x a régua com 24 h), rotina de 08/11; Short de 06/11, voz real (isAigc false), PUBLIC_TO_EVERYONE conferido no getScheduledPosts"
+  },
+  {
+   "video_id": "_aSy4jUW1ZY",
+   "quando": "2026-11-12T18:00:00-03:00",
+   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
+   "metricool_id": 423929870,
+   "status": "agendado",
+   "agendado_por": "metricool"
+  },
+  {
+   "video_id": "wGVF6ThIv9I",
+   "quando": "2026-11-14T18:00:00-03:00",
+   "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
+   "metricool_id": 423929982,
+   "status": "agendado",
+   "agendado_por": "metricool"
+  },
+  {
+   "video_id": "_YCpqe5Uxuc",
+   "quando": "2026-11-15T18:00:00-03:00",
+   "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
+   "metricool_id": 423930037,
+   "status": "agendado",
+   "agendado_por": "metricool"
   }
  ]
 }

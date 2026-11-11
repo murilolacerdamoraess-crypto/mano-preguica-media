@@ -1,16 +1,43 @@
 {
- "_leia": "Gerado por tiktok_semana.py. O Leme agenda estes no Metricool (MCP), sempre PUBLIC_TO_EVERYONE, e grava cada um em tiktok_agenda.json com o metricool_id.",
- "gerado_em": "2026-10-19T10:02:30.021900-03:00",
+ "_leia": "Gerado por tiktok_semana.py. O Leme agenda estes no Metricool (MCP), sempre PUBLIC_TO_EVERYONE, e grava cada um em tiktok_agenda.json com o metricool_id e agendado_por. Os de agendar_por tiktok-web (Metricool perto de 20 no mês) vão pro Periscópio agendar no TikTok web.",
+ "gerado_em": "2026-11-10T23:30:12.635090-03:00",
  "plano": [
   {
-   "video_id": "KjX2UtWiO7A",
-   "titulo": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka",
-   "views_youtube": 2230,
+   "video_id": "_aSy4jUW1ZY",
+   "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts",
+   "views_youtube": 2265,
+   "tema_score": 1,
+   "agendar_por": "metricool",
+   "quando": "2026-11-12T18:00:00-03:00",
+   "legenda": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água\n\n#games #jogos #curiosidades",
+   "video_url": "https://github.com/murilolacerdamoraess-crypto/mano-preguica-media/releases/download/_aSy4jUW1ZY/_aSy4jUW1ZY.mp4",
+   "privacidade": "PUBLIC_TO_EVERYONE",
+   "canal": "mp"
+  },
+  {
+   "video_id": "wGVF6ThIv9I",
+   "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts",
+   "views_youtube": 1302,
+   "tema_score": 2,
+   "agendar_por": "metricool",
+   "quando": "2026-11-14T18:00:00-03:00",
+   "legenda": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\n\n#subnautica #games #jogos #curiosidades",
+   "video_url": "https://github.com/murilolacerdamoraess-crypto/mano-preguica-media/releases/download/wGVF6ThIv9I/wGVF6ThIv9I.mp4",
+   "privacidade": "PUBLIC_TO_EVERYONE",
+   "canal": "mp"
+  },
+  {
+   "video_id": "_YCpqe5Uxuc",
+   "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
+   "views_youtube": 1073,
    "tema_score": 0,
-   "quando": "2026-10-22T18:00:00-03:00",
-   "legenda": "O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka\n\n#games #jogos #curiosidades",
-   "video_url": "https://github.com/murilolacerdamoraess-crypto/mano-preguica-media/releases/download/KjX2UtWiO7A/KjX2UtWiO7A.mp4",
-   "privacidade": "PUBLIC_TO_EVERYONE"
+   "agendar_por": "metricool",
+   "quando": "2026-11-15T18:00:00-03:00",
+   "legenda": "Esse cara tá tentando transformar um PS2 quebrado num portátil\n\n#games #jogos #curiosidades",
+   "video_url": "https://github.com/murilolacerdamoraess-crypto/mano-preguica-media/releases/download/_YCpqe5Uxuc/_YCpqe5Uxuc.mp4",
+   "privacidade": "PUBLIC_TO_EVERYONE",
+   "canal": "mp2",
+   "conferir_voz": "voz clonada = isAigc true no Metricool"
   }
  ]
 }

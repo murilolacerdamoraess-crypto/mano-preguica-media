@@ -205,6 +205,12 @@ def sincronizar_perfil(led):
     return marcados
 
 
+def titulo_igual(titulo, vid, led):
+    """10/11/2026: sem repetir post. Mesmo título de um vídeo que já foi pro TikTok (ex.: Marshmello do MP2 = o do principal)."""
+    t = titulo.strip().lower()
+    return any(o != vid and v["title"].strip().lower() == t and v["posted"]["tiktok"]["done"] for o, v in led["videos"].items())
+
+
 def candidatos(led, ja):
     hoje = dt.date.today()
     out, fora = [], []
@@ -221,6 +227,8 @@ def candidatos(led, ja):
             continue
         elif idade + 7 < MATURA and not acerto_cedo(vid):   # 12/10: conta até o dia do post (o slot mais longe é daqui a 7 dias), não até hoje
             motivo = f"ainda maturando ({idade} dias no ar, não chega a {MATURA} até o último horário da semana)"
+        elif titulo_igual(v["title"], vid, led):
+            motivo = "repete post já feito (mesmo título em outro canal)"
         elif backlog(v):
             motivo = f"backlog ({idade} dias no YouTube, passa de {MAX_IDADE}; regra de 18/08: sem repost)"
         elif BAR_RACE.search(v["title"]):
@@ -229,8 +237,7 @@ def candidatos(led, ja):
             motivo = "fora do nicho"
         elif cp.noticia_velha(v):
             motivo = "notícia velha"
-        elif not acerto_cedo(vid) and (vezes_regua(vid, led) or 0) < 1:
-            motivo = f"abaixo de 1x a régua do canal ({vezes_regua(vid, led) or 0:.2f}x)".replace(".", ",")
+        # 10/11/2026 (Murilo): "melhor postar um video do que não postar". Abaixo de 1x a régua NÃO corta mais; vai no fim da fila.
         if motivo:
             fora.append((vid, v["title"], motivo))
         else:
@@ -240,7 +247,7 @@ def candidatos(led, ja):
     import math
     # 23/10: acerto cedo vai na frente
     # 05/11: o piso virou prioridade; abaixo dele, o tema manda e as views só desempatam
-    out.sort(key=lambda x: (bool(acerto_cedo(x[2])), x[1] >= PISO,
+    out.sort(key=lambda x: (bool(acerto_cedo(x[2])), (vezes_regua(x[2], led) or 0) >= 1, x[1] >= PISO,
                             math.log10(max(x[1], 1)) + 0.25 * x[0] if x[1] >= PISO else (x[0], x[1])), reverse=True)
     return out, fora
 
@@ -286,6 +293,8 @@ def main(hospedar, so_acertos=False):
     for quando in slots:
         dia = dt.date.fromisoformat(quando[:10])
         escolhido = next((c for c in livres if not backlog(c[3], dia) and (acerto_cedo(c[2]) or (dia - dt.date.fromisoformat(c[3]["published"][:10])).days >= MATURA)), None)
+        if not escolhido:   # 10/11/2026 (Murilo): "melhor postar um video do que não postar". Sem maduro, vai o melhor que sobrou (backlog continua barrado)
+            escolhido = next((c for c in livres if not backlog(c[3], dia)), None)
         if escolhido:
             livres.remove(escolhido)
             pares.append((escolhido, quando))
