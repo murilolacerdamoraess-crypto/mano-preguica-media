@@ -2446,9 +2446,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "narração, texto no Gravar com 15 frases (versão 6 de 10/11, 4 frases mais faladas; antes versão 5 de 06/11, cortada pra uns 2:39; título aprovado por você em 04/11; versão 4, com o seu ângulo: a réplica igual ao jogo, as dificuldades e o fim \"agora só falta alguém fazer ela funcionar\"; aprovada pelo Crivo, e gravar já aprova o roteiro; principal, uns 2 min e 40; saída a definir, depois do Reaper de LEGO)",
+   "etapa": "roteiro aprovado (voz gravada por você em 11/11, 15 frases, uns 2:20; o texto ficou como você falou; material pro editor pronto; principal, saída proposta sáb 14/11; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -3676,6 +3676,14 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "11/11 ~11h",
+   "titulo": "**pedido (Vitrine/Âncora, a pedido do Arpão): item 6 do garimpo, parte do Wakemaker (`short-wakemaker-subnautica2-de-verdade.md`, gravado hoje, sai sáb 14/11 18h). Quem faz: Periscópio, na vez dele (o Hulk sai sex 13/11, o Wakemaker vem logo depois).** Vitrine parcial já está no roteiro; faltam 2 itens, no ML, com vendedor BR, nota e vendidos, consultando a extensão e salvando só o que passar: (1) desafiante: brinquedo de propulsor/jet de braço ou \"braço mecânico\" de criança, R$ 30 a R$ 100 (+1 reserva); (2) filamento PLA azul 1 kg de impressora 3D, até uns R$ 100. Escrever o resultado nos itens 1 e 3 da seção Vitrine do roteiro e avisar `maestri ask \"Âncora\"`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
  "pendencias": [
@@ -4124,5 +4132,5 @@
    "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
   }
  ],
- "gerado_em": "2026-11-11T11:04-03:00"
+ "gerado_em": "2026-11-11T11:08-03:00"
 }
