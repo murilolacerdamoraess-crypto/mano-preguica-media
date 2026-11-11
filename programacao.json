@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-11-10T15:57:29.736166-03:00",
+ "gerado_em": "2026-11-10T21:22:46.838252-03:00",
  "mes": {
-  "postados": 7,
+  "postados": 8,
   "teto": 93,
-  "folga": 86
+  "folga": 85
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 19,
-   "ultimo_post": "2026-11-09",
-   "dias_parado": 1,
+   "na_fila": 21,
+   "ultimo_post": "2026-11-10",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "5VryqAW8h-4",
-     "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-10T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "qV_Zq6Eb40k",
      "titulo": "Como o Reaper Leviatã caça suas presas no Subnautica",
@@ -43,16 +37,16 @@
    "previstos": [],
    "proximos_da_fila": [
     {
+     "video_id": "wGVF6ThIv9I",
+     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts"
+    },
+    {
      "video_id": "_aSy4jUW1ZY",
      "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts"
     },
     {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
-    },
-    {
-     "video_id": "uC_EOBxYQ0I",
-     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
     }
    ]
   },
@@ -60,15 +54,15 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 20,
-   "ultimo_post": "2026-11-09",
-   "dias_parado": 1,
+   "na_fila": 21,
+   "ultimo_post": "2026-11-10",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "GzZE02iibIA",
-     "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
+     "video_id": "wGVF6ThIv9I",
+     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts",
      "quando": "2026-11-10T21:30:00-03:00"
     },
     {
@@ -122,25 +116,25 @@
      "quando": "2026-11-20T21:30:00-03:00"
     },
     {
+     "video_id": "_YCpqe5Uxuc",
+     "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
+     "quando": "2026-11-21T21:30:00-03:00"
+    },
+    {
      "video_id": "09Iaww-aTvg",
      "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-21T21:30:00-03:00"
+     "quando": "2026-11-22T21:30:00-03:00"
     },
     {
      "video_id": "35MMvMmb38Y",
      "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-22T21:30:00-03:00"
-    },
-    {
-     "video_id": "uC_EOBxYQ0I",
-     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026",
      "quando": "2026-11-23T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
     {
-     "video_id": "GzZE02iibIA",
-     "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa"
+     "video_id": "wGVF6ThIv9I",
+     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts"
     },
     {
      "video_id": "lybLU6Q9xV8",
@@ -156,7 +150,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 54,
+   "na_fila": 56,
    "ultimo_post": "2026-11-04",
    "dias_parado": 6,
    "parado": false,
@@ -183,8 +177,8 @@
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares"
     },
     {
-     "video_id": "WkcpDGnBaUc",
-     "titulo": "Subnautica tinha um buraco que ia até a lava e apagaram ele do jogo #shorts"
+     "video_id": "weC-ObCZ7Xw",
+     "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex"
     }
    ]
   }
