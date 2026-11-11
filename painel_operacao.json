@@ -2542,9 +2542,9 @@
   {
    "tipo": "Short",
    "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "etapa": "edição (você gravou a voz hoje, 11/11, as 10 frases, uns 2:08; o roteiro virou a sua fala, versão 5; sai sex 13/11 às 18h no principal, na vaga do Fallout)",
+   "etapa": "edição (você gravou a voz hoje, 11/11, as 10 frases, uns 2:08; o roteiro virou a sua fala, versão 5; sai sex 13/11 às 18h no principal, na vaga do Fallout; título final e capa com o Anzol, os 3 títulos no Decidir)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2893,6 +2893,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "11/11 ~11h30",
+   "titulo": "**pedido (Anzol): GERAR A CAPA do Short do item proibido na cápsula do tempo (principal, sai sex 13/11 18h), no Flow. Voz gravada pelo Murilo em 11/11; o título vai pro Decidir agora e a capa serve pros 3. Quem faz: Periscópio. Prazo: qua 11/11, antes da edição (a capa é o quadro 0).** Refs em `Mano Preguica/_refs capa - Shorts 26-10/Capsula item proibido/`. Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT (recusa coisa de jogo, cartilha 2.9). 1 geração x2, anexos nesta ordem: IMAGEM 1 = `REF QUADRO o scanner na mao (Alidove 11m04s).png`, IMAGEM 2 = `REF QUADRO a capsula do tempo nas maos (Alidove 11m25s).png`. Salvar como `CAPA CAPSULA - Flow 1.png` e `Flow 2.png` na mesma pasta, sem tratar, e me avisar (`maestri ask \"Anzol\"`).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "11/11 ~10h30",
    "titulo": "~~pedido~~ **FEITO e conferido pelo Anzol (11/11 ~10h45): vai a Flow 2, reserva Flow 1 (detalhe no roteiro). GERAR A CAPA do Short do Reaper de LEGO (principal), no Flow. Voz gravada pelo Murilo em 11/11; título aprovado em 06/11: \"Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante\". Quem faz: Periscópio. Prazo: qua 11/11, antes da ordem de edição (a capa é o quadro 0).** Refs em `Mano Preguica/_refs capa - Shorts 26-10/Reaper LEGO/`. Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT: ele recusa criatura de jogo (cartilha 2.9). 1 geração x2, anexos nesta ordem: IMAGEM 1 = `REF JOGO o Reaper do Subnautica (canon da biblioteca do canal).png`, IMAGEM 2 = `REF QUADRO a cabeça do Reaper de LEGO, de frente (FinCantBuild 31-05, 0m27s).png` (o `_quadro inteiro...` não vai). Salvar como `CAPA REAPER LEGO - Flow 1.png` e `Flow 2.png` na mesma pasta, sem tratar, e me avisar (`maestri ask \"Anzol\"`): eu confiro e mando pro quadro 0.",
@@ -4148,7 +4156,21 @@
    "o_que": "Decidir se pede acesso à campanha paga Zap Blastum Launch Round 2 (creators.gg, Shiny Dolphin Games): shooter de cobertura visto de cima contra exército de robôs. Pede #ZapBlastum, #ad ou a tag de parceria paga, sem imagem feita por IA e o link da Steam na descrição (no TikTok pode pular). Paga US$ 10 com 5 mil views somadas em curtos (YouTube, TikTok ou Instagram), US$ 10 com 2 mil views em vídeo longo no YouTube e US$ 20 com 5 mil em longo; vem 1 key da Steam. Começou 09/11, sem data de fim na página; a verba total é US$ 600 e restavam US$ 520 hoje, então acaba quando esgotar. Ideia de ângulo: não dá pra dizer sem ver o jogo (a descrição só fala de tiro e robôs); se você achar um, o curto de 5 mil views já paga US$ 10. Link: https://creators.gg/campaigns/1280-zap-blastum-launch-round-2",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p201",
+   "aberta_em": "2026-11-11T11:28-03:00",
+   "agente": "Anzol",
+   "video": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
+   "o_que": "Escolher o título do Short do item proibido na cápsula do tempo (principal, sai sex 13/11 às 18h). O primeiro é o que eu escolheria: é o seu ângulo de 07/11 e o título com que você gravou. A capa (o scanner com uma luz verde escondida dentro, a cápsula na areia e a palavra CONTRABANDO) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
+    "Ela abriu 500 cápsulas do tempo no Subnautica e descobriu gente burlando um item proibido",
+    "Os jogadores do Subnautica escondem um item proibido pra mandar na cápsula do tempo"
+   ]
   }
  ],
- "gerado_em": "2026-11-11T11:23-03:00"
+ "gerado_em": "2026-11-11T11:28-03:00"
 }
