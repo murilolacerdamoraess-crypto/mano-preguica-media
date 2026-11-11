@@ -4105,7 +4105,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "quests-pagas-2026-11-10b"
+  },
+  {
+   "id": "p199",
+   "aberta_em": "2026-11-11T02:50-03:00",
+   "agente": "Tesoura",
+   "video": "Longo: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa",
+   "o_que": "assistir o longo inteiro (15:11) e dizer se segue ou se deleta",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
   }
  ],
- "gerado_em": "2026-11-10T23:55-03:00"
+ "gerado_em": "2026-11-11T02:51-03:00"
 }
