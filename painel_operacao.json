@@ -4026,18 +4026,6 @@
    "nota": "aberta sem a chave das capas: as imagens não apareciam na tarefa; reaberta com a chave"
   },
   {
-   "id": "p190",
-   "aberta_em": "2026-11-09T18:03-03:00",
-   "agente": "Leme",
-   "video": "Esse cara tá tentando transformar um PS2 quebrado num portátil (canal 2)",
-   "o_que": "programar o PS2 pra ter 10/11 às 18h (já está tudo pronto e privado: capa, relacionado e produtos). Ou você clica em Visibilidade > Programar no Studio ou no app, ou escreve na sessão do Leme: eu autorizo agendar o PS2 ter 10/11 18h. Prazo: ter até umas 17h",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "agendar:_YCpqe5Uxuc",
-   "fechada_em": "2026-11-09T18:34-03:00",
-   "nota": "autorizou na sessão do Leme; agendado ter 10/11 18h, conferido na API e no Studio"
-  },
-  {
    "id": "p191",
    "aberta_em": "2026-11-09T23:50-03:00",
    "agente": "Maré",
@@ -4189,5 +4177,5 @@
    "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw"
   }
  ],
- "gerado_em": "2026-11-11T16:22-03:00"
+ "gerado_em": "2026-11-11T20:11-03:00"
 }
