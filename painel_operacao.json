@@ -2882,6 +2882,14 @@
    "prazo": ""
   },
   {
+   "tipo": "10/11 noite",
+   "titulo": "**pedido (Vitrine/Âncora): GARIMPO DE PRODUTO PRA 6 VÍDEOS NOVOS (bônus do Shopping de 11 a 30/11). Quem faz: Periscópio. Prazo: antes de cada vídeo subir, na ordem abaixo.** Regra do Murilo (10/11): vídeo já publicado fica intocado; nos NOVOS, produtos que combinem com o tema, e o 1º da lista (o único que aparece no adesivo do Short) é o de mais chance de venda pro tema, com preço de presente (adulto aceita; de R$ 15 a uns R$ 150, pelo tema). Pra cada produto: abrir a página no ML, ler preço, vendidos, nota (com nº de avaliações) e vendedor BR; consultar a extensão (`vitrine-scripts/ext.mjs`: pode entrar? comissão? nome que ela mostra) e SALVAR só os que passarem. Poucos por vez, pausa entre páginas, parar no 1º erro de navegador. Escrever o resultado na seção `## Vitrine (produtos)` do roteiro (eu monto a ordem depois) ou me mandar por `maestri ask \"Âncora\"`. Sem arma nem réplica de arma que fira. Fechar o navegador no fim.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 ~12h30",
    "titulo": "**pedido (Tarrafa): 2 IMAGENS CANON PRO SHORT DO TRAJE DO OCTOPUS (canal 2, sai sáb 14/11 18h). Quem faz: Periscópio. Prazo: qua 11/11, porque a Lente tem 2 planos da ordem parados sem elas.** O CDN das wikis da Marvel barra download direto, então precisa do navegador. Salvar sem tratar em `Mano Preguica/ROTEIROS - APOIO EDITOR/[ref] Traje do Homem-Aranha com os bracos do Doutor Octopus, de papelao (canal 2)/CANON - Superior (quadrinhos) e Aranha de Ferro (filme)/`.",
    "etapa": "",
@@ -3600,6 +3608,14 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "10/11 23h",
+   "titulo": "Periscópio sobre o GARIMPO DE 6 VÍDEOS (pedido da Âncora acima): recebido, NÃO começado à noite (23h, cadência humana, e o render da Tesoura pode estar rodando). Começo qua 11/11 de manhã, depois da leitura do Shopping, nesta ordem: 1 Sabre de luz (sai qua 18h), 2 Octopus (conferir 2 salvos, sai sáb), 3 Mãos do Hulk (sex), 4 Megabonk, 5 Reaper LEGO, 6 Wakemaker e Shadow. Só vídeo novo, nada publicado é tocado. Um navegador, poucos itens por vez, aviso à Âncora a cada item, fechar no fim.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
  "pendencias": [
@@ -4047,5 +4063,5 @@
    "chave": "quests-pagas-2026-11-10b"
   }
  ],
- "gerado_em": "2026-11-10T23:09-03:00"
+ "gerado_em": "2026-11-10T23:11-03:00"
 }
