@@ -693,7 +693,7 @@
 "v": 37800
 }
 ],
-"views": 46400
+"views": 46500
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -839,7 +839,7 @@
 "v": 431
 }
 ],
-"views": 2486
+"views": 2548
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -887,7 +887,7 @@
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
 "ts": 1789765315,
 "fotos": [],
-"views": 474
+"views": 475
 },
 "7686241388739972372": {
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
@@ -911,7 +911,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1620
+"views": 1621
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -941,13 +941,13 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3451
+"views": 3453
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
 "ts": 1787000500,
 "fotos": [],
-"views": 2230
+"views": 2231
 },
 "7673995557148298514": {
 "titulo": "Sam Ayou: vítima ou vilã? você decide 🤔 #subnautica #subnautica2 #gam...",
@@ -1422,7 +1422,7 @@
 "v": 2752
 }
 ],
-"views": 3894
+"views": 3898
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2634,7 +2634,7 @@
 "v": 10900
 }
 ],
-"views": 16800
+"views": 16900
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -3600,9 +3600,13 @@
 {
 "t": 1794423965,
 "v": 5543
+},
+{
+"t": 1794431230,
+"v": 5551
 }
 ],
-"views": 5543
+"views": 5551
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -3815,9 +3819,13 @@
 {
 "t": 1794423965,
 "v": 3017
+},
+{
+"t": 1794431230,
+"v": 3028
 }
 ],
-"views": 3017
+"views": 3028
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -4096,6 +4104,10 @@
 {
 "t": 1794409452,
 "v": 209
+},
+{
+"t": 1794431230,
+"v": 209
 }
 ],
 "views": 209
@@ -4135,9 +4147,24 @@
 {
 "t": 1794423965,
 "v": 177
+},
+{
+"t": 1794431230,
+"v": 179
 }
 ],
-"views": 177
+"views": 179
+},
+"7707021946801687814": {
+"titulo": "Como o Reaper Leviatã caça suas presas no Subnautica #subnautica #gam...",
+"ts": 1794430877,
+"fotos": [
+{
+"t": 1794431230,
+"v": 33
+}
+],
+"views": 33
 }
 }
 }
