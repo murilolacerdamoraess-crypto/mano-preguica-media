@@ -1006,6 +1006,42 @@
    "pendente": ""
   },
   {
+   "id": "P130",
+   "titulo": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
+   "rodada": "Pelos 3 moldes da receita v2, 10/11/2026 (Sonar): P130 a P132",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 1-2min",
+   "concorrencia": "o Jiraiya fez em 2020 (681 mil), num vídeo longo; em Short e em 2026, ninguém na busca.",
+   "status": "no backlog (nota 7,5; espera o Sextante dizer se o molde 2 conferido sobe a nota; a fila de roteiros está cheia, 16 de 8)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P131",
+   "titulo": "A Nintendo e a Sony fizeram um videogame juntas, e o único que acharam foi vendido por 360 mil dólares",
+   "rodada": "Pelos 3 moldes da receita v2, 10/11/2026 (Sonar): P130 a P132",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 1-2min",
+   "concorrencia": "só longos de história do PlayStation; em Short, ninguém na busca.",
+   "status": "no backlog (nota 7,5; mesmo aviso da P130 pro Sextante)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P132",
+   "titulo": "Ele fez o martelo do Thor de verdade, e ninguém além dele consegue levantar",
+   "rodada": "Pelos 3 moldes da receita v2, 10/11/2026 (Sonar): P130 a P132",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 1-2min",
+   "concorrencia": "",
+   "status": "em espera (bolha da Marvel e mesmo criador no canal 2; sai quando o Hulk, o Octopus e a teia publicarem e o One Punch Man sair do Gravar)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P118",
    "titulo": "O Gargantuan do Subnautica contra o Godzilla: quem ganha?",
    "rodada": "Combates, 08/11/2026 (Sonar, formato novo do Murilo): P118 a P122 em Short, P123 em longo, e a P74 como a primeira",
@@ -4071,5 +4107,5 @@
    "chave": "quests-pagas-2026-11-10b"
   }
  ],
- "gerado_em": "2026-11-10T23:30-03:00"
+ "gerado_em": "2026-11-10T23:55-03:00"
 }
