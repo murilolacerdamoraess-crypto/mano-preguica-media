@@ -2506,7 +2506,7 @@
   {
    "tipo": "Short",
    "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "etapa": "gravação, texto no Gravar desde 07/11 (versão 4 no seu ângulo, 10 frases, uns 1:40, com o quadro do vídeo da youtuber em cada frase; saída proposta: dom 15/11 às 18h no principal)",
+   "etapa": "gravação, texto no Gravar desde 07/11 (versão 4 no seu ângulo, 10 frases, uns 1:40, com o quadro do vídeo da youtuber em cada frase; sai sex 13/11 às 18h no principal, na vaga do Fallout, que foi pro canal 2; a voz precisa sair até qua 11 à noite)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -3818,7 +3818,7 @@
    "aberta_em": "2026-11-07T22:53-03:00",
    "agente": "Tarrafa",
    "video": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "o_que": "gravar a voz das 10 frases (sai dom 15/11 às 18h)",
+   "o_que": "gravar a voz das 10 frases (sai sex 13/11 às 18h, até qua 11 à noite)",
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4"
@@ -4063,5 +4063,5 @@
    "chave": "quests-pagas-2026-11-10b"
   }
  ],
- "gerado_em": "2026-11-10T23:18-03:00"
+ "gerado_em": "2026-11-10T23:19-03:00"
 }
