@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T13:22:36.432288Z",
+ "gerado_em": "2026-11-11T13:24:17.015567Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1238,7 +1238,7 @@
    "name": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
    "titulo_roteiro": "SHORT - Estão montando o Reaper do Subnautica em LEGO, e ele ficou tão grande que não cabe em lugar nenhum",
    "description": "Short do canal principal (P111, aprovada pelo Murilo em 04/11/2026, \"legal, uma vibe bem parecida com a do onix que deu muito certo\"). O FinCantBuild, que já tinha montado o Prawn Suit em LEGO, está montando o Reaper Lev",
-   "status": "roteiro aprovado, gravado pelo Murilo em 11/11 (versão 5: a fala é a transcrição dos takes, R71; falta o Crivo conferir o fato da frase 12 na fala, V15; versão 4 de 11/11: as 2 frases da régua como no Gravar; versão 3: 4 frases com construção que ninguém fala trocadas em 10/11, pedido do Murilo; da0e2c88 APROVADO PELO CRIVO, registro 55caa7a4; no Gravar em short_reaper_lego, 13 frases; gancho mantido pelo Murilo em 05/11; R71: gravar = aprovar)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11/11 (versão 5: a fala é a transcrição dos takes, R71; APROVADO PELO CRIVO no V15 em 11/11 com o corte da 5.2, 5343729f; versão 4 de 11/11: as 2 frases da régua como no Gravar; versão 3: 4 frases com construção que ninguém fala trocadas em 10/11, pedido do Murilo; da0e2c88 APROVADO PELO CRIVO, registro 55caa7a4; no Gravar em short_reaper_lego, 13 frases; gancho mantido pelo Murilo em 05/11; R71: gravar = aprovar)",
    "gate": "versão 1: fontes, fluidez, roteiro_frases e erros repetidos APROVADOS e teste do leigo sem pergunta aberta em 2026-11-04; o Crivo devolveu com 6 trocas (o fim pousava no que falta), aplicadas, e APROVOU em 2026-11-04 (commit 0add1bbb); no Gravar pela R71, saída dom 08/11 18h no principal (plano da Bússola, 06/11; era ter 10/11, que ficou pro #37; depende da voz de 06/11 à noite e da edição no sábado)",
    "video_id": null,
    "publicado_em": null,
