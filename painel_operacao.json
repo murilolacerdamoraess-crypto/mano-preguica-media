@@ -3809,8 +3809,9 @@
    "video": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
    "o_que": "gravar a voz das 15 frases (principal, uns 2:40; sai depois do Reaper de LEGO)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_propulsor_braco"
+   "status": "feita",
+   "chave": "narracao:short_propulsor_braco",
+   "fechada_em": "2026-11-11T11:05-03:00"
   },
   {
    "id": "p156",
@@ -4123,5 +4124,5 @@
    "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
   }
  ],
- "gerado_em": "2026-11-11T11:02-03:00"
+ "gerado_em": "2026-11-11T11:04-03:00"
 }
