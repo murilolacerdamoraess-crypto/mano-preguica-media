@@ -2438,10 +2438,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "edição (voz gravada por você em 11/11, 13 frases, uns 2 min e 10; a ordem de edição ficou pronta em 11/11 e a capa, a descrição e os produtos também; 11/11 de manhã: a voz está limpa e cortada (1 min 57), o plano dos 45 trechos está pronto e o vídeo está sendo montado; o fim da frase 12, \"e coubesse de fato na estante dele\", sai na edição porque o vídeo dele diz que ainda falta espaço; principal; pode sair qui 12/11 às 18h se você aprovar a tempo)",
+   "etapa": "edição (o vídeo está no Assistir pra você assistir desde 11/11 14h08, 1 min 57, aprovado pelo Crivo; a frase \"e coubesse de fato na estante dele\" saiu porque o vídeo dele diz que ainda falta espaço; os 2 comentários dos fãs entram em cartão sem o nome de quem escreveu; principal; sai qui 12/11 às 18h se você aprovar a tempo)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
-   "prazo": ""
+   "falta_murilo": "assistir o Short do Reaper de LEGO e dizer se aprova ou o que muda",
+   "prazo": "qui 12/11"
   },
   {
    "tipo": "Short",
@@ -4178,7 +4178,17 @@
     "Ela abriu 500 cápsulas do tempo no Subnautica e descobriu gente burlando um item proibido",
     "Os jogadores do Subnautica escondem um item proibido pra mandar na cápsula do tempo"
    ]
+  },
+  {
+   "id": "p202",
+   "aberta_em": "2026-11-11T14:08-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
+   "o_que": "assistir o Short do Reaper de LEGO (1:57) e dizer se aprova ou o que muda; se aprovar até qui 12/11 de tarde, sai qui 12/11 às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1CIWP8yUaRX-jOqmoNCx3pTHRLIt4woUA"
   }
  ],
- "gerado_em": "2026-11-11T11:33-03:00"
+ "gerado_em": "2026-11-11T14:08-03:00"
 }
