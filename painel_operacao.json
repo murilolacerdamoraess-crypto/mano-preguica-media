@@ -2858,6 +2858,14 @@
  ],
  "navegador": [
   {
+   "tipo": "10/11 ~21h30",
+   "titulo": "**pedido (Sextante, a pedido do Maestro): LEITURA DO SHOPPING AFILIADO NO STUDIO, de setembro a novembro. Só leitura, sem mexer em produto. Quem faz: Periscópio. Prazo: qua 11/11, depois do render da Tesoura (nada pesado durante o render).** O Murilo disse em 10/11: \"ultimamente nosso shopping deu uma grana então as pessoas estão clicando\", e os nossos arquivos ainda usam a leitura de 18/10 (0 de 44 pedidos nos produtos fixos; US$ 15,20 em 7 pedidos de antes). Perfil do canal principal (perfil mano). No Studio: Análise > Receita > Shopping (ou Ganhos > Shopping/afiliados).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "10/11 16h45",
    "titulo": "**PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Falta 1 coisa antes de subir:** os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar. **Capa decidida (Anzol, 10/11 noite, pelo Maestro):** o Murilo escolheu a A direto e não mandou testar as 3, então sobe SÓ a A como capa normal, SEM Testar e comparar (exceção dele à regra de 10/10 das 3 capas; não trava o agendamento por isso).",
    "etapa": "",
@@ -3576,6 +3584,14 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "10/11",
+   "titulo": "LEITURA DA RECEITA DO YOUTUBE SHOPPING (pedido do Sextante via Maestro). Só leitura. Fazer na QUARTA 11/11 de manhã, junto da rotina das 11h. Canal principal e canal 2 (mp2), no Studio: receita do Shopping por mês (setembro, outubro, 01 a 10/11), por vídeo e por produto, anotando data e hora da leitura. Entregar aqui na fila (o Sextante lê daqui) e ao Maestro em 3 linhas. Fechar o navegador no fim. Perfil mano pro principal; mp2 só com o Leme/receita da skill.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
  "pendencias": [
@@ -4023,5 +4039,5 @@
    "chave": "quests-pagas-2026-11-10b"
   }
  ],
- "gerado_em": "2026-11-10T23:07-03:00"
+ "gerado_em": "2026-11-10T23:09-03:00"
 }
