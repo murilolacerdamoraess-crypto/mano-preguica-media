@@ -2430,10 +2430,10 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "etapa": "edição (voz gravada por você em 10/11; o plano de edição ficou pronto em 10/11; a última frase saiu, porque você falou que ele já está fazendo a segunda versão e o vídeo dele diz que ainda vai fazer, então o vídeo fecha na frase da cola quente; 11/11: o Aranha de Ferro do filme e a capa do quadrinho em alta entraram, e o vídeo (2 min 09) está nos últimos acertos da conferência automática, depois do Reaper de LEGO; a previsão é chegar no Assistir até qui 12/11 à noite; canal 2; saída proposta: sáb 14/11 às 18h)",
+   "etapa": "edição (o vídeo está no Assistir pra você assistir desde 11/11 16h22, 2 min 10, aprovado pelo Crivo; a última frase saiu, porque você falou que ele já está fazendo a segunda versão e o vídeo dele diz que ainda vai fazer, então o vídeo fecha na frase da cola quente; o Aranha de Ferro do filme entrou ao lado do Superior dos quadrinhos; canal 2; sai sáb 14/11 às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
-   "prazo": ""
+   "falta_murilo": "assistir o Short do Octopus e dizer se aprova ou o que muda",
+   "prazo": "sex 13/11"
   },
   {
    "tipo": "Short",
@@ -4177,7 +4177,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1CIWP8yUaRX-jOqmoNCx3pTHRLIt4woUA"
+  },
+  {
+   "id": "p203",
+   "aberta_em": "2026-11-11T16:22-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão (canal 2)",
+   "o_que": "assistir o Short do Octopus de papelão (2:10, canal 2) e dizer se aprova ou o que muda; sai sáb 14/11 às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw"
   }
  ],
- "gerado_em": "2026-11-11T16:20-03:00"
+ "gerado_em": "2026-11-11T16:22-03:00"
 }
