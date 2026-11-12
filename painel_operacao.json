@@ -2352,7 +2352,7 @@
    "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
    "etapa": "roteiro aprovado (voz gravada por você em 11/11, 16 frases; o texto ficou como você falou; sai qui 19/11 às 18h; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2560,7 +2560,7 @@
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
    "etapa": "edição (você gravou as 12 frases em 11 e 12/11; a ordem de edição foi acertada pela sua fala em 12/11; na fila da Tesoura depois do LEGO, da cápsula e do Wakemaker; sai seg 16/11 às 18h no principal; título e capa com o Anzol)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2576,7 +2576,7 @@
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
    "etapa": "roteiro aprovado (voz gravada por você em 12/11, 16 frases; o texto ficou como você falou; sai sáb 21/11 às 18h; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2760,7 +2760,7 @@
    "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
    "etapa": "edição (você gravou as 17 frases em 11 e 12/11; as cenas 3D estão prontas desde 08/11 e agora a Lente acerta o tempo de cada plano pela sua voz e renderiza, quando a Tesoura não estiver renderizando; sai ter 17/11 às 18h no principal)",
    "responsavel": "Lente",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2893,6 +2893,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "12/11 ~09h30",
+   "titulo": "**pedido (Anzol): GERAR 3 CAPAS do principal no Flow, NESTA ORDEM: (1) bateria na zona de lava (sai seg 16/11, a Lente espera pra fechar a ordem), (2) base inundada, (3) extintor no Deathrun (sai sáb 21/11). Quem faz: Periscópio.** Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT (recusa criatura de jogo, 2.9). 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar sem tratar na pasta de cada uma e me avisar (`maestri ask \"Anzol\"`) a cada capa pronta. Fechar o navegador no fim e conferir processo órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "12/11 ~01h",
    "titulo": "**PACOTE DO SHORT DO ITEM PROIBIDO NA CÁPSULA DO TEMPO (Anzol, pro Periscópio; principal; sai sex 13/11 18h; subir quando a Tesoura deixar o vídeo em 00 - PRONTOS).** Título final (Murilo, 12/11, p201): `Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles` (83 letras; no Studio, com ` #shorts` no fim se a regra de Short do canal pedir). Capa: o quadro 0 do vídeo é a `CAPA CAPSULA - Flow 2.png` (`Mano Preguica/_refs capa - Shorts 26-10/Capsula item proibido/`); se o Studio deixar escolher a miniatura, o quadro 0. Descrição (copiar inteira, com os emojis), 12 tags e Studio: em `roteiros/short-capsulas-bateria-escondida-scanner.md`, seção \"Embalagem: título, capa, descrição e tags\" (a descrição não muda com o título escolhido). Categoria Jogos; Título do jogo: Subnautica. Sem crédito na descrição (a Alidove fica na tela). Vídeo relacionado: um Short de cápsula do tempo do canal (os 10 mil metros). Hora de saída 18h, fora da janela de 22h30 a 11h. Ao terminar, avise o Anzol e o Maestro (`maestri ask \"Claude Code\"`).",
@@ -4319,7 +4327,21 @@
     "Em Subnautica, o seu medo decide o tamanho dos monstros",
     "Quanto mais medo você sente no Subnautica, maior o monstro fica"
    ]
+  },
+  {
+   "id": "p210",
+   "aberta_em": "2026-11-12T00:54-03:00",
+   "agente": "Anzol",
+   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
+   "o_que": "Escolher o título do Short da bateria que some na zona de lava (principal, sai seg 16/11). O primeiro é o que eu escolheria: é o seu ângulo de 07/11, falando com quem jogou, e deixa a explicação pro vídeo. A capa (bichos grudados no casco do submarino e uma bateria com 1%) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Se você jogou Subnautica, a sua bateria sumia na lava, e a explicação é biológica",
+    "No Subnautica, a sua bateria não acabava na lava, alguém tava comendo ela",
+    "Por que a bateria do submarino sumia tão rápido na lava do Subnautica?"
+   ]
   }
  ],
- "gerado_em": "2026-11-12T00:53-03:00"
+ "gerado_em": "2026-11-12T00:54-03:00"
 }
