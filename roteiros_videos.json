@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T03:32:55.226846Z",
+ "gerado_em": "2026-11-12T03:35:41.950846Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1518,7 +1518,7 @@
    "name": "SHORT - Construíram um trem do Minecraft de verdade dentro do escritório, e só a impressão levou 1.600 horas",
    "titulo_roteiro": "SHORT: o carrinho de mina do Minecraft andando de verdade",
    "description": "Short de jornada (pauta P106, aprovada pelo Murilo em 07/11 19:18). O Darryl, da Hacksmith, joga Minecraft com os amigos uma vez por ano e sempre faz trilho de carrinho; resolve fazer um mundo de Minecraft impresso em 3D",
-   "status": "roteiro aguardando aprovação do Murilo (v2, gancho refeito a pedido dele em 08/11; aprovado pelo Crivo em 08/11, 95f4be87)",
+   "status": "descartado pelo Murilo em 12/11 (\"pode deletar esse video do carrinho do minecraft. eu acho que ele segue a mesma linha que os videos floparam.\"); p166 cancelada. Antes: v3, aprovado pelo Crivo em 08/11, 95f4be87",
    "gate": "versão 2 (08/11, gancho refeito): conferir_fontes 53/0 (1 conta), checar_fluidez, roteiro_frases (molde jornada, 375 palavras), erros repetidos e teste do leigo APROVADOS",
    "video_id": null,
    "publicado_em": null,
