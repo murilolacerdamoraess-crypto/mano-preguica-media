@@ -2446,10 +2446,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "edição (voz gravada por você em 11/11, 15 frases, uns 2 min e 30; a ordem de edição ficou pronta em 11/11, com a capa e o título que você aprovou; principal; sai sáb 14/11 às 18h se você aprovar a tempo)",
+   "etapa": "edição (o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; sai sáb 14/11 às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
-   "prazo": ""
+   "falta_murilo": "assistir o Short do Wakemaker e dizer se aprova ou o que muda",
+   "prazo": "sex 13/11"
   },
   {
    "tipo": "Short",
@@ -4420,7 +4420,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:mp2-teia-homem-aranha-gruda.md@v1"
+  },
+  {
+   "id": "p216",
+   "aberta_em": "2026-11-12T02:17-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "o_que": "assistir o Short do Wakemaker (2:10) e dizer se aprova ou o que muda; sai sáb 14/11 às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw"
   }
  ],
- "gerado_em": "2026-11-12T01:56-03:00"
+ "gerado_em": "2026-11-12T02:18-03:00"
 }
