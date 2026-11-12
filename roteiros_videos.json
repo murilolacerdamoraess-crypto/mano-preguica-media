@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T03:37:21.013260Z",
+ "gerado_em": "2026-11-12T03:37:33.893183Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -300,13 +300,13 @@
    "name": "SHORT MP2 - Esse cara fez o sabre de luz de Star Wars de verdade, e um quebrou 1 hora antes da estreia",
    "titulo_roteiro": "SHORT MP2: o sabre de luz de verdade",
    "description": "Short de uns 3 minutos pro MP2 (pauta P46 do Sonar, família \"impossível com as próprias mãos\", tom \"olha que legal que estão fazendo\"). Versão 2 (19/10), refeita pela história guiada. O HeroTech tinha um sabre que sai do",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 8) desde 10/11; APROVADO PELO CRIVO em 10/11 (19de98d5, registro 8c53c135); reescrita pro falado pedida pelo Murilo gravando; a frase 1 ele já gravou",
+   "status": "roteiro aprovado (gravado pelo Murilo em 11 e 12/11, R71); versão 9 = a fala gravada; antes APROVADO PELO CRIVO em 10/11 (19de98d5) na versão 8",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2",
    "motor": null,
-   "versao": "8",
+   "versao": "9",
    "fonte_yt": "qOAenK39gfs"
   },
   {
