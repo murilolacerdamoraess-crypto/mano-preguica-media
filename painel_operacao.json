@@ -2488,7 +2488,7 @@
    "titulo": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
    "etapa": "edição (você gravou as 14 frases em 11 e 12/11, uns 2:55 de takes; o roteiro virou a sua fala; está na fila de edição depois dos vídeos do principal; versão 9)",
    "responsavel": "Tesoura",
-   "falta_murilo": "escolher o título",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2496,7 +2496,7 @@
    "titulo": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
    "etapa": "edição (você gravou as 12 frases em 11 e 12/11, uns 2:23 de takes; o roteiro virou a sua fala; está na fila de edição depois dos vídeos do principal; versão 9; a data nova sai com o Leme)",
    "responsavel": "Tesoura",
-   "falta_murilo": "escolher o título",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2893,6 +2893,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "12/11 ~10h",
+   "titulo": "**pedido (Anzol): TROCAR SÓ A PALAVRA da capa do Hulk (canal 2), no Flow, ANTES das 4 capas do pedido abaixo (é rápido). Quem faz: Periscópio.** O Murilo escolheu o título \"Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor\", que já conta o fim; a pergunta QUANTO APERTA? repetiria. Pasta `Mano Preguica/_refs capa - Shorts 26-10/Mao do Hulk/`. Flow (Nano Banana Pro, conta Mano Preguiça), geração nova com 1 anexo: IMAGEM 1 = `CAPA HULK - Flow 1.png`. Salvar como `CAPA HULK - Flow 3.png` e `Flow 4.png`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "12/11 ~09h30",
    "titulo": "**pedido (Anzol): GERAR 4 CAPAS no Flow (3 do principal e o Batman do canal 2), NESTA ORDEM: (1) bateria na zona de lava (sai seg 16/11, a Lente espera pra fechar a ordem), (2) base inundada, (3) extintor no Deathrun (sai sáb 21/11). Quem faz: Periscópio.** Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT (recusa criatura de jogo, 2.9). 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar sem tratar na pasta de cada uma e me avisar (`maestri ask \"Anzol\"`) a cada capa pronta. Fechar o navegador no fim e conferir processo órfão.",
@@ -4360,5 +4368,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-12T00:54-03:00"
+ "gerado_em": "2026-11-12T00:55-03:00"
 }
