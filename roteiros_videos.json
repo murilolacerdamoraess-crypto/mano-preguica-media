@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T04:19:23.466206Z",
+ "gerado_em": "2026-11-12T04:28:27.466979Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -322,6 +322,20 @@
    "motor": null,
    "versao": "9",
    "fonte_yt": "qOAenK39gfs"
+  },
+  {
+   "arquivo": "mp2-teia-homem-aranha-gruda.md",
+   "name": "SHORT MP2 - Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele",
+   "titulo_roteiro": "SHORT MP2: a teia do Homem-Aranha que gruda",
+   "description": "Short de jornada do canal 2 (pauta P129 do Sonar, 10/11; liberada em 12/11). O JLaservideo, o mesmo da luva de lagartixa, tenta há mais de 13 anos uma teia que gruda de verdade. Acha uma gosma que gruda na hora, gruda nu",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2 (jornada)",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": "3ujL_wvlTBM"
   },
   {
    "arquivo": "nintendo-iwata-golf-switch.md",
