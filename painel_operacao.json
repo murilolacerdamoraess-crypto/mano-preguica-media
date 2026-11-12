@@ -989,7 +989,7 @@
    "por_que_agora": "",
    "formato": "Short de 2 a 3 min",
    "concorrencia": "LIVRE (em português só existe outro Mewtwo impresso, de uma loja de impressoras, com 2,9 mil views; ninguém contou este)",
-   "status": "pego por Tarrafa (12/11, liberada pelo Sonar com a fila em 3 de 8; antes: na fila do roteiro, posição 1 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
+   "status": "pego por Tarrafa, roteiro no Gravar desde 12/11 (mp2-mewtwo-tamanho-real.md v1, APROVADO PELO CRIVO 6d855f9e, pendência p213; liberada pelo Sonar com a fila em 3 de 8; antes: na fila do roteiro, posição 1 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
    "frente": "2",
    "pendente": ""
   },
@@ -1001,7 +1001,7 @@
    "por_que_agora": "",
    "formato": "Short de 2 a 3 min",
    "concorrencia": "LIVRE pra esta história (em português há muito \"como fazer\" e teste de lançador de brinquedo, e nenhum conta a teia que gruda e segura uma pessoa)",
-   "status": "pego por Tarrafa (12/11, depois do Mewtwo, ordem do Sonar; antes: na fila do roteiro, posição 2 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
+   "status": "pego por Tarrafa, roteiro no Gravar desde 12/11 (mp2-teia-homem-aranha-gruda.md v1, APROVADO PELO CRIVO 1b0eb884, pendência p215; depois do Mewtwo, ordem do Sonar; antes: na fila do roteiro, posição 2 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
    "frente": "2",
    "pendente": ""
   },
@@ -4422,5 +4422,5 @@
    "chave": "roteiro:mp2-teia-homem-aranha-gruda.md@v1"
   }
  ],
- "gerado_em": "2026-11-12T01:55-03:00"
+ "gerado_em": "2026-11-12T01:56-03:00"
 }
