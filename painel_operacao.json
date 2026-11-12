@@ -4069,32 +4069,6 @@
    "fechada_em": "2026-11-12T00:33-03:00"
   },
   {
-   "id": "p193",
-   "aberta_em": "2026-11-10T10:24-03:00",
-   "agente": "Anzol",
-   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "o_que": "Ver as 3 capas do longo do Megabonk aqui mesmo e tocar em testar as 3 juntas (o YouTube mostra cada uma pra parte do público e fica com a melhor). Se alguma não agradar, peça alteração só nela. O título já é o que você escolheu: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa.",
-   "onde": "Capas",
-   "status": "feita",
-   "chave": "capa:longo-megabonk-todos-os-mapas",
-   "fechada_em": "2026-11-10T16:42-03:00"
-  },
-  {
-   "id": "p194",
-   "aberta_em": "2026-11-10T10:40-03:00",
-   "agente": "Anzol",
-   "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "o_que": "Escolher o título do Short do traje do Homem-Aranha com os braços do Doutor Octopus (canal 2, sai sáb 14/11 às 18h). O primeiro é o que eu escolheria: é o título com que você aprovou a pauta e o roteiro, e o papelão no fim faz a pessoa duvidar que funciona. A capa (ele com os 4 braços abertos e a palavra FUNCIONA?) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-    "Esse cara fez na vida real o traje do Homem-Aranha com os braços do Doutor Octopus",
-    "Esse cara tá tentando controlar os 4 braços do Doutor Octopus num traje do Homem-Aranha"
-   ],
-   "fechada_em": "2026-11-10T16:42-03:00"
-  },
-  {
    "id": "p195",
    "aberta_em": "2026-11-10T16:43-03:00",
    "agente": "Anzol",
@@ -4387,5 +4361,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-12T11:50-03:00"
+ "gerado_em": "2026-11-12T19:59-03:00"
 }
