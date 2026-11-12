@@ -2814,9 +2814,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (canal 2)",
-   "etapa": "roteiro (em conferência (Crivo), versão 1; o mesmo cara da luva de lagartixa acha uma gosma que gruda na hora, gruda numa van, troca a rede que virava bola por um dardo que abre como guarda-chuva, arranca a parede, faz um pegador pra mão e se balança no teto de uma mansão; uns 2:30)",
+   "etapa": "narração, texto no Gravar com 16 frases (versão 1, aprovada pelo Crivo em 12/11; o mesmo cara da luva de lagartixa acha uma gosma que gruda na hora, gruda numa van, troca a rede que virava bola por um dardo que abre como guarda-chuva, arranca a parede, faz um pegador pra mão e se balança no teto de uma mansão; uns 2:30, com os quadros do vídeo dele no topo e em cada frase)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4410,7 +4410,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:short_luigi_mario_64"
+  },
+  {
+   "id": "p215",
+   "aberta_em": "2026-11-12T01:55-03:00",
+   "agente": "Tarrafa",
+   "video": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele",
+   "o_que": "gravar a voz das 16 frases (canal 2, uns 2:30; a data de saída sai com o Leme)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:mp2-teia-homem-aranha-gruda.md@v1"
   }
  ],
- "gerado_em": "2026-11-12T01:46-03:00"
+ "gerado_em": "2026-11-12T01:55-03:00"
 }
