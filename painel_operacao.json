@@ -736,6 +736,14 @@
    "confianca": "fraca pra média (forte só no \"0 de 12\" e no \"0 de 17\" de notícia e ranking fora de Subnautica).",
    "status": "aplicada 2026-11-10 (aprovada pelo Murilo no chat com o Maestro: \"pode aprovar a R92, muito bom, precisamos fazer sempre isso e ir validando nossas hipóteses\"; decisão gravada no painel na mesma chave). Onde entrou: role do Sonar (`roles/descoberta.md`: linha nova \"Receita do canal na mesma linha da Previsão\", os pesos da Previsão e a ordem da fila), role dos roteiristas (`roles/shorts.md`: linha nova \"Receita do canal antes de escrever\" e os pesos da Previsão), tabela de pesos da [[anatomia-dos-hits]] (universo por canal com prova; \"uma pessoa tentando\" com 2,5; título em dois tempos fora da nota) e histórico da [[receita-do-canal]]. Correção: onde esta proposta diz \"fila de 5\" e \"fila com 5\", o limite que vale é 8 (decisão dele de 10/11, \"pode fechar em 8\"); o texto de cima fica como ele leu. O 2,5 da pessoa tentando é conta de transição (1,5 do título + 1 que ela já tinha), não peso medido. Conferir em: os primeiros 10 Shorts marcados antes de sair e com 7 dias, contra a base de 15 de 38 (39%); se não forem melhor, a receita volta pra revisão.",
    "simples": "Dos 38 Shorts dos 2 canais de julho pra cá, nenhum dos 12 de jogo ou personagem que pouca gente conhece passou de 10 mil views, e as 4 maiores jornadas (10 mil metros e mecânica escondida no principal, Onix e luva do Homem-Aranha no canal 2) tinham as mesmas 3 coisas: um jogo ou personagem que o público daquele canal já segue, uma pessoa tentando, e uma coisa que parece impossível. O que muda: a previsão de 0 a 10 que o Sonar já dá em cada pauta passa a seguir essas 3 coisas (hoje \"uma pessoa tentando\" pesa pouco nela) e as pautas com mais delas vão na frente, sem barrar nenhuma e sem mexer no que você já decidiu (criatura conhecida do Subnautica 1 fora; no canal 2, se Pokémon e Nintendo já dominam a fila, a próxima vem de outra franquia; fila com 5); nada muda no seu tempo, e toda segunda eu mostro se os vídeos escolhidos assim foram melhor que os outros."
+  },
+  {
+   "id": "R93",
+   "titulo": "No Obra Absurda, o erre forte da voz de IA passa a ser medido por uma régua do som calibrada com a voz do Murilo, e não pelo ouvinte do Gemini.",
+   "onde": "",
+   "confianca": "forte no problema (2 rodadas, o controle falhou nas duas); a (A) ainda não foi medida.",
+   "status": "em calibração com o Crivo (não sobe pro Decidir antes da A separar 100% dos controles; a B precisa sair do jeito que está por causa da decisão de 10/11)",
+   "simples": "(a escrever quando a A passar no teste; antes disso não sobe)"
   }
  ],
  "equipe": [
@@ -4430,7 +4438,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw"
+  },
+  {
+   "id": "p217",
+   "aberta_em": "2026-11-12T05:40-03:00",
+   "agente": "Maré",
+   "video": "Obra Absurda vídeo 6: Cristo Redentor",
+   "o_que": "assistir o vídeo 6 do Obra Absurda, os 6 milhões de triângulos de pedra do Cristo Redentor (96 s, recorte de papel). A imagem já passou no Crivo. Ouvir o r de 'recados' em 1:04,9 e em 1:15,5 e o de 'raios' em 1:21,4: a máquina não conseguiu medir esse r (errou até a sua voz de controle), então quem decide se soou natural é você. Se aprovar, o Periscópio agenda direto pra sexta 13/11 às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-12T02:18-03:00"
+ "gerado_em": "2026-11-12T05:41-03:00"
 }
