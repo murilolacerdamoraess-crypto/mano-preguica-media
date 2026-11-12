@@ -2894,6 +2894,14 @@
  ],
  "navegador": [
   {
+   "tipo": "12/11 ~01h",
+   "titulo": "**pedido (Anzol): GERAR 3 CAPAS dos Shorts do canal 2 gravados na noite de 11 pra 12/11 (sabre de luz, mão do Hulk, luva do One Punch Man), no Flow. Quem faz: Periscópio. Prazo: qui 12/11 até o meio-dia, antes da edição (cada capa é o quadro 0).** Refs em `Mano Preguica/_refs capa - Shorts 26-10/` (pastas `Sabre de luz`, `Mao do Hulk`, `Luva One Punch Man`). Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar como `CAPA SABRE - Flow 1.png`/`Flow 2.png`, `CAPA HULK - Flow 1.png`/`Flow 2.png`, `CAPA LUVA - Flow 1.png`/`Flow 2.png`, cada uma na sua pasta, sem tratar, e me avisar (`maestri ask \"Anzol\"`). Uma capa por vez, fechando o navegador no fim e conferindo processo órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "11/11 ~12h",
    "titulo": "**pedido (Tarrafa, a pedido da Lente): BAIXAR 5 IMAGENS OFICIAIS DA WIKI pro Short do item proibido na cápsula do tempo (principal, sai sex 13/11 18h). Quem faz: Periscópio. Prazo: qui 12/11 de manhã (sem elas, os cartões das frases 3 e 7 esperam na edição).** O CDN da Fandom dá 403 (desafio) no curl desde 03/11; as URLs já saíram pela API, falta só abrir cada uma no navegador e salvar o arquivo.",
    "etapa": "",
@@ -4104,12 +4112,13 @@
    "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "o_que": "Você escolheu a capa do fantasma roxo gigante por cima da torre pro longo do Megabonk, e ela está certa pro título que você escolheu. Falta só escolher como ela sobe. A sua regra de outubro é todo longo subir com 3 capas no teste do YouTube, que mostra cada uma pra uma parte do público e fica com a que segura mais gente. As outras duas são a do Charmander cercado e do Marowak com 1ª VEZ e 2ª VEZ, e a do seu rosto de susto com a torre. Se você não gostou delas, sobe só a sua.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "capa-teste:longo-megabonk-todos-os-mapas",
    "opcoes": [
     "Sobe só a capa que eu escolhi",
     "Testa as 3, com a que eu escolhi como a primeira"
-   ]
+   ],
+   "fechada_em": "2026-11-12T00:44-03:00"
   },
   {
    "id": "p196",
@@ -4151,8 +4160,9 @@
    "video": "Longo: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa",
    "o_que": "assistir o longo inteiro (15:11) e dizer se segue ou se deleta",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG"
+   "status": "feita",
+   "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG",
+   "fechada_em": "2026-11-12T00:44-03:00"
   },
   {
    "id": "p200",
@@ -4170,12 +4180,13 @@
    "video": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
    "o_que": "Escolher o título do Short do item proibido na cápsula do tempo (principal, sai sex 13/11 às 18h). O primeiro é o que eu escolheria: é o seu ângulo de 07/11 e o título com que você gravou. A capa (o scanner com uma luz verde escondida dentro, a cápsula na areia e a palavra CONTRABANDO) está sendo feita e serve pros 3.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
     "Ela abriu 500 cápsulas do tempo no Subnautica e descobriu gente burlando um item proibido",
     "Os jogadores do Subnautica escondem um item proibido pra mandar na cápsula do tempo"
-   ]
+   ],
+   "fechada_em": "2026-11-12T00:44-03:00"
   },
   {
    "id": "p202",
@@ -4198,5 +4209,5 @@
    "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw"
   }
  ],
- "gerado_em": "2026-11-12T00:40-03:00"
+ "gerado_em": "2026-11-12T00:44-03:00"
 }
