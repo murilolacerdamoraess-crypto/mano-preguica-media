@@ -2584,7 +2584,7 @@
    "titulo": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
    "etapa": "roteiro aprovado (voz gravada por você em 11/11, 14 frases; o texto ficou como você falou; sai ter 17/11 às 18h no canal 2; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2895,7 +2895,7 @@
  "navegador": [
   {
    "tipo": "12/11 ~09h30",
-   "titulo": "**pedido (Anzol): GERAR 3 CAPAS do principal no Flow, NESTA ORDEM: (1) bateria na zona de lava (sai seg 16/11, a Lente espera pra fechar a ordem), (2) base inundada, (3) extintor no Deathrun (sai sáb 21/11). Quem faz: Periscópio.** Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT (recusa criatura de jogo, 2.9). 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar sem tratar na pasta de cada uma e me avisar (`maestri ask \"Anzol\"`) a cada capa pronta. Fechar o navegador no fim e conferir processo órfão.",
+   "titulo": "**pedido (Anzol): GERAR 4 CAPAS no Flow (3 do principal e o Batman do canal 2), NESTA ORDEM: (1) bateria na zona de lava (sai seg 16/11, a Lente espera pra fechar a ordem), (2) base inundada, (3) extintor no Deathrun (sai sáb 21/11). Quem faz: Periscópio.** Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), sem o ChatGPT (recusa criatura de jogo, 2.9). 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar sem tratar na pasta de cada uma e me avisar (`maestri ask \"Anzol\"`) a cada capa pronta. Fechar o navegador no fim e conferir processo órfão.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4241,8 +4241,9 @@
    "video": "Short: Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão (canal 2)",
    "o_que": "assistir o Short do Octopus de papelão (2:10, canal 2) e dizer se aprova ou o que muda; sai sáb 14/11 às 18h",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw"
+   "status": "feita",
+   "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw",
+   "fechada_em": "2026-11-12T00:54-03:00"
   },
   {
    "id": "p204",
@@ -4251,12 +4252,13 @@
    "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
    "o_que": "Escolher o título do Short dos sabres de luz (canal 2). O primeiro é o que eu escolheria: é o gancho que você gravou, o erro de madrugada que resolveu o sabre. A capa (os dois sabres se cruzando no duelo e a palavra AGUENTA?) está sendo feita e serve pros 3.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Esse cara tá fazendo um sabre de luz de verdade, e um erro de madrugada salvou o projeto",
     "Esse cara fez dois sabres de luz de verdade pra um duelo, e um quebrou 1 hora antes",
     "Será que dá pra fazer um sabre de luz do Star Wars de verdade, igual dos filmes?"
-   ]
+   ],
+   "fechada_em": "2026-11-12T00:54-03:00"
   },
   {
    "id": "p205",
@@ -4265,12 +4267,13 @@
    "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
    "o_que": "Escolher o título do Short da mão do Hulk (canal 2). O primeiro é o que eu escolheria: a garra de bombeiro é o que só esse vídeo tem, e ele não conta o resultado do medidor, que é o fim. A capa (a mão verde apertando o medidor e QUANTO APERTA?) está sendo feita; se você escolher o segundo, as palavras viram DE BOMBEIRO.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Esse cara fez a mão do Hulk de verdade com a garra que os bombeiros usam pra abrir carro",
     "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
     "Esse cara queria ter a força do Hulk e prendeu uma garra de bombeiro no braço"
-   ]
+   ],
+   "fechada_em": "2026-11-12T00:54-03:00"
   },
   {
    "id": "p206",
@@ -4340,6 +4343,20 @@
     "Se você jogou Subnautica, a sua bateria sumia na lava, e a explicação é biológica",
     "No Subnautica, a sua bateria não acabava na lava, alguém tava comendo ela",
     "Por que a bateria do submarino sumia tão rápido na lava do Subnautica?"
+   ]
+  },
+  {
+   "id": "p211",
+   "aberta_em": "2026-11-12T00:54-03:00",
+   "agente": "Anzol",
+   "video": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
+   "o_que": "Escolher o título do Short do lançador de gancho do Batman (canal 2, sai ter 17/11 às 18h). O primeiro é o que eu escolheria: é o seu gancho gravado, o risco de explodir na mão dela, e não conta se funcionou. A capa (o lançador do filme em cima, o dela embaixo e A GÁS) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Ela fez o lançador de gancho do Batman de verdade, e não sabia se ia explodir na mão dela",
+    "Ela tentou fazer o lançador de gancho do Batman, e foi a coisa mais difícil que já fez",
+    "Ela achou que ia fazer o lançador de gancho do Batman em 2 dias"
    ]
   }
  ],
