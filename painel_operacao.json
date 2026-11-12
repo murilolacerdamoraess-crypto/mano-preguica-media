@@ -2701,6 +2701,14 @@
   },
   {
    "tipo": "Short",
+   "titulo": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
+   "etapa": "narração, texto no Gravar com 9 frases (uns 1:40; principal; o boato da estátua do 2401, a carta da Nintendo negando, e o Luigi achado nos arquivos que vazaram em 2020)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
    "titulo": "Esse cara tá forjando o machado do Kratos, só que ele precisa funcionar",
    "etapa": "agendado no canal principal pra sex 30/10 às 18h (você programou em 29/10 ~22h55; conferido pela API; studio.youtube.com/video/PBw5xlifJpM/edit; relacionado o longo do Blue Lock, 5 produtos, voz real)",
    "responsavel": "Periscópio",
@@ -4384,7 +4392,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:mp2-mewtwo-tamanho-real.md@v1"
+  },
+  {
+   "id": "p214",
+   "aberta_em": "2026-11-12T01:19-03:00",
+   "agente": "Arpão",
+   "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
+   "o_que": "gravar a voz das 9 frases (principal, uns 1:40)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "narracao:short_luigi_mario_64"
   }
  ],
- "gerado_em": "2026-11-12T01:18-03:00"
+ "gerado_em": "2026-11-12T01:19-03:00"
 }
