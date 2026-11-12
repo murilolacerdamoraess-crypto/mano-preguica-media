@@ -2558,9 +2558,9 @@
   {
    "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "etapa": "gravação (roteiro aprovado em 07/11 22:34, no Gravar com 11 trechos; a ordem de edição já está pronta, com os trechos de gameplay escolhidos e a tabela da wiki em gráfico)",
-   "responsavel": "Lente",
-   "falta_murilo": "gravar a voz dos 11 trechos",
+   "etapa": "edição (você gravou as 12 frases em 11 e 12/11; a ordem de edição foi acertada pela sua fala em 12/11; na fila da Tesoura depois do LEGO, da cápsula e do Wakemaker; sai seg 16/11 às 18h no principal; título e capa com o Anzol)",
+   "responsavel": "Tesoura",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2758,9 +2758,9 @@
   {
    "tipo": "Short",
    "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "etapa": "edição (cenas 3D refeitas em 08/11 à tarde, versão 2: peixes gigantes, tentáculo e boca do Ghost melhores; 44 planos sem voz; os tempos se ajustam quando a voz chegar)",
+   "etapa": "edição (você gravou as 17 frases em 11 e 12/11; as cenas 3D estão prontas desde 08/11 e agora a Lente acerta o tempo de cada plano pela sua voz e renderiza, quando a Tesoura não estiver renderizando; sai ter 17/11 às 18h no principal)",
    "responsavel": "Lente",
-   "falta_murilo": "gravar a voz das 17 frases",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4279,5 +4279,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-12T00:48-03:00"
+ "gerado_em": "2026-11-12T00:49-03:00"
 }
