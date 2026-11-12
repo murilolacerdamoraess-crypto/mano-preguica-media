@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T03:48:24.504244Z",
+ "gerado_em": "2026-11-12T03:52:31.230288Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -706,7 +706,7 @@
    "name": "SHORT - Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez (canal 2)",
    "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
    "description": "Short do canal 2 (MP2, decisão do Murilo em 10/11/2026; antes era do canal principal; pauta P42 do Sonar). A Hacksmith está construindo a armadura do Fallout de verdade, a pedido da Bethesda, e na parte 9 da série coloca",
-   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 10: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 12/11 (versão 10: a fala é a transcrição dos takes, R71); V15 DEVOLVIDO pelo Crivo em 12/11 (99711e22) por 1 frase: a 3.3 (p07) \"não consegue ver nada\" é fato errado (o visor tem visão noturna, térmica e zoom; a fonte só diz que ele não vê os botões nas mãos). Na edição, tirar de 7,76 a 8,46 s do p07_cru.wav (\"nada, nem\"), fica \"não consegue ver as próprias mãos\"; o Crivo ouve a emenda e, se soar emendada, o Murilo regrava só a p07",
    "gate": "versão 7: portão de fontes e de fluidez APROVADOS 2026-10-29; conferência dos erros repetidos e teste do leigo no fim do arquivo",
    "video_id": null,
    "publicado_em": null,
