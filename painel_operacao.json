@@ -4305,6 +4305,20 @@
     "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
     "Esse cara não podia andar no Subnautica, e um monstro gigante veio atrás dele"
    ]
+  },
+  {
+   "id": "p209",
+   "aberta_em": "2026-11-12T00:53-03:00",
+   "agente": "Anzol",
+   "video": "Em Subnautica, cada monstro tem o tamanho do seu medo",
+   "o_que": "Escolher o título do Short do medo e do tamanho dos monstros (principal). O primeiro é o que eu escolheria: é o nome com que você aprovou o roteiro, a regra inteira numa leitura. Os 3 dizem a regra como se fosse do jogo; o vídeo avisa no primeiro segundo que é invenção, mas se você achar que engana quem joga, a troca é 'E se em Subnautica cada monstro tivesse o tamanho do seu medo?'. A capa sai da cena do próprio vídeo (o peixinho gigante na frente da preguiça e TEM MEDO?).",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Em Subnautica, cada monstro tem o tamanho do seu medo",
+    "Em Subnautica, o seu medo decide o tamanho dos monstros",
+    "Quanto mais medo você sente no Subnautica, maior o monstro fica"
+   ]
   }
  ],
  "gerado_em": "2026-11-12T00:53-03:00"
