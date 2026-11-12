@@ -2350,9 +2350,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-   "etapa": "gravação (texto no Gravar desde 09/11, 16 frases, uns 2:39; sai qui 19/11 às 18h)",
+   "etapa": "roteiro aprovado (voz gravada por você em 11/11, 16 frases; o texto ficou como você falou; sai qui 19/11 às 18h; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2488,7 +2488,7 @@
    "titulo": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
    "etapa": "edição (você gravou as 14 frases em 11 e 12/11, uns 2:55 de takes; o roteiro virou a sua fala; está na fila de edição depois dos vídeos do principal; versão 9)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2496,7 +2496,7 @@
    "titulo": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
    "etapa": "edição (você gravou as 12 frases em 11 e 12/11, uns 2:23 de takes; o roteiro virou a sua fala; está na fila de edição depois dos vídeos do principal; versão 9; a data nova sai com o Leme)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2542,9 +2542,9 @@
   {
    "tipo": "Short",
    "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "etapa": "edição (você gravou a voz hoje, 11/11, as 10 frases, uns 2 min; a ordem de edição ficou pronta em 11/11; a capa ficou pronta; 11/11 à noite: o vídeo está montado (1 min 41) e passou na conferência automática, faltam só os 2 cartões dos itens proibidos, que esperam as 5 imagens oficiais (chegam qui 12/11 de manhã); a previsão é chegar no Assistir qui 12/11 à noite; o \"mais de 500\" ficou, porque na sua fala não tem pausa pra cortar; sai sex 13/11 às 18h no principal, na vaga do Fallout)",
+   "etapa": "edição (você gravou a voz hoje, 11/11, as 10 frases, uns 2 min; a ordem de edição ficou pronta em 11/11; a capa ficou pronta; 11/11 à noite: o vídeo está montado (1 min 41) e passou na conferência automática, faltam só os 2 cartões dos itens proibidos, que esperam as 5 imagens oficiais (chegam qui 12/11 de manhã); a previsão é chegar no Assistir qui 12/11 à noite; o \"mais de 500\" ficou, porque na sua fala não tem pausa pra cortar; sai sex 13/11 às 18h no principal, na vaga do Fallout; título escolhido por você em 12/11, o primeiro das 3 opções)",
    "responsavel": "Tesoura",
-   "falta_murilo": "escolher o título (3 opções no Decidir)",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2552,7 +2552,7 @@
    "titulo": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
    "etapa": "edição (canal 2; você gravou as 15 frases em 11 e 12/11, uns 2:38 de takes; o roteiro virou a sua fala; está na fila de edição depois dos vídeos do principal; versão 3; sai dom 22/11 às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "escolher o título",
    "prazo": ""
   },
   {
@@ -2574,17 +2574,17 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "etapa": "gravação (texto no Gravar desde 09/11, 16 frases, uns 2:39; sai sáb 21/11 às 18h)",
+   "etapa": "roteiro aprovado (voz gravada por você em 12/11, 16 frases; o texto ficou como você falou; sai sáb 21/11 às 18h; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
-   "etapa": "gravação (texto no Gravar desde 09/11, 14 frases, uns 2:38; sai ter 17/11 às 18h no canal 2, no lugar da cozinha da Arrietty que você mandou tirar)",
+   "etapa": "roteiro aprovado (voz gravada por você em 11/11, 14 frases; o texto ficou como você falou; sai ter 17/11 às 18h no canal 2; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2710,9 +2710,9 @@
   {
    "tipo": "Short",
    "titulo": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez (canal 2)",
-   "etapa": "narração, texto no Gravar com 14 trechos (versão 9 de 06/11, cortada pra uns 2:39; versão 7 aprovada em 30/10; você pode corrigir na hora com Editar e Pular)",
+   "etapa": "roteiro aprovado (voz gravada por você em 12/11, 14 frases; o texto ficou como você falou; canal 2; esperando a ordem de edição)",
    "responsavel": "Arpão",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -2895,6 +2895,14 @@
  "navegador": [
   {
    "tipo": "12/11 ~01h",
+   "titulo": "**PACOTE DO SHORT DO ITEM PROIBIDO NA CÁPSULA DO TEMPO (Anzol, pro Periscópio; principal; sai sex 13/11 18h; subir quando a Tesoura deixar o vídeo em 00 - PRONTOS).** Título final (Murilo, 12/11, p201): `Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles` (83 letras; no Studio, com ` #shorts` no fim se a regra de Short do canal pedir). Capa: o quadro 0 do vídeo é a `CAPA CAPSULA - Flow 2.png` (`Mano Preguica/_refs capa - Shorts 26-10/Capsula item proibido/`); se o Studio deixar escolher a miniatura, o quadro 0. Descrição (copiar inteira, com os emojis), 12 tags e Studio: em `roteiros/short-capsulas-bateria-escondida-scanner.md`, seção \"Embalagem: título, capa, descrição e tags\" (a descrição não muda com o título escolhido). Categoria Jogos; Título do jogo: Subnautica. Sem crédito na descrição (a Alidove fica na tela). Vídeo relacionado: um Short de cápsula do tempo do canal (os 10 mil metros). Hora de saída 18h, fora da janela de 22h30 a 11h. Ao terminar, avise o Anzol e o Maestro (`maestri ask \"Claude Code\"`).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "12/11 ~01h",
    "titulo": "**pedido (Anzol): GERAR 3 CAPAS dos Shorts do canal 2 gravados na noite de 11 pra 12/11 (sabre de luz, mão do Hulk, luva do One Punch Man), no Flow. Quem faz: Periscópio. Prazo: qui 12/11 até o meio-dia, antes da edição (cada capa é o quadro 0).** Refs em `Mano Preguica/_refs capa - Shorts 26-10/` (pastas `Sabre de luz`, `Mao do Hulk`, `Luva One Punch Man`). Direto no Flow (Nano Banana Pro, conta Mano Preguiça conferida no avatar, 9:16), 1 geração x2 por capa, anexos na ordem (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2). Salvar como `CAPA SABRE - Flow 1.png`/`Flow 2.png`, `CAPA HULK - Flow 1.png`/`Flow 2.png`, `CAPA LUVA - Flow 1.png`/`Flow 2.png`, cada uma na sua pasta, sem tratar, e me avisar (`maestri ask \"Anzol\"`). Uma capa por vez, fechando o navegador no fim e conferindo processo órfão.",
    "etapa": "",
    "responsavel": "",
@@ -2935,7 +2943,7 @@
   },
   {
    "tipo": "10/11 16h45",
-   "titulo": "**PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Falta 1 coisa antes de subir:** os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar. **Capa decidida (Anzol, 10/11 noite, pelo Maestro):** o Murilo escolheu a A direto e não mandou testar as 3, então sobe SÓ a A como capa normal, SEM Testar e comparar (exceção dele à regra de 10/10 das 3 capas; não trava o agendamento por isso).",
+   "titulo": "**CONFIRMADO PELO MURILO EM 12/11 (p195, pelo Maestro): \"Sobe só a capa que eu escolhi\" = a A, sem o Testar e comparar.** **PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Falta 1 coisa antes de subir:** os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar. **Capa decidida (Anzol, 10/11 noite, pelo Maestro):** o Murilo escolheu a A direto e não mandou testar as 3, então sobe SÓ a A como capa normal, SEM Testar e comparar (exceção dele à regra de 10/10 das 3 capas; não trava o agendamento por isso).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3830,8 +3838,10 @@
    "video": "Esse streamer quase morreu enfrentando o segundo maior monstro do Subnautica",
    "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; Cellbit e o Ghost, canal 2, teste dos cortes de streamer)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:corte_c2_ghost"
+   "status": "cancelada",
+   "chave": "narracao:corte_c2_ghost",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
    "id": "p150",
@@ -3840,8 +3850,10 @@
    "video": "Esse streamer quase largou o jogo quando conheceu o maior monstro do Subnautica",
    "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; Cellbit e o Sea Dragon, canal 2, teste dos cortes de streamer)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:corte_c2_sea_dragon"
+   "status": "cancelada",
+   "chave": "narracao:corte_c2_sea_dragon",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
    "id": "p151",
@@ -3850,8 +3862,10 @@
    "video": "Esse streamer entrou na boca de um leviatã pra pegar minério no Subnautica 2",
    "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; alanzoka no Subnautica 2, canal 2, teste dos cortes de streamer)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:corte_c2_leviata_sn2"
+   "status": "cancelada",
+   "chave": "narracao:corte_c2_leviata_sn2",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
    "id": "p154",
@@ -3892,9 +3906,11 @@
    "video": "Sobreviva em 4546B, Dia 2 se o voto der verde",
    "o_que": "gravar a voz das 7 frases só se o voto do Dia 1 der verde",
    "onde": "Gravar",
-   "status": "aberta",
+   "status": "cancelada",
    "chave": "narracao:serie_4546b_a1_dia2_verde",
-   "grupo": "serie-4546b-a1-dia2"
+   "grupo": "serie-4546b-a1-dia2",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Dia 2 só existe depois do voto do Dia 1, que nem foi gravado; volta a abrir quando o Dia 1 sair"
   },
   {
    "id": "p159",
@@ -3903,9 +3919,11 @@
    "video": "Sobreviva em 4546B, Dia 2 se o voto der vermelho",
    "o_que": "gravar a voz das 8 frases só se o voto do Dia 1 der vermelho",
    "onde": "Gravar",
-   "status": "aberta",
+   "status": "cancelada",
    "chave": "narracao:serie_4546b_a1_dia2_vermelho",
-   "grupo": "serie-4546b-a1-dia2"
+   "grupo": "serie-4546b-a1-dia2",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Dia 2 só existe depois do voto do Dia 1, que nem foi gravado; volta a abrir quando o Dia 1 sair"
   },
   {
    "id": "p166",
@@ -3948,8 +3966,10 @@
    "video": "Esse streamer quase foi resgatado no Subnautica",
    "o_que": "gravar as 2 frases de contexto do corte (10 s; Cellbit e a nave de resgate derrubada pelo canhão, canal 2)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:corte_c2_sunbeam"
+   "status": "cancelada",
+   "chave": "narracao:corte_c2_sunbeam",
+   "fechada_em": "2026-11-12T00:47-03:00",
+   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
    "id": "p181",
@@ -4207,7 +4227,49 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw"
+  },
+  {
+   "id": "p204",
+   "aberta_em": "2026-11-12T00:46-03:00",
+   "agente": "Anzol",
+   "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
+   "o_que": "Escolher o título do Short dos sabres de luz (canal 2). O primeiro é o que eu escolheria: é o gancho que você gravou, o erro de madrugada que resolveu o sabre. A capa (os dois sabres se cruzando no duelo e a palavra AGUENTA?) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Esse cara tá fazendo um sabre de luz de verdade, e um erro de madrugada salvou o projeto",
+    "Esse cara fez dois sabres de luz de verdade pra um duelo, e um quebrou 1 hora antes",
+    "Será que dá pra fazer um sabre de luz do Star Wars de verdade, igual dos filmes?"
+   ]
+  },
+  {
+   "id": "p205",
+   "aberta_em": "2026-11-12T00:46-03:00",
+   "agente": "Anzol",
+   "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
+   "o_que": "Escolher o título do Short da mão do Hulk (canal 2). O primeiro é o que eu escolheria: a garra de bombeiro é o que só esse vídeo tem, e ele não conta o resultado do medidor, que é o fim. A capa (a mão verde apertando o medidor e QUANTO APERTA?) está sendo feita; se você escolher o segundo, as palavras viram DE BOMBEIRO.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Esse cara fez a mão do Hulk de verdade com a garra que os bombeiros usam pra abrir carro",
+    "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
+    "Esse cara queria ter a força do Hulk e prendeu uma garra de bombeiro no braço"
+   ]
+  },
+  {
+   "id": "p206",
+   "aberta_em": "2026-11-12T00:46-03:00",
+   "agente": "Anzol",
+   "video": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
+   "o_que": "Escolher o título do Short da luva do One Punch Man (canal 2, sai dom 22/11). O primeiro é o que eu escolheria: é a promessa que você gravou, e só o fim diz o que a luva não explode. A capa (a luva explodindo uma melancia e 1 SOCO) está sendo feita e serve pros 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Esse cara fez a luva do One Punch Man, e testou o que ela não consegue explodir",
+    "Esse cara fez a luva do One Punch Man de verdade, e o soco virou um tiro de ar",
+    "Esse cara fez a luva do One Punch Man e saiu socando tudo até uma coisa não explodir"
+   ]
   }
  ],
- "gerado_em": "2026-11-12T00:44-03:00"
+ "gerado_em": "2026-11-12T00:48-03:00"
 }
