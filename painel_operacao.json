@@ -4215,8 +4215,10 @@
    "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "o_que": "assistir o Short do Reaper de LEGO (1:57) e dizer se aprova ou o que muda; se aprovar até qui 12/11 de tarde, sai qui 12/11 às 18h",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1CIWP8yUaRX-jOqmoNCx3pTHRLIt4woUA"
+   "status": "cancelada",
+   "chave": "video:1CIWP8yUaRX-jOqmoNCx3pTHRLIt4woUA",
+   "fechada_em": "2026-11-12T01:14-03:00",
+   "nota": "v1 substituída pela v2 com a voz regravada em 12/11 (Tesoura, 12/11)"
   },
   {
    "id": "p203",
@@ -4354,7 +4356,17 @@
    ],
    "fechada_em": "2026-11-12T00:57-03:00",
    "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
+  },
+  {
+   "id": "p212",
+   "aberta_em": "2026-11-12T01:14-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
+   "o_que": "assistir a v2 do Short do Reaper de LEGO (1:58), com a sua voz regravada, e dizer se aprova ou o que muda; aprovando até o meio-dia, sai hoje às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum"
   }
  ],
- "gerado_em": "2026-11-12T01:08-03:00"
+ "gerado_em": "2026-11-12T01:14-03:00"
 }
