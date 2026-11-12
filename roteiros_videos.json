@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T03:44:35.588912Z",
+ "gerado_em": "2026-11-12T03:48:02.900629Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -34,13 +34,13 @@
    "name": "AVULSO · Em Subnautica, cada monstro tem o tamanho do seu medo",
    "titulo_roteiro": "AVULSO · Em Subnautica, cada monstro tem o tamanho do seu medo",
    "description": "Short avulso de teste no molde do Custki (\"Nesta cidade, [regra]\"), premissa A do estudo do Sonar de 07/11/2026 (seção 15), escolhida pelo Murilo (\"a do medo e do tamanho dos bichos\"). Ficção em 2ª pessoa no mundo do Sub",
-   "status": "pronto-pra-gravar (aprovado pelo Murilo em 07/11 14h, com a voz dele; Crivo 66a23a7d)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 2: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "short avulso de teste, molde Custki (regra no segundo 0), canal principal",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
@@ -706,13 +706,13 @@
    "name": "SHORT - Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez (canal 2)",
    "titulo_roteiro": "SHORT: a armadura do Fallout de verdade",
    "description": "Short do canal 2 (MP2, decisão do Murilo em 10/11/2026; antes era do canal principal; pauta P42 do Sonar). A Hacksmith está construindo a armadura do Fallout de verdade, a pedido da Bethesda, e na parte 9 da série coloca",
-   "status": "roteiro aprovado (Murilo, 2026-10-30 01:14, versão 7; versão 8 só com a R37, sem mudar fato, APROVADO PELO CRIVO em 2026-10-30; texto no Gravar)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 10: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "versão 7: portão de fontes e de fluidez APROVADOS 2026-10-29; conferência dos erros repetidos e teste do leigo no fim do arquivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2 (voz real do Murilo, narrado em cima da série da Hacksmith)",
    "motor": null,
-   "versao": "9",
+   "versao": "10",
    "fonte_yt": "6UMykgeizTE"
   },
   {
@@ -720,13 +720,13 @@
    "name": "SHORT - Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
    "titulo_roteiro": "SHORT: a base inundada de propósito contra a Aurora",
    "description": "Short do canal principal (pauta P56 do Sonar, pedido de roteiro de 18/10). Desde 05/11 é a única peça dessa história (o longo da Aurora foi engavetado pelo Murilo). A Viscerface tinha mais ou menos uma hora pra zerar o S",
-   "status": "pronto-pra-gravar (versão 6, só a última frase mudou em 10/11: f13a1c6d APROVADO PELO CRIVO, registro a4836bc0, trocada no Gravar (cap1/p15); no Gravar desde 09/11, pedido da Lente pro calendário de 16 a 22/11; Crivo 0ee2a02c, trava R89 362799bd; R71: gravar = aprovar)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 7: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "versão 5 (05/11): conferir_fontes (36 confirmadas, 0 com problema, 0 contas. APROVADO), checar_fluidez, roteiro_frases (V50 2:39) e erros repetidos APROVADOS; ensaio do Murilo em 7 leituras e mais 3 depois da devolução do Crivo (05/11: a faca, o \"nem ela entendeu\" e o \"toda vez\"), a última com 0 paradas; fontes 42/0 e V50 2:39 (384 palavras) na versão final; título novo no portao_pauta APROVADO; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface), até 2:40 falados (regra de 05/11)",
    "motor": null,
-   "versao": "6",
+   "versao": "7",
    "fonte_yt": "lnEzdCum6Kw"
   },
   {
@@ -860,13 +860,13 @@
    "name": "SHORT - Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
    "titulo_roteiro": "SHORT: o Deathrun zerado sem andar, com um extintor",
    "description": "Short do canal principal (pauta P55 do Sonar). O Queue zera o Deathrun, o mod mais difícil do Subnautica, sem apertar a tecla de andar, empurrado por um extintor de incêndio. Versão 5 no molde de jornada (06/11): o plano",
-   "status": "pronto-pra-gravar (no Gravar desde 09/11, pedido da Lente pro calendário de 16 a 22/11; Crivo 58c7d8a3, trava R89 289895c7; R71: gravar = aprovar)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 6: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "versão 5 (06/11, depois da devolução do Crivo): conferir_fontes 28/0, checar_fluidez, roteiro_frases (V50 2:39, molde jornada) e erros repetidos APROVADOS; ensaio em 12 leituras, fica 1 parada (a cadeira); a Pergunta do fã trocada pela que o Short responde (C91)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay do Queue)",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "oGaMu-5hn9U"
   },
   {
@@ -1028,13 +1028,13 @@
    "name": "SHORT - Ela tentou fazer o lançador de gancho do Batman de verdade, e virou a coisa mais difícil que ela já fez",
    "titulo_roteiro": "SHORT: o lançador de gancho do Batman feito de verdade",
    "description": "Short de jornada do canal 2 (pauta P105, divisão com a Tarrafa pelo pedido da Lente de 09/11, 3 jornadas do canal 2 de 16 a 22/11). A Kiara monta a própria roupa do Batman do filme de 2022 e começa pelo lançador de ganch",
-   "status": "pronto-pra-gravar (versão 3, só a 5.1 mudou ('antes do vídeo sair'): f13a1c6d APROVADO PELO CRIVO em 10/11, registro a4836bc0, trocada no Gravar (cap1/p09), e a 6.3 nova entrou pelo Prumo (cap1/p13); antes: versão 2, só a 6.3, o fecho, mudou: 1b7723cd APROVADO PELO CRIVO em 10/11, registro b15f3430, troca no Gravar com o Prumo pelo revisar_gravar; no Gravar desde 09/11, projeto short_lancador_gancho_batman, 14 frases; APROVADO PELO CRIVO 56930f35, e a troca da 5.1 para 'cinco dias' aprovada em bdb9d70e e trocada no Gravar em 09/11; sai ter 17/11 18h no canal 2 (subiu da sex 20/11 em 10/11, Lente; voz até sex 13/11); R71: gravar = aprovar)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 4: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "versão 1 (09/11): conferir_fontes 47/0 (1 conta), checar_fluidez, roteiro_frases (molde jornada, 385 palavras), erros repetidos e teste do leigo APROVADOS; ensaio em 7 rodadas (14 leituras), fica 1 parada em comum (as asinhas, a fonte só dá o palpite dela); devolução do Crivo na 6.2 (os dois motivos dela) com ensaio só nela, 1 parada, a mesma; quadros.json com topo de 5 e 14 por frase (trava_quadros ok); veracidade: aprovado 2026-11-09",
    "video_id": null,
    "publicado_em": null,
    "formato": "short (voz real do Murilo, narrado em cima do vídeo da Kiara's Workshop), jornada de 2 a 2,5 min",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": "TvJmQ5xZCQo"
   },
   {
@@ -1434,13 +1434,13 @@
    "name": "SHORT - Se você jogou Subnautica, a sua bateria sumia na zona de lava, e tem uma explicação biológica pra isso",
    "titulo_roteiro": "SHORT: a bateria que some na Lava Zone",
    "description": "Short do canal principal (pauta P109 v2, aprovada pelo Murilo em 07/11 19:18). Na Lava Zone a energia dos veículos cai muito mais rápido; o motivo é a Lava Larva, um bicho que não enxerga nem sente cheiro, sente energia,",
-   "status": "pronto-pra-gravar (aprovado pelo Murilo em 07/11 22:34; Crivo af2a7e08; trocas do ensaio em 3 frases)",
+   "status": "roteiro aprovado, gravado pelo Murilo em 11-12/11 (versão 2: a fala é a transcrição dos takes, R71; falta o Crivo conferir os fatos na fala, V15)",
    "gate": "versão 1 (07/11): conferir_fontes 16/0 (2 contas), checar_fluidez, roteiro_frases (molde criatura, 240 palavras, V50 1:39), erros repetidos e teste do leigo APROVADOS",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "1",
+   "versao": "2",
    "fonte_yt": null
   },
   {
