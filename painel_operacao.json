@@ -742,7 +742,7 @@
    "titulo": "No Obra Absurda, o erre forte da voz de IA passa a ser medido por uma régua do som calibrada com a voz do Murilo, e não pelo ouvinte do Gemini.",
    "onde": "",
    "confianca": "forte no problema (2 rodadas, o controle falhou nas duas); a (A) ainda não foi medida.",
-   "status": "em calibração com o Crivo (não sobe pro Decidir antes da A separar 100% dos controles; a B precisa sair do jeito que está por causa da decisão de 10/11)",
+   "status": "em calibração com o Crivo (não sobe pro Decidir antes da A separar 100% dos controles e dos negativos; o Crivo manda os números)",
    "simples": "(a escrever quando a A passar no teste; antes disso não sobe)"
   }
  ],
@@ -4450,5 +4450,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-12T05:41-03:00"
+ "gerado_em": "2026-11-12T05:42-03:00"
 }
