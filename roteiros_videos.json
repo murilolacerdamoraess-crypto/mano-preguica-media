@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T03:39:13.835847Z",
+ "gerado_em": "2026-11-12T03:44:35.588912Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -210,6 +210,20 @@
    "motor": null,
    "versao": "9",
    "fonte_yt": "gQdlMDlSNjE"
+  },
+  {
+   "arquivo": "mp2-mewtwo-tamanho-real.md",
+   "name": "SHORT MP2 - Ele imprimiu o Mewtwo em tamanho real, e na hora de montar o corpo não passou pelas pernas",
+   "titulo_roteiro": "SHORT MP2: o Mewtwo em tamanho real",
+   "description": "Short de jornada do canal 2 (pauta P128 do Sonar, 10/11; liberada em 12/11). O francês do En Trois Dimensions, o mesmo do Onix, imprime em 3D um Mewtwo de 2 metros que tem que ficar de pé sozinho. Testa antes um de 50 cm",
+   "status": "roteiro (escrevendo, versão 1)",
+   "gate": "",
+   "video_id": null,
+   "publicado_em": null,
+   "formato": "short MP2 (jornada)",
+   "motor": null,
+   "versao": "1",
+   "fonte_yt": null
   },
   {
    "arquivo": "mp2-ocarina-zelda-microfone-modo-noticia.md",
