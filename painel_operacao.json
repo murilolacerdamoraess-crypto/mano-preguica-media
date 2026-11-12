@@ -2758,9 +2758,9 @@
   {
    "tipo": "Short",
    "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "etapa": "título escolhido por você em 12/11: \"Em Subnautica, cada monstro tem o tamanho do seu medo\"; edição (parado até você decidir se ele sai; a voz das 17 frases está gravada e as cenas 3D estão prontas, falta só acertar o tempo pela sua voz e renderizar)",
+   "etapa": "edição (você escolheu o título; a voz das 17 frases está gravada e as cenas 3D estão prontas; a Lente acerta o tempo de cada cena pela sua voz e renderiza depois dos outros vídeos da fila; sai ter 17/11 às 18h no principal)",
    "responsavel": "Lente",
-   "falta_murilo": "decidir se esse vídeo sai",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4368,5 +4368,5 @@
    "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum"
   }
  ],
- "gerado_em": "2026-11-12T01:15-03:00"
+ "gerado_em": "2026-11-12T01:16-03:00"
 }
