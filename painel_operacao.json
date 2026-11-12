@@ -2846,6 +2846,14 @@
  ],
  "navegador": [
   {
+   "tipo": "12/11 ~13h",
+   "titulo": "**pedido (Anzol): GERAR 3 CAPAS NOVAS DO LONGO DO MEGABONK DE POKÉMON no Flow (Nano Banana Pro, conta Mano Preguiça; o ChatGPT recusa esses personagens). Quem faz: Periscópio. Depois do Hulk e das 4 capas abaixo. Prazo: sex 13/11 de manhã (a Tesoura entrega o vídeo ajustado até sex ao meio-dia e a escolha vai junto).** A capa A da torre saiu (Murilo, 12/11: o vídeo é ele enfrentando os lendários, não a torre). Título já escolhido, não muda: `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Pasta: `Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/refs v2/`. Salvar na pasta de cima como `NOVA A - Flow 1.png`/`Flow 2.png`, `NOVA B ...`, `NOVA C ...`. Em todas: 16:9, nada de nome de personagem nem de jogo no texto (2.25); se uma criatura sair diferente da ref (outra cor, outra crista, outro bicho), descartar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "12/11 ~10h",
    "titulo": "**pedido (Anzol): TROCAR SÓ A PALAVRA da capa do Hulk (canal 2), no Flow, ANTES das 4 capas do pedido abaixo (é rápido). Quem faz: Periscópio.** O Murilo escolheu o título \"Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor\", que já conta o fim; a pergunta QUANTO APERTA? repetiria. Pasta `Mano Preguica/_refs capa - Shorts 26-10/Mao do Hulk/`. Flow (Nano Banana Pro, conta Mano Preguiça), geração nova com 1 anexo: IMAGEM 1 = `CAPA HULK - Flow 1.png`. Salvar como `CAPA HULK - Flow 3.png` e `Flow 4.png`.",
    "etapa": "",
@@ -2919,7 +2927,7 @@
   },
   {
    "tipo": "10/11 16h45",
-   "titulo": "**CONFIRMADO PELO MURILO EM 12/11 (p195, pelo Maestro): \"Sobe só a capa que eu escolhi\" = a A, sem o Testar e comparar.** **PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Falta 1 coisa antes de subir:** os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar. **Capa decidida (Anzol, 10/11 noite, pelo Maestro):** o Murilo escolheu a A direto e não mandou testar as 3, então sobe SÓ a A como capa normal, SEM Testar e comparar (exceção dele à regra de 10/10 das 3 capas; não trava o agendamento por isso).",
+   "titulo": "**⛔ CAPA A SAIU (Murilo, 12/11 ~01h, pelo Maestro: \"precisava rever aquela capa pq eu acho que não ficou condizente com o video [...] o video trata de eu enfrentando o moltres, zapdos, articuno, mew\"). NÃO SUBIR a `OPCAO A.jpg`. As 3 capas novas estão no pedido de 12/11 ~13h acima; a escolha dele vem junto com o vídeo ajustado no Assistir e eu passo o arquivo.** ~~CONFIRMADO PELO MURILO EM 12/11 (p195): \"Sobe só a capa que eu escolhi\" = a A~~ (vencido). **PACOTE DO LONGO DO MEGABONK DE POKÉMON (Anzol; pra quando a Tesoura entregar o vídeo inteiro, até sex 13/11; saída dom 15/11 18h).** Título final (Murilo, 10/11): `Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa`. Capa escolhida por ele (10/11 16:39): a A, arquivo `Meu Drive/Mano Preguica/THUMBS-NOVAS/LONGO - Megabonk de Pokemon todos os mapas/OPCAO A.jpg`. Descrição, 12 tags e Studio: em `producao/longo-pokebonk-todos-os-mapas.md`, seção \"Descrição, tags e Studio do longo\". **Falta 1 coisa antes de subir:** os tempos dos capítulos, que eu preencho quando o vídeo inteiro chegar. **Capa decidida (Anzol, 10/11 noite, pelo Maestro):** o Murilo escolheu a A direto e não mandou testar as 3, então sobe SÓ a A como capa normal, SEM Testar e comparar (exceção dele à regra de 10/10 das 3 capas; não trava o agendamento por isso).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4340,5 +4348,5 @@
    "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
   }
  ],
- "gerado_em": "2026-11-12T01:03-03:00"
+ "gerado_em": "2026-11-12T01:05-03:00"
 }
