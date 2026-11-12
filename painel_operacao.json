@@ -1001,7 +1001,7 @@
    "por_que_agora": "",
    "formato": "Short de 2 a 3 min",
    "concorrencia": "LIVRE pra esta história (em português há muito \"como fazer\" e teste de lançador de brinquedo, e nenhum conta a teia que gruda e segura uma pessoa)",
-   "status": "na fila do roteiro (posição 2 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
+   "status": "pego por Tarrafa (12/11, depois do Mewtwo, ordem do Sonar; antes: na fila do roteiro, posição 2 das duas de 10/11; não fura, entra quando a fila baixar de 8. Murilo, 10/11/2026: \"se for pedido no comentario pode ser que até seja relavante\". O estudo da essência saiu como receita v1 e v2: ingredientes, molde 1 e \"Repete o quê\" marcados em 11/11)",
    "frente": "2",
    "pendente": ""
   },
@@ -2798,9 +2798,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
-   "etapa": "roteiro (em conferência (Crivo), versão 1; o francês do Onix imprime um Mewtwo de 2 metros, testa um pequeno de 50 cm, o peito não encaixa nas pernas e ele afrouxa uma perna pra encaixar; fica de pé com quase 60 quilos e o projeto dos 151 corre risco por falta de lugar; uns 2:40)",
+   "etapa": "narração, texto no Gravar com 15 frases (versão 1, aprovada pelo Crivo em 12/11; o francês do Onix imprime um Mewtwo de 2 metros, testa um pequeno de 50 cm, o peito não encaixa nas pernas e ele afrouxa uma perna pra encaixar; fica de pé com quase 60 quilos e o projeto dos 151 corre risco por falta de lugar; uns 2:40, com os quadros do vídeo dele no topo e em cada frase)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4374,7 +4374,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum"
+  },
+  {
+   "id": "p213",
+   "aberta_em": "2026-11-12T01:17-03:00",
+   "agente": "Tarrafa",
+   "video": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho",
+   "o_que": "gravar a voz das 15 frases (canal 2, uns 2:40; a data de saída sai com o Leme)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:mp2-mewtwo-tamanho-real.md@v1"
   }
  ],
- "gerado_em": "2026-11-12T01:16-03:00"
+ "gerado_em": "2026-11-12T01:18-03:00"
 }
