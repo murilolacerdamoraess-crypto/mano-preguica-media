@@ -3969,17 +3969,6 @@
    "fechada_em": "2026-11-12T00:33-03:00"
   },
   {
-   "id": "p171",
-   "aberta_em": "2026-11-07T22:53-03:00",
-   "agente": "Tarrafa",
-   "video": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "o_que": "gravar a voz das 10 frases (sai sex 13/11 às 18h, até qua 11 à noite)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:short-capsulas-bateria-escondida-scanner.md@v4",
-   "fechada_em": "2026-11-11T10:38-03:00"
-  },
-  {
    "id": "p180",
    "aberta_em": "2026-11-09T10:40-03:00",
    "agente": "Sonar",
@@ -4317,5 +4306,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-12T23:11-03:00"
+ "gerado_em": "2026-11-13T10:40-03:00"
 }
