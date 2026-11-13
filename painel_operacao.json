@@ -3877,17 +3877,6 @@
    "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
-   "id": "p154",
-   "aberta_em": "2026-11-07T11:47-03:00",
-   "agente": "Arpão",
-   "video": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "o_que": "gravar a voz das 15 frases (principal, uns 2:40; sai depois do Reaper de LEGO)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_propulsor_braco",
-   "fechada_em": "2026-11-11T11:05-03:00"
-  },
-  {
    "id": "p156",
    "aberta_em": "2026-11-07T14:36-03:00",
    "agente": "Arpão",
@@ -4295,5 +4284,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-13T11:01-03:00"
+ "gerado_em": "2026-11-13T11:16-03:00"
 }
