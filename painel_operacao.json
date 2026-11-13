@@ -4003,16 +4003,6 @@
    "nota": "Murilo, 10/11: 'eu acho que é golpe esse netease ai pelo que to vendo, eles deveriam usar um arroba netease.' Não responder."
   },
   {
-   "id": "p182",
-   "aberta_em": "2026-11-09T11:03-03:00",
-   "agente": "Periscópio",
-   "video": "noiz.gg (quests pagas)",
-   "o_que": "entrar de novo no noiz.gg no Chrome do perfil geral (a sessão venceu em 08/11 22:41); só quando voltar pro PC, sem pressa",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-10T20:34-03:00"
-  },
-  {
    "id": "p184",
    "aberta_em": "2026-11-09T12:40-03:00",
    "agente": "Arpão",
@@ -4082,29 +4072,6 @@
     "Testa as 3, com a que eu escolhi como a primeira"
    ],
    "fechada_em": "2026-11-12T00:44-03:00"
-  },
-  {
-   "id": "p196",
-   "aberta_em": "2026-11-10T20:43-03:00",
-   "agente": "Periscópio",
-   "video": "Quests pagas de games: ver se tem ângulo",
-   "o_que": "Você disse que não viu as quests do creators.gg e do Lurkit e que às vezes dá pra achar um ângulo. Estas estão abertas hoje; diga quais valem (eu não inscrevo, não dou lance nem peço acesso sem você).\n1) Lurkit · Mouse Chef: Dig Out (PaiBand Game Studio): Short vertical de 20 a 50 s reagindo ao trailer, com pedido de lista de desejos na Steam; paga por lance (você escolhe o preço, a empresa aceita ou contrapropõe); prazo de uns 10 dias desde 08/11 (a página não abriu hoje pra confirmar o dia exato); nossa conta já cumpre os requisitos. Ângulo: reagir ao trailer como 'o que esse ratinho cozinheiro faz de tão estranho', com a pegada de curiosidade do canal, não como anúncio.\n2) creators.gg · PAYDAY 3 (Starbreeze): paga US$ 10 a cada 1.000 views em vídeo curto (até US$ 1.000), pede média de 3.000 views, a sua gameplay do tutorial e 3 missões, sem IA; a janela fechou em 09/11, então só serve de exemplo. Ângulo se voltar: nenhum que não seja gameplay sua.\n3) creators.gg · Tabletop Tavern (Frostbloom): NÃO paga dinheiro, só 1 key de Steam; pede 2 posts nos últimos 30 dias e vídeo só desse jogo; acaba 16/11 às 21h. Ângulo: um Short de 'RTS roguelite jogado numa mesa de taverna em miniatura', se você quiser jogar.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "chave": "quests-pagas-2026-11-10",
-   "fechada_em": "2026-11-10T20:44-03:00",
-   "nota": "texto trazia um palpite meu sobre o jogo Mouse Chef sem fonte; reaberta corrigida"
-  },
-  {
-   "id": "p197",
-   "aberta_em": "2026-11-10T20:43-03:00",
-   "agente": "x",
-   "video": "x",
-   "o_que": "x",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-10T20:59-03:00",
-   "nota": "item de teste vazio (x: x)"
   },
   {
    "id": "p198",
@@ -4361,5 +4328,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-12T19:59-03:00"
+ "gerado_em": "2026-11-12T21:23-03:00"
 }
