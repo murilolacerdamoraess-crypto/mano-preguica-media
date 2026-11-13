@@ -3831,17 +3831,6 @@
    "fechada_em": "2026-11-12T00:33-03:00"
   },
   {
-   "id": "p144",
-   "aberta_em": "2026-11-07T01:25-03:00",
-   "agente": "Arpão",
-   "video": "Estão montando o Reaper do Subnautica em LEGO",
-   "o_que": "gravar a voz das 13 frases (sai dom 08/11 às 18h se a voz chegar no sábado cedo)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_reaper_lego",
-   "fechada_em": "2026-11-11T11:00-03:00"
-  },
-  {
    "id": "p146",
    "aberta_em": "2026-11-07T01:25-03:00",
    "agente": "Arpão",
@@ -4306,5 +4295,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-13T10:40-03:00"
+ "gerado_em": "2026-11-13T11:01-03:00"
 }
