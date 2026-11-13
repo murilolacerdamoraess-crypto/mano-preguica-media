@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T16:14:30.670279-03:00",
+ "gerado_em": "2026-11-13T03:59:11.199623-03:00",
  "mes": {
   "postados": 8,
   "teto": 93,
@@ -10,17 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 21,
-   "ultimo_post": "2026-11-11",
+   "na_fila": 22,
+   "ultimo_post": "2026-11-12",
    "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "_aSy4jUW1ZY",
-     "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água",
-     "quando": "2026-11-12T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "YAXA2f5lzMs",
      "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança",
@@ -49,6 +43,10 @@
    "previstos": [],
    "proximos_da_fila": [
     {
+     "video_id": "fmRy7htiKf8",
+     "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares"
+    },
+    {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     },
@@ -62,81 +60,81 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 21,
+   "na_fila": 22,
    "ultimo_post": "2026-11-10",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "wGVF6ThIv9I",
      "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts",
-     "quando": "2026-11-12T21:30:00-03:00"
+     "quando": "2026-11-13T21:30:00-03:00"
+    },
+    {
+     "video_id": "fmRy7htiKf8",
+     "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+     "quando": "2026-11-14T21:30:00-03:00"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-     "quando": "2026-11-13T21:30:00-03:00"
+     "quando": "2026-11-15T21:30:00-03:00"
     },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-     "quando": "2026-11-14T21:30:00-03:00"
+     "quando": "2026-11-16T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-15T21:30:00-03:00"
+     "quando": "2026-11-17T21:30:00-03:00"
     },
     {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-11-16T21:30:00-03:00"
+     "quando": "2026-11-18T21:30:00-03:00"
     },
     {
      "video_id": "_YCpqe5Uxuc",
      "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
-     "quando": "2026-11-17T21:30:00-03:00"
+     "quando": "2026-11-19T21:30:00-03:00"
     },
     {
      "video_id": "Stm2pYvz-yE",
      "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-11-18T21:30:00-03:00"
+     "quando": "2026-11-20T21:30:00-03:00"
     },
     {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-19T21:30:00-03:00"
+     "quando": "2026-11-21T21:30:00-03:00"
     },
     {
      "video_id": "iSzfJgFSODQ",
      "titulo": "O ranking dos consoles mais vendidos da história mudou em 2025",
-     "quando": "2026-11-20T21:30:00-03:00"
+     "quando": "2026-11-22T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-21T21:30:00-03:00"
+     "quando": "2026-11-23T21:30:00-03:00"
     },
     {
      "video_id": "4B0YPRcXtjM",
      "titulo": "Qual jogo você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-22T21:30:00-03:00"
+     "quando": "2026-11-24T21:30:00-03:00"
     },
     {
      "video_id": "YAXA2f5lzMs",
      "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
-     "quando": "2026-11-23T21:30:00-03:00"
+     "quando": "2026-11-25T21:30:00-03:00"
     },
     {
      "video_id": "09Iaww-aTvg",
      "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-24T21:30:00-03:00"
-    },
-    {
-     "video_id": "35MMvMmb38Y",
-     "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-25T21:30:00-03:00"
+     "quando": "2026-11-26T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -145,12 +143,12 @@
      "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts"
     },
     {
-     "video_id": "lybLU6Q9xV8",
-     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares"
+     "video_id": "fmRy7htiKf8",
+     "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares"
     },
     {
-     "video_id": "weC-ObCZ7Xw",
-     "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex"
+     "video_id": "lybLU6Q9xV8",
+     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares"
     }
    ]
   },
@@ -158,21 +156,21 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 56,
+   "na_fila": 57,
    "ultimo_post": "2026-11-04",
-   "dias_parado": 8,
-   "parado": false,
+   "dias_parado": 9,
+   "parado": true,
    "agendados": [],
    "previstos": [
     {
      "video_id": "GzZE02iibIA",
      "titulo": "Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa",
-     "quando": "2026-11-12T20:00:00-03:00"
+     "quando": "2026-11-19T20:00:00-03:00"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-     "quando": "2026-11-19T20:00:00-03:00"
+     "quando": "2026-11-26T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
