@@ -752,6 +752,14 @@
    "confianca": "fraca (1 vídeo de referência, sem teste no canal). Sobe porque é extensão direta da C91, que ele já decidiu.",
    "status": "aguardando",
    "simples": "Quando alguém no vídeo faz uma escolha que o fã acharia boba, a frase antes da escolha diz a pergunta que ele faria e responde com o motivo que dá pra ver na tela. É o que o MrBeast faz na beira do rio (\"por que vocês não cruzam a nado? Olha a força dessa correnteza, por isso a jangada\"), e no seu desafio seria, por exemplo, dizer por que você não foi de veículo antes de ir a nado."
+  },
+  {
+   "id": "R95",
+   "titulo": "Tudo orientado a dados: pauta, roteiro e edição consultam o placar por portão em código, não por lembrança.",
+   "onde": "(1) `portao_pauta.py` do Sonar; (2) Crivo (linha \"Referência\" no roteiro); (3) `crivo_auto.py` da Tesoura (duração contra os 10 de cima do formato); (4) role do Sextante (`producao/prioridade-roteiros.txt`).",
+   "confianca": "",
+   "status": "APROVADA pelo Murilo em 14/11/2026 (pelo Maestro: \"pode aplicar as quatro. eu quero que nosso sistema seja guiado por isso, propoe, teste, avalia, aprende, aplica. quero transformar isso aqui numa maquina previsivel de receita\"). Aplicada 2026-11-14 a (1) e a (4) pelo Sextante; (2) e (3) com o Crivo e a Tesoura pelo Maestro.",
+   "simples": "Toda pauta diz em que formato do placar ela cai e o portão reprova formato que já foi cortado; todo roteiro cita um vídeo que foi bem no YouTube e no TikTok como referência; a edição é comparada com a duração dos melhores do mesmo formato; e a ordem dos roteiros parados segue os números."
   }
  ],
  "equipe": [
@@ -3810,5 +3818,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-14T13:45-03:00"
+ "gerado_em": "2026-11-14T13:50-03:00"
 }
