@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T17:12:17.542296Z",
+ "gerado_em": "2026-11-14T17:16:56.751317Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1028,7 +1028,7 @@
    "name": "SHORT - Como a vilã mais famosa de Resident Evil se tornou a pior",
    "titulo_roteiro": "SHORT: como a vilã mais famosa de Resident Evil se tornou a pior",
    "description": "Short de uns 2 minutos e 15 segundos (pauta P31 do Sonar, tema Resident Evil). Versão 7 (20/10, gancho do Murilo: \"isso trouxe uma complicação gigantesca pro jogo\"); antes, versão 6 (20/10), pelo método de 19/10 (pergunt",
-   "status": "roteiro (na fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: principal fora-noticia (2.591 / 279, 13 vídeos); canal 2 sem molde (a altura dela é lore conhecida, não fato que parece mentira; título que promete sem dizer o fato fica de 0,07x a 0,76x); TikTok de criatura fora do mar 0 de 5 acima de 2 mil. Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-20 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
@@ -1112,7 +1112,7 @@
    "name": "SHORT - Estão fundindo jogos com inteligência artificial",
    "titulo_roteiro": "SHORT: estão fundindo jogos com inteligência artificial",
    "description": "Short de uns 90 segundos (pauta P15 do Sonar, aprovada em 04/10). Versão 5 (24/10), reescrita no modo notícia (R29) pelo C68. Abre na TNT do Minecraft jogando um inimigo do Skyrim pro alto e na pergunta \"como um jogo rod",
-   "status": "roteiro (na fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: notícia de outro jogo, 0 de 27 viralizaram nos 2 canais (estudo-hits-de-fora) e 2.591 / 279 no principal, 13 vídeos. Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "portão de fontes, de fluidez (com R17) e de pauta APROVADOS 2026-10-24 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
@@ -1168,7 +1168,7 @@
    "name": "SHORT - Esse monstro de Resident Evil foi criado pra se vingar, e você descobre de quem",
    "titulo_roteiro": "SHORT: o Nemesis e a vingança",
    "description": "Short de uns 100 segundos pro teste de bolha no TikTok (pauta P35 do Sonar, tema Resident Evil, tentativa 2 de 3). O Nemesis mata um colega da Jill na frente da delegacia e sai atrás dela gritando \"STARS\". Ele foi feito ",
-   "status": "roteiro (na fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: principal fora-noticia (YouTube 2.591 contra a régua 4.672, TikTok 279 contra 2.606, 13 vídeos); canal 2 sem molde que funcione lá (não é feito de verdade nem fato que parece mentira; medo ou monstro fora do Subnautica viralizou 1 de 75, estudo-hits-de-fora); TikTok de criatura fora do mar 0 de 5 acima de 2 mil. Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
