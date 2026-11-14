@@ -2894,6 +2894,14 @@
    "prazo": ""
   },
   {
+   "tipo": "14/11 ~18h30",
+   "titulo": "**pedido (Anzol): EXTINTOR SEM PALAVRA, a partir da Flow 2. Quem faz: Periscópio, sem pressa (decide qui 19/11 18h).** Conferi: base = `CAPA BASE - Flow 14.png` (FECHADA, é ela que sobe no Studio); extintor com palavra = `CAPA EXTINTOR - Flow 2.png`. As Flow 3 e 4 sem palavra saíram escuras demais e com letras do rótulo, e são outra imagem: pro teste, só a palavra pode mudar. Anexo: IMAGEM 1 = `CAPA EXTINTOR - Flow 2.png`. 1 geração x2, saída `CAPA EXTINTOR - Flow 5.png`/`Flow 6.png`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "14/11 ~18h",
    "titulo": "**pedido (Anzol): EXTINTOR DESTRAVADO, gerar as DUAS versões agora, depois da base com BUG. Quem faz: Periscópio.** O extintor (sáb 21/11) pode virar o 2º caso do teste T13, mas isso só se decide qui 19/11 18h, perto demais da saída. Por isso as duas versões saem já, e na quinta eu só escolho. Use o texto do item **(3) EXTINTOR** do pedido de 12/11 (mais abaixo), mesmas refs e anexos: **FEITO 14/11 15h (Periscópio): em `Extintor Deathrun/`: COM palavra `CAPA EXTINTOR - Flow 1.png` e `Flow 2.png` (1 GOLPE amarelo 3D; na 1 a palavra encosta nos chifres da criatura, na 2 fica ao lado da boca); SEM palavra `Flow 3.png` e `Flow 4.png`. Criatura verde da ref com boca aberta e pontos laranja, extintor vermelho com jato, mar de lava, mão com luva, nada de texto acrescentado. ATENÇÃO na versão sem palavra: o extintor mostra letras pequenas do próprio rótulo (algo como \"RE\" e \"TION\" na lateral, vindo da ref) nas duas. Mão e extintor ficam grandes embaixo à direita, não medi em pixels.**",
    "etapa": "",
@@ -4018,5 +4026,5 @@
    "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
   }
  ],
- "gerado_em": "2026-11-14T14:56-03:00"
+ "gerado_em": "2026-11-14T14:57-03:00"
 }
