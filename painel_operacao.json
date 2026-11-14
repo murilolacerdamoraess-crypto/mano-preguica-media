@@ -2895,7 +2895,7 @@
   },
   {
    "tipo": "14/11 ~16h",
-   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 4, partindo da Flow 5. Quem faz: Periscópio.** A Flow 5 é a melhor até agora, mas o portão mede o propulsor com 43% da altura (mínimo 45%) e a cúpula virou vidro transparente com peças dentro, que não é como nas refs. A Flow 6 tem o teto seco de novo (38%). Anexos nesta ordem: IMAGEM 1 = `CAPA BASE - Flow 5.png`, IMAGEM 2 = `REF 1 o corredor da base cheio de agua, com o propulsor (Viscerface 8m18s).png`, IMAGEM 3 = `REF 2 o propulsor disparando no mar (Viscerface 8m21s).png`. 1 geração x2, saída `CAPA BASE - Flow 7.png`/`Flow 8.png`, sem tratar.",
+   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 4, partindo da Flow 5. Quem faz: Periscópio.** A Flow 5 é a melhor até agora, mas o portão mede o propulsor com 43% da altura (mínimo 45%) e a cúpula virou vidro transparente com peças dentro, que não é como nas refs. A Flow 6 tem o teto seco de novo (38%). Anexos nesta ordem: IMAGEM 1 = `CAPA BASE - Flow 5.png`, IMAGEM 2 = `REF 1 o corredor da base cheio de agua, com o propulsor (Viscerface 8m18s).png`, IMAGEM 3 = `REF 2 o propulsor disparando no mar (Viscerface 8m21s).png`. 1 geração x2, saída `CAPA BASE - Flow 7.png`/`Flow 8.png`, sem tratar. **FEITO 14/11 14h45 (Periscópio): Flow 7 e 8 salvas em `Base inundada/` (anexos: Flow 5, REF 1, REF 2 nessa ordem). A 8: cúpula branca opaca e lisa, sem peças dentro, luzes ciano só em fios. A 7: cúpula opaca com uma janela de luzes ciano embaixo. Em nenhuma a câmera chegou mais perto: o topo do propulsor ficou onde estava na Flow 5. Não medi em pixels.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3976,5 +3976,5 @@
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
   }
  ],
- "gerado_em": "2026-11-14T14:31-03:00"
+ "gerado_em": "2026-11-14T14:36-03:00"
 }
