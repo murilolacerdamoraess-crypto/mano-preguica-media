@@ -3964,7 +3964,9 @@
    "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "o_que": "gravar a voz das 22 frases (principal, uns 2:40)",
    "onde": "Gravar",
-   "status": "aberta",
+   "status": "cancelada",
+   "fechada_em": "2026-11-14T11:30-03:00",
+   "nota": "Obra Absurda encerrado pelo Murilo (14/11); vídeo 6 não sai",
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
   },
   {
@@ -4039,5 +4041,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T18:06-03:00"
+ "gerado_em": "2026-11-14T19:31-03:00"
 }
