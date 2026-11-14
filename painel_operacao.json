@@ -3808,42 +3808,6 @@
    "jogando": true
   },
   {
-   "id": "p149",
-   "aberta_em": "2026-11-07T10:46-03:00",
-   "agente": "Sonar",
-   "video": "Esse streamer quase morreu enfrentando o segundo maior monstro do Subnautica",
-   "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; Cellbit e o Ghost, canal 2, teste dos cortes de streamer)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:corte_c2_ghost",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
-  },
-  {
-   "id": "p150",
-   "aberta_em": "2026-11-07T10:46-03:00",
-   "agente": "Sonar",
-   "video": "Esse streamer quase largou o jogo quando conheceu o maior monstro do Subnautica",
-   "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; Cellbit e o Sea Dragon, canal 2, teste dos cortes de streamer)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:corte_c2_sea_dragon",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
-  },
-  {
-   "id": "p151",
-   "aberta_em": "2026-11-07T10:46-03:00",
-   "agente": "Sonar",
-   "video": "Esse streamer entrou na boca de um leviatã pra pegar minério no Subnautica 2",
-   "o_que": "gravar as 2 frases de contexto do corte (10 a 12 s; alanzoka no Subnautica 2, canal 2, teste dos cortes de streamer)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:corte_c2_leviata_sn2",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
-  },
-  {
    "id": "p157",
    "aberta_em": "2026-11-07T14:36-03:00",
    "agente": "Arpão",
@@ -3852,59 +3816,6 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "narracao:serie_4546b_a1_dia1"
-  },
-  {
-   "id": "p158",
-   "aberta_em": "2026-11-07T14:36-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, Dia 2 se o voto der verde",
-   "o_que": "gravar a voz das 7 frases só se o voto do Dia 1 der verde",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:serie_4546b_a1_dia2_verde",
-   "grupo": "serie-4546b-a1-dia2",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Dia 2 só existe depois do voto do Dia 1, que nem foi gravado; volta a abrir quando o Dia 1 sair"
-  },
-  {
-   "id": "p159",
-   "aberta_em": "2026-11-07T14:36-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, Dia 2 se o voto der vermelho",
-   "o_que": "gravar a voz das 8 frases só se o voto do Dia 1 der vermelho",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:serie_4546b_a1_dia2_vermelho",
-   "grupo": "serie-4546b-a1-dia2",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Dia 2 só existe depois do voto do Dia 1, que nem foi gravado; volta a abrir quando o Dia 1 sair"
-  },
-  {
-   "id": "p180",
-   "aberta_em": "2026-11-09T10:40-03:00",
-   "agente": "Sonar",
-   "video": "Esse streamer quase foi resgatado no Subnautica",
-   "o_que": "gravar as 2 frases de contexto do corte (10 s; Cellbit e a nave de resgate derrubada pelo canhão, canal 2)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:corte_c2_sunbeam",
-   "fechada_em": "2026-11-12T00:47-03:00",
-   "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
-  },
-  {
-   "id": "p195",
-   "aberta_em": "2026-11-10T16:43-03:00",
-   "agente": "Anzol",
-   "video": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
-   "o_que": "Você escolheu a capa do fantasma roxo gigante por cima da torre pro longo do Megabonk, e ela está certa pro título que você escolheu. Falta só escolher como ela sobe. A sua regra de outubro é todo longo subir com 3 capas no teste do YouTube, que mostra cada uma pra uma parte do público e fica com a que segura mais gente. As outras duas são a do Charmander cercado e do Marowak com 1ª VEZ e 2ª VEZ, e a do seu rosto de susto com a torre. Se você não gostou delas, sobe só a sua.",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "capa-teste:longo-megabonk-todos-os-mapas",
-   "opcoes": [
-    "Sobe só a capa que eu escolhi",
-    "Testa as 3, com a que eu escolhi como a primeira"
-   ],
-   "fechada_em": "2026-11-12T00:44-03:00"
   },
   {
    "id": "p198",
@@ -3917,17 +3828,6 @@
    "chave": "quests-pagas-2026-11-10b"
   },
   {
-   "id": "p199",
-   "aberta_em": "2026-11-11T02:50-03:00",
-   "agente": "Tesoura",
-   "video": "Longo: Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa",
-   "o_que": "assistir o longo inteiro (15:11) e dizer se segue ou se deleta",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1rWwc5TMDY3x0U-rKC1AWNpE82Jx3SMHG",
-   "fechada_em": "2026-11-12T00:44-03:00"
-  },
-  {
    "id": "p200",
    "aberta_em": "2026-11-11T11:11-03:00",
    "agente": "Periscópio",
@@ -3935,170 +3835,6 @@
    "o_que": "Decidir se pede acesso à campanha paga Zap Blastum Launch Round 2 (creators.gg, Shiny Dolphin Games): shooter de cobertura visto de cima contra exército de robôs. Pede #ZapBlastum, #ad ou a tag de parceria paga, sem imagem feita por IA e o link da Steam na descrição (no TikTok pode pular). Paga US$ 10 com 5 mil views somadas em curtos (YouTube, TikTok ou Instagram), US$ 10 com 2 mil views em vídeo longo no YouTube e US$ 20 com 5 mil em longo; vem 1 key da Steam. Começou 09/11, sem data de fim na página; a verba total é US$ 600 e restavam US$ 520 hoje, então acaba quando esgotar. Ideia de ângulo: não dá pra dizer sem ver o jogo (a descrição só fala de tiro e robôs); se você achar um, o curto de 5 mil views já paga US$ 10. Link: https://creators.gg/campaigns/1280-zap-blastum-launch-round-2",
    "onde": "Outro",
    "status": "aberta"
-  },
-  {
-   "id": "p201",
-   "aberta_em": "2026-11-11T11:28-03:00",
-   "agente": "Anzol",
-   "video": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "o_que": "Escolher o título do Short do item proibido na cápsula do tempo (principal, sai sex 13/11 às 18h). O primeiro é o que eu escolheria: é o seu ângulo de 07/11 e o título com que você gravou. A capa (o scanner com uma luz verde escondida dentro, a cápsula na areia e a palavra CONTRABANDO) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-    "Ela abriu 500 cápsulas do tempo no Subnautica e descobriu gente burlando um item proibido",
-    "Os jogadores do Subnautica escondem um item proibido pra mandar na cápsula do tempo"
-   ],
-   "fechada_em": "2026-11-12T00:44-03:00"
-  },
-  {
-   "id": "p202",
-   "aberta_em": "2026-11-11T14:08-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "o_que": "assistir o Short do Reaper de LEGO (1:57) e dizer se aprova ou o que muda; se aprovar até qui 12/11 de tarde, sai qui 12/11 às 18h",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1CIWP8yUaRX-jOqmoNCx3pTHRLIt4woUA",
-   "fechada_em": "2026-11-12T01:14-03:00",
-   "nota": "v1 substituída pela v2 com a voz regravada em 12/11 (Tesoura, 12/11)"
-  },
-  {
-   "id": "p203",
-   "aberta_em": "2026-11-11T16:22-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão (canal 2)",
-   "o_que": "assistir o Short do Octopus de papelão (2:10, canal 2) e dizer se aprova ou o que muda; sai sáb 14/11 às 18h",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1A2VVmJvy1cyXPrJpSWyAaVNgJKA3suvw",
-   "fechada_em": "2026-11-12T00:54-03:00"
-  },
-  {
-   "id": "p204",
-   "aberta_em": "2026-11-12T00:46-03:00",
-   "agente": "Anzol",
-   "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes (canal 2)",
-   "o_que": "Escolher o título do Short dos sabres de luz (canal 2). O primeiro é o que eu escolheria: é o gancho que você gravou, o erro de madrugada que resolveu o sabre. A capa (os dois sabres se cruzando no duelo e a palavra AGUENTA?) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Esse cara tá fazendo um sabre de luz de verdade, e um erro de madrugada salvou o projeto",
-    "Esse cara fez dois sabres de luz de verdade pra um duelo, e um quebrou 1 hora antes",
-    "Será que dá pra fazer um sabre de luz do Star Wars de verdade, igual dos filmes?"
-   ],
-   "fechada_em": "2026-11-12T00:54-03:00"
-  },
-  {
-   "id": "p205",
-   "aberta_em": "2026-11-12T00:46-03:00",
-   "agente": "Anzol",
-   "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor (canal 2)",
-   "o_que": "Escolher o título do Short da mão do Hulk (canal 2). O primeiro é o que eu escolheria: a garra de bombeiro é o que só esse vídeo tem, e ele não conta o resultado do medidor, que é o fim. A capa (a mão verde apertando o medidor e QUANTO APERTA?) está sendo feita; se você escolher o segundo, as palavras viram DE BOMBEIRO.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Esse cara fez a mão do Hulk de verdade com a garra que os bombeiros usam pra abrir carro",
-    "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
-    "Esse cara queria ter a força do Hulk e prendeu uma garra de bombeiro no braço"
-   ],
-   "fechada_em": "2026-11-12T00:54-03:00"
-  },
-  {
-   "id": "p206",
-   "aberta_em": "2026-11-12T00:46-03:00",
-   "agente": "Anzol",
-   "video": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir",
-   "o_que": "Escolher o título do Short da luva do One Punch Man (canal 2, sai dom 22/11). O primeiro é o que eu escolheria: é a promessa que você gravou, e só o fim diz o que a luva não explode. A capa (a luva explodindo uma melancia e 1 SOCO) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Esse cara fez a luva do One Punch Man, e testou o que ela não consegue explodir",
-    "Esse cara fez a luva do One Punch Man de verdade, e o soco virou um tiro de ar",
-    "Esse cara fez a luva do One Punch Man e saiu socando tudo até uma coisa não explodir"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
-  },
-  {
-   "id": "p207",
-   "aberta_em": "2026-11-12T00:53-03:00",
-   "agente": "Anzol",
-   "video": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-   "o_que": "Escolher o título do Short da base inundada (principal). O primeiro é o que eu escolheria: é o título que você mesmo pediu em 05/11, a coisa estranha e o que ela ganha com isso, sem contar se ela zerou. A capa (dentro da base cheia de água, disparando com o propulsor, e a palavra BUG) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-    "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir",
-    "Ela tentou zerar o Subnautica antes da nave explodir, usando uma base cheia de água"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
-  },
-  {
-   "id": "p208",
-   "aberta_em": "2026-11-12T00:53-03:00",
-   "agente": "Anzol",
-   "video": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "o_que": "Escolher o título do Short do extintor no mod mais difícil do Subnautica (principal, sai sáb 21/11 às 18h). O primeiro é o que eu escolheria: é a primeira frase que você gravou, e ele não conta se o cara zerou, porque o vídeo promete mostrar isso. O segundo é o de trabalho, mais curto, mas conta o fim. A capa (o extintor na mão e um monstro gigante de boca aberta atrás, com 1 GOLPE) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Esse cara decidiu zerar o mod mais difícil do Subnautica sem andar, só com um extintor",
-    "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-    "Esse cara não podia andar no Subnautica, e um monstro gigante veio atrás dele"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
-  },
-  {
-   "id": "p209",
-   "aberta_em": "2026-11-12T00:53-03:00",
-   "agente": "Anzol",
-   "video": "Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "o_que": "Escolher o título do Short do medo e do tamanho dos monstros (principal). O primeiro é o que eu escolheria: é o nome com que você aprovou o roteiro, a regra inteira numa leitura. Os 3 dizem a regra como se fosse do jogo; o vídeo avisa no primeiro segundo que é invenção, mas se você achar que engana quem joga, a troca é 'E se em Subnautica cada monstro tivesse o tamanho do seu medo?'. A capa sai da cena do próprio vídeo (o peixinho gigante na frente da preguiça e TEM MEDO?).",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Em Subnautica, cada monstro tem o tamanho do seu medo",
-    "Em Subnautica, o seu medo decide o tamanho dos monstros",
-    "Quanto mais medo você sente no Subnautica, maior o monstro fica"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "o Short do medo está pra decidir se sai (passada da receita, 12/11); título só depois"
-  },
-  {
-   "id": "p210",
-   "aberta_em": "2026-11-12T00:54-03:00",
-   "agente": "Anzol",
-   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "o_que": "Escolher o título do Short da bateria que some na zona de lava (principal, sai seg 16/11). O primeiro é o que eu escolheria: é o seu ângulo de 07/11, falando com quem jogou, e deixa a explicação pro vídeo. A capa (bichos grudados no casco do submarino e uma bateria com 1%) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Se você jogou Subnautica, a sua bateria sumia na lava, e a explicação é biológica",
-    "No Subnautica, a sua bateria não acabava na lava, alguém tava comendo ela",
-    "Por que a bateria do submarino sumia tão rápido na lava do Subnautica?"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
-  },
-  {
-   "id": "p211",
-   "aberta_em": "2026-11-12T00:54-03:00",
-   "agente": "Anzol",
-   "video": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
-   "o_que": "Escolher o título do Short do lançador de gancho do Batman (canal 2, sai ter 17/11 às 18h). O primeiro é o que eu escolheria: é o seu gancho gravado, o risco de explodir na mão dela, e não conta se funcionou. A capa (o lançador do filme em cima, o dela embaixo e A GÁS) está sendo feita e serve pros 3.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Ela fez o lançador de gancho do Batman de verdade, e não sabia se ia explodir na mão dela",
-    "Ela tentou fazer o lançador de gancho do Batman, e foi a coisa mais difícil que já fez",
-    "Ela achou que ia fazer o lançador de gancho do Batman em 2 dias"
-   ],
-   "fechada_em": "2026-11-12T00:57-03:00",
-   "nota": "Murilo, 12/11: 'apareceu tarefas de titulo e depois apareceram outras dnv tem que ver isso urgente.' Título e capa só vão pra lista dele junto com o vídeo no Assistir, numa tarefa só; reabro quando a Tesoura entregar este vídeo."
   },
   {
    "id": "p212",
@@ -4161,5 +3897,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-14T00:34-03:00"
+ "gerado_em": "2026-11-14T01:36-03:00"
 }
