@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T17:09:42.626183Z",
+ "gerado_em": "2026-11-14T17:11:33.439995Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -804,7 +804,7 @@
    "name": "SHORT - Ela abriu 500 cápsulas do tempo no Subnautica, e 100 eram repetidas",
    "titulo_roteiro": "SHORT: as 500 cápsulas repetidas",
    "description": "Short de cápsula do tempo (pauta P67 do Sonar, das pautas de cápsulas do Farol, 19/10). A Alidove abre 500 cápsulas em várias partidas e anota tudo numa planilha; umas 100 vêm repetidas, o que pela conta dela (84 mil dif",
-   "status": "roteiro (na fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "roteiro (segurado em 14/11 pelo Maestro: seria o 3º Short do mesmo vídeo da Alidove, depois da bateria no scanner de 13/11, e está fora da prioridade-roteiros.txt; versão 2)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
@@ -1490,7 +1490,7 @@
    "name": "SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
    "titulo_roteiro": "SHORT: atravessar o Subnautica por baixo do mapa",
    "description": "Short de feito no Subnautica (pauta P58 do Sonar, 18/10). The Last Bacon quer atravessar o mapa de um lado ao outro nadando por baixo dele, sem submarino; pra chegar lá desce o Void, a zona morta dos Ghost Leviathans, gr",
-   "status": "roteiro (revisão com as regras de hoje, versão 3)",
+   "status": "roteiro (versão 3 reescrita em 14/11 com código ok; guardado até o Sextante dizer se entra na prioridade-roteiros.txt; faltam erros, leigo, ensaio e Crivo)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (v2) (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
