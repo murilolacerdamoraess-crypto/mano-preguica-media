@@ -750,7 +750,7 @@
    "titulo": "No meio do vídeo, antes de uma escolha que o fã acharia boba, a fala traz a pergunta que ele faria e responde com o motivo que se vê na tela.",
    "onde": "skill `shorts-roteirista` (princípio da pergunta do fã, junto da C91) e o [[caderno-de-desafios]] do Farol (o desafio gravado). Não entra em longo narrado (C95).",
    "confianca": "fraca (1 vídeo de referência, sem teste no canal). Sobe porque é extensão direta da C91, que ele já decidiu.",
-   "status": "aguardando",
+   "status": "APROVADA 2026-11-14 (Murilo, pelo Maestro, origem chat: \"pode aprovar a R94 também\"); aplicada 2026-11-14 na skill shorts-roteirista (princípio 4, como o jeito e não frase fixa, commit da pasta de skills) e pedida ao Farol pro caderno de desafios.",
    "simples": "Quando alguém no vídeo faz uma escolha que o fã acharia boba, a frase antes da escolha diz a pergunta que ele faria e responde com o motivo que dá pra ver na tela. É o que o MrBeast faz na beira do rio (\"por que vocês não cruzam a nado? Olha a força dessa correnteza, por isso a jangada\"), e no seu desafio seria, por exemplo, dizer por que você não foi de veículo antes de ir a nado."
   },
   {
@@ -3914,5 +3914,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-14T14:02-03:00"
+ "gerado_em": "2026-11-14T14:05-03:00"
 }
