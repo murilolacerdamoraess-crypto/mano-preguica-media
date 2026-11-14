@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T04:55:42.922910Z",
+ "gerado_em": "2026-11-14T16:25:21.654208Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -48,7 +48,7 @@
    "name": "CORTE CANAL 2 · Esse streamer saiu do submarino pra encarar o Ghost",
    "titulo_roteiro": "CORTE CANAL 2 · Esse streamer saiu do submarino pra encarar o Ghost",
    "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
-   "status": "pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
+   "status": "saiu (Murilo, 12/11/2026: as lives são de maio, 6 meses atrás; Subnautica no canal 2 sem molde; backlog \"SAÍRAM\"); não volta pro Gravar; antes: pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -62,7 +62,7 @@
    "name": "CORTE CANAL 2 · Esse streamer entrou na boca de um leviatã",
    "titulo_roteiro": "CORTE CANAL 2 · Esse streamer entrou na boca de um leviatã",
    "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
-   "status": "pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
+   "status": "saiu (Murilo, 12/11/2026: as lives são de maio, 6 meses atrás; Subnautica no canal 2 sem molde; backlog \"SAÍRAM\"); não volta pro Gravar; antes: pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -76,7 +76,7 @@
    "name": "CORTE CANAL 2 · Esse streamer achou o esqueleto e depois o dono da mordida",
    "titulo_roteiro": "CORTE CANAL 2 · Esse streamer achou o esqueleto e depois o dono da mordida",
    "description": "Corte de streamer do canal 2 (item 8 do plano de 07/11/2026, decisão do Murilo pelo Maestro): 1 ou 2 frases de contexto na voz do Murilo, gravadas no celular, e depois a fala do streamer legendada. Sem o nome do streamer",
-   "status": "pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
+   "status": "saiu (Murilo, 12/11/2026: as lives são de maio, 6 meses atrás; Subnautica no canal 2 sem molde; backlog \"SAÍRAM\"); não volta pro Gravar; antes: pronto-pra-gravar (aprovado pelo Crivo em 07/11, v2 0f5bb90b)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -118,7 +118,7 @@
    "name": "LONGO 1 - O Mew foi contrabandeado pra dentro de Pokémon",
    "titulo_roteiro": "LONGO 1: o contrabando do Mew",
    "description": "Vídeo longo (13 a 15 min) sobre o Mew ter sido enfiado em Pokémon Red/Green nos 300 bytes que sobraram depois de tirar o debug, como brincadeira interna, contra ordem expressa de não mexer em mais nada, e como isso virou",
-   "status": "pronto-pra-gravar",
+   "status": "parado (pauta de internet, fora do longo pela regra do Murilo de 02/10 e pelo longo narrado parado até 30/11); só volta se o Murilo reabrir; dono: Farol; antes: pronto-pra-gravar",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -132,7 +132,7 @@
    "name": "LONGO 2 - A Justiça mandou o estúdio destruir os próprios jogos",
    "titulo_roteiro": "LONGO 2: o estúdio que a Justiça mandou destruir os próprios jogos",
    "description": "Vídeo longo (13 a 15 min) sobre a Silicon Knights, o estúdio de Eternal Darkness (o jogo que fingia apagar o seu save): a Nintendo patenteou o sistema de sanidade, o estúdio processou a Epic, perdeu, e um juiz federal ma",
-   "status": "pronto-pra-gravar",
+   "status": "parado (pauta de internet, fora do longo pela regra do Murilo de 02/10 e pelo longo narrado parado até 30/11); só volta se o Murilo reabrir; dono: Farol; antes: pronto-pra-gravar",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -160,7 +160,7 @@
    "name": "SHORT MP2 - Esses caras blindaram uma caminhonete velha pra testar o Batmóvel, e jogaram ela contra um muro de tijolo",
    "titulo_roteiro": "SHORT MP2: o caminhão do Batmóvel contra o muro de tijolo",
    "description": "Short do MP2 (pauta P48 do Sonar). A Hacksmith quer o Batmóvel mais funcional de todos, mas antes de investir nele blinda uma caminhonete velha pra testar tudo nela; se ela não aguentar o muro de tijolo, talvez nem dê pr",
-   "status": "roteiro aprovado (versão 5 aprovada pelo Murilo em 25/10; texto no Gravar)",
+   "status": "publicado em 31/10/2026 no canal 2 (youtu.be/5VryqAW8h-4, no ar como \"Esses caras estão construindo o Batmóvel na vida real\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 5 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -300,7 +300,7 @@
    "name": "SHORT MP2 - Esse cara transformou um PS2 que não lia disco num portátil que roda o disco original",
    "titulo_roteiro": "SHORT MP2: o PS2 quebrado que virou portátil",
    "description": "Short do MP2 (pauta P45 do Sonar). O James pegou um PS2 quebrado, que não lia disco, e decidiu fazer dele um portátil que roda o disco original. Pra rodar o disco, o leitor tinha que voltar: ele regulou com um programa p",
-   "status": "gravado (voz gravada pelo Murilo em 29/10; a fala final é a gravada)",
+   "status": "publicado em 10/11/2026 no canal 2 (youtu.be/_YCpqe5Uxuc, no ar como \"Esse cara tá tentando transformar um PS2 quebrado num portátil\"); conferido pela API em 14/11 (Lente); antes: gravado (voz gravada pelo Murilo em 29/10; a fala final é a gravada)",
    "gate": "versão 2 (18/10, história guiada no MP2): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; interrogatório e leitor Murilo feitos; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
@@ -692,7 +692,7 @@
    "name": "SHORT - Esse cara criou uma arma nova dentro do Subnautica pra caçar o Reaper",
    "titulo_roteiro": "SHORT: a arma que ele inventou contra o Reaper",
    "description": "Short-isca do longo dos 34 leviatãs sem veículo (The Last Bacon; pedido do Farol, R18). Versão 3 (28/10), ângulo novo pedido pelo Murilo: o gás como munição ele já fez no canal; o novo é a ferramenta que dispara o gás, o",
-   "status": "gravação feita (Murilo, 2026-11-04, 19 de 19 no Gravar; roteiro aprovado em 30/10, versão 8 com a R37) · vídeo aprovado em 05/11 · saída depois do longo dos 34 leviatãs estar público (Murilo, 05/11), no principal",
+   "status": "publicado em 10/11/2026 no canal principal (youtu.be/wGVF6ThIv9I, no ar como \"Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica\"); conferido pela API em 14/11 (Lente); antes: gravação feita (Murilo, 2026-11-04, 19 de 19 no Gravar; roteiro aprovado em 30/10, versão 8 com a R37) · vídeo aprovado em 05/11 · saída depois do longo dos 34 leviatãs estar público (Murilo, 05/11), no principal",
    "gate": "os portões (fontes 43/0, fluidez, erros repetidos, leigo e Crivo) valeram pro texto da versão 8, que foi pro Gravar; a versão 9 é a fala que ele gravou em 04/11, e o checar_fluidez reprova pela R37 nas repetições dele (\"Reaper\" 2x, \"foram\" 2x), o que fica registrado na comparação e não se corrige",
    "video_id": null,
    "publicado_em": null,
@@ -776,14 +776,14 @@
    "name": "SHORT - O Blanka do Street Fighter nem era pra ser brasileiro, no começo ele era um africano criado por leão",
    "titulo_roteiro": "SHORT: o Blanka nem era pra ser brasileiro",
    "description": "Short do canal principal (pauta aprovada do Backlog, filme do Street Fighter com o Jason Momoa de Blanka estreando em 15/10/2026). A primeira ideia do Blanka, num rascunho de 1988, era um africano chamado Anabebe criado ",
-   "status": "roteiro aprovado (Murilo no chat, 12/10: \"produz aí o do Street Fighter\"; grava com a voz dele no /gravar)",
+   "status": "publicado em 15/10/2026 no canal principal (youtu.be/KjX2UtWiO7A, no ar como \"O produtor do Street Fighter pediu desculpas ao Brasil pelo Blanka\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (Murilo no chat, 12/10: \"produz aí o do Street Fighter\"; grava com a voz dele no /gravar)",
    "gate": "portão de fontes, de fluidez e de pauta APROVADOS 2026-10-11 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py); OK do Murilo em 2026-10-12",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "1",
-   "fonte_yt": "3mjOnR7Gi84"
+   "fonte_yt": "KjX2UtWiO7A"
   },
   {
    "arquivo": "short-capsula-10-mil-metros-dono-foto-da-base.md",
@@ -832,14 +832,14 @@
    "name": "SHORT - Iam derreter esses cartuchos do Mario pelo ouro e ninguém sabia o que tinha na caixa",
    "titulo_roteiro": "SHORT: os cartuchos do Mario que iam ser derretidos",
    "description": "Short de uns 2min30 (versão 3, 11/10: o mesmo conteúdo em narração corrida, sem o pedido de comentário no fim; P1 do Backlog, rodada Sonar 29/09). Caixa de 100 Super Mario Bros./Duck Hunt que ia ser derretida pelo ouro d",
-   "status": "roteiro aprovado (versão 3 de 11/10: o mesmo conteúdo em narração corrida, revisão de português pedida no react; o Murilo aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 27/10/2026 no canal 2 (youtu.be/lybLU6Q9xV8, no ar como \"Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 3 de 11/10: o mesmo conteúdo em narração corrida, revisão de português pedida no react; o Murilo aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 3); o conteúdo foi aprovado pelo Murilo em 2026-09-30",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "3",
-   "fonte_yt": null
+   "fonte_yt": "lybLU6Q9xV8"
   },
   {
    "arquivo": "short-collector-preso-onde-nasce-subnautica-2.md",
@@ -902,21 +902,21 @@
    "name": "SHORT - Ela matou o chefe mais difícil de Elden Ring pisando num tapete de dança",
    "titulo_roteiro": "SHORT: a Malenia morta num tapete de dança, no level 1",
    "description": "Short do canal principal (pauta P6). A MissMikkaa enfrenta a Malenia, o chefe considerado o mais difícil do Elden Ring, com os pés num tapete de dança e no level 1. A Malenia se cura a cada golpe que acerta, e no level 1",
-   "status": "roteiro aprovado (versão 3 aprovada pelo Murilo em 25/10; texto no Gravar)",
+   "status": "publicado em 03/11/2026 no canal principal (youtu.be/YAXA2f5lzMs, no ar como \"Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 3 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima das lives dela)",
    "motor": null,
    "versao": "3",
-   "fonte_yt": "Bi6SABpXjqM"
+   "fonte_yt": "YAXA2f5lzMs"
   },
   {
    "arquivo": "short-ellie-invisivel-tlou.md",
    "name": "SHORT 2 - A Ellie é invisível pros inimigos e a Naughty Dog chamou isso de trapaça",
    "titulo_roteiro": "SHORT 2: a Ellie invisível",
    "description": "Short de 65 a 75s sobre The Last of Us: quando o jogador está em furtividade, os companheiros ficam invisíveis para os NPCs inimigos. O engenheiro da Naughty Dog publicou isso num capítulo cuja seção se chama \"Cheating\",",
-   "status": "pronto-pra-gravar",
+   "status": "parado desde 27/09 (nunca foi pro Gravar): sem tabela de fonte literal nem Crivo, e fora do Subnautica vai pro canal 2 desde 10/11; volta pela fila do Arpão (reescrever com fonte, depois Crivo e Gravar); antes: pronto-pra-gravar",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -1070,35 +1070,35 @@
    "name": "SHORT - Esse cara fez a luva do Homem-Aranha subir parede de verdade e foi mostrar pro Tom Holland",
    "titulo_roteiro": "SHORT: a luva do Homem-Aranha que não gruda em nada",
    "description": "Short de uns 2min50 (versão 5, 11/10: a pergunta que o Murilo ditou depois do material que não gruda e o português revisado; antes, versão 3, 05/10: narração corrida e a ordem das versões corrigida, pedidos do Murilo; co",
-   "status": "roteiro aprovado (versão 5 de 11/10, com o texto que o Murilo ditou no react; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 13/10/2026 no canal 2 (youtu.be/GzZE02iibIA, no ar como \"Esse cara tá tentando ser o Homem-Aranha com tecnologia de lagartixa\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 5 de 11/10, com o texto que o Murilo ditou no react; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 5)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "5",
-   "fonte_yt": "7nFvNCybmd4"
+   "fonte_yt": "GzZE02iibIA"
   },
   {
    "arquivo": "short-machado-kratos-forjado.md",
    "name": "SHORT - O primeiro projeto desse cara foi o machado do Kratos, e agora ele forjou o de verdade",
    "titulo_roteiro": "SHORT: o machado do Kratos forjado de verdade",
    "description": "Short do canal principal (pauta P43 do Sonar). A HammerForge faz de verdade o machado do Kratos na versão final do God of War, com todas as melhorias; não basta ser bonito, tem que funcionar, e no fim ele põe o machado à",
-   "status": "roteiro aprovado (versão 4 aprovada pelo Murilo em 25/10; texto no Gravar)",
+   "status": "publicado em 30/10/2026 no canal principal (youtu.be/PBw5xlifJpM, no ar como \"Esse cara fez o machado do Kratos na vida real e quebra até tijolo\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 4 aprovada pelo Murilo em 25/10; texto no Gravar)",
    "gate": "versão 2 (18/10, voz real padrões 1 a 20, só a fala): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-18; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima do vídeo da HammerForge, que é só imagem e música)",
    "motor": null,
    "versao": "4",
-   "fonte_yt": "AbJQPxdleGg"
+   "fonte_yt": "PBw5xlifJpM"
   },
   {
    "arquivo": "short-menderbug-hollow-knight.md",
    "name": "SHORT 1 - O bicho mais feliz de Hollow Knight é feliz porque você quebra a placa dele",
    "titulo_roteiro": "SHORT 1: o Menderbug",
    "description": "Short de 70 a 80s sobre o Menderbug: 2% de chance de aparecer, conserta a placa que o jogador quebra, o diário dele em Dirtmouth mostra que ele era o ser mais feliz de Hallownest por causa disso, e matar ele deixa a plac",
-   "status": "pronto-pra-gravar",
+   "status": "parado desde 27/09 (nunca foi pro Gravar): sem tabela de fonte literal nem Crivo, e fora do Subnautica vai pro canal 2 desde 10/11; volta pela fila do Arpão (reescrever com fonte, depois Crivo e Gravar); antes: pronto-pra-gravar",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
@@ -1140,14 +1140,14 @@
    "name": "SHORT - Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween dela",
    "titulo_roteiro": "SHORT: a fantasia de Halloween que virou a moto do Mario Kart World de verdade",
    "description": "Short de uns 2min40 a 3min (versão 7, 15/10: duas frases do vídeo pronto trocadas pelo jeito que o Murilo falou, 0:19 e 0:38; antes, versão 6 de 11/10, o ângulo que ele ditou no react, MT1). A internet ficou obcecada pel",
-   "status": "roteiro aprovado (versão 7 de 15/10, só as frases de 0:19 e 0:38 trocadas a pedido do Murilo no vídeo pronto; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 22/10/2026 no canal 2 (youtu.be/F3kaiclPuWw, no ar como \"Ela teve que construir a moto do Mario Kart World pra fantasia de Halloween\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 7 de 15/10, só as frases de 0:19 e 0:38 trocadas a pedido do Murilo no vídeo pronto; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-15 (conferir_fontes.py e checar_fluidez.py, versão 7)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "7",
-   "fonte_yt": "vbM31wagyRg"
+   "fonte_yt": "F3kaiclPuWw"
   },
   {
    "arquivo": "short-nadadeira-4-horas-receitas-embaralhadas.md",
@@ -1182,14 +1182,14 @@
    "name": "SHORT - Esse francês decidiu imprimir o maior Pokémon da primeira geração em tamanho real",
    "titulo_roteiro": "SHORT: o Onix de 8,8 metros impresso em 3D",
    "description": "Short do canal principal, 3 de 3 do desmembramento do Pokémon impresso em 3D (versão 7, 18/10: o Murilo, gravando, pediu o COMO (impresso em pedaços, pedra por pedra, nas impressoras gigantes) e o trecho da montagem com ",
-   "status": "roteiro aprovado (versão 6 de 16/10, com o texto que o Murilo aprovou no chat depois do react do vídeo #15; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 24/10/2026 no canal 2 (youtu.be/6Syk3Iw5E0U, no ar como \"Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira geração\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 6 de 16/10, com o texto que o Murilo aprovou no chat depois do react do vídeo #15; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-18 (conferir_fontes.py 27 de 27 e checar_fluidez.py com a R17, versão 7)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "7",
-   "fonte_yt": null
+   "fonte_yt": "6Syk3Iw5E0U"
   },
   {
    "arquivo": "short-pokebola-subnautica-leviata.md",
@@ -1210,14 +1210,14 @@
    "name": "SHORT - Esse cara tá fazendo uma Pokébola diferente pra cada Pokémon, sorteado numa roleta",
    "titulo_roteiro": "SHORT: uma Pokébola diferente pra cada Pokémon",
    "description": "Short do canal principal, 1 de 3 do desmembramento do Pokémon impresso em 3D (versão 4, 11/10: os textos que o Murilo ditou no react; a história de uma pessoa com uma missão). O dono da Breakroom Collectibles narra a mis",
-   "status": "roteiro aprovado (versão 4 de 11/10, com os textos que o Murilo ditou no react; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 29/10/2026 no canal 2 (youtu.be/weC-ObCZ7Xw, no ar como \"Esse cara tá tentando transformar o quarto inteiro numa Pokédex\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 4 de 11/10, com os textos que o Murilo ditou no react; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 4)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "4",
-   "fonte_yt": null
+   "fonte_yt": "weC-ObCZ7Xw"
   },
   {
    "arquivo": "short-pokemon-mais-impresso-3d-cubone.md",
@@ -1238,14 +1238,14 @@
    "name": "SHORT - A Pokémon nunca tinha feito um show assim em 30 anos, e o Groudon e o Kyogre lutaram no telão",
    "titulo_roteiro": "SHORT: o show da Pokémon com o Marshmello",
    "description": "Short do canal principal (pauta P90 do Sonar, liberada pelo Murilo em 25/10 como exceção à fila cheia do C64), no MODO NOTÍCIA (R29). O Pokémon Night Out, em 24/10/2026 no Intuit Dome, em Los Angeles, com o Marshmello, n",
-   "status": "roteiro aprovado (versão 1 aprovada pelo Murilo em 27/10; texto no Gravar)",
+   "status": "publicado em 31/10/2026 no canal principal (youtu.be/1QprFcx4k8I, no ar como \"Pokémon x Marshmello: os lendários lutaram no telão no meio do show\") e no canal 2 em 08/11/2026 18:00 (youtu.be/s_TWIGeMQWc); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 1 aprovada pelo Murilo em 27/10; texto no Gravar)",
    "gate": "versão 1: portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-25; conferente separado rodou; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da live oficial da Pokémon e dos vídeos da plateia)",
    "motor": null,
    "versao": "1",
-   "fonte_yt": null
+   "fonte_yt": "1QprFcx4k8I"
   },
   {
    "arquivo": "short-psyduck-senha-dor-de-cabeca.md",
@@ -1420,28 +1420,28 @@
    "name": "SHORT - Ele afundou o mapa de Subnautica 10 mil metros e achou a mensagem de outro jogador",
    "titulo_roteiro": "SHORT: a mensagem de outro jogador a 10 mil metros de profundidade",
    "description": "Short de uns 2min50 (versão 6, 11/10: os textos que o Murilo ditou no react, os termos como ele fala, a tradução inteira da mensagem e o fecho dele, alarme falso; antes, versão 4, 05/10: profundidade da cápsula corrigida",
-   "status": "roteiro aprovado (versão 6 de 11/10, com os textos que o Murilo ditou nos reacts de 10/10 e 11/10; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 16/10/2026 no canal principal (youtu.be/CZbwiBSKafE, no ar como \"Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro jogador\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 6 de 11/10, com os textos que o Murilo ditou nos reacts de 10/10 e 11/10; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 6)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "6",
-   "fonte_yt": "vtK6Lmdws0E"
+   "fonte_yt": "CZbwiBSKafE"
   },
   {
    "arquivo": "short-subnautica-10km-coral-ar.md",
    "name": "SHORT - Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
    "titulo_roteiro": "SHORT: a 10 km de profundidade, ele respira plantando coral",
    "description": "Short de uns 2min20 (versão 5, 18/10: o bloco 6 (a sacada) aberto pelo Murilo na hora de gravar, com a necessidade, a mecânica das bolhas e por que foi brilhante; versão 4, 16/10: os textos que o Murilo aprovou no chat d",
-   "status": "roteiro aprovado (versão 5 de 18/10, a fala gravada pelo Murilo; antes versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 22/10/2026 no canal principal (youtu.be/C6wqfeLVQ1s, no ar como \"Esse cara tá tentando zerar Subnautica com o oxigênio acabando rápido\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 5 de 18/10, a fala gravada pelo Murilo; antes versão 4 de 16/10, com os textos que o Murilo aprovou no chat depois do react do vídeo #14; ele grava com a voz dele e aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "versão 5 (18/10): fontes APROVADO (conferir_fontes.py, 40 de 40 e 1 conta, Arpão f3ee2fb3, com a fala gravada do bloco 4). Fluidez: R17 e R7 OK, mas 59% das frases ligadas à anterior (o mínimo é 60%), porque o bloco 6 novo é o texto que o Murilo ditou e já gravou (e a frase da sacada, que ele não gravou, saiu). Fica assim, sem reescrever a fala dele; ele aprova vendo o vídeo (C39). Versão 4: fontes e fluidez APROVADOS 2026-10-16.",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "5",
-   "fonte_yt": "vtK6Lmdws0E"
+   "fonte_yt": "C6wqfeLVQ1s"
   },
   {
    "arquivo": "short-subnautica-37-peixes-lost-river.md",
@@ -1504,14 +1504,14 @@
    "name": "SHORT - Ele zerou Subnautica no hardcore sem comer nada usando uma mecânica escondida",
    "titulo_roteiro": "SHORT: zerou Subnautica sem comer, e a cadeira que para a fome",
    "description": "Short de uns 2min35 (versão 7, 11/10: o gancho na ordem que o Murilo ditou, \"ele parou de tomar dano\" e o fecho com as palavras dele; antes, versão 5, 07/10: frases sem explicação no meio, redundância onde ajuda e o Sea ",
-   "status": "roteiro aprovado (versão 7 de 11/10, com os textos que o Murilo ditou nos reacts de 10/10 e 11/10; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
+   "status": "publicado em 19/10/2026 no canal principal (youtu.be/uPbMO5a3DLk, no ar como \"Esse cara descobriu uma mecânica escondida pra zerar o Subnautica\"); conferido pela API em 14/11 (Lente); antes: roteiro aprovado (versão 7 de 11/10, com os textos que o Murilo ditou nos reacts de 10/10 e 11/10; ele aprova vendo o vídeo, C39, sem passar pelo Decidir)",
    "gate": "portão de fontes e de fluidez APROVADOS 2026-10-11 (conferir_fontes.py e checar_fluidez.py, versão 7)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "7",
-   "fonte_yt": "SZf3jscSKgE"
+   "fonte_yt": "uPbMO5a3DLk"
   },
   {
    "arquivo": "short-templo-das-sombras-zelda.md",
@@ -1532,28 +1532,28 @@
    "name": "SHORT - Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
    "titulo_roteiro": "SHORT: o traje de FNAF que fecha em quem veste",
    "description": "Short de uns 2 minutos e 40 (pauta P41 do Sonar, 18/10, família \"impossível com as próprias mãos\"; saiu da data do Halloween em 29/10). O JLaservideo já tinha um traje de aranha que aperta sozinho e, de tanto pedido dos ",
-   "status": "voz gravada em 05/11 (edição com a Tesoura); roteiro aprovado (30/10 01:14, versão 8; versão 9 só com 2 trocas da R37 antes de gravar, APROVADO PELO CRIVO em 30/10 e já trocada no Gravar (trechos 4 e 17); texto no Gravar com 21 frases, projeto short_traje_fnaf_boneco)",
+   "status": "publicado em 12/11/2026 no canal 2 (youtu.be/fmRy7htiKf8, no ar como \"Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares\"); conferido pela API em 14/11 (Lente); antes: voz gravada em 05/11 (edição com a Tesoura); roteiro aprovado (30/10 01:14, versão 8; versão 9 só com 2 trocas da R37 antes de gravar, APROVADO PELO CRIVO em 30/10 e já trocada no Gravar (trechos 4 e 17); texto no Gravar com 21 frases, projeto short_traje_fnaf_boneco)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1",
    "motor": null,
    "versao": "14",
-   "fonte_yt": "npUTv0xltTM"
+   "fonte_yt": "fmRy7htiKf8"
   },
   {
    "arquivo": "short-traje-homem-aranha-bracos-octopus.md",
    "name": "SHORT - Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
    "titulo_roteiro": "SHORT: o traje do Homem-Aranha com os braços do Doutor Octopus, de papelão",
    "description": "Short de jornada de uns 2 minutos e 55 pro canal 2 (pauta P99 do Sonar, aprovada pelo Murilo em 03/11). O Schizo, que já faz roupas do Homem-Aranha com lançador de teia de verdade, quis o traje do Homem-Aranha Superior, ",
-   "status": "roteiro aprovado (o Murilo gravou as 17 frases em 10/11; a versão 14 é o texto que ficou no Gravar, com as 5 frases que ele mudou gravando, sem a última frase, que a edição corta por decisão do Crivo; projeto short_traje_octopus_papelao)",
+   "status": "agendado no canal 2 pra sáb 14/11/2026 18:00 (youtu.be/F7HiSnCGUi0), conferido pela API em 14/11 (Lente); antes: roteiro aprovado (o Murilo gravou as 17 frases em 10/11; a versão 14 é o texto que ficou no Gravar, com as 5 frases que ele mudou gravando, sem a última frase, que a edição corta por decisão do Crivo; projeto short_traje_octopus_papelao)",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP2 (canal 2), jornada de mais de 1 min (R38)",
    "motor": null,
    "versao": "14",
-   "fonte_yt": "WOoCYeHTB4k"
+   "fonte_yt": "F7HiSnCGUi0"
   },
   {
    "arquivo": "short-trem-minecraft-de-verdade-escritorio.md",
@@ -1616,14 +1616,14 @@
    "name": "roteiro-sn2-cherimoya-rotsac",
    "titulo_roteiro": "A \"FRUTA\" DE SUBNAUTICA 2 QUE TE ENGRAVIDA POR DENTRO 🤢",
    "description": "Short SN2 — a Cherimoya Rotsac parece fruta mas é animal; o scan (seção \"enteric reproduction\") diz que ela se reproduz dentro do teu trato digestivo (te \"engravida\"). Esqueleto de criatura. Pauta S5. ⚠️ Saif fez (2.6M) ",
-   "status": "pronto-pro-editor",
+   "status": "publicado em 13/10/2026 no canal principal (youtu.be/KYi45DujK_A, no ar como \"Essa fruta de Subnautica 2 é um bicho que faz filhotes dentro da sua barriga\"); conferido pela API em 14/11 (Lente); antes: pronto-pro-editor",
    "gate": "",
    "video_id": null,
    "publicado_em": null,
    "formato": null,
    "motor": null,
    "versao": null,
-   "fonte_yt": null
+   "fonte_yt": "KYi45DujK_A"
   },
   {
    "arquivo": "sn2-coral-crab.md",
