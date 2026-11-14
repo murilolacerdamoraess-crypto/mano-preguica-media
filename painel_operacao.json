@@ -3941,8 +3941,10 @@
    "video": "Obra Absurda vídeo 6: Cristo Redentor",
    "o_que": "assistir o vídeo 6 do Obra Absurda, os 6 milhões de triângulos de pedra do Cristo Redentor (96 s, recorte de papel). A imagem já passou no Crivo. Ouvir o r de 'recados' em 1:04,9 e em 1:15,5 e o de 'raios' em 1:21,4: a máquina não conseguiu medir esse r (errou até a sua voz de controle), então quem decide se soou natural é você. Se aprovar, o Periscópio agenda direto pra sexta 13/11 às 18h",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
+   "status": "cancelada",
+   "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs",
+   "fechada_em": "2026-11-14T18:06-03:00",
+   "nota": "Murilo decretou o fim do Obra Absurda em 14/11 (\"sim pode ser assim\"): produção parada, os 5 vídeos publicados ficam no ar, o vídeo 6 não sai"
   },
   {
    "id": "p218",
@@ -4037,5 +4039,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T17:17-03:00"
+ "gerado_em": "2026-11-14T18:06-03:00"
 }
