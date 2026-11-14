@@ -2392,7 +2392,7 @@
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio; o título final você escolheu em 10/11: \"Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa\"; a capa da torre saiu a seu pedido (12/11): 3 capas novas com os lendários que você enfrentou estão sendo feitas e chegam pra você escolher junto com o vídeo ajustado; o vídeo inteiro chega pra você assistir até sex 13/11 ao meio-dia e a saída passou pra dom 15/11 às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir a amostra e dizer o que muda",
+   "falta_murilo": "liberar o render da v3",
    "prazo": "qua 11/11"
   },
   {
@@ -2432,15 +2432,7 @@
    "titulo": "Afundei o Subnautica 10 mil metros",
    "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min; o teste no PC e a sessão só a partir de 16/11, quando você volta, e a saída fica pra depois do Void, por volta de seg 07/12)",
    "responsavel": "Farol",
-   "falta_murilo": "nada por enquanto (o pedido de gravar chega depois do teste)",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Ele tá tentando zerar Subnautica a 10 km de profundidade, só que o ar acaba em segundos",
-   "etapa": "publicado (o Murilo disse em 22/10 que já está no ar; a linha estava parada em \"pronto pra você assistir\")",
-   "responsavel": "Leme",
-   "falta_murilo": "",
+   "falta_murilo": "rodar o teste do mod no PC quando voltar (uns 15 min, num save de teste)",
    "prazo": ""
   },
   {
@@ -2518,10 +2510,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "edição (a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
+   "etapa": "edição (14/11: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir a v2 do Reaper de LEGO e dizer se aprova ou o que muda",
-   "prazo": "qui 12/11 12h"
+   "prazo": "ter 24/11"
   },
   {
    "tipo": "Short",
@@ -2720,7 +2712,7 @@
    "titulo": "Até a água do Subnautica 2 te envenena, e o jogo te dá só alguns meses de vida",
    "etapa": "roteiro (versão 2 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10): o perigo escondido que só aparece pra quem pesquisa, metal tóxico na água e na comida, a biocama que não tira tudo, os \"alguns meses\" do próprio jogo e a saída que ele recomenda sem dizer onde achar; uns 1min55, voz sua)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "decidir se espera você gravar a tela da pesquisa do metal no seu jogo ou engaveta o roteiro",
    "prazo": ""
   },
   {
@@ -2774,7 +2766,7 @@
   {
    "tipo": "Short",
    "titulo": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
-   "etapa": "narração, texto no Gravar com 9 frases (uns 1:40; principal; sai na semana de 23/11, sem pressa pra gravar (você decidiu em 14/11); o boato da estátua do 2401, a carta da Nintendo negando, e o Luigi achado nos arquivos que vazaram em 2020)",
+   "etapa": "narração, texto no Gravar com 9 frases (uns 1:40; principal; sai qui 26/11 às 18h (semana de 23/11; a qua 25 ficou com o Reaper de LEGO), sem pressa pra gravar (você decidiu em 14/11); o boato da estátua do 2401, a carta da Nintendo negando, e o Luigi achado nos arquivos que vazaram em 2020)",
    "responsavel": "Arpão",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2833,38 +2825,6 @@
    "etapa": "narração, texto no Gravar com 16 frases (versão 1, aprovada pelo Crivo em 12/11; o mesmo cara da luva de lagartixa acha uma gosma que gruda na hora, gruda numa van, troca a rede que virava bola por um dardo que abre como guarda-chuva, arranca a parede, faz um pegador pra mão e se balança no teto de uma mansão; uns 2:30, com os quadros do vídeo dele no topo e em cada frase)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
-   "prazo": ""
-  },
-  {
-   "tipo": "Longo",
-   "titulo": "PokéBonk 2, o do Gengar (canal 2)",
-   "etapa": "agendado no canal 2 (qua 28/10 às 18h, você programou em 28/10 e a data foi conferida no Studio; studio.youtube.com/video/WbRVuO0FjwI/edit): vídeo processado em HD, descrição com 16 capítulos, 12 tags, monetização ativa e verificação sem problemas, tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 1 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, boneco do Gengar, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Fiz a build de Gengar mais insana contra o lendário Moltres | PokéBonk\") já no rascunho; capa escolhida (A, o Gengar gigante atrás de você, torcendo) já no rascunho; data: qua 28/10 às 18h (PokéBonk dia sim, dia não desde o 1: PB2 qua 28, PB3 sex 30, PB4 dom 1/11, PB5 ter 3/11, intercalando com o cartucho na ter 27 e a Pokédex na qui 29)",
-   "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Longo",
-   "titulo": "PokéBonk 3, o do Bellsprout (canal 2)",
-   "etapa": "agendado no canal 2 (sex 30/10 às 18h, você programou em 28/10 e a data foi conferida no Studio; studio.youtube.com/video/-hIM2SKNGDk/edit): vídeo processado em HD, arquivo final de 50:49 aprovado no portão de áudio (-17,4 LUFS), descrição com 11 capítulos, 12 tags, monetização ativa e verificação sem problemas, tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 2 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, miniaturas de Bellsprout, Weepinbell e Victreebel, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 2, \"Será possível vencer o lendário Zapdos com um Bellsprout? | PokéBonk\") já no rascunho; capa escolhida (A, a plantinha pequena contra a ave gigante, e você apontando) no vídeo; data: sex 30/10 às 18h",
-   "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Longo",
-   "titulo": "PokéBonk 4, o do Nidoking (canal 2)",
-   "etapa": "agendado no canal 2 (dom 1/11 às 18h, você programou em 29/10 e a data foi conferida no Studio; studio.youtube.com/video/jX5ncEppSYs/edit): vídeo processado em HD, arquivo final de 62:57 aprovado no portão de áudio (-18,2 LUFS), descrição com 14 capítulos, 12 tags, monetização ativa e direitos autorais sem problema (a checagem de anúncios termina sozinha), tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 3 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, Meta Quest 3S, miniaturas de Nidoran, Nidorino e Nidoking, Pokémon Legends Z-A), opções automáticas desligadas; título escolhido no Decidir (opção 1, \"Meu Nidoking ficou absurdo contra o lendário Articuno | PokéBonk\") já no rascunho; capa escolhida (A nova, o Articuno enorme num fim de tarde laranja) no vídeo; data: dom 1/11 às 18h",
-   "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Longo",
-   "titulo": "PokéBonk 5, o do Marowak (canal 2)",
-   "etapa": "agendado no canal 2 (ter 3/11 às 18h, você programou em 28/10 e a data foi conferida no Studio; studio.youtube.com/video/gkzwpfJKphk/edit): arquivo final de 55:41 aprovado no portão de áudio (-17,8 LUFS, sem corte), descrição com 13 capítulos, 12 tags, monetização ativa e direitos autorais sem problema (a checagem de anúncios e o HD terminam sozinhos), tela final (inscrição, melhor para o espectador, canal principal e o PokéBonk 1), cards (canal aos 5:00, playlist POKEBONK aos 17:00, PokéBonk 4 aos 30:00, Todos os vídeos aos 50:00), 4 produtos (R36S, figura do Marowak, Pokémon Legends Z-A, Meta Quest 3S), opções automáticas desligadas; título escolhido no Decidir (opção 2, \"Até onde um Cubone consegue subir na Torre Lavender? | PokéBonk\") já no rascunho; capa escolhida (A, a torre gigante e o Cubone pequeno na porta, e você desconfiado) no vídeo; b: o Marowak e os fantasminhas); data: ter 3/11 às 18h",
-   "responsavel": "Leme",
-   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -3929,7 +3889,7 @@
    "aberta_em": "2026-11-12T01:14-03:00",
    "agente": "Tesoura",
    "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "o_que": "assistir a v2 do Short do Reaper de LEGO (1:58), com a sua voz regravada, e dizer se aprova ou o que muda; aprovando até o meio-dia, sai hoje às 18h",
+   "o_que": "assistir a v2 do Short do Reaper de LEGO (1:58), com a sua voz regravada, e dizer se aprova ou o que muda; aprovando, sai qua 25/11 às 18h no principal",
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum"
@@ -3969,7 +3929,7 @@
    "aberta_em": "2026-11-12T02:17-03:00",
    "agente": "Tesoura",
    "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "o_que": "assistir o Short do Wakemaker (2:10) e dizer se aprova ou o que muda; sai sáb 14/11 às 18h",
+   "o_que": "assistir o Short do Wakemaker (2:10) e dizer se aprova ou o que muda; aprovando hoje (14/11) à noite, sai dom 15/11 às 18h (sobe a versão 2, que corrige o fundo borrado)",
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw"
@@ -4064,5 +4024,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T16:49-03:00"
+ "gerado_em": "2026-11-14T16:58-03:00"
 }
