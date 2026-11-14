@@ -2662,9 +2662,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-   "etapa": "roteiro (escrevendo a versão 6 em 14/11 pelas regras de hoje, 2º na ordem do Sextante: molde de jornada com 378 palavras, quadros do topo, pergunta do fã e o bicho que ataca o submarino sem nome, porque não é o Ghost)",
+   "etapa": "narração, texto no Gravar com 21 frases (uns 2:35, principal; versão 6 revista em 14/11 e APROVADO PELO CRIVO; o bicho que ataca o submarino agora fica sem nome, porque não era o Ghost; topo de 5 quadros)",
    "responsavel": "Arpão",
-   "falta_murilo": "nada por enquanto (depois do Crivo vai pro Gravar)",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4024,7 +4024,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
+  },
+  {
+   "id": "p222",
+   "aberta_em": "2026-11-14T15:02-03:00",
+   "agente": "Arpão",
+   "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
+   "o_que": "gravar a voz das 21 frases (principal, uns 2:35; a youtuber que começou no meio do Void e subiu 700 metros com o ar no limite)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-void-700-metros-subida.md@v6"
   }
  ],
- "gerado_em": "2026-11-14T15:01-03:00"
+ "gerado_em": "2026-11-14T15:02-03:00"
 }
