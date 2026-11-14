@@ -2518,7 +2518,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "edição (14/11: a versão que está no Assistir tem 12 trechos com o vídeo borrado atrás, o que o molde proíbe; a versão 2 corrigida está saindo e troca a de lá; se você assistir antes, o conteúdo é o mesmo e é a versão 2 que sobe; antes: o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; não sai sáb 14; sai dom 15/11 às 18h se você aprovar hoje à noite)",
+   "etapa": "edição (14/11 noite: a versão 2, sem o vídeo borrado atrás, está no Assistir, aprovada pelo Crivo; se você aprovar hoje, sai dom 15/11 às 18h; antes: o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; não sai sáb 14; sai dom 15/11 às 18h se você aprovar hoje à noite)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir o Short do Wakemaker e dizer se aprova ou o que muda",
    "prazo": "sex 13/11"
@@ -2847,7 +2847,7 @@
  "navegador": [
   {
    "tipo": "14/11 14h10 Lente, pelo Maestro",
-   "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). **ATENÇÃO (14/11, Tesoura): sobe a V2 do Wakemaker (corrige 12 planos com fundo borrado), nunca a v1, e só depois de ela passar no portão \"borrado\" do crivo_auto (Crivo, 14/11); a Lente diz o arquivo exato quando a Tesoura entregar. Aprovação na v1 vale pra v2.** Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
+   "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). **ATENÇÃO (14/11, Tesoura): sobe a V2 do Wakemaker (corrige 12 planos com fundo borrado), nunca a v1, e só depois de ela passar no portão \"borrado\" do crivo_auto (Crivo, 14/11); ARQUIVO (14/11 noite, v2 aprovada pelo Crivo, md5 ac50a711): Drive `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara construiu o Wakemaker do Subnautica 2 de verdade.mp4` (id 17TDxji3uVArPom5s1nOPuCElF_6I5OaJ, 88.401.955 bytes). Só depois da aprovação do Murilo (p226); a Lente avisa aqui quando ela chegar.** Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3931,8 +3931,10 @@
    "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
    "o_que": "assistir o Short do Wakemaker (2:10) e dizer se aprova ou o que muda; aprovando hoje (14/11) à noite, sai dom 15/11 às 18h (sobe a versão 2, que corrige o fundo borrado)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw"
+   "status": "cancelada",
+   "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw",
+   "fechada_em": "2026-11-14T19:48-03:00",
+   "nota": "v1 substituída pela v2 (correção do molde: fundo borrado no modo foco), Tesoura 14/11"
   },
   {
    "id": "p217",
@@ -4039,7 +4041,17 @@
     "Libera o render",
     "Segura mais"
    ]
+  },
+  {
+   "id": "p226",
+   "aberta_em": "2026-11-14T19:48-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "o_que": "assistir a v2 do Short do Wakemaker (2:10) e dizer se aprova ou o que muda; é a v1 com os 12 trechos que tinham o vídeo borrado atrás agora na moldura com o fundo de impressora (se você já aprovou a v1, vale pra esta)",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:17TDxji3uVArPom5s1nOPuCElF_6I5OaJ"
   }
  ],
- "gerado_em": "2026-11-14T19:31-03:00"
+ "gerado_em": "2026-11-14T19:49-03:00"
 }
