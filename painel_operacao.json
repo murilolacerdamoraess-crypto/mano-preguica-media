@@ -2526,7 +2526,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "edição (o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; sai sáb 14/11 às 18h)",
+   "etapa": "edição (o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; não sai sáb 14; sai dom 15/11 às 18h se você aprovar hoje à noite)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir o Short do Wakemaker e dizer se aprova ou o que muda",
    "prazo": "sex 13/11"
@@ -2885,6 +2885,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "14/11 14h10 Lente, pelo Maestro",
+   "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. Não mexer sem o Maestro confirmar; se o Maestro mandar segurar, tirar a data antes das 18h (Leme acha o próximo dia livre do canal 2 sem colar em outro).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "12/11 Anzol",
    "titulo": "**TÍTULOS DO PRINCIPAL ESCOLHIDOS PELO MURILO (12/11 00h54-55, valem, Maestro confirmou), usar quando agendar:** bateria na lava (sai seg 16/11) = `Por que a bateria do submarino sumia tão rápido na lava do Subnautica?`; base inundada (sai qui 19/11) = `Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir`; extintor (sai sáb 21/11) = `Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor`; medo = `Em Subnautica, cada monstro tem o tamanho do seu medo` (data a confirmar). Descrição e tags: no roteiro de cada um, seção Embalagem. Capas: as do pedido de hoje na fila; só agendar com a capa que o Anzol passar. Conferir título até 100 caracteres.",
@@ -3914,5 +3922,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-14T14:05-03:00"
+ "gerado_em": "2026-11-14T14:07-03:00"
 }
