@@ -810,6 +810,22 @@
    "simples": "Confirma: a capa do canal 2 leva uma palavra ou um número em 3D, e o número só entra se diz sozinho o que é. Já é como todos saem; nada muda."
   },
   {
+   "id": "R102",
+   "titulo": "Começar o Short pelo que acontece no jogo, e não pela notícia, não vira regra: a hipótese fecha sem mudar nada.",
+   "onde": "nenhum (fecha a hipótese; a R29 do Short de notícia fica como está)",
+   "confianca": "fraca (C9: tudo que prova é Subnautica)",
+   "status": "aguardando",
+   "simples": "A ideia de que o Short prende mais quando começa pelo que acontece dentro do jogo do que pela notícia não vira regra: todos os vídeos que provam são de Subnautica, então pode ser o jogo e não a frase. Proposta: fechar sem mudar nada. O Short de notícia continua abrindo pela pergunta que todo mundo faria (R29)."
+  },
+  {
+   "id": "R103",
+   "titulo": "No canal 2, o Short tem no centro um jogo ou personagem que o público reconhece sem explicação, variando a franquia.",
+   "onde": "role do Sonar (já faz desde 10/11, nome reconhecido com prova; R92)",
+   "confianca": "forte no resultado, e já é prática",
+   "status": "aguardando",
+   "simples": "Confirma o que o Sonar já faz desde 10/11: no canal 2, o Short tem no centro um jogo ou personagem que o público reconhece sem explicação (Hulk, Star Wars, Batman, One Punch Man, Pokémon), variando a franquia de um vídeo pro outro pra o canal não virar bolha. Nada muda."
+  },
+  {
    "id": "R104",
    "titulo": "Não vira regra abrir o Short com um número grande na primeira frase.",
    "onde": "nenhum (fecha a hipótese)",
