@@ -3919,8 +3919,10 @@
    "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão (canal 2)",
    "o_que": "apertar Programar no rascunho do Studio (sáb 14/11 às 18h): Editar rascunho, Visibilidade, Programar, 14 de nov., 18:00",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-14T14:07-03:00",
+   "nota": "aberta por engano pelo vigia em 14/11 lendo o quadro velho: a API mostra F7HiSnCGUi0 já programado pra sáb 14/11 18h (Murilo aprovou e programou em 12/11)"
   }
  ],
- "gerado_em": "2026-11-14T14:07-03:00"
+ "gerado_em": "2026-11-14T14:08-03:00"
 }
