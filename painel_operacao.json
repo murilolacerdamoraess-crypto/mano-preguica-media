@@ -2895,7 +2895,7 @@
   },
   {
    "tipo": "14/11 ~18h",
-   "titulo": "**pedido (Anzol): EXTINTOR DESTRAVADO, gerar as DUAS versões agora, depois da base com BUG. Quem faz: Periscópio.** O extintor (sáb 21/11) pode virar o 2º caso do teste T13, mas isso só se decide qui 19/11 18h, perto demais da saída. Por isso as duas versões saem já, e na quinta eu só escolho. Use o texto do item **(3) EXTINTOR** do pedido de 12/11 (mais abaixo), mesmas refs e anexos:",
+   "titulo": "**pedido (Anzol): EXTINTOR DESTRAVADO, gerar as DUAS versões agora, depois da base com BUG. Quem faz: Periscópio.** O extintor (sáb 21/11) pode virar o 2º caso do teste T13, mas isso só se decide qui 19/11 18h, perto demais da saída. Por isso as duas versões saem já, e na quinta eu só escolho. Use o texto do item **(3) EXTINTOR** do pedido de 12/11 (mais abaixo), mesmas refs e anexos: **FEITO 14/11 15h (Periscópio): em `Extintor Deathrun/`: COM palavra `CAPA EXTINTOR - Flow 1.png` e `Flow 2.png` (1 GOLPE amarelo 3D; na 1 a palavra encosta nos chifres da criatura, na 2 fica ao lado da boca); SEM palavra `Flow 3.png` e `Flow 4.png`. Criatura verde da ref com boca aberta e pontos laranja, extintor vermelho com jato, mar de lava, mão com luva, nada de texto acrescentado. ATENÇÃO na versão sem palavra: o extintor mostra letras pequenas do próprio rótulo (algo como \"RE\" e \"TION\" na lateral, vindo da ref) nas duas. Mão e extintor ficam grandes embaixo à direita, não medi em pixels.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2903,7 +2903,7 @@
   },
   {
    "tipo": "14/11 ~17h45",
-   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA COM PALAVRA (a base saiu do teste T13, decisão do Maestro). Quem faz: Periscópio, quando puder hoje.** Parte da Flow 9 e só acrescenta a palavra. Anexo: IMAGEM 1 = `CAPA BASE - Flow 9.png`. 1 geração x2, saída `CAPA BASE - Flow 13.png`/`Flow 14.png`, sem tratar.",
+   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA COM PALAVRA (a base saiu do teste T13, decisão do Maestro). Quem faz: Periscópio, quando puder hoje.** Parte da Flow 9 e só acrescenta a palavra. Anexo: IMAGEM 1 = `CAPA BASE - Flow 9.png`. 1 geração x2, saída `CAPA BASE - Flow 13.png`/`Flow 14.png`, sem tratar. **FEITO 14/11 15h (Periscópio): `Base inundada/CAPA BASE - Flow 13.png` e `Flow 14.png` (anexo Flow 9). As duas: BUG com as 3 letras em amarelo 3D com contorno escuro em cima do tubo, um tubo só, resto igual à Flow 9. A 14 tem as letras maiores e mais retas, com a sombra \"BUG\" no tubo; a 13 tem as letras menores e inclinadas. Não medi em pixels.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4018,5 +4018,5 @@
    "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
   }
  ],
- "gerado_em": "2026-11-14T14:52-03:00"
+ "gerado_em": "2026-11-14T14:56-03:00"
 }
