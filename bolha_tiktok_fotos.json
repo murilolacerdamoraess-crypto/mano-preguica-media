@@ -536,6 +536,10 @@
 {
 "t": 1794663344,
 "v": 260
+},
+{
+"t": 1794690548,
+"v": 260
 }
 ],
 "views": 260
@@ -729,7 +733,7 @@
 "v": 37800
 }
 ],
-"views": 48400
+"views": 48500
 },
 "7695518494489627925": {
 "titulo": "o jogo que o alien deveria ter copiado #alien #aliens #games #curiosi...",
@@ -875,7 +879,7 @@
 "v": 431
 }
 ],
-"views": 3172
+"views": 3184
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -929,7 +933,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 102200
+"views": 102300
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -947,13 +951,13 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1692
+"views": 1693
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
 "ts": 1787950909,
 "fotos": [],
-"views": 15400
+"views": 15500
 },
 "7678448329964965121": {
 "titulo": "o Shiver Leviathan fica MUITO pior de noite 😱 (Subnautica 2) #subnaut...",
@@ -977,13 +981,13 @@
 "titulo": "a criatura nova de subnautica 2 é toda coberta de um material estranh...",
 "ts": 1787173301,
 "fotos": [],
-"views": 3487
+"views": 3489
 },
 "7675108759273786641": {
 "titulo": "o leviatã que foi CORTADO do Subnautica 🌊 #subnautica #subnautica2 #g...",
 "ts": 1787000500,
 "fotos": [],
-"views": 2234
+"views": 2235
 },
 "7673995557148298514": {
 "titulo": "Sam Ayou: vítima ou vilã? você decide 🤔 #subnautica #subnautica2 #gam...",
@@ -1458,7 +1462,7 @@
 "v": 2752
 }
 ],
-"views": 4032
+"views": 4034
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2287,7 +2291,7 @@
 "v": 389
 }
 ],
-"views": 407
+"views": 409
 },
 "7700341318593039617": {
 "titulo": "Esse cara descobriu uma mecânica escondida pra zerar o Subnautica #su...",
@@ -3714,7 +3718,7 @@
 "v": 5996
 }
 ],
-"views": 6114
+"views": 6123
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4015,9 +4019,13 @@
 {
 "t": 1794682376,
 "v": 3447
+},
+{
+"t": 1794690548,
+"v": 3463
 }
 ],
-"views": 3447
+"views": 3463
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -4317,9 +4325,13 @@
 {
 "t": 1794682376,
 "v": 2213
+},
+{
+"t": 1794690548,
+"v": 2215
 }
 ],
-"views": 2213
+"views": 2215
 },
 "7706280079789214997": {
 "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #...",
@@ -4610,9 +4622,13 @@
 {
 "t": 1794682376,
 "v": 979
+},
+{
+"t": 1794690548,
+"v": 987
 }
 ],
-"views": 979
+"views": 987
 },
 "7707393570642201877": {
 "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #games...",
@@ -4685,9 +4701,13 @@
 {
 "t": 1794682376,
 "v": 12300
+},
+{
+"t": 1794690548,
+"v": 12500
 }
 ],
-"views": 12300
+"views": 12500
 },
 "7704797059660008712": {
 "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de danç...",
@@ -4716,9 +4736,24 @@
 {
 "t": 1794672871,
 "v": 89
+},
+{
+"t": 1794690548,
+"v": 91
 }
 ],
-"views": 89
+"views": 91
+},
+"7708135462845697301": {
+"titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper...",
+"ts": 1794690139,
+"fotos": [
+{
+"t": 1794690548,
+"v": 18
+}
+],
+"views": 18
 }
 }
 }
