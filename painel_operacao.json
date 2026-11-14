@@ -4034,7 +4034,33 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-void-700-metros-subida.md@v6"
+  },
+  {
+   "id": "p223",
+   "aberta_em": "2026-11-14T15:09-03:00",
+   "agente": "Tesoura",
+   "video": "Por que a bateria do submarino sumia tão rápido na lava do Subnautica? (principal, seg 16/11 18h)",
+   "o_que": "liberar a exceção da regra de disco (Mac com 23 GB, mínimo 40) só pra este Short, que usa uns 3 a 5 GB; sem isso até dom 15 à tarde a seg 16 fica sem vídeo no principal",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Libera a exceção",
+    "Não libera"
+   ]
+  },
+  {
+   "id": "p224",
+   "aberta_em": "2026-11-14T15:09-03:00",
+   "agente": "Arpão",
+   "video": "A água do Subnautica 2 envenena e tira meses de vida (roteiro parado)",
+   "o_que": "a tela da pesquisa do metal não aparece em nenhum vídeo do YouTube: esperar você gravar essa tela no seu jogo quando voltar pro PC (recomendado) ou engavetar",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Esperar eu gravar a tela",
+    "Engavetar"
+   ]
   }
  ],
- "gerado_em": "2026-11-14T15:02-03:00"
+ "gerado_em": "2026-11-14T15:09-03:00"
 }
