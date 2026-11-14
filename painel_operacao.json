@@ -2895,7 +2895,7 @@
   },
   {
    "tipo": "14/11 ~15h",
-   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 2 (sem palavra, teste T13). Quem faz: Periscópio, assim que puder.** As Flow 1 e 2 não passaram no portão: o propulsor ficou com 30 a 33% da altura (mínimo 45%) e embaixo, onde a interface do Short cobre; culpa do meu prompt, que pedia 30%. Na 2 também a janela mostra a superfície e o céu (o corredor está debaixo d'água) e o propulsor virou uma lente de câmera. Mesmas refs e anexos (IMAGEM 1 = `REF 1 o corredor da base cheio de agua, com o propulsor (Viscerface 8m18s).png`, IMAGEM 2 = `REF 2 o propulsor disparando no mar (Viscerface 8m21s).png`), 1 geração x2, saída `CAPA BASE - Flow 3.png`/`Flow 4.png`, sem tratar. Não apague a 1 e a 2.",
+   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 2 (sem palavra, teste T13). Quem faz: Periscópio, assim que puder.** As Flow 1 e 2 não passaram no portão: o propulsor ficou com 30 a 33% da altura (mínimo 45%) e embaixo, onde a interface do Short cobre; culpa do meu prompt, que pedia 30%. Na 2 também a janela mostra a superfície e o céu (o corredor está debaixo d'água) e o propulsor virou uma lente de câmera. Mesmas refs e anexos (IMAGEM 1 = `REF 1 o corredor da base cheio de agua, com o propulsor (Viscerface 8m18s).png`, IMAGEM 2 = `REF 2 o propulsor disparando no mar (Viscerface 8m21s).png`), 1 geração x2, saída `CAPA BASE - Flow 3.png`/`Flow 4.png`, sem tratar. Não apague a 1 e a 2. **FEITO 14/11 14h30 (Periscópio), COM RESSALVA: gerei 2 vezes x2 (4 imagens) com o texto novo; em todas o propulsor ficou com uns 25 a 30% da altura (não 55%), centrado no quadro. Salvas as 2 da última geração em `Base inundada/CAPA BASE - Flow 3.png` e `Flow 4.png` (corredor branco, água no teto, porta redonda pro mar escuro, sem texto, sem mancha). As 2 da primeira geração desta rodada não foram salvas. A Flow 4 é a mais central e o propulsor mais claro.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3960,5 +3960,5 @@
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
   }
  ],
- "gerado_em": "2026-11-14T14:24-03:00"
+ "gerado_em": "2026-11-14T14:27-03:00"
 }
