@@ -2574,7 +2574,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "etapa": "narração, texto no Gravar com 20 frases (versão 3, aprovada pelo Crivo em 14/11)",
+   "etapa": "narração, texto no Gravar com 20 frases (versão 3, aprovada pelo Crivo em 14/11); sai ter 24/11 às 18h no principal se você gravar até sex 20/11",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -4018,5 +4018,5 @@
    "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
   }
  ],
- "gerado_em": "2026-11-14T14:51-03:00"
+ "gerado_em": "2026-11-14T14:52-03:00"
 }
