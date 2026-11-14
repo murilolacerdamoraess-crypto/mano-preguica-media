@@ -2478,7 +2478,7 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "etapa": "narração, texto no Gravar com 22 frases (versão 7, aprovada pelo Crivo em 14/11); sai seg 23/11 às 18h no principal se você gravar até qui 19/11",
+   "etapa": "gravação (texto no Gravar com 22 frases (versão 7, aprovada pelo Crivo em 14/11); sai seg 23/11 às 18h no principal se você gravar até qui 19/11)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2566,7 +2566,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "etapa": "narração, texto no Gravar com 20 frases (versão 3, aprovada pelo Crivo em 14/11); sai ter 24/11 às 18h no principal se você gravar até sex 20/11",
+   "etapa": "gravação (texto no Gravar com 20 frases (versão 3, aprovada pelo Crivo em 14/11); sai ter 24/11 às 18h no principal se você gravar até sex 20/11)",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2814,7 +2814,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
-   "etapa": "narração, texto no Gravar com 15 frases (versão 1, aprovada pelo Crivo em 12/11; o francês do Onix imprime um Mewtwo de 2 metros, testa um pequeno de 50 cm, o peito não encaixa nas pernas e ele afrouxa uma perna pra encaixar; fica de pé com quase 60 quilos e o projeto dos 151 corre risco por falta de lugar; uns 2:40, com os quadros do vídeo dele no topo e em cada frase)",
+   "etapa": "gravação (texto no Gravar com 15 frases (versão 1, aprovada pelo Crivo em 12/11; o francês do Onix imprime um Mewtwo de 2 metros, testa um pequeno de 50 cm, o peito não encaixa nas pernas e ele afrouxa uma perna pra encaixar; fica de pé com quase 60 quilos e o projeto dos 151 corre risco por falta de lugar; uns 2:40, com os quadros do vídeo dele no topo e em cada frase))",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -2822,7 +2822,7 @@
   {
    "tipo": "Short",
    "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (canal 2)",
-   "etapa": "narração, texto no Gravar com 16 frases (versão 1, aprovada pelo Crivo em 12/11; o mesmo cara da luva de lagartixa acha uma gosma que gruda na hora, gruda numa van, troca a rede que virava bola por um dardo que abre como guarda-chuva, arranca a parede, faz um pegador pra mão e se balança no teto de uma mansão; uns 2:30, com os quadros do vídeo dele no topo e em cada frase)",
+   "etapa": "gravação (texto no Gravar com 16 frases (versão 1, aprovada pelo Crivo em 12/11; o mesmo cara da luva de lagartixa acha uma gosma que gruda na hora, gruda numa van, troca a rede que virava bola por um dardo que abre como guarda-chuva, arranca a parede, faz um pegador pra mão e se balança no teto de uma mansão; uns 2:30, com os quadros do vídeo dele no topo e em cada frase))",
    "responsavel": "Tarrafa",
    "falta_murilo": "gravar a voz",
    "prazo": ""
@@ -4037,5 +4037,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T17:12-03:00"
+ "gerado_em": "2026-11-14T17:13-03:00"
 }
