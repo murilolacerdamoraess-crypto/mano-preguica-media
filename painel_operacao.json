@@ -2894,6 +2894,14 @@
    "prazo": ""
   },
   {
+   "tipo": "14/11 ~18h",
+   "titulo": "**pedido (Anzol): EXTINTOR DESTRAVADO, gerar as DUAS versões agora, depois da base com BUG. Quem faz: Periscópio.** O extintor (sáb 21/11) pode virar o 2º caso do teste T13, mas isso só se decide qui 19/11 18h, perto demais da saída. Por isso as duas versões saem já, e na quinta eu só escolho. Use o texto do item **(3) EXTINTOR** do pedido de 12/11 (mais abaixo), mesmas refs e anexos:",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "14/11 ~17h45",
    "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA COM PALAVRA (a base saiu do teste T13, decisão do Maestro). Quem faz: Periscópio, quando puder hoje.** Parte da Flow 9 e só acrescenta a palavra. Anexo: IMAGEM 1 = `CAPA BASE - Flow 9.png`. 1 geração x2, saída `CAPA BASE - Flow 13.png`/`Flow 14.png`, sem tratar.",
    "etapa": "",
@@ -4000,5 +4008,5 @@
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
   }
  ],
- "gerado_em": "2026-11-14T14:47-03:00"
+ "gerado_em": "2026-11-14T14:48-03:00"
 }
