@@ -4022,7 +4022,20 @@
     "Esperar eu gravar a tela",
     "Engavetar"
    ]
+  },
+  {
+   "id": "p225",
+   "aberta_em": "2026-11-14T17:08-03:00",
+   "agente": "Tesoura",
+   "video": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa (longo, principal)",
+   "o_que": "liberar o render da v3 (uns 4 h + Crivo; o disco agora tem 83 GB livres). Você pediu pra segurar em 14/11; enquanto não liberar, o longo fica sem data",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Libera o render",
+    "Segura mais"
+   ]
   }
  ],
- "gerado_em": "2026-11-14T17:06-03:00"
+ "gerado_em": "2026-11-14T17:09-03:00"
 }
