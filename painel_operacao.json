@@ -2894,8 +2894,16 @@
    "prazo": ""
   },
   {
+   "tipo": "14/11 ~16h",
+   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 4, partindo da Flow 5. Quem faz: Periscópio.** A Flow 5 é a melhor até agora, mas o portão mede o propulsor com 43% da altura (mínimo 45%) e a cúpula virou vidro transparente com peças dentro, que não é como nas refs. A Flow 6 tem o teto seco de novo (38%). Anexos nesta ordem: IMAGEM 1 = `CAPA BASE - Flow 5.png`, IMAGEM 2 = `REF 1 o corredor da base cheio de agua, com o propulsor (Viscerface 8m18s).png`, IMAGEM 3 = `REF 2 o propulsor disparando no mar (Viscerface 8m21s).png`. 1 geração x2, saída `CAPA BASE - Flow 7.png`/`Flow 8.png`, sem tratar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "14/11 ~15h30",
-   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 3 (sem palavra, T13), com o enquadramento que o Periscópio sugeriu. Quem faz: Periscópio.** Rodada 2 reprovada: o propulsor com 42 a 43% da altura (mínimo 45%); na Flow 3 o teto está seco e a água no meio; na Flow 4 tudo azul (separação 23) e o propulsor escuro, diferente da ref. Mesmas refs e anexos, 1 geração x2 (só uma vez; se não sair, me chame com o que tiver), saída `CAPA BASE - Flow 5.png`/`Flow 6.png`, sem tratar.",
+   "titulo": "**pedido (Anzol): CAPA DA BASE INUNDADA, RODADA 3 (sem palavra, T13), com o enquadramento que o Periscópio sugeriu. Quem faz: Periscópio.** Rodada 2 reprovada: o propulsor com 42 a 43% da altura (mínimo 45%); na Flow 3 o teto está seco e a água no meio; na Flow 4 tudo azul (separação 23) e o propulsor escuro, diferente da ref. Mesmas refs e anexos, 1 geração x2 (só uma vez; se não sair, me chame com o que tiver), saída `CAPA BASE - Flow 5.png`/`Flow 6.png`, sem tratar. **FEITO 14/11 14h40 (Periscópio): Flow 5 e 6 salvas em `Base inundada/`. A 5: propulsor e mãos enchem a metade de baixo e cortam as bordas, cúpula clara, água até o teto, porta redonda pro mar escuro, sem texto (parece passar). A 6: propulsor grande, mas cúpula azul brilhante e o teto fica seco, com água só numa faixa (não passa nesse ponto). Não medi a altura em pixels.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3968,5 +3976,5 @@
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
   }
  ],
- "gerado_em": "2026-11-14T14:27-03:00"
+ "gerado_em": "2026-11-14T14:31-03:00"
 }
