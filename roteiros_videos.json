@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T17:11:33.439995Z",
+ "gerado_em": "2026-11-14T17:12:17.542296Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1490,7 +1490,7 @@
    "name": "SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
    "titulo_roteiro": "SHORT: atravessar o Subnautica por baixo do mapa",
    "description": "Short de feito no Subnautica (pauta P58 do Sonar, 18/10). The Last Bacon quer atravessar o mapa de um lado ao outro nadando por baixo dele, sem submarino; pra chegar lá desce o Void, a zona morta dos Ghost Leviathans, gr",
-   "status": "roteiro (versão 3 reescrita em 14/11 com código ok; guardado até o Sextante dizer se entra na prioridade-roteiros.txt; faltam erros, leigo, ensaio e Crivo)",
+   "status": "roteiro (revisão com as regras de hoje, versão 3; 2º na prioridade-roteiros.txt do Sextante, 14/11)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (v2) (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
