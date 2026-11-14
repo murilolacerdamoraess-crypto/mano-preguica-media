@@ -744,6 +744,14 @@
    "confianca": "forte no problema (2 rodadas, o controle falhou nas duas); a (A) ainda não foi medida.",
    "status": "fechada sem portão em 2026-11-12 (a A não separou). Ficam só a (B2) e a (C) como prática do Crivo e da Maré no canal IA: palavra com r forte que já tremeu é trocada no roteiro antes de gerar. Não muda nada pro Murilo e não vai pro Decidir (cumpre a decisão dele de 10/11).",
    "simples": "(a escrever quando a A passar no teste; antes disso não sobe)"
+  },
+  {
+   "id": "R94",
+   "titulo": "No meio do vídeo, antes de uma escolha que o fã acharia boba, a fala traz a pergunta que ele faria e responde com o motivo que se vê na tela.",
+   "onde": "skill `shorts-roteirista` (princípio da pergunta do fã, junto da C91) e o [[caderno-de-desafios]] do Farol (o desafio gravado). Não entra em longo narrado (C95).",
+   "confianca": "fraca (1 vídeo de referência, sem teste no canal). Sobe porque é extensão direta da C91, que ele já decidiu.",
+   "status": "aguardando",
+   "simples": "Quando alguém no vídeo faz uma escolha que o fã acharia boba, a frase antes da escolha diz a pergunta que ele faria e responde com o motivo que dá pra ver na tela. É o que o MrBeast faz na beira do rio (\"por que vocês não cruzam a nado? Olha a força dessa correnteza, por isso a jangada\"), e no seu desafio seria, por exemplo, dizer por que você não foi de veículo antes de ir a nado."
   }
  ],
  "equipe": [
@@ -3897,5 +3905,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-14T01:36-03:00"
+ "gerado_em": "2026-11-14T11:02-03:00"
 }
