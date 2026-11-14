@@ -4042,11 +4042,13 @@
    "video": "Por que a bateria do submarino sumia tão rápido na lava do Subnautica? (principal, seg 16/11 18h)",
    "o_que": "liberar a exceção da regra de disco (Mac com 23 GB, mínimo 40) só pra este Short, que usa uns 3 a 5 GB; sem isso até dom 15 à tarde a seg 16 fica sem vídeo no principal",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "cancelada",
    "opcoes": [
     "Libera a exceção",
     "Não libera"
-   ]
+   ],
+   "fechada_em": "2026-11-14T16:00-03:00",
+   "nota": "não precisa mais: em 14/11 o Maestro liberou as cópias locais do Drive e o Mac foi de 22 pra 85 GB livres, acima do mínimo de 40"
   },
   {
    "id": "p224",
@@ -4062,5 +4064,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T15:09-03:00"
+ "gerado_em": "2026-11-14T16:00-03:00"
 }
