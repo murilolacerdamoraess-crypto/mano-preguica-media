@@ -2846,22 +2846,6 @@
  ],
  "navegador": [
   {
-   "tipo": "14/11 17h15 rotina do banco, automático",
-   "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (2026-11-14 17:16:08.987 -03 [83532] LOG:  sistema de banco de dados está desligado).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
-   "etapa": "",
-   "responsavel": "",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "14/11 17h14 rotina do banco, automático",
-   "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (Examine o arquivo de log.).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
-   "etapa": "",
-   "responsavel": "",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
    "tipo": "14/11 14h10 Lente, pelo Maestro",
    "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). **ATENÇÃO (14/11, Tesoura): sobe a V2 do Wakemaker (corrige 12 planos com fundo borrado), nunca a v1, e só depois de ela passar no portão \"borrado\" do crivo_auto (Crivo, 14/11); a Lente diz o arquivo exato quando a Tesoura entregar. Aprovação na v1 vale pra v2.** Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
    "etapa": "",
@@ -4053,5 +4037,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T17:16-03:00"
+ "gerado_em": "2026-11-14T17:17-03:00"
 }
