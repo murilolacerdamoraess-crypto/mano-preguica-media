@@ -2574,9 +2574,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "etapa": "roteiro (em conferência (Crivo), versão 3 com as regras de hoje; 2º na fila do Sextante)",
+   "etapa": "narração, texto no Gravar com 20 frases (versão 3, aprovada pelo Crivo em 14/11)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "nada (depois do Crivo vai pro Gravar)",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4006,7 +4006,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
+  },
+  {
+   "id": "p221",
+   "aberta_em": "2026-11-14T14:51-03:00",
+   "agente": "Tarrafa",
+   "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
+   "o_que": "gravar a voz das 20 frases (principal, uns 2:40)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
   }
  ],
- "gerado_em": "2026-11-14T14:48-03:00"
+ "gerado_em": "2026-11-14T14:51-03:00"
 }
