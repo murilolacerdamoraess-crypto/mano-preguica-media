@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T17:17:47.278551Z",
+ "gerado_em": "2026-11-14T17:20:36.879492Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -230,7 +230,7 @@
    "name": "SHORT MP2 - No Zelda novo você toca uma ocarina de verdade e o Link toca junto no jogo",
    "titulo_roteiro": "SHORT MP2: dá pra tocar uma ocarina de verdade no Zelda novo?",
    "description": "Short da ocarina no jeito de notícia (24/10/2026). Desde 29/10 é a única versão: a contada como história (mp2-ocarina-zelda-microfone.md) foi arquivada, porque o Murilo pediu pra não escolher entre as duas. A demonstraçã",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: é recurso de jogo novo contado como notícia; notícia ou lançamento viralizou 0 de 27 nos 2 canais (estudo-hits-de-fora); no principal 2.591 no YouTube e 279 no TikTok, 13 vídeos; e o Murilo já disse que nem todo mundo conhece Zelda (C40, 27/10). Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
    "video_id": null,
    "publicado_em": null,
@@ -258,7 +258,7 @@
    "name": "SHORT MP2 - A LEGO fez uma Pokébola que abre e tem uma batalha de Pokémon dentro",
    "titulo_roteiro": "SHORT MP2: a Pokébola de LEGO que abre e tem uma batalha dentro",
    "description": "Short da Pokébola de LEGO no jeito de notícia (24/10/2026). Desde 29/10 é a única versão: a contada como história (mp2-pokebola-lego-abre.md) foi arquivada, porque o Murilo pediu pra não escolher entre as duas. O produto",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: é lançamento de produto da LEGO, sem uma pessoa fazendo (não é o molde 1); notícia ou lançamento viralizou 0 de 27 nos 2 canais; no principal 2.591 / 279, 13 vídeos. Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "versão 1 no MODO NOTÍCIA (24/10): portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-24; conferente separado rodou",
    "video_id": null,
    "publicado_em": null,
@@ -1406,7 +1406,7 @@
    "name": "SHORT - Ele deu notícia do Silksong todo dia por mais de 1.600 dias, e depois começou de novo",
    "titulo_roteiro": "SHORT: o canal que dava notícia do Silksong todo dia",
    "description": "Short do canal principal (pauta P77, pedido do Murilo de 19/10, casos de persistência; é o 1 de outro jogo da semana, Hollow Knight). O Silksong foi anunciado em 2019 e a espera virou piada. Uns dois anos depois, quem fa",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
+   "status": "engavetado (14/11/2026; Murilo, 14/11/2026: \"boa se não valem nem o teste, pode engavetar.\" BARRADO nos 2 canais: no principal fora-noticia (2.591 / 279, 13 vídeos); no canal 2 é fato de marca que quem não joga não conhece, o contraexemplo do molde 2 (de 0,4x a 1,0x). Guardado em producao/barrados.md, revisto toda segunda contra o que estourou fora)",
    "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
    "video_id": null,
    "publicado_em": null,
