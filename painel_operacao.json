@@ -2510,10 +2510,10 @@
   {
    "tipo": "Short",
    "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "etapa": "pronto pra publicar no canal 2 (você aprovou em 12/11; rascunho completo no Studio, studio.youtube.com/video/F7HiSnCGUi0/edit: título, descrição, capa conferida na prévia, playlist VÍDEOS CURTOS, 12 tags, jogo Spider-Man 2, 5 produtos com o chaveiro do PS5 em 1º, vídeo relacionado no Short da lagartixa; a tela do Programar está com sáb 14/11 às 18h preenchido, mas o rascunho não guarda a data: se a tela fechar, abra Editar rascunho, Visibilidade, Programar, 14 de nov., 18:00)",
+   "etapa": "agendado no canal 2 pra sáb 14/11 às 18h (você aprovou e programou em 12/11; conferido pela API em 14/11 14h07: privado com saída marcada 14/11 18h, youtu.be/F7HiSnCGUi0; título, descrição, capa, playlist VÍDEOS CURTOS, 12 tags, jogo Spider-Man 2, 5 produtos com o chaveiro do PS5 em 1º, vídeo relacionado no Short da lagartixa)",
    "responsavel": "Leme",
-   "falta_murilo": "apertar Programar (1 clique)",
-   "prazo": "sáb 14/11 às 18h"
+   "falta_murilo": "",
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -2887,7 +2887,7 @@
  "navegador": [
   {
    "tipo": "14/11 14h10 Lente, pelo Maestro",
-   "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. Não mexer sem o Maestro confirmar; se o Maestro mandar segurar, tirar a data antes das 18h (Leme acha o próximo dia livre do canal 2 sem colar em outro).",
+   "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
