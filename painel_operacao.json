@@ -2894,6 +2894,14 @@
    "prazo": ""
   },
   {
+   "tipo": "14/11 ~14h40",
+   "titulo": "**pedido (Anzol): CAPA DA BATERIA NA LAVA, RODADA 2 (sem palavra, teste T13), e depois a BASE INUNDADA. Quem faz: Periscópio, agora.** As Flow 1 e 2 de hoje não passaram: na 1 os 3 bichos em pé com a \"gola\" formam uma silhueta fálica; na 2 a ponta da cabeça virou bico e os dois olhos de frente fazem cara de passarinho. A culpa foi do meu prompt de 12/11 (pedi olho pra câmera, um ângulo que a ref não mostra). Mesmas refs, mesma pasta e mesmos anexos (IMAGEM 1 = `REF 1 o bicho inteiro de lado (LB 4m22s).png`, IMAGEM 2 = `REF 2 o bicho grudado no casco do submarino (BR 17m01s).png`), 1 geração x2, saída `CAPA BATERIA - Flow 3.png`/`Flow 4.png`, sem tratar. Não apague a 1 e a 2.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "12/11 Anzol",
    "titulo": "**TÍTULOS DO PRINCIPAL ESCOLHIDOS PELO MURILO (12/11 00h54-55, valem, Maestro confirmou), usar quando agendar:** bateria na lava (sai seg 16/11) = `Por que a bateria do submarino sumia tão rápido na lava do Subnautica?`; base inundada (sai qui 19/11) = `Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir`; extintor (sai sáb 21/11) = `Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor`; medo = `Em Subnautica, cada monstro tem o tamanho do seu medo` (data a confirmar). Descrição e tags: no roteiro de cada um, seção Embalagem. Capas: as do pedido de hoje na fila; só agendar com a capa que o Anzol passar. Conferir título até 100 caracteres.",
    "etapa": "",
@@ -3934,5 +3942,5 @@
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
   }
  ],
- "gerado_em": "2026-11-14T14:09-03:00"
+ "gerado_em": "2026-11-14T14:12-03:00"
 }
