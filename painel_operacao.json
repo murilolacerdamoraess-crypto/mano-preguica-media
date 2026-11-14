@@ -3778,28 +3778,6 @@
    "jogando": true
   },
   {
-   "id": "p139",
-   "aberta_em": "2026-11-07T01:24-03:00",
-   "agente": "Tarrafa",
-   "video": "Esse cara fez dois sabres de luz de Star Wars de verdade pra um duelo ao vivo, e um quebrou 1 hora antes",
-   "o_que": "gravar a voz das 14 frases (sai qua 11/11 às 18h se gravar até dom 08/11, canal 2)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_sabre_de_luz_duelo",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
-   "id": "p140",
-   "aberta_em": "2026-11-07T01:24-03:00",
-   "agente": "Tarrafa",
-   "video": "Esse cara fez a mão do Hulk de verdade, e a força estourou o medidor",
-   "o_que": "gravar a voz das 12 frases (sai sex 13/11 às 18h, canal 2)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_mao_do_hulk",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
    "id": "p141",
    "aberta_em": "2026-11-07T01:25-03:00",
    "agente": "Farol",
@@ -3818,17 +3796,6 @@
    "status": "aberta",
    "chave": "gravar:desafio-fim-do-void",
    "jogando": true
-  },
-  {
-   "id": "p143",
-   "aberta_em": "2026-11-07T01:25-03:00",
-   "agente": "Arpão",
-   "video": "Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
-   "o_que": "gravar a voz das 14 frases",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_armadura_fallout",
-   "fechada_em": "2026-11-12T00:33-03:00"
   },
   {
    "id": "p146",
@@ -3877,17 +3844,6 @@
    "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
   },
   {
-   "id": "p156",
-   "aberta_em": "2026-11-07T14:36-03:00",
-   "agente": "Arpão",
-   "video": "Em Subnautica, cada monstro tem o tamanho do seu medo (teste)",
-   "o_que": "gravar a voz das 17 frases",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:avulso_medo_tamanho_monstros",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
    "id": "p157",
    "aberta_em": "2026-11-07T14:36-03:00",
    "agente": "Arpão",
@@ -3924,29 +3880,6 @@
    "nota": "Dia 2 só existe depois do voto do Dia 1, que nem foi gravado; volta a abrir quando o Dia 1 sair"
   },
   {
-   "id": "p166",
-   "aberta_em": "2026-11-07T19:49-03:00",
-   "agente": "Arpão",
-   "video": "Construíram um trem do Minecraft de verdade dentro do escritório",
-   "o_que": "ler o roteiro do trem do Minecraft com o gancho novo, direto no que ele decidiu fazer, e aprovar ou pedir ajuste (com os trechos do vídeo original ele fica perto de 2:50)",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "chave": "roteiro:short-trem-minecraft-de-verdade-escritorio.md",
-   "fechada_em": "2026-11-12T00:33-03:00",
-   "nota": "Murilo, 12/11: 'pode deletar esse video do carrinho do minecraft. eu acho que ele segue a mesma linha que os videos floparam.'"
-  },
-  {
-   "id": "p169",
-   "aberta_em": "2026-11-07T22:45-03:00",
-   "agente": "Arpão",
-   "video": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "o_que": "gravar a voz das 12 frases",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_subnautica_bateria_lava",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
    "id": "p180",
    "aberta_em": "2026-11-09T10:40-03:00",
    "agente": "Sonar",
@@ -3957,62 +3890,6 @@
    "chave": "narracao:corte_c2_sunbeam",
    "fechada_em": "2026-11-12T00:47-03:00",
    "nota": "Passada da fila pela receita v2 (Sonar, 12/11): corte de live de 6 meses atrás sem quase-desastre, contraexemplo do molde 3; Murilo viu a lista e perguntou 'ta certo isso aqui?' sobre eles"
-  },
-  {
-   "id": "p184",
-   "aberta_em": "2026-11-09T12:40-03:00",
-   "agente": "Arpão",
-   "video": "Ela inundou a própria base no Subnautica de propósito",
-   "o_que": "gravar a voz das 16 frases (sai qui 19/11 às 18h)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_base_inundada_aurora",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
-   "id": "p185",
-   "aberta_em": "2026-11-09T12:40-03:00",
-   "agente": "Arpão",
-   "video": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "o_que": "gravar a voz das 16 frases (sai sáb 21/11 às 18h)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_deathrun_extintor",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
-   "id": "p186",
-   "aberta_em": "2026-11-09T12:16-03:00",
-   "agente": "Tarrafa",
-   "video": "Ele fez a luva do One Punch Man, e testou o que ela não consegue explodir (canal 2)",
-   "o_que": "gravar a voz das 15 frases (sai dom 22/11 às 18h)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:mp2-luva-one-punch-man.md@v1",
-   "fechada_em": "2026-11-12T00:33-03:00"
-  },
-  {
-   "id": "p187",
-   "aberta_em": "2026-11-09T12:34-03:00",
-   "agente": "Tarrafa",
-   "video": "Ele construiu a cozinha minúscula da Arrietty, e tentou acender o fogão do filme de verdade (canal 2)",
-   "o_que": "gravar a voz das 17 frases (sai ter 17/11 às 18h)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "roteiro:mp2-cozinha-arrietty-fogo.md@v1",
-   "fechada_em": "2026-11-12T00:33-03:00",
-   "nota": "Murilo, 10/11: 'acho que ngm conhece isso, deleta esse video' (Arrietty)"
-  },
-  {
-   "id": "p188",
-   "aberta_em": "2026-11-09T15:30-03:00",
-   "agente": "Arpão",
-   "video": "Ela tentou fazer o lançador de gancho do Batman de verdade (canal 2)",
-   "o_que": "gravar a voz das 14 frases (sai ter 17/11 às 18h no canal 2, voz até sex 13)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_lancador_gancho_batman",
-   "fechada_em": "2026-11-12T00:33-03:00"
   },
   {
    "id": "p195",
@@ -4284,5 +4161,5 @@
    "chave": "video:17zdH6UUi4KqvVNgRWUNXQpWL7s_pPbhs"
   }
  ],
- "gerado_em": "2026-11-13T11:16-03:00"
+ "gerado_em": "2026-11-14T00:34-03:00"
 }
