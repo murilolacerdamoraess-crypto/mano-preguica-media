@@ -2895,7 +2895,7 @@
   },
   {
    "tipo": "14/11 ~18h30",
-   "titulo": "**pedido (Anzol): EXTINTOR SEM PALAVRA, a partir da Flow 2. Quem faz: Periscópio, sem pressa (decide qui 19/11 18h).** Conferi: base = `CAPA BASE - Flow 14.png` (FECHADA, é ela que sobe no Studio); extintor com palavra = `CAPA EXTINTOR - Flow 2.png`. As Flow 3 e 4 sem palavra saíram escuras demais e com letras do rótulo, e são outra imagem: pro teste, só a palavra pode mudar. Anexo: IMAGEM 1 = `CAPA EXTINTOR - Flow 2.png`. 1 geração x2, saída `CAPA EXTINTOR - Flow 5.png`/`Flow 6.png`.",
+   "titulo": "**pedido (Anzol): EXTINTOR SEM PALAVRA, a partir da Flow 2. Quem faz: Periscópio, sem pressa (decide qui 19/11 18h).** Conferi: base = `CAPA BASE - Flow 14.png` (FECHADA, é ela que sobe no Studio); extintor com palavra = `CAPA EXTINTOR - Flow 2.png`. As Flow 3 e 4 sem palavra saíram escuras demais e com letras do rótulo, e são outra imagem: pro teste, só a palavra pode mudar. Anexo: IMAGEM 1 = `CAPA EXTINTOR - Flow 2.png`. 1 geração x2, saída `CAPA EXTINTOR - Flow 5.png`/`Flow 6.png`. **FEITO 14/11 15h05 (Periscópio): `Extintor Deathrun/CAPA EXTINTOR - Flow 5.png` e `Flow 6.png` (anexo Flow 2). A 5 é a mais fiel à Flow 2: mesma criatura, mão, jato e lava, sem o 1 GOLPE, fundo escuro com névoa, extintor liso sem rótulo. A 6 também sem texto e sem rótulo, mas saiu mais escura, com uma faixa preta no topo e a criatura maior (o mesmo problema das Flow 3 e 4). Não medi em pixels.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4026,5 +4026,5 @@
    "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3"
   }
  ],
- "gerado_em": "2026-11-14T14:57-03:00"
+ "gerado_em": "2026-11-14T15:00-03:00"
 }
