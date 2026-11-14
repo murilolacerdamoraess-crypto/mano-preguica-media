@@ -2846,6 +2846,14 @@
  ],
  "navegador": [
   {
+   "tipo": "14/11 17h15 rotina do banco, automático",
+   "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (2026-11-14 17:16:08.987 -03 [83532] LOG:  sistema de banco de dados está desligado).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "14/11 17h14 rotina do banco, automático",
    "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (Examine o arquivo de log.).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
    "etapa": "",
@@ -4045,5 +4053,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-14T17:15-03:00"
+ "gerado_em": "2026-11-14T17:16-03:00"
 }
