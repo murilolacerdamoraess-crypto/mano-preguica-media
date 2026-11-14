@@ -2574,9 +2574,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "etapa": "roteiro (na fila, espera a fila do Gravar baixar de 8 roteiros; versão 2 depois da sua reprovação: o Void entra como o breu e a zona morta dos Ghost, a missão é atravessar de um lado do mapa ao outro, o porquê de descer colado no paredão vem na hora e da fonte, e o imagina tem cena; uns 2 min e 50)",
+   "etapa": "roteiro (em conferência (Crivo), versão 3 com as regras de hoje; 2º na fila do Sextante)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "nada (depois do Crivo vai pro Gravar)",
    "prazo": ""
   },
   {
@@ -2888,6 +2888,14 @@
   {
    "tipo": "14/11 14h10 Lente, pelo Maestro",
    "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "14/11 ~17h10",
+   "titulo": "**pedido (Anzol): CAPA DA BASE, ÚLTIMA TENTATIVA (diagonal), partindo da Flow 9. Quem faz: Periscópio.** Flow 9 e 10 fiéis e bonitas, mas o portão mede só o tubo: 34% e 31% da altura (mínimo 45%). Tubo deitado num quadro em pé não chega lá; a saída é inclinar a câmera. Anexos: IMAGEM 1 = `CAPA BASE - Flow 9.png`, IMAGEM 2 = `REF 3 a base de fora, o tubo na pedra (Viscerface 8m32s).png`. 1 geração x2, saída `CAPA BASE - Flow 11.png`/`Flow 12.png`. **É a última nesse pedido: se não sair, me chame com o que tiver; eu levo a decisão ao Maestro.**",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -3984,5 +3992,5 @@
    "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4"
   }
  ],
- "gerado_em": "2026-11-14T14:41-03:00"
+ "gerado_em": "2026-11-14T14:42-03:00"
 }
