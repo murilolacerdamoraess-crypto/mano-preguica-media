@@ -2502,7 +2502,7 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "pronto pra publicar (você aprovou em 15/11 00:08; sai qua 25/11 às 18h no principal, ou dom 15/11 às 18h se o Wakemaker não for aprovado até 11h; antes: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
+   "etapa": "pronto pra publicar (você aprovou em 15/11 00:08; sai qua 25/11 às 18h no principal; antes: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
    "responsavel": "Tesoura",
    "falta_murilo": "",
    "prazo": "ter 24/11"
@@ -2510,9 +2510,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "etapa": "edição (14/11 noite: a versão 2, sem o vídeo borrado atrás, está no Assistir, aprovada pelo Crivo; se você aprovar hoje, sai dom 15/11 às 18h; antes: o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; não sai sáb 14; sai dom 15/11 às 18h se você aprovar hoje à noite)",
+   "etapa": "edição (você aprovou em 15/11 com 1 retoque no fundo; a Tesoura faz a versão 3 e ele sai hoje, dom 15/11, às 18h no principal; antes: 14/11 noite: a versão 2, sem o vídeo borrado atrás, está no Assistir, aprovada pelo Crivo; se você aprovar hoje, sai dom 15/11 às 18h; antes: o vídeo está no Assistir pra você assistir desde 12/11 02h20, 2 min 10, aprovado pelo Crivo; o nome do TheGreat3Dini aparece no \"tá aparecendo o nome dele aqui\"; principal; não sai sáb 14; sai dom 15/11 às 18h se você aprovar hoje à noite)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir o Short do Wakemaker e dizer se aprova ou o que muda",
+   "falta_murilo": "",
    "prazo": "sex 13/11"
   },
   {
@@ -2839,7 +2839,7 @@
   },
   {
    "tipo": "15/11 00h20 Lente, pelo Maestro",
-   "titulo": "**REAPER DE LEGO APROVADO pelo Murilo (15/11 00:08). Quem faz: Periscópio, DEPOIS das 11h de dom 15 (não antes).** Se o Wakemaker (p226) for aprovado até 11h: agendar o LEGO pra **qua 25/11 18h** no principal. Se não for: a Lente avisa aqui às 11h se o LEGO cobre **dom 15/11 18h**. Arquivo: a v2 com a voz regravada que está no Assistir (1:58, aprovada pelo Crivo, md5 196fa7f5), `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta montando o Reaper do Subnautica em LEGO, e o bicho nao cabe nem na estante.mp4`; título e capa do Anzol. Marcar \"conteúdo alterado ou sintético\" se a ordem pedir; link do vídeo na linha 23 da FILA depois de agendar.",
+   "titulo": "**REAPER DE LEGO APROVADO pelo Murilo (15/11 00:08). ATUALIZADO 15/11 manhã: o Wakemaker foi aprovado (a Tesoura faz a v3), então o LEGO vai pra qua 25/11 18h no principal, pode programar já.** Antes: Quem faz: Periscópio, DEPOIS das 11h de dom 15 (não antes). Se o Wakemaker (p226) for aprovado até 11h: agendar o LEGO pra **qua 25/11 18h** no principal. Se não for: a Lente avisa aqui às 11h se o LEGO cobre **dom 15/11 18h**. Arquivo: a v2 com a voz regravada que está no Assistir (1:58, aprovada pelo Crivo, md5 196fa7f5), `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta montando o Reaper do Subnautica em LEGO, e o bicho nao cabe nem na estante.mp4`; título e capa do Anzol. Marcar \"conteúdo alterado ou sintético\" se a ordem pedir; link do vídeo na linha 23 da FILA depois de agendar.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4053,8 +4053,10 @@
    "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
    "o_que": "assistir a v2 do Short do Wakemaker (2:10) e dizer se aprova ou o que muda; é a v1 com os 12 trechos que tinham o vídeo borrado atrás agora na moldura com o fundo de impressora (se você já aprovou a v1, vale pra esta)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:17TDxji3uVArPom5s1nOPuCElF_6I5OaJ"
+   "status": "feita",
+   "chave": "video:17TDxji3uVArPom5s1nOPuCElF_6I5OaJ",
+   "fechada_em": "2026-11-15T01:23-03:00",
+   "nota": "aprovou no chat 15/11 com 1 retoque: trocar o fundo que sobe e desce pelo fundo do mar com bolhas; depois publica direto"
   },
   {
    "id": "p227",
@@ -4111,5 +4113,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-15T00:35-03:00"
+ "gerado_em": "2026-11-15T01:25-03:00"
 }
