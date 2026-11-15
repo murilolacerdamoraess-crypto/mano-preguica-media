@@ -3883,8 +3883,10 @@
    "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "o_que": "assistir a v2 do Short do Reaper de LEGO (1:58), com a sua voz regravada, e dizer se aprova ou o que muda; aprovando, sai qua 25/11 às 18h no principal",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum"
+   "status": "feita",
+   "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum",
+   "fechada_em": "2026-11-15T00:09-03:00",
+   "nota": "aprovou no painel 15/11 00:08 (#72)"
   },
   {
    "id": "p213",
@@ -4015,11 +4017,13 @@
    "video": "A água do Subnautica 2 envenena e tira meses de vida (roteiro parado)",
    "o_que": "a tela da pesquisa do metal não aparece em nenhum vídeo do YouTube: esperar você gravar essa tela no seu jogo quando voltar pro PC (recomendado) ou engavetar",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Esperar eu gravar a tela",
     "Engavetar"
-   ]
+   ],
+   "fechada_em": "2026-11-15T00:09-03:00",
+   "nota": "escolheu Engavetar no painel 15/11 00:08"
   },
   {
    "id": "p225",
@@ -4079,5 +4083,5 @@
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
   }
  ],
- "gerado_em": "2026-11-15T00:01-03:00"
+ "gerado_em": "2026-11-15T00:09-03:00"
 }
