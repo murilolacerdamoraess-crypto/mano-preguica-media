@@ -4272,8 +4272,9 @@
    "video": "Canal 2: repost do machado do Kratos",
    "o_que": "Programar pra seg 16/11 às 18h: https://studio.youtube.com/video/gRnOqCtgnA0/edit (rascunho completo, mesmo título e capa do principal; é o próximo repost depois do show da Pokémon, que dobrou as views no canal 2)",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "studio:gRnOqCtgnA0"
+   "status": "feita",
+   "chave": "studio:gRnOqCtgnA0",
+   "fechada_em": "2026-11-15T19:26-03:00"
   },
   {
    "id": "p240",
@@ -4282,9 +4283,10 @@
    "video": "Canal 2: repost do tubarão",
    "o_que": "Programar pra seg 23/11 às 18h: https://studio.youtube.com/video/hBKPf5T3vDs/edit (rascunho completo, mesmo título e capa do principal; se a grade do canal 2 mudar, qualquer dia livre às 18h)",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "studio:hBKPf5T3vDs"
+   "status": "feita",
+   "chave": "studio:hBKPf5T3vDs",
+   "fechada_em": "2026-11-15T19:26-03:00"
   }
  ],
- "gerado_em": "2026-11-15T17:52-03:00"
+ "gerado_em": "2026-11-15T19:26-03:00"
 }
