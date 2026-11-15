@@ -1,26 +1,20 @@
 {
- "gerado_em": "2026-11-14T14:23:01.679009-03:00",
+ "gerado_em": "2026-11-14T21:22:51.846726-03:00",
  "mes": {
-  "postados": 8,
+  "postados": 9,
   "teto": 93,
-  "folga": 85
+  "folga": 84
  },
  "redes": {
   "tiktok": {
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 22,
-   "ultimo_post": "2026-11-13",
-   "dias_parado": 1,
+   "na_fila": 23,
+   "ultimo_post": "2026-11-14",
+   "dias_parado": 0,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "wGVF6ThIv9I",
-     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica",
-     "quando": "2026-11-14T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "_YCpqe5Uxuc",
      "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
@@ -45,8 +39,8 @@
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     },
     {
-     "video_id": "uC_EOBxYQ0I",
-     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
+     "video_id": "F7HiSnCGUi0",
+     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão"
     }
    ]
   },
@@ -55,59 +49,59 @@
    "manual": false,
    "cadencia": "todo dia 21h30",
    "na_fila": 22,
-   "ultimo_post": "2026-11-10",
-   "dias_parado": 4,
-   "parado": true,
+   "ultimo_post": "2026-11-14",
+   "dias_parado": 0,
+   "parado": false,
    "agendados": [],
    "previstos": [
     {
-     "video_id": "wGVF6ThIv9I",
-     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts",
-     "quando": "2026-11-14T21:30:00-03:00"
-    },
-    {
      "video_id": "fmRy7htiKf8",
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-     "quando": "2026-11-15T21:30:00-03:00"
+     "quando": "2026-11-14T21:30:00-03:00"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-     "quando": "2026-11-16T21:30:00-03:00"
+     "quando": "2026-11-15T21:30:00-03:00"
     },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-     "quando": "2026-11-17T21:30:00-03:00"
+     "quando": "2026-11-16T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-18T21:30:00-03:00"
+     "quando": "2026-11-17T21:30:00-03:00"
     },
     {
      "video_id": "_YCpqe5Uxuc",
      "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
-     "quando": "2026-11-19T21:30:00-03:00"
+     "quando": "2026-11-18T21:30:00-03:00"
     },
     {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-11-20T21:30:00-03:00"
+     "quando": "2026-11-19T21:30:00-03:00"
     },
     {
      "video_id": "Stm2pYvz-yE",
      "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-11-21T21:30:00-03:00"
+     "quando": "2026-11-20T21:30:00-03:00"
     },
     {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-22T21:30:00-03:00"
+     "quando": "2026-11-21T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
+     "quando": "2026-11-22T21:30:00-03:00"
+    },
+    {
+     "video_id": "F7HiSnCGUi0",
+     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
      "quando": "2026-11-23T21:30:00-03:00"
     },
     {
@@ -133,16 +127,16 @@
    ],
    "proximos_da_fila": [
     {
-     "video_id": "wGVF6ThIv9I",
-     "titulo": "Esse cara usou as bolsas de gás de um bicho como bala contra o Reaper do Subnautica #shorts"
-    },
-    {
      "video_id": "fmRy7htiKf8",
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares"
+    },
+    {
+     "video_id": "weC-ObCZ7Xw",
+     "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex"
     }
    ]
   },
@@ -150,7 +144,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 57,
+   "na_fila": 58,
    "ultimo_post": "2026-11-04",
    "dias_parado": 10,
    "parado": true,
