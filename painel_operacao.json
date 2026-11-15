@@ -4130,7 +4130,9 @@
    "video": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "o_que": "Apertar Programar no Studio do Reaper de LEGO (qua 25/11 às 18h): a janela do Studio está aberta na Visibilidade, já com data e hora e tudo preenchido",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-15T01:56-03:00",
+   "nota": "Murilo 15/11 ~02h: 'eu ja programei o reaper'"
   },
   {
    "id": "p232",
@@ -4153,5 +4155,5 @@
    "chave": "narracao:serie_4546b_a1_dia2_vermelho"
   }
  ],
- "gerado_em": "2026-11-15T01:46-03:00"
+ "gerado_em": "2026-11-15T01:56-03:00"
 }
