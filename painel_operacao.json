@@ -2502,9 +2502,9 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "edição (14/11: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
+   "etapa": "pronto pra publicar (você aprovou em 15/11 00:08; sai qua 25/11 às 18h no principal, ou dom 15/11 às 18h se o Wakemaker não for aprovado até 11h; antes: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir a v2 do Reaper de LEGO e dizer se aprova ou o que muda",
+   "falta_murilo": "",
    "prazo": "ter 24/11"
   },
   {
@@ -2701,14 +2701,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Até a água do Subnautica 2 te envenena, e o jogo te dá só alguns meses de vida",
-   "etapa": "roteiro (versão 2 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10): o perigo escondido que só aparece pra quem pesquisa, metal tóxico na água e na comida, a biocama que não tira tudo, os \"alguns meses\" do próprio jogo e a saída que ele recomenda sem dizer onde achar; uns 1min55, voz sua)",
-   "responsavel": "Arpão",
-   "falta_murilo": "decidir se espera você gravar a tela da pesquisa do metal no seu jogo ou engaveta o roteiro",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
    "etapa": "roteiro (versão 3 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10), versão 2: dá dois megalodons em fila e ainda sobra Reaper, como seria a briga, se cabe na boca, se daria trabalho, e o veredito como opinião; uns 2 minutos, voz sua)",
    "responsavel": "Arpão",
@@ -2837,6 +2829,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "15/11 00h20 Lente, pelo Maestro",
+   "titulo": "**REAPER DE LEGO APROVADO pelo Murilo (15/11 00:08). Quem faz: Periscópio, DEPOIS das 11h de dom 15 (não antes).** Se o Wakemaker (p226) for aprovado até 11h: agendar o LEGO pra **qua 25/11 18h** no principal. Se não for: a Lente avisa aqui às 11h se o LEGO cobre **dom 15/11 18h**. Arquivo: a v2 com a voz regravada que está no Assistir (1:58, aprovada pelo Crivo, md5 196fa7f5), `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta montando o Reaper do Subnautica em LEGO, e o bicho nao cabe nem na estante.mp4`; título e capa do Anzol. Marcar \"conteúdo alterado ou sintético\" se a ordem pedir; link do vídeo na linha 23 da FILA depois de agendar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "14/11 14h10 Lente, pelo Maestro",
    "titulo": "**AVISO pro Periscópio e pro Leme: o Murilo não assiste nada antes da noite (\"só mais tarde\").** (1) **Wakemaker (principal, p216): NÃO agendar sáb 14.** Se ele aprovar no Assistir hoje à noite, agendar dom 15/11 18h (vaga do Megabonk, que está parado). **ATENÇÃO (14/11, Tesoura): sobe a V2 do Wakemaker (corrige 12 planos com fundo borrado), nunca a v1, e só depois de ela passar no portão \"borrado\" do crivo_auto (Crivo, 14/11); ARQUIVO (14/11 noite, v2 aprovada pelo Crivo, md5 ac50a711): Drive `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara construiu o Wakemaker do Subnautica 2 de verdade.mp4` (id 17TDxji3uVArPom5s1nOPuCElF_6I5OaJ, 88.401.955 bytes). Só depois da aprovação do Murilo (p226); a Lente avisa aqui quando ela chegar.** Sem aprovação, nada sobe. (2) **Octopus (canal 2, p218): a API (14/11 14h07) mostra `F7HiSnCGUi0` privado com publishAt 14/11 21:00 UTC = 18h de hoje, ou seja, JÁ ESTÁ PROGRAMADO e sai sozinho às 18h.** O vídeo foi aprovado por ele em 12/11. **Maestro confirmou (14/11): fica como está, sai hoje 18h; nada a fazer.**",
@@ -4083,5 +4083,5 @@
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
   }
  ],
- "gerado_em": "2026-11-15T00:09-03:00"
+ "gerado_em": "2026-11-15T00:10-03:00"
 }
