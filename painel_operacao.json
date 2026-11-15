@@ -2846,8 +2846,8 @@
    "prazo": ""
   },
   {
-   "tipo": "15/11 ~03h",
-   "titulo": "**EM ANDAMENTO (Periscópio): WAKEMAKER v3 (principal), rascunho no Studio (aba t2), PARADO NA ADEQUAÇÃO.** Pedido da Tesoura (v3 aprovada pelo Crivo, checklist 01bc0112, md5 3aa58b11 conferida na cópia local; sai HOJE dom 15/11 18h; o Murilo autorizou: \"se conseguir trocar só isso e ai já pode publicar\"). Feito: upload da v3 (129,7 s), título aprovado, descrição do roteiro, 12 tags, Jogos, não é pra crianças, localização e conceitos desligados, capa `CAPA WAKEMAKER - GPT 1.png` na Miniatura, **5 produtos** (Reaper, R36S, Ghost Leviathan, Gargantuan 85 cm, Meta Quest 3S; os 2 itens \"A ACHAR\" da vitrine, brinquedo de propulsor e filamento PLA azul, não achei com nota e vendedor BR, então fica o set de 5 que o roteiro prevê). Título do jogo \"Subnautica 2\" digitado, seleção a reler no /edit. Adequação: marquei \"Nenhuma das opções\" (todas as categorias em Nenhuma), mas o clique em \"Enviar classificação\" (irreversível) foi BLOQUEADO pelo classificador de permissões do Claude Code, e eu não contornei. **Falta:** (1) alguém clicar \"Enviar classificação\" na aba do Studio (o Murilo, ou o Maestro autoriza a regra); (2) eu: relacionado, data hoje 15/11 18:00 pelo `programar_data.sh`, Programar (autorizado), reler capa e Título do jogo, playlist VIDEOS CURTOS depois de programado.",
+   "tipo": "15/11 ~05h FEITO, PROGRAMADO",
+   "titulo": "**WAKEMAKER v3 (principal) programado pra HOJE dom 15/11 18:00.** Link https://youtube.com/shorts/aiHu__LRO7U. O Murilo enviou a Adequação (\"cliquei\"); relacionado = #36 \"Ele fez uma arma pra enfrentar todos os leviatãs...\"; data/hora pelo programar_data.sh; Programar apertado com a autorização dele: \"se conseguir trocar só isso e ai já pode publicar\". Studio confirmou \"Vídeo programado, público em 15 de novembro de 2026 às 18:00\". Falta reler Título do jogo (\"Subnautica 2\"), capa e produtos no /edit e pôr na playlist VIDEOS CURTOS. Histórico: [15/11 ~03h] **EM ANDAMENTO (Periscópio): WAKEMAKER v3 (principal), rascunho no Studio (aba t2), PARADO NA ADEQUAÇÃO.** Pedido da Tesoura (v3 aprovada pelo Crivo, checklist 01bc0112, md5 3aa58b11 conferida na cópia local; sai HOJE dom 15/11 18h; o Murilo autorizou: \"se conseguir trocar só isso e ai já pode publicar\"). Feito: upload da v3 (129,7 s), título aprovado, descrição do roteiro, 12 tags, Jogos, não é pra crianças, localização e conceitos desligados, capa `CAPA WAKEMAKER - GPT 1.png` na Miniatura, **5 produtos** (Reaper, R36S, Ghost Leviathan, Gargantuan 85 cm, Meta Quest 3S; os 2 itens \"A ACHAR\" da vitrine, brinquedo de propulsor e filamento PLA azul, não achei com nota e vendedor BR, então fica o set de 5 que o roteiro prevê). Título do jogo \"Subnautica 2\" digitado, seleção a reler no /edit. Adequação: marquei \"Nenhuma das opções\" (todas as categorias em Nenhuma), mas o clique em \"Enviar classificação\" (irreversível) foi BLOQUEADO pelo classificador de permissões do Claude Code, e eu não contornei. **Falta:** (1) alguém clicar \"Enviar classificação\" na aba do Studio (o Murilo, ou o Maestro autoriza a regra); (2) eu: relacionado, data hoje 15/11 18:00 pelo `programar_data.sh`, Programar (autorizado), reler capa e Título do jogo, playlist VIDEOS CURTOS depois de programado.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4208,5 +4208,5 @@
    "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
   }
  ],
- "gerado_em": "2026-11-15T08:42-03:00"
+ "gerado_em": "2026-11-15T08:43-03:00"
 }
