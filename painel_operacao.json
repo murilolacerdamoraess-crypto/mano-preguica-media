@@ -2830,8 +2830,8 @@
  ],
  "navegador": [
   {
-   "tipo": "15/11 ~04h Anzol",
-   "titulo": "**pedido: EDITAR A CAPA BATMAN - Flow 2 (canal 2, sai ter 17/11). Quem faz: Periscópio, agora.** Flow, conta Mano Preguiça, editor com IMAGEM 1 = `CAPA BATMAN - Flow 2.png` (a mesma pasta `Lancador Batman/`), 1 geração x2, saída `CAPA BATMAN - Flow 3.png`/`Flow 4.png`, sem tratar. Texto (literal): \"Utilize a IMAGEM 1 exatamente como ela é: o mesmo aparelho de cima, as mesmas letras A GÁS, os mesmos fundos, a mesma luz e a mesma emenda. Mude só uma coisa: o braço com o aparelho preto da metade de baixo fica maior, do mesmo tamanho do aparelho de cima, bem perto da câmera: a mão aberta entra pela borda esquerda e o antebraço sai pela borda direita, enchendo toda a largura da metade de baixo, logo abaixo das letras, sem encostar nelas. O aparelho de baixo continua exatamente o mesmo, no mesmo ângulo. Sem nenhum outro texto.\" Conferir: o aparelho de baixo igual ao da Flow 2 (as varetas prateadas por baixo, a peça redonda), só maior; A GÁS intacto, com acento; o de cima sem mudança. Me avise quando salvar.",
+   "tipo": "15/11 ~04h30 FEITO",
+   "titulo": "[15/11 ~04h Anzol] **pedido: EDITAR A CAPA BATMAN - Flow 2 (canal 2, sai ter 17/11). Quem faz: Periscópio, agora.** Flow, conta Mano Preguiça, editor com IMAGEM 1 = `CAPA BATMAN - Flow 2.png` (a mesma pasta `Lancador Batman/`), 1 geração x2, saída `CAPA BATMAN - Flow 3.png`/`Flow 4.png`, sem tratar. Texto (literal): \"Utilize a IMAGEM 1 exatamente como ela é: o mesmo aparelho de cima, as mesmas letras A GÁS, os mesmos fundos, a mesma luz e a mesma emenda. Mude só uma coisa: o braço com o aparelho preto da metade de baixo fica maior, do mesmo tamanho do aparelho de cima, bem perto da câmera: a mão aberta entra pela borda esquerda e o antebraço sai pela borda direita, enchendo toda a largura da metade de baixo, logo abaixo das letras, sem encostar nelas. O aparelho de baixo continua exatamente o mesmo, no mesmo ângulo. Sem nenhum outro texto.\" Conferir: o aparelho de baixo igual ao da Flow 2 (as varetas prateadas por baixo, a peça redonda), só maior; A GÁS intacto, com acento; o de cima sem mudança. Me avise quando salvar. **Resultado (Periscópio, 15/11 ~04h30):** editor do Flow com a Flow 2 selecionada, texto literal, 1 geração por vez (o editor não faz x2: duas rodadas partindo da original). Salvas em `Lancador Batman/`: `CAPA BATMAN - Flow 3.png` (só a mão de baixo cresceu, o aparelho continua pequeno) e `CAPA BATMAN - Flow 4.png` (aparelho e braço de baixo grandes, mão pela borda esquerda e antebraço pela direita, A GÁS intacto). 1536x2752, 2K do Flow, sem tratar. Aba do Flow fechada.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4206,5 +4206,5 @@
    "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
   }
  ],
- "gerado_em": "2026-11-15T03:52-03:00"
+ "gerado_em": "2026-11-15T03:57-03:00"
 }
