@@ -4193,7 +4193,9 @@
    "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade (principal, HOJE dom 15/11 18h)",
    "o_que": "no rascunho do Studio (navegador do agente, aba do Wakemaker), na janela de Adequação: 'Nenhuma das opções' já está marcado, só clicar em Enviar classificação. Depois o Periscópio põe a data e programa pra hoje 18h (você autorizou)",
    "onde": "Studio",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-15T08:42-03:00",
+   "nota": "Murilo 15/11 ~08h45: 'cliquei'"
   },
   {
    "id": "p235",
@@ -4206,5 +4208,5 @@
    "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
   }
  ],
- "gerado_em": "2026-11-15T03:57-03:00"
+ "gerado_em": "2026-11-15T08:42-03:00"
 }
