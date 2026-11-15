@@ -2501,14 +2501,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-   "etapa": "agendado no canal 2 pra sáb 14/11 às 18h (você aprovou e programou em 12/11; conferido pela API em 14/11 14h07: privado com saída marcada 14/11 18h, youtu.be/F7HiSnCGUi0; título, descrição, capa, playlist VÍDEOS CURTOS, 12 tags, jogo Spider-Man 2, 5 produtos com o chaveiro do PS5 em 1º, vídeo relacionado no Short da lagartixa)",
-   "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
    "etapa": "edição (14/11: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
    "responsavel": "Tesoura",
@@ -4087,5 +4079,5 @@
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
   }
  ],
- "gerado_em": "2026-11-14T21:57-03:00"
+ "gerado_em": "2026-11-15T00:01-03:00"
 }
