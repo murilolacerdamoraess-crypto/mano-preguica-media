@@ -4065,12 +4065,14 @@
    "video": "Guia do Criador: amostra A (tela real + avatar) x B (voxel próprio)",
    "o_que": "assistir as duas amostras de 18 s (mesmo texto, voz provisória) e escolher o visual do Guia do Criador. A: telas reais (YouTube do Mano e a medição do canal) + o avatar professor. B: a preguiça em voxel com a nossa cor. Na produção a voz é a sua",
    "onde": "Assistir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "video:1O8P4SVtHPR0WvJId8aGu9HlYAuu96OAE",
    "opcoes": [
     "A tela real + avatar",
     "B voxel"
-   ]
+   ],
+   "fechada_em": "2026-11-15T01:32-03:00",
+   "nota": "15/11 01:29: nenhuma das duas; voxel feio; gostou de mostrar a tela; mesclar tela + ilustração 3D; avatar novo baseado nele com pacote de expressões/personagens. Maré faz amostra nova"
   },
   {
    "id": "p228",
@@ -4113,5 +4115,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-15T01:25-03:00"
+ "gerado_em": "2026-11-15T01:34-03:00"
 }
