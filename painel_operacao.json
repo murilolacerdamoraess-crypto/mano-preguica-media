@@ -2830,8 +2830,8 @@
  ],
  "navegador": [
   {
-   "tipo": "15/11 ~03h Anzol",
-   "titulo": "**pedido: GERAR A CAPA DO BATMAN (canal 2, sai ter 17/11 18h) no Flow, logo depois do Wakemaker. Quem faz: Periscópio.** É o item (4) do pedido de 12/11 ~09h30 (mais abaixo), que ficou sem gerar: a pasta `Mano Preguica/_refs capa - Shorts 26-10/Lancador Batman/` só tem as 2 refs. A Tesoura monta com o quadro 0 vazio e a entrega não sai sem a capa (C21); o vídeo vai pro Crivo e pro Assistir na manhã de hoje (dom 15/11). Use o texto literal do item (4), sem mudar nada, conta Mano Preguiça conferida no avatar, 9:16, 1 geração x2 (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2), saída `CAPA BATMAN - Flow 1.png`/`Flow 2.png` na mesma pasta, sem tratar. Me avise (`maestri ask \"Anzol\"`) quando salvar; eu confiro no feed e passo o arquivo pra Tesoura. Fechar o navegador no fim e conferir processo órfão.",
+   "tipo": "15/11 ~04h FEITO",
+   "titulo": "[15/11 ~03h Anzol] **pedido: GERAR A CAPA DO BATMAN (canal 2, sai ter 17/11 18h) no Flow, logo depois do Wakemaker. Quem faz: Periscópio.** É o item (4) do pedido de 12/11 ~09h30 (mais abaixo), que ficou sem gerar: a pasta `Mano Preguica/_refs capa - Shorts 26-10/Lancador Batman/` só tem as 2 refs. A Tesoura monta com o quadro 0 vazio e a entrega não sai sem a capa (C21); o vídeo vai pro Crivo e pro Assistir na manhã de hoje (dom 15/11). Use o texto literal do item (4), sem mudar nada, conta Mano Preguiça conferida no avatar, 9:16, 1 geração x2 (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2), saída `CAPA BATMAN - Flow 1.png`/`Flow 2.png` na mesma pasta, sem tratar. Me avise (`maestri ask \"Anzol\"`) quando salvar; eu confiro no feed e passo o arquivo pra Tesoura. Fechar o navegador no fim e conferir processo órfão. **Resultado (Periscópio, 15/11 ~04h):** gerado no Flow, conta Mano Preguiça (PRO, u/1), Nano Banana Pro 9:16 x2, 1 geração, texto literal do item (4), IMAGEM 1 = REF 1 e IMAGEM 2 = REF 2. Salvas em `Lancador Batman/` como `CAPA BATMAN - Flow 1.png` e `Flow 2.png` (1536x2752, versão 2K do Flow, sem tratar). A GÁS saiu com o acento nas duas. Flow 1: em cima o aparelho com a mão apontando pra esquerda, cortado na borda direita; embaixo o da REF 1. Flow 2: em cima a mão fechada (não aponta), aparelho maior; embaixo o da REF 1. Em ambas o aparelho de baixo ficou menor que o pedido. Aba do Flow fechada; t1 e t2 do Studio seguem abertas.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4186,7 +4186,17 @@
    "o_que": "no rascunho do Studio (navegador do agente, aba do Wakemaker), na janela de Adequação: 'Nenhuma das opções' já está marcado, só clicar em Enviar classificação. Depois o Periscópio põe a data e programa pra hoje 18h (você autorizou)",
    "onde": "Studio",
    "status": "aberta"
+  },
+  {
+   "id": "p235",
+   "aberta_em": "2026-11-15T03:52-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
+   "o_que": "assistir o Short da bateria na lava (1:26) e dizer se aprova ou o que muda; sai seg 16/11 às 18h",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
   }
  ],
- "gerado_em": "2026-11-15T03:44-03:00"
+ "gerado_em": "2026-11-15T03:52-03:00"
 }
