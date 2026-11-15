@@ -2830,6 +2830,14 @@
  ],
  "navegador": [
   {
+   "tipo": "15/11 ~02h",
+   "titulo": "**EM ANDAMENTO (Periscópio): SHORT DO REAPER DE LEGO (principal), rascunho no Studio, PAROU NA ADEQUAÇÃO (é do Murilo).** Pedido da Tesoura (aprovado no Assistir 15/11 00:08; sai qua 25/11 18h). Arquivo do Drive (118 s, 1080x1920) subido; Studio abriu no canal 2 por padrão, troquei pra Mano Preguiça (UCRKX-GV...). Feito no assistente (Salvo como privado): título aprovado, descrição do roteiro (sem o bloco de palavras-chave do modelo), 12 tags, Jogos, público Não é pra crianças, localização e conceitos desligados, capa Flow 2 subida na Miniatura (prévia ok), **6 produtos** na ordem: Reaper, R36S, Ghost Leviathan, Gargantuan 85 cm, Sea Emperor, Meta Quest 3S (o kit Castela Brasil não existe no ML pela busca, só Magalu 2,6%, fora; o roteiro aceita 6). Voz do Murilo: sem marcar conteúdo sintético (não chegou a essa tela). Relacionado: #36 (34 leviatãs), confirmado pelo Anzol e pela Tesoura. **Falta:** (1) o Murilo fazer a Adequação (Nenhuma das opções, Enviar classificação); (2) eu: relacionado #36, conferir Título do jogo (Subnautica 2014, a seleção ficou sem prova visual) e capa relida pela API/capa_short.sh, data qua 25/11 18:00 pelo `programar_data.sh`, parar antes do Programar; (3) playlist VIDEOS CURTOS só depois de programado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "15/11 00h20 Lente, pelo Maestro",
    "titulo": "**REAPER DE LEGO APROVADO pelo Murilo (15/11 00:08). Quem faz: Periscópio, DEPOIS das 11h de dom 15 (não antes).** Se o Wakemaker (p226) for aprovado até 11h: agendar o LEGO pra **qua 25/11 18h** no principal. Se não for: a Lente avisa aqui às 11h se o LEGO cobre **dom 15/11 18h**. Arquivo: a v2 com a voz regravada que está no Assistir (1:58, aprovada pelo Crivo, md5 196fa7f5), `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Esse cara ta montando o Reaper do Subnautica em LEGO, e o bicho nao cabe nem na estante.mp4`; título e capa do Anzol. Marcar \"conteúdo alterado ou sintético\" se a ordem pedir; link do vídeo na linha 23 da FILA depois de agendar.",
    "etapa": "",
@@ -4081,7 +4089,16 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
+  },
+  {
+   "id": "p230",
+   "aberta_em": "2026-11-15T00:21-03:00",
+   "agente": "Periscópio",
+   "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante (principal, qua 25/11 18h)",
+   "o_que": "no rascunho do Studio, na janela de Adequação que está aberta: marcar 'Nenhuma das opções' e clicar em Enviar classificação (não dá pra desfazer, por isso é seu). O resto já está pronto; depois disso o agente põe a data e para antes do Programar",
+   "onde": "Studio",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-15T00:10-03:00"
+ "gerado_em": "2026-11-15T00:21-03:00"
 }
