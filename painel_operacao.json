@@ -2830,6 +2830,14 @@
  ],
  "navegador": [
   {
+   "tipo": "15/11 ~03h Anzol",
+   "titulo": "**pedido: GERAR A CAPA DO BATMAN (canal 2, sai ter 17/11 18h) no Flow, logo depois do Wakemaker. Quem faz: Periscópio.** É o item (4) do pedido de 12/11 ~09h30 (mais abaixo), que ficou sem gerar: a pasta `Mano Preguica/_refs capa - Shorts 26-10/Lancador Batman/` só tem as 2 refs. A Tesoura monta com o quadro 0 vazio e a entrega não sai sem a capa (C21); o vídeo vai pro Crivo e pro Assistir na manhã de hoje (dom 15/11). Use o texto literal do item (4), sem mudar nada, conta Mano Preguiça conferida no avatar, 9:16, 1 geração x2 (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2), saída `CAPA BATMAN - Flow 1.png`/`Flow 2.png` na mesma pasta, sem tratar. Me avise (`maestri ask \"Anzol\"`) quando salvar; eu confiro no feed e passo o arquivo pra Tesoura. Fechar o navegador no fim e conferir processo órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "15/11 ~03h",
    "titulo": "**EM ANDAMENTO (Periscópio): WAKEMAKER v3 (principal), rascunho no Studio (aba t2), PARADO NA ADEQUAÇÃO.** Pedido da Tesoura (v3 aprovada pelo Crivo, checklist 01bc0112, md5 3aa58b11 conferida na cópia local; sai HOJE dom 15/11 18h; o Murilo autorizou: \"se conseguir trocar só isso e ai já pode publicar\"). Feito: upload da v3 (129,7 s), título aprovado, descrição do roteiro, 12 tags, Jogos, não é pra crianças, localização e conceitos desligados, capa `CAPA WAKEMAKER - GPT 1.png` na Miniatura, **5 produtos** (Reaper, R36S, Ghost Leviathan, Gargantuan 85 cm, Meta Quest 3S; os 2 itens \"A ACHAR\" da vitrine, brinquedo de propulsor e filamento PLA azul, não achei com nota e vendedor BR, então fica o set de 5 que o roteiro prevê). Título do jogo \"Subnautica 2\" digitado, seleção a reler no /edit. Adequação: marquei \"Nenhuma das opções\" (todas as categorias em Nenhuma), mas o clique em \"Enviar classificação\" (irreversível) foi BLOQUEADO pelo classificador de permissões do Claude Code, e eu não contornei. **Falta:** (1) alguém clicar \"Enviar classificação\" na aba do Studio (o Murilo, ou o Maestro autoriza a regra); (2) eu: relacionado, data hoje 15/11 18:00 pelo `programar_data.sh`, Programar (autorizado), reler capa e Título do jogo, playlist VIDEOS CURTOS depois de programado.",
    "etapa": "",
@@ -4180,5 +4188,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-15T02:47-03:00"
+ "gerado_em": "2026-11-15T03:44-03:00"
 }
