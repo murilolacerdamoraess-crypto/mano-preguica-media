@@ -2830,6 +2830,14 @@
  ],
  "navegador": [
   {
+   "tipo": "15/11 Bússola, pelo Maestro",
+   "titulo": "**PLANO TIKTOK (Meta 0), 1 por dia às 18h, no dia seguinte ao do YouTube, SÓ depois de o vídeo estar PÚBLICO e o id fora do `tiktok_agenda.json` (gravar lá no mesmo passo).** Hoje (dom 15/11): nada a agendar (nenhum Short público ≤30 dias fora do agenda). Calendário: ter 17/11 bateria na lava (YT seg 16)",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "15/11 Lente, pelo Maestro",
    "titulo": "**pedido: AGENDAR o Short da cápsula do tempo (principal) pra dom 22/11 18h. Quem faz: Periscópio.** O Murilo aprovou em 15/11 com 2 retoques e autorizou agendar depois do ajuste. **Registro 15/11 (Maestro): o Murilo autorizou: \"depois de ajustar pode agendar lá no canal\"; programar na data que a Lente indicar (dom 22/11 18h), quando a Tesoura avisar o arquivo.** Só sobe a versão nova que a Tesoura entregar depois dos 2 retoques e do Crivo (nunca a de 14/11, md5 34afa8b9); a Tesoura avisa o arquivo. Título aprovado: \"Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles\". Pôr o link do Short na linha #30 da FILA ao programar.",
    "etapa": "",
@@ -4155,5 +4163,5 @@
    "chave": "narracao:serie_4546b_a1_dia2_vermelho"
   }
  ],
- "gerado_em": "2026-11-15T01:56-03:00"
+ "gerado_em": "2026-11-15T02:09-03:00"
 }
