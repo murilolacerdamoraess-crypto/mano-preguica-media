@@ -2830,6 +2830,14 @@
  ],
  "navegador": [
   {
+   "tipo": "15/11 ~04h Anzol",
+   "titulo": "**pedido: EDITAR A CAPA BATMAN - Flow 2 (canal 2, sai ter 17/11). Quem faz: Periscópio, agora.** Flow, conta Mano Preguiça, editor com IMAGEM 1 = `CAPA BATMAN - Flow 2.png` (a mesma pasta `Lancador Batman/`), 1 geração x2, saída `CAPA BATMAN - Flow 3.png`/`Flow 4.png`, sem tratar. Texto (literal): \"Utilize a IMAGEM 1 exatamente como ela é: o mesmo aparelho de cima, as mesmas letras A GÁS, os mesmos fundos, a mesma luz e a mesma emenda. Mude só uma coisa: o braço com o aparelho preto da metade de baixo fica maior, do mesmo tamanho do aparelho de cima, bem perto da câmera: a mão aberta entra pela borda esquerda e o antebraço sai pela borda direita, enchendo toda a largura da metade de baixo, logo abaixo das letras, sem encostar nelas. O aparelho de baixo continua exatamente o mesmo, no mesmo ângulo. Sem nenhum outro texto.\" Conferir: o aparelho de baixo igual ao da Flow 2 (as varetas prateadas por baixo, a peça redonda), só maior; A GÁS intacto, com acento; o de cima sem mudança. Me avise quando salvar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "15/11 ~04h FEITO",
    "titulo": "[15/11 ~03h Anzol] **pedido: GERAR A CAPA DO BATMAN (canal 2, sai ter 17/11 18h) no Flow, logo depois do Wakemaker. Quem faz: Periscópio.** É o item (4) do pedido de 12/11 ~09h30 (mais abaixo), que ficou sem gerar: a pasta `Mano Preguica/_refs capa - Shorts 26-10/Lancador Batman/` só tem as 2 refs. A Tesoura monta com o quadro 0 vazio e a entrega não sai sem a capa (C21); o vídeo vai pro Crivo e pro Assistir na manhã de hoje (dom 15/11). Use o texto literal do item (4), sem mudar nada, conta Mano Preguiça conferida no avatar, 9:16, 1 geração x2 (IMAGEM 1 = REF 1, IMAGEM 2 = REF 2), saída `CAPA BATMAN - Flow 1.png`/`Flow 2.png` na mesma pasta, sem tratar. Me avise (`maestri ask \"Anzol\"`) quando salvar; eu confiro no feed e passo o arquivo pra Tesoura. Fechar o navegador no fim e conferir processo órfão. **Resultado (Periscópio, 15/11 ~04h):** gerado no Flow, conta Mano Preguiça (PRO, u/1), Nano Banana Pro 9:16 x2, 1 geração, texto literal do item (4), IMAGEM 1 = REF 1 e IMAGEM 2 = REF 2. Salvas em `Lancador Batman/` como `CAPA BATMAN - Flow 1.png` e `Flow 2.png` (1536x2752, versão 2K do Flow, sem tratar). A GÁS saiu com o acento nas duas. Flow 1: em cima o aparelho com a mão apontando pra esquerda, cortado na borda direita; embaixo o da REF 1. Flow 2: em cima a mão fechada (não aponta), aparelho maior; embaixo o da REF 1. Em ambas o aparelho de baixo ficou menor que o pedido. Aba do Flow fechada; t1 e t2 do Studio seguem abertas.",
    "etapa": "",
