@@ -346,6 +346,30 @@
    "metricool_id": 423930037,
    "status": "agendado",
    "agendado_por": "metricool"
+  },
+  {
+   "video_id": "fmRy7htiKf8",
+   "quando": "2026-11-16T18:00:00-03:00",
+   "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+   "metricool_id": 428024976,
+   "status": "agendado",
+   "agendado_por": "metricool"
+  },
+  {
+   "video_id": "F7HiSnCGUi0",
+   "quando": "2026-11-17T18:00:00-03:00",
+   "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+   "metricool_id": 430362732,
+   "status": "agendado",
+   "agendado_por": "metricool"
+  },
+  {
+   "video_id": "aiHu__LRO7U",
+   "quando": "2026-11-19T18:00:00-03:00",
+   "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+   "metricool_id": 430362790,
+   "status": "agendado",
+   "agendado_por": "metricool"
   }
  ]
 }
