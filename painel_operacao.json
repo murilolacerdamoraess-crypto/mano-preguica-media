@@ -4343,7 +4343,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "login:noiz-lurkit-gamesight"
+  },
+  {
+   "id": "p242",
+   "aberta_em": "2026-11-16T15:51-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Em Subnautica, cada monstro tem o tamanho do seu medo",
+   "o_que": "assistir a v1 do Short do medo (sai ter 17h) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1xwmMIZad6NnaZ7eHfmDQtLf1FTb9XCDH"
   }
  ],
- "gerado_em": "2026-11-16T14:09-03:00"
+ "gerado_em": "2026-11-16T15:51-03:00"
 }
