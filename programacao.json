@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T15:03:16.389813-03:00",
+ "gerado_em": "2026-11-16T03:53:32.965754-03:00",
  "mes": {
   "postados": 9,
   "teto": 93,
@@ -10,17 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 23,
-   "ultimo_post": "2026-11-14",
+   "na_fila": 24,
+   "ultimo_post": "2026-11-15",
    "dias_parado": 1,
    "parado": false,
    "agendados": [
-    {
-     "video_id": "_YCpqe5Uxuc",
-     "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
-     "quando": "2026-11-15T18:00:00-03:00",
-     "fonte": "metricool"
-    },
     {
      "video_id": "ECIQgi3sFVY",
      "titulo": "GTA 6 sai dia 19, eu voltando do trampo às 17:99",
@@ -35,12 +29,12 @@
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares"
     },
     {
-     "video_id": "s_TWIGeMQWc",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
-    },
-    {
      "video_id": "F7HiSnCGUi0",
      "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão"
+    },
+    {
+     "video_id": "s_TWIGeMQWc",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     }
    ]
   },
@@ -48,40 +42,35 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 22,
+   "na_fila": 23,
    "ultimo_post": "2026-11-14",
-   "dias_parado": 1,
+   "dias_parado": 2,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "fmRy7htiKf8",
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-     "quando": "2026-11-15T21:30:00-03:00"
+     "quando": "2026-11-16T21:30:00-03:00"
     },
     {
      "video_id": "lybLU6Q9xV8",
      "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
-     "quando": "2026-11-16T21:30:00-03:00"
+     "quando": "2026-11-17T21:30:00-03:00"
     },
     {
      "video_id": "weC-ObCZ7Xw",
      "titulo": "Esse cara tá tentando transformar o quarto inteiro numa Pokédex",
-     "quando": "2026-11-17T21:30:00-03:00"
+     "quando": "2026-11-18T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-18T21:30:00-03:00"
+     "quando": "2026-11-19T21:30:00-03:00"
     },
     {
      "video_id": "_YCpqe5Uxuc",
      "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
-     "quando": "2026-11-19T21:30:00-03:00"
-    },
-    {
-     "video_id": "s_TWIGeMQWc",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
      "quando": "2026-11-20T21:30:00-03:00"
     },
     {
@@ -90,39 +79,44 @@
      "quando": "2026-11-21T21:30:00-03:00"
     },
     {
+     "video_id": "s_TWIGeMQWc",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
+     "quando": "2026-11-22T21:30:00-03:00"
+    },
+    {
+     "video_id": "aiHu__LRO7U",
+     "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+     "quando": "2026-11-23T21:30:00-03:00"
+    },
+    {
      "video_id": "Stm2pYvz-yE",
      "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-11-22T21:30:00-03:00"
+     "quando": "2026-11-24T21:30:00-03:00"
     },
     {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-23T21:30:00-03:00"
+     "quando": "2026-11-25T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-24T21:30:00-03:00"
+     "quando": "2026-11-26T21:30:00-03:00"
     },
     {
      "video_id": "iSzfJgFSODQ",
      "titulo": "O ranking dos consoles mais vendidos da história mudou em 2025",
-     "quando": "2026-11-25T21:30:00-03:00"
+     "quando": "2026-11-27T21:30:00-03:00"
     },
     {
      "video_id": "4B0YPRcXtjM",
      "titulo": "Qual jogo você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-26T21:30:00-03:00"
+     "quando": "2026-11-28T21:30:00-03:00"
     },
     {
      "video_id": "YAXA2f5lzMs",
      "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
-     "quando": "2026-11-27T21:30:00-03:00"
-    },
-    {
-     "video_id": "35MMvMmb38Y",
-     "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-28T21:30:00-03:00"
+     "quando": "2026-11-29T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -144,9 +138,9 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 58,
+   "na_fila": 59,
    "ultimo_post": "2026-11-04",
-   "dias_parado": 11,
+   "dias_parado": 12,
    "parado": true,
    "agendados": [],
    "previstos": [
