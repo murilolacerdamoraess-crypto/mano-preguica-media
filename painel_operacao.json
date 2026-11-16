@@ -2846,6 +2846,14 @@
  ],
  "navegador": [
   {
+   "tipo": "16/11 04h35 rotina do banco, automático",
+   "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (psql: error: could not translate host name \"aws-1-sa-east-1.pooler.supabase.com\" to address: nodename nor servname provided, or not known).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "15/11 ~04h30 FEITO",
    "titulo": "[15/11 ~04h Anzol] **pedido: EDITAR A CAPA BATMAN - Flow 2 (canal 2, sai ter 17/11). Quem faz: Periscópio, agora.** Flow, conta Mano Preguiça, editor com IMAGEM 1 = `CAPA BATMAN - Flow 2.png` (a mesma pasta `Lancador Batman/`), 1 geração x2, saída `CAPA BATMAN - Flow 3.png`/`Flow 4.png`, sem tratar. Texto (literal): \"Utilize a IMAGEM 1 exatamente como ela é: o mesmo aparelho de cima, as mesmas letras A GÁS, os mesmos fundos, a mesma luz e a mesma emenda. Mude só uma coisa: o braço com o aparelho preto da metade de baixo fica maior, do mesmo tamanho do aparelho de cima, bem perto da câmera: a mão aberta entra pela borda esquerda e o antebraço sai pela borda direita, enchendo toda a largura da metade de baixo, logo abaixo das letras, sem encostar nelas. O aparelho de baixo continua exatamente o mesmo, no mesmo ângulo. Sem nenhum outro texto.\" Conferir: o aparelho de baixo igual ao da Flow 2 (as varetas prateadas por baixo, a peça redonda), só maior; A GÁS intacto, com acento; o de cima sem mudança. Me avise quando salvar. **Resultado (Periscópio, 15/11 ~04h30):** editor do Flow com a Flow 2 selecionada, texto literal, 1 geração por vez (o editor não faz x2: duas rodadas partindo da original). Salvas em `Lancador Batman/`: `CAPA BATMAN - Flow 3.png` (só a mão de baixo cresceu, o aparelho continua pequeno) e `CAPA BATMAN - Flow 4.png` (aparelho e braço de baixo grandes, mão pela borda esquerda e antebraço pela direita, A GÁS intacto). 1536x2752, 2K do Flow, sem tratar. Aba do Flow fechada.",
    "etapa": "",
@@ -4034,18 +4042,6 @@
    "nota": "aberta por engano pelo vigia em 14/11 lendo o quadro velho: a API mostra F7HiSnCGUi0 já programado pra sáb 14/11 18h (Murilo aprovou e programou em 12/11)"
   },
   {
-   "id": "p219",
-   "aberta_em": "2026-11-14T14:09-03:00",
-   "agente": "Tarrafa",
-   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "o_que": "gravar a voz das 22 frases (principal, uns 2:40)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "fechada_em": "2026-11-14T11:30-03:00",
-   "nota": "Obra Absurda encerrado pelo Murilo (14/11); vídeo 6 não sai",
-   "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7"
-  },
-  {
    "id": "p220",
    "aberta_em": "2026-11-14T14:17-03:00",
    "agente": "Arpão",
@@ -4288,5 +4284,5 @@
    "fechada_em": "2026-11-15T19:26-03:00"
   }
  ],
- "gerado_em": "2026-11-15T19:26-03:00"
+ "gerado_em": "2026-11-16T13:54-03:00"
 }
