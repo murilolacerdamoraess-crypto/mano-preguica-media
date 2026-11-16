@@ -4075,18 +4075,6 @@
    "chave": "roteiro:mp2-teia-homem-aranha-gruda.md@v1"
   },
   {
-   "id": "p216",
-   "aberta_em": "2026-11-12T02:17-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-   "o_que": "assistir o Short do Wakemaker (2:10) e dizer se aprova ou o que muda; aprovando hoje (14/11) à noite, sai dom 15/11 às 18h (sobe a versão 2, que corrige o fundo borrado)",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1qEvgJSN8OrkTXnG29_FjirQhr0dIW9Dw",
-   "fechada_em": "2026-11-14T19:48-03:00",
-   "nota": "v1 substituída pela v2 (correção do molde: fundo borrado no modo foco), Tesoura 14/11"
-  },
-  {
    "id": "p220",
    "aberta_em": "2026-11-14T14:17-03:00",
    "agente": "Arpão",
@@ -4346,5 +4334,5 @@
    "chave": "video:1DrMNSrmZbeUOVi65ooWyLT77Y3Ck-B3Y"
   }
  ],
- "gerado_em": "2026-11-16T19:44-03:00"
+ "gerado_em": "2026-11-16T19:50-03:00"
 }
