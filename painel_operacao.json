@@ -2674,7 +2674,7 @@
   {
    "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "etapa": "edição (15/11: o vídeo está no Assistir, 1 min 26, aprovado pelo Crivo; se você aprovar até seg de manhã, sai seg 16/11 às 18h no principal; antes: título escolhido por você em 12/11: \"Por que a bateria do submarino sumia tão rápido na lava do Subnautica?\"; você gravou as 12 frases em 11 e 12/11)",
+   "etapa": "edição (15/11: o vídeo está no Assistir, 1 min 26, aprovado pelo Crivo; se você aprovar, sai sex 27/11 às 18h no principal (a vaga de seg 16/11 passou com você viajando); antes: título escolhido por você em 12/11: \"Por que a bateria do submarino sumia tão rápido na lava do Subnautica?\"; você gravou as 12 frases em 11 e 12/11)",
    "responsavel": "Tesoura",
    "falta_murilo": "assistir o Short da bateria e dizer se aprova ou o que muda",
    "prazo": ""
@@ -2908,6 +2908,14 @@
   {
    "tipo": "16/11 04h35 rotina do banco, automático",
    "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (psql: error: could not translate host name \"aws-1-sa-east-1.pooler.supabase.com\" to address: nodename nor servname provided, or not known).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "16/11 ~14h, aviso do Leme a pedido do Maestro",
+   "titulo": "**BATERIA NA LAVA (p235, principal): perdeu a vaga de seg 16/11 (Murilo viajando, não assistiu). Nova vaga: sex 27/11 18h. NADA agenda até o Murilo aprovar no Assistir.** O Short do medo de ter 17 não muda. Anotado, sem ação do navegador.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4244,7 +4252,7 @@
    "aberta_em": "2026-11-15T03:52-03:00",
    "agente": "Tesoura",
    "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
-   "o_que": "assistir o Short da bateria na lava (1:26) e dizer se aprova ou o que muda; sai seg 16/11 às 18h",
+   "o_que": "assistir o Short da bateria na lava (1:26) e dizer se aprova ou o que muda; sai sex 27/11 às 18h (a vaga de seg 16/11 passou com você viajando)",
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
@@ -4338,5 +4346,5 @@
    "chave": "video:1DrMNSrmZbeUOVi65ooWyLT77Y3Ck-B3Y"
   }
  ],
- "gerado_em": "2026-11-16T18:14-03:00"
+ "gerado_em": "2026-11-16T19:44-03:00"
 }
