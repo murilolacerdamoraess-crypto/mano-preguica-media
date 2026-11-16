@@ -922,6 +922,66 @@
  ],
  "backlog": [
   {
+   "id": "P133",
+   "titulo": "Ele andou numa corda bamba em cima dos Reapers no Subnautica, e cada queda soltava mais 5",
+   "rodada": "Rotina de segunda, 16/11/2026 (Sonar): P133 a P137",
+   "gancho": "",
+   "por_que_agora": "saiu em 13/11/2026 e tem 19.107 views em 3 dias (canal com 146 mil inscritos).",
+   "formato": "Short 2 a 3 min",
+   "concorrencia": "LIVRE (busca em português \"subnautica corda bamba reapers\" sem nenhum vídeo)",
+   "status": "na fila do roteiro (posição 1 das de Subnautica; fila cheia em 16/11, 10 de 8)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
+   "id": "P134",
+   "titulo": "Cada vez que ela tomava dano no Subnautica, nascia um leviatã, e ela zerou o jogo só com o Seaglide",
+   "rodada": "Rotina de segunda, 16/11/2026 (Sonar): P133 a P137",
+   "gancho": "",
+   "por_que_agora": "saiu em 01/11/2026, 28.021 views; o público do canal pediu Viscerface nos comentários (role, radar de feitos).",
+   "formato": "Short 2 a 3 min",
+   "concorrencia": "LIVRE (busca em português sem vídeo do desafio)",
+   "status": "na fila do roteiro (posição 3 das de Subnautica; fila cheia em 16/11, 10 de 8)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
+   "id": "P135",
+   "titulo": "Os fãs passaram 4 anos desenhando o mapa do GTA 6 antes do jogo sair, e quando o mapa vazou, estava certo",
+   "rodada": "Rotina de segunda, 16/11/2026 (Sonar): P133 a P137",
+   "gancho": "",
+   "por_que_agora": "GTA 6 sai em 19/11/2026 ([0:54] e [14:24]); o vídeo-fonte é de 28/10/2026 e tem 706.044 views (7 vezes os inscritos, 98,4 mil).",
+   "formato": "Short 1 a 2 min",
+   "concorrencia": "quase livre (em português, \"Os FÃS descobriram o TAMANHO do mapa de GTA 6?!\", Checkpoint Zero, 264 views; nenhum conta o projeto)",
+   "status": "na fila do roteiro (FAST-TRACK, janela do lançamento em 19/11: é o primeiro a ir quando a fila baixar de 8, ou antes se o Maestro abrir exceção)",
+   "frente": "2 (outro jogo com hype), janela do lançamento.",
+   "pendente": ""
+  },
+  {
+   "id": "P136",
+   "titulo": "Ele refez as bases dos sobreviventes da Degasi no Subnautica, corrigindo o erro que matou cada um",
+   "rodada": "Rotina de segunda, 16/11/2026 (Sonar): P133 a P137",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 1 a 2 min",
+   "concorrencia": "LIVRE (em português só tem série de ficção sobre a Degasi)",
+   "status": "no backlog (nota 7)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
+   "id": "P137",
+   "titulo": "Ele zerou o Below Zero só com a Prawn Suit, e as baterias mortas viraram uma pilha",
+   "rodada": "Rotina de segunda, 16/11/2026 (Sonar): P133 a P137",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 2 a 3 min",
+   "concorrencia": "LIVRE",
+   "status": "no backlog (nota 7; fim murcha)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
    "id": "P91",
    "titulo": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa, pra descobrir qual é o melhor",
    "rodada": "Longo do canal principal a partir das gravações de PokéBonk (Farol, 26/10/2026)",
@@ -1397,7 +1457,7 @@
    "por_que_agora": "rotina de segunda de 26/10, frente 1 (Subnautica é a base).",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 4 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
+   "status": "na fila do roteiro (posição 6 das de Subnautica em espera; reordenada em 11/11/2026 e em 16/11/2026, quando a P133 e a P134 entraram nas posições 1 e 3 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1421,7 +1481,7 @@
    "por_que_agora": "",
    "formato": "Short 1min",
    "concorrencia": "",
-   "status": "no backlog (nota 7,5; vira FAST-TRACK se a data da EA 2.0 sair)",
+   "status": "no backlog (nota 7,5; vira FAST-TRACK se a data da EA 2.0 sair; desde 15/11 o Sea Frog já está no experimental)",
    "frente": "",
    "pendente": ""
   },
@@ -1433,7 +1493,7 @@
    "por_que_agora": "rotina de segunda de 26/10, vídeo de 11/10.",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 2 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
+   "status": "na fila do roteiro (posição 4 das de Subnautica em espera; reordenada em 11/11/2026 e em 16/11/2026, quando a P133 e a P134 entraram nas posições 1 e 3 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1481,7 +1541,7 @@
    "por_que_agora": "nota do Murilo de 25/10 no roteiro da base por todos os biomas.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 3 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
+   "status": "na fila do roteiro (posição 5 das de Subnautica em espera; reordenada em 11/11/2026 e em 16/11/2026, quando a P133 e a P134 entraram nas posições 1 e 3 pela receita v1, sem repetir a forma nem o criador em seguida; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1529,7 +1589,7 @@
    "por_que_agora": "pedido do Murilo no Decidir de 20/10.",
    "formato": "Short 2-3min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 1 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1; a fila do Murilo está com 16 roteiros, limite 8)",
+   "status": "na fila do roteiro (posição 2 das de Subnautica em espera; reordenada em 11/11/2026 e em 16/11/2026, quando a P133 e a P134 entraram nas posições 1 e 3 pela receita v1; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -1565,7 +1625,7 @@
    "por_que_agora": "rotina de segunda de 19/10, segundo \"e se\" de escala do gerador de ângulos.",
    "formato": "Short 1-2min",
    "concorrencia": "",
-   "status": "na fila do roteiro (posição 5 das de Subnautica em espera; reordenada em 11/11/2026 pela receita v1, que põe na frente quem tem 1 + 2 + 3 ou 1 + 4; a fila do Murilo está com 16 roteiros, limite 8)",
+   "status": "na fila do roteiro (posição 7 das de Subnautica em espera; reordenada em 11/11/2026 e em 16/11/2026, quando a P133 e a P134 entraram nas posições 1 e 3 pela receita v1, que põe na frente quem tem 1 + 2 + 3 ou 1 + 4; a fila do Murilo está com 16 roteiros, limite 8)",
    "frente": "",
    "pendente": ""
   },
@@ -4031,17 +4091,6 @@
    "nota": "Murilo decretou o fim do Obra Absurda em 14/11 (\"sim pode ser assim\"): produção parada, os 5 vídeos publicados ficam no ar, o vídeo 6 não sai"
   },
   {
-   "id": "p218",
-   "aberta_em": "2026-11-14T13:12-03:00",
-   "agente": "Leme",
-   "video": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão (canal 2)",
-   "o_que": "apertar Programar no rascunho do Studio (sáb 14/11 às 18h): Editar rascunho, Visibilidade, Programar, 14 de nov., 18:00",
-   "onde": "Studio",
-   "status": "cancelada",
-   "fechada_em": "2026-11-14T14:07-03:00",
-   "nota": "aberta por engano pelo vigia em 14/11 lendo o quadro velho: a API mostra F7HiSnCGUi0 já programado pra sáb 14/11 18h (Murilo aprovou e programou em 12/11)"
-  },
-  {
    "id": "p220",
    "aberta_em": "2026-11-14T14:17-03:00",
    "agente": "Arpão",
@@ -4296,5 +4345,5 @@
    "chave": "login:noiz-lurkit-gamesight"
   }
  ],
- "gerado_em": "2026-11-16T13:57-03:00"
+ "gerado_em": "2026-11-16T14:08-03:00"
 }
