@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T03:53:32.965754-03:00",
+ "gerado_em": "2026-11-16T18:18:19.965466-03:00",
  "mes": {
   "postados": 9,
   "teto": 93,
@@ -16,25 +16,39 @@
    "parado": false,
    "agendados": [
     {
+     "video_id": "fmRy7htiKf8",
+     "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
+     "quando": "2026-11-16T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "F7HiSnCGUi0",
+     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+     "quando": "2026-11-17T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
      "video_id": "ECIQgi3sFVY",
      "titulo": "GTA 6 sai dia 19, eu voltando do trampo às 17:99",
      "quando": "2026-11-18T18:00:00-03:00",
+     "fonte": "metricool"
+    },
+    {
+     "video_id": "aiHu__LRO7U",
+     "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+     "quando": "2026-11-19T18:00:00-03:00",
      "fonte": "metricool"
     }
    ],
    "previstos": [],
    "proximos_da_fila": [
     {
-     "video_id": "fmRy7htiKf8",
-     "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares"
-    },
-    {
-     "video_id": "F7HiSnCGUi0",
-     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão"
-    },
-    {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
+    },
+    {
+     "video_id": "uC_EOBxYQ0I",
+     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
     }
    ]
   },
@@ -42,7 +56,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 23,
+   "na_fila": 24,
    "ultimo_post": "2026-11-14",
    "dias_parado": 2,
    "parado": false,
@@ -74,18 +88,18 @@
      "quando": "2026-11-20T21:30:00-03:00"
     },
     {
+     "video_id": "aiHu__LRO7U",
+     "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
+     "quando": "2026-11-21T21:30:00-03:00"
+    },
+    {
      "video_id": "F7HiSnCGUi0",
      "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-     "quando": "2026-11-21T21:30:00-03:00"
+     "quando": "2026-11-22T21:30:00-03:00"
     },
     {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-11-22T21:30:00-03:00"
-    },
-    {
-     "video_id": "aiHu__LRO7U",
-     "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
      "quando": "2026-11-23T21:30:00-03:00"
     },
     {
@@ -138,7 +152,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 59,
+   "na_fila": 60,
    "ultimo_post": "2026-11-04",
    "dias_parado": 12,
    "parado": true,
