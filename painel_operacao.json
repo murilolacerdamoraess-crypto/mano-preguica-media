@@ -4350,7 +4350,17 @@
    "onde": "Studio",
    "status": "aberta",
    "chave": "studio:XwpnJaFxWSk"
+  },
+  {
+   "id": "p245",
+   "aberta_em": "2026-11-16T22:57-03:00",
+   "agente": "Maré",
+   "video": "Guia do Criador: amostra C (tela real no 3D + avatar nerd e químico, voz provisória)",
+   "o_que": "assistir a amostra nova do Guia e dizer se segue nessa direção",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:14Icom6mJYkOSFThIVz_JYr2O3NYGMDHF"
   }
  ],
- "gerado_em": "2026-11-16T22:35-03:00"
+ "gerado_em": "2026-11-16T22:57-03:00"
 }
