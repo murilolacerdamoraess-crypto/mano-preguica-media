@@ -4360,8 +4360,10 @@
    "video": "Short: Ela tentou fazer o lançador de gancho do Batman, e foi a coisa mais difícil que já fez",
    "o_que": "assistir a v1 do Short do Batman (canal 2, sai ter 17h) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1DrMNSrmZbeUOVi65ooWyLT77Y3Ck-B3Y"
+   "status": "feita",
+   "chave": "video:1DrMNSrmZbeUOVi65ooWyLT77Y3Ck-B3Y",
+   "fechada_em": "2026-11-16T23:16-03:00",
+   "nota": "16/11 23:16: Murilo pediu ajuste (fundo com símbolo do Batman, respiros, travadas em 1:00/1:07/1:10, fundo de bolhas no zoom de 2:00); Tesoura faz a v2"
   },
   {
    "id": "p244",
@@ -4401,5 +4403,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-16T23:15-03:00"
+ "gerado_em": "2026-11-16T23:17-03:00"
 }
