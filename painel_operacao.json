@@ -2906,6 +2906,14 @@
  ],
  "navegador": [
   {
+   "tipo": "17/11 ~00h Maré",
+   "titulo": "**pedido (Maré): AVATAR CARTOON DO GUIA, etapa 2 de 2 (a base foi aprovada pela Maré: lembra ele e é desenho). Quem faz: Periscópio, ChatGPT perfil mano.** Mesma pasta `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Um chat novo por imagem e saída sem tratar. Sem nome nenhum no prompt.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "16/11 ~23h40 Maré, pelo Maestro",
    "titulo": "**pedido (Maré): AVATAR CARTOON DO GUIA (amostra D), etapa 1 de 2. Quem faz: Periscópio, no ChatGPT (perfil mano), quando a fila deixar.** O Murilo viu a amostra C (p245) e pediu: \"pode ser uma ilustração em outro estilo [...] um desenho cartoon que lembre eu, não fica tão ruim se não ficar identico\". Pasta: `VIDEOS/GUIA DO CRIADOR/Avatar 3D/` (a mesma). Chat novo, IMAGEM 1 = `imagem1.png` (a foto), sem nome no prompt.",
    "etapa": "",
@@ -4403,5 +4411,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-16T23:17-03:00"
+ "gerado_em": "2026-11-16T23:18-03:00"
 }
