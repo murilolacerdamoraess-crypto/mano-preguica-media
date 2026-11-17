@@ -862,7 +862,7 @@
    "titulo": "Vídeo que já está no ar sai sozinho do Assistir, dos roteiros e da fila de edição, ligado pelo código do vídeo e não pelo título.",
    "onde": "painel (`lib/esteira.ts`, `praRevisar` do Assistir) e `indice_operacao.py` (`limpar_publicados`), dono: Maestro. Diretor de melhorias, 17/11.",
    "confianca": "forte (3 casos, mesma causa medida no código)",
-   "status": "aguardando",
+   "status": "APROVADA 2026-11-17 (Murilo, 17/11 (pelo Maestro, origem chat): \"aprovado a R108\"); aplicada 2026-11-17: `~/canal_agente/conferir_publicados.py` (commit f5d7cf1, launchd com.canalagente.conferir-publicados todo dia 22h15) liga cada arquivo dos prontos ao código do vídeo uma vez (`producao/arquivo-video.json`, pelo número no nome do envio ou pelo título no dia em que sobe), move pra subpasta publicados o que está público e passa roteiro \"aprovado\" com video_id público pra publicado; o `limpar_publicados` (crosspost e2d96e9) aceita o título do arquivo ligado. 1ª rodada: 14 arquivos ligados, 12 saíram dos prontos (o #36 incluído, ligado pelo \"longo36.mp4\"). Crivo confere.",
    "simples": "Hoje a máquina descobre que um vídeo já saiu pelo título, e quando o título muda no Studio o vídeo fica preso: ontem o longo dos 34 leviatãs, no ar desde 09/11, voltou pra você assistir. Proposta: uma conferência diária pelo YouTube dos 2 canais tira da sua lista e da fila todo vídeo que já está no ar, pelo código do vídeo, sem você fazer nada."
   }
  ],
@@ -4368,5 +4368,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T09:33-03:00"
+ "gerado_em": "2026-11-17T09:40-03:00"
 }
