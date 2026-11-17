@@ -4432,7 +4432,24 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:11wkVrqsmuTqDwHMynVE6NofyCIhPBMjf"
+  },
+  {
+   "id": "p251",
+   "aberta_em": "2026-11-17T17:17-03:00",
+   "agente": "Lente",
+   "video": "Teste dos 4 estilos de animação",
+   "o_que": "assistir os 4 estilos lado a lado (a tabela está no fim) e escolher um bom pra postar, ou nenhum",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1Br6y1WJ2hPl6gD5MAd8gaZ_2z8Znuo5s",
+   "opcoes": [
+    "Estilo 1 IA + Flow",
+    "Estilo 2 desenho 2D",
+    "Estilo 3 pixel",
+    "Estilo 4 3D low-poly",
+    "Nenhum serve"
+   ]
   }
  ],
- "gerado_em": "2026-11-17T17:01-03:00"
+ "gerado_em": "2026-11-17T17:17-03:00"
 }
