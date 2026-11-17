@@ -2906,6 +2906,14 @@
  ],
  "navegador": [
   {
+   "tipo": "16/11 ~23h40 Maré, pelo Maestro",
+   "titulo": "**pedido (Maré): AVATAR CARTOON DO GUIA (amostra D), etapa 1 de 2. Quem faz: Periscópio, no ChatGPT (perfil mano), quando a fila deixar.** O Murilo viu a amostra C (p245) e pediu: \"pode ser uma ilustração em outro estilo [...] um desenho cartoon que lembre eu, não fica tão ruim se não ficar identico\". Pasta: `VIDEOS/GUIA DO CRIADOR/Avatar 3D/` (a mesma). Chat novo, IMAGEM 1 = `imagem1.png` (a foto), sem nome no prompt.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "16/11 ~23h30",
    "titulo": "**pedido (Âncora, decisão do Murilo 16/11 23:01, teste T14 dos cliques): ORDEM DOS PRODUTOS NOS PRÓXIMOS 6 SHORTS DO PRINCIPAL + LEITURA DE CLIQUES. Quem faz: Periscópio (principal); Leme só confirma que o canal 2 fica fora.** Murilo: \"Testar só a 1 e a 2... aplica nos vídeos NOVOS\". Ficha em `conhecimentos/caderno-de-testes.md` (T14). Nada publicado muda (o Reaper de LEGO, já programado, já está certo).",
    "etapa": "",
@@ -4393,5 +4401,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-16T23:14-03:00"
+ "gerado_em": "2026-11-16T23:15-03:00"
 }
