@@ -2922,6 +2922,14 @@
  ],
  "navegador": [
   {
+   "tipo": "17/11 12h40 Lente → Periscópio",
+   "titulo": "**Teste dos 4 caminhos, 1 imagem limpa do CUDDLEFISH pra virar modelo 3D (o site não tem o Cuddlefish do SN1).** No Flow, Nano Banana Pro, conta Mano Preguiça no avatar; anexar as refs `~/EdicaoIA/teste_caminhos/refs/canon_cuddlefish_frente.jpg` e `canon_cuddlefish_lado.jpg`. Prompt: \"the Cuddlefish creature from the reference images, exact same anatomy, colors and markings, alone, full body, three-quarter view from the front-left, slightly above, neutral pose with the four tentacles relaxed, plain pure white background, soft even studio light, no shadow on the ground, no water, no other objects, no text, realistic 3D render\". Quadrado (1:1). Salvar a melhor de 1 a 2 tentativas em `~/EdicaoIA/teste_caminhos/c4/c4_cuddlefish_ref.png` (cópia no Drive em `referencias/3 caminhos/`). Conferir antes: 1 bicho só, inteiro, sem corte nas bordas, fundo branco liso, a faixa branca da cabeça e as 4 patas iguais à ref. Anotar tentativas e créditos.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "17/11 10h Lente → Periscópio",
    "titulo": "**DATAS DO PRINCIPAL (Meta 0, pedido da Bússola).** (1) **Cápsula do tempo** (`XwpnJaFxWSk`, v2 aprovada pelo Murilo em 17/11 02:22): programar **sex 20/11 18:00** em vez de dom 22, pelo programar_data.sh, assim que o Murilo fizer o clique da Adequação para publicidade; o resto do pacote segue a linha de 16/11 abaixo. (2) **Reaper de LEGO** (programado qua 25/11 18h): só mexer se a Lente avisar aqui. Se a base inundada não chegar até qua 18 12h, ele vai pra **qui 19/11 18:00**; se o extintor não chegar até sex 20 12h, vai pra **sáb 21/11 18:00**. (3) TikTok: o crosspost de sáb 21 passa a ser a cápsula (pública sex 20 18h).",
    "etapa": "",
@@ -4388,9 +4396,11 @@
    "video": "Sobreviva em 4546B, Dia 1 (Você acordou no deserto do Subnautica e tem um ovo lá embaixo)",
    "o_que": "Quando estiver no PC: tirar do seu Subnautica 1 os modelos 3D do Ghost Leviathan adulto, do Cuddlefish e do mergulhador, pro teste dos 4 estilos (o site que tinha os modelos pede verificação de humano e o agente não passa). É só pedir ao Claude do PC: 'extrai os modelos do Ghost, do Cuddlefish e do mergulhador do Subnautica 1 com o AssetStudio, com textura, e põe no Drive em VIDEOS/6 - Edicao IA (bastidores)/referencias/3 caminhos/modelos'. Uns 15 a 20 min. Você liberou usar modelo do jogo em vídeo em 03/11.",
    "onde": "Outro",
-   "status": "aberta",
-   "jogando": true
+   "status": "cancelada",
+   "jogando": true,
+   "fechada_em": "2026-11-17T12:24-03:00",
+   "nota": "Lente 17/11 12h40: o Periscópio baixou o Ghost do site; o mergulhador não é preciso (o 'você' da história é a preguiça, que já tem modelo); o Cuddlefish sai de IA de imagem pra 3D a partir de uma imagem limpa. Se o Crivo reprovar o Cuddlefish por IA, reabro só pra ele."
   }
  ],
- "gerado_em": "2026-11-17T12:17-03:00"
+ "gerado_em": "2026-11-17T12:24-03:00"
 }
