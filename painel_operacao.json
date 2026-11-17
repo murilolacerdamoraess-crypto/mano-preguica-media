@@ -4402,14 +4402,16 @@
    "video": "Short do medo e série Sobreviva em 4546B (principal)",
    "o_que": "Você reprovou a animação do medo. A Lente confirmou: o 3D feito no Mac é de formas simples (esfera, cone), sem modelo de verdade, e remendo não chega no nível profissional. O 4546B usa o mesmo 3D, então levaria a mesma reprovação. Proposta da Lente: trocar pra cenas reais do Subnautica, com a mesma voz e o mesmo roteiro (cada bicho aparece quando é dito). Enquanto você não decide, o medo e o 4546B Dia 1 (que sairia qua 18) não saem.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "decidir:formato-3d-medo-4546b",
    "opcoes": [
     "Os dois viram cenas reais do jogo",
     "Só o medo vira cenas reais; 4546B parado",
     "Parar os dois por enquanto"
-   ]
+   ],
+   "fechada_em": "2026-11-16T23:26-03:00",
+   "nota": "16/11 23:19: nenhuma das opções; quer o medo primeiro com cenas reais do jogo; série 4546B (ideia de novela) só com produto melhor, talvez outro estilo de ilustração/edição"
   }
  ],
- "gerado_em": "2026-11-16T23:18-03:00"
+ "gerado_em": "2026-11-16T23:27-03:00"
 }
