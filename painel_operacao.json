@@ -4419,7 +4419,22 @@
    ],
    "fechada_em": "2026-11-16T23:26-03:00",
    "nota": "16/11 23:19: nenhuma das opções; quer o medo primeiro com cenas reais do jogo; série 4546B (ideia de novela) só com produto melhor, talvez outro estilo de ilustração/edição"
+  },
+  {
+   "id": "p247",
+   "aberta_em": "2026-11-16T23:38-03:00",
+   "agente": "Lente",
+   "video": "Short: Em Subnautica, cada monstro tem o tamanho do seu medo (principal)",
+   "o_que": "Pra fazer o medo com cenas reais do jogo: só 9 das 17 frases têm imagem pronta no YouTube. O centro da história (o Cuddlefish crescendo entre você e o Ghost, até ficar gigante do lado de fora da base), o ovo chocando e o Ghost no escuro não existem em vídeo nenhum. Pra ter, você grava 8 cenas no PC, num save criativo com o mod Custom Command (cria e muda o tamanho de qualquer bicho), uns 30 a 45 min; a lista está na ordem da Lente. Sem essas cenas, a Lente recomenda desistir desse roteiro em vez de remendar.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "decidir:medo-v2-gravar-cenas",
+   "jogando": true,
+   "opcoes": [
+    "Gravo as 8 cenas no PC",
+    "Desiste desse roteiro"
+   ]
   }
  ],
- "gerado_em": "2026-11-16T23:32-03:00"
+ "gerado_em": "2026-11-16T23:38-03:00"
 }
