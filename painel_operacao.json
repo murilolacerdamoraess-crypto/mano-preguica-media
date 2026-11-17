@@ -4148,34 +4148,6 @@
    "nota": "16/11 22:59: Murilo liberou o render da v3"
   },
   {
-   "id": "p227",
-   "aberta_em": "2026-11-14T19:59-03:00",
-   "agente": "Maré",
-   "video": "Guia do Criador: amostra A (tela real + avatar) x B (voxel próprio)",
-   "o_que": "assistir as duas amostras de 18 s (mesmo texto, voz provisória) e escolher o visual do Guia do Criador. A: telas reais (YouTube do Mano e a medição do canal) + o avatar professor. B: a preguiça em voxel com a nossa cor. Na produção a voz é a sua",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1O8P4SVtHPR0WvJId8aGu9HlYAuu96OAE",
-   "opcoes": [
-    "A tela real + avatar",
-    "B voxel"
-   ],
-   "fechada_em": "2026-11-15T01:32-03:00",
-   "nota": "15/11 01:29: nenhuma das duas; voxel feio; gostou de mostrar a tela; mesclar tela + ilustração 3D; avatar novo baseado nele com pacote de expressões/personagens. Maré faz amostra nova"
-  },
-  {
-   "id": "p228",
-   "aberta_em": "2026-11-14T21:19-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "o_que": "assistir o Short da cápsula do tempo (1:41) e dizer se aprova ou o que muda",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1s5WroGA3PHZTY212gayNodGBwIzciIAp",
-   "fechada_em": "2026-11-15T01:36-03:00",
-   "nota": "aprovou no chat 15/11 com 2 retoques (legenda mais baixa; itens proibidos acumulam aos 29s); depois agenda direto"
-  },
-  {
    "id": "p229",
    "aberta_em": "2026-11-14T21:25-03:00",
    "agente": "Tarrafa",
@@ -4386,5 +4358,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T01:26-03:00"
+ "gerado_em": "2026-11-17T01:37-03:00"
 }
