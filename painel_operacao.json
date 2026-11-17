@@ -2834,8 +2834,8 @@
   {
    "tipo": "Short",
    "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "etapa": "edição (15/11: as cenas 3D já seguem o tempo da sua voz e a capa está pronta; a Tesoura monta o vídeo e põe no Assistir hoje durante o dia pra você aprovar; sai ter 17/11 às 18h no principal; antes: você escolheu o título; a voz das 17 frases está gravada)",
-   "responsavel": "Tesoura",
+   "etapa": "edição (16/11: você reprovou a animação, achou fraca e amadora; não sai ter 17/11 e não vai ser refeita no mesmo 3D; a proposta é refazer com cenas reais do jogo, mantendo a sua voz; o Maestro te traz a decisão)",
+   "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
   },
@@ -2905,6 +2905,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "16/11 ~23h30",
+   "titulo": "**pedido (Âncora, decisão do Murilo 16/11 23:01, teste T14 dos cliques): ORDEM DOS PRODUTOS NOS PRÓXIMOS 6 SHORTS DO PRINCIPAL + LEITURA DE CLIQUES. Quem faz: Periscópio (principal); Leme só confirma que o canal 2 fica fora.** Murilo: \"Testar só a 1 e a 2... aplica nos vídeos NOVOS\". Ficha em `conhecimentos/caderno-de-testes.md` (T14). Nada publicado muda (o Reaper de LEGO, já programado, já está certo).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "16/11 04h35 rotina do banco, automático",
    "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (psql: error: could not translate host name \"aws-1-sa-east-1.pooler.supabase.com\" to address: nodename nor servname provided, or not known).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
@@ -4368,5 +4376,5 @@
    "chave": "video:14Icom6mJYkOSFThIVz_JYr2O3NYGMDHF"
   }
  ],
- "gerado_em": "2026-11-16T23:07-03:00"
+ "gerado_em": "2026-11-16T23:09-03:00"
 }
