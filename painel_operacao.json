@@ -4408,7 +4408,21 @@
    "jogando": true,
    "fechada_em": "2026-11-17T12:24-03:00",
    "nota": "Lente 17/11 12h40: o Periscópio baixou o Ghost do site; o mergulhador não é preciso (o 'você' da história é a preguiça, que já tem modelo); o Cuddlefish sai de IA de imagem pra 3D a partir de uma imagem limpa. Se o Crivo reprovar o Cuddlefish por IA, reabro só pra ele."
+  },
+  {
+   "id": "p249",
+   "aberta_em": "2026-11-17T14:55-03:00",
+   "agente": "Maré",
+   "video": "Guia do Criador: amostra D (desenho cartoon que lembra você, com a tela real, voz provisória)",
+   "o_que": "Assistir a amostra D e escolher o formato do Guia. Ela reprovou 3 vezes no teste cego contra um vídeo da Kurzgesagt, mas nas duas últimas nenhum juiz chamou de amador; vai pra você também pra calibrar esse teste. A pergunta: você quer ESTE formato (o laboratório e o avatar fixos, com o gráfico no quadro em cima) ou o OUTRO (cada fala numa cena ilustrada própria, com mais 4 a 6 imagens e mais uma rodada)? Sem capa no começo, sem trilha e com voz provisória, porque é amostra de formato.",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1-vPoFQpcVpz97i2ksO7AKe-94JxSTtkN",
+   "opcoes": [
+    "Este formato (laboratório fixo)",
+    "O outro (uma cena por fala)"
+   ]
   }
  ],
- "gerado_em": "2026-11-17T14:01-03:00"
+ "gerado_em": "2026-11-17T14:55-03:00"
 }
