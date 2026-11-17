@@ -856,6 +856,14 @@
    "confianca": "fraca",
    "status": "APROVADA 2026-11-14 (Murilo, 14/11 (pelo Maestro, origem chat): \"pode aprovar as 12 regras, a R106 também\"); aplicada 2026-11-14: hipótese fechada sem mudar nada (o assunto explica o resultado). Não volta a virar proposta sem caso que separe o fator do assunto.",
    "simples": "Mesma conta da voz: só 1 Short teve voz de IA com edição caprichada (a mecânica escondida, de outubro), e o oxigênio, com a sua voz, foi muito bem. Proposta: fechar sem mudar nada."
+  },
+  {
+   "id": "R108",
+   "titulo": "Vídeo que já está no ar sai sozinho do Assistir, dos roteiros e da fila de edição, ligado pelo código do vídeo e não pelo título.",
+   "onde": "painel (`lib/esteira.ts`, `praRevisar` do Assistir) e `indice_operacao.py` (`limpar_publicados`), dono: Maestro. Diretor de melhorias, 17/11.",
+   "confianca": "forte (3 casos, mesma causa medida no código)",
+   "status": "aguardando",
+   "simples": "Hoje a máquina descobre que um vídeo já saiu pelo título, e quando o título muda no Studio o vídeo fica preso: ontem o longo dos 34 leviatãs, no ar desde 09/11, voltou pra você assistir. Proposta: uma conferência diária pelo YouTube dos 2 canais tira da sua lista e da fila todo vídeo que já está no ar, pelo código do vídeo, sem você fazer nada."
   }
  ],
  "equipe": [
@@ -4352,5 +4360,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T08:43-03:00"
+ "gerado_em": "2026-11-17T09:33-03:00"
 }
