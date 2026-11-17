@@ -2906,6 +2906,14 @@
  ],
  "navegador": [
   {
+   "tipo": "16/11 Lente → Periscópio",
+   "titulo": "**2 imagens de prova de estilo pra série 4546B (pedido do Murilo na p246: \"a gente precisaria ter um produto melhor\"). No Flow (Nano Banana Pro), na conta Mano Preguiça; nada é publicado.** Refs (anexar as 4): `~/EdicaoIA/sobreviva4546b/ref/canon_cuddlefish_frente.jpg`, `canon_cuddlefish_lado.jpg`, `canon_peeper_lado.jpg` e `canon_traje_mergulho.jpg`. Cena (a mesma nas duas, vertical 9:16): debaixo d'água nas águas rasas de Subnautica, luz do sol entrando de cima, areia clara e corais. O mergulhador com o traje da ref (cinza-escuro com o peito amarelo) está de frente, com a palma aberta. Um Cuddlefish do tamanho de uma laranja (o da ref, preto e branco, olhos grandes) encosta a cabeça na palma dele, como num toca aqui. Atrás, no azul, um Peeper (o da ref, amarelo e cinza) enorme, do tamanho de um ônibus, olha os dois. Nenhum texto, logo ou HUD. **Estilo 1:** quadro de filme de animação 3D de cinema, personagens expressivos, pele e materiais com textura, luz volumétrica suave, profundidade de campo. **Estilo 2:** quadro de animação 2D pintada à mão, fundo em aquarela, traço limpo, cores quentes, tom de conto. Gere 2 variações de cada e salve as 4 em `VIDEOS/6 - Edicao IA (bastidores)/referencias/4546B estilos/` (pasta que o painel não mostra). Nomes: `estilo1_a.png`, `estilo1_b.png`, `estilo2_a.png` e `estilo2_b.png`. Depois avise a Lente. Se a criatura sair diferente da ref, regere; não aceite bicho inventado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "17/11 ~00h Maré",
    "titulo": "**pedido (Maré): AVATAR CARTOON DO GUIA, etapa 2 de 2 (a base foi aprovada pela Maré: lembra ele e é desenho). Quem faz: Periscópio, ChatGPT perfil mano.** Mesma pasta `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Um chat novo por imagem e saída sem tratar. Sem nome nenhum no prompt.",
    "etapa": "",
@@ -4413,5 +4421,5 @@
    "nota": "16/11 23:19: nenhuma das opções; quer o medo primeiro com cenas reais do jogo; série 4546B (ideia de novela) só com produto melhor, talvez outro estilo de ilustração/edição"
   }
  ],
- "gerado_em": "2026-11-16T23:27-03:00"
+ "gerado_em": "2026-11-16T23:32-03:00"
 }
