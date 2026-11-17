@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17T14:35:42.549329Z",
+ "gerado_em": "2026-11-17T16:41:25.186774Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -787,16 +787,16 @@
   },
   {
    "arquivo": "short-capsula-10-mil-metros-dono-foto-da-base.md",
-   "name": "SHORT - A cápsula dos 10 mil metros do Subnautica tinha dono, e a foto que veio junto é a base dele",
-   "titulo_roteiro": "SHORT: quem mandou a cápsula dos 10 mil metros",
+   "name": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
+   "titulo_roteiro": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "description": "Short do canal principal (pauta P66, escrita pelo Farol a partir do longo das cápsulas, que o Murilo trocou por Shorts em 18/10; pedido de roteiro de 19/10). Continuação do nosso Short dos 10 mil metros, respondendo a pe",
-   "status": "roteiro (na fila do Arpão, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
-   "gate": "portão de fontes e de fluidez (com a R17) APROVADOS 2026-10-19; os 3 títulos passaram no portao_pauta.py; história guiada (interrogatório e leitor Murilo) feita; falta o OK do Murilo",
+   "status": "roteiro (em conferência (Crivo), versão 4)",
+   "gate": "v4 (17/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": null
   },
   {
