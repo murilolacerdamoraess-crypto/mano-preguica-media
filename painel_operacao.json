@@ -2826,15 +2826,15 @@
   {
    "tipo": "Short",
    "titulo": "Sobreviva em 4546B, Dia 1 (Você acordou no deserto do Subnautica e tem um ovo lá embaixo)",
-   "etapa": "edição (16/11: parado, não sai qua 18; usa a mesma animação 3D do Short do medo, que você reprovou; o formato depende da sua escolha no Decidir: cenas reais do jogo nos dois, só no medo com a série parada, ou parar os dois)",
+   "etapa": "edição (parado desde 16/11 e sem data; você respondeu na p246 que quer um produto melhor; o teste lado a lado de 4 estilos (IA com movimento, desenho 2D em camadas, pixel art e 3D low-poly com os bichos de verdade do jogo) está em produção com 3 frases do medo e vai pro Assistir pra você escolher o estilo antes de gravar a série)",
    "responsavel": "Lente",
-   "falta_murilo": "escolher o que fazer com o medo e a série 4546B",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "etapa": "edição (16/11: você reprovou a animação, achou fraca e amadora; não sai ter 17/11 e não vai ser refeita no mesmo 3D; a proposta é refazer com cenas reais do jogo, mantendo a sua voz; o Maestro te traz a decisão)",
+   "etapa": "edição (16/11: você reprovou a animação; a versão com cenas reais do jogo e a sua voz está com a Tesoura, passa no portão de acabamento do Crivo antes de ir pro Assistir; o clímax, com o Cuddlefish gigante, não existe em nenhum vídeo do YouTube e depende de gravar com o mod)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -2907,7 +2907,7 @@
  "navegador": [
   {
    "tipo": "17/11 08h Lente → Periscópio",
-   "titulo": "**Teste dos 3 caminhos visuais (pedido do Murilo, 17/11, pelo Maestro). Nada é publicado; gaste só o necessário. Ordem completa: `projetos/canal-agente/producao/teste-3-caminhos-visuais.md`. Entregue em `VIDEOS/6 - Edicao IA (bastidores)/referencias/3 caminhos/` (o painel não mostra) e avise a Lente a cada parte.** Refs canon em `~/EdicaoIA/teste_caminhos/refs/`: Cuddlefish `canon_cuddlefish_frente.jpg` e `canon_cuddlefish_lado.jpg`, Ghost `canon_ghost_47.5.jpg` e `canon_ghost_62.5.jpg`. Bicho diferente da ref = regerar. Anote quantas tentativas e quanto tempo levou cada parte (entra na conta de custo).",
+   "titulo": "**Teste dos 4 caminhos visuais (pedido do Murilo, 17/11, pelo Maestro; o 4º entrou às 08h). Nada é publicado; gaste só o necessário. Ordem completa: `projetos/canal-agente/producao/teste-3-caminhos-visuais.md`. Entregue em `VIDEOS/6 - Edicao IA (bastidores)/referencias/3 caminhos/` (o painel não mostra) e avise a Lente a cada parte.** Refs canon em `~/EdicaoIA/teste_caminhos/refs/`: Cuddlefish `canon_cuddlefish_frente.jpg` e `canon_cuddlefish_lado.jpg`, Ghost `canon_ghost_47.5.jpg` e `canon_ghost_62.5.jpg`. Bicho diferente da ref = regerar. Anote quantas tentativas e quanto tempo levou cada parte (entra na conta de custo).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4363,5 +4363,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T07:49-03:00"
+ "gerado_em": "2026-11-17T07:50-03:00"
 }
