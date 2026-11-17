@@ -649,6 +649,14 @@ def limpar_publicados(seco=False):
             except Exception:
                 continue
             pubs[d.get("id") or f[:-5]] = {"titulo": d.get("titulo", ""), "quando": quando, "canal": canal}
+    # R108 (17/11/2026): a conferência diária pela API (conferir_publicados.py) traz TODO vídeo público dos 2 canais
+    # e os títulos dos arquivos ligados a ele pelo código; título trocado no Studio não segura mais a linha
+    try:
+        for vid, p in json.load(open(os.path.expanduser("~/.canal-agente/publicados-canal.json"), encoding="utf-8"))["videos"].items():
+            q = dt.datetime.fromisoformat(p["quando"].replace("Z", "+00:00")).astimezone()
+            pubs.setdefault(vid, {"titulo": p["titulo"], "quando": q, "canal": p["canal"]})["extras"] = p.get("titulos_extra", [])
+    except (OSError, ValueError, KeyError):
+        pass
     hoje = dt.datetime.now().astimezone().date()
     registro = open(PUBLICADOS, encoding="utf-8").read() if os.path.exists(PUBLICADOS) else ""
     try:
@@ -674,8 +682,8 @@ def limpar_publicados(seco=False):
                     p = pubs.get(vid)
                     if not p or p["quando"].date() >= hoje:
                         continue
-                    a, b = _palavras(titulo), _palavras(p["titulo"])
-                    if a and len(a & b) >= max(2, len(a) // 2):
+                    a = _palavras(titulo)
+                    if a and any(len(a & _palavras(t)) >= max(2, len(a) // 2) for t in [p["titulo"], *p.get("extras", [])]):
                         alvo = (vid, p)
                         break
             if not alvo:
