@@ -907,7 +907,7 @@
 "v": 431
 }
 ],
-"views": 3463
+"views": 3475
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -949,7 +949,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1051
+"views": 1052
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -961,7 +961,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 103800
+"views": 103900
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -979,7 +979,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1798
+"views": 1820
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -3746,7 +3746,7 @@
 "v": 5996
 }
 ],
-"views": 6568
+"views": 6575
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4073,7 +4073,7 @@
 "v": 3567
 }
 ],
-"views": 3826
+"views": 3832
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -4583,6 +4583,10 @@
 },
 {
 "t": 1794927040,
+"v": 221
+},
+{
+"t": 1794949650,
 "v": 221
 }
 ],
@@ -5100,6 +5104,10 @@
 {
 "t": 1794927040,
 "v": 100
+},
+{
+"t": 1794949650,
+"v": 100
 }
 ],
 "views": 100
@@ -5195,9 +5203,13 @@
 {
 "t": 1794941899,
 "v": 9169
+},
+{
+"t": 1794949650,
+"v": 9185
 }
 ],
-"views": 9169
+"views": 9185
 },
 "7708506553292164373": {
 "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil #games...",
@@ -5225,6 +5237,10 @@
 },
 {
 "t": 1794927040,
+"v": 144
+},
+{
+"t": 1794949650,
 "v": 144
 }
 ],
@@ -5269,9 +5285,24 @@
 {
 "t": 1794941899,
 "v": 3121
+},
+{
+"t": 1794949650,
+"v": 3151
 }
 ],
-"views": 3121
+"views": 3151
+},
+"7709248906328100116": {
+"titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
+"ts": 1794949383,
+"fotos": [
+{
+"t": 1794949650,
+"v": 15
+}
+],
+"views": 15
 }
 }
 }
