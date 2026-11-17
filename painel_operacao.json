@@ -2910,6 +2910,14 @@
    "responsavel": "Leme",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Inventamos um monstro do Subnautica que ataca do lado contrário ao som",
+   "etapa": "roteiro (teste de criatura inventada, o Eco, contada como arquivo apagado da Alterra com a voz do PDA, sem a sua voz; uns 60 segundos; aprovado pelo Crivo em 17/11 e no Decidir; título, selo na tela e descrição dizem que é inventado)",
+   "responsavel": "Arpão",
+   "falta_murilo": "nada além do Decidir",
+   "prazo": ""
   }
  ],
  "navegador": [
@@ -4082,8 +4090,10 @@
    "video": "Sobreviva em 4546B, Dia 1: o ovo do deserto",
    "o_que": "gravar a voz das 8 frases (é o primeiro episódio da série e o primeiro a gravar; saída: qua 18/11 às 18h)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:serie_4546b_a1_dia1"
+   "status": "cancelada",
+   "chave": "narracao:serie_4546b_a1_dia1",
+   "fechada_em": "2026-11-17T11:35-03:00",
+   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
   },
   {
    "id": "p198",
@@ -4196,8 +4206,10 @@
    "video": "Sobreviva em 4546B, Dia 2, caminho verde (desceu pelo meio da água)",
    "o_que": "gravar a voz das 7 frases (saída: sex 20/11 às 18h; só vai ao ar se o verde ganhar o voto do Dia 1, mas grave os dois caminhos logo depois do Dia 1, porque o voto só fecha na quinta e não sobra tempo pra gravar depois)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:serie_4546b_a1_dia2_verde"
+   "status": "cancelada",
+   "chave": "narracao:serie_4546b_a1_dia2_verde",
+   "fechada_em": "2026-11-17T11:35-03:00",
+   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
   },
   {
    "id": "p233",
@@ -4206,8 +4218,10 @@
    "video": "Sobreviva em 4546B, Dia 2, caminho vermelho (desceu colado no fundo)",
    "o_que": "gravar a voz das 8 frases (saída: sex 20/11 às 18h; só vai ao ar se o vermelho ganhar o voto do Dia 1, mas grave os dois caminhos logo depois do Dia 1, porque o voto só fecha na quinta e não sobra tempo pra gravar depois)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:serie_4546b_a1_dia2_vermelho"
+   "status": "cancelada",
+   "chave": "narracao:serie_4546b_a1_dia2_vermelho",
+   "fechada_em": "2026-11-17T11:35-03:00",
+   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
   },
   {
    "id": "p235",
@@ -4368,5 +4382,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T09:40-03:00"
+ "gerado_em": "2026-11-17T11:35-03:00"
 }
