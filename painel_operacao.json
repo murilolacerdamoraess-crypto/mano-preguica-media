@@ -2978,8 +2978,8 @@
    "prazo": ""
   },
   {
-   "tipo": "15/11 ~01h40 Maré, pelo Maestro",
-   "titulo": "**pedido (Maré): AVATAR 3D DO GUIA DO CRIADOR, a partir da foto real do Murilo. Quem faz: Periscópio, no ChatGPT (perfil mano), quando a fila dele deixar; sem pressa contra os vídeos do Mano.** O Maestro aprovou o método do rosto fiel (o mesmo das 14 poses de 25/10): a foto real como IMAGEM 1, sem capa anexada e sem nome nenhum no prompt. Pasta: `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Anexo: IMAGEM 1 = `imagem1.png` (cópia de `_refs rosto do Murilo/poses/de frente neutro.png`). Um chat novo por imagem, saída sem tratar.",
+   "tipo": "15/11 ~01h40, FEITO 16/11 ~23h (Periscópio)",
+   "titulo": "~~**pedido (Maré): AVATAR 3D DO GUIA DO CRIADOR, a partir da foto real do Murilo. Quem faz: Periscópio, no ChatGPT (perfil mano), quando a fila dele deixar; sem pressa contra os vídeos do Mano.** O Maestro aprovou o método do rosto fiel (o mesmo das 14 poses de 25/10): a foto real como IMAGEM 1, sem capa anexada e sem nome nenhum no prompt. Pasta: `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Anexo: IMAGEM 1 = `imagem1.png` (cópia de `_refs rosto do Murilo/poses/de frente neutro.png`). Um chat novo por imagem, saída sem tratar.~~ **Resultado:** ChatGPT perfil mano, todas na pasta `Avatar 3D/` (1087x1447): `NERD base.png` (aprovada pela Maré), `QUIMICO base.png` (reprovada: fone na cabeça), `QUIMICO base v2.png` (a partir da NERD, sem fone, mesmo rosto e tamanho), mais `boca meia`, `boca aberta` e `olhos fechados` da NERD e da QUIMICO v2. Rosto conferido lado a lado. Pegadinha: o resultado é a ÚLTIMA imagem grande do chat; o anexo também conta como imagem grande, então comparar com a IMAGEM 1 (diferença média > 1,5) antes de salvar (3 saídas iguais à base em 16/11, refeitas). Navegador fechado, 0 órfão.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4352,5 +4352,5 @@
    "chave": "studio:XwpnJaFxWSk"
   }
  ],
- "gerado_em": "2026-11-16T19:56-03:00"
+ "gerado_em": "2026-11-16T22:35-03:00"
 }
