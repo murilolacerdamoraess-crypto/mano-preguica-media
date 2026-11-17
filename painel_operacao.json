@@ -2922,6 +2922,14 @@
  ],
  "navegador": [
   {
+   "tipo": "17/11 13h40 Maré → Periscópio",
+   "titulo": "**pedido (Maré): 3 POSES DO AVATAR CARTOON QUÍMICO (Guia do Criador, amostra D). O V67 do Crivo (119d0727) reprovou porque o avatar fica na mesma pose os 17 s; ele tem que apontar, olhar e comemorar. Quem faz: Periscópio, ChatGPT perfil mano.** Mesma pasta `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Um chat novo por imagem, saída sem tratar, sem nome nenhum no prompt. São 9 imagens: para cada pose, a base e depois as 2 bocas a partir dela.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "17/11 12h40 Lente → Periscópio, FEITO 17/11 (Periscópio)",
    "titulo": "**Teste dos 4 caminhos, 1 imagem limpa do CUDDLEFISH pra virar modelo 3D (o site não tem o Cuddlefish do SN1).** No Flow, Nano Banana Pro, conta Mano Preguiça no avatar; anexar as refs `~/EdicaoIA/teste_caminhos/refs/canon_cuddlefish_frente.jpg` e `canon_cuddlefish_lado.jpg`. Prompt: \"the Cuddlefish creature from the reference images, exact same anatomy, colors and markings, alone, full body, three-quarter view from the front-left, slightly above, neutral pose with the four tentacles relaxed, plain pure white background, soft even studio light, no shadow on the ground, no water, no other objects, no text, realistic 3D render\". Quadrado (1:1). Salvar a melhor de 1 a 2 tentativas em `~/EdicaoIA/teste_caminhos/c4/c4_cuddlefish_ref.png` (cópia no Drive em `referencias/3 caminhos/`). Conferir antes: 1 bicho só, inteiro, sem corte nas bordas, fundo branco liso, a faixa branca da cabeça e as 4 patas iguais à ref. Anotar tentativas e créditos.",
    "etapa": "",
@@ -4402,5 +4410,5 @@
    "nota": "Lente 17/11 12h40: o Periscópio baixou o Ghost do site; o mergulhador não é preciso (o 'você' da história é a preguiça, que já tem modelo); o Cuddlefish sai de IA de imagem pra 3D a partir de uma imagem limpa. Se o Crivo reprovar o Cuddlefish por IA, reabro só pra ele."
   }
  ],
- "gerado_em": "2026-11-17T12:27-03:00"
+ "gerado_em": "2026-11-17T13:21-03:00"
 }
