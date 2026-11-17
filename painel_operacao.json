@@ -4372,10 +4372,10 @@
    "video": "Guia do Criador: amostra C (tela real no 3D + avatar nerd e químico, voz provisória)",
    "o_que": "assistir a amostra nova do Guia e dizer se segue nessa direção",
    "onde": "Assistir",
-   "status": "cancelada",
+   "status": "feita",
    "chave": "video:14Icom6mJYkOSFThIVz_JYr2O3NYGMDHF",
-   "fechada_em": "2026-11-16T23:13-03:00",
-   "nota": "16/11: tirada do Assistir antes de ele ver; reprovou no portão de acabamento V67 do Crivo (743f6f32: fundo chapado, colunas em caixa, foto recortada colada). A Maré faz a próxima amostra."
+   "fechada_em": "2026-11-16T23:07-03:00",
+   "nota": "16/11 23:07: Murilo aprovou a direção ('eu gostei de modo geral') com ajuste: avatar vira ilustração cartoon que lembre ele, não foto. O portão V67 do Crivo (743f6f32) também reprovou o acabamento. A Maré faz a amostra D."
   },
   {
    "id": "p246",
@@ -4393,5 +4393,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-16T23:13-03:00"
+ "gerado_em": "2026-11-16T23:14-03:00"
 }
