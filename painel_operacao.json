@@ -4073,18 +4073,6 @@
    "status": "aberta"
   },
   {
-   "id": "p212",
-   "aberta_em": "2026-11-12T01:14-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "o_que": "assistir a v2 do Short do Reaper de LEGO (1:58), com a sua voz regravada, e dizer se aprova ou o que muda; aprovando, sai qua 25/11 às 18h no principal",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1_1ZE9umLCs4-I7VY0M8DqSyBI_kvmXum",
-   "fechada_em": "2026-11-15T00:09-03:00",
-   "nota": "aprovou no painel 15/11 00:08 (#72)"
-  },
-  {
    "id": "p213",
    "aberta_em": "2026-11-12T01:17-03:00",
    "agente": "Tarrafa",
@@ -4143,21 +4131,6 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-void-700-metros-subida.md@v6"
-  },
-  {
-   "id": "p224",
-   "aberta_em": "2026-11-14T15:09-03:00",
-   "agente": "Arpão",
-   "video": "A água do Subnautica 2 envenena e tira meses de vida (roteiro parado)",
-   "o_que": "a tela da pesquisa do metal não aparece em nenhum vídeo do YouTube: esperar você gravar essa tela no seu jogo quando voltar pro PC (recomendado) ou engavetar",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Esperar eu gravar a tela",
-    "Engavetar"
-   ],
-   "fechada_em": "2026-11-15T00:09-03:00",
-   "nota": "escolheu Engavetar no painel 15/11 00:08"
   },
   {
    "id": "p225",
@@ -4436,5 +4409,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-16T23:38-03:00"
+ "gerado_em": "2026-11-17T00:10-03:00"
 }
