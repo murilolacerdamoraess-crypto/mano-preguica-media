@@ -4194,17 +4194,6 @@
    "chave": "narracao:serie_4546b_a1_dia2_vermelho"
   },
   {
-   "id": "p234",
-   "aberta_em": "2026-11-15T02:47-03:00",
-   "agente": "Periscópio",
-   "video": "Short: Esse cara construiu o Wakemaker do Subnautica 2 de verdade (principal, HOJE dom 15/11 18h)",
-   "o_que": "no rascunho do Studio (navegador do agente, aba do Wakemaker), na janela de Adequação: 'Nenhuma das opções' já está marcado, só clicar em Enviar classificação. Depois o Periscópio põe a data e programa pra hoje 18h (você autorizou)",
-   "onde": "Studio",
-   "status": "feita",
-   "fechada_em": "2026-11-15T08:42-03:00",
-   "nota": "Murilo 15/11 ~08h45: 'cliquei'"
-  },
-  {
    "id": "p235",
    "aberta_em": "2026-11-15T03:52-03:00",
    "agente": "Tesoura",
@@ -4363,5 +4352,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T07:50-03:00"
+ "gerado_em": "2026-11-17T08:43-03:00"
 }
