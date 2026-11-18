@@ -4328,8 +4328,10 @@
    "video": "Short: Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
    "o_que": "No Studio do canal principal, abrir o rascunho da cápsula (youtube.com/shorts/XwpnJaFxWSk), ir em Adequação para publicidade, marcar 'Nenhuma das opções' e clicar em Enviar classificação. O resto (capa, data dom 22/11 18h e programar) o Periscópio faz depois. Dá tempo até sex 20/11.",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "studio:XwpnJaFxWSk"
+   "status": "feita",
+   "chave": "studio:XwpnJaFxWSk",
+   "fechada_em": "2026-11-17T23:58-03:00",
+   "nota": "17/11 ~00h Murilo enviou a classificação de Adequação; Periscópio segue com capa e data"
   },
   {
    "id": "p245",
@@ -4454,5 +4456,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T23:52-03:00"
+ "gerado_em": "2026-11-17T23:58-03:00"
 }
