@@ -4439,7 +4439,20 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1FIxSVt-51i0g55f4txdfOSlRA3aVItAd"
+  },
+  {
+   "id": "p253",
+   "aberta_em": "2026-11-17T23:52-03:00",
+   "agente": "Maré",
+   "video": "Guia do Criador: teste dos dois formatos (laboratório fixo x uma cena por fala)",
+   "o_que": "Escolher onde sai o teste dos dois formatos do Guia: 10 Shorts, 5 de cada, 1 por dia, com a sua voz. O canal do Guia no YouTube já existe. No TikTok não achei perfil do Guia: se quiser lá também, eu crio um perfil novo pelo navegador, e SMS ou captcha fica com você. Com o TikTok o teste tem o dobro de dados pra decidir.",
+   "onde": "Outro",
+   "status": "aberta",
+   "opcoes": [
+    "Só YouTube",
+    "YouTube e TikTok novo"
+   ]
   }
  ],
- "gerado_em": "2026-11-17T23:50-03:00"
+ "gerado_em": "2026-11-17T23:52-03:00"
 }
