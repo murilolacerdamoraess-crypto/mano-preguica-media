@@ -2618,9 +2618,9 @@
   {
    "tipo": "Short",
    "titulo": "O grito do Ghast do Minecraft é o gato do compositor (canal 2)",
-   "etapa": "roteiro (em conferência (Crivo), versão 3: reescrito com as regras de hoje e o fato inteiro no título, como teste do canal 2 pedido pelo Sextante; o grito tocando, o Ghast, quem fez o som, o gato acordado do lado do microfone e o gato que nunca miava direito; uns 95 s)",
+   "etapa": "gravação (texto no Gravar com 11 frases; versão 3 aprovada pelo Crivo em 18/11, teste do canal 2 pedido pelo Sextante: o grito tocando, o Ghast, quem fez o som, a pergunta no Reddit e o gato acordado do lado do microfone; uns 85 s)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4678,7 +4678,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-subnautica-dias-de-1-segundo.md@v4"
+  },
+  {
+   "id": "p266",
+   "aberta_em": "2026-11-18T16:32-03:00",
+   "agente": "Tarrafa",
+   "video": "O grito do Ghast do Minecraft é o gato do compositor (canal 2)",
+   "o_que": "gravar a voz (11 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-ghast-grito-gato-c418.md@v3"
   }
  ],
- "gerado_em": "2026-11-18T16:15-03:00"
+ "gerado_em": "2026-11-18T16:32-03:00"
 }
