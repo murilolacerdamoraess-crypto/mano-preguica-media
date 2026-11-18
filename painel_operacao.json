@@ -2762,9 +2762,9 @@
   {
    "tipo": "Short",
    "titulo": "Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
-   "etapa": "roteiro (versão 4 no Decidir, aprovada pelo Crivo em 17/11; responde a pergunta mais curtida do nosso Short dos 10 mil metros, se dá pra achar a base da foto da cápsula; a gente achou a cápsula no site oficial, sem o nome do dono, saber o lugar não adianta porque o jogo de cada pessoa é um mundo separado, e a base aparece pra quem acha a cápsula, quase 8 mil vezes até hoje; uns 2 min e 30, voz sua; não sobe pro Gravar enquanto a fila de voz estiver travada)",
+   "etapa": "gravação (texto no Gravar com 14 frases desde 18/11; versão 5 aprovada pelo Crivo: responde a pergunta mais curtida do nosso Short dos 10 mil metros, se dá pra achar a base da foto; a base nunca vai pro jogo dos outros, a gente tentou achar o dono pelo site oficial e o site não mostra o nome, mas a cápsula já foi achada quase 8 mil vezes e cada um viu a base na foto)",
    "responsavel": "Arpão",
-   "falta_murilo": "nada além do Decidir",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4658,7 +4658,17 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1vt5aCbFoR-RdqHORAObVRClXDQ9zrEeY"
+  },
+  {
+   "id": "p264",
+   "aberta_em": "2026-11-18T16:07-03:00",
+   "agente": "Arpão",
+   "video": "Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
+   "o_que": "gravar a voz (14 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-capsula-10-mil-metros-dono-foto-da-base.md@v5"
   }
  ],
- "gerado_em": "2026-11-18T15:55-03:00"
+ "gerado_em": "2026-11-18T16:07-03:00"
 }
