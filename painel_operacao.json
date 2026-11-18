@@ -864,6 +864,14 @@
    "confianca": "forte (3 casos, mesma causa medida no código)",
    "status": "APROVADA 2026-11-17 (Murilo, 17/11 (pelo Maestro, origem chat): \"aprovado a R108\"); aplicada 2026-11-17: `~/canal_agente/conferir_publicados.py` (commit f5d7cf1, launchd com.canalagente.conferir-publicados todo dia 22h15) liga cada arquivo dos prontos ao código do vídeo uma vez (`producao/arquivo-video.json`, pelo número no nome do envio ou pelo título no dia em que sobe), move pra subpasta publicados o que está público e passa roteiro \"aprovado\" com video_id público pra publicado; o `limpar_publicados` (crosspost e2d96e9) aceita o título do arquivo ligado. 1ª rodada: 14 arquivos ligados, 12 saíram dos prontos (o #36 incluído, ligado pelo \"longo36.mp4\"). Crivo confere.",
    "simples": "Hoje a máquina descobre que um vídeo já saiu pelo título, e quando o título muda no Studio o vídeo fica preso: ontem o longo dos 34 leviatãs, no ar desde 09/11, voltou pra você assistir. Proposta: uma conferência diária pelo YouTube dos 2 canais tira da sua lista e da fila todo vídeo que já está no ar, pelo código do vídeo, sem você fazer nada."
+  },
+  {
+   "id": "R109",
+   "titulo": "A ordem de produção só vai pra Tesoura depois que todos os trechos escolhidos passam de uma vez pelas mesmas medidas que a Tesoura e o Crivo usam.",
+   "onde": "role da Lente (`roles/direcao.md`, ordem de produção) e `producao/_MODELO-ordem-de-producao.md`; trava no crivo_auto (Crivo). Diretor de melhorias, 18/11.",
+   "confianca": "forte no problema (7 Shorts, 2 ordens com o caminho todo no git), aposta no tamanho do ganho (parte das horas é render e Crivo de outras coisas, como o respiro do Batman).",
+   "status": "aguardando",
+   "simples": "Hoje a edição de um Short está levando 14 a 16 horas (a meta é 4) porque a escolha de quais cenas usar é corrigida aos pedaços durante a edição: no Short do Pokémon foram 5 voltas internas ontem, antes de chegar em você, cada uma porque um trecho do jogo travava, cortava de cena no meio ou era curto demais pra sua fala. Proposta: antes de ir pra edição, um script confere todas as cenas escolhidas de uma vez, e só segue o que passou; pra você não muda nada."
   }
  ],
  "equipe": [
@@ -4590,5 +4598,5 @@
    "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe"
   }
  ],
- "gerado_em": "2026-11-18T05:34-03:00"
+ "gerado_em": "2026-11-18T09:33-03:00"
 }
