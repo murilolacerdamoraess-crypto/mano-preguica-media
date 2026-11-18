@@ -2786,9 +2786,9 @@
   {
    "tipo": "Short",
    "titulo": "O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
-   "etapa": "roteiro (versão 3 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10), versão 2: dá dois megalodons em fila e ainda sobra Reaper, como seria a briga, se cabe na boca, se daria trabalho, e o veredito como opinião; uns 2 minutos, voz sua)",
+   "etapa": "gravação (texto no Gravar com 12 frases desde 18/11; versão 4 aprovada pelo Crivo, o 1º combate do formato que você pediu em 08/11: o megalodon caçava baleia e não era rápido, o Reaper tem mais que o dobro do tamanho, ataca por trás, prende com as garras e sacode; o veredito no fim como opinião, e o resultado decide se os outros combates saem)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4708,7 +4708,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-gargantuan-vivo-cyclops-foguete.md@v5"
+  },
+  {
+   "id": "p269",
+   "aberta_em": "2026-11-18T17:01-03:00",
+   "agente": "Arpão",
+   "video": "O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
+   "o_que": "gravar a voz (12 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
   }
  ],
- "gerado_em": "2026-11-18T16:44-03:00"
+ "gerado_em": "2026-11-18T17:01-03:00"
 }
