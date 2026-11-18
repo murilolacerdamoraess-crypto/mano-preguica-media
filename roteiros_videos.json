@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T18:55:34.494153Z",
+ "gerado_em": "2026-11-18T19:07:15.838261Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -790,7 +790,7 @@
    "name": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "titulo_roteiro": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "description": "Short do canal principal (pauta P66, escrita pelo Farol a partir do longo das cápsulas, que o Murilo trocou por Shorts em 18/10; pedido de roteiro de 19/10). Continuação do nosso Short dos 10 mil metros, respondendo a pe",
-   "status": "roteiro (em conferência (Crivo), versão 5); a v4 foi APROVADA PELO CRIVO em 17/11 (eca5efe1) e ficou no Decidir; a v5 só troca a frase 6.1 pelo ensaio de 18/11 e vai pro Gravar (R71, pedido do Maestro em 18/11)",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 5); APROVADO PELO CRIVO em 18/11 (fc52ef0f, trava c2e13e48c), publicado no Gravar em 18/11 com 14 frases",
    "gate": "v4 (17/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
