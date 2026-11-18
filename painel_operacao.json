@@ -4460,7 +4460,17 @@
     "Só YouTube",
     "YouTube e TikTok novo"
    ]
+  },
+  {
+   "id": "p254",
+   "aberta_em": "2026-11-18T00:03-03:00",
+   "agente": "Periscópio",
+   "video": "Cápsula do tempo (item proibido), Short do principal",
+   "o_que": "Clicar em Programar: o rascunho https://youtube.com/shorts/XwpnJaFxWSk está pronto (capa, título, descrição, tags, jogo, IA Não, promoção Não, relacionado: 10 mil metros) com data sex 20/11/2026 18:00. É só apertar o botão azul Programar na janela do Studio que está aberta no navegador do agente.",
+   "onde": "Studio",
+   "status": "aberta",
+   "chave": "programar:XwpnJaFxWSk"
   }
  ],
- "gerado_em": "2026-11-18T00:00-03:00"
+ "gerado_em": "2026-11-18T00:04-03:00"
 }
