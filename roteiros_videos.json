@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T19:44:10.552498Z",
+ "gerado_em": "2026-11-18T19:47:35.071944Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1278,15 +1278,15 @@
   {
    "arquivo": "short-reaper-contra-megalodon.md",
    "name": "SHORT - O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
-   "titulo_roteiro": "SHORT: o Reaper contra o megalodon",
+   "titulo_roteiro": "SHORT: o Reaper contra o megalodon (1º combate)",
    "description": "Short do canal principal (pauta P74, estudo de ângulo de 19/10, tipo crossover com animal real). A v2 conta como a briga seria. O megalodon, o maior tubarão que já existiu, caçava baleia, mordia o peito pra chegar no cor",
-   "status": "roteiro (na fila do Arpão; desde 08/11 é o primeiro do formato de COMBATES que o Murilo pediu, pautas do Sonar; fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo)",
-   "gate": "v2 de 20/10 pelo método de 19/10 (perguntas e respostas, conferente separado); portão de fontes e de fluidez APROVADOS 2026-10-20; os 3 títulos passaram no portao_pauta.py; falta o OK do Murilo",
+   "status": "roteiro (escrevendo a versão 4, 1º combate, no molde de criatura, 18/11)",
+   "gate": "v4 (18/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": null
   },
   {
