@@ -2858,9 +2858,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
-   "etapa": "gravação (texto no Gravar com 15 frases (versão 1, aprovada pelo Crivo em 12/11; o francês do Onix imprime um Mewtwo de 2 metros, testa um pequeno de 50 cm, o peito não encaixa nas pernas e ele afrouxa uma perna pra encaixar; fica de pé com quase 60 quilos e o projeto dos 151 corre risco por falta de lugar; uns 2:40, com os quadros do vídeo dele no topo e em cada frase))",
+   "etapa": "roteiro aprovado (você gravou as 15 frases em 18/11; agora a edição; sai qui 26/11 às 18h no canal 2, ou qui 19/11 se a edição ficar pronta a tempo)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "gravar a voz",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4501,11 +4501,13 @@
    "video": "Guia do Criador: teste dos dois formatos (laboratório fixo x uma cena por fala)",
    "o_que": "Escolher onde sai o teste dos dois formatos do Guia: 10 Shorts, 5 de cada, 1 por dia, com a sua voz. O canal do Guia no YouTube já existe. No TikTok não achei perfil do Guia: se quiser lá também, eu crio um perfil novo pelo navegador, e SMS ou captcha fica com você. Com o TikTok o teste tem o dobro de dados pra decidir.",
    "onde": "Outro",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Só YouTube",
     "YouTube e TikTok novo"
-   ]
+   ],
+   "fechada_em": "2026-11-18T01:41-03:00",
+   "nota": "01:35 Murilo: Só YouTube"
   },
   {
    "id": "p254",
@@ -4554,5 +4556,5 @@
    "fechada_em": "2026-11-18T00:20-03:00"
   }
  ],
- "gerado_em": "2026-11-18T01:39-03:00"
+ "gerado_em": "2026-11-18T01:42-03:00"
 }
