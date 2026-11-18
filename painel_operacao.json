@@ -2938,6 +2938,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 ~17h40 Maré → Periscópio",
+   "titulo": "**pedido (Maré): 6 CENAS DO B1, o texto 02 do teste A x B do Guia do Criador (formato B = uma cena ilustrada por fala). Quem faz: Periscópio, ChatGPT perfil mano, quando a fila deixar (os vídeos do Mano vêm antes; não tem data de publicação ainda, o teste só começa com 4 vídeos prontos).** Pasta nova `VIDEOS/GUIA DO CRIADOR/B1 cenas 02/`. Um chat novo por imagem, 1 geração cada, saída sem tratar, sem nome nenhum no prompt. Anexo em todas: IMAGEM 1 = `VIDEOS/GUIA DO CRIADOR/Avatar 3D/CENARIO LAB.png` (só referência de traço; é o fundo da amostra D). O personagem NÃO entra na imagem (ele é colado depois no canto de baixo à direita) e todo texto ou número vem do Remotion.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 Periscópio, pedido da Vitrine (Âncora)",
    "titulo": "**PENDENTE: PRODUTOS DO SHORT POKÉMON NO SUBNAUTICA (principal, sai seg 23/11 18h, teste T14 forma A).** Ordem: 1º Pokébola 3D Eevee (ML, ANDRESSADUQUEDEOLIVEIRA; reserva Dragonite), depois R36S, Reaper, Switch, Ghost, Gargantuan, Quest 3S. Detalhe na seção Vitrine de `roteiros/short-pokebola-subnautica-leviata.md`. Fazer só quando o vídeo estiver no Studio com OK do Murilo: conferir preço e extensão na hora (Eevee lido em 11/11: página R$ 51,31, extensão R$ 64,90); se recusar, Dragonite; se recusar os dois, Reaper em 1º. Relacionado obrigatório (diferente de Nenhum) e conteúdo alterado conforme a voz (real = Não). Reler os 7 depois de salvar.",
    "etapa": "",
@@ -4742,5 +4750,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-18T17:35-03:00"
+ "gerado_em": "2026-11-18T17:37-03:00"
 }
