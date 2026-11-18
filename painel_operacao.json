@@ -2754,9 +2754,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
-   "etapa": "roteiro (versão 3 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10), versão 2: nenhum canto do mar seguro, nem onde o jogo começa, então tudo nadando; chega na cura com 5 de vida e no fim constrói o único submarino só pra fazer a peça do foguete enquanto ele pega fogo; uns 2 minutos e 40, voz sua)",
+   "etapa": "gravação (texto no Gravar com 17 frases desde 18/11; versão 5 aprovada pelo Crivo, reescrita no molde de jornada: ela usou um mod pra soltar dezenas de Gargantuans, foi tudo nadando porque veículo destruído some de vez, morreu e voltou pra buscar a chave, chegou na cura com 5 de vida, e no fim construiu o Cyclops no meio deles pra fazer a última peça e decolou; sai qui 03/12 às 18h no principal se a voz chegar até sáb 28/11)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4698,7 +4698,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-cyclops-fossa-das-marianas.md@v4"
+  },
+  {
+   "id": "p268",
+   "aberta_em": "2026-11-18T16:43-03:00",
+   "agente": "Arpão",
+   "video": "Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
+   "o_que": "gravar a voz (17 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-gargantuan-vivo-cyclops-foguete.md@v5"
   }
  ],
- "gerado_em": "2026-11-18T16:42-03:00"
+ "gerado_em": "2026-11-18T16:44-03:00"
 }
