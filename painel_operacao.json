@@ -2472,6 +2472,22 @@
  ],
  "producao": [
   {
+   "tipo": "Short",
+   "titulo": "O Short não se decide nos 2 primeiros segundos, e os números do meu canal mostram onde ele se decide (Guia do Criador)",
+   "etapa": "gravação (texto no Gravar com 6 frases, aprovado pelo Crivo; 1º do teste A x B do Guia, formato A, só YouTube)",
+   "responsavel": "Maré",
+   "falta_murilo": "gravar a voz no Gravar",
+   "prazo": ""
+  },
+  {
+   "tipo": "Short",
+   "titulo": "Meu Short tinha uma primeira frase ótima, e mesmo assim foi mal (Guia do Criador)",
+   "etapa": "gravação (texto no Gravar com 6 frases, aprovado pelo Crivo; 2º do teste A x B do Guia, formato B, só YouTube)",
+   "responsavel": "Maré",
+   "falta_murilo": "gravar a voz no Gravar",
+   "prazo": ""
+  },
+  {
    "tipo": "Longo",
    "titulo": "Como eu zerei todos os mapas do Megabonk de Pokémon, inclusive a torre",
    "etapa": "edição (a amostra de 5:42, com a abertura e os 2 primeiros mapas, está pronta pra você assistir; o resto do vídeo é montado no mesmo jeito depois do seu retorno; a edição segue a sua fala de 04/11, com 8 reações suas ao vivo no meio; o título final você escolheu em 10/11: \"Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa\"; a capa da torre saiu a seu pedido (12/11): 3 capas novas com os lendários que você enfrentou estão sendo feitas e chegam pra você escolher junto com o vídeo ajustado; o vídeo inteiro chega pra você assistir até sex 13/11 ao meio-dia e a saída passou pra dom 15/11 às 18h)",
@@ -4632,7 +4648,27 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1h8D3DN0N-f86bmW7rgE2LzrZp_ujv49_"
+  },
+  {
+   "id": "p261",
+   "aberta_em": "2026-11-18T12:57-03:00",
+   "agente": "Maré",
+   "video": "O Short não se decide nos 2 primeiros segundos (Guia)",
+   "o_que": "gravar a voz (6 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:guia-criador/01-a-dois-segundos.md@v2"
+  },
+  {
+   "id": "p262",
+   "aberta_em": "2026-11-18T12:57-03:00",
+   "agente": "Maré",
+   "video": "Meu Short tinha uma primeira frase ótima (Guia)",
+   "o_que": "gravar a voz (6 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:guia-criador/02-b-primeira-frase.md@v2"
   }
  ],
- "gerado_em": "2026-11-18T12:55-03:00"
+ "gerado_em": "2026-11-18T12:57-03:00"
 }
