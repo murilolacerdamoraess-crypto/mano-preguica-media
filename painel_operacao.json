@@ -2938,6 +2938,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 Periscópio, pedido da Vitrine (Âncora)",
+   "titulo": "**PENDENTE: PRODUTOS DO SHORT POKÉMON NO SUBNAUTICA (principal, sai seg 23/11 18h, teste T14 forma A).** Ordem: 1º Pokébola 3D Eevee (ML, ANDRESSADUQUEDEOLIVEIRA; reserva Dragonite), depois R36S, Reaper, Switch, Ghost, Gargantuan, Quest 3S. Detalhe na seção Vitrine de `roteiros/short-pokebola-subnautica-leviata.md`. Fazer só quando o vídeo estiver no Studio com OK do Murilo: conferir preço e extensão na hora (Eevee lido em 11/11: página R$ 51,31, extensão R$ 64,90); se recusar, Dragonite; se recusar os dois, Reaper em 1º. Relacionado obrigatório (diferente de Nenhum) e conteúdo alterado conforme a voz (real = Não). Reler os 7 depois de salvar.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 Periscópio, pedido da Bússola (Meta 0)",
    "titulo": "**CONFERIDO: base `cH1aeAYcJ6A` qui 19/11 18h e cápsula `XwpnJaFxWSk` sex 20/11 18h, os dois programados** (API: privado + publishAt 2026-11-19T21:00Z e 2026-11-20T21:00Z; Studio mostra Programado). Falta: TikTok do base sex 20/11 e da cápsula sáb 21/11, só depois de cada um ficar público, e gravar o id em tiktok_agenda.json.",
    "etapa": "",
@@ -4734,5 +4742,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-18T17:02-03:00"
+ "gerado_em": "2026-11-18T17:35-03:00"
 }
