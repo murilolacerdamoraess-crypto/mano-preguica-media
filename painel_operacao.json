@@ -870,7 +870,7 @@
    "titulo": "A ordem de produção só vai pra Tesoura depois que todos os trechos escolhidos passam de uma vez pelas mesmas medidas que a Tesoura e o Crivo usam.",
    "onde": "role da Lente (`roles/direcao.md`, ordem de produção) e `producao/_MODELO-ordem-de-producao.md`; trava no crivo_auto (Crivo). Diretor de melhorias, 18/11.",
    "confianca": "forte no problema (7 Shorts, 2 ordens com o caminho todo no git), aposta no tamanho do ganho (parte das horas é render e Crivo de outras coisas, como o respiro do Batman).",
-   "status": "aplicada em parte 2026-11-18 (Crivo: trava `operacao-maestri/crivo/tabela_r109.py`, portão \"r109\" do crivo_auto; seção \"### 3.6 Tabela dos trechos medidos (R109)\" com 9 colunas; vale pra ordem com 1º commit de 18/11 10h em diante; testada no Pokémon #44: tabela limpa passa, ALARME sem exceção, 0,66x e 5 trechos faltando reprovam. Falta a Lente: script único e tabela nas ordens, roles/direcao.md e _MODELO). Antes: aprovada 2026-11-18 pelo Murilo (aplicar depois da fila de render da noite, só em ordens novas)",
+   "status": "aplicada 2026-11-18 (Lente: `~/.claude/skills/edicao-video/scripts/medir_trechos.py` (repositório das skills, 6664ed1) mede todos os trechos da `### 3.0 Trechos escolhidos (R109)` com o código da Tesoura e do Crivo (trancos_fonte, cortes_quadro, cena do ffmpeg, fantasma só no recorte, qa/ da Tesoura) e a fonte de cada frase contra o take gravado, e escreve a 3.6 no contrato do tabela_r109 e a 3.6b; role da Lente e _MODELO em 96a83ed6. Teste: a ordem do Pokémon de 01:07 reprova nas 3 frases que geraram rodadas (p00 a 0,55x com o corte de 04:20,85; p08 a 0,78x; p18 com o corte de 04:18,17) e a abertura corrigida passa; no Mewtwo pegou o corte de 02:41,63 no pôster e mediu o recorte da fonte vertical. Crivo: trava `operacao-maestri/crivo/tabela_r109.py`, portão \"r109\" do crivo_auto; seção \"### 3.6 Tabela dos trechos medidos (R109)\" com 9 colunas; vale pra ordem com 1º commit de 18/11 10h em diante; testada no Pokémon #44: tabela limpa passa, ALARME sem exceção, 0,66x e 5 trechos faltando reprovam.). Antes: aprovada 2026-11-18 pelo Murilo (aplicar depois da fila de render da noite, só em ordens novas)",
    "simples": "Hoje a edição de um Short está levando 14 a 16 horas (a meta é 4) porque a escolha de quais cenas usar é corrigida aos pedaços durante a edição: no Short do Pokémon foram 5 voltas internas ontem, antes de chegar em você, cada uma porque um trecho do jogo travava, cortava de cena no meio ou era curto demais pra sua fala. Proposta: antes de ir pra edição, um script confere todas as cenas escolhidas de uma vez, e só segue o que passou; pra você não muda nada."
   }
  ],
@@ -4606,5 +4606,5 @@
    "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe"
   }
  ],
- "gerado_em": "2026-11-18T09:44-03:00"
+ "gerado_em": "2026-11-18T09:49-03:00"
 }
