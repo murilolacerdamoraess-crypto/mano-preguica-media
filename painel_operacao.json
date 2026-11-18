@@ -4165,8 +4165,10 @@
    "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
    "o_que": "gravar a voz das 9 frases (principal, uns 1:40)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "narracao:short_luigi_mario_64"
+   "status": "feita",
+   "chave": "narracao:short_luigi_mario_64",
+   "fechada_em": "2026-11-18T00:40-03:00",
+   "nota": "18/11 madrugada Murilo: gravei o do luigi"
   },
   {
    "id": "p215",
@@ -4526,5 +4528,5 @@
    "fechada_em": "2026-11-18T00:20-03:00"
   }
  ],
- "gerado_em": "2026-11-18T00:28-03:00"
+ "gerado_em": "2026-11-18T00:41-03:00"
 }
