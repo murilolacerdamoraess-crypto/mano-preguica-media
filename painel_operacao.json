@@ -2914,6 +2914,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 noite Anzol",
+   "titulo": "**CAPA DO EXTINTOR (#33, Deathrun, sai sáb 21/11 18h) FECHADA: `Mano Preguica/_refs capa - Shorts 26-10/Extintor Deathrun/CAPA EXTINTOR - Flow 2.png` (com 1 GOLPE).** Adiantada de qui 19/11 a pedido do Maestro. A Flow 5 (sem palavra) não entra: a bateria não saiu em 16/11, então a condição do teste T13 não se cumpre e vale a capa normal. É o quadro 0 do Short (Tesoura) e a capa que sobe no Studio, com o título escolhido `Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor`.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 ~01h15 Tarrafa → Periscópio",
    "titulo": "**pedido (Tarrafa, a pedido da Lente): BAIXAR 1 IMAGEM OFICIAL DA WIKI pro Short do Pokémon no Subnautica (principal, sai seg 23/11 18h; voz gravada 18/11). Quem faz: Periscópio. Prazo: qui 19/11 de manhã (a ordem de produção da Lente cita a imagem no trecho do Reefback, frase 5.7).** O CDN da Fandom dá 403 do Cloudflare pra pedido automático (Tarrafa e Tesoura tentaram, sem contornar); a API já deu o endereço, falta abrir no navegador e salvar o arquivo.",
    "etapa": "",
@@ -4556,5 +4564,5 @@
    "fechada_em": "2026-11-18T00:20-03:00"
   }
  ],
- "gerado_em": "2026-11-18T01:57-03:00"
+ "gerado_em": "2026-11-18T02:49-03:00"
 }
