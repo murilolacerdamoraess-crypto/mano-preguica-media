@@ -2922,6 +2922,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 ~01h Periscópio",
+   "titulo": "**PRODUTOS MARCADOS (regra nova do Murilo: nada pronto pro clique sem produto).** #86 `cH1aeAYcJ6A`: 7 produtos marcados (Reaper 1º, R36S 2º, Ghost, Gargantuan, Sea Emperor, Switch Subnautica + Below Zero, Meta Quest 3S), relidos depois de salvar. CÁPSULA `XwpnJaFxWSk` (já programada, API ainda privado + publishAt 2026-11-20T21:00Z): 7 produtos marcados na ordem do Âncora (chaveiro ACMDSTORE R$ 20,91 a 20% em 1º, R36S, Reaper, Switch, Ghost, Gargantuan, Meta Quest 3S), lidos na /edit. #86 com data qui 19/11 18:00 no assistente, Programar ligado, p257 pro Murilo.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 00h20 Periscópio",
    "titulo": "**FEITO: CÁPSULA v2 (`XwpnJaFxWSk`) PROGRAMADA sex 20/11/2026 18:00** (o Murilo clicou Programar; API: privado + publishAt 2026-11-20T21:00Z). Capa `CAPA CAPSULA - Flow 2` conferida (diferença 2,9), jogo Subnautica, IA Não (voz real), promoção Não, 12 tags, relacionado = Short dos 10 mil metros (`CZbwiBSKafE`), playlist VIDEOS CURTOS salva. Pendência p254 fechada. Data confirmada pelo Murilo (o 'dom 22' era texto velho da p244). Falta só: crosspost TikTok de sáb 21 (depois de público) e a linha no ledger/FILA #30.",
    "etapa": "",
@@ -4507,9 +4515,21 @@
    "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
    "o_que": "Só um clique: na janela do Studio aberta no navegador do agente (https://youtube.com/shorts/cH1aeAYcJ6A), apertar Programar. A Adequação já foi enviada e a data está posta (qui 19/11/2026 18:00). Pendência anterior: o clique de Programar não tinha saído (a API ainda mostra o vídeo privado, sem data).",
    "onde": "Studio",
+   "status": "cancelada",
+   "chave": "programar2:cH1aeAYcJ6A",
+   "fechada_em": "2026-11-18T00:19-03:00",
+   "nota": "Reaberta com produtos marcados (7); nova pendência"
+  },
+  {
+   "id": "p257",
+   "aberta_em": "2026-11-18T00:19-03:00",
+   "agente": "Periscópio",
+   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
+   "o_que": "Só um clique: na janela do Studio aberta no navegador do agente (https://youtube.com/shorts/cH1aeAYcJ6A), apertar Programar. Já está tudo: 7 produtos marcados (Reaper 1º, R36S 2º), Adequação enviada e data qui 19/11/2026 18:00.",
+   "onde": "Studio",
    "status": "aberta",
-   "chave": "programar2:cH1aeAYcJ6A"
+   "chave": "programar3:cH1aeAYcJ6A"
   }
  ],
- "gerado_em": "2026-11-18T00:14-03:00"
+ "gerado_em": "2026-11-18T00:19-03:00"
 }
