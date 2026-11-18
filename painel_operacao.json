@@ -4495,9 +4495,21 @@
    "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
    "o_que": "Dois cliques no Studio (janela aberta no navegador do agente, https://youtube.com/shorts/cH1aeAYcJ6A): 1) na etapa Adequação para publicidade, marcar 'Nenhuma das opções' e Enviar classificação; 2) esperar a Verificação terminar e apertar Programar (já está com qui 19/11/2026 18:00; se o botão ainda estiver cinza, a verificação não acabou). Tudo o mais está pronto: capa BUG, título, descrição, tags, jogo, IA Não, promoção Não, relacionado Gargantuan.",
    "onde": "Studio",
+   "status": "cancelada",
+   "chave": "programar:cH1aeAYcJ6A",
+   "fechada_em": "2026-11-18T00:14-03:00",
+   "nota": "Adequação já enviada pelo Murilo; falta só o Programar (nova pendência)"
+  },
+  {
+   "id": "p256",
+   "aberta_em": "2026-11-18T00:14-03:00",
+   "agente": "Periscópio",
+   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
+   "o_que": "Só um clique: na janela do Studio aberta no navegador do agente (https://youtube.com/shorts/cH1aeAYcJ6A), apertar Programar. A Adequação já foi enviada e a data está posta (qui 19/11/2026 18:00). Pendência anterior: o clique de Programar não tinha saído (a API ainda mostra o vídeo privado, sem data).",
+   "onde": "Studio",
    "status": "aberta",
-   "chave": "programar:cH1aeAYcJ6A"
+   "chave": "programar2:cH1aeAYcJ6A"
   }
  ],
- "gerado_em": "2026-11-18T00:10-03:00"
+ "gerado_em": "2026-11-18T00:14-03:00"
 }
