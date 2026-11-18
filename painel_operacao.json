@@ -4167,8 +4167,10 @@
    "video": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho",
    "o_que": "gravar a voz das 15 frases (canal 2, uns 2:40; a data de saída sai com o Leme)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "roteiro:mp2-mewtwo-tamanho-real.md@v1"
+   "status": "feita",
+   "chave": "roteiro:mp2-mewtwo-tamanho-real.md@v1",
+   "fechada_em": "2026-11-18T01:39-03:00",
+   "nota": "15 frases gravadas no Gravar em 18/11 entre 01h14 e 01h20 (takes p00 a p14 no Drive)"
   },
   {
    "id": "p214",
@@ -4552,5 +4554,5 @@
    "fechada_em": "2026-11-18T00:20-03:00"
   }
  ],
- "gerado_em": "2026-11-18T01:36-03:00"
+ "gerado_em": "2026-11-18T01:39-03:00"
 }
