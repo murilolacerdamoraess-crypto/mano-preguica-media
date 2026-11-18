@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T18:37:37.923086Z",
+ "gerado_em": "2026-11-18T18:41:13.418695Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -790,13 +790,13 @@
    "name": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "titulo_roteiro": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "description": "Short do canal principal (pauta P66, escrita pelo Farol a partir do longo das cápsulas, que o Murilo trocou por Shorts em 18/10; pedido de roteiro de 19/10). Continuação do nosso Short dos 10 mil metros, respondendo a pe",
-   "status": "roteiro aguardando aprovação do Murilo no Decidir (versão 4); APROVADO PELO CRIVO em 17/11 (eca5efe1, checklist 167f4bd0); não sobe pro Gravar enquanto a fila de voz estiver travada",
+   "status": "roteiro (em conferência (Crivo), versão 5); a v4 foi APROVADA PELO CRIVO em 17/11 (eca5efe1) e ficou no Decidir; a v5 só troca a frase 6.1 pelo ensaio de 18/11 e vai pro Gravar (R71, pedido do Maestro em 18/11)",
    "gate": "v4 (17/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo)",
    "motor": null,
-   "versao": "4",
+   "versao": "5",
    "fonte_yt": null
   },
   {
@@ -859,14 +859,14 @@
    "arquivo": "short-cyclops-fossa-das-marianas.md",
    "name": "SHORT - Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
    "titulo_roteiro": "SHORT: o Cyclops contra a Fossa das Marianas",
-   "description": "Short \"e se\" com regra dos dois mundos (pauta P71 do Sonar, 19/10, gerador de ângulos). O Cyclops, o maior submarino do Subnautica, desce 500 m de fábrica e 1.700 m com o melhor módulo (eles não somam); passou disso, o c",
-   "status": "roteiro (na fila da Tarrafa, fora do Decidir até abrir vaga no teto de 5 roteiros esperando o Murilo, 29/10)",
-   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
+   "description": "Short \"e se\" com regra dos dois mundos (pauta P71 do Sonar, 19/10). O Cyclops, o maior submarino do Subnautica, desce 500 m de fábrica e 1.700 m com o melhor módulo (eles não somam); passou disso, a vida cai até ele expl",
+   "status": "roteiro (em conferência (Crivo), versão 4)",
+   "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (v1) (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
    "formato": "short (principal, Subnautica)",
    "motor": null,
-   "versao": "3",
+   "versao": "4",
    "fonte_yt": null
   },
   {
