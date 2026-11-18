@@ -2922,6 +2922,22 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 00h20 Periscópio",
+   "titulo": "**FEITO: CÁPSULA v2 (`XwpnJaFxWSk`) PROGRAMADA sex 20/11/2026 18:00** (o Murilo clicou Programar; API: privado + publishAt 2026-11-20T21:00Z). Capa `CAPA CAPSULA - Flow 2` conferida (diferença 2,9), jogo Subnautica, IA Não (voz real), promoção Não, 12 tags, relacionado = Short dos 10 mil metros (`CZbwiBSKafE`), playlist VIDEOS CURTOS salva. Pendência p254 fechada. Data confirmada pelo Murilo (o 'dom 22' era texto velho da p244). Falta só: crosspost TikTok de sáb 21 (depois de público) e a linha no ledger/FILA #30.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "18/11 00h20 Periscópio",
+   "titulo": "**#86 BASE INUNDADA (`cH1aeAYcJ6A`), PRONTO E PARADO ANTES DO PROGRAMAR (p255, do Murilo).** Arquivo md5 25ea352d (Drive 1FIxSVt), 2:04. Título escolhido por ele em 12/11 ('Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir'), descrição do roteiro, 12 tags, jogo Subnautica, IA Não, promoção Não, capa Flow 14 com BUG (diferença 4,9), relacionado = longo do Gargantuan `lYXT1si2c7U`. Data qui 19/11/2026 18:00 já posta no assistente (aba aberta no navegador do agente). Falta dele: Adequação para publicidade ('Nenhuma das opções' + Enviar classificação) e o clique em Programar quando a Verificação acabar. Depois eu: playlist VIDEOS CURTOS, releitura, ledger, avisar Tesoura/Anzol.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "17/11 13h40 Maré → Periscópio, FEITO 17/11 (Periscópio)",
    "titulo": "**pedido (Maré): 3 POSES DO AVATAR CARTOON QUÍMICO (Guia do Criador, amostra D). O V67 do Crivo (119d0727) reprovou porque o avatar fica na mesma pose os 17 s; ele tem que apontar, olhar e comemorar. Quem faz: Periscópio, ChatGPT perfil mano.** Mesma pasta `VIDEOS/GUIA DO CRIADOR/Avatar 3D/`. Um chat novo por imagem, saída sem tratar, sem nome nenhum no prompt. São 9 imagens: para cada pose, a base e depois as 2 bocas a partir dela.",
    "etapa": "",
@@ -4468,9 +4484,20 @@
    "video": "Cápsula do tempo (item proibido), Short do principal",
    "o_que": "Clicar em Programar: o rascunho https://youtube.com/shorts/XwpnJaFxWSk está pronto (capa, título, descrição, tags, jogo, IA Não, promoção Não, relacionado: 10 mil metros) com data sex 20/11/2026 18:00. É só apertar o botão azul Programar na janela do Studio que está aberta no navegador do agente.",
    "onde": "Studio",
+   "status": "feita",
+   "chave": "programar:XwpnJaFxWSk",
+   "fechada_em": "2026-11-18T00:09-03:00"
+  },
+  {
+   "id": "p255",
+   "aberta_em": "2026-11-18T00:09-03:00",
+   "agente": "Periscópio",
+   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
+   "o_que": "Dois cliques no Studio (janela aberta no navegador do agente, https://youtube.com/shorts/cH1aeAYcJ6A): 1) na etapa Adequação para publicidade, marcar 'Nenhuma das opções' e Enviar classificação; 2) esperar a Verificação terminar e apertar Programar (já está com qui 19/11/2026 18:00; se o botão ainda estiver cinza, a verificação não acabou). Tudo o mais está pronto: capa BUG, título, descrição, tags, jogo, IA Não, promoção Não, relacionado Gargantuan.",
+   "onde": "Studio",
    "status": "aberta",
-   "chave": "programar:XwpnJaFxWSk"
+   "chave": "programar:cH1aeAYcJ6A"
   }
  ],
- "gerado_em": "2026-11-18T00:04-03:00"
+ "gerado_em": "2026-11-18T00:10-03:00"
 }
