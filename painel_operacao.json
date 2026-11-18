@@ -2914,6 +2914,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 ~01h15 Tarrafa → Periscópio",
+   "titulo": "**pedido (Tarrafa, a pedido da Lente): BAIXAR 1 IMAGEM OFICIAL DA WIKI pro Short do Pokémon no Subnautica (principal, sai seg 23/11 18h; voz gravada 18/11). Quem faz: Periscópio. Prazo: qui 19/11 de manhã (a ordem de produção da Lente cita a imagem no trecho do Reefback, frase 5.7).** O CDN da Fandom dá 403 do Cloudflare pra pedido automático (Tarrafa e Tesoura tentaram, sem contornar); a API já deu o endereço, falta abrir no navegador e salvar o arquivo.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 ~01h Periscópio",
    "titulo": "**PRODUTOS MARCADOS (regra nova do Murilo: nada pronto pro clique sem produto).** #86 `cH1aeAYcJ6A`: 7 produtos marcados (Reaper 1º, R36S 2º, Ghost, Gargantuan, Sea Emperor, Switch Subnautica + Below Zero, Meta Quest 3S), relidos depois de salvar. CÁPSULA `XwpnJaFxWSk` (já programada, API ainda privado + publishAt 2026-11-20T21:00Z): 7 produtos marcados na ordem do Âncora (chaveiro ACMDSTORE R$ 20,91 a 20% em 1º, R36S, Reaper, Switch, Ghost, Gargantuan, Meta Quest 3S), lidos na /edit. #86 com data qui 19/11 18:00 no assistente, Programar ligado, p257 pro Murilo.",
    "etapa": "",
@@ -4534,5 +4542,5 @@
    "fechada_em": "2026-11-18T00:20-03:00"
   }
  ],
- "gerado_em": "2026-11-18T01:10-03:00"
+ "gerado_em": "2026-11-18T01:12-03:00"
 }
