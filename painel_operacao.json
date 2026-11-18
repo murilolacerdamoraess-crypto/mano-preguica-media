@@ -4412,8 +4412,10 @@
    "video": "Short: Ela tentou fazer o lançador de gancho do Batman (#79, canal 2) v2",
    "o_que": "assistir a v2 com os 4 pontos (fundo do morcego, respiros, imagem travada, fundo duplo) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:11wkVrqsmuTqDwHMynVE6NofyCIhPBMjf"
+   "status": "feita",
+   "chave": "video:11wkVrqsmuTqDwHMynVE6NofyCIhPBMjf",
+   "fechada_em": "2026-11-17T23:59-03:00",
+   "nota": "23:52 Murilo: ficou muito bom; ajustar cortes na voz (puxava nada ~2:00, T de Batman); Tesoura corrige, retoque sem novo item"
   },
   {
    "id": "p251",
@@ -4422,7 +4424,7 @@
    "video": "Teste dos 4 estilos de animação",
    "o_que": "assistir os 4 estilos lado a lado (a tabela está no fim) e escolher um bom pra postar, ou nenhum",
    "onde": "Assistir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "video:1Br6y1WJ2hPl6gD5MAd8gaZ_2z8Znuo5s",
    "opcoes": [
     "Estilo 1 IA + Flow",
@@ -4430,7 +4432,9 @@
     "Estilo 3 pixel",
     "Estilo 4 3D low-poly",
     "Nenhum serve"
-   ]
+   ],
+   "fechada_em": "2026-11-17T23:59-03:00",
+   "nota": "23:54 Murilo: ir pelo estilo 4 com monstros mais definidos (olhos etc.); Lente refaz"
   },
   {
    "id": "p252",
@@ -4439,8 +4443,10 @@
    "video": "Short: Ela inundou a própria base no Subnautica de propósito (#32)",
    "o_que": "assistir a v1 e aprovar ou pedir ajuste (sai qui 19/11 18h no principal)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1FIxSVt-51i0g55f4txdfOSlRA3aVItAd"
+   "status": "feita",
+   "chave": "video:1FIxSVt-51i0g55f4txdfOSlRA3aVItAd",
+   "fechada_em": "2026-11-17T23:59-03:00",
+   "nota": "23:57 Murilo aprovou; Periscópio prepara Programar qui 19/11 18h"
   },
   {
    "id": "p253",
@@ -4456,5 +4462,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-17T23:58-03:00"
+ "gerado_em": "2026-11-18T00:00-03:00"
 }
