@@ -4718,6 +4718,20 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
+  },
+  {
+   "id": "p270",
+   "aberta_em": "2026-11-18T17:02-03:00",
+   "agente": "Lente",
+   "video": "Short: Quase impossível (sai sáb 28/11 18h)",
+   "o_que": "Na frase 'mais perto o bicho chegava, até ele aparecer do lado de fora do tubo', o vídeo do jogo não mostra o Reaper do lado de fora do tubo: só um vulto na água turva com o ícone do rugido. O resto do Short está pronto e aprovado pelo Crivo. A Lente recomenda regravar só essa frase (até qua 25): '...até dar pra ouvir o rugido dele do lado de fora do tubo'.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Regravo só essa frase (recomendado)",
+    "Deixa o vulto com o rugido como está",
+    "Põe o Reaper bem visível de outro momento da partida"
+   ]
   }
  ],
  "gerado_em": "2026-11-18T17:02-03:00"
