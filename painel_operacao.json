@@ -2666,9 +2666,9 @@
   {
    "tipo": "Short",
    "titulo": "Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
-   "etapa": "roteiro (em conferência (Crivo), versão 4: reescrito com as regras de hoje; o Cyclops explode passando de mil e setecentos metros, e em 1960 o Trieste desceu a quase 11 mil numa bola de aço pendurada em gasolina, com o ferro preso por ímãs que soltavam sozinhos se faltasse energia; uma janela rachou no caminho; uns 2 min 25)",
+   "etapa": "gravação (texto no Gravar com 19 frases; versão 4 aprovada pelo Crivo em 18/11: o Cyclops explode passando de mil e setecentos metros, e em 1960 o Trieste desceu a quase 11 mil numa bola de aço pendurada em tanques de gasolina, com o ferro preso por ímãs elétricos que soltavam sozinhos sem energia; um vidro de fora rachou no caminho; uns 2 min 30)",
    "responsavel": "Tarrafa",
-   "falta_murilo": "",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4688,7 +4688,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-ghast-grito-gato-c418.md@v3"
+  },
+  {
+   "id": "p267",
+   "aberta_em": "2026-11-18T16:41-03:00",
+   "agente": "Tarrafa",
+   "video": "Um submarino de 1960 foi mais fundo que o Cyclops do Subnautica",
+   "o_que": "gravar a voz (19 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-cyclops-fossa-das-marianas.md@v4"
   }
  ],
- "gerado_em": "2026-11-18T16:32-03:00"
+ "gerado_em": "2026-11-18T16:42-03:00"
 }
