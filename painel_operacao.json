@@ -2922,6 +2922,14 @@
  ],
  "navegador": [
   {
+   "tipo": "18/11 Periscópio, pedido da Bússola (Meta 0)",
+   "titulo": "**CONFERIDO: base `cH1aeAYcJ6A` qui 19/11 18h e cápsula `XwpnJaFxWSk` sex 20/11 18h, os dois programados** (API: privado + publishAt 2026-11-19T21:00Z e 2026-11-20T21:00Z; Studio mostra Programado). Falta: TikTok do base sex 20/11 e da cápsula sáb 21/11, só depois de cada um ficar público, e gravar o id em tiktok_agenda.json.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 ~06h Periscópio",
    "titulo": "**7 CAPAS DE SHORT NO FLOW FEITAS (pedido do Anzol).** Luigi, Pokémon, Mewtwo, Quase impossível, Por baixo do mapa, Teia e Void: `CAPA <NOME> - Flow 1.png` e `Flow 2.png` (768x1376) em cada pasta de `_refs capa - Shorts 26-10/`. Conta Mano Preguiça (PRO), Nano Banana Pro 9:16 x2, 0 crédito. Anzol avisado a cada capa. Defeito: TEIA Flow 2 (texto duplicado), usar a Flow 1. VOID Flow 1 tem faixa preta embaixo (usar Flow 2). Navegador fechado, 0 órfãos.",
    "etapa": "",
@@ -4598,5 +4606,5 @@
    "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe"
   }
  ],
- "gerado_em": "2026-11-18T09:33-03:00"
+ "gerado_em": "2026-11-18T09:35-03:00"
 }
