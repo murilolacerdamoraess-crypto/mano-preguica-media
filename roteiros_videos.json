@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T19:15:06.075854Z",
+ "gerado_em": "2026-11-18T19:32:32.522874Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -1000,7 +1000,7 @@
    "name": "SHORT - O grito do Ghast do Minecraft é o gato do compositor",
    "titulo_roteiro": "SHORT: o grito do Ghast",
    "description": "Short do canal 2 no molde 2 do estudo de hits de fora (fato absurdo e concreto de marca gigante), pauta P37 do Sonar. O grito do Ghast, o fantasma gigante que flutua no Nether e cospe bola de fogo, foi feito pelo C418, o",
-   "status": "roteiro (em conferência (Crivo), versão 3)",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 3)",
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-18 (v1) (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
