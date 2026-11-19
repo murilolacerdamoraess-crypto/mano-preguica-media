@@ -2522,9 +2522,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-   "etapa": "pronto pra publicar (está no Assistir desde 17/11, aprovado pelo Crivo; título escolhido por você em 12/11: \"Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir\"; sai qui 19/11 às 18h se você aprovar até qua 18 ao meio-dia)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar o vídeo",
+   "etapa": "agendado (sai hoje, qui 19/11, às 18h no principal; você aprovou; a versão nova, só com o som consertado, ficou pronta às 11h e o Periscópio troca no Studio antes das 18h; título que você escolheu em 12/11: \"Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir\"; link youtube.com/shorts/cH1aeAYcJ6A)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4758,13 +4758,15 @@
    "video": "Ela inundou a própria base no Subnautica (#32), programado pra HOJE 18h",
    "o_que": "O Crivo achou um 's' cortado na sua voz (em 'em cima', 1:17), o mesmo defeito do Batman. Decidir até 14h; sem resposta, sai hoje como está.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "cancelada",
    "opcoes": [
     "Trocar: o Reaper de LEGO sai hoje 18h e a base sai qua 25 com o som certo (recomendado)",
     "Refazer o som correndo e sair hoje 18h mesmo",
     "Deixar sair hoje como está"
-   ]
+   ],
+   "fechada_em": "2026-11-19T10:58-03:00",
+   "nota": "Perdeu o motivo: a v2 (92e7cbd5, só o som, 6 consoantes devolvidas) passou no Crivo às 10h57 e o Crivo corrigiu: o c de 'em cima' estava inteiro (o corte veio do Whisper). A v1 que você aprovou na p252 é trocada pela v2 no Studio, sem mudar imagem nem capa."
   }
  ],
- "gerado_em": "2026-11-19T09:47-03:00"
+ "gerado_em": "2026-11-19T10:58-03:00"
 }
