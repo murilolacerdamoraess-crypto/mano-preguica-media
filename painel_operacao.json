@@ -4741,7 +4741,16 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:116BdGprIi3bxeWBzfxpC79nK5v68q6y7"
+  },
+  {
+   "id": "p278",
+   "aberta_em": "2026-11-19T09:31-03:00",
+   "agente": "Bússola",
+   "video": "Metricool desconectado",
+   "o_que": "No terminal da Bússola, digitar /mcp, escolher o metricool e entrar com a sua conta (login é você). Sem isso ela não confere o TikTok de sex 20 a dom 22.",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-19T05:30-03:00"
+ "gerado_em": "2026-11-19T09:31-03:00"
 }
