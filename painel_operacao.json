@@ -4206,18 +4206,6 @@
    "jogando": true
   },
   {
-   "id": "p157",
-   "aberta_em": "2026-11-07T14:36-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, Dia 1: o ovo do deserto",
-   "o_que": "gravar a voz das 8 frases (é o primeiro episódio da série e o primeiro a gravar; saída: qua 18/11 às 18h)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:serie_4546b_a1_dia1",
-   "fechada_em": "2026-11-17T11:35-03:00",
-   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
-  },
-  {
    "id": "p198",
    "aberta_em": "2026-11-10T20:44-03:00",
    "agente": "Periscópio",
@@ -4323,30 +4311,6 @@
    "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7",
    "fechada_em": "2026-11-18T00:50-03:00",
    "nota": "22 frases gravadas no Gravar em 18/11 entre 00h41 e 00h50 (takes p00 a p21 no Drive)"
-  },
-  {
-   "id": "p232",
-   "aberta_em": "2026-11-15T01:45-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, Dia 2, caminho verde (desceu pelo meio da água)",
-   "o_que": "gravar a voz das 7 frases (saída: sex 20/11 às 18h; só vai ao ar se o verde ganhar o voto do Dia 1, mas grave os dois caminhos logo depois do Dia 1, porque o voto só fecha na quinta e não sobra tempo pra gravar depois)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:serie_4546b_a1_dia2_verde",
-   "fechada_em": "2026-11-17T11:35-03:00",
-   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
-  },
-  {
-   "id": "p233",
-   "aberta_em": "2026-11-15T01:45-03:00",
-   "agente": "Arpão",
-   "video": "Sobreviva em 4546B, Dia 2, caminho vermelho (desceu colado no fundo)",
-   "o_que": "gravar a voz das 8 frases (saída: sex 20/11 às 18h; só vai ao ar se o vermelho ganhar o voto do Dia 1, mas grave os dois caminhos logo depois do Dia 1, porque o voto só fecha na quinta e não sobra tempo pra gravar depois)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "narracao:serie_4546b_a1_dia2_vermelho",
-   "fechada_em": "2026-11-17T11:35-03:00",
-   "nota": "17/11 (vigia): o Murilo pausou a série 4546B em 16/11 (quer uma 'novela' com produto melhor); as datas de 18 e 20/11 não valem mais. Volta como item novo quando a série for refeita."
   },
   {
    "id": "p235",
@@ -4812,5 +4776,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-19T11:16-03:00"
+ "gerado_em": "2026-11-19T11:39-03:00"
 }
