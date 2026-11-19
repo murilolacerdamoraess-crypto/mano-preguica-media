@@ -2938,6 +2938,14 @@
  ],
  "navegador": [
   {
+   "tipo": "19/11 11h10 Periscópio, pedido do Maestro (Lente recomenda)",
+   "titulo": "**FEITO ATÉ O LIMITE: BASE INUNDADA v2 (`ebaWF7VtozQ`) SUBIDA COMO RASCUNHO PRIVADO; FALTAM OS 2 CLIQUES DO MURILO (p280).** Arquivo md5 92e7cbd5 (123,67 s, portão de áudio APROVADO, -14,1 LUFS). Igual ao cH1aeAYcJ6A: título, descrição, capa Flow 14 com BUG (mesmos pixels na lista), 12 tags, jogo Subnautica, categoria Jogos, IA Não, promoção Não, 3 toggles off, playlist VIDEOS CURTOS, 7 produtos na mesma ordem (Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Switch, Quest 3S, lidos \"7 produtos marcados\"), relacionado = longo do Gargantuan (lYXT1si2c7U). NÃO dá pra deixar a data 18h pronta: o Studio só abre a Visibilidade depois da Adequação para publicidade (classificação irreversível, do Murilo). Passo a passo e os 2 links na p280. A v1 (cH1aeAYcJ6A) não foi tocada (continua programada 19/11 18h). Navegador fechado, sem órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "18/11 ~17h40 Maré → Periscópio",
    "titulo": "**pedido (Maré): 6 CENAS DO B1, o texto 02 do teste A x B do Guia do Criador (formato B = uma cena ilustrada por fala). Quem faz: Periscópio, ChatGPT perfil mano, quando a fila deixar (os vídeos do Mano vêm antes; não tem data de publicação ainda, o teste só começa com 4 vídeos prontos).** Pasta nova `VIDEOS/GUIA DO CRIADOR/B1 cenas 02/`. Um chat novo por imagem, 1 geração cada, saída sem tratar, sem nome nenhum no prompt. Anexo em todas: IMAGEM 1 = `VIDEOS/GUIA DO CRIADOR/Avatar 3D/CENARIO LAB.png` (só referência de traço; é o fundo da amostra D). O personagem NÃO entra na imagem (ele é colado depois no canto de baixo à direita) e todo texto ou número vem do Remotion.",
    "etapa": "",
@@ -4766,7 +4774,17 @@
    ],
    "fechada_em": "2026-11-19T10:58-03:00",
    "nota": "Perdeu o motivo: a v2 (92e7cbd5, só o som, 6 consoantes devolvidas) passou no Crivo às 10h57 e o Crivo corrigiu: o c de 'em cima' estava inteiro (o corte veio do Whisper). A v1 que você aprovou na p252 é trocada pela v2 no Studio, sem mudar imagem nem capa."
+  },
+  {
+   "id": "p280",
+   "aberta_em": "2026-11-19T11:10-03:00",
+   "agente": "Periscópio",
+   "video": "Base inundada: trocar a v1 pela v2 com o som consertado (hoje 18h)",
+   "o_que": "O som do Short da base inundada foi consertado e você já aprovou (p252). A v2 (ebaWF7VtozQ) está pronta como rascunho: título, descrição, capa BUG, 12 tags, jogo, playlist VIDEOS CURTOS, 7 produtos e vídeo relacionado (longo do Gargantuan), tudo igual à v1. Faltam só 2 cliques seus, nesta ordem, até as 17h30: (1) abra a v2 no Studio (https://studio.youtube.com/video/ebaWF7VtozQ/edit; se der erro, Conteúdo > Shorts > rascunho 'Ela tinha só 1 hora...' sem data), vá em Adequação para publicidade, marque 'Nenhuma das opções' e Enviar classificação, avance até Visibilidade, escolha Programar para 19/11/2026 às 18:00 e clique em Programar. (2) Só depois, abra a v1 (https://studio.youtube.com/video/cH1aeAYcJ6A/edit), Visibilidade, e troque de Programado para Privado (sem data), Salvar. Se não fizer o passo 2, saem dois Shorts iguais às 18h. Não consegui deixar a data pronta porque o Studio só libera a Visibilidade depois da classificação, que é sua.",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "base-inundada-v2-trocar-v1-hoje-18h"
   }
  ],
- "gerado_em": "2026-11-19T10:59-03:00"
+ "gerado_em": "2026-11-19T11:10-03:00"
 }
