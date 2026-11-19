@@ -2522,9 +2522,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela inundou a própria base no Subnautica de propósito, e o jogo deixou ela muito mais rápida",
-   "etapa": "agendado (sai hoje, qui 19/11, às 18h no principal; você aprovou; a versão nova, só com o som consertado, ficou pronta às 11h; o Periscópio sobe ela até 16h30 pra sair no mesmo horário e você dá os 2 cliques do painel (programar a nova e deixar privada a antiga); sem os cliques, sai a antiga; título que você escolheu em 12/11: \"Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir\"; link da versão antiga youtube.com/shorts/cH1aeAYcJ6A; o link muda com a nova)",
+   "etapa": "publicado (saiu hoje, qui 19/11, às 18h no principal, na versão antiga, porque a troca pela nova não foi feita; link youtube.com/shorts/cH1aeAYcJ6A; a versão nova, só com o som consertado, ficou como rascunho privado no Studio e só é apagada com o seu OK)",
    "responsavel": "Periscópio",
-   "falta_murilo": "dar os 2 cliques no Studio quando o Periscópio avisar no painel",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4766,5 +4766,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-19T18:57-03:00"
+ "gerado_em": "2026-11-19T19:41-03:00"
 }
