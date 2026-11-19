@@ -2714,9 +2714,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "etapa": "edição (19/11: a versão que está no Assistir corta duas vezes o s ou o f da sua voz, o mesmo defeito do Luigi e do Por baixo do mapa; a Tesoura refaz só o som e troca no Assistir; sai sáb 21/11 às 18h se você aprovar a nova até sex 20 ao meio-dia, senão o Reaper de LEGO sai no lugar; antes: título escolhido por você em 12/11: \"Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor\"; voz gravada por você em 12/11, o texto ficou como você falou; ordem da Lente pronta; sai sáb 21/11 às 18h)",
+   "etapa": "pronto pra publicar (19/11 11h15: a versão nova está no Assistir, só com o som consertado (os dois cortes no s e no f da sua voz voltaram), imagem e capa iguais; aprovada pelo Crivo; sai sáb 21/11 às 18h se você aprovar a nova até sex 20 ao meio-dia, senão o Reaper de LEGO sai no lugar; antes: título escolhido por você em 12/11: \"Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor\"; voz gravada por você em 12/11, o texto ficou como você falou; ordem da Lente pronta; sai sáb 21/11 às 18h)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar a versão nova até sex 20 ao meio-dia",
    "prazo": ""
   },
   {
@@ -2906,9 +2906,9 @@
   {
    "tipo": "Tarefa",
    "titulo": "Trilhas novas por clima, pra não repetir a mesma música em todo vídeo",
-   "etapa": "edição (plano de 04/11: primeiro as 99 trilhas que já temos separadas por clima e uma trava que não deixa a mesma faixa em 2 dos últimos 8 vídeos)",
+   "etapa": "amostras prontas (19/11: um vídeo de 6 min com as trilhas novas tocando por clima, construção, emoção, mistério e tensão, está no Assistir; a trava que não deixa a mesma faixa em 2 dos últimos 8 vídeos já funciona desde 19/11; 05/11 você decidiu não reassinar o ElevenLabs, \"é muito caro\")",
    "responsavel": "Tesoura",
-   "falta_murilo": "nada (05/11 ele decidiu: não reassina o ElevenLabs, \"é muito caro\"; o rodízio sai das trilhas que já temos)",
+   "falta_murilo": "ouvir as trilhas novas e escolher quais ficam",
    "prazo": ""
   },
   {
@@ -4545,8 +4545,10 @@
    "video": "Short: Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor (#88)",
    "o_que": "assistir a v1 e aprovar ou pedir ajuste (sai sáb 21/11 18h no principal)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe"
+   "status": "cancelada",
+   "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe",
+   "fechada_em": "2026-11-19T11:15-03:00",
+   "nota": "trocada pela v2 (b51f208f, só o som, aprovada pelo Crivo); o arquivo da v1 foi pra lixeira do canal"
   },
   {
    "id": "p259",
@@ -4784,7 +4786,31 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "base-inundada-v2-trocar-v1-hoje-18h"
+  },
+  {
+   "id": "p281",
+   "aberta_em": "2026-11-19T11:15-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor (#88)",
+   "o_que": "assistir a v2 e aprovar ou pedir ajuste (sai sáb 21/11 18h no principal)",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1qTrqJcqxSb3loENH5IL8dPEOVJ3x9dPO"
+  },
+  {
+   "id": "p282",
+   "aberta_em": "2026-11-19T11:16-03:00",
+   "agente": "Tesoura",
+   "video": "Teste: trilhas novas, 4 climas",
+   "o_que": "ouvir as trilhas novas e escolher quais ficam",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1cpRYeW_WLq01OLaRpSraKQUh1sy0RtDQ",
+   "opcoes": [
+    "Ficam todas",
+    "Algumas saem (escrevo quais)"
+   ]
   }
  ],
- "gerado_em": "2026-11-19T11:10-03:00"
+ "gerado_em": "2026-11-19T11:16-03:00"
 }
