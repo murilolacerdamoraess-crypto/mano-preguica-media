@@ -2562,9 +2562,9 @@
   {
    "tipo": "Short",
    "titulo": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "etapa": "edição (você gravou as 22 frases em 18/11; a ordem de edição está pronta e a Tesoura edita; sai seg 23/11 às 18h no principal)",
+   "etapa": "pronto pra publicar (vídeo no Assistir, passou na conferência; sai seg 23/11 às 18h no principal se você aprovar)",
    "responsavel": "Tesoura",
-   "falta_murilo": "",
+   "falta_murilo": "assistir e aprovar ou pedir ajuste",
    "prazo": ""
   },
   {
@@ -4669,7 +4669,17 @@
     "Deixa o vulto com o rugido como está",
     "Põe o Reaper bem visível de outro momento da partida"
    ]
+  },
+  {
+   "id": "p271",
+   "aberta_em": "2026-11-19T00:19-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
+   "o_que": "assistir a v1 e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1mFEQ8zuOhI88yGI-abbtOhKhH596qMVe"
   }
  ],
- "gerado_em": "2026-11-18T23:32-03:00"
+ "gerado_em": "2026-11-19T00:20-03:00"
 }
