@@ -2890,9 +2890,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (canal 2)",
-   "etapa": "edição (19/11: a versão 2 está no Assistir, aprovada pelo Crivo; só o som da narração foi consertado; se você aprovar, sai seg 30/11 às 18h no canal 2)",
+   "etapa": "edição (19/11: saiu do Assistir de novo; a conferência achou um \"s\" abafado na narração e a Tesoura refaz o som; volta pro Assistir quando passar; a ideia é sair seg 30/11 às 18h no canal 2)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar o vídeo",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4687,9 +4687,11 @@
    "video": "Short canal 2: Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (#91)",
    "o_que": "assistir a v2 (só o áudio mudou: s e f inteiros) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:145Nobhlh-pLIQODKfx9bPHHUGIhxmOw4"
+   "status": "cancelada",
+   "chave": "video:145Nobhlh-pLIQODKfx9bPHHUGIhxmOw4",
+   "fechada_em": "2026-11-19T02:20-03:00",
+   "nota": "Crivo retirou o aprovado da 0f08e890 (19/11): o s de 'plástico' ainda sai abaixado pelo --tirar; a Tesoura refaz a narração e abre um item novo quando o Crivo aprovar"
   }
  ],
- "gerado_em": "2026-11-19T02:02-03:00"
+ "gerado_em": "2026-11-19T02:20-03:00"
 }
