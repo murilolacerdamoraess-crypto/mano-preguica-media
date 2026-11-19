@@ -4305,21 +4305,6 @@
    "nota": "21 de 21 frases gravadas em 18/11 01:29 (nenhuma pulada); ordem de produção com a Lente"
   },
   {
-   "id": "p225",
-   "aberta_em": "2026-11-14T17:08-03:00",
-   "agente": "Tesoura",
-   "video": "Zerei o Megabonk de Pokémon com um Pokémon diferente em cada mapa (longo, principal)",
-   "o_que": "liberar o render da v3 (uns 4 h + Crivo; o disco agora tem 83 GB livres). Você pediu pra segurar em 14/11; enquanto não liberar, o longo fica sem data",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Libera o render",
-    "Segura mais"
-   ],
-   "fechada_em": "2026-11-16T23:06-03:00",
-   "nota": "16/11 22:59: Murilo liberou o render da v3"
-  },
-  {
    "id": "p229",
    "aberta_em": "2026-11-14T21:25-03:00",
    "agente": "Tarrafa",
@@ -4366,23 +4351,6 @@
    "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
   },
   {
-   "id": "p236",
-   "aberta_em": "2026-11-15T10:01-03:00",
-   "agente": "Âncora",
-   "video": "Produtos do YouTube Shopping",
-   "o_que": "Como subir os cliques nos produtos dos vídeos NOVOS (os já publicados não mudam). Seu ponto: o clique marca a pessoa e qualquer compra dela nos próximos dias vira comissão sua, então o número que importa é clique a cada mil views. Hoje o canal faz 1,64 por mil num dia normal e 2,17 no dia do Short viral (10 mil metros). O Studio só dá clique do canal inteiro por dia, nunca por vídeo, então cada teste compara os dias em que aquele vídeo domina as views com esses 1,64. Quatro formas, de uma em uma: (1) O 1º produto da lista (o do adesivo do Short) passa a ser o objeto que aparece no próprio vídeo, e não o console: Reaper de LEGO no Short do Reaper, Wakemaker impresso em 3D no Wakemaker. Teste: 4 Shorts novos assim, comparados com os 1,64 por mil. Acertou: 2,05 ou mais (25% acima). (2) O 1º produto vira item de impulso de até R$ 30 que um adulto compra sem pensar (a caixinha de jogo em miniatura de R$ 20,91, que paga 20%, ou o chaveiro do tema), no lugar dos leviatãs de R$ 40 a R$ 130. Teste: nos próximos 6 Shorts, 3 com item até R$ 30 e 3 com o leviatã do tema, mesma semana. Acertou: o de até R$ 30 passa de 2,05 por mil e o outro não. (3) Nos vídeos longos, que não têm adesivo, cortar a lista de 6 pra 3 ou 4 itens e deixar o do tema em 1º, pra não diluir o clique entre produtos fracos. Teste: os 3 próximos longos de gameplay com a lista curta, comparados com os dias do longo anterior da mesma série. Acertou: 25% mais cliques por mil views, sem queda de pedidos no fechamento do mês. (4) O produto aparece uns 2 segundos no quadro do vídeo, sem ninguém pedir compra e sem link na descrição (a regra de nada de chamada continua): é só o objeto real na tela, que desperta o desejo. Teste: 4 Shorts novos com o objeto na tela e 4 sem, formatos parecidos. Acertou: 2,05 ou mais por mil nos dias de lançamento. Nada é aplicado antes do seu OK; cada forma só entra no vídeo novo que você aprovar. O bônus de novembro (vendas de 11 a 30/11 acima de US$ 300) conta pelas vendas do carrinho inteiro, então quanto mais clique cedo, mais chance de bater.",
-   "onde": "Decidir",
-   "status": "feita",
-   "chave": "ancora:cliques-por-mil-views-videos-novos",
-   "opcoes": [
-    "Testar as 4 formas",
-    "Testar só a 1 e a 2",
-    "Não testar agora"
-   ],
-   "fechada_em": "2026-11-16T23:06-03:00",
-   "nota": "16/11 23:01: Murilo escolheu testar só a 1 e a 2"
-  },
-  {
    "id": "p237",
    "aberta_em": "2026-11-15T17:02-03:00",
    "agente": "Periscópio",
@@ -4402,18 +4370,6 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "login:noiz-lurkit-gamesight"
-  },
-  {
-   "id": "p242",
-   "aberta_em": "2026-11-16T15:51-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Em Subnautica, cada monstro tem o tamanho do seu medo",
-   "o_que": "assistir a v1 do Short do medo (sai ter 17h) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1xwmMIZad6NnaZ7eHfmDQtLf1FTb9XCDH",
-   "fechada_em": "2026-11-16T23:06-03:00",
-   "nota": "16/11 23:05: Murilo pediu ajuste (animação fraca e amadora); Lente/Tesoura fazem a versão nova"
   },
   {
    "id": "p243",
@@ -4438,18 +4394,6 @@
    "chave": "studio:XwpnJaFxWSk",
    "fechada_em": "2026-11-17T23:58-03:00",
    "nota": "17/11 ~00h Murilo enviou a classificação de Adequação; Periscópio segue com capa e data"
-  },
-  {
-   "id": "p245",
-   "aberta_em": "2026-11-16T22:57-03:00",
-   "agente": "Maré",
-   "video": "Guia do Criador: amostra C (tela real no 3D + avatar nerd e químico, voz provisória)",
-   "o_que": "assistir a amostra nova do Guia e dizer se segue nessa direção",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:14Icom6mJYkOSFThIVz_JYr2O3NYGMDHF",
-   "fechada_em": "2026-11-16T23:07-03:00",
-   "nota": "16/11 23:07: Murilo aprovou a direção ('eu gostei de modo geral') com ajuste: avatar vira ilustração cartoon que lembre ele, não foto. O portão V67 do Crivo (743f6f32) também reprovou o acabamento. A Maré faz a amostra D."
   },
   {
    "id": "p246",
@@ -4750,5 +4694,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-18T17:37-03:00"
+ "gerado_em": "2026-11-18T23:08-03:00"
 }
