@@ -4701,7 +4701,27 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1vRskAlnbzo-7oDOXIsDFYVpkcJxSGyc3"
+  },
+  {
+   "id": "p274",
+   "aberta_em": "2026-11-19T04:10-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020 (#89)",
+   "o_que": "assistir a v2 (o áudio com as fricativas inteiras e a voz +0,75 s) e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1e2L3OtBIhXwPoesBoldDfvFLDtizJGX-"
+  },
+  {
+   "id": "p275",
+   "aberta_em": "2026-11-19T04:10-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
+   "o_que": "assistir a v1 e aprovar ou pedir ajuste",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1M8JmTI1zmQUrBIAydIvcbjlyi7FTc_jU"
   }
  ],
- "gerado_em": "2026-11-19T03:11-03:00"
+ "gerado_em": "2026-11-19T04:10-03:00"
 }
