@@ -4371,18 +4371,6 @@
    ]
   },
   {
-   "id": "p248",
-   "aberta_em": "2026-11-17T12:11-03:00",
-   "agente": "Lente",
-   "video": "Sobreviva em 4546B, Dia 1 (Você acordou no deserto do Subnautica e tem um ovo lá embaixo)",
-   "o_que": "Quando estiver no PC: tirar do seu Subnautica 1 os modelos 3D do Ghost Leviathan adulto, do Cuddlefish e do mergulhador, pro teste dos 4 estilos (o site que tinha os modelos pede verificação de humano e o agente não passa). É só pedir ao Claude do PC: 'extrai os modelos do Ghost, do Cuddlefish e do mergulhador do Subnautica 1 com o AssetStudio, com textura, e põe no Drive em VIDEOS/6 - Edicao IA (bastidores)/referencias/3 caminhos/modelos'. Uns 15 a 20 min. Você liberou usar modelo do jogo em vídeo em 03/11.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "jogando": true,
-   "fechada_em": "2026-11-17T12:24-03:00",
-   "nota": "Lente 17/11 12h40: o Periscópio baixou o Ghost do site; o mergulhador não é preciso (o 'você' da história é a preguiça, que já tem modelo); o Cuddlefish sai de IA de imagem pra 3D a partir de uma imagem limpa. Se o Crivo reprovar o Cuddlefish por IA, reabro só pra ele."
-  },
-  {
    "id": "p249",
    "aberta_em": "2026-11-17T14:55-03:00",
    "agente": "Maré",
@@ -4776,5 +4764,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-19T11:39-03:00"
+ "gerado_em": "2026-11-19T12:26-03:00"
 }
