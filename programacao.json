@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T04:36:03.910923-03:00",
+ "gerado_em": "2026-11-20T16:18:13.078897-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -14,7 +14,14 @@
    "ultimo_post": "2026-11-19",
    "dias_parado": 1,
    "parado": false,
-   "agendados": [],
+   "agendados": [
+    {
+     "video_id": "cH1aeAYcJ6A",
+     "titulo": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir",
+     "quando": "2026-11-20T18:00:00-03:00",
+     "fonte": "metricool"
+    }
+   ],
    "previstos": [],
    "proximos_da_fila": [
     {
