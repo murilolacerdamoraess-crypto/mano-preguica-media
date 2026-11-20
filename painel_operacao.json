@@ -4174,17 +4174,6 @@
    "jogando": true
   },
   {
-   "id": "p141",
-   "aberta_em": "2026-11-07T01:25-03:00",
-   "agente": "Farol",
-   "video": "Stonewards em dupla",
-   "o_que": "regravar a frase da Onda 8, que mudou: \"Na Onda 8 fazia 4 minutos que eu tava com 38 de vida, de um total de 130, e mesmo assim eu fui pra briga, e os dragões me derrubaram em segundos.\"",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "fechada_em": "2026-11-18T00:26-03:00",
-   "nota": "18/11 Murilo: deletar o Stonewards, 'vai flopar no canal principal, nem vale o esforço'"
-  },
-  {
    "id": "p142",
    "aberta_em": "2026-11-07T01:25-03:00",
    "agente": "Farol",
@@ -4649,5 +4638,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T00:21-03:00"
+ "gerado_em": "2026-11-20T00:37-03:00"
 }
