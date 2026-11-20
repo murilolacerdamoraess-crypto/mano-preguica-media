@@ -2938,6 +2938,14 @@
  ],
  "navegador": [
   {
+   "tipo": "20/11 ~10h20 Periscópio, pedido do Maestro (Bússola)",
+   "titulo": "**FEITO: TikTok da BASE INUNDADA #32 AGENDADO sex 20/11 18:00 (GMT-3), Todos, pelo TikTok Studio web (Plano B, perfil mano).** Arquivo base_inundada.mp4 (md5 25ea352d, 2:03, v1 pública cH1aeAYcJ6A). Antes de subir conferi tiktokstudio/content: sem post duplicado. Legenda exata (1 linha, linha em branco, 4 hashtags), verificação de conteúdo sem problema, chave de IA no padrão desligado. Depois conferi em tiktokstudio/content: 1 só entrada, '20 de nov, 18:00 (GMT-3) Sao Paulo', Todos. Avisado o Leme.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "19/11 11h10 Periscópio, pedido do Maestro (Lente recomenda)",
    "titulo": "**FEITO ATÉ O LIMITE: BASE INUNDADA v2 (`ebaWF7VtozQ`) SUBIDA COMO RASCUNHO PRIVADO; FALTAM OS 2 CLIQUES DO MURILO (p280).** Arquivo md5 92e7cbd5 (123,67 s, portão de áudio APROVADO, -14,1 LUFS). Igual ao cH1aeAYcJ6A: título, descrição, capa Flow 14 com BUG (mesmos pixels na lista), 12 tags, jogo Subnautica, categoria Jogos, IA Não, promoção Não, 3 toggles off, playlist VIDEOS CURTOS, 7 produtos na mesma ordem (Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Switch, Quest 3S, lidos \"7 produtos marcados\"), relacionado = longo do Gargantuan (lYXT1si2c7U). NÃO dá pra deixar a data 18h pronta: o Studio só abre a Visibilidade depois da Adequação para publicidade (classificação irreversível, do Murilo). Passo a passo e os 2 links na p280. A v1 (cH1aeAYcJ6A) não foi tocada (continua programada 19/11 18h). Navegador fechado, sem órfão.",
    "etapa": "",
@@ -4505,5 +4513,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T01:51-03:00"
+ "gerado_em": "2026-11-20T09:52-03:00"
 }
