@@ -4344,18 +4344,6 @@
    "chave": "login:noiz-lurkit-gamesight"
   },
   {
-   "id": "p244",
-   "aberta_em": "2026-11-16T19:56-03:00",
-   "agente": "Periscópio",
-   "video": "Short: Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-   "o_que": "No Studio do canal principal, abrir o rascunho da cápsula (youtube.com/shorts/XwpnJaFxWSk), ir em Adequação para publicidade, marcar 'Nenhuma das opções' e clicar em Enviar classificação. O resto (capa, data dom 22/11 18h e programar) o Periscópio faz depois. Dá tempo até sex 20/11.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "studio:XwpnJaFxWSk",
-   "fechada_em": "2026-11-17T23:58-03:00",
-   "nota": "17/11 ~00h Murilo enviou a classificação de Adequação; Periscópio segue com capa e data"
-  },
-  {
    "id": "p247",
    "aberta_em": "2026-11-16T23:38-03:00",
    "agente": "Lente",
@@ -4371,65 +4359,6 @@
    ]
   },
   {
-   "id": "p249",
-   "aberta_em": "2026-11-17T14:55-03:00",
-   "agente": "Maré",
-   "video": "Guia do Criador: amostra D (desenho cartoon que lembra você, com a tela real, voz provisória)",
-   "o_que": "Assistir a amostra D e escolher o formato do Guia. Ela reprovou 3 vezes no teste cego contra um vídeo da Kurzgesagt, mas nas duas últimas nenhum juiz chamou de amador; vai pra você também pra calibrar esse teste. A pergunta: você quer ESTE formato (o laboratório e o avatar fixos, com o gráfico no quadro em cima) ou o OUTRO (cada fala numa cena ilustrada própria, com mais 4 a 6 imagens e mais uma rodada)? Sem capa no começo, sem trilha e com voz provisória, porque é amostra de formato.",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1-vPoFQpcVpz97i2ksO7AKe-94JxSTtkN",
-   "opcoes": [
-    "Este formato (laboratório fixo)",
-    "O outro (uma cena por fala)"
-   ],
-   "fechada_em": "2026-11-17T23:49-03:00",
-   "nota": "23:46 Murilo: gostou dos dois formatos, quer testar os dois publicados e ver qual é mais aceito; Maré planeja"
-  },
-  {
-   "id": "p250",
-   "aberta_em": "2026-11-17T17:01-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Ela tentou fazer o lançador de gancho do Batman (#79, canal 2) v2",
-   "o_que": "assistir a v2 com os 4 pontos (fundo do morcego, respiros, imagem travada, fundo duplo) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:11wkVrqsmuTqDwHMynVE6NofyCIhPBMjf",
-   "fechada_em": "2026-11-17T23:59-03:00",
-   "nota": "23:52 Murilo: ficou muito bom; ajustar cortes na voz (puxava nada ~2:00, T de Batman); Tesoura corrige, retoque sem novo item"
-  },
-  {
-   "id": "p251",
-   "aberta_em": "2026-11-17T17:17-03:00",
-   "agente": "Lente",
-   "video": "Teste dos 4 estilos de animação",
-   "o_que": "assistir os 4 estilos lado a lado (a tabela está no fim) e escolher um bom pra postar, ou nenhum",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1Br6y1WJ2hPl6gD5MAd8gaZ_2z8Znuo5s",
-   "opcoes": [
-    "Estilo 1 IA + Flow",
-    "Estilo 2 desenho 2D",
-    "Estilo 3 pixel",
-    "Estilo 4 3D low-poly",
-    "Nenhum serve"
-   ],
-   "fechada_em": "2026-11-17T23:59-03:00",
-   "nota": "23:54 Murilo: ir pelo estilo 4 com monstros mais definidos (olhos etc.); Lente refaz"
-  },
-  {
-   "id": "p252",
-   "aberta_em": "2026-11-17T18:39-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Ela inundou a própria base no Subnautica de propósito (#32)",
-   "o_que": "assistir a v1 e aprovar ou pedir ajuste (sai qui 19/11 18h no principal)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1FIxSVt-51i0g55f4txdfOSlRA3aVItAd",
-   "fechada_em": "2026-11-17T23:59-03:00",
-   "nota": "23:57 Murilo aprovou; Periscópio prepara Programar qui 19/11 18h"
-  },
-  {
    "id": "p253",
    "aberta_em": "2026-11-17T23:52-03:00",
    "agente": "Maré",
@@ -4443,52 +4372,6 @@
    ],
    "fechada_em": "2026-11-18T01:41-03:00",
    "nota": "01:35 Murilo: Só YouTube"
-  },
-  {
-   "id": "p254",
-   "aberta_em": "2026-11-18T00:03-03:00",
-   "agente": "Periscópio",
-   "video": "Cápsula do tempo (item proibido), Short do principal",
-   "o_que": "Clicar em Programar: o rascunho https://youtube.com/shorts/XwpnJaFxWSk está pronto (capa, título, descrição, tags, jogo, IA Não, promoção Não, relacionado: 10 mil metros) com data sex 20/11/2026 18:00. É só apertar o botão azul Programar na janela do Studio que está aberta no navegador do agente.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:XwpnJaFxWSk",
-   "fechada_em": "2026-11-18T00:09-03:00"
-  },
-  {
-   "id": "p255",
-   "aberta_em": "2026-11-18T00:09-03:00",
-   "agente": "Periscópio",
-   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
-   "o_que": "Dois cliques no Studio (janela aberta no navegador do agente, https://youtube.com/shorts/cH1aeAYcJ6A): 1) na etapa Adequação para publicidade, marcar 'Nenhuma das opções' e Enviar classificação; 2) esperar a Verificação terminar e apertar Programar (já está com qui 19/11/2026 18:00; se o botão ainda estiver cinza, a verificação não acabou). Tudo o mais está pronto: capa BUG, título, descrição, tags, jogo, IA Não, promoção Não, relacionado Gargantuan.",
-   "onde": "Studio",
-   "status": "cancelada",
-   "chave": "programar:cH1aeAYcJ6A",
-   "fechada_em": "2026-11-18T00:14-03:00",
-   "nota": "Adequação já enviada pelo Murilo; falta só o Programar (nova pendência)"
-  },
-  {
-   "id": "p256",
-   "aberta_em": "2026-11-18T00:14-03:00",
-   "agente": "Periscópio",
-   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
-   "o_que": "Só um clique: na janela do Studio aberta no navegador do agente (https://youtube.com/shorts/cH1aeAYcJ6A), apertar Programar. A Adequação já foi enviada e a data está posta (qui 19/11/2026 18:00). Pendência anterior: o clique de Programar não tinha saído (a API ainda mostra o vídeo privado, sem data).",
-   "onde": "Studio",
-   "status": "cancelada",
-   "chave": "programar2:cH1aeAYcJ6A",
-   "fechada_em": "2026-11-18T00:19-03:00",
-   "nota": "Reaberta com produtos marcados (7); nova pendência"
-  },
-  {
-   "id": "p257",
-   "aberta_em": "2026-11-18T00:19-03:00",
-   "agente": "Periscópio",
-   "video": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir (Short #86, principal)",
-   "o_que": "Só um clique: na janela do Studio aberta no navegador do agente (https://youtube.com/shorts/cH1aeAYcJ6A), apertar Programar. Já está tudo: 7 produtos marcados (Reaper 1º, R36S 2º), Adequação enviada e data qui 19/11/2026 18:00.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar3:cH1aeAYcJ6A",
-   "fechada_em": "2026-11-18T00:20-03:00"
   },
   {
    "id": "p258",
@@ -4766,5 +4649,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-19T19:41-03:00"
+ "gerado_em": "2026-11-20T00:21-03:00"
 }
