@@ -4230,54 +4230,6 @@
    "nota": "15 frases gravadas no Gravar em 18/11 entre 01h14 e 01h20 (takes p00 a p14 no Drive)"
   },
   {
-   "id": "p214",
-   "aberta_em": "2026-11-12T01:19-03:00",
-   "agente": "Arpão",
-   "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
-   "o_que": "gravar a voz das 9 frases (principal, uns 1:40)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "narracao:short_luigi_mario_64",
-   "fechada_em": "2026-11-18T00:40-03:00",
-   "nota": "18/11 madrugada Murilo: gravei o do luigi"
-  },
-  {
-   "id": "p215",
-   "aberta_em": "2026-11-12T01:55-03:00",
-   "agente": "Tarrafa",
-   "video": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele",
-   "o_que": "gravar a voz das 16 frases (canal 2, uns 2:30; a data de saída sai com o Leme)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:mp2-teia-homem-aranha-gruda.md@v1",
-   "fechada_em": "2026-11-18T01:09-03:00",
-   "nota": "16 frases gravadas no Gravar em 18/11 entre 01h01 e 01h05 (takes p00 a p15 no Drive)"
-  },
-  {
-   "id": "p220",
-   "aberta_em": "2026-11-14T14:17-03:00",
-   "agente": "Arpão",
-   "video": "Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível",
-   "o_que": "gravar a voz das 20 frases (principal, uns 2:35; o cara que arrastou a base até a nave pra fugir do Reaper)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:short-base-que-anda-aurora-reaper.md@v4",
-   "fechada_em": "2026-11-18T01:14-03:00",
-   "nota": "20 de 20 frases gravadas em 18/11 01:14 (nenhuma pulada; p03 e p19 editadas na gravação); ordem de produção com a Lente"
-  },
-  {
-   "id": "p221",
-   "aberta_em": "2026-11-14T14:51-03:00",
-   "agente": "Tarrafa",
-   "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "o_que": "gravar a voz das 20 frases (principal, uns 2:40)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:short-subnautica-por-baixo-do-mapa.md@v3",
-   "fechada_em": "2026-11-18T01:00-03:00",
-   "nota": "20 frases gravadas no Gravar em 18/11 entre 00h50 e 01h00 (takes p00 a p19 no Drive)"
-  },
-  {
    "id": "p222",
    "aberta_em": "2026-11-14T15:02-03:00",
    "agente": "Arpão",
@@ -4288,18 +4240,6 @@
    "chave": "roteiro:short-void-700-metros-subida.md@v6",
    "fechada_em": "2026-11-18T01:30-03:00",
    "nota": "21 de 21 frases gravadas em 18/11 01:29 (nenhuma pulada); ordem de produção com a Lente"
-  },
-  {
-   "id": "p229",
-   "aberta_em": "2026-11-14T21:25-03:00",
-   "agente": "Tarrafa",
-   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "o_que": "gravar a voz das 22 frases (principal, uns 2:40; gravando até qui 19/11, sai seg 23/11 às 18h)",
-   "onde": "Gravar",
-   "status": "feita",
-   "chave": "roteiro:short-pokebola-subnautica-leviata.md@v7",
-   "fechada_em": "2026-11-18T00:50-03:00",
-   "nota": "22 frases gravadas no Gravar em 18/11 entre 00h41 e 00h50 (takes p00 a p21 no Drive)"
   },
   {
    "id": "p235",
@@ -4638,5 +4578,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T00:37-03:00"
+ "gerado_em": "2026-11-20T01:22-03:00"
 }
