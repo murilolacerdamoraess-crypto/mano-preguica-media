@@ -951,7 +951,7 @@
 "v": 431
 }
 ],
-"views": 3734
+"views": 3743
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -999,7 +999,7 @@
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
 "ts": 1789765315,
 "fotos": [],
-"views": 516
+"views": 521
 },
 "7686241388739972372": {
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
@@ -1023,7 +1023,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 1979
+"views": 1981
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -3790,7 +3790,7 @@
 "v": 5996
 }
 ],
-"views": 6777
+"views": 6783
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -5328,6 +5328,10 @@
 {
 "t": 1795184119,
 "v": 103
+},
+{
+"t": 1795209205,
+"v": 103
 }
 ],
 "views": 103
@@ -5555,9 +5559,13 @@
 {
 "t": 1795201632,
 "v": 9543
+},
+{
+"t": 1795209205,
+"v": 9565
 }
 ],
-"views": 9543
+"views": 9565
 },
 "7708506553292164373": {
 "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil #games...",
@@ -5633,6 +5641,10 @@
 },
 {
 "t": 1795184119,
+"v": 147
+},
+{
+"t": 1795209205,
 "v": 147
 }
 ],
@@ -5789,9 +5801,13 @@
 {
 "t": 1795201632,
 "v": 3669
+},
+{
+"t": 1795209205,
+"v": 3680
 }
 ],
-"views": 3669
+"views": 3680
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -5938,9 +5954,24 @@
 {
 "t": 1795201632,
 "v": 96
+},
+{
+"t": 1795209205,
+"v": 98
 }
 ],
-"views": 96
+"views": 98
+},
+"7710235401088224530": {
+"titulo": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base ...",
+"ts": 1795208400,
+"fotos": [
+{
+"t": 1795209205,
+"v": 37
+}
+],
+"views": 37
 }
 }
 }
