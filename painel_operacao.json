@@ -4519,7 +4519,33 @@
     "Ficam todas",
     "Algumas saem (escrevo quais)"
    ]
+  },
+  {
+   "id": "p283",
+   "aberta_em": "2026-11-20T16:01-03:00",
+   "agente": "Lente",
+   "video": "Sábado 21 e domingo 22 sem vídeo no principal",
+   "o_que": "O extintor não foi aprovado até sex 12h. Pra não deixar o sábado vazio, o Reaper de LEGO (já aprovado, programado qua 25) pode passar pra sáb 21/11 18h. Mudar a data de vídeo programado é decisão sua.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Passar o LEGO pra sáb 21 18h",
+    "Deixar o LEGO na qua 25 (sábado fica vazio)"
+   ]
+  },
+  {
+   "id": "p284",
+   "aberta_em": "2026-11-20T16:01-03:00",
+   "agente": "Tesoura",
+   "video": "Código do canal_agente parado no Mac",
+   "o_que": "O repositório canal_agente tem 2 arquivos alterados sem commit (não estão no PC Windows). É repositório com deploy, então só sobe com o seu OK.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "opcoes": [
+    "Pode subir",
+    "Não sobe ainda"
+   ]
   }
  ],
- "gerado_em": "2026-11-20T11:59-03:00"
+ "gerado_em": "2026-11-20T16:01-03:00"
 }
