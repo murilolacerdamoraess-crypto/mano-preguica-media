@@ -4216,8 +4216,8 @@
    "id": "p241",
    "aberta_em": "2026-11-16T13:57-03:00",
    "agente": "Periscópio",
-   "video": "noiz, Lurkit e Gamesight deslogados",
-   "o_que": "O navegador do agente (perfil geral) saiu do noiz, do Lurkit e do Gamesight, então a rotina não vê mais as quests pagas desses três. Quando estiver no Mac, abre o navegador do agente e entra nos três com seu e-mail e senha (login é você que digita). O creators.gg segue funcionando.",
+   "video": "noiz, Lurkit, Gamesight e creators.gg deslogados",
+   "o_que": "O navegador do agente (perfil geral) saiu do noiz, do Lurkit e do Gamesight, então a rotina não vê mais as quests pagas desses três. Quando estiver no Mac, abre o navegador do agente e entra nos três com seu e-mail e senha (login é você que digita). Em 20/11 o creators.gg também saiu: são 4 pra entrar de novo (noiz, Lurkit, Gamesight e creators.gg).",
    "onde": "Outro",
    "status": "aberta",
    "chave": "login:noiz-lurkit-gamesight"
@@ -4513,5 +4513,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T09:52-03:00"
+ "gerado_em": "2026-11-20T11:04-03:00"
 }
