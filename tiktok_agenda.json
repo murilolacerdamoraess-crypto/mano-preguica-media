@@ -370,6 +370,14 @@
    "metricool_id": 430362790,
    "status": "agendado",
    "agendado_por": "metricool"
+  },
+  {
+   "video_id": "cH1aeAYcJ6A",
+   "quando": "2026-11-20T18:00:00-03:00",
+   "titulo": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir",
+   "metricool_id": null,
+   "status": "planejado",
+   "agendado_por": "tiktok-web"
   }
  ]
 }
