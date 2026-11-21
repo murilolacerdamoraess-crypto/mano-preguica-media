@@ -4503,7 +4503,16 @@
     "Pode subir",
     "Não sobe ainda"
    ]
+  },
+  {
+   "id": "p285",
+   "aberta_em": "2026-11-21T11:33-03:00",
+   "agente": "Periscópio",
+   "video": "Chave API teste da Anthropic vence em 7 dias",
+   "o_que": "decidir se renova a chave 'API teste' da Anthropic (e-mail de 21/11, vence em 28/11); se nada usa, pode deixar vencer",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-21T11:21-03:00"
+ "gerado_em": "2026-11-21T11:33-03:00"
 }
