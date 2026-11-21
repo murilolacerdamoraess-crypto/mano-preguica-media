@@ -4278,18 +4278,6 @@
    ]
   },
   {
-   "id": "p258",
-   "aberta_em": "2026-11-18T03:12-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor (#88)",
-   "o_que": "assistir a v1 e aprovar ou pedir ajuste (sai sáb 21/11 18h no principal)",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:1ZafcJprZDilyIUvU3xeRVAHNgPg9V6fe",
-   "fechada_em": "2026-11-19T11:15-03:00",
-   "nota": "trocada pela v2 (b51f208f, só o som, aprovada pelo Crivo); o arquivo da v1 foi pra lixeira do canal"
-  },
-  {
    "id": "p261",
    "aberta_em": "2026-11-18T12:57-03:00",
    "agente": "Maré",
@@ -4517,5 +4505,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-21T11:05-03:00"
+ "gerado_em": "2026-11-21T11:21-03:00"
 }
