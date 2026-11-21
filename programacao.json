@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T21:20:46.665132-03:00",
+ "gerado_em": "2026-11-21T04:28:39.766149-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -12,11 +12,15 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 28,
    "ultimo_post": "2026-11-20",
-   "dias_parado": 0,
+   "dias_parado": 1,
    "parado": false,
    "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
+    {
+     "video_id": "XwpnJaFxWSk",
+     "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles"
+    },
     {
      "video_id": "gRnOqCtgnA0",
      "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts"
@@ -24,10 +28,6 @@
     {
      "video_id": "s_TWIGeMQWc",
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
-    },
-    {
-     "video_id": "XwpnJaFxWSk",
-     "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles"
     }
    ]
   },
@@ -37,79 +37,79 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 23,
    "ultimo_post": "2026-11-18",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
    "previstos": [
     {
      "video_id": "aiHu__LRO7U",
      "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-     "quando": "2026-11-20T21:30:00-03:00"
+     "quando": "2026-11-21T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-11-21T21:30:00-03:00"
-    },
-    {
-     "video_id": "_YCpqe5Uxuc",
-     "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
      "quando": "2026-11-22T21:30:00-03:00"
-    },
-    {
-     "video_id": "F7HiSnCGUi0",
-     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-     "quando": "2026-11-23T21:30:00-03:00"
-    },
-    {
-     "video_id": "gRnOqCtgnA0",
-     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts",
-     "quando": "2026-11-24T21:30:00-03:00"
-    },
-    {
-     "video_id": "s_TWIGeMQWc",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
-     "quando": "2026-11-25T21:30:00-03:00"
-    },
-    {
-     "video_id": "Stm2pYvz-yE",
-     "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-11-26T21:30:00-03:00"
     },
     {
      "video_id": "XwpnJaFxWSk",
      "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
+     "quando": "2026-11-23T21:30:00-03:00"
+    },
+    {
+     "video_id": "_YCpqe5Uxuc",
+     "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
+     "quando": "2026-11-24T21:30:00-03:00"
+    },
+    {
+     "video_id": "F7HiSnCGUi0",
+     "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
+     "quando": "2026-11-25T21:30:00-03:00"
+    },
+    {
+     "video_id": "gRnOqCtgnA0",
+     "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts",
+     "quando": "2026-11-26T21:30:00-03:00"
+    },
+    {
+     "video_id": "s_TWIGeMQWc",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
      "quando": "2026-11-27T21:30:00-03:00"
+    },
+    {
+     "video_id": "Stm2pYvz-yE",
+     "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
+     "quando": "2026-11-28T21:30:00-03:00"
     },
     {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-28T21:30:00-03:00"
+     "quando": "2026-11-29T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-29T21:30:00-03:00"
+     "quando": "2026-11-30T21:30:00-03:00"
     },
     {
      "video_id": "iSzfJgFSODQ",
      "titulo": "O ranking dos consoles mais vendidos da história mudou em 2025",
-     "quando": "2026-11-30T21:30:00-03:00"
+     "quando": "2026-12-01T21:30:00-03:00"
     },
     {
      "video_id": "4B0YPRcXtjM",
      "titulo": "Qual jogo você acha que é o mais jogado da Steam?",
-     "quando": "2026-12-01T21:30:00-03:00"
+     "quando": "2026-12-02T21:30:00-03:00"
     },
     {
      "video_id": "YAXA2f5lzMs",
      "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
-     "quando": "2026-12-02T21:30:00-03:00"
+     "quando": "2026-12-03T21:30:00-03:00"
     },
     {
      "video_id": "35MMvMmb38Y",
      "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-     "quando": "2026-12-03T21:30:00-03:00"
+     "quando": "2026-12-04T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -122,8 +122,8 @@
      "titulo": "Esses caras estão construindo o Batmóvel na vida real"
     },
     {
-     "video_id": "_YCpqe5Uxuc",
-     "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil"
+     "video_id": "XwpnJaFxWSk",
+     "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles"
     }
    ]
   },
@@ -133,7 +133,7 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 61,
    "ultimo_post": "2026-11-18",
-   "dias_parado": 2,
+   "dias_parado": 3,
    "parado": false,
    "agendados": [],
    "previstos": [
