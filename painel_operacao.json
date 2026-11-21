@@ -4371,18 +4371,6 @@
    "chave": "video:1mFEQ8zuOhI88yGI-abbtOhKhH596qMVe"
   },
   {
-   "id": "p272",
-   "aberta_em": "2026-11-19T02:02-03:00",
-   "agente": "Tesoura",
-   "video": "Short canal 2: Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (#91)",
-   "o_que": "assistir a v2 (só o áudio mudou: s e f inteiros) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "cancelada",
-   "chave": "video:145Nobhlh-pLIQODKfx9bPHHUGIhxmOw4",
-   "fechada_em": "2026-11-19T02:20-03:00",
-   "nota": "Crivo retirou o aprovado da 0f08e890 (19/11): o s de 'plástico' ainda sai abaixado pelo --tirar; a Tesoura refaz a narração e abre um item novo quando o Crivo aprovar"
-  },
-  {
    "id": "p273",
    "aberta_em": "2026-11-19T03:11-03:00",
    "agente": "Tesoura",
@@ -4521,5 +4509,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T23:29-03:00"
+ "gerado_em": "2026-11-21T04:45-03:00"
 }
