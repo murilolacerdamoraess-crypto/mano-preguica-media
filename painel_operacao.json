@@ -2586,10 +2586,10 @@
   {
    "tipo": "Short",
    "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-   "etapa": "pronto pra publicar (20/11 12h: o extintor não foi aprovado até o meio-dia, então o Reaper de LEGO passa pra sáb 21/11 às 18h no principal; o Periscópio troca a data no Studio e, se o Studio pedir um clique seu, aparece no painel; antes: você aprovou em 15/11 00:08; sai qua 25/11 às 18h no principal, ou antes, na qui 19 ou no sáb 21, se a base inundada ou o extintor não ficarem prontos a tempo; antes: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
-   "responsavel": "Tesoura",
+   "etapa": "agendado (sáb 21/11 às 18h no principal, youtube.com/shorts/H9afjwf8wIc; você decidiu na p283; antes: 20/11 12h: o extintor não foi aprovado até o meio-dia, então o Reaper de LEGO passa pra sáb 21/11 às 18h no principal; o Periscópio troca a data no Studio e, se o Studio pedir um clique seu, aparece no painel; antes: você aprovou em 15/11 00:08; sai qua 25/11 às 18h no principal, ou antes, na qui 19 ou no sáb 21, se a base inundada ou o extintor não ficarem prontos a tempo; antes: sai qua 25/11 às 18h no principal se você aprovar, a próxima vaga livre (dom 15 é do Wakemaker, de 16 a 24 está tudo marcado); antes: a versão com a sua voz regravada está no Assistir pra você assistir desde 12/11 01h14, 1 min 58, aprovada pelo Crivo; a frase final mudou como você gravou: o render do Reaper enrolado aparece no \"mostrou no computador\"; principal; aprovando até o meio-dia, sai hoje, 12/11, às 18h)",
+   "responsavel": "Periscópio",
    "falta_murilo": "",
-   "prazo": "ter 24/11"
+   "prazo": ""
   },
   {
    "tipo": "Short",
@@ -2947,7 +2947,7 @@
   },
   {
    "tipo": "20/11 12h Lente → Periscópio, pelo Maestro (Vigia de pendências)",
-   "titulo": "**PENDENTE: REAPER DE LEGO (`H9afjwf8wIc`) DE QUA 25/11 18:00 PRA SÁB 21/11 18:00 (GMT-3).** O prazo do extintor venceu às 12h sem a aprovação do Murilo (p281 aberta), então vale o item (2) da linha de 17/11 10h abaixo. (1) Antes de mexer, rode `pendencia.py listar`: se a p281 tiver sido fechada (aprovada), NÃO mexa no LEGO e me avise. (2) Troque só a data, pelo `programar_data.sh` (nunca clicando no calendário); o resto do pacote fica igual (capa, produtos, relacionado, playlist). (3) Se o Studio pedir qualquer clique que é do Murilo (Adequação, Programar de novo, confirmação), pare ali e abra a pendência no nome dele pelo `pendencia.py abrir`, com a frase simples: \"trocar a data do Short do Reaper de LEGO de qua 25 pra sáb 21 às 18h no Studio (o extintor não foi aprovado até o meio-dia)\", prazo sáb 21 17h30; sem o clique dele, o LEGO segue na qua 25 e o sáb 21 fica vazio. (4) Depois: conferir na API (privado + publishAt 2026-11-21T21:00Z), anotar aqui FEITO e me avisar (`maestri ask \"Lente\"`), pra eu fechar FILA, estoque e Em produção. O TikTok de sáb 21 continua sendo a cápsula. Feche o navegador e confira processo órfão.",
+   "titulo": "**FEITO (ver a linha de cima, Periscópio, p283):** ~~PENDENTE~~ **REAPER DE LEGO (`H9afjwf8wIc`) DE QUA 25/11 18:00 PRA SÁB 21/11 18:00 (GMT-3).** O prazo do extintor venceu às 12h sem a aprovação do Murilo (p281 aberta), então vale o item (2) da linha de 17/11 10h abaixo. (1) Antes de mexer, rode `pendencia.py listar`: se a p281 tiver sido fechada (aprovada), NÃO mexa no LEGO e me avise. (2) Troque só a data, pelo `programar_data.sh` (nunca clicando no calendário); o resto do pacote fica igual (capa, produtos, relacionado, playlist). (3) Se o Studio pedir qualquer clique que é do Murilo (Adequação, Programar de novo, confirmação), pare ali e abra a pendência no nome dele pelo `pendencia.py abrir`, com a frase simples: \"trocar a data do Short do Reaper de LEGO de qua 25 pra sáb 21 às 18h no Studio (o extintor não foi aprovado até o meio-dia)\", prazo sáb 21 17h30; sem o clique dele, o LEGO segue na qua 25 e o sáb 21 fica vazio. (4) Depois: conferir na API (privado + publishAt 2026-11-21T21:00Z), anotar aqui FEITO e me avisar (`maestri ask \"Lente\"`), pra eu fechar FILA, estoque e Em produção. O TikTok de sáb 21 continua sendo a cápsula. Feche o navegador e confira processo órfão.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4556,5 +4556,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T21:31-03:00"
+ "gerado_em": "2026-11-20T21:32-03:00"
 }
