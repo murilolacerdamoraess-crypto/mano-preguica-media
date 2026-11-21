@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T16:18:13.078897-03:00",
+ "gerado_em": "2026-11-20T21:20:46.665132-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -10,18 +10,11 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 27,
-   "ultimo_post": "2026-11-19",
-   "dias_parado": 1,
+   "na_fila": 28,
+   "ultimo_post": "2026-11-20",
+   "dias_parado": 0,
    "parado": false,
-   "agendados": [
-    {
-     "video_id": "cH1aeAYcJ6A",
-     "titulo": "Ela tinha só 1 hora pra zerar o Subnautica, e inundou a própria base pra conseguir",
-     "quando": "2026-11-20T18:00:00-03:00",
-     "fonte": "metricool"
-    }
-   ],
+   "agendados": [],
    "previstos": [],
    "proximos_da_fila": [
     {
@@ -33,8 +26,8 @@
      "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts"
     },
     {
-     "video_id": "uC_EOBxYQ0I",
-     "titulo": "O MMO mais jogado da Steam mudou de novo em 2026"
+     "video_id": "XwpnJaFxWSk",
+     "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles"
     }
    ]
   },
@@ -42,7 +35,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 22,
+   "na_fila": 23,
    "ultimo_post": "2026-11-18",
    "dias_parado": 2,
    "parado": false,
@@ -84,38 +77,38 @@
      "quando": "2026-11-26T21:30:00-03:00"
     },
     {
+     "video_id": "XwpnJaFxWSk",
+     "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
+     "quando": "2026-11-27T21:30:00-03:00"
+    },
+    {
      "video_id": "EUxPzES-LLs",
      "titulo": "Qual empresa de games você acha que vale mais no mundo?",
-     "quando": "2026-11-27T21:30:00-03:00"
+     "quando": "2026-11-28T21:30:00-03:00"
     },
     {
      "video_id": "nlNDHXyED70",
      "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-     "quando": "2026-11-28T21:30:00-03:00"
+     "quando": "2026-11-29T21:30:00-03:00"
     },
     {
      "video_id": "iSzfJgFSODQ",
      "titulo": "O ranking dos consoles mais vendidos da história mudou em 2025",
-     "quando": "2026-11-29T21:30:00-03:00"
+     "quando": "2026-11-30T21:30:00-03:00"
     },
     {
      "video_id": "4B0YPRcXtjM",
      "titulo": "Qual jogo você acha que é o mais jogado da Steam?",
-     "quando": "2026-11-30T21:30:00-03:00"
+     "quando": "2026-12-01T21:30:00-03:00"
     },
     {
      "video_id": "YAXA2f5lzMs",
      "titulo": "Ela matou o chefe mais difícil de Elden Ring usando um tapete de dança #shorts",
-     "quando": "2026-12-01T21:30:00-03:00"
+     "quando": "2026-12-02T21:30:00-03:00"
     },
     {
      "video_id": "35MMvMmb38Y",
      "titulo": "O jogo de corrida mais jogado da Steam mudou em 2026",
-     "quando": "2026-12-02T21:30:00-03:00"
-    },
-    {
-     "video_id": "09Iaww-aTvg",
-     "titulo": "Qual simulador você acha que é o mais jogado da Steam?",
      "quando": "2026-12-03T21:30:00-03:00"
     }
    ],
@@ -138,7 +131,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 60,
+   "na_fila": 61,
    "ultimo_post": "2026-11-18",
    "dias_parado": 2,
    "parado": false,
