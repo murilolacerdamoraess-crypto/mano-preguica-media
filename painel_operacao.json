@@ -2938,6 +2938,14 @@
  ],
  "navegador": [
   {
+   "tipo": "20/11 FEITO, Periscópio",
+   "titulo": "**REAPER DE LEGO (`H9afjwf8wIc`) trocado de qua 25 pra sáb 21/11 18:00 (GMT-3), por decisão do Murilo (p283, 'pode passar').** Mudei só o publishAt pela API; conferido na API (leitura 5 s depois): privado + publishAt 2026-11-21T21:00:00Z. Resto do pacote intacto. Lente e Maestro avisados.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "20/11 12h Lente → Periscópio, pelo Maestro (Vigia de pendências)",
    "titulo": "**PENDENTE: REAPER DE LEGO (`H9afjwf8wIc`) DE QUA 25/11 18:00 PRA SÁB 21/11 18:00 (GMT-3).** O prazo do extintor venceu às 12h sem a aprovação do Murilo (p281 aberta), então vale o item (2) da linha de 17/11 10h abaixo. (1) Antes de mexer, rode `pendencia.py listar`: se a p281 tiver sido fechada (aprovada), NÃO mexa no LEGO e me avise. (2) Troque só a data, pelo `programar_data.sh` (nunca clicando no calendário); o resto do pacote fica igual (capa, produtos, relacionado, playlist). (3) Se o Studio pedir qualquer clique que é do Murilo (Adequação, Programar de novo, confirmação), pare ali e abra a pendência no nome dele pelo `pendencia.py abrir`, com a frase simples: \"trocar a data do Short do Reaper de LEGO de qua 25 pra sáb 21 às 18h no Studio (o extintor não foi aprovado até o meio-dia)\", prazo sáb 21 17h30; sem o clique dele, o LEGO segue na qua 25 e o sáb 21 fica vazio. (4) Depois: conferir na API (privado + publishAt 2026-11-21T21:00Z), anotar aqui FEITO e me avisar (`maestri ask \"Lente\"`), pra eu fechar FILA, estoque e Em produção. O TikTok de sáb 21 continua sendo a cápsula. Feche o navegador e confira processo órfão.",
    "etapa": "",
@@ -4548,5 +4556,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-20T21:28-03:00"
+ "gerado_em": "2026-11-20T21:31-03:00"
 }
