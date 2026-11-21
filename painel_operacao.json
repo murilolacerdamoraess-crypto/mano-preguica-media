@@ -4454,22 +4454,6 @@
    "status": "aberta"
   },
   {
-   "id": "p279",
-   "aberta_em": "2026-11-19T09:47-03:00",
-   "agente": "Lente",
-   "video": "Ela inundou a própria base no Subnautica (#32), programado pra HOJE 18h",
-   "o_que": "O Crivo achou um 's' cortado na sua voz (em 'em cima', 1:17), o mesmo defeito do Batman. Decidir até 14h; sem resposta, sai hoje como está.",
-   "onde": "Decidir",
-   "status": "cancelada",
-   "opcoes": [
-    "Trocar: o Reaper de LEGO sai hoje 18h e a base sai qua 25 com o som certo (recomendado)",
-    "Refazer o som correndo e sair hoje 18h mesmo",
-    "Deixar sair hoje como está"
-   ],
-   "fechada_em": "2026-11-19T10:58-03:00",
-   "nota": "Perdeu o motivo: a v2 (92e7cbd5, só o som, 6 consoantes devolvidas) passou no Crivo às 10h57 e o Crivo corrigiu: o c de 'em cima' estava inteiro (o corte veio do Whisper). A v1 que você aprovou na p252 é trocada pela v2 no Studio, sem mudar imagem nem capa."
-  },
-  {
    "id": "p280",
    "aberta_em": "2026-11-19T11:10-03:00",
    "agente": "Periscópio",
@@ -4533,5 +4517,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-21T09:38-03:00"
+ "gerado_em": "2026-11-21T11:05-03:00"
 }
