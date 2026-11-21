@@ -880,6 +880,22 @@
    "confianca": "forte no erro (2 de 2 Shorts que fecham em \"zerou\" sem a história fizeram ele parar); é a 1ª regra pra esse tipo de frase, sem medida de views (é correção de fato, não de alcance).",
    "status": "aguardando",
    "simples": "Quando o Short conta que alguém zerou o Subnautica depois de um feito difícil, o texto vai dizer em uma frase que ainda faltava o resto do jogo antes do foguete, como você mesmo trocou no Short do Subnautica que ficou quase impossível (\"ainda faltava o resto do jogo, mas no fim ele construiu o foguete\"). Assim você não precisa parar a gravação pra perguntar da arma alienígena, como parou nesse e no da base inundada contra a Aurora."
+  },
+  {
+   "id": "R111",
+   "titulo": "Vídeo e áudio não passam mais por dentro do painel, e o painel volta a abrir no celular numa conta nova da Vercel.",
+   "onde": "painel (`canal_agente/painel/frontend`, rotas `/api/video/[id]` e `/api/narracao/audio`) e os 9 scripts que chamam `canal-agente-geer.vercel.app`; diretor de melhorias, 21/11/2026.",
+   "confianca": "forte na causa (o uso medido pela Vercel e o tamanho dos arquivos batem); a conta nova sem o item (1) não resolve.",
+   "status": "aguardando",
+   "simples": "O painel saiu do ar no celular porque os vídeos do Assistir e os áudios do Gravar passavam por dentro dele e estouraram o limite grátis da Vercel. A proposta é fazer os vídeos tocarem direto do Drive e subir o painel numa conta nova e grátis, como já foi feito com o Nazus, pra você voltar a assistir e gravar pelo celular."
+  },
+  {
+   "id": "R112",
+   "titulo": "Painel fora do ar vira alarme na hora, e o robô das suas decisões diz \"não consegui ler\" em vez de ficar quieto.",
+   "onde": "`operacao-maestri/saude_maquina.py` (routine Saúde da máquina) e `operacao-maestri/decisoes_novas.py` (routine Ajustes do Murilo); diretor de melhorias, 21/11/2026.",
+   "confianca": "forte (os dois testes de hoje mostram o silêncio).",
+   "status": "aguardando",
+   "simples": "Quando o painel cair, a máquina avisa na hora, em vez de ficar quieta como se você não tivesse decidido nada; e avisa antes, quando o uso grátis do mês passar de 70%. Desta vez ele ficou fora do ar por mais de um dia antes de alguém do canal perceber."
   }
  ],
  "equipe": [
@@ -4509,5 +4525,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-21T04:45-03:00"
+ "gerado_em": "2026-11-21T09:37-03:00"
 }
