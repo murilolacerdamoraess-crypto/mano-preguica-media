@@ -887,7 +887,7 @@
    "onde": "painel (`canal_agente/painel/frontend`, rotas `/api/video/[id]` e `/api/narracao/audio`) e os 9 scripts que chamam `canal-agente-geer.vercel.app`; diretor de melhorias, 21/11/2026.",
    "confianca": "forte na causa (o uso medido pela Vercel e o tamanho dos arquivos batem); a conta nova sem o item (1) não resolve.",
    "status": "aguardando",
-   "simples": "O painel saiu do ar no celular porque os vídeos do Assistir e os áudios do Gravar passavam por dentro dele e estouraram o limite grátis da Vercel. A proposta é fazer os vídeos tocarem direto do Drive e subir o painel numa conta nova e grátis, como já foi feito com o Nazus, pra você voltar a assistir e gravar pelo celular."
+   "simples": "O painel saiu do ar no celular porque os vídeos do Assistir e os áudios do Gravar passavam por dentro dele e estouraram o limite grátis da Vercel (o serviço que deixa o painel na internet). A proposta é fazer os vídeos tocarem direto do Drive e subir o painel numa conta nova e grátis, como já foi feito com o Nazus, pra você voltar a assistir e gravar pelo celular."
   },
   {
    "id": "R112",
@@ -895,7 +895,7 @@
    "onde": "`operacao-maestri/saude_maquina.py` (routine Saúde da máquina) e `operacao-maestri/decisoes_novas.py` (routine Ajustes do Murilo); diretor de melhorias, 21/11/2026.",
    "confianca": "forte (os dois testes de hoje mostram o silêncio).",
    "status": "aguardando",
-   "simples": "Quando o painel cair, a máquina avisa na hora, em vez de ficar quieta como se você não tivesse decidido nada; e avisa antes, quando o uso grátis do mês passar de 70%. Desta vez ele ficou fora do ar por mais de um dia antes de alguém do canal perceber."
+   "simples": "Quando o painel cair, o Maestro fica sabendo na hora e te manda a mensagem, em vez de o painel parecer vazio sem explicação; e o aviso vem antes, quando o uso grátis do mês passar de 70%. Desta vez ele ficou fora do ar por mais de um dia antes de alguém do canal perceber."
   }
  ],
  "equipe": [
@@ -2954,6 +2954,14 @@
  ],
  "navegador": [
   {
+   "tipo": "21/11 ~10h Periscópio, pedido da Bússola (Meta 0)",
+   "titulo": "**FEITO: TikTok da CÁPSULA #30 (`XwpnJaFxWSk`) AGENDADO sáb 21/11 18:00 (GMT-3), Todos, pelo TikTok Studio web (Plano B, perfil mano).** Arquivo capsula_854b197d.mp4 (md5 conferido, 1:41). Sem duplicata antes de subir; legenda = título + 4 hashtags; verificação de conteúdo sem problema; IA no padrão desligado. Conferido em tiktokstudio/content: 1 entrada, '21 de nov, 18:00 (GMT-3) Sao Paulo', Todos. Id gravado no tiktok_agenda.json (agendado_por tiktok-web). Print: ~/EdicaoIA/provas_publicacao/tiktok_capsula_21-11.png.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "20/11 FEITO, Periscópio",
    "titulo": "**REAPER DE LEGO (`H9afjwf8wIc`) trocado de qua 25 pra sáb 21/11 18:00 (GMT-3), por decisão do Murilo (p283, 'pode passar').** Mudei só o publishAt pela API; conferido na API (leitura 5 s depois): privado + publishAt 2026-11-21T21:00:00Z. Resto do pacote intacto. Lente e Maestro avisados.",
    "etapa": "",
@@ -4525,5 +4533,5 @@
    ]
   }
  ],
- "gerado_em": "2026-11-21T09:37-03:00"
+ "gerado_em": "2026-11-21T09:38-03:00"
 }
