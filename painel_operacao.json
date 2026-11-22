@@ -4634,7 +4634,9 @@
    "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
    "o_que": "Rascunho pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=1fd8I1HEeAA (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em seg 23/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-22T20:26-03:00",
+   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
   },
   {
    "id": "p291",
@@ -4643,7 +4645,9 @@
    "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
    "o_que": "Rascunho pronto no Studio (título, capa BUGOU, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=crFXsVL0ayU (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em ter 24/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-22T20:26-03:00",
+   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
   },
   {
    "id": "p292",
@@ -4652,7 +4656,9 @@
    "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
    "o_que": "Rascunho pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=RovL8tHz9vw (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qua 25/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-22T20:26-03:00",
+   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
   },
   {
    "id": "p293",
@@ -4661,7 +4667,9 @@
    "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "o_que": "Rascunho pronto no Studio (título, capa CABE?, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=iBX2dFYIcJk (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qui 26/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "feita",
+   "fechada_em": "2026-11-22T20:26-03:00",
+   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
   },
   {
    "id": "p294",
@@ -4674,5 +4682,5 @@
    "chave": "video:1a85xHYhBPntXxoCDZCeUf-YpmEw9EXHL"
   }
  ],
- "gerado_em": "2026-11-22T18:51-03:00"
+ "gerado_em": "2026-11-22T20:26-03:00"
 }
