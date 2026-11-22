@@ -2706,9 +2706,9 @@
   {
    "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "etapa": "edição (22/11: o domingo passou; se você aprovar, sai na próxima data livre do principal, hoje sex 27/11 às 18h se o extintor não for aprovado antes; antes: 19/11: se você aprovar até dom 22 ao meio-dia, sai dom 22/11 às 18h no principal, que estava vazio; senão fica pra sex 27/11 às 18h; antes: 15/11: o vídeo está no Assistir, 1 min 26, aprovado pelo Crivo; se você aprovar, sai sex 27/11 às 18h no principal (a vaga de seg 16/11 passou com você viajando); antes: título escolhido por você em 12/11: \"Por que a bateria do submarino sumia tão rápido na lava do Subnautica?\"; você gravou as 12 frases em 11 e 12/11)",
+   "etapa": "pronto pra publicar (aprovado por você em 22/11; a Tesoura tira os quadros parados e o Periscópio deixa o rascunho pronto no Studio; sai sex 27/11 às 18h no principal, com a capa sem palavra)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir o Short da bateria e dizer se aprova ou o que muda",
+   "falta_murilo": "programar o Short no Studio quando o rascunho estiver pronto",
    "prazo": ""
   },
   {
@@ -2722,9 +2722,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "etapa": "pronto pra publicar (22/11: qua 25 e qui 26 ficaram com Luigi e Pokémon; se você aprovar a versão nova, sai na próxima data livre, hoje sex 27/11 às 18h; antes: 22/11: a qua 25 ficou com o Luigi; antes: 20/11 12h: não deu tempo pro sáb 21, que ficou com o Reaper de LEGO; antes: 19/11 11h15: a versão nova está no Assistir, só com o som consertado (os dois cortes no s e no f da sua voz voltaram), imagem e capa iguais; aprovada pelo Crivo; sai sáb 21/11 às 18h se você aprovar a nova até sex 20 ao meio-dia, senão o Reaper de LEGO sai no lugar; antes: título escolhido por você em 12/11: \"Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor\"; voz gravada por você em 12/11, o texto ficou como você falou; ordem da Lente pronta; sai sáb 21/11 às 18h)",
+   "etapa": "edição (22/11: você pediu ajuste; a Tesoura refaz a versão 3, com o leviatã atacando na frase \"deixa os bichos bem mais agressivos\" no lugar do zoom no 78 m, e os outros pontos que você marcou; volta pro Assistir e, aprovada, sai ter 01/12 às 18h no principal)",
    "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar a versão nova (sai qua 25/11 às 18h)",
+   "falta_murilo": "nada por enquanto",
    "prazo": ""
   },
   {
@@ -2945,6 +2945,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "22/11 ~15h Lente → Periscópio, pelo Maestro",
+   "titulo": "**ESPERANDO O RETOQUE DA TESOURA: BATERIA NA LAVA #31 (Short do principal, aprovado pelo Murilo 22/11, p235) VIRA RASCUNHO PRA SEX 27/11 18:00 (GMT-3).** Só suba depois que a Tesoura entregar o retoque (quadros parados) e o Crivo conferir; o arquivo novo substitui o de `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Por que a bateria do submarino sumia tao rapido na lava do Subnautica?.mp4` (confira a md5 nova, não a 99a8e4b5 de 15/11). Título: \"Por que a bateria do submarino sumia tão rápido na lava do Subnautica?\" (o do Decidir, p210, a não ser que o Anzol tenha outro). Capa: a SEM PALAVRA do teste T13 (1º caso), a que o Anzol conferiu em 14/11, em `Mano Preguica/_refs capa - Shorts 26-10/Bateria lava/` (confirme com o Anzol qual Flow). Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data sex 27/11 18:00). Devolva o ID pra Lente pôr na FILA #31.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "22/11 tarde Lente → Periscópio, pelo Maestro",
    "titulo": "**PENDENTE: POKÉMON NO SUBNAUTICA #44 (Short do principal, aprovado pelo Murilo 22/11 como está, p271) VIRA RASCUNHO PRA QUI 26/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Pokemon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou.mp4`. Título: \"Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou\" (a não ser que o Anzol tenha outro). Capa: `Mano Preguica/_refs capa - Shorts 26-10/Pokemon no Subnautica/CAPA POKEMON - Flow 2.png` (a que foi pro Assistir; se o Anzol trocou depois da regra 2.30d, use a dele). Daniel Krafft só no canto do vídeo, sem linha de crédito na descrição (C52). Produtos: os da Vitrine de 18/11 (linha mais abaixo, teste T14 forma A), agora pra qui 26 e não seg 23. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data qui 26/11 18:00). Devolva o ID pra Lente pôr na FILA #44.",
@@ -4563,5 +4571,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:43-03:00"
+ "gerado_em": "2026-11-22T14:46-03:00"
 }
