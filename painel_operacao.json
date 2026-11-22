@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "22/11 17h25 Periscópio, ordem do Maestro",
+   "titulo": "**CORREÇÃO DOS ITENS DE CLIQUE: o /edit cai em Detalhes do vídeo, sem o botão.** Conferido no Studio: o botão Editar rascunho gera `.../videos/short?d=ud&udvid=<ID>`, que abre o assistente certo. Itens reescritos com esse link: Void p286 virou **p290**, mapa p287 virou **p291**, Luigi p288 virou **p292**, Pokémon p289 virou **p293** (as antigas foram canceladas). Regra no role e na skill youtube-publicar. Tabela acima: onde está p286 a p289, ler p290 a p293.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 17h15 Periscópio, pedido da Lente pelo Maestro/Vigia",
    "titulo": "**FEITO ATÉ O LIMITE: 3 RASCUNHOS PRIVADOS DO PRINCIPAL, FALTAM OS CLIQUES DO MURILO (Adequação + Programar).** Todos com portão de áudio APROVADO (-14,0 LUFS), título do pedido, descrição, tags, categoria Jogos, IA Não (voz real), promoção Não, 3 toggles off, capa conferida pelo capa_short.sh (CAPA OK), relacionado ≠ Nenhum e produtos relidos depois de recarregar. (1) **MAPA #45** `crFXsVL0ayU` https://youtube.com/shorts/crFXsVL0ayU, capa BUGOU (Flow 2), 7 produtos (1º Caneca Subnautica R$ 29,09, 15%, aceita pela extensão; depois Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Quest 3S), relacionado = longo do Gargantuan, ter 24/11 18:00, p287. (2) **LUIGI #42** `RovL8tHz9vw` https://youtube.com/shorts/RovL8tHz9vw, capa ERA VERDADE (Flow 2), jogo Super Mario 64, 3 produtos (Funko Pop Luigi R$ 46,55, R36S, Quest 3S; sem leviatã por ser outro jogo), relacionado = Short 'Pokémon x Marshmello' (sem longo do tema; escolha minha, Lente pode trocar), qua 25/11 18:00, p288. (3) **POKÉMON #44** `iBX2dFYIcJk` https://youtube.com/shorts/iBX2dFYIcJk, capa CABE? (Flow 2), 7 produtos (1º Pokébola 3D do Dragonite R$ 54,90, 15%: o Eevee não retornou na busca, usei a reserva da Vitrine; depois R36S, Reaper, Switch Subnautica+Below Zero, Ghost, Gargantuan, Quest 3S), relacionado = longo do Gargantuan, qui 26/11 18:00, p289. Playlist VIDEOS CURTOS só depois de programar; depois do clique: ledger, foco do Anzol e leitura do relacionado. Lente põe os IDs na FILA #45, #42 e #44.",
    "etapa": "",
@@ -4613,7 +4621,9 @@
    "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "o_que": "Short do Pokémon pronto no Studio (título, capa CABE?, descrição, 7 produtos com a Pokébola 3D do Dragonite em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/iBX2dFYIcJk/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qui 26/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-22T17:25-03:00",
+   "nota": "reescrito com o link que abre direto na tela certa"
   },
   {
    "id": "p290",
@@ -4630,6 +4640,24 @@
    "agente": "Periscópio",
    "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
    "o_que": "Rascunho pronto no Studio (título, capa BUGOU, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=crFXsVL0ayU (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em ter 24/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
+  },
+  {
+   "id": "p292",
+   "aberta_em": "2026-11-22T17:25-03:00",
+   "agente": "Periscópio",
+   "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
+   "o_que": "Rascunho pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=RovL8tHz9vw (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qua 25/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
+  },
+  {
+   "id": "p293",
+   "aberta_em": "2026-11-22T17:25-03:00",
+   "agente": "Periscópio",
+   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
+   "o_que": "Rascunho pronto no Studio (título, capa CABE?, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=iBX2dFYIcJk (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qui 26/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
    "status": "aberta"
   }
