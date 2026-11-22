@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "22/11 14h30 Lente → Periscópio, pelo Maestro",
+   "titulo": "**PENDENTE: VOID #46 (Short do principal, aprovado pelo Murilo 22/11 14h21, p275) VIRA RASCUNHO PRA SEG 23/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ela comecou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de la.mp4`. Título: \"Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá\" (a não ser que o Anzol tenha outro). Capa: `CAPA VOID - Flow 2.png` (pasta `_refs capa - Shorts 26-10/`). Pacote igual aos Shorts do principal (descrição, produtos da Vitrine se houver, marcar conteúdo alterado ou sintético só se tiver voz IA). Sobe como rascunho privado; **o clique de programar é do Murilo** (vira pendência no nome dele com a data seg 23/11 18:00). Devolva o ID do vídeo pra Lente pôr na FILA #46. Obs.: os produtos do Pokémon (linha de 18/11 abaixo) não saem mais seg 23: o Pokémon foi pra ter 01/12 se aprovado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "21/11 ~10h Periscópio, pedido da Bússola (Meta 0)",
    "titulo": "**FEITO: TikTok da CÁPSULA #30 (`XwpnJaFxWSk`) AGENDADO sáb 21/11 18:00 (GMT-3), Todos, pelo TikTok Studio web (Plano B, perfil mano).** Arquivo capsula_854b197d.mp4 (md5 conferido, 1:41). Sem duplicata antes de subir; legenda = título + 4 hashtags; verificação de conteúdo sem problema; IA no padrão desligado. Conferido em tiktokstudio/content: 1 entrada, '21 de nov, 18:00 (GMT-3) Sao Paulo', Todos. Id gravado no tiktok_agenda.json (agendado_por tiktok-web). Print: ~/EdicaoIA/provas_publicacao/tiktok_capsula_21-11.png.",
    "etapa": "",
@@ -4496,5 +4504,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:22-03:00"
+ "gerado_em": "2026-11-22T14:23-03:00"
 }
