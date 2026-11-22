@@ -967,7 +967,7 @@
 "v": 431
 }
 ],
-"views": 3847
+"views": 3859
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -1021,7 +1021,7 @@
 "titulo": "o maior monstro de subnautica voltou e agora ele te ouve no jogo #sub...",
 "ts": 1789592534,
 "fotos": [],
-"views": 104300
+"views": 104400
 },
 "7685499461191093524": {
 "titulo": "o brasil está quase ganhando a copa do mundo de project zomboid 🏆 #pr...",
@@ -1039,7 +1039,7 @@
 "titulo": "os zumbis de half-life 2 são pessoas de verdade gritando por socorro....",
 "ts": 1788210146,
 "fotos": [],
-"views": 2022
+"views": 2028
 },
 "7679190740735364370": {
 "titulo": "a nintendo escondeu um jogo secreto dentro do switch que só abria imi...",
@@ -1550,7 +1550,7 @@
 "v": 2752
 }
 ],
-"views": 4070
+"views": 4071
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -2762,7 +2762,7 @@
 "v": 10900
 }
 ],
-"views": 20900
+"views": 21000
 },
 "7701455478399732998": {
 "titulo": "Esse cara tá tentando imprimir em 3D o maior Pokémon da primeira gera...",
@@ -3806,7 +3806,7 @@
 "v": 5996
 }
 ],
-"views": 6857
+"views": 6870
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -5372,6 +5372,10 @@
 {
 "t": 1795293683,
 "v": 103
+},
+{
+"t": 1795323859,
+"v": 103
 }
 ],
 "views": 103
@@ -5647,9 +5651,13 @@
 {
 "t": 1795312827,
 "v": 9856
+},
+{
+"t": 1795323859,
+"v": 9908
 }
 ],
-"views": 9856
+"views": 9908
 },
 "7708506553292164373": {
 "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil #games...",
@@ -5741,6 +5749,10 @@
 },
 {
 "t": 1795293683,
+"v": 147
+},
+{
+"t": 1795323859,
 "v": 147
 }
 ],
@@ -5941,9 +5953,13 @@
 {
 "t": 1795312827,
 "v": 3792
+},
+{
+"t": 1795323859,
+"v": 3801
 }
 ],
-"views": 3792
+"views": 3801
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -6185,9 +6201,13 @@
 {
 "t": 1795312827,
 "v": 853
+},
+{
+"t": 1795323859,
+"v": 864
 }
 ],
-"views": 853
+"views": 864
 },
 "7710603106383449351": {
 "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores b...",
@@ -6200,9 +6220,13 @@
 {
 "t": 1795312827,
 "v": 129
+},
+{
+"t": 1795323859,
+"v": 164
 }
 ],
-"views": 129
+"views": 164
 }
 }
 }
