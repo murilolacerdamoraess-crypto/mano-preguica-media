@@ -2650,9 +2650,9 @@
   {
    "tipo": "Short",
    "titulo": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "etapa": "edição (19/11: a versão 2 está no Assistir, aprovada pelo Crivo, com a capa \"BUGOU\"; só o som da narração foi consertado; se você aprovar, sai ter 24/11 às 18h no principal)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar o vídeo",
+   "etapa": "pronto pra publicar (aprovado por você em 22/11 com a capa \"BUGOU\"; sai ter 24/11 às 18h no principal; o Periscópio deixa o rascunho pronto no Studio)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "programar o Short no Studio quando o rascunho estiver pronto",
    "prazo": ""
   },
   {
@@ -2945,6 +2945,14 @@
   }
  ],
  "navegador": [
+  {
+   "tipo": "22/11 tarde Lente → Periscópio, pelo Maestro",
+   "titulo": "**PENDENTE: POR BAIXO DO MAPA #45 (Short do principal, aprovado pelo Murilo 22/11, p273) VIRA RASCUNHO PRA TER 24/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade.mp4` (v2). Título: \"Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade\" (a não ser que o Anzol tenha outro). Capa: **a atual, \"BUGOU\", sem capa nova** (pedido do Murilo); está em `_refs capa - Shorts 26-10/Por baixo do mapa/` (Flow 1 ou Flow 2: use a que diz BUGOU, a mesma que foi pro Assistir). Pacote igual aos Shorts do principal. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data ter 24/11 18:00). Devolva o ID pra Lente pôr na FILA #45. Vem depois do Void (linha de baixo, seg 23).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
   {
    "tipo": "22/11 ~15h Anzol → Periscópio, ordem do Maestro",
    "titulo": "**PENDENTE: 2 CAPAS NOVAS (só troca de texto) PRO EXTINTOR #33 (as 2 do mapa foram CANCELADAS, ver abaixo), regra 2.30 da cartilha (C107: letra do tom do jogo, palavra que diz o evento).** Editor do Flow (Nano Banana Pro), conta Mano Preguiça (conferir o avatar), um chat/edição por capa, IMAGEM 1 = a capa atual, nenhuma outra ref. Pasta `Mano Preguica/_refs capa - Shorts 26-10/`. PNG sem tratar (2.14). Até 2 tentativas por capa; descarte a que mudar o monstro, a mão ou o enquadramento. Avise o Anzol com os nomes; eu confiro e entrego à Tesoura.",
@@ -4514,5 +4522,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:27-03:00"
+ "gerado_em": "2026-11-22T14:28-03:00"
 }
