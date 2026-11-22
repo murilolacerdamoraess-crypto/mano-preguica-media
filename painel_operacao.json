@@ -2947,7 +2947,7 @@
  "navegador": [
   {
    "tipo": "22/11 ~15h Anzol → Periscópio, ordem do Maestro",
-   "titulo": "**PENDENTE: 4 CAPAS NOVAS (só troca de texto) PRO EXTINTOR #33 E PRO POR BAIXO DO MAPA, regra 2.30 da cartilha (C107: letra do tom do jogo, palavra que diz o evento).** Editor do Flow (Nano Banana Pro), conta Mano Preguiça (conferir o avatar), um chat/edição por capa, IMAGEM 1 = a capa atual, nenhuma outra ref. Pasta `Mano Preguica/_refs capa - Shorts 26-10/`. PNG sem tratar (2.14). Até 2 tentativas por capa; descarte a que mudar o monstro, a mão ou o enquadramento. Avise o Anzol com os nomes; eu confiro e entrego à Tesoura.",
+   "titulo": "**PENDENTE: 2 CAPAS NOVAS (só troca de texto) PRO EXTINTOR #33 (as 2 do mapa foram CANCELADAS, ver abaixo), regra 2.30 da cartilha (C107: letra do tom do jogo, palavra que diz o evento).** Editor do Flow (Nano Banana Pro), conta Mano Preguiça (conferir o avatar), um chat/edição por capa, IMAGEM 1 = a capa atual, nenhuma outra ref. Pasta `Mano Preguica/_refs capa - Shorts 26-10/`. PNG sem tratar (2.14). Até 2 tentativas por capa; descarte a que mudar o monstro, a mão ou o enquadramento. Avise o Anzol com os nomes; eu confiro e entrego à Tesoura.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4397,8 +4397,10 @@
    "video": "Short: Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade (#90)",
    "o_que": "assistir a v2 (só o áudio mudou: s, f e x inteiros) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1vRskAlnbzo-7oDOXIsDFYVpkcJxSGyc3"
+   "status": "feita",
+   "chave": "video:1vRskAlnbzo-7oDOXIsDFYVpkcJxSGyc3",
+   "fechada_em": "2026-11-22T14:26-03:00",
+   "nota": "Murilo 22/11: vídeo APROVADO, publicar com esta capa. Capa: Ghost na parede + BUGOU não fala de passar por baixo do mapa; corrigir a fundamentação pros próximos (bonita, o problema não é estética)."
   },
   {
    "id": "p274",
@@ -4512,5 +4514,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:26-03:00"
+ "gerado_em": "2026-11-22T14:27-03:00"
 }
