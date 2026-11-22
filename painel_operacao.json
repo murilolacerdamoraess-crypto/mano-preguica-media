@@ -4411,8 +4411,10 @@
    "video": "Short: Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
    "o_que": "assistir a v1 e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1mFEQ8zuOhI88yGI-abbtOhKhH596qMVe"
+   "status": "feita",
+   "chave": "video:1mFEQ8zuOhI88yGI-abbtOhKhH596qMVe",
+   "fechada_em": "2026-11-22T14:40-03:00",
+   "nota": "Murilo 22/11: Pokémon APROVADO como está. Apontamentos pros próximos: capa CABE? com fundamento errado (o novo é capturar os leviatãs, não caber na pokébola); imagem do Reaper recortada 'bugadassa' (faixas brancas/pretas no fundo)."
   },
   {
    "id": "p273",
@@ -4549,5 +4551,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:34-03:00"
+ "gerado_em": "2026-11-22T14:41-03:00"
 }
