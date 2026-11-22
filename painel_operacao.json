@@ -2738,9 +2738,9 @@
   {
    "tipo": "Short",
    "titulo": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-   "etapa": "edição (19/11: o vídeo está no Assistir, aprovado pelo Crivo; se você aprovar, sai ter 01/12 às 18h no principal)",
-   "responsavel": "Tesoura",
-   "falta_murilo": "assistir e aprovar o vídeo",
+   "etapa": "pronto pra publicar (aprovado por você em 22/11; sai seg 23/11 às 18h no principal; o Periscópio deixa o rascunho pronto no Studio)",
+   "responsavel": "Periscópio",
+   "falta_murilo": "programar o Short no Studio quando o rascunho estiver pronto",
    "prazo": ""
   },
   {
@@ -4496,5 +4496,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:21-03:00"
+ "gerado_em": "2026-11-22T14:22-03:00"
 }
