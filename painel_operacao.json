@@ -4477,8 +4477,10 @@
    "video": "Short MP2: Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (#91)",
    "o_que": "assistir a v3 (só o áudio mudou: as fricativas inteiras) e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1mJhDSIybBOb3XTj7B70MrXAbr1mINc6I"
+   "status": "feita",
+   "chave": "video:1mJhDSIybBOb3XTj7B70MrXAbr1mINc6I",
+   "fechada_em": "2026-11-22T14:53-03:00",
+   "nota": "Murilo 22/11: Teia APROVADA como está ('vamos postar assim mesmo no canal secundario e ver o barulho'), apesar das frases difíceis (voa fechado, gruda e segura, a frase da cola); correção vai pros próximos roteiros."
   },
   {
    "id": "p277",
@@ -4571,5 +4573,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:46-03:00"
+ "gerado_em": "2026-11-22T14:53-03:00"
 }
