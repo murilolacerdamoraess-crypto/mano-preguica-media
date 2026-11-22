@@ -4401,8 +4401,10 @@
    "video": "Short: Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
    "o_que": "assistir a v1 e aprovar ou pedir ajuste",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1M8JmTI1zmQUrBIAydIvcbjlyi7FTc_jU"
+   "status": "feita",
+   "chave": "video:1M8JmTI1zmQUrBIAydIvcbjlyi7FTc_jU",
+   "fechada_em": "2026-11-22T14:21-03:00",
+   "nota": "Murilo 22/11 ~14h30: vídeo APROVADO. Capa: achou a fonte com cara de Mario e o 'SEM FUNDO' avulso; não refazer, corrigir pros próximos."
   },
   {
    "id": "p276",
@@ -4494,5 +4496,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T00:17-03:00"
+ "gerado_em": "2026-11-22T14:21-03:00"
 }
