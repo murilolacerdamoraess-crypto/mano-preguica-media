@@ -2970,8 +2970,16 @@
    "prazo": ""
   },
   {
+   "tipo": "22/11 ~15h Periscópio, pedido da Lente pelo Maestro",
+   "titulo": "**FEITO ATÉ O LIMITE: VOID #46 (`1fd8I1HEeAA`, https://youtube.com/shorts/1fd8I1HEeAA) SUBIDO COMO RASCUNHO PRIVADO; FALTAM OS 2 CLIQUES DO MURILO (p286): Adequação para publicidade e Programar seg 23/11 18:00.** Arquivo md5 61ac24bf (143 s, portão de áudio APROVADO, -14,0 LUFS). Título do pedido, descrição (hook da fala + template + palavras-chave + hashtags), 12 tags, jogo Subnautica (digitado e escolhido na lista; o Studio mostra só 'Subnautica'), categoria Jogos, IA Não (voz real), promoção Não, 3 toggles off, capa `CAPA VOID - Flow 2` (prévia SEM FUNDO no rascunho), 7 produtos (Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Switch Subnautica + Below Zero, Quest 3S), relacionado = longo 'Gargantuan Leviathan: O Monstro MAIS PERIGOSO de Subnautica!' (o mesmo da base inundada; lido de novo depois de recarregar, ≠ Nenhum). NÃO deu pra deixar a data 18h pronta: a Visibilidade só abre depois da Adequação (irreversível, do Murilo). Playlist VIDEOS CURTOS só depois de programado. Falta eu: conferir capa (capa_short.sh), playlist, ledger e foco do Anzol depois do clique.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 14h30 Lente → Periscópio, pelo Maestro",
-   "titulo": "**PENDENTE: VOID #46 (Short do principal, aprovado pelo Murilo 22/11 14h21, p275) VIRA RASCUNHO PRA SEG 23/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ela comecou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de la.mp4`. Título: \"Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá\" (a não ser que o Anzol tenha outro). Capa: `CAPA VOID - Flow 2.png` (pasta `_refs capa - Shorts 26-10/`). Pacote igual aos Shorts do principal (descrição, produtos da Vitrine se houver, marcar conteúdo alterado ou sintético só se tiver voz IA). Sobe como rascunho privado; **o clique de programar é do Murilo** (vira pendência no nome dele com a data seg 23/11 18:00). Devolva o ID do vídeo pra Lente pôr na FILA #46. Obs.: os produtos do Pokémon (linha de 18/11 abaixo) não saem mais seg 23: o Pokémon foi pra ter 01/12 se aprovado.",
+   "titulo": "~~PENDENTE~~ **FEITO ATÉ O LIMITE (ver a linha de cima): VOID #46 (Short do principal, aprovado pelo Murilo 22/11 14h21, p275) VIRA RASCUNHO PRA SEG 23/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ela comecou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de la.mp4`. Título: \"Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá\" (a não ser que o Anzol tenha outro). Capa: `CAPA VOID - Flow 2.png` (pasta `_refs capa - Shorts 26-10/`). Pacote igual aos Shorts do principal (descrição, produtos da Vitrine se houver, marcar conteúdo alterado ou sintético só se tiver voz IA). Sobe como rascunho privado; **o clique de programar é do Murilo** (vira pendência no nome dele com a data seg 23/11 18:00). Devolva o ID do vídeo pra Lente pôr na FILA #46. Obs.: os produtos do Pokémon (linha de 18/11 abaixo) não saem mais seg 23: o Pokémon foi pra ter 01/12 se aprovado.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4530,7 +4538,16 @@
    "o_que": "decidir se renova a chave 'API teste' da Anthropic (e-mail de 21/11, vence em 28/11); se nada usa, pode deixar vencer",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p286",
+   "aberta_em": "2026-11-22T14:32-03:00",
+   "agente": "Periscópio",
+   "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
+   "o_que": "Short do Void pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/1fd8I1HEeAA/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com seg 23/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:29-03:00"
+ "gerado_em": "2026-11-22T14:34-03:00"
 }
