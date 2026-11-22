@@ -4580,7 +4580,9 @@
    "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
    "o_que": "Short do Void pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/1fd8I1HEeAA/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com seg 23/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-22T17:25-03:00",
+   "nota": "reescrito com o link que abre direto na tela certa"
   },
   {
    "id": "p287",
@@ -4589,7 +4591,9 @@
    "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
    "o_que": "Short do mapa pronto no Studio (título, capa BUGOU, descrição, 7 produtos com a caneca de Subnautica em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/crFXsVL0ayU/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com ter 24/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-22T17:25-03:00",
+   "nota": "reescrito com o link que abre direto na tela certa"
   },
   {
    "id": "p288",
@@ -4598,7 +4602,9 @@
    "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
    "o_que": "Short do Luigi pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/RovL8tHz9vw/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qua 25/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
-   "status": "aberta"
+   "status": "cancelada",
+   "fechada_em": "2026-11-22T17:25-03:00",
+   "nota": "reescrito com o link que abre direto na tela certa"
   },
   {
    "id": "p289",
@@ -4608,7 +4614,25 @@
    "o_que": "Short do Pokémon pronto no Studio (título, capa CABE?, descrição, 7 produtos com a Pokébola 3D do Dragonite em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/iBX2dFYIcJk/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qui 26/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p290",
+   "aberta_em": "2026-11-22T17:25-03:00",
+   "agente": "Periscópio",
+   "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
+   "o_que": "Rascunho pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=1fd8I1HEeAA (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em seg 23/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
+  },
+  {
+   "id": "p291",
+   "aberta_em": "2026-11-22T17:25-03:00",
+   "agente": "Periscópio",
+   "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
+   "o_que": "Rascunho pronto no Studio (título, capa BUGOU, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=crFXsVL0ayU (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em ter 24/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T17:24-03:00"
+ "gerado_em": "2026-11-22T17:25-03:00"
 }
