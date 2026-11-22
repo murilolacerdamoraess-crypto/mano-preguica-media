@@ -4566,11 +4566,13 @@
    "video": "Código do canal_agente parado no Mac",
    "o_que": "O repositório canal_agente tem 2 arquivos alterados sem commit (não estão no PC Windows). É repositório com deploy, então só sobe com o seu OK.",
    "onde": "Decidir",
-   "status": "aberta",
+   "status": "feita",
    "opcoes": [
     "Pode subir",
     "Não sobe ainda"
-   ]
+   ],
+   "fechada_em": "2026-11-22T18:05-03:00",
+   "nota": "Murilo 22/11 18h: 'pode subir'. Push 17023d4 (checar_fluidez, ficha_video, portao_pauta); canal_agente igual ao remoto."
   },
   {
    "id": "p285",
@@ -4662,5 +4664,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T17:25-03:00"
+ "gerado_em": "2026-11-22T18:05-03:00"
 }
