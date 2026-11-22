@@ -4289,8 +4289,10 @@
    "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
    "o_que": "assistir o Short da bateria na lava (1:26) e dizer se aprova ou o que muda; sai sex 27/11 às 18h (a vaga de seg 16/11 passou com você viajando)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4"
+   "status": "feita",
+   "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4",
+   "fechada_em": "2026-11-22T14:43-03:00",
+   "nota": "Murilo 22/11: Short da bateria/larvas da lava APROVADO. Os 5 quadros parados que a trava achou (w245 3,5 s) entram como retoque, sem voltar ao Assistir."
   },
   {
    "id": "p241",
@@ -4561,5 +4563,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T14:42-03:00"
+ "gerado_em": "2026-11-22T14:43-03:00"
 }
