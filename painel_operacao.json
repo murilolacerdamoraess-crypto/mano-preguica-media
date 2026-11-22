@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "22/11 17h15 Periscópio, pedido da Lente pelo Maestro/Vigia",
+   "titulo": "**FEITO ATÉ O LIMITE: 3 RASCUNHOS PRIVADOS DO PRINCIPAL, FALTAM OS CLIQUES DO MURILO (Adequação + Programar).** Todos com portão de áudio APROVADO (-14,0 LUFS), título do pedido, descrição, tags, categoria Jogos, IA Não (voz real), promoção Não, 3 toggles off, capa conferida pelo capa_short.sh (CAPA OK), relacionado ≠ Nenhum e produtos relidos depois de recarregar. (1) **MAPA #45** `crFXsVL0ayU` https://youtube.com/shorts/crFXsVL0ayU, capa BUGOU (Flow 2), 7 produtos (1º Caneca Subnautica R$ 29,09, 15%, aceita pela extensão; depois Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Quest 3S), relacionado = longo do Gargantuan, ter 24/11 18:00, p287. (2) **LUIGI #42** `RovL8tHz9vw` https://youtube.com/shorts/RovL8tHz9vw, capa ERA VERDADE (Flow 2), jogo Super Mario 64, 3 produtos (Funko Pop Luigi R$ 46,55, R36S, Quest 3S; sem leviatã por ser outro jogo), relacionado = Short 'Pokémon x Marshmello' (sem longo do tema; escolha minha, Lente pode trocar), qua 25/11 18:00, p288. (3) **POKÉMON #44** `iBX2dFYIcJk` https://youtube.com/shorts/iBX2dFYIcJk, capa CABE? (Flow 2), 7 produtos (1º Pokébola 3D do Dragonite R$ 54,90, 15%: o Eevee não retornou na busca, usei a reserva da Vitrine; depois R36S, Reaper, Switch Subnautica+Below Zero, Ghost, Gargantuan, Quest 3S), relacionado = longo do Gargantuan, qui 26/11 18:00, p289. Playlist VIDEOS CURTOS só depois de programar; depois do clique: ledger, foco do Anzol e leitura do relacionado. Lente põe os IDs na FILA #45, #42 e #44.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 ~15h Lente → Periscópio, pelo Maestro",
    "titulo": "**ESPERANDO O RETOQUE DA TESOURA: BATERIA NA LAVA #31 (Short do principal, aprovado pelo Murilo 22/11, p235) VIRA RASCUNHO PRA SEX 27/11 18:00 (GMT-3).** Só suba depois que a Tesoura entregar o retoque (quadros parados) e o Crivo conferir; o arquivo novo substitui o de `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Por que a bateria do submarino sumia tao rapido na lava do Subnautica?.mp4` (confira a md5 nova, não a 99a8e4b5 de 15/11). Título: \"Por que a bateria do submarino sumia tão rápido na lava do Subnautica?\" (o do Decidir, p210, a não ser que o Anzol tenha outro). Capa: a SEM PALAVRA do teste T13 (1º caso), a que o Anzol conferiu em 14/11, em `Mano Preguica/_refs capa - Shorts 26-10/Bateria lava/` (confirme com o Anzol qual Flow). Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data sex 27/11 18:00). Devolva o ID pra Lente pôr na FILA #31.",
    "etapa": "",
@@ -2955,7 +2963,7 @@
   },
   {
    "tipo": "22/11 tarde Lente → Periscópio, pelo Maestro",
-   "titulo": "**PENDENTE: POKÉMON NO SUBNAUTICA #44 (Short do principal, aprovado pelo Murilo 22/11 como está, p271) VIRA RASCUNHO PRA QUI 26/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Pokemon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou.mp4`. Título: \"Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou\" (a não ser que o Anzol tenha outro). Capa: `Mano Preguica/_refs capa - Shorts 26-10/Pokemon no Subnautica/CAPA POKEMON - Flow 2.png` (a que foi pro Assistir; se o Anzol trocou depois da regra 2.30d, use a dele). Daniel Krafft só no canto do vídeo, sem linha de crédito na descrição (C52). Produtos: os da Vitrine de 18/11 (linha mais abaixo, teste T14 forma A), agora pra qui 26 e não seg 23. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data qui 26/11 18:00). Devolva o ID pra Lente pôr na FILA #44.",
+   "titulo": "~~PENDENTE~~ **FEITO ATÉ O LIMITE (ver linha de cima, 22/11 17h): POKÉMON NO SUBNAUTICA #44 (Short do principal, aprovado pelo Murilo 22/11 como está, p271) VIRA RASCUNHO PRA QUI 26/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Pokemon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou.mp4`. Título: \"Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou\" (a não ser que o Anzol tenha outro). Capa: `Mano Preguica/_refs capa - Shorts 26-10/Pokemon no Subnautica/CAPA POKEMON - Flow 2.png` (a que foi pro Assistir; se o Anzol trocou depois da regra 2.30d, use a dele). Daniel Krafft só no canto do vídeo, sem linha de crédito na descrição (C52). Produtos: os da Vitrine de 18/11 (linha mais abaixo, teste T14 forma A), agora pra qui 26 e não seg 23. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data qui 26/11 18:00). Devolva o ID pra Lente pôr na FILA #44.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2963,7 +2971,7 @@
   },
   {
    "tipo": "22/11 tarde Lente → Periscópio, pelo Maestro",
-   "titulo": "**PENDENTE: LUIGI #42 (Short do principal, aprovado pelo Murilo 22/11, p274) VIRA RASCUNHO PRA QUA 25/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020.mp4` (v2). Título: \"Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020\" (a não ser que o Anzol tenha outro). Capa: **\"ERA VERDADE\"** (a que foi pro Assistir; o Anzol conferiu que passa na regra nova), em `Mano Preguica/_refs capa - Shorts 26-10/Luigi Mario 64/`. Vídeo sem som do jogo (Nintendo). Pacote igual aos Shorts do principal. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data qua 25/11 18:00). Devolva o ID pra Lente pôr na FILA #42. Vem depois do Void (seg 23) e do mapa (ter 24), linhas de baixo.",
+   "titulo": "~~PENDENTE~~ **FEITO ATÉ O LIMITE (ver linha de cima, 22/11 17h): LUIGI #42 (Short do principal, aprovado pelo Murilo 22/11, p274) VIRA RASCUNHO PRA QUA 25/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020.mp4` (v2). Título: \"Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020\" (a não ser que o Anzol tenha outro). Capa: **\"ERA VERDADE\"** (a que foi pro Assistir; o Anzol conferiu que passa na regra nova), em `Mano Preguica/_refs capa - Shorts 26-10/Luigi Mario 64/`. Vídeo sem som do jogo (Nintendo). Pacote igual aos Shorts do principal. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data qua 25/11 18:00). Devolva o ID pra Lente pôr na FILA #42. Vem depois do Void (seg 23) e do mapa (ter 24), linhas de baixo.",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -2971,7 +2979,7 @@
   },
   {
    "tipo": "22/11 tarde Lente → Periscópio, pelo Maestro",
-   "titulo": "**PENDENTE: POR BAIXO DO MAPA #45 (Short do principal, aprovado pelo Murilo 22/11, p273) VIRA RASCUNHO PRA TER 24/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade.mp4` (v2). Título: \"Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade\" (a não ser que o Anzol tenha outro). Capa: **a atual, \"BUGOU\", sem capa nova** (pedido do Murilo); está em `_refs capa - Shorts 26-10/Por baixo do mapa/` (Flow 1 ou Flow 2: use a que diz BUGOU, a mesma que foi pro Assistir). Pacote igual aos Shorts do principal. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data ter 24/11 18:00). Devolva o ID pra Lente pôr na FILA #45. Vem depois do Void (linha de baixo, seg 23).",
+   "titulo": "~~PENDENTE~~ **FEITO ATÉ O LIMITE (ver linha de cima, 22/11 17h): POR BAIXO DO MAPA #45 (Short do principal, aprovado pelo Murilo 22/11, p273) VIRA RASCUNHO PRA TER 24/11 18:00 (GMT-3).** Arquivo: `VIDEOS/00 - PRONTOS PRA PUBLICAR/SHORT - Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade.mp4` (v2). Título: \"Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade\" (a não ser que o Anzol tenha outro). Capa: **a atual, \"BUGOU\", sem capa nova** (pedido do Murilo); está em `_refs capa - Shorts 26-10/Por baixo do mapa/` (Flow 1 ou Flow 2: use a que diz BUGOU, a mesma que foi pro Assistir). Pacote igual aos Shorts do principal. Sobe como rascunho privado; **o clique de programar é do Murilo** (pendência no nome dele com a data ter 24/11 18:00). Devolva o ID pra Lente pôr na FILA #45. Vem depois do Void (linha de baixo, seg 23).",
    "etapa": "",
    "responsavel": "",
    "falta_murilo": "",
@@ -4591,7 +4599,16 @@
    "o_que": "Short do Luigi pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/RovL8tHz9vw/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qua 25/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
    "onde": "Outro",
    "status": "aberta"
+  },
+  {
+   "id": "p289",
+   "aberta_em": "2026-11-22T17:19-03:00",
+   "agente": "Periscópio",
+   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
+   "o_que": "Short do Pokémon pronto no Studio (título, capa CABE?, descrição, 7 produtos com a Pokébola 3D do Dragonite em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/iBX2dFYIcJk/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qui 26/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-22T17:15-03:00"
+ "gerado_em": "2026-11-22T17:19-03:00"
 }
