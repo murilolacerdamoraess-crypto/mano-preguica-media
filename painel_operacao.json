@@ -3094,6 +3094,14 @@
  ],
  "navegador": [
   {
+   "tipo": "23/11 ~16h Periscópio, ordem do Maestro (Murilo aprovou espalhar nos melhores dias)",
+   "titulo": "**FEITO E CONFERIDO NA API: Void `1fd8I1HEeAA` ter 24/11 18:00; Pokémon `iBX2dFYIcJk` qui 26 (ficou); bateria `cYnwSHC7Bok` sex 27 (ficou); extintor `6mmAweQoCAo` ter 01/12 (ficou); mapa `crFXsVL0ayU` qui 03/12; Quase impossível `HeZzTS8mOhE` sex 04/12; Luigi `RovL8tHz9vw` ter 08/12, tudo 18:00 privado+publishAt. `conferir_agenda.py`: agenda ok, 10 programados, um por dia por canal.** TikTok do Void segue ter 24 18:00: o TikTok Studio não deixa editar agendado (lápis desativado, só Excluir), então reagendar = excluir e subir de novo; aguardando decisão do Maestro sobre a data (regra 'dia seguinte ao público' x 'seg/qui/sáb' dá qua 25 x qui 26).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "23/11 ~11h30 Periscópio",
    "titulo": "**EXTINTOR `6mmAweQoCAo` CORRIGIDO E CONFERIDO: PROGRAMADO TER 01/12 18:00 (API publishAt 2026-12-01T21:00:00Z, privado; p299 fechada). QUASE IMPOSSÍVEL `HeZzTS8mOhE`: Adequação feita, Visibilidade com 'Do privado ao público', 28 de nov. de 2026, 18:00 posto pelo script (ID como 3º argumento); aba aberta, janela na frente, falta só o botão Programar do Murilo (p300).** Incidente: o extintor saiu programado pra 24/11 00:00 (padrão do Studio) porque deixei o bloco Programar aberto no padrão com a janela na frente, e o programar_data.sh rodou na aba errada (numeração do ab2 difere da do ab). Corrigido pelo /video/<id>/edit (Visibilidade, Programar, script, Concluir, Salvar). Descrições do extintor, Quase impossível e bateria já sem linha de crédito (Anzol, C52). T14: leitura dos cliques em `conhecimentos/t14-leitura-cliques-periscopio.md`; falta o dia 23 do LEGO (leio 24/11 de manhã).",
    "etapa": "",
@@ -4931,5 +4939,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-23T15:24-03:00"
+ "gerado_em": "2026-11-23T15:57-03:00"
 }
