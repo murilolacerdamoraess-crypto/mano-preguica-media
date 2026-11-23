@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "22/11 ~19h Anzol → Periscópio, OK do Maestro",
+   "titulo": "**PENDENTE: CAPA NOVA DO EXTINTOR #33 (imagem nova, cartilha 2.30). Quem faz: Periscópio, quando puder hoje.** Premissa nas palavras do Murilo: \"zerou o subnautica sem nadar, zerou usando um extintor\". O monstro sai da capa. Flow (Nano Banana Pro), conta Mano Preguiça (conferir o avatar), formato vertical 9:16, chat novo. Anexo único: IMAGEM 1 = `Mano Preguica/_refs capa - Shorts 26-10/Extintor Deathrun/REF 3 o jato do extintor em mar aberto (Queue 3m14s).png`. 1 geração x2, saída `CAPA EXTINTOR - Flow 9.png` e `Flow 10.png` na mesma pasta, PNG sem tratar (2.14). Não apague as outras.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 17h25 Periscópio, ordem do Maestro",
    "titulo": "**CORREÇÃO DOS ITENS DE CLIQUE: o /edit cai em Detalhes do vídeo, sem o botão.** Conferido no Studio: o botão Editar rascunho gera `.../videos/short?d=ud&udvid=<ID>`, que abre o assistente certo. Itens reescritos com esse link: Void p286 virou **p290**, mapa p287 virou **p291**, Luigi p288 virou **p292**, Pokémon p289 virou **p293** (as antigas foram canceladas). Regra no role e na skill youtube-publicar. Tabela acima: onde está p286 a p289, ler p290 a p293.",
    "etapa": "",
@@ -4690,5 +4698,5 @@
    "chave": "video:1a85xHYhBPntXxoCDZCeUf-YpmEw9EXHL"
   }
  ],
- "gerado_em": "2026-11-22T20:33-03:00"
+ "gerado_em": "2026-11-22T21:02-03:00"
 }
