@@ -991,7 +991,7 @@
 "v": 431
 }
 ],
-"views": 3948
+"views": 3954
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -3830,7 +3830,7 @@
 "v": 5996
 }
 ],
-"views": 6998
+"views": 7002
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4328,7 +4328,7 @@
 "v": 298
 }
 ],
-"views": 369
+"views": 370
 },
 "7705908946741120274": {
 "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares...",
@@ -5052,7 +5052,7 @@
 "v": 1049
 }
 ],
-"views": 1065
+"views": 1067
 },
 "7707393570642201877": {
 "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #games...",
@@ -6093,9 +6093,13 @@
 {
 "t": 1795461861,
 "v": 3959
+},
+{
+"t": 1795469396,
+"v": 3962
 }
 ],
-"views": 3959
+"views": 3962
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -6219,6 +6223,10 @@
 },
 {
 "t": 1795446840,
+"v": 144
+},
+{
+"t": 1795469396,
 "v": 144
 }
 ],
@@ -6453,9 +6461,13 @@
 {
 "t": 1795454120,
 "v": 1043
+},
+{
+"t": 1795469396,
+"v": 1048
 }
 ],
-"views": 1043
+"views": 1048
 },
 "7710603106383449351": {
 "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores b...",
@@ -6539,6 +6551,17 @@
 }
 ],
 "views": 293
+},
+"7711344520188661010": {
+"titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não c...",
+"ts": 1795467600,
+"fotos": [
+{
+"t": 1795469396,
+"v": 40
+}
+],
+"views": 40
 }
 }
 }
