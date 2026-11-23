@@ -4695,9 +4695,11 @@
    "video": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto (canal 2)",
    "o_que": "programar no Studio: a aba do navegador do agente está na página do vídeo (já está Privado, por isso não tem Editar rascunho). Em Visibilidade, escolher Programar, ter 24/11 às 18:00 e Salvar. Link: https://studio.youtube.com/video/8TO6GuNGHNo/edit. Os produtos não gravaram nesse vídeo; o Leme ainda está vendo por quê.",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "programar:8TO6GuNGHNo"
+   "status": "feita",
+   "chave": "programar:8TO6GuNGHNo",
+   "fechada_em": "2026-11-22T22:12-03:00",
+   "nota": "Programado pelo Murilo; API confirma ter 24/11 18h (sem produto)"
   }
  ],
- "gerado_em": "2026-11-22T21:48-03:00"
+ "gerado_em": "2026-11-22T22:12-03:00"
 }
