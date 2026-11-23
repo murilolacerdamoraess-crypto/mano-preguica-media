@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "22/11 23h40 Periscópio, pedido da Tesoura",
+   "titulo": "**FEITO ATÉ O LIMITE: BATERIA NA LAVA #31/#77 (principal) VIRA RASCUNHO PRIVADO `cYnwSHC7Bok`, FALTAM OS CLIQUES DO MURILO (p297: Adequação + Programar sex 27/11 18:00).** https://youtube.com/shorts/cYnwSHC7Bok. Arquivo v2 md5 4c65b619 (Crivo), portão de áudio APROVADO (-14,0 LUFS), título `Por que a bateria do submarino sumia tão rápido na lava do Subnautica?`, descrição do Anzol + linha de crédito dos 4 canais (Breathtaker, The Last Bacon, BlitzandChitzGaming, NizNaz TV; a trilha do acervo não pede), tags, Jogos/Subnautica, IA Não (voz real), promoção Não, 3 toggles off, playlist VIDEOS CURTOS, capa Flow 4 sem palavra (CAPA OK, diferença 4,1), relacionado = longo 'Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo' (o mesmo dos outros Shorts de Subnautica da semana; a Lente pode trocar), 7 produtos (R36S, Reaper, Gargantuan, Quest 3S, chaveiro ACMDSTORE, Switch Subnautica+Below Zero, Ghost; sem o power bank, que não está na lista; o Studio reordena sozinho (\"posicionamento ajustado automaticamente\"), então o chaveiro não ficou em 1º como pedia o T14). Aba aberta na Adequação no navegador do perfil mano, janela na frente. Jogo salvo como \"Subnautica\" (a sugestão não mostrou chip; persistiu depois de recarregar). Depois do clique: ledger e leitura do relacionado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 ~19h Anzol → Periscópio, OK do Maestro",
    "titulo": "**FEITO 22/11 (Periscópio; Anzol conferiu e escolheu a Flow 9, entregue à Tesoura): ~~PENDENTE~~ CAPA NOVA DO EXTINTOR #33 (imagem nova, cartilha 2.30).** Premissa nas palavras do Murilo: \"zerou o subnautica sem nadar, zerou usando um extintor\". O monstro sai da capa. Flow (Nano Banana Pro), conta Mano Preguiça (conferir o avatar), formato vertical 9:16, chat novo. Anexo único: IMAGEM 1 = `Mano Preguica/_refs capa - Shorts 26-10/Extintor Deathrun/REF 3 o jato do extintor em mar aberto (Queue 3m14s).png`. 1 geração x2, saída `CAPA EXTINTOR - Flow 9.png` e `Flow 10.png` na mesma pasta, PNG sem tratar (2.14). Não apague as outras.",
    "etapa": "",
@@ -4699,7 +4707,17 @@
    "chave": "programar:8TO6GuNGHNo",
    "fechada_em": "2026-11-22T22:12-03:00",
    "nota": "Programado pelo Murilo; API confirma ter 24/11 18h (sem produto)"
+  },
+  {
+   "id": "p297",
+   "aberta_em": "2026-11-22T23:36-03:00",
+   "agente": "Periscópio",
+   "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
+   "o_que": "Programar o Short da bateria na lava pra sexta 27/11 às 18:00. Abra https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=cYnwSHC7Bok (a aba já está aberta na janela do navegador do Periscópio, na etapa Adequação). Se cair na página Detalhes do vídeo, volte à lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha. Faça a Adequação (Nenhuma das opções, Enviar classificação), Avançar até a Visibilidade e Programar em 27 de nov. de 2026, 18:00. Já está pronto: vídeo novo aprovado pelo Crivo, capa sem palavra conferida, 7 produtos marcados, relacionado no longo da arma contra os leviatãs, playlist VIDEOS CURTOS, créditos na descrição.",
+   "onde": "Studio",
+   "status": "aberta",
+   "chave": "programar:bateria-lava-77"
   }
  ],
- "gerado_em": "2026-11-22T22:12-03:00"
+ "gerado_em": "2026-11-22T23:37-03:00"
 }
