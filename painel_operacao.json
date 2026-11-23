@@ -4793,8 +4793,10 @@
    "video": "Short: Disseram que o Subnautica dele tava facil, entao ele deixou o jogo quase impossivel",
    "o_que": "assistir e aprovar o Short do Deathrun (Quase impossível, sai sáb 28/11 18h; o Crivo aprovou)",
    "onde": "Assistir",
-   "status": "aberta",
-   "chave": "video:1a85xHYhBPntXxoCDZCeUf-YpmEw9EXHL"
+   "status": "feita",
+   "chave": "video:1a85xHYhBPntXxoCDZCeUf-YpmEw9EXHL",
+   "fechada_em": "2026-11-23T10:15-03:00",
+   "nota": "APROVADO pelo Murilo 23/11 ('tá muito bom', posta assim). Apontou incoerências na seleção das imagens e na duração de alguns trechos: causa com Lente/Crivo, sem refazer. 1º teste do portão espectador: o portão deu 0 e ele achou"
   },
   {
    "id": "p295",
@@ -4845,5 +4847,5 @@
    "nota": "APROVADO pelo Murilo 23/11 ('ficou perfeito agora, as imagens tudo'), posta assim; só a voz corta no 'normal' (~0:25): causa vai pra Tesoura/Crivo, sem refazer"
   }
  ],
- "gerado_em": "2026-11-23T10:11-03:00"
+ "gerado_em": "2026-11-23T10:15-03:00"
 }
