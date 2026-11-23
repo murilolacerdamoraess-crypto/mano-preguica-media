@@ -3094,6 +3094,14 @@
  ],
  "navegador": [
   {
+   "tipo": "23/11 ~16h30 Periscópio, ordem do Maestro",
+   "titulo": "**FEITO: TikTok do Void `1fd8I1HEeAA` excluído (ter 24) e reagendado qui 26/11 18:00 (GMT-3), Todos, mesmo arquivo void_61ac24bf (md5 conferido), legenda igual.** Conferido em tiktokstudio/content: 1 só entrada, sem duplicata. `tiktok_agenda.json` atualizado (sem commit). Regra nova do TikTok do principal: seg, qui e sáb 18h, depois de público; no TikTok Studio agendado não edita (só Excluir e subir de novo).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "23/11 ~16h Periscópio, ordem do Maestro (Murilo aprovou espalhar nos melhores dias)",
    "titulo": "**FEITO E CONFERIDO NA API: Void `1fd8I1HEeAA` ter 24/11 18:00; Pokémon `iBX2dFYIcJk` qui 26 (ficou); bateria `cYnwSHC7Bok` sex 27 (ficou); extintor `6mmAweQoCAo` ter 01/12 (ficou); mapa `crFXsVL0ayU` qui 03/12; Quase impossível `HeZzTS8mOhE` sex 04/12; Luigi `RovL8tHz9vw` ter 08/12, tudo 18:00 privado+publishAt. `conferir_agenda.py`: agenda ok, 10 programados, um por dia por canal.** TikTok do Void segue ter 24 18:00: o TikTok Studio não deixa editar agendado (lápis desativado, só Excluir), então reagendar = excluir e subir de novo; aguardando decisão do Maestro sobre a data (regra 'dia seguinte ao público' x 'seg/qui/sáb' dá qua 25 x qui 26).",
    "etapa": "",
@@ -4939,5 +4947,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-23T15:57-03:00"
+ "gerado_em": "2026-11-23T16:01-03:00"
 }
