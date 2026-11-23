@@ -2946,6 +2946,14 @@
  ],
  "navegador": [
   {
+   "tipo": "23/11 ~10h30 Periscópio, pedido da Bússola (Meta 0)",
+   "titulo": "**FEITO: TIKTOK LEGO #23 (`H9afjwf8wIc`) AGENDADO seg 23/11 18:00 e VOID #46 (`1fd8I1HEeAA`) AGENDADO ter 24/11 18:00 (GMT-3), Todos, pelo TikTok Studio web (Plano B).** Arquivos lego_196fa7f5.mp4 (1:58) e void_61ac24bf.mp4 (2:23), md5 conferidos contra o Drive; legenda = título + 4 hashtags; verificação sem problema; IA desligada (voz real). Conferido em tiktokstudio/content: 1 entrada de cada, sem duplicata. Ids gravados no tiktok_agenda.json (tiktok-web, sem commit). O Void agendou antes de ficar público (programado no YouTube para seg 23 18h, conferido na lista); se o YouTube atrasar, avisar. **BATERIA `cYnwSHC7Bok`: o Murilo clicou, lista do Studio mostra Programado 27/11/2026 18:00 (p297 fechada).** TikTok da bateria: sáb 28/11 (público sex 27 18h).",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 23h40 Periscópio, pedido da Tesoura",
    "titulo": "**FEITO ATÉ O LIMITE: BATERIA NA LAVA #31/#77 (principal) VIRA RASCUNHO PRIVADO `cYnwSHC7Bok`, FALTAM OS CLIQUES DO MURILO (p297: Adequação + Programar sex 27/11 18:00).** https://youtube.com/shorts/cYnwSHC7Bok. Arquivo v2 md5 4c65b619 (Crivo), portão de áudio APROVADO (-14,0 LUFS), título `Por que a bateria do submarino sumia tão rápido na lava do Subnautica?`, descrição do Anzol + linha de crédito dos 4 canais (Breathtaker, The Last Bacon, BlitzandChitzGaming, NizNaz TV; a trilha do acervo não pede), tags, Jogos/Subnautica, IA Não (voz real), promoção Não, 3 toggles off, playlist VIDEOS CURTOS, capa Flow 4 sem palavra (CAPA OK, diferença 4,1), relacionado = longo 'Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo' (o mesmo dos outros Shorts de Subnautica da semana; a Lente pode trocar), 7 produtos (R36S, Reaper, Gargantuan, Quest 3S, chaveiro ACMDSTORE, Switch Subnautica+Below Zero, Ghost; sem o power bank, que não está na lista; o Studio reordena sozinho (\"posicionamento ajustado automaticamente\"), então o chaveiro não ficou em 1º como pedia o T14). Aba aberta na Adequação no navegador do perfil mano, janela na frente. Jogo salvo como \"Subnautica\" (a sugestão não mostrou chip; persistiu depois de recarregar). Depois do clique: ledger e leitura do relacionado.",
    "etapa": "",
@@ -4731,5 +4739,5 @@
    "chave": "video:18H0q9_t8Pqt4uK72yydliKprpZZ162Wc"
   }
  ],
- "gerado_em": "2026-11-23T09:31-03:00"
+ "gerado_em": "2026-11-23T09:43-03:00"
 }
