@@ -904,6 +904,14 @@
    "confianca": "fraca no tamanho (2 casos, C9), forte no lado: nenhum dos 2 ficou abaixo da régua do canal 2. Ressalva (C100, 10/11): desde 10/11 só vai pro principal o que é de fora do Subnautica com chance de viralizar, então a regra deve pegar poucos vídeos; ela é o destino de quem não pegou, não um motivo pra fazer mais Short de fora.",
    "status": "aguardando",
    "simples": "Quando um Short que não é de Subnautica for fraco no canal principal (ficar abaixo do normal do canal em 7 dias), a gente posta o mesmo vídeo, igualzinho, no canal secundário, um por semana, e confere em 7 dias se lá ele passou do normal. Já fizemos isso 2 vezes e as 2 deram certo: o show da Pokémon foi de 1.748 views no principal pra 3.497 no secundário, e o machado do Kratos ganhou mais uns 6 mil views lá, sem gravar nada; você só aperta o agendar."
+  },
+  {
+   "id": "R114",
+   "titulo": "No canal 2, a jornada com risco, tamanho ou valor passa na frente da construção sem risco na fila das 3 da semana.",
+   "onde": "portão de pauta do Sonar (`formatos.json`, ordem dentro das 3 vagas de jornada do canal 2) e a `producao/prioridade-roteiros.txt` (Sextante).",
+   "confianca": "forte (9 vídeos, sem sobreposição, nas duas redes). Ressalva: a marca \"com risco\" foi dada depois de saber o resultado em parte dos casos; daqui pra frente o Sonar marca antes, na pauta. Não proíbe nada (pedido de 14/11, \"não ser muito restritivo\") e não mexe nos 3 por semana (R82, C8).",
+   "status": "aguardando",
+   "simples": "No canal secundário, na hora de escolher os 3 Shorts da semana de gente construindo ou tentando alguma coisa, vão na frente os que têm risco, tamanho ou valor dito no título (como o traje de FNAF que esmaga quem veste, 366 mil views em 7 dias) e a construção sem risco (como o PS2 virando portátil, 5 mil) só entra quando não houver uma com risco pronta. Nada fica proibido: a sem risco continua saindo, só não toma a vaga de uma com risco."
   }
  ],
  "equipe": [
@@ -4921,5 +4929,5 @@
    "chave": "programar:quase-impossivel"
   }
  ],
- "gerado_em": "2026-11-23T11:00-03:00"
+ "gerado_em": "2026-11-23T11:36-03:00"
 }
