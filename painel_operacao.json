@@ -3050,6 +3050,14 @@
  ],
  "navegador": [
   {
+   "tipo": "23/11 ~10h30 Periscópio, pedidos do Maestro e da Tesoura",
+   "titulo": "**FEITO ATÉ O LIMITE: DOIS RASCUNHOS PRIVADOS, ABAS NA ADEQUAÇÃO, FALTAM OS CLIQUES DO MURILO.** **(1) EXTINTOR #33/#88 v3 `6mmAweQoCAo` (p299, programar ter 01/12 18:00).** Arquivo md5 76632d36 (Crivo; portão de áudio -14,0 LUFS), título do Anzol `Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor`, descrição do roteiro + `🎬 Imagens de gameplay: Queue`, 12 tags, Jogos/Subnautica, IA Não, promoção Não, toggles off, playlist VIDEOS CURTOS, capa Flow 9 (CAPA OK, diferença 3,5), relacionado = longo 'Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo', 8 produtos (T14 forma A: 1º o Mini Extintor de Incêndio Brinquedo, Extra Festas R$ 41,28; o de R$ 34,49 não achou no seletor; o Studio reordena sozinho). **(2) QUASE IMPOSSÍVEL `HeZzTS8mOhE` (p300, programar sáb 28/11 18:00).** Arquivo md5 e35f0922 (Crivo; -14,0 LUFS), título `Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível`, descrição montada por mim a partir do 1º bloco da fala (o roteiro não trazia descrição, tags nem vitrine) + `🎬 Imagens de gameplay: Zera`, 12 tags, Jogos/Subnautica, IA Não, promoção Não, playlist VIDEOS CURTOS, capa Flow 1 (CAPA OK, diferença 5,8), relacionado = o mesmo longo da arma, 7 produtos (Reaper, R36S, Ghost, Gargantuan, Sea Emperor, Switch Subnautica+Below Zero, Quest 3S; sem T14, pois o teste fecha nos 6). Anzol e Âncora podem trocar descrição e produtos. Depois da Adequação dele: avançar e rodar `programar_data.sh` (2 rodadas), conferir o radio 'Do privado ao público' antes. Falta TikTok: extintor qua 02/12, Quase impossível dom 29/11, só depois de público.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "23/11 ~10h30 Periscópio, pedido da Bússola (Meta 0)",
    "titulo": "**FEITO: TIKTOK LEGO #23 (`H9afjwf8wIc`) AGENDADO seg 23/11 18:00 e VOID #46 (`1fd8I1HEeAA`) AGENDADO ter 24/11 18:00 (GMT-3), Todos, pelo TikTok Studio web (Plano B).** Arquivos lego_196fa7f5.mp4 (1:58) e void_61ac24bf.mp4 (2:23), md5 conferidos contra o Drive; legenda = título + 4 hashtags; verificação sem problema; IA desligada (voz real). Conferido em tiktokstudio/content: 1 entrada de cada, sem duplicata. Ids gravados no tiktok_agenda.json (tiktok-web, sem commit). O Void agendou antes de ficar público (programado no YouTube para seg 23 18h, conferido na lista); se o YouTube atrasar, avisar. **BATERIA `cYnwSHC7Bok`: o Murilo clicou, lista do Studio mostra Programado 27/11/2026 18:00 (p297 fechada).** TikTok da bateria: sáb 28/11 (público sex 27 18h).",
    "etapa": "",
@@ -4855,7 +4863,17 @@
    "onde": "Studio",
    "status": "aberta",
    "chave": "programar:extintor-33-v3"
+  },
+  {
+   "id": "p300",
+   "aberta_em": "2026-11-23T10:26-03:00",
+   "agente": "Periscópio",
+   "video": "Short: Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível",
+   "o_que": "Programar o Short do Quase impossível pra sábado 28/11 às 18:00. Abra https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=HeZzTS8mOhE (a aba já está aberta na janela do navegador do Periscópio, na etapa Adequação). Se cair na página Detalhes do vídeo, volte à lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha. Faça a Adequação (Nenhuma das opções, Enviar classificação) e avise: o Periscópio avança até a Visibilidade e põe a data. Já está pronto: vídeo aprovado pelo Crivo, capa Flow 1 conferida, 7 produtos marcados, relacionado no longo da arma contra os leviatãs, playlist VIDEOS CURTOS, crédito do Zera na descrição.",
+   "onde": "Studio",
+   "status": "aberta",
+   "chave": "programar:quase-impossivel"
   }
  ],
- "gerado_em": "2026-11-23T10:20-03:00"
+ "gerado_em": "2026-11-23T10:29-03:00"
 }
