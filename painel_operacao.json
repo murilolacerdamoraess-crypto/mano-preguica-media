@@ -1030,6 +1030,42 @@
    "pendente": ""
   },
   {
+   "id": "P146",
+   "titulo": "O GTA 6 tem uma luta secreta contra o Satanás, e quem vence ganha uma escopeta vermelha",
+   "rodada": "Teste dos easter eggs do GTA 6, 2ª rodada (23/11/2026, Sonar, depois da reprovação do Murilo à P143): P146 a P148",
+   "gancho": "",
+   "por_que_agora": "GTA 6 saiu em 19/11; os guias são de 23/11 (o do Kephket, sem levar dano, 62.467).",
+   "formato": "Short 1 a 1,5 min",
+   "concorrencia": "quase livre (1 vídeo do mesmo segredo no canal O Vício, 43.246)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, 2ª rodada de 23/11)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P147",
+   "titulo": "Tem um Pé-Grande escondido no GTA 6, e quando você captura ele descobre que é um xerife que sumiu há 10 anos",
+   "rodada": "Teste dos easter eggs do GTA 6, 2ª rodada (23/11/2026, Sonar, depois da reprovação do Murilo à P143): P146 a P148",
+   "gancho": "",
+   "por_que_agora": "GTA 6 saiu em 19/11; o vídeo é de 21/11 e tem 123.228 (canal de 150 mil); \"All Bigfoot Encounters\" (THE GAMER EYES) tem 548.201.",
+   "formato": "Short 1,5 a 2 min",
+   "concorrencia": "o \"achei o Pé-Grande\" já existe em português (Kleberiano Games, 132.252; LipaoGamer, 127.478; Nobreza Games, 53.490); a virada do xerife quase não (O Meu Canal de Games, explicando o fim do mistério, 77.452)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, 2ª rodada de 23/11)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P148",
+   "titulo": "No GTA 6 um disco voador te abduz, você some por 3 dias, e no fim o alien te agradece em código Morse",
+   "rodada": "Teste dos easter eggs do GTA 6, 2ª rodada (23/11/2026, Sonar, depois da reprovação do Murilo à P143): P146 a P148",
+   "gancho": "",
+   "por_que_agora": "GTA 6 saiu em 19/11; o guia é de 20/11 (102.062) e a cena do Dan Allen de 19/11 (121.339).",
+   "formato": "Short 1,5 a 2 min",
+   "concorrencia": "forte (LipaoGamer, \"achei e INVADI A ÁREA 51! (Aliens)\", 297.940; Gameplayrj, \"ALIEN Easter Egg SINISTRO\", 129.005)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, 2ª rodada de 23/11)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
    "id": "P143",
    "titulo": "O GTA 6 tem um bunker secreto do presidente, e dentro tem uma foto dele com um alien na frente do monte do GTA 5",
    "rodada": "Teste: easter eggs do GTA 6 no principal, 23/11/2026 (Sonar, pedido do Murilo pelo Maestro): P143 a P145",
@@ -1037,7 +1073,7 @@
    "por_que_agora": "GTA 6 saiu em 19/11; o vídeo é de 21/11 e tem 474.790 views em 2 dias.",
    "formato": "Short 1 a 1,5 min",
    "concorrencia": "quase livre (em português, \"GTA 6: Bunkers Secretos do Presidente, Aliens e Cuba (Missão Completa)\", República DG, 669 views)",
-   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "status": "descartada (reprovada pelo Murilo em 23/11/2026, pelo Maestro: \"tão sem graça [...] nem sei do que se trata mas me parece chato\"; virou o C108: a graça dependia do GTA 5)",
    "frente": "2 (outro jogo com hype).",
    "pendente": ""
   },
@@ -1049,7 +1085,7 @@
    "por_que_agora": "o lançamento; o vídeo-fonte é de 18/11 (107.515).",
    "formato": "Short 40 a 60 s",
    "concorrencia": "já existe em português, e é a própria fonte (Gameplayrj, 107.515; VANCE BR, \"Jason roubou o barco do Michael?! (Teoria)\", 45.658)",
-   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "status": "descartada (pelo Sonar em 23/11/2026, pela régua C108 da reprovação da P143: a graça depende de conhecer o GTA 5)",
    "frente": "",
    "pendente": ""
   },
@@ -1061,7 +1097,7 @@
    "por_que_agora": "o GTA 6 saiu em 19/11; o vídeo é de 22/11 e tem 120.251 views em 1 dia (canal de 435 mil).",
    "formato": "Short 1 a 1,5 min",
    "concorrencia": "LIVRE (busca \"gta 6 caverna subaquática\" sem vídeo em português)",
-   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "status": "no backlog (saiu do Decidir em 23/11/2026: passa no C108, mas não tem o \"não acredito que fizeram isso\" e repete a aposta do T10, que perdeu)",
    "frente": "",
    "pendente": ""
   },
@@ -4885,5 +4921,5 @@
    "chave": "programar:quase-impossivel"
   }
  ],
- "gerado_em": "2026-11-23T10:40-03:00"
+ "gerado_em": "2026-11-23T10:58-03:00"
 }
