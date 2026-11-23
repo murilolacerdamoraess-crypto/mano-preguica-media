@@ -896,6 +896,14 @@
    "confianca": "forte (os dois testes de hoje mostram o silêncio).",
    "status": "aguardando",
    "simples": "Quando o painel cair, o Maestro fica sabendo na hora e te manda a mensagem, em vez de o painel parecer vazio sem explicação; e o aviso vem antes, quando o uso grátis do mês passar de 70%. Desta vez ele ficou fora do ar por mais de um dia antes de alguém do canal perceber."
+  },
+  {
+   "id": "R113",
+   "titulo": "Short de fora do Subnautica que fica abaixo da régua do principal em 7 dias sai de novo, igual, no canal 2, 1 por semana, e é lido em 7 dias lá.",
+   "onde": "role do Leme (canal 2, programa num dia livre às 18h) e [[caderno-de-testes]] (o Sextante escolhe qual vai e lê cada um em 7 dias); fecha o T9.",
+   "confianca": "fraca no tamanho (2 casos, C9), forte no lado: nenhum dos 2 ficou abaixo da régua do canal 2. Ressalva (C100, 10/11): desde 10/11 só vai pro principal o que é de fora do Subnautica com chance de viralizar, então a regra deve pegar poucos vídeos; ela é o destino de quem não pegou, não um motivo pra fazer mais Short de fora.",
+   "status": "aguardando",
+   "simples": "Quando um Short que não é de Subnautica for fraco no canal principal (ficar abaixo do normal do canal em 7 dias), a gente posta o mesmo vídeo, igualzinho, no canal secundário, um por semana, e confere em 7 dias se lá ele passou do normal. Já fizemos isso 2 vezes e as 2 deram certo: o show da Pokémon foi de 1.748 views no principal pra 3.497 no secundário, e o machado do Kratos ganhou mais uns 6 mil views lá, sem gravar nada; você só aperta o agendar."
   }
  ],
  "equipe": [
@@ -961,6 +969,102 @@
   }
  ],
  "backlog": [
+  {
+   "id": "P138",
+   "titulo": "Ele zerou o Subnautica começando na pior cápsula do jogo, com um fabricador que erra 2 de cada 3 coisas",
+   "rodada": "Rotina de segunda, 23/11/2026 (Sonar): P138 a P142",
+   "gancho": "",
+   "por_que_agora": "o vídeo fez 335.726 views com 21,4 mil inscritos (15,7 vezes o canal), e ninguém contou em português.",
+   "formato": "Short 2 a 3 min",
+   "concorrencia": "LIVRE (busca \"subnautica pior cápsula\": só \"O QUE ACONTECEU COM OS LIFEPODS EM SUBNAUTICA?\", Kaballionly, 69 mil, que é lore, sem desafio)",
+   "status": "na fila do roteiro (posição 1 das de Subnautica de hoje; fila cheia em 23/11, 8 de 8)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
+   "id": "P139",
+   "titulo": "Tiraram toda a água do Subnautica 2, e dá pra cair 12 mil metros no Void",
+   "rodada": "Rotina de segunda, 23/11/2026 (Sonar): P138 a P142",
+   "gancho": "",
+   "por_que_agora": "814.383 views (1,76 vez o canal de 463 mil); o Subnautica 2 está em alta com a atualização.",
+   "formato": "Short 1 a 1,5 min",
+   "concorrencia": "o Subnautica 1 sem água já existe em português (\"SUBNAUTICA, MAS NÃO TEM ÁGUA!\", Jazzghost, 2.375.068, 11/06/2026); o 2 sem água, não",
+   "status": "no backlog (nota 7)",
+   "frente": "1 (Subnautica 2).",
+   "pendente": ""
+  },
+  {
+   "id": "P140",
+   "titulo": "Ele zerou o Subnautica em realidade virtual com mais de 500 mods, e o save corrompeu no meio",
+   "rodada": "Rotina de segunda, 23/11/2026 (Sonar): P138 a P142",
+   "gancho": "",
+   "por_que_agora": "2.975.393 views (0,7 vez o canal de 4,2 milhões: é o normal dele, não um estouro).",
+   "formato": "Short 2 a 3 min",
+   "concorrencia": "em VR existe (\"Cellbit VS Subnautica VR\", 475 mil; \"a JORNADA em SUBNAUTICA no VR destruiu meu psicológico\", Minguels, 41 mil); com 500 mods, não",
+   "status": "no backlog (nota 7)",
+   "frente": "1 (Subnautica), crônica de feito.",
+   "pendente": ""
+  },
+  {
+   "id": "P141",
+   "titulo": "Esse streamer achou que tinha perdido 11 horas de GTA 6 com um chute na tomada",
+   "rodada": "Rotina de segunda, 23/11/2026 (Sonar): P138 a P142",
+   "gancho": "",
+   "por_que_agora": "o clipe é de 18/11 e tem 260.731 views; o Kai Cenat riu dele na live (\"Jason Reacts To Kai Cenat Laughing At Him For Losing 11 Hours Of GTA 6 Progress..\", JasonTheWeen News). Janela até 18/12.",
+   "formato": "Short 40 a 60 s",
+   "concorrencia": "LIVRE (busca \"streamer perdeu 11 horas gta 6\" sem vídeo em português sobre o caso)",
+   "status": "na fila do roteiro (1ª de fora do Subnautica quando a fila baixar de 8; janela do molde 3 até 18/12/2026)",
+   "frente": "2 (outro jogo com hype), janela do lançamento.",
+   "pendente": ""
+  },
+  {
+   "id": "P142",
+   "titulo": "Ele fez 100% dos dois Subnautica numa sentada só",
+   "rodada": "Rotina de segunda, 23/11/2026 (Sonar): P138 a P142",
+   "gancho": "",
+   "por_que_agora": "281.224 views com 3.730 inscritos (75 vezes o canal).",
+   "formato": "Short 1 a 2 min",
+   "concorrencia": "em português só os 100 dias (TROUSY, \"Passei 100 DIAS no Subnautica com MODS!\", 2 milhões), não os 100%",
+   "status": "no backlog (nota 6; só sobe se aparecer o tempo total, perguntando ao criador ou num vídeo dele)",
+   "frente": "1 (Subnautica).",
+   "pendente": ""
+  },
+  {
+   "id": "P143",
+   "titulo": "O GTA 6 tem um bunker secreto do presidente, e dentro tem uma foto dele com um alien na frente do monte do GTA 5",
+   "rodada": "Teste: easter eggs do GTA 6 no principal, 23/11/2026 (Sonar, pedido do Murilo pelo Maestro): P143 a P145",
+   "gancho": "",
+   "por_que_agora": "GTA 6 saiu em 19/11; o vídeo é de 21/11 e tem 474.790 views em 2 dias.",
+   "formato": "Short 1 a 1,5 min",
+   "concorrencia": "quase livre (em português, \"GTA 6: Bunkers Secretos do Presidente, Aliens e Cuba (Missão Completa)\", República DG, 669 views)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "frente": "2 (outro jogo com hype).",
+   "pendente": ""
+  },
+  {
+   "id": "P144",
+   "titulo": "No GTA 6 tem um barco parado em terra, e o GPS dele mostra o mapa do GTA 5",
+   "rodada": "Teste: easter eggs do GTA 6 no principal, 23/11/2026 (Sonar, pedido do Murilo pelo Maestro): P143 a P145",
+   "gancho": "",
+   "por_que_agora": "o lançamento; o vídeo-fonte é de 18/11 (107.515).",
+   "formato": "Short 40 a 60 s",
+   "concorrencia": "já existe em português, e é a própria fonte (Gameplayrj, 107.515; VANCE BR, \"Jason roubou o barco do Michael?! (Teoria)\", 45.658)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "frente": "",
+   "pendente": ""
+  },
+  {
+   "id": "P145",
+   "titulo": "O GTA 6 tem cavernas debaixo d'água com placa de \"não entre\", e a corda pra voltar acaba no meio",
+   "rodada": "Teste: easter eggs do GTA 6 no principal, 23/11/2026 (Sonar, pedido do Murilo pelo Maestro): P143 a P145",
+   "gancho": "",
+   "por_que_agora": "",
+   "formato": "Short 1 a 1,5 min",
+   "concorrencia": "LIVRE (busca \"gta 6 caverna subaquática\" sem vídeo em português)",
+   "status": "livre (pauta de TESTE pro Decidir do Murilo, pedido dele de 23/11)",
+   "frente": "",
+   "pendente": ""
+  },
   {
    "id": "P133",
    "titulo": "Ele andou numa corda bamba em cima dos Reapers no Subnautica, e cada queda soltava mais 5",
@@ -4739,5 +4843,5 @@
    "chave": "video:18H0q9_t8Pqt4uK72yydliKprpZZ162Wc"
   }
  ],
- "gerado_em": "2026-11-23T09:43-03:00"
+ "gerado_em": "2026-11-23T10:10-03:00"
 }
