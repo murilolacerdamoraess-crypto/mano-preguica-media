@@ -4570,20 +4570,6 @@
    ]
   },
   {
-   "id": "p283",
-   "aberta_em": "2026-11-20T16:01-03:00",
-   "agente": "Lente",
-   "video": "Sábado 21 e domingo 22 sem vídeo no principal",
-   "o_que": "O extintor não foi aprovado até sex 12h. Pra não deixar o sábado vazio, o Reaper de LEGO (já aprovado, programado qua 25) pode passar pra sáb 21/11 18h. Mudar a data de vídeo programado é decisão sua.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Passar o LEGO pra sáb 21 18h",
-    "Deixar o LEGO na qua 25 (sábado fica vazio)"
-   ],
-   "fechada_em": "2026-11-20T21:28-03:00"
-  },
-  {
    "id": "p284",
    "aberta_em": "2026-11-20T16:01-03:00",
    "agente": "Tesoura",
@@ -4726,5 +4712,5 @@
    "chave": "programar:8TO6GuNGHNo"
   }
  ],
- "gerado_em": "2026-11-22T21:08-03:00"
+ "gerado_em": "2026-11-22T21:30-03:00"
 }
