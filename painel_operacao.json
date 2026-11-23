@@ -2846,9 +2846,9 @@
   {
    "tipo": "Short",
    "titulo": "Se você jogou Subnautica, a sua bateria sumia na zona de lava",
-   "etapa": "pronto pra publicar (rascunho privado no Studio, youtu.be/cYnwSHC7Bok, já com os quadros parados consertados; sai sex 27/11 às 18h no principal, com a capa sem palavra)",
+   "etapa": "agendado (sex 27/11 às 18h no principal, youtube.com/shorts/cYnwSHC7Bok, programado conferido na API pelo Vigia em 23/11)",
    "responsavel": "Periscópio",
-   "falta_murilo": "programar o Short no Studio pra sex 27/11 às 18h",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -3030,17 +3030,17 @@
   {
    "tipo": "Short",
    "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
-   "etapa": "rascunho no Studio (22/11: arquivo novo, o do corte de 99 s; título, descrição, tags, Uso de IA Não, playlist Vídeos Curtos, capa Flow 1, 3 produtos marcados e Adequação enviada; a data de qui 26/11 às 18h ainda não foi escrita no Programar porque o script de data para quando não lê os produtos na tela da Visibilidade; falta o vídeo relacionado; assistente aberto no navegador do Leme; https://studio.youtube.com/channel/UCo9m5c9tfbQ7NTWefLN24-Q/videos/short?d=ud&udvid=ov_w_YyWk90)",
+   "etapa": "agendado (qui 26/11 às 18h no canal 2, youtube.com/shorts/ov_w_YyWk90, programado conferido na API pelo Vigia em 23/11)",
    "responsavel": "Leme",
-   "falta_murilo": "abrir o link, clicar em Editar rascunho (canto de cima à direita), escolher qui 26/11 às 18h em Programar e apertar Programar",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
    "tipo": "Short",
    "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (canal 2)",
-   "etapa": "rascunho no Studio (22/11: você aprovou; título, descrição, tags, Uso de IA Não, playlist Vídeos Curtos e capa conferida; o Studio não está gravando os produtos nesse vídeo e o assistente não reabre por link, cai na página do vídeo; a aba do Leme está na página do vídeo; data sugerida: ter 24/11 às 18h; link: https://studio.youtube.com/channel/UCo9m5c9tfbQ7NTWefLN24-Q/videos/short?d=ud&udvid=8TO6GuNGHNo)",
+   "etapa": "agendado (ter 24/11 às 18h no canal 2, youtube.com/shorts/8TO6GuNGHNo, programado conferido na API pelo Vigia em 23/11)",
    "responsavel": "Leme",
-   "falta_murilo": "abrir o link; se cair em outra página, voltar à lista de Shorts e clicar em Editar rascunho (canto de cima à direita), fazer a Adequação e Programar pra ter 24/11 às 18h",
+   "falta_murilo": "",
    "prazo": ""
   },
   {
@@ -4921,5 +4921,5 @@
    "chave": "programar:quase-impossivel"
   }
  ],
- "gerado_em": "2026-11-23T10:58-03:00"
+ "gerado_em": "2026-11-23T11:00-03:00"
 }
