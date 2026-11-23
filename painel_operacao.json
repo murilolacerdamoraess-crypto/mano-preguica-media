@@ -4448,21 +4448,6 @@
    "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
   },
   {
-   "id": "p270",
-   "aberta_em": "2026-11-18T17:02-03:00",
-   "agente": "Lente",
-   "video": "Short: Quase impossível (sai sáb 28/11 18h)",
-   "o_que": "Na frase 'mais perto o bicho chegava, até ele aparecer do lado de fora do tubo', o vídeo do jogo não mostra o Reaper do lado de fora do tubo: só um vulto na água turva com o ícone do rugido. O resto do Short está pronto e aprovado pelo Crivo. A Lente recomenda regravar só essa frase (até qua 25): '...até dar pra ouvir o rugido dele do lado de fora do tubo'.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Regravo só essa frase (recomendado)",
-    "Deixa o vulto com o rugido como está",
-    "Põe o Reaper bem visível de outro momento da partida"
-   ],
-   "fechada_em": "2026-11-20T21:42-03:00"
-  },
-  {
    "id": "p271",
    "aberta_em": "2026-11-19T00:19-03:00",
    "agente": "Tesoura",
@@ -4698,8 +4683,10 @@
    "video": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
    "o_que": "programar no Studio: a aba do navegador do agente já está na Visibilidade com Programar aberto (título, capa, 3 produtos e Adequação prontos). Só escolher qui 26/11 às 18:00 e apertar Programar.",
    "onde": "Studio",
-   "status": "aberta",
-   "chave": "programar:ov_w_YyWk90"
+   "status": "feita",
+   "chave": "programar:ov_w_YyWk90",
+   "fechada_em": "2026-11-22T21:47-03:00",
+   "nota": "Programado pelo Murilo, qui 26/11 (print do Studio 22/11)"
   },
   {
    "id": "p296",
@@ -4712,5 +4699,5 @@
    "chave": "programar:8TO6GuNGHNo"
   }
  ],
- "gerado_em": "2026-11-22T21:30-03:00"
+ "gerado_em": "2026-11-22T21:48-03:00"
 }
