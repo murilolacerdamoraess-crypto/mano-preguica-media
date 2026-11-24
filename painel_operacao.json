@@ -4666,18 +4666,6 @@
    "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
   },
   {
-   "id": "p276",
-   "aberta_em": "2026-11-19T04:50-03:00",
-   "agente": "Tesoura",
-   "video": "Short MP2: Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (#91)",
-   "o_que": "assistir a v3 (só o áudio mudou: as fricativas inteiras) e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1mJhDSIybBOb3XTj7B70MrXAbr1mINc6I",
-   "fechada_em": "2026-11-22T14:53-03:00",
-   "nota": "Murilo 22/11: Teia APROVADA como está ('vamos postar assim mesmo no canal secundario e ver o barulho'), apesar das frases difíceis (voa fechado, gruda e segura, a frase da cola); correção vai pros próximos roteiros."
-  },
-  {
    "id": "p277",
    "aberta_em": "2026-11-19T05:28-03:00",
    "agente": "Tesoura",
@@ -4911,5 +4899,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T14:51-03:00"
+ "gerado_em": "2026-11-24T14:56-03:00"
 }
