@@ -2694,17 +2694,17 @@
   {
    "tipo": "Longo",
    "titulo": "Tentei chegar no fim do mundo do Subnautica",
-   "etapa": "gravação (desafio aprovado por você em 05/11; sem mod, num save de Sobrevivência separado, com os veículos pelo console e a posição na tela pelo F1: sair reto pro leste e chegar aos 4.000 m, onde os Ghosts desistem, tentando a nado, de Seamoth, de Prawn Suit e de Cyclops; se passar, o bônus é o teleporte dos 8.192 m; sessão de 1h a 1h30, vídeo de 12 a 15 min editado pela sua gameplay e voz; você está fora de casa até 15 ou 16/11, então a sessão fica pra quando voltar: gravar de seg 16 a qua 18/11, saída seg 30/11 às 18h)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; sem mod, num save de Sobrevivência separado, com os veículos pelo console e a posição na tela pelo F1: sair reto pro leste e chegar aos 4.000 m, onde os Ghosts desistem, tentando a nado, de Seamoth, de Prawn Suit e de Cyclops; se passar, o bônus é o teleporte dos 8.192 m; sessão de 1h a 1h30, vídeo de 12 a 15 min editado pela sua gameplay e voz; não foi gravado no PC em 23/11 e a saída de seg 30/11 caiu; o pacote de gravação está pronto pra próxima vez que você estiver no PC, e a data nova sai quando a gravação estiver na edição)",
    "responsavel": "Farol",
-   "falta_murilo": "gravar a sessão e o áudio contando como foi, quando voltar pra casa",
-   "prazo": "30/11"
+   "falta_murilo": "gravar a sessão e o áudio contando como foi, da próxima vez que estiver no PC",
+   "prazo": ""
   },
   {
    "tipo": "Longo",
    "titulo": "Afundei o Subnautica 10 mil metros",
-   "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min; o teste no PC e a sessão só a partir de 16/11, quando você volta, e a saída fica pra depois do Void, por volta de seg 07/12)",
+   "etapa": "gravação (desafio aprovado por você em 05/11; antes de você gravar, o mod passa por um teste no PC: se abre, que número deixa o mar 10 mil metros mais fundo, se a base alaga e se não trava; o Sonar faz a lista de instalação; grava depois do fim do mundo do Void; sessão de 1h30 a 2h, vídeo de 15 a 20 min; o teste está no mesmo pacote de gravação do fim do mundo, e a saída fica pra depois dele, sem data)",
    "responsavel": "Farol",
-   "falta_murilo": "rodar o teste do mod no PC quando voltar (uns 15 min, num save de teste)",
+   "falta_murilo": "rodar o teste do mod da próxima vez que estiver no PC (uns 15 min, num save de teste)",
    "prazo": ""
   },
   {
@@ -4971,5 +4971,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T14:22-03:00"
+ "gerado_em": "2026-11-24T14:23-03:00"
 }
