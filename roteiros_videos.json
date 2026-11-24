@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T20:01:41.629780Z",
+ "gerado_em": "2026-11-24T00:15:24.047591Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -986,13 +986,13 @@
    "name": "SHORT - Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
    "titulo_roteiro": "SHORT: o Gargantuan vivo, e nenhum canto seguro",
    "description": "Short do canal principal (pauta P63 do Sonar, Subnautica como base dos Shorts). No Subnautica o Gargantuan é um bicho extinto, que só aparece como esqueleto; a Viscerface (ELA) pôs dezenas de filhotes e alguns adultos vi",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 5); APROVADO PELO CRIVO em 18/11 (f1702b02), publicado no Gravar em 18/11 com 17 frases",
+   "status": "roteiro (em conferência (Crivo), versão 6); devolvido pelo Crivo em 23/11 (749533441) só na frase 2.3; a v5 continua no Gravar até a troca",
    "gate": "v4 (18/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
    "formato": "short MP1 (voz real do Murilo, narrado em cima da gameplay da Viscerface)",
    "motor": null,
-   "versao": "5",
+   "versao": "6",
    "fonte_yt": "J72eFRewxss"
   },
   {
