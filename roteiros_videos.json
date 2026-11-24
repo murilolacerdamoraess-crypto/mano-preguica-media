@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T03:31:44.126573Z",
+ "gerado_em": "2026-11-24T03:43:03.632595Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -790,7 +790,7 @@
    "name": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "titulo_roteiro": "SHORT - Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "description": "Short do canal principal (pauta P66, escrita pelo Farol a partir do longo das cápsulas, que o Murilo trocou por Shorts em 18/10; pedido de roteiro de 19/10). Continuação do nosso Short dos 10 mil metros, respondendo a pe",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 5); APROVADO PELO CRIVO em 18/11 (fc52ef0f, trava c2e13e48c), publicado no Gravar em 18/11 com 14 frases",
+   "status": "fora da fila (versão 5): o Murilo pediu ajuste no Gravar em 24/11 00:30 (a resposta é um simples não, sem payoff) e o Maestro tirou da fila; só volta com um ângulo que tenha resposta de verdade, passando de novo pelo Crivo e pelo Decidir. Antes: APROVADO PELO CRIVO em 18/11 (fc52ef0f, trava c2e13e48c), publicado no Gravar em 18/11 com 14 frases",
    "gate": "v4 (17/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
@@ -1280,7 +1280,7 @@
    "name": "SHORT - O Reaper Leviathan do Subnautica contra o megalodon: quem ganha?",
    "titulo_roteiro": "SHORT: o Reaper contra o megalodon (1º combate)",
    "description": "Short do canal principal (pauta P74, estudo de ângulo de 19/10, tipo crossover com animal real). A v2 conta como a briga seria. O megalodon, o maior tubarão que já existiu, caçava baleia, mordia o peito pra chegar no cor",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 4); APROVADO PELO CRIVO em 18/11 (1771e65d), publicado no Gravar em 18/11 com 12 frases",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 4); o Murilo aprovou o roteiro no painel em 24/11 00:30 (p269), voz ainda não gravada (Drive sem take em 24/11); APROVADO PELO CRIVO em 18/11 (1771e65d), publicado no Gravar em 18/11 com 12 frases",
    "gate": "v4 (18/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
