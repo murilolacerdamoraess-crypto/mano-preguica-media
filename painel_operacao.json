@@ -3118,6 +3118,14 @@
  ],
  "navegador": [
   {
+   "tipo": "24/11 ~01h Lente → Periscópio",
+   "titulo": "**PENDENTE: REFERÊNCIAS E CONCEITO DO ECO (#55, Short do principal em 3D, aprovado pelo Murilo no Decidir 24/11; ordem `producao/short-eco-leviata-inventado.md`).** Tudo vai pra `~/EdicaoIA/work/short_eco_leviata/refs/` (imagens e modelos) e `.../sons/` (sons). Nada é publicado. Prioridade: C, B, A, D. Ao terminar, `maestri ask \"Lente\"` com o que achou e o que não existe; feche o navegador e confira órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "23/11 ~16h30 Periscópio, ordem do Maestro",
    "titulo": "**FEITO: TikTok do Void `1fd8I1HEeAA` excluído (ter 24) e reagendado qui 26/11 18:00 (GMT-3), Todos, mesmo arquivo void_61ac24bf (md5 conferido), legenda igual.** Conferido em tiktokstudio/content: 1 só entrada, sem duplicata. `tiktok_agenda.json` atualizado (sem commit). Regra nova do TikTok do principal: seg, qui e sáb 18h, depois de público; no TikTok Studio agendado não edita (só Excluir e subir de novo).",
    "etapa": "",
@@ -4622,8 +4630,10 @@
    "video": "Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
    "o_que": "gravar a voz (14 frases, aprovado pelo Crivo)",
    "onde": "Gravar",
-   "status": "aberta",
-   "chave": "roteiro:short-capsula-10-mil-metros-dono-foto-da-base.md@v5"
+   "status": "cancelada",
+   "chave": "roteiro:short-capsula-10-mil-metros-dono-foto-da-base.md@v5",
+   "fechada_em": "2026-11-24T00:41-03:00",
+   "nota": "Murilo 24/11 00:30 no painel: roteiro sem payoff ('a resposta é um simples não'); sai da fila do Gravar, Arpão registra o motivo"
   },
   {
    "id": "p265",
@@ -4981,5 +4991,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T00:40-03:00"
+ "gerado_em": "2026-11-24T00:41-03:00"
 }
