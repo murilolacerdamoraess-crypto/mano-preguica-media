@@ -878,7 +878,7 @@
    "titulo": "Short que diz que alguém zerou o jogo reconhece, numa frase curta, o resto da história obrigatória antes do foguete.",
    "onde": "skill `shorts-roteirista` (princípio 5, \"uma explicação por vez\", no limite do que não se corta) e pergunta do ensaio do Murilo; critério C106.",
    "confianca": "forte no erro (2 de 2 Shorts que fecham em \"zerou\" sem a história fizeram ele parar); é a 1ª regra pra esse tipo de frase, sem medida de views (é correção de fato, não de alcance).",
-   "status": "aguardando",
+   "status": "aplicada 2026-11-24 (APROVADO pelo Murilo no Decidir 24/11 00:26, via Maestro: regra 10 do núcleo e princípio 5 da skill `shorts-roteirista`, VERSOES.md, role shorts, E11 da conferência dos erros repetidos)",
    "simples": "Quando o Short conta que alguém zerou o Subnautica depois de um feito difícil, o texto vai dizer em uma frase que ainda faltava o resto do jogo antes do foguete, como você mesmo trocou no Short do Subnautica que ficou quase impossível (\"ainda faltava o resto do jogo, mas no fim ele construiu o foguete\"). Assim você não precisa parar a gravação pra perguntar da arma alienígena, como parou nesse e no da base inundada contra a Aurora."
   },
   {
@@ -3110,9 +3110,9 @@
   {
    "tipo": "Short",
    "titulo": "Inventamos um monstro do Subnautica que ataca do lado contrário ao som",
-   "etapa": "roteiro (teste de criatura inventada, o Eco, contada como arquivo apagado da Alterra com a voz do PDA, sem a sua voz; uns 60 segundos; aprovado pelo Crivo em 17/11 e no Decidir; título, selo na tela e descrição dizem que é inventado)",
-   "responsavel": "Arpão",
-   "falta_murilo": "nada além do Decidir",
+   "etapa": "roteiro aprovado (você aprovou no Decidir em 24/11; teste de criatura inventada, o Eco, contada como arquivo apagado da Alterra com a voz do PDA feita por IA, sem a sua voz; agora a Lente monta o plano no estilo 3D low-poly que você escolheu e a Tesoura edita; título, selo na tela e descrição dizem que é inventado)",
+   "responsavel": "Lente",
+   "falta_murilo": "",
    "prazo": ""
   }
  ],
@@ -4973,5 +4973,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T00:23-03:00"
+ "gerado_em": "2026-11-24T00:31-03:00"
 }
