@@ -4767,13 +4767,14 @@
    "video": "Teste: trilhas novas, 4 climas",
    "o_que": "ouvir as trilhas novas e escolher quais ficam",
    "onde": "Assistir",
-   "status": "aberta",
+   "status": "feita",
    "chave": "video:1cpRYeW_WLq01OLaRpSraKQUh1sy0RtDQ",
    "opcoes": [
     "Ficam todas",
     "Algumas saem (escrevo quais)"
    ],
-   "nota": "Murilo 24/11 00h: construção, faixas 1, 2 e 3 boas (ficam as 3). Emoção: faixas 1, 2 e 3 boas (ficam as 3). Tensão de combate: faixa 1 \"não tem nada a ver com combate, mas é um bom lo-fi\" (sai do combate, fica como lo-fi); faixa 2 \"tem mais a ver\" (fica); faixa 3 \"muito boa\" (fica). Falta mistério."
+   "nota": "Murilo 24/11 00h: construção, faixas 1, 2 e 3 boas (ficam as 3). Emoção: faixas 1, 2 e 3 boas (ficam as 3). Tensão de combate: faixa 1 \"não tem nada a ver com combate, mas é um bom lo-fi\" (sai do combate, fica como lo-fi); faixa 2 \"tem mais a ver\" (fica); faixa 3 \"muito boa\" (fica). Mistério: faixa 1 boa (\"vibe bem curiosidade pop\", fica); faixa 2 boa (\"já usamos muito nos vídeos, funciona bem\", fica); faixa 3 \"fraca\" (sai).",
+   "fechada_em": "2026-11-24T00:23-03:00"
   },
   {
    "id": "p284",
@@ -4972,5 +4973,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T00:22-03:00"
+ "gerado_em": "2026-11-24T00:23-03:00"
 }
