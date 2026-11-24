@@ -3110,7 +3110,7 @@
   {
    "tipo": "Short",
    "titulo": "Inventamos um monstro do Subnautica que ataca do lado contrário ao som",
-   "etapa": "roteiro aprovado (você aprovou no Decidir em 24/11; teste de criatura inventada, o Eco, contada como arquivo apagado da Alterra com a voz do PDA feita por IA, sem a sua voz; agora a Lente monta o plano no estilo 3D low-poly que você escolheu e a Tesoura edita; título, selo na tela e descrição dizem que é inventado)",
+   "etapa": "edição (você aprovou no Decidir em 24/11; animação 3D low-poly no estilo que você escolheu, com a voz do PDA e do rádio feitas por IA; a voz já pode ser gerada, as referências e o desenho do bicho estão com o navegador, e a 1ª cena do bicho passa pela régua de acabamento do Crivo antes de animar o resto; previsão de chegar no Assistir até sáb 28/11)",
    "responsavel": "Lente",
    "falta_murilo": "",
    "prazo": ""
@@ -4981,5 +4981,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T00:35-03:00"
+ "gerado_em": "2026-11-24T00:40-03:00"
 }
