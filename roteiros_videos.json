@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T00:34:17.813001Z",
+ "gerado_em": "2026-11-24T00:36:42.110566Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -986,7 +986,7 @@
    "name": "SHORT - Ela trouxe de volta o maior monstro do Subnautica e tentou zerar com dezenas deles soltos",
    "titulo_roteiro": "SHORT: o Gargantuan vivo, e nenhum canto seguro",
    "description": "Short do canal principal (pauta P63 do Sonar, Subnautica como base dos Shorts). No Subnautica o Gargantuan é um bicho extinto, que só aparece como esqueleto; a Viscerface (ELA) pôs dezenas de filhotes e alguns adultos vi",
-   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 7); APROVADO PELO CRIVO em 23/11 (d786bf92c); a republicação no Gravar (18 frases) ficou pronta em producao/narracao, mas o painel deu 402 DEPLOYMENT_DISABLED na Vercel em 23/11 à noite: até republicar, o Gravar mostra a v5",
+   "status": "roteiro aprovado pelo Crivo, no Gravar (versão 7); APROVADO PELO CRIVO em 23/11 (d786bf92c); republicado no Gravar em 23/11 com 18 frases pelo painel local (localhost:3000, mesmo banco; a Vercel deu 402 até 19/12)",
    "gate": "v4 (18/11) passa de novo por fontes, fluidez, roteiro_frases, erros repetidos, teste do leigo e ensaio antes do Crivo",
    "video_id": null,
    "publicado_em": null,
