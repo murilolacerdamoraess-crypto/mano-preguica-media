@@ -4666,18 +4666,6 @@
    "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
   },
   {
-   "id": "p277",
-   "aberta_em": "2026-11-19T05:28-03:00",
-   "agente": "Tesoura",
-   "video": "Short MP2: Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho",
-   "o_que": "assistir a v1 e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:116BdGprIi3bxeWBzfxpC79nK5v68q6y7",
-   "fechada_em": "2026-11-22T15:02-03:00",
-   "nota": "Murilo 22/11: Mewtwo APROVADO com um corte: sai do 'ele partiu para o tamanho real' direto pro 'E com os braços encaixados' (tira o peito do tamanho dele + a montagem que não passava). Retoque da Tesoura, sem voltar ao Assistir."
-  },
-  {
    "id": "p278",
    "aberta_em": "2026-11-19T09:31-03:00",
    "agente": "Bússola",
@@ -4899,5 +4887,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T14:56-03:00"
+ "gerado_em": "2026-11-24T15:12-03:00"
 }
