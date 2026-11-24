@@ -4559,18 +4559,6 @@
    "jogando": true
   },
   {
-   "id": "p235",
-   "aberta_em": "2026-11-15T03:52-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
-   "o_que": "assistir o Short da bateria na lava (1:26) e dizer se aprova ou o que muda; sai sex 27/11 às 18h (a vaga de seg 16/11 passou com você viajando)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1JM1ifAROdoj4CimJX0YELrrPIicMe1U4",
-   "fechada_em": "2026-11-22T14:43-03:00",
-   "nota": "Murilo 22/11: Short da bateria/larvas da lava APROVADO. Os 5 quadros parados que a trava achou (w245 3,5 s) entram como retoque, sem voltar ao Assistir."
-  },
-  {
    "id": "p241",
    "aberta_em": "2026-11-16T13:57-03:00",
    "agente": "Periscópio",
@@ -4678,18 +4666,6 @@
    "chave": "roteiro:short-reaper-contra-megalodon.md@v4"
   },
   {
-   "id": "p271",
-   "aberta_em": "2026-11-19T00:19-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "o_que": "assistir a v1 e aprovar ou pedir ajuste",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1mFEQ8zuOhI88yGI-abbtOhKhH596qMVe",
-   "fechada_em": "2026-11-22T14:40-03:00",
-   "nota": "Murilo 22/11: Pokémon APROVADO como está. Apontamentos pros próximos: capa CABE? com fundamento errado (o novo é capturar os leviatãs, não caber na pokébola); imagem do Reaper recortada 'bugadassa' (faixas brancas/pretas no fundo)."
-  },
-  {
    "id": "p276",
    "aberta_em": "2026-11-19T04:50-03:00",
    "agente": "Tesoura",
@@ -4721,18 +4697,6 @@
    "o_que": "No terminal da Bússola, digitar /mcp, escolher o metricool e entrar com a sua conta (login é você). Sem isso ela não confere o TikTok de sex 20 a dom 22.",
    "onde": "Outro",
    "status": "aberta"
-  },
-  {
-   "id": "p281",
-   "aberta_em": "2026-11-19T11:15-03:00",
-   "agente": "Tesoura",
-   "video": "Short: Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor (#88)",
-   "o_que": "assistir a v2 e aprovar ou pedir ajuste (sai sáb 21/11 18h no principal)",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1qTrqJcqxSb3loENH5IL8dPEOVJ3x9dPO",
-   "fechada_em": "2026-11-22T14:41-03:00",
-   "nota": "Murilo 22/11: extintor NÃO passa, ajustar: 0:21 zoom absurdo no '78 m' sem relação com a fala; 0:29 recorte sem o extintor; 1:39 enquadramento ruim (Sea Dragon fora); capa '1 GOLPE' sem fundamento (premissa = modo mais difícil zerado sem nadar, só com extintor). Volta como v3 no Assistir."
   },
   {
    "id": "p282",
@@ -4947,5 +4911,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T14:30-03:00"
+ "gerado_em": "2026-11-24T14:51-03:00"
 }
