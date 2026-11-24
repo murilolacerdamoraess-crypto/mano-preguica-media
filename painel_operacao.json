@@ -4516,6 +4516,14 @@
    "responsavel": "",
    "falta_murilo": "",
    "prazo": ""
+  },
+  {
+   "tipo": "24/11",
+   "titulo": "**pedido (Vitrine/Âncora, a pedido do Arpão): 1 item pro Short do Eco (`short-eco-leviata-inventado.md`, data de saída ainda sem marcar). Quem faz: Periscópio, na vez dele.** No ML, com vendedor BR, nota e vendidos, consultando a extensão e salvando só o que passar: brinquedo ou miniatura de submarino amarelo pequeno (buscas \"submarino amarelo brinquedo\", \"submarino miniatura amarelo\", \"mini submarino colecionável\"), R$ 30 a R$ 120, +1 reserva. Escrever no item 3 da seção Vitrine do roteiro e avisar `maestri ask \"Âncora\"`. Só leitura e salvar; não marcar produto no vídeo, o Short ainda não foi pro Studio.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
   }
  ],
  "pendencias": [
@@ -4973,5 +4981,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T00:31-03:00"
+ "gerado_em": "2026-11-24T00:35-03:00"
 }
