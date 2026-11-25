@@ -4742,7 +4742,17 @@
    "chave": "programar:quase-impossivel",
    "fechada_em": "2026-11-23T15:24-03:00",
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
+  },
+  {
+   "id": "p301",
+   "aberta_em": "2026-11-25T09:31-03:00",
+   "agente": "Bússola",
+   "video": "Meta 3: Short em 4 h com 1 ajuste",
+   "o_que": "decidir se o prazo da Meta 3 (3 Shorts seguidos feitos em 4 h com no máximo 1 ajuste) passa de 30/11 pra 15/12. Não fecha até 30/11 porque não tem voz nova sua desde 12/11 (você viajou); hoje está 0 de 3.",
+   "onde": "Decidir",
+   "status": "aberta",
+   "chave": "bussola:meta3-prazo"
   }
  ],
- "gerado_em": "2026-11-25T09:27-03:00"
+ "gerado_em": "2026-11-25T09:31-03:00"
 }
