@@ -4684,18 +4684,6 @@
    "status": "aberta"
   },
   {
-   "id": "p299",
-   "aberta_em": "2026-11-23T10:18-03:00",
-   "agente": "Periscópio",
-   "video": "Short: Ele zerou o mod mais difícil do Subnautica sem andar, só com um extintor",
-   "o_que": "Programar o Short do extintor pra terça 01/12 às 18:00. Abra https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=6mmAweQoCAo (a aba já está aberta na janela do navegador do Periscópio, na etapa Adequação). Se cair na página Detalhes do vídeo, volte à lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha. Faça a Adequação (Nenhuma das opções, Enviar classificação) e avise: o Periscópio avança até a Visibilidade e põe a data. Já está pronto: vídeo v3 aprovado pelo Crivo, capa Flow 9 (ZEROU SÓ COM EXTINTOR) conferida, 8 produtos marcados, relacionado no longo da arma contra os leviatãs, playlist VIDEOS CURTOS, crédito do Queue na descrição.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:extintor-33-v3",
-   "fechada_em": "2026-11-23T10:40-03:00",
-   "nota": "Programado conferido na API: publishAt 2026-12-01T21:00:00Z (ter 01/12 18:00); a 1ª data (24/11 00:00) foi corrigida em 23/11"
-  },
-  {
    "id": "p300",
    "aberta_em": "2026-11-23T10:26-03:00",
    "agente": "Periscópio",
@@ -4738,5 +4726,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-25T10:18-03:00"
+ "gerado_em": "2026-11-25T10:48-03:00"
 }
