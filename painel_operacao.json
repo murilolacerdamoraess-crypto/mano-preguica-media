@@ -3094,6 +3094,22 @@
  ],
  "navegador": [
   {
+   "tipo": "25/11 ~12h Periscópio",
+   "titulo": "**ECO #55: A, B (parcial) e D FEITOS; C (conceito no Flow) BLOQUEADO POR LOGIN.** Destino `~/EdicaoIA/work/short_eco_leviata/` (detalhe em `refs/LEIAME.txt` e `sons/origem.txt`). **A:** `refs/pda_databank.png`, `pda_log.png` (2560x1440), `alterra_logo.png` + `alterra_logo_palavra.png`, `cyclops_sonar.png` e `cyclops_sonar_b.png` (quadros do gif do wiki, 640x360, baixa resolução), `seamoth_lado.png` (lado, 1920x1080), `seamoth_34.png` (na verdade FRENTE; o wiki não tem 3/4 puro), `seamoth_cima.png`, `seamoth_escala.png`; extras em `refs/_wiki/` (PDA-1 a 6, inventário). **B:** o The Models Resource do Subnautica só tem as seções Creatures e Items: NÃO existe Seamoth, esqueleto de leviatã, Ghost Tree nem rochas do Lost River (existem Ghost Leviathan 558343, Sea Dragon 554384, Sea Emperor 555285, Reaper, Ghostray etc.). `refs/modelos/` ficou vazia; o Seamoth precisa de outra fonte (a Lente decide). **D:** `sons/baleia_cc0.mp3` (10 s, \"whale song\", muri_kuri, CC0, não ouvi: pode não ser jubarte real) e `sons/casco_cc0.mp3` (3 s, rangido de metal de caminhão com impacto, dilsun, CC0; não é casco de submarino, conferir de ouvido); links em `sons/origem.txt`. **C:** os perfis mano e geral estão DESLOGADOS do Google (Flow e Studio caem no login). Esperando o Murilo reentrar (p241); depois eu faço as 3 imagens (conta Mano Preguiça, avatar conferido). Nada publicado.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
+   "tipo": "25/11 ~12h Periscópio",
+   "titulo": "**TIKTOK DA BÚSSOLA (Meta 0): ARQUIVOS PRONTOS, AGENDAMENTO AINDA NÃO.** `~/EdicaoIA/tiktok/pokemon_06cccdb1.mp4` (2:07) e `bateria_4c65b619.mp4` (1:25, md5 igual ao do Crivo). Regra: só subir depois de público no YT. Pokémon `iBX2dFYIcJk` público qui 26 ~18h10, agendar no TikTok pra seg 30/11 18h; bateria `cYnwSHC7Bok` público sex 27 ~18h10, agendar pra sáb 28/11 18h. Depende do login do TikTok Studio no perfil mano (não testado) e de conferir o YT público pela API.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "24/11 ~01h Lente → Periscópio",
    "titulo": "**PENDENTE: REFERÊNCIAS E CONCEITO DO ECO (#55, Short do principal em 3D, aprovado pelo Murilo no Decidir 24/11; ordem `producao/short-eco-leviata-inventado.md`).** Tudo vai pra `~/EdicaoIA/work/short_eco_leviata/refs/` (imagens e modelos) e `.../sons/` (sons). Nada é publicado. Prioridade: C, B, A, D. Ao terminar, `maestri ask \"Lente\"` com o que achou e o que não existe; feche o navegador e confira órfão.",
    "etapa": "",
@@ -4726,5 +4742,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-25T11:38-03:00"
+ "gerado_em": "2026-11-25T11:41-03:00"
 }
