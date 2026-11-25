@@ -2933,10 +2933,10 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Alguém deixou um peixinho numa cápsula do Subnautica, e ele já foi achado 44 mil vezes",
-   "etapa": "roteiro (em conferência (Crivo), versão 4: refeito em 25/11 no molde novo; a novidade é que quem acha a cápsula recebe o próprio peixinho na mochila, e ele já foi achado 44.018 vezes desde 2018)",
+   "titulo": "Alguém deixou um peixinho numa cápsula do tempo do Subnautica, e ele já foi achado 44 mil vezes",
+   "etapa": "gravação (texto no Gravar com 17 frases, aprovado pelo Crivo; versão 4: abre na cápsula como a mecânica que gera histórias, como você pediu em 20/10, e quem acha a cápsula recebe o próprio peixinho na mochila)",
    "responsavel": "Arpão",
-   "falta_murilo": "",
+   "falta_murilo": "gravar",
    "prazo": ""
   },
   {
@@ -4740,7 +4740,17 @@
    "onde": "Decidir",
    "status": "aberta",
    "chave": "bussola:meta3-prazo"
+  },
+  {
+   "id": "p302",
+   "aberta_em": "2026-11-25T09:59-03:00",
+   "agente": "Arpão",
+   "video": "Alguém deixou um peixinho numa cápsula do tempo do Subnautica, e ele já foi achado 44 mil vezes",
+   "o_que": "Peixinho na cápsula do tempo (Subnautica): gravar a voz (17 frases, aprovado pelo Crivo; gravar aprova o roteiro)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-mister-peeps-peixinho-capsula.md@v4"
   }
  ],
- "gerado_em": "2026-11-25T09:45-03:00"
+ "gerado_em": "2026-11-25T10:01-03:00"
 }
