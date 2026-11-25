@@ -1011,7 +1011,7 @@
 "v": 431
 }
 ],
-"views": 4222
+"views": 4247
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -1053,7 +1053,7 @@
 "titulo": "colocaram dinossauros no project zomboid e o jogo quebrou #projectzom...",
 "ts": 1790024515,
 "fotos": [],
-"views": 1053
+"views": 1054
 },
 "7686983513224285461": {
 "titulo": "esse personagem de alien isolation morreu de verdade no twitter #alie...",
@@ -3850,7 +3850,7 @@
 "v": 5996
 }
 ],
-"views": 7122
+"views": 7131
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4348,7 +4348,7 @@
 "v": 298
 }
 ],
-"views": 391
+"views": 393
 },
 "7705908946741120274": {
 "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares...",
@@ -6143,7 +6143,7 @@
 "v": 3975
 }
 ],
-"views": 4008
+"views": 4011
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -6287,6 +6287,10 @@
 },
 {
 "t": 1795627402,
+"v": 157
+},
+{
+"t": 1795649385,
 "v": 157
 }
 ],
@@ -6581,9 +6585,13 @@
 {
 "t": 1795642122,
 "v": 1110
+},
+{
+"t": 1795649385,
+"v": 1113
 }
 ],
-"views": 1110
+"views": 1113
 },
 "7710603106383449351": {
 "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores b...",
@@ -6747,9 +6755,13 @@
 {
 "t": 1795642122,
 "v": 12200
+},
+{
+"t": 1795649385,
+"v": 12300
 }
 ],
-"views": 12200
+"views": 12300
 }
 }
 }
