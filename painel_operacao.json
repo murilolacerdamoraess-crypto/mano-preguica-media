@@ -4563,7 +4563,7 @@
    "aberta_em": "2026-11-16T13:57-03:00",
    "agente": "Periscópio",
    "video": "Gmail, noiz, Lurkit, Gamesight e creators.gg deslogados",
-   "o_que": "O navegador do agente (perfil geral) saiu do noiz, do Lurkit e do Gamesight, então a rotina não vê mais as quests pagas desses três. Quando estiver no Mac, abre o navegador do agente e entra nos três com seu e-mail e senha (login é você que digita). Em 20/11 o creators.gg também saiu: são 4 pra entrar de novo (noiz, Lurkit, Gamesight e creators.gg). (20/11 16h50: o noiz já foi, o Maestro entrou com a senha que você mandou; faltam os outros 3.) (23/11 tarde: o noiz caiu de novo, a sessão dura 24h; são 4 de novo pra entrar.) (25/11 11h: agora o Gmail do canal também saiu no perfil geral; são 5: Gmail, noiz, Lurkit, Gamesight e creators.gg. Sem isso a rotina das 11h não lê a caixa nem as quests.)",
+   "o_que": "O navegador do agente (perfil geral) saiu do noiz, do Lurkit e do Gamesight, então a rotina não vê mais as quests pagas desses três. Quando estiver no Mac, abre o navegador do agente e entra nos três com seu e-mail e senha (login é você que digita). Em 20/11 o creators.gg também saiu: são 4 pra entrar de novo (noiz, Lurkit, Gamesight e creators.gg). (20/11 16h50: o noiz já foi, o Maestro entrou com a senha que você mandou; faltam os outros 3.) (23/11 tarde: o noiz caiu de novo, a sessão dura 24h; são 4 de novo pra entrar.) (25/11 11h: agora o Gmail do canal também saiu no perfil geral; são 5: Gmail, noiz, Lurkit, Gamesight e creators.gg. Sem isso a rotina das 11h não lê a caixa nem as quests.) (25/11 12h: o perfil mano também saiu do Google; sem ele o Flow não gera as imagens do Eco #55.)",
    "onde": "Outro",
    "status": "aberta",
    "chave": "login:noiz-lurkit-gamesight"
@@ -4742,5 +4742,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-25T11:41-03:00"
+ "gerado_em": "2026-11-25T11:42-03:00"
 }
