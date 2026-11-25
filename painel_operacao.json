@@ -4700,18 +4700,6 @@
    "status": "aberta"
   },
   {
-   "id": "p300",
-   "aberta_em": "2026-11-23T10:26-03:00",
-   "agente": "Periscópio",
-   "video": "Short: Disseram que o Subnautica dele tava fácil, então ele deixou o jogo quase impossível",
-   "o_que": "Programar o Short do Quase impossível pra sábado 28/11 às 18:00. Abra https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=HeZzTS8mOhE (a aba já está aberta na janela do navegador do Periscópio, na etapa Adequação). Se cair na página Detalhes do vídeo, volte à lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha. Faça a Adequação (Nenhuma das opções, Enviar classificação) e avise: o Periscópio avança até a Visibilidade e põe a data. Já está pronto: vídeo aprovado pelo Crivo, capa Flow 1 conferida, 7 produtos marcados, relacionado no longo da arma contra os leviatãs, playlist VIDEOS CURTOS, crédito do Zera na descrição.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:quase-impossivel",
-   "fechada_em": "2026-11-23T15:24-03:00",
-   "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
-  },
-  {
    "id": "p301",
    "aberta_em": "2026-11-25T09:31-03:00",
    "agente": "Bússola",
@@ -4742,5 +4730,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-25T11:42-03:00"
+ "gerado_em": "2026-11-25T15:26-03:00"
 }
