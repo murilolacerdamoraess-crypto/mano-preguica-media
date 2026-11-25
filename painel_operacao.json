@@ -2909,14 +2909,6 @@
   },
   {
    "tipo": "Short",
-   "titulo": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-   "etapa": "agendado (sai seg 23/11 às 18h no principal, na playlist VIDEOS CURTOS; youtube.com/shorts/1fd8I1HEeAA)",
-   "responsavel": "Periscópio",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
    "titulo": "O maior predador do Subnautica 2 não morre, então três amigos prenderam ele onde ele nasce",
    "etapa": "roteiro (versão 3 na fila, espera a fila do Gravar baixar de 8 roteiros, fecho sem o \"Ou seja\" (25/10), com o gancho novo que você aprovou: abre no Leviatã Colecionador que atravessa parede, sem as mordidas e sem a fórmula)",
    "responsavel": "Arpão",
@@ -3055,14 +3047,6 @@
    "tipo": "Short",
    "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
    "etapa": "agendado (qui 26/11 às 18h no canal 2, youtube.com/shorts/ov_w_YyWk90, programado conferido na API pelo Vigia em 23/11)",
-   "responsavel": "Leme",
-   "falta_murilo": "",
-   "prazo": ""
-  },
-  {
-   "tipo": "Short",
-   "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele (canal 2)",
-   "etapa": "agendado (ter 24/11 às 18h no canal 2, youtube.com/shorts/8TO6GuNGHNo, programado conferido na API pelo Vigia em 23/11)",
    "responsavel": "Leme",
    "falta_murilo": "",
    "prazo": ""
@@ -4760,5 +4744,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-25T00:06-03:00"
+ "gerado_em": "2026-11-25T09:27-03:00"
 }
