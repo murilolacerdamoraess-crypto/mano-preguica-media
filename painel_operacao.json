@@ -4696,18 +4696,6 @@
    "nota": "APROVADO pelo Murilo 23/11 ('tá muito bom', posta assim). Apontou incoerências na seleção das imagens e na duração de alguns trechos: causa com Lente/Crivo, sem refazer. 1º teste do portão espectador: o portão deu 0 e ele achou"
   },
   {
-   "id": "p297",
-   "aberta_em": "2026-11-22T23:36-03:00",
-   "agente": "Periscópio",
-   "video": "Short: Por que a bateria do submarino sumia tão rápido na lava do Subnautica?",
-   "o_que": "Programar o Short da bateria na lava pra sexta 27/11 às 18:00. Abra https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=cYnwSHC7Bok (a aba já está aberta na janela do navegador do Periscópio, na etapa Adequação). Se cair na página Detalhes do vídeo, volte à lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha. Faça a Adequação (Nenhuma das opções, Enviar classificação), Avançar até a Visibilidade e Programar em 27 de nov. de 2026, 18:00. Já está pronto: vídeo novo aprovado pelo Crivo, capa sem palavra conferida, 7 produtos marcados, relacionado no longo da arma contra os leviatãs, playlist VIDEOS CURTOS, créditos na descrição.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:bateria-lava-77",
-   "fechada_em": "2026-11-23T09:31-03:00",
-   "nota": "Programado; API confirma sex 27/11 18h"
-  },
-  {
    "id": "p298",
    "aberta_em": "2026-11-22T23:49-03:00",
    "agente": "Tesoura",
@@ -4754,5 +4742,5 @@
    "chave": "bussola:meta3-prazo"
   }
  ],
- "gerado_em": "2026-11-25T09:31-03:00"
+ "gerado_em": "2026-11-25T09:32-03:00"
 }
