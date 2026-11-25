@@ -4691,21 +4691,6 @@
    "fechada_em": "2026-11-24T00:23-03:00"
   },
   {
-   "id": "p284",
-   "aberta_em": "2026-11-20T16:01-03:00",
-   "agente": "Tesoura",
-   "video": "Código do canal_agente parado no Mac",
-   "o_que": "O repositório canal_agente tem 2 arquivos alterados sem commit (não estão no PC Windows). É repositório com deploy, então só sobe com o seu OK.",
-   "onde": "Decidir",
-   "status": "feita",
-   "opcoes": [
-    "Pode subir",
-    "Não sobe ainda"
-   ],
-   "fechada_em": "2026-11-22T18:05-03:00",
-   "nota": "Murilo 22/11 18h: 'pode subir'. Push 17023d4 (checar_fluidez, ficha_video, portao_pauta); canal_agente igual ao remoto."
-  },
-  {
    "id": "p285",
    "aberta_em": "2026-11-21T11:33-03:00",
    "agente": "Periscópio",
@@ -4713,94 +4698,6 @@
    "o_que": "decidir se renova a chave 'API teste' da Anthropic (e-mail de 21/11, vence em 28/11); se nada usa, pode deixar vencer",
    "onde": "Outro",
    "status": "aberta"
-  },
-  {
-   "id": "p286",
-   "aberta_em": "2026-11-22T14:32-03:00",
-   "agente": "Periscópio",
-   "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-   "o_que": "Short do Void pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/1fd8I1HEeAA/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com seg 23/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-22T17:25-03:00",
-   "nota": "reescrito com o link que abre direto na tela certa"
-  },
-  {
-   "id": "p287",
-   "aberta_em": "2026-11-22T17:07-03:00",
-   "agente": "Periscópio",
-   "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "o_que": "Short do mapa pronto no Studio (título, capa BUGOU, descrição, 7 produtos com a caneca de Subnautica em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/crFXsVL0ayU/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com ter 24/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-22T17:25-03:00",
-   "nota": "reescrito com o link que abre direto na tela certa"
-  },
-  {
-   "id": "p288",
-   "aberta_em": "2026-11-22T17:12-03:00",
-   "agente": "Periscópio",
-   "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
-   "o_que": "Short do Luigi pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/RovL8tHz9vw/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qua 25/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-22T17:25-03:00",
-   "nota": "reescrito com o link que abre direto na tela certa"
-  },
-  {
-   "id": "p289",
-   "aberta_em": "2026-11-22T17:19-03:00",
-   "agente": "Periscópio",
-   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "o_que": "Short do Pokémon pronto no Studio (título, capa CABE?, descrição, 7 produtos com a Pokébola 3D do Dragonite em 1º, relacionado). Faltam 2 cliques seus: 1) abrir https://studio.youtube.com/video/iBX2dFYIcJk/edit, clicar em Editar rascunho, na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, Avançar até a Visibilidade; 2) deixar 'Programar' com qui 26/11/2026 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "cancelada",
-   "fechada_em": "2026-11-22T17:25-03:00",
-   "nota": "reescrito com o link que abre direto na tela certa"
-  },
-  {
-   "id": "p290",
-   "aberta_em": "2026-11-22T17:25-03:00",
-   "agente": "Periscópio",
-   "video": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-   "o_que": "Rascunho pronto no Studio (título, capa, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=1fd8I1HEeAA (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em seg 23/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-22T20:26-03:00",
-   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
-  },
-  {
-   "id": "p291",
-   "aberta_em": "2026-11-22T17:25-03:00",
-   "agente": "Periscópio",
-   "video": "Ele atravessou o Subnautica nadando por baixo do mapa, a quase 2 mil metros de profundidade",
-   "o_que": "Rascunho pronto no Studio (título, capa BUGOU, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=crFXsVL0ayU (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em ter 24/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-22T20:26-03:00",
-   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
-  },
-  {
-   "id": "p292",
-   "aberta_em": "2026-11-22T17:25-03:00",
-   "agente": "Periscópio",
-   "video": "Disseram por 24 anos que o Luigi estava escondido no Mario 64, e acharam ele em 2020",
-   "o_que": "Rascunho pronto no Studio (título, capa ERA VERDADE, descrição, 3 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=RovL8tHz9vw (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qua 25/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-22T20:26-03:00",
-   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
-  },
-  {
-   "id": "p293",
-   "aberta_em": "2026-11-22T17:25-03:00",
-   "agente": "Periscópio",
-   "video": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
-   "o_que": "Rascunho pronto no Studio (título, capa CABE?, descrição, 7 produtos, relacionado). Faltam 2 cliques seus: 1) abrir este link, que já abre na tela de publicar: https://studio.youtube.com/channel/UCRKX-GV-beUtYs2IQD-f6jg/videos/short?d=ud&udvid=iBX2dFYIcJk (se cair na página Detalhes do vídeo, volte para a lista de Shorts e clique em Editar rascunho, no canto de cima à direita da linha deste vídeo); 2) na Adequação para publicidade marcar 'Nenhuma das opções' e Enviar classificação, clicar Avançar até a Visibilidade, deixar Programar em qui 26/11/2026 às 18:00 e apertar Programar. Depois eu confiro e ponho na playlist VIDEOS CURTOS.",
-   "onde": "Outro",
-   "status": "feita",
-   "fechada_em": "2026-11-22T20:26-03:00",
-   "nota": "Programado pelo Murilo em 22/11; API confirma estado programado às 18h"
   },
   {
    "id": "p294",
@@ -4813,30 +4710,6 @@
    "chave": "video:1a85xHYhBPntXxoCDZCeUf-YpmEw9EXHL",
    "fechada_em": "2026-11-23T10:15-03:00",
    "nota": "APROVADO pelo Murilo 23/11 ('tá muito bom', posta assim). Apontou incoerências na seleção das imagens e na duração de alguns trechos: causa com Lente/Crivo, sem refazer. 1º teste do portão espectador: o portão deu 0 e ele achou"
-  },
-  {
-   "id": "p295",
-   "aberta_em": "2026-11-22T21:05-03:00",
-   "agente": "Leme",
-   "video": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho (canal 2)",
-   "o_que": "programar no Studio: a aba do navegador do agente já está na Visibilidade com Programar aberto (título, capa, 3 produtos e Adequação prontos). Só escolher qui 26/11 às 18:00 e apertar Programar.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:ov_w_YyWk90",
-   "fechada_em": "2026-11-22T21:47-03:00",
-   "nota": "Programado pelo Murilo, qui 26/11 (print do Studio 22/11)"
-  },
-  {
-   "id": "p296",
-   "aberta_em": "2026-11-22T21:05-03:00",
-   "agente": "Leme",
-   "video": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto (canal 2)",
-   "o_que": "programar no Studio: a aba do navegador do agente está na página do vídeo (já está Privado, por isso não tem Editar rascunho). Em Visibilidade, escolher Programar, ter 24/11 às 18:00 e Salvar. Link: https://studio.youtube.com/video/8TO6GuNGHNo/edit. Os produtos não gravaram nesse vídeo; o Leme ainda está vendo por quê.",
-   "onde": "Studio",
-   "status": "feita",
-   "chave": "programar:8TO6GuNGHNo",
-   "fechada_em": "2026-11-22T22:12-03:00",
-   "nota": "Programado pelo Murilo; API confirma ter 24/11 18h (sem produto)"
   },
   {
    "id": "p297",
@@ -4887,5 +4760,5 @@
    "nota": "Programado pelo Murilo; Studio mostra sáb 28/11"
   }
  ],
- "gerado_em": "2026-11-24T15:12-03:00"
+ "gerado_em": "2026-11-25T00:06-03:00"
 }
