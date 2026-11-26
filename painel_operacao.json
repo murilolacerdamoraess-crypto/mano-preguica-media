@@ -4675,22 +4675,6 @@
    "status": "aberta"
   },
   {
-   "id": "p282",
-   "aberta_em": "2026-11-19T11:16-03:00",
-   "agente": "Tesoura",
-   "video": "Teste: trilhas novas, 4 climas",
-   "o_que": "ouvir as trilhas novas e escolher quais ficam",
-   "onde": "Assistir",
-   "status": "feita",
-   "chave": "video:1cpRYeW_WLq01OLaRpSraKQUh1sy0RtDQ",
-   "opcoes": [
-    "Ficam todas",
-    "Algumas saem (escrevo quais)"
-   ],
-   "nota": "Murilo 24/11 00h: construção, faixas 1, 2 e 3 boas (ficam as 3). Emoção: faixas 1, 2 e 3 boas (ficam as 3). Tensão de combate: faixa 1 \"não tem nada a ver com combate, mas é um bom lo-fi\" (sai do combate, fica como lo-fi); faixa 2 \"tem mais a ver\" (fica); faixa 3 \"muito boa\" (fica). Mistério: faixa 1 boa (\"vibe bem curiosidade pop\", fica); faixa 2 boa (\"já usamos muito nos vídeos, funciona bem\", fica); faixa 3 \"fraca\" (sai).",
-   "fechada_em": "2026-11-24T00:23-03:00"
-  },
-  {
    "id": "p285",
    "aberta_em": "2026-11-21T11:33-03:00",
    "agente": "Periscópio",
@@ -4730,5 +4714,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-25T16:56-03:00"
+ "gerado_em": "2026-11-26T00:32-03:00"
 }
