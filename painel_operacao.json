@@ -914,7 +914,12 @@
    "simples": "No canal secundário, na hora de escolher os 3 Shorts da semana de gente construindo ou tentando alguma coisa, vão na frente os que têm risco, tamanho ou valor dito no título (como o traje de FNAF que esmaga quem veste, 366 mil views em 7 dias) e a construção sem risco (como o PS2 virando portátil, 5 mil) só entra quando não houver uma com risco pronta. Nada fica proibido: a sem risco continua saindo, só não toma a vaga de uma com risco."
   }
  ],
- "equipe": [],
+ "equipe": [
+  {
+   "nome": "Produto",
+   "funcao": "Nazus Produto"
+  }
+ ],
  "backlog": [
   {
    "id": "P138",
@@ -4659,5 +4664,5 @@
    "chave": "roteiro:short-collector-preso-onde-nasce-subnautica-2.md@v5"
   }
  ],
- "gerado_em": "2026-11-26T13:40-03:00"
+ "gerado_em": "2026-11-26T13:47-03:00"
 }
