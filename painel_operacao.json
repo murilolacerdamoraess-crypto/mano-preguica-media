@@ -926,6 +926,10 @@
   {
    "nome": "Dev pedir-e-barra",
    "funcao": "Nazus Dev"
+  },
+  {
+   "nome": "Dev robo-e-consertos",
+   "funcao": "Nazus Dev"
   }
  ],
  "backlog": [
@@ -4682,5 +4686,5 @@
    "chave": "login:perfil-mano"
   }
  ],
- "gerado_em": "2026-11-26T17:04-03:00"
+ "gerado_em": "2026-11-26T17:13-03:00"
 }
