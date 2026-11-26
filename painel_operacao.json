@@ -3094,6 +3094,14 @@
  ],
  "navegador": [
   {
+   "tipo": "26/11 ~13h Lente → Periscópio",
+   "titulo": "**PENDENTE: 6 FOTOS DO ESQUELETO DO LOST RIVER PRO ECO #55 (Short do principal em 3D, ordem `producao/short-eco-leviata-inventado.md`).** Destino `~/EdicaoIA/work/short_eco_leviata/refs/esqueleto/` (pasta vazia já criada). O curl no static.wikia toma o desafio do Cloudflare (26/11 13h, os 6 voltaram HTML), por isso é pelo navegador, abrindo cada arquivo pela página do wiki (subnautica.fandom.com/wiki/File:<nome>) e salvando o original. Os nomes vieram da API: `Skeleton.jpg`, `Skeleton_whole.jpg`, `SkeletonModel.jpeg`, `Skeleton_with_Ghost_leviathan_and_prawn_suit.jpg`, `Skull.jpg`, `Skullmodel.png`. Salve com o mesmo nome. Uso: forma do esqueleto no Hunyuan3D (costelas no E04, mandíbula rente ao rio verde no E05). Nada é publicado. Ao terminar, `maestri ask \"Lente\"` com a lista e o tamanho de cada uma; feche o navegador e confira órfão.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "25/11 ~12h Periscópio",
    "titulo": "**ECO #55: A, B (parcial) e D FEITOS; C (conceito no Flow) BLOQUEADO POR LOGIN.** Destino `~/EdicaoIA/work/short_eco_leviata/` (detalhe em `refs/LEIAME.txt` e `sons/origem.txt`). **A:** `refs/pda_databank.png`, `pda_log.png` (2560x1440), `alterra_logo.png` + `alterra_logo_palavra.png`, `cyclops_sonar.png` e `cyclops_sonar_b.png` (quadros do gif do wiki, 640x360, baixa resolução), `seamoth_lado.png` (lado, 1920x1080), `seamoth_34.png` (na verdade FRENTE; o wiki não tem 3/4 puro), `seamoth_cima.png`, `seamoth_escala.png`; extras em `refs/_wiki/` (PDA-1 a 6, inventário). **B:** o The Models Resource do Subnautica só tem as seções Creatures e Items: NÃO existe Seamoth, esqueleto de leviatã, Ghost Tree nem rochas do Lost River (existem Ghost Leviathan 558343, Sea Dragon 554384, Sea Emperor 555285, Reaper, Ghostray etc.). `refs/modelos/` ficou vazia; o Seamoth precisa de outra fonte (a Lente decide). **D:** `sons/baleia_cc0.mp3` (10 s, \"whale song\", muri_kuri, CC0, não ouvi: pode não ser jubarte real) e `sons/casco_cc0.mp3` (3 s, rangido de metal de caminhão com impacto, dilsun, CC0; não é casco de submarino, conferir de ouvido); links em `sons/origem.txt`. **C:** os perfis mano e geral estão DESLOGADOS do Google (Flow e Studio caem no login). Esperando o Murilo reentrar (p241); depois eu faço as 3 imagens (conta Mano Preguiça, avatar conferido). Nada publicado.",
    "etapa": "",
@@ -4702,5 +4710,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-26T12:24-03:00"
+ "gerado_em": "2026-11-26T12:37-03:00"
 }
