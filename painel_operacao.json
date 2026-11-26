@@ -916,64 +916,12 @@
  ],
  "equipe": [
   {
-   "nome": "Sonar",
-   "funcao": "Descoberta de pautas"
+   "nome": "Produto",
+   "funcao": "Nazus Produto"
   },
   {
-   "nome": "Farol",
-   "funcao": "Vídeos longos"
-  },
-  {
-   "nome": "Arpão",
-   "funcao": "Shorts"
-  },
-  {
-   "nome": "Anzol",
-   "funcao": "Embalagem"
-  },
-  {
-   "nome": "Âncora",
-   "funcao": "Vitrine"
-  },
-  {
-   "nome": "Leme",
-   "funcao": "Publicação MP2"
-  },
-  {
-   "nome": "Sextante",
-   "funcao": "Análise"
-  },
-  {
-   "nome": "Lente",
-   "funcao": "Direção de produção"
-  },
-  {
-   "nome": "Periscópio",
-   "funcao": "Publicação e navegador"
-  },
-  {
-   "nome": "Tarrafa",
-   "funcao": "Shorts"
-  },
-  {
-   "nome": "Tesoura",
-   "funcao": "Edição de vídeo"
-  },
-  {
-   "nome": "Crivo",
-   "funcao": "Qualidade"
-  },
-  {
-   "nome": "Prumo",
-   "funcao": "Aprendizado dos ajustes"
-  },
-  {
-   "nome": "Bússola",
-   "funcao": "Metas e plano"
-  },
-  {
-   "nome": "Maré",
-   "funcao": "Canal IA (teste dos 30)"
+   "nome": "UX e UI",
+   "funcao": "Nazus UX e UI"
   }
  ],
  "backlog": [
@@ -4730,5 +4678,5 @@
    "chave": "login:perfil-mano"
   }
  ],
- "gerado_em": "2026-11-26T14:01-03:00"
+ "gerado_em": "2026-11-26T14:15-03:00"
 }
