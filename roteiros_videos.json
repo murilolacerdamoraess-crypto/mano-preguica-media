@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T16:11:39.996147Z",
+ "gerado_em": "2026-11-26T17:24:44.542678Z",
  "roteiros": [
   {
    "arquivo": "alien-isolation-mike-tanaka-twitter.md",
@@ -206,7 +206,7 @@
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP2",
+   "formato": "short MP2 (jornada)",
    "motor": null,
    "versao": "9",
    "fonte_yt": "gQdlMDlSNjE"
@@ -318,7 +318,7 @@
    "gate": "portão de fontes, de fluidez (com R17 e C53) e de pauta APROVADOS 2026-10-19 (conferir_fontes.py, checar_fluidez.py e portao_pauta.py ficha)",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP2",
+   "formato": "short MP2 (jornada)",
    "motor": null,
    "versao": "9",
    "fonte_yt": "qOAenK39gfs"
@@ -724,7 +724,7 @@
    "gate": "versão 7: portão de fontes e de fluidez APROVADOS 2026-10-29; conferência dos erros repetidos e teste do leigo no fim do arquivo",
    "video_id": null,
    "publicado_em": null,
-   "formato": "short MP2 (voz real do Murilo, narrado em cima da série da Hacksmith)",
+   "formato": "short MP2 (jornada; voz real do Murilo, narrado em cima da série da Hacksmith)",
    "motor": null,
    "versao": "10",
    "fonte_yt": "6UMykgeizTE"
