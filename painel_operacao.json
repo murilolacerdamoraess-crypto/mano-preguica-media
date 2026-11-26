@@ -4604,18 +4604,6 @@
    "chave": "roteiro:guia-criador/02-b-primeira-frase.md@v2"
   },
   {
-   "id": "p264",
-   "aberta_em": "2026-11-18T16:07-03:00",
-   "agente": "Arpão",
-   "video": "Tentamos achar a base do dono da cápsula dos 10 mil metros do Subnautica",
-   "o_que": "gravar a voz (14 frases, aprovado pelo Crivo)",
-   "onde": "Gravar",
-   "status": "cancelada",
-   "chave": "roteiro:short-capsula-10-mil-metros-dono-foto-da-base.md@v5",
-   "fechada_em": "2026-11-24T00:41-03:00",
-   "nota": "Murilo 24/11 00:30 no painel: roteiro sem payoff ('a resposta é um simples não'); sai da fila do Gravar, Arpão registra o motivo"
-  },
-  {
    "id": "p265",
    "aberta_em": "2026-11-18T16:14-03:00",
    "agente": "Tarrafa",
@@ -4714,5 +4702,5 @@
    "chave": "leme:mp2-studio-login"
   }
  ],
- "gerado_em": "2026-11-26T00:32-03:00"
+ "gerado_em": "2026-11-26T01:50-03:00"
 }
