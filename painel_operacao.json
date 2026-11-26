@@ -4684,7 +4684,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "login:perfil-mano"
+  },
+  {
+   "id": "p306",
+   "aberta_em": "2026-11-26T17:29-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "Ver o Short do Fallout (canal 2, 2:14) e aprovar ou apontar o que muda. Link: https://drive.google.com/file/d/1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6/view",
+   "onde": "Assistir",
+   "status": "aberta",
+   "chave": "video:1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6"
   }
  ],
- "gerado_em": "2026-11-26T17:27-03:00"
+ "gerado_em": "2026-11-26T17:30-03:00"
 }
