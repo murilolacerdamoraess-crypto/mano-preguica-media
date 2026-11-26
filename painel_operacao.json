@@ -4662,7 +4662,17 @@
    "onde": "Gravar",
    "status": "aberta",
    "chave": "roteiro:short-collector-preso-onde-nasce-subnautica-2.md@v5"
+  },
+  {
+   "id": "p305",
+   "aberta_em": "2026-11-26T14:00-03:00",
+   "agente": "Periscópio",
+   "video": "URGENTE: entrar na conta Mano Preguiça no navegador do agente (perfil mano)",
+   "o_que": "Na janela do Chrome do agente que está na tela de login do Google, entre com a conta manopreguicacontato (a senha é você que digita). Sem isso não sai a capa nova do Hulk (canal 2), nem as imagens do Eco, nem o YouTube Studio do principal.",
+   "onde": "Outro",
+   "status": "aberta",
+   "chave": "login:perfil-mano"
   }
  ],
- "gerado_em": "2026-11-26T13:59-03:00"
+ "gerado_em": "2026-11-26T14:01-03:00"
 }
