@@ -930,6 +930,10 @@
   {
    "nome": "Dev robo-e-consertos",
    "funcao": "Nazus Dev"
+  },
+  {
+   "nome": "Dev listas-e-telas",
+   "funcao": "Nazus Dev"
   }
  ],
  "backlog": [
@@ -4725,5 +4729,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-26T19:27-03:00"
+ "gerado_em": "2026-11-26T19:45-03:00"
 }
