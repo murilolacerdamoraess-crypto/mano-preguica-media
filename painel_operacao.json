@@ -914,68 +914,7 @@
    "simples": "No canal secundário, na hora de escolher os 3 Shorts da semana de gente construindo ou tentando alguma coisa, vão na frente os que têm risco, tamanho ou valor dito no título (como o traje de FNAF que esmaga quem veste, 366 mil views em 7 dias) e a construção sem risco (como o PS2 virando portátil, 5 mil) só entra quando não houver uma com risco pronta. Nada fica proibido: a sem risco continua saindo, só não toma a vaga de uma com risco."
   }
  ],
- "equipe": [
-  {
-   "nome": "Sonar",
-   "funcao": "Descoberta de pautas"
-  },
-  {
-   "nome": "Farol",
-   "funcao": "Vídeos longos"
-  },
-  {
-   "nome": "Arpão",
-   "funcao": "Shorts"
-  },
-  {
-   "nome": "Anzol",
-   "funcao": "Embalagem"
-  },
-  {
-   "nome": "Âncora",
-   "funcao": "Vitrine"
-  },
-  {
-   "nome": "Leme",
-   "funcao": "Publicação MP2"
-  },
-  {
-   "nome": "Sextante",
-   "funcao": "Análise"
-  },
-  {
-   "nome": "Lente",
-   "funcao": "Direção de produção"
-  },
-  {
-   "nome": "Periscópio",
-   "funcao": "Publicação e navegador"
-  },
-  {
-   "nome": "Tarrafa",
-   "funcao": "Shorts"
-  },
-  {
-   "nome": "Tesoura",
-   "funcao": "Edição de vídeo"
-  },
-  {
-   "nome": "Crivo",
-   "funcao": "Qualidade"
-  },
-  {
-   "nome": "Prumo",
-   "funcao": "Aprendizado dos ajustes"
-  },
-  {
-   "nome": "Bússola",
-   "funcao": "Metas e plano"
-  },
-  {
-   "nome": "Maré",
-   "funcao": "Canal IA (teste dos 30)"
-  }
- ],
+ "equipe": [],
  "backlog": [
   {
    "id": "P138",
@@ -4720,5 +4659,5 @@
    "chave": "roteiro:short-collector-preso-onde-nasce-subnautica-2.md@v5"
   }
  ],
- "gerado_em": "2026-11-26T13:11-03:00"
+ "gerado_em": "2026-11-26T13:40-03:00"
 }
