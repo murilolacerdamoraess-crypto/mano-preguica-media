@@ -924,10 +924,6 @@
    "funcao": "Nazus UX e UI"
   },
   {
-   "nome": "Sucesso do cliente",
-   "funcao": "Nazus Sucesso do cliente"
-  },
-  {
    "nome": "Dev pedir-e-barra",
    "funcao": "Nazus Dev"
   }
@@ -4686,5 +4682,5 @@
    "chave": "login:perfil-mano"
   }
  ],
- "gerado_em": "2026-11-26T14:41-03:00"
+ "gerado_em": "2026-11-26T14:42-03:00"
 }
