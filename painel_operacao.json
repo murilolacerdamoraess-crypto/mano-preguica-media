@@ -4692,6 +4692,18 @@
    "video": "Short: Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
    "o_que": "Ver o Short do Fallout (canal 2, 2:14) e aprovar ou apontar o que muda. Link: https://drive.google.com/file/d/1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6/view",
    "onde": "Assistir",
+   "status": "cancelada",
+   "chave": "video:1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6",
+   "fechada_em": "2026-11-26T17:30-03:00",
+   "nota": "duração errada no texto (2:14); reaberta com 2:12"
+  },
+  {
+   "id": "p307",
+   "aberta_em": "2026-11-26T17:30-03:00",
+   "agente": "Tesoura",
+   "video": "Short: Colocaram uma pessoa dentro da armadura do Fallout de verdade pela primeira vez",
+   "o_que": "Ver o Short do Fallout (canal 2, 2:12) e aprovar ou apontar o que muda. Link: https://drive.google.com/file/d/1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6/view",
+   "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6"
   }
