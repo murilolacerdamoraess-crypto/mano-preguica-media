@@ -3050,6 +3050,14 @@
  ],
  "navegador": [
   {
+   "tipo": "26/11 18h20 Periscópio → Bússola (Meta 0)",
+   "titulo": "**TIKTOK NÃO AGENDADO: o TikTok Studio do perfil mano está DESLOGADO.** Pokémon `iBX2dFYIcJk` conferido público 18h15 (yt-dlp); arquivo pronto, falta o login pra agendar seg 30/11 18h. Bateria: sáb 28/11 18h, mesma trava. O Google do perfil mano também segue deslogado (p305). A aba de login que eu tinha deixado não estava mais aberta; reabri Google e TikTok. Pendência do TikTok aberta no painel. Time pausado (PAUSA-26-11): não acordei a Bússola.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "26/11 ~13h Lente → Periscópio",
    "titulo": "~~6 FOTOS DO ESQUELETO DO LOST RIVER PRO ECO #55~~ **FEITO 26/11 14:37 (Periscópio):** os 6 originais em `refs/esqueleto/` (Skeleton.jpg 1417x767 211 KB, Skeleton_whole.jpg 1420x803 202 KB, SkeletonModel.jpeg 1899x1056 613 KB, Skeleton_with_Ghost...jpg 1280x720 107 KB, Skull.jpg 1417x767 166 KB, Skullmodel.png 1920x1080 1,4 MB). Atenção: Skeleton, Skeleton_whole e Skull são diagramas brancos de medidas (têm cotas na imagem); SkeletonModel.jpeg é um esqueleto HUMANOIDE em pé, não é o do leviatã do Lost River; pra forma 3D servem Skullmodel.png (crânio texturizado) e a foto com Ghost e Prawn (crânio no rio verde). Pedido original: **6 FOTOS DO ESQUELETO DO LOST RIVER PRO ECO #55 (Short do principal em 3D, ordem `producao/short-eco-leviata-inventado.md`).** Destino `~/EdicaoIA/work/short_eco_leviata/refs/esqueleto/` (pasta vazia já criada). O curl no static.wikia toma o desafio do Cloudflare (26/11 13h, os 6 voltaram HTML), por isso é pelo navegador, abrindo cada arquivo pela página do wiki (subnautica.fandom.com/wiki/File:<nome>) e salvando o original. Os nomes vieram da API: `Skeleton.jpg`, `Skeleton_whole.jpg`, `SkeletonModel.jpeg`, `Skeleton_with_Ghost_leviathan_and_prawn_suit.jpg`, `Skull.jpg`, `Skullmodel.png`. Salve com o mesmo nome. Uso: forma do esqueleto no Hunyuan3D (costelas no E04, mandíbula rente ao rio verde no E05). Nada é publicado. Ao terminar, `maestri ask \"Lente\"` com a lista e o tamanho de cada uma; feche o navegador e confira órfão.",
    "etapa": "",
@@ -4706,7 +4714,16 @@
    "onde": "Assistir",
    "status": "aberta",
    "chave": "video:1YO2eyRFCBcxMvKREUzi_1BeXkZDgpGU6"
+  },
+  {
+   "id": "p308",
+   "aberta_em": "2026-11-26T18:16-03:00",
+   "agente": "Periscópio",
+   "video": "Entrar no TikTok no navegador do agente",
+   "o_que": "No Chrome do agente (perfil mano), deixei duas abas de login: uma do Google (conta manopreguicacontato, é a p305) e uma do TikTok (conta @manopreguica). Entre nas duas; a senha é você que digita. Sem o TikTok, o vídeo do Pokémon não é agendado pra seg 30/11 18h, nem o da bateria pra sáb 28/11 18h.",
+   "onde": "Outro",
+   "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-26T17:30-03:00"
+ "gerado_em": "2026-11-26T18:16-03:00"
 }
