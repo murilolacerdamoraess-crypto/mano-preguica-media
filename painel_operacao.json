@@ -2910,9 +2910,9 @@
   {
    "tipo": "Short",
    "titulo": "O maior predador do Subnautica 2 não morre, então três amigos prenderam ele onde ele nasce",
-   "etapa": "roteiro (em conferência (Crivo), versão 5: o polvo gigante de cabeça rosa, a caixa que ele atravessa quando agarra alguém, os três lugares onde ele nasce, a jaula grande em cima do lugar do lado da casa e o limite de ninguém poder chegar perto)",
-   "responsavel": "",
-   "falta_murilo": "",
+   "etapa": "gravação (texto no Gravar com 23 frases; aprovado pelo Crivo em 26/11, versão 5)",
+   "responsavel": "Arpão",
+   "falta_murilo": "gravar a voz",
    "prazo": ""
   },
   {
@@ -4708,7 +4708,17 @@
    "onde": "Outro",
    "status": "aberta",
    "chave": "leme:mp2-studio-login"
+  },
+  {
+   "id": "p304",
+   "aberta_em": "2026-11-26T13:10-03:00",
+   "agente": "Arpão",
+   "video": "O maior predador do Subnautica 2 não morre, então três amigos prenderam ele onde ele nasce",
+   "o_que": "gravar a voz (23 frases, aprovado pelo Crivo)",
+   "onde": "Gravar",
+   "status": "aberta",
+   "chave": "roteiro:short-collector-preso-onde-nasce-subnautica-2.md@v5"
   }
  ],
- "gerado_em": "2026-11-26T12:37-03:00"
+ "gerado_em": "2026-11-26T13:11-03:00"
 }
