@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T17:36:49.983191-03:00",
+ "gerado_em": "2026-11-26T21:20:46.839631-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -10,7 +10,7 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 32,
+   "na_fila": 34,
    "ultimo_post": "2026-11-20",
    "dias_parado": 6,
    "parado": true,
@@ -35,7 +35,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 27,
+   "na_fila": 29,
    "ultimo_post": "2026-11-18",
    "dias_parado": 8,
    "parado": true,
@@ -92,8 +92,8 @@
      "quando": "2026-12-05T21:30:00-03:00"
     },
     {
-     "video_id": "Stm2pYvz-yE",
-     "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
+     "video_id": "iBX2dFYIcJk",
+     "titulo": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
      "quando": "2026-12-06T21:30:00-03:00"
     },
     {
@@ -102,13 +102,13 @@
      "quando": "2026-12-07T21:30:00-03:00"
     },
     {
-     "video_id": "nlNDHXyED70",
-     "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
+     "video_id": "Stm2pYvz-yE",
+     "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
      "quando": "2026-12-08T21:30:00-03:00"
     },
     {
-     "video_id": "EUxPzES-LLs",
-     "titulo": "Qual empresa de games você acha que vale mais no mundo?",
+     "video_id": "nlNDHXyED70",
+     "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
      "quando": "2026-12-09T21:30:00-03:00"
     }
    ],
@@ -131,7 +131,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 65,
+   "na_fila": 67,
    "ultimo_post": "2026-11-18",
    "dias_parado": 8,
    "parado": false,
@@ -140,11 +140,6 @@
     {
      "video_id": "fmRy7htiKf8",
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
-     "quando": "2026-11-26T20:00:00-03:00"
-    },
-    {
-     "video_id": "lybLU6Q9xV8",
-     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
      "quando": "2026-12-03T20:00:00-03:00"
     }
    ],
