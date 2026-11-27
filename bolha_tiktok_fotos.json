@@ -692,6 +692,10 @@
 {
 "t": 1795763253,
 "v": 266
+},
+{
+"t": 1795785209,
+"v": 266
 }
 ],
 "views": 266
@@ -1031,7 +1035,7 @@
 "v": 431
 }
 ],
-"views": 4478
+"views": 4482
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -1614,7 +1618,7 @@
 "v": 2752
 }
 ],
-"views": 4081
+"views": 4082
 },
 "7697745159374572816": {
 "titulo": "Ele afundou o Subnautica 10 mil metros e achou uma mensagem de outro ...",
@@ -3870,7 +3874,7 @@
 "v": 5996
 }
 ],
-"views": 7189
+"views": 7193
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4197,7 +4201,7 @@
 "v": 3567
 }
 ],
-"views": 4016
+"views": 4019
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -6163,7 +6167,7 @@
 "v": 3975
 }
 ],
-"views": 4049
+"views": 4051
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -6954,9 +6958,13 @@
 {
 "t": 1795777746,
 "v": 122
+},
+{
+"t": 1795785209,
+"v": 128
 }
 ],
-"views": 122
+"views": 128
 }
 }
 }
