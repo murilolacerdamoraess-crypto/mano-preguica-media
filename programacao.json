@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T21:20:46.839631-03:00",
+ "gerado_em": "2026-11-27T05:51:44.465553-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -12,7 +12,7 @@
    "cadencia": "manual (Metricool)",
    "na_fila": 34,
    "ultimo_post": "2026-11-20",
-   "dias_parado": 6,
+   "dias_parado": 7,
    "parado": true,
    "agendados": [],
    "previstos": [],
@@ -37,58 +37,53 @@
    "cadencia": "todo dia 21h30",
    "na_fila": 29,
    "ultimo_post": "2026-11-18",
-   "dias_parado": 8,
+   "dias_parado": 9,
    "parado": true,
    "agendados": [],
    "previstos": [
     {
      "video_id": "H9afjwf8wIc",
      "titulo": "Esse cara tá montando o Reaper do Subnautica em LEGO, e o bicho não cabe nem na estante",
-     "quando": "2026-11-26T21:30:00-03:00"
+     "quando": "2026-11-27T21:30:00-03:00"
     },
     {
      "video_id": "1fd8I1HEeAA",
      "titulo": "Ela começou o Subnautica a 700 metros no meio do Void e tentou zerar o jogo saindo de lá",
-     "quando": "2026-11-27T21:30:00-03:00"
+     "quando": "2026-11-28T21:30:00-03:00"
     },
     {
      "video_id": "hBKPf5T3vDs",
      "titulo": "Construíram uma ferramenta pra fugir de tubarão debaixo d'água #shorts",
-     "quando": "2026-11-28T21:30:00-03:00"
+     "quando": "2026-11-29T21:30:00-03:00"
     },
     {
      "video_id": "XwpnJaFxWSk",
      "titulo": "Tem item proibido na cápsula do tempo do Subnautica, e os jogadores burlam um deles",
-     "quando": "2026-11-29T21:30:00-03:00"
+     "quando": "2026-11-30T21:30:00-03:00"
     },
     {
      "video_id": "aiHu__LRO7U",
      "titulo": "Esse cara construiu o Wakemaker do Subnautica 2 de verdade",
-     "quando": "2026-11-30T21:30:00-03:00"
+     "quando": "2026-12-01T21:30:00-03:00"
     },
     {
      "video_id": "5VryqAW8h-4",
      "titulo": "Esses caras estão construindo o Batmóvel na vida real",
-     "quando": "2026-12-01T21:30:00-03:00"
+     "quando": "2026-12-02T21:30:00-03:00"
     },
     {
      "video_id": "_YCpqe5Uxuc",
      "titulo": "Esse cara tá tentando transformar um PS2 quebrado num portátil",
-     "quando": "2026-12-02T21:30:00-03:00"
+     "quando": "2026-12-03T21:30:00-03:00"
     },
     {
      "video_id": "F7HiSnCGUi0",
      "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e eles são de papelão",
-     "quando": "2026-12-03T21:30:00-03:00"
+     "quando": "2026-12-04T21:30:00-03:00"
     },
     {
      "video_id": "gRnOqCtgnA0",
      "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #shorts",
-     "quando": "2026-12-04T21:30:00-03:00"
-    },
-    {
-     "video_id": "s_TWIGeMQWc",
-     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
      "quando": "2026-12-05T21:30:00-03:00"
     },
     {
@@ -97,19 +92,24 @@
      "quando": "2026-12-06T21:30:00-03:00"
     },
     {
+     "video_id": "s_TWIGeMQWc",
+     "titulo": "Pokémon x Marshmello: os lendários lutaram no telão no meio do show #shorts",
+     "quando": "2026-12-07T21:30:00-03:00"
+    },
+    {
      "video_id": "8TO6GuNGHNo",
      "titulo": "Ele tenta fazer a teia do Homem-Aranha há 13 anos, e agora ela gruda no teto e aguenta o peso dele",
-     "quando": "2026-12-07T21:30:00-03:00"
+     "quando": "2026-12-08T21:30:00-03:00"
     },
     {
      "video_id": "Stm2pYvz-yE",
      "titulo": "E se o RAGNARÖK fosse real? ⚡🐍",
-     "quando": "2026-12-08T21:30:00-03:00"
+     "quando": "2026-12-09T21:30:00-03:00"
     },
     {
-     "video_id": "nlNDHXyED70",
-     "titulo": "O jogo de estratégia mais jogado da Steam mudou em 2026",
-     "quando": "2026-12-09T21:30:00-03:00"
+     "video_id": "ov_w_YyWk90",
+     "titulo": "Ele imprimiu um Mewtwo de 2 metros, e o boneco tinha que ficar de pé sozinho",
+     "quando": "2026-12-10T21:30:00-03:00"
     }
    ],
    "proximos_da_fila": [
@@ -133,14 +133,19 @@
    "cadencia": "toda quinta 20h",
    "na_fila": 67,
    "ultimo_post": "2026-11-18",
-   "dias_parado": 8,
-   "parado": false,
+   "dias_parado": 9,
+   "parado": true,
    "agendados": [],
    "previstos": [
     {
      "video_id": "fmRy7htiKf8",
      "titulo": "Fizeram o traje de FNAF que esmaga quem veste, e testaram num boneco de 3 mil dólares",
      "quando": "2026-12-03T20:00:00-03:00"
+    },
+    {
+     "video_id": "lybLU6Q9xV8",
+     "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares",
+     "quando": "2026-12-10T20:00:00-03:00"
     }
    ],
    "proximos_da_fila": [
