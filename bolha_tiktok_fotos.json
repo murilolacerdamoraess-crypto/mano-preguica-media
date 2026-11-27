@@ -696,6 +696,10 @@
 {
 "t": 1795785209,
 "v": 266
+},
+{
+"t": 1795807513,
+"v": 266
 }
 ],
 "views": 266
@@ -1035,7 +1039,7 @@
 "v": 431
 }
 ],
-"views": 4496
+"views": 4509
 },
 "7693291794297015604": {
 "titulo": "o alien muda de forma dependendo de quem ele usou #alien #xenomorfo #...",
@@ -1877,7 +1881,7 @@
 "v": 44800
 }
 ],
-"views": 51800
+"views": 51900
 },
 "7698487251658968340": {
 "titulo": "esse cara tá tentando ser o homem-aranha com tecnologia de lagartixa ...",
@@ -3874,7 +3878,7 @@
 "v": 5996
 }
 ],
-"views": 7208
+"views": 7210
 },
 "7705167284339264786": {
 "titulo": "O REAPER SEMPRE TE OLHOU 😨 #subnautica #games #jogos #curiosidades",
@@ -4201,7 +4205,7 @@
 "v": 3567
 }
 ],
-"views": 4028
+"views": 4029
 },
 "7705537843451497748": {
 "titulo": "Esse cara fez o machado do Kratos na vida real e quebra até tijolo #g...",
@@ -4372,7 +4376,7 @@
 "v": 298
 }
 ],
-"views": 403
+"views": 404
 },
 "7705908946741120274": {
 "titulo": "Esse cara tinha um cartucho do Mario que valia mais de 10 mil dólares...",
@@ -6167,7 +6171,7 @@
 "v": 3975
 }
 ],
-"views": 4058
+"views": 4061
 },
 "7709248906328100116": {
 "titulo": "Fizeram o traje do Homem-Aranha com os 4 braços do Doutor Octopus, e ...",
@@ -6998,9 +7002,13 @@
 {
 "t": 1795800216,
 "v": 141
+},
+{
+"t": 1795807513,
+"v": 148
 }
 ],
-"views": 141
+"views": 148
 }
 }
 }
