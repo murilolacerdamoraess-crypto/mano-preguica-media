@@ -1,6 +1,6 @@
 {
  "_leia": "Gerado por scripts/bolha_tiktok.py (Sextante). O painel mostra na tela Resultado e em /bolha.",
- "gerado_em": "2026-11-28T15:15-03:00",
+ "gerado_em": "2026-11-28T17:18-03:00",
  "pedido": "Furar a bolha no TikTok: achar fora do Subnautica o que performa tão bem quanto ele (Murilo, 14/10/2026).",
  "como_ler": [
   "Cada teste é medido no mesmo prazo: 48 horas e 7 dias depois de publicar. O que vale pro veredito é o de 7 dias.",
@@ -17,7 +17,7 @@
    "como": "mediana dos 12 últimos TikToks fora do teste, em views com 48h"
   },
   "7d": {
-   "valor": 627,
+   "valor": 284,
    "n": 12,
    "provisoria": false,
    "como": "mediana dos 12 últimos TikToks fora do teste, em views com 7d"
@@ -121,7 +121,7 @@
      "tiktok_id": "7696260761991105800",
      "link": "https://www.tiktok.com/@manopreguica/video/7696260761991105800",
      "publicado": "13/10 18:02",
-     "horas_no_ar": 1101,
+     "horas_no_ar": 1103,
      "titulo_tiktok": "os jogos de terror mais jogados da steam de 2015 até hoje, mês a mês ...",
      "agora": {
       "views": 266,
@@ -140,8 +140,8 @@
      "7d": {
       "views": 238,
       "como": "estimado entre duas leituras",
-      "regua": 627,
-      "x": 0.38,
+      "regua": 284,
+      "x": 0.84,
       "faixa": "não pegou"
      }
     },
