@@ -3134,6 +3134,14 @@
    "prazo": ""
   },
   {
+   "tipo": "28/11 04h31 rotina do banco, automático",
+   "titulo": "**FALHOU a cópia de segurança diária do banco do painel: a cópia ou a prova de restauração não passou (pg_dump: detail: Query was: SELECT oid, lomowner, lomacl, acldefault('L', lomowner) AS acldefault FROM pg_largeobject_metadata ORDER BY lomowner, lomacl::pg_cat).** Quem resolve: Lente (não é tarefa de navegador; aviso aqui pra ninguém perder). Log em ~/.canal-agente/banco/rotina.log.",
+   "etapa": "",
+   "responsavel": "",
+   "falta_murilo": "",
+   "prazo": ""
+  },
+  {
    "tipo": "22/11 23h40 Periscópio, pedido da Tesoura",
    "titulo": "**FEITO ATÉ O LIMITE: BATERIA NA LAVA #31/#77 (principal) VIRA RASCUNHO PRIVADO `cYnwSHC7Bok`, FALTAM OS CLIQUES DO MURILO (p297: Adequação + Programar sex 27/11 18:00).** https://youtube.com/shorts/cYnwSHC7Bok. Arquivo v2 md5 4c65b619 (Crivo), portão de áudio APROVADO (-14,0 LUFS), título `Por que a bateria do submarino sumia tão rápido na lava do Subnautica?`, descrição do Anzol + linha de crédito dos 4 canais (Breathtaker, The Last Bacon, BlitzandChitzGaming, NizNaz TV; a trilha do acervo não pede), tags, Jogos/Subnautica, IA Não (voz real), promoção Não, 3 toggles off, playlist VIDEOS CURTOS, capa Flow 4 sem palavra (CAPA OK, diferença 4,1), relacionado = longo 'Ele fez uma arma pra enfrentar todos os leviatãs do Subnautica sem veículo' (o mesmo dos outros Shorts de Subnautica da semana; a Lente pode trocar), 7 produtos (R36S, Reaper, Gargantuan, Quest 3S, chaveiro ACMDSTORE, Switch Subnautica+Below Zero, Ghost; sem o power bank, que não está na lista; o Studio reordena sozinho (\"posicionamento ajustado automaticamente\"), então o chaveiro não ficou em 1º como pedia o T14). Aba aberta na Adequação no navegador do perfil mano, janela na frente. Jogo salvo como \"Subnautica\" (a sugestão não mostrou chip; persistiu depois de recarregar). Depois do clique: ledger e leitura do relacionado.",
    "etapa": "",
@@ -4729,5 +4737,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-27T15:44-03:00"
+ "gerado_em": "2026-11-28T08:52-03:00"
 }
