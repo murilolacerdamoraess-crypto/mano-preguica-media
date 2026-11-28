@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-27T17:22:50.454662-03:00",
+ "gerado_em": "2026-11-27T21:23:09.024496-03:00",
  "mes": {
   "postados": 13,
   "teto": 93,
@@ -10,7 +10,7 @@
    "ativo": false,
    "manual": true,
    "cadencia": "manual (Metricool)",
-   "na_fila": 34,
+   "na_fila": 35,
    "ultimo_post": "2026-11-20",
    "dias_parado": 7,
    "parado": true,
@@ -35,7 +35,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "todo dia 21h30",
-   "na_fila": 29,
+   "na_fila": 30,
    "ultimo_post": "2026-11-18",
    "dias_parado": 9,
    "parado": true,
@@ -67,13 +67,13 @@
      "quando": "2026-12-01T21:30:00-03:00"
     },
     {
-     "video_id": "5VryqAW8h-4",
-     "titulo": "Esses caras estão construindo o Batmóvel na vida real",
+     "video_id": "iBX2dFYIcJk",
+     "titulo": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
      "quando": "2026-12-02T21:30:00-03:00"
     },
     {
-     "video_id": "iBX2dFYIcJk",
-     "titulo": "Pokémon chegou ao Subnautica, ou pelo menos foi o que esse cara tentou",
+     "video_id": "5VryqAW8h-4",
+     "titulo": "Esses caras estão construindo o Batmóvel na vida real",
      "quando": "2026-12-03T21:30:00-03:00"
     },
     {
@@ -131,7 +131,7 @@
    "ativo": true,
    "manual": false,
    "cadencia": "toda quinta 20h",
-   "na_fila": 67,
+   "na_fila": 68,
    "ultimo_post": "2026-11-18",
    "dias_parado": 9,
    "parado": true,
