@@ -916,24 +916,64 @@
  ],
  "equipe": [
   {
-   "nome": "Produto",
-   "funcao": "Nazus Produto"
+   "nome": "Sonar",
+   "funcao": "Descoberta de pautas"
   },
   {
-   "nome": "UX e UI",
-   "funcao": "Nazus UX e UI"
+   "nome": "Farol",
+   "funcao": "Vídeos longos"
   },
   {
-   "nome": "Dev pedir-e-barra",
-   "funcao": "Nazus Dev"
+   "nome": "Arpão",
+   "funcao": "Shorts"
   },
   {
-   "nome": "Dev robo-e-consertos",
-   "funcao": "Nazus Dev"
+   "nome": "Anzol",
+   "funcao": "Embalagem"
   },
   {
-   "nome": "Dev listas-e-telas",
-   "funcao": "Nazus Dev"
+   "nome": "Âncora",
+   "funcao": "Vitrine"
+  },
+  {
+   "nome": "Leme",
+   "funcao": "Publicação MP2"
+  },
+  {
+   "nome": "Sextante",
+   "funcao": "Análise"
+  },
+  {
+   "nome": "Lente",
+   "funcao": "Direção de produção"
+  },
+  {
+   "nome": "Periscópio",
+   "funcao": "Publicação e navegador"
+  },
+  {
+   "nome": "Tarrafa",
+   "funcao": "Shorts"
+  },
+  {
+   "nome": "Tesoura",
+   "funcao": "Edição de vídeo"
+  },
+  {
+   "nome": "Crivo",
+   "funcao": "Qualidade"
+  },
+  {
+   "nome": "Prumo",
+   "funcao": "Aprendizado dos ajustes"
+  },
+  {
+   "nome": "Bússola",
+   "funcao": "Metas e plano"
+  },
+  {
+   "nome": "Maré",
+   "funcao": "Canal IA (teste dos 30)"
   }
  ],
  "backlog": [
@@ -4737,5 +4777,5 @@
    "status": "aberta"
   }
  ],
- "gerado_em": "2026-11-28T14:54-03:00"
+ "gerado_em": "2026-11-28T15:54-03:00"
 }
